@@ -1,7 +1,7 @@
 # Slayer variables (Beta, 2026-10-20)
 
 Source: `pan-VarPlayer.txt` (names) + the plugin's var sniffer log
-(`D:\Downloads\slayer-helper-log.txt`). The plugin reads vars **by name**
+(copied from the plugin's Persistent DB log). The plugin reads vars **by name**
 (`var.VarPlayer["NAME"]`); ids are listed only for reference.
 
 Status: **confirmed** = seen changing in game as expected;
