@@ -1,0 +1,207 @@
+{{External|os}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Haunted Mine
+|version2 = Dominion Tower
+|version3 = Rumble Mode
+|name = Treus Dayth
+|image = [[File:Treus Dayth.png]]
+|release1 = [[21 December]] [[2004]]
+|release2 = [[1 November]] [[2011]]
+|release3 = [[8 December]] [[2014]]
+|update1 = The Haunted Mine
+|update2 = Dominion Tower
+|update3 = Snowverload & Dominion Tower Rumble Mode
+|members = Yes
+|options = Attack, Examine
+|race = Ghosts
+|examine = Eeek! A big ghost!
+|level1 = 63
+|level2 = 70
+|level3 = 70
+|lifepoints1 = 9450
+|lifepoints2 = 7500
+|lifepoints3 = 7500
+|experience1 = 472.5
+|experience2 = 375.0
+|experience3 = 375.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 76
+|slayxp2 = 
+|slayxp3 = 
+|slayercat = Ghosts, Undead
+|max_melee1 = 432
+|max_melee2 = 480
+|max_melee3 = 480
+|max_ranged1 = 432
+|max_ranged2 = 480
+|max_ranged3 = 480
+|max_magic1 = 432
+|max_magic2 = 480
+|max_magic3 = 480
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack1 = 45
+|attack2 = 50
+|attack3 = 50
+|ranged1 = 45
+|ranged2 = 50
+|ranged3 = 50
+|magic1 = 45
+|magic2 = 50
+|magic3 = 50
+|necromancy = 1
+|acc_melee1 = 732
+|acc_melee2 = 850
+|acc_melee3 = 850
+|acc_ranged1 = 732
+|acc_ranged2 = 850
+|acc_ranged3 = 850
+|acc_magic1 = 732
+|acc_magic2 = 850
+|acc_magic3 = 850
+|acc_necromancy = 0
+|abilities = 
+|armour = 732
+|defence1 = 45
+|defence2 = 50
+|defence3 = 50
+|weakness = None
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = Yes
+|immune_to_drain = 
+|restriction1 = quest
+|restriction2 = minigame
+|restriction3 = minigame
+|id1 = 1540
+|id2 = 14489
+|id3 = 17314
+|leagueRegion1 = Morytania
+|leagueRegion2 = Desert
+|leagueRegion3 = Desert
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = Haunted Mine
+|version2 = Dominion Tower (1)
+|version3 = Dominion Tower (2)
+|name1 = Ghost
+|name2 = Treus Dayth
+|name3 = Ghost
+|image = [[File:Ghost (Treus Dayth).png]]
+|release1 = [[21 December]] [[2004]]
+|release2 = [[1 November]] [[2011]]
+|release3 = [[1 November]] [[2011]]
+|update1 = The Haunted Mine
+|update2 = Dominion Tower
+|update3 = Dominion Tower
+|level1 = 45
+|level2 = N/A
+|level3 = 90
+|members = Yes
+|race = Ghosts
+|quest1 = [[Haunted Mine]]
+|quest2 = No
+|quest3 = No
+|location1 = [[Abandoned Mine]]
+|location2 = [[Dominion Tower]]
+|location3 = [[Dominion Tower]]
+|gender = Male
+|options = Examine
+|examine = Eeek! A ghost!
+|examine3 = Eeek! A big ghost!
+|map = No
+|id1 = 1541
+|id2 = 14488
+|id3 = 14490
+|leagueRegion1 = Morytania
+|leagueRegion2 = Desert
+|leagueRegion3 = Desert
+}}
+}}
+[[File:Treus Dayth chathead.png|left|100px]]
+'''Treus Dayth''' is the undead guardian of the [[salve shard]]s deep inside the [[Mort Ridge Mine]]s as well as the boss monster in the [[Haunted Mine]] [[Quests|quest]]. He has the power to possess objects around him and send them hurtling towards players. He is summoned when the player attempts to pick up the [[Innocent-looking key]].
+
+He attacks with melee if you are in melee range; he also uses these three environment attacks that can hit over 700 in typeless damage:
+*'''[[Loading crane]]''' - When you step in a square around a possessed crane, it will take a snap out of the player.
+*'''[[Mine cart (Abandoned Mine, animated)|Mine cart]]''' - When a player steps on a cart track, a mine cart will be sent tumbling after them. This hits every game tick.
+*'''[[Possessed pickaxe]]''' - If the player is not near any other obstacle, Treus Dayth will simply conjure up pickaxes and launch them at the player.
+If at any time you need to recharge your health, you can exit the door you entered the room by, and heal. Dayth's health will stay as you left it.
+
+==Treus Dayth's imprisonment==
+[[Lowerniel Drakan|Lord Drakan]] had the abandoned mine destroyed after the holy [[River Salve]] started to seep into the lower shaft of the mine. Although most of the water was tainted by the land's twisted soil, some remained pure and retained Saradomin's blessing. Purple crystals were growing in the mine and absorbed the blessing. When exposed to the unholy creatures of the land, the crystals would severely weaken or even kill them. To prevent the crystals from falling into the hands of Saradominists, Drakan then imprisoned Treus Dayth, who was one of his followers, to guard the crystals on the lowest level. Even after Treus Dayth died, his tortured soul continued to serve as the mine's guardian.
+
+The crystals are known to players as the [[Salve amulet]] or [[Salve amulet (e)]].
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLineGhosts}}
+{{DropsTableBottom}}
+
+==Strategy==
+[[File:Fighting Treus Dayth.png|thumb|left|Fighting Treus Dayth.]]
+Treus Dayth has a nasty habit of teleporting in spots where the machinery can hit you. All that needs to be done is look where he is standing, and carefully walk around equipment to get to him. It is recommended to use Magic to kill him, as his affinity to Magic is considerably higher than to Melee or Ranged. Switching to Legacy combat mode may help lower leveled players.
+{{Clear|left}}
+==Dominion Tower==
+Treus Dayth is fight-able as a class G boss monster in the [[Dominion Tower]] minigame if the player has completed [[Haunted Mine]].
+
+At the tower, Treus Dayth is much easier to defeat. There is no heavy equipment that will attack you, and he will only have three [[animated pickaxes]] to help him. The pickaxes do not have to be killed or even fought at all to win the fight.
+
+In some matches, Treus Dayth will be close enough to melee. He will occasionally fade away but soon reappear next to you and is easily killed.
+
+In other matches, Treus Dayth will constantly flee from you, appearing along the sides of arena.
+
+Ranged attacks are an effective way to deal with Treus Dayth.
+
+Treus Dayth is partially immune to monster stun, as he can vanish while stunned and later reappear after the stun effect period has ended.
+
+When re-appearing, in the short time it takes, a right click on him will have an option to examine a Level: 95 Ghost.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Update:Combat Update & Thok's Smashing Buffs- This Week In RuneScape|date=4 March 2024}}
+** Increased the base hit chance of all the following bosses to use the standard base hit chances.
+** Increased the life points of the boss: Treus Dayth - Haunted Mine
+*** HP: 5000 -> 9450
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=ninja|update=Patch Notes (22 August 2016)|date=22 August 2016}}
+** Reduced the chance of Treus Dayth teleporting during combat.
+
+* {{UL|type=ninja|update=Patch Notes (8 February 2016)|date=8 February 2016}}
+** Treus Dayth (Haunted Mine) had his lifepoints and max hits increased. The crane and the pickaxe now deal more damage as well.
+
+* {{UL|type=patch|update=Patch Notes (2 April 2013)|date=2 April 2013}}
+** Treus Dayth will no longer teleport so much in Dominion Tower.
+
+* {{UL|type=update|update=The Haunted Mine|date=21 December 2004}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Haunted Mine}}
+{{Ghost}}
+{{Dominion Tower}}
+[[Category:Bosses]]
+[[Category:Unique monsters]]
+[[Category:Quest monsters]]
+[[Category:Guards]]
+[[Category:Deceased characters]]

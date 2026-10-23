@@ -1,0 +1,292 @@
+{{otheruses|the ice trolls of the Troll Country|elsewhere located ice trolls|Ice troll (disambiguation)}}
+{{Dgvariant}}
+{{External|os}}
+{{Infobox Monster
+|version1 = Troll tunnels (1)
+|version2 = Troll tunnels (2)
+|version3 = Troll tunnels (3)
+|version4 = Troll tunnels (4)
+|version5 = Troll tunnels (5)
+|version6 = Troll tunnels (6)
+|version7 = Troll tunnels (7)
+|version8 = Ice Path (1)
+|version9 = Ice Path (2)
+|version10 = Ice Path (3)
+|version11 = Ice Path (4)
+|version12 = Ice Path (5)
+|version13 = Ice Path (6)
+|version14 = Ice Path (7)
+|name1 = Ice Troll
+|name2 = Ice Troll
+|name3 = Ice Troll
+|name4 = Ice Troll
+|name5 = Ice Troll
+|name6 = Ice Troll
+|name7 = Ice Troll
+|name8 = Ice troll
+|name9 = Ice troll
+|name10 = Ice troll
+|name11 = Ice troll
+|name12 = Ice troll
+|name13 = Ice troll
+|name14 = Ice troll
+|image1 = [[File:Ice troll.png]]
+|image2 = [[File:Ice troll (2).png]]
+|image3 = [[File:Ice troll (3).png]]
+|image4 = [[File:Ice troll (4).png]]
+|image5 = [[File:Ice troll (5).png]]
+|image6 = [[File:Ice troll (6).png]]
+|image7 = [[File:Ice troll (7).png]]
+|image8 = [[File:Ice troll.png]]
+|image9 = [[File:Ice troll (2).png]]
+|image10 = [[File:Ice troll (3).png]]
+|image11 = [[File:Ice troll (4).png]]
+|image12 = [[File:Ice troll (5).png]]
+|image13 = [[File:Ice troll (6).png]]
+|image14 = [[File:Ice troll (7).png]]
+|release1 = [[5 January]] [[2005]]
+|release2 = [[5 January]] [[2005]]
+|release3 = [[5 January]] [[2005]]
+|release4 = [[5 January]] [[2005]]
+|release5 = [[5 January]] [[2005]]
+|release6 = [[5 January]] [[2005]]
+|release7 = [[5 January]] [[2005]]
+|release8 = [[18 April]] [[2005]]
+|release9 = [[18 April]] [[2005]]
+|release10 = [[18 April]] [[2005]]
+|release11 = [[18 April]] [[2005]]
+|release12 = [[18 April]] [[2005]]
+|release13 = [[18 April]] [[2005]]
+|release14 = [[18 April]] [[2005]]
+|update1 = Troll Romance, Banks and Chat
+|update2 = Troll Romance, Banks and Chat
+|update3 = Troll Romance, Banks and Chat
+|update4 = Troll Romance, Banks and Chat
+|update5 = Troll Romance, Banks and Chat
+|update6 = Troll Romance, Banks and Chat
+|update7 = Troll Romance, Banks and Chat
+|update8 = Desert Treasure
+|update9 = Desert Treasure
+|update10 = Desert Treasure
+|update11 = Desert Treasure
+|update12 = Desert Treasure
+|update13 = Desert Treasure
+|update14 = Desert Treasure
+|members = Yes
+|options = Attack, Examine
+|race = 
+|examine = Brrrrr...he must be cold!
+|level = 84
+|lifepoints = 10500
+|experience = 525
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 210
+|slayercat = Trolls
+|max_melee = 1200
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 60
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1032
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 1132
+|defence = 60
+|weakness = Fire
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|id1 = 1560
+|id2 = 1561
+|id3 = 1562
+|id4 = 1563
+|id5 = 1564
+|id6 = 1565
+|id7 = 1566
+|id8 = 1936
+|id9 = 1937
+|id10 = 1938
+|id11 = 1939
+|id12 = 1940
+|id13 = 1941
+|id14 = 1942
+|leagueRegion = Asgarnia
+|leagueRegion8 = Asgarnia&Desert
+|leagueRegion9 = Asgarnia&Desert
+|leagueRegion10 = Asgarnia&Desert
+|leagueRegion11 = Asgarnia&Desert
+|leagueRegion12 = Asgarnia&Desert
+|leagueRegion13 = Asgarnia&Desert
+|leagueRegion14 = Asgarnia&Desert
+}}
+'''Ice trolls''' are monsters that are found in [[Troll tunnels]] and [[Ice Path]].
+
+Players can obtain a soul of a troll for the [[Slayer Codex]] from this creature when carrying an [[ushabti]].
+
+During the quest [[Desert Treasure]], when the player is trying to get the [[ice diamond]] from [[Kamil]]. Five or six ice trolls have to be killed to gain access to the ice cave on the eastern side.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Ice troll
+|loc = [[Troll tunnels]]
+|mem = Yes
+|mapID = 508
+|plane = 0
+|lvls = 84
+|npcid:1560,x:2775,y:10224
+|npcid:1560,x:2783,y:10199
+|npcid:1560,x:2784,y:10233
+|npcid:1561,x:2777,y:10224
+|npcid:1561,x:2784,y:10231
+|npcid:1561,x:2791,y:10222
+|npcid:1562,x:2771,y:10221
+|npcid:1562,x:2785,y:10201
+|npcid:1562,x:2787,y:10232
+|npcid:1563,x:2773,y:10220
+|npcid:1563,x:2788,y:10198
+|npcid:1563,x:2789,y:10220
+|npcid:1563,x:2800,y:10218
+|npcid:1564,x:2770,y:10219
+|npcid:1564,x:2789,y:10231
+|npcid:1564,x:2798,y:10216
+|npcid:1565,x:2787,y:10221
+|npcid:1565,x:2801,y:10216
+|npcid:1566,x:2786,y:10199
+|npcid:1566,x:2789,y:10222
+|npcid:1566,x:2799,y:10214
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|name = Ice troll
+|loc = [[Ice Path]]
+|mem = Yes
+|requirements = Partial completion of {{QuestIcon|Desert Treasure}}
+|mapID = 28
+|plane = 0
+|lvls = 84
+|npcid:1936,x:2852,y:3735
+|npcid:1936,x:2855,y:3729
+|npcid:1936,x:2861,y:3725
+|npcid:1937,x:2850,y:3732
+|npcid:1937,x:2857,y:3726
+|npcid:1937,x:2865,y:3729
+|npcid:1938,x:2849,y:3735
+|npcid:1938,x:2853,y:3731
+|npcid:1938,x:2859,y:3728
+|npcid:1939,x:2856,y:3728
+|npcid:1939,x:2862,y:3722
+|npcid:1939,x:2864,y:3723
+|npcid:1940,x:2853,y:3728
+|npcid:1940,x:2856,y:3732
+|npcid:1940,x:2863,y:3720
+|npcid:1941,x:2854,y:3725
+|npcid:1941,x:2862,y:3728
+|npcid:1941,x:2862,y:3731
+|npcid:1942,x:2855,y:3735
+|npcid:1942,x:2858,y:3730
+|npcid:1942,x:2865,y:3726
+|leagueRegion = Asgarnia&Desert
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=20|rarity=4/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=30|rarity=29/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=136|rarity=25/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=200|rarity=10/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black platebody|quantity=1|rarity=4/128}}
+{{DropsLine|name=Adamant hatchet|quantity=1|rarity=2/128}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=0.5/256}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=0.5/256}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Blood rune|quantity=2|rarity=8/128}}
+{{DropsLine|name=Blood rune|quantity=5|rarity=5/128}}
+{{DropsLine|name=Law rune|quantity=4|rarity=3/128}}
+{{DropsLine|name=Water rune|quantity=65|rarity=1/128}}
+{{DropsLine|name=Death rune|quantity=15|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|18/128}}
+{{DropsTableHead}}
+{{HerbDropTable|18/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Huge plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Large bladed rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Lobster|quantity=6 (noted)|rarity=3/128}}
+{{DropsLine|name=Raw tuna|quantity=4|rarity=2/128}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|8/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Troll Romance, Banks and Chat|date=5 January 2005}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Desert Treasure}}
+{{Trolls}}
+[[Category:Bandosians]]

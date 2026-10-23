@@ -1,0 +1,56 @@
+{{Infobox Monster
+|version1 = Regular
+|version2 = Hydra
+|name1 = Imitation lesser demon
+|name2 = Imitation lesser demon (hydra)
+|image = Imitation lesser demon.png
+|release = [[2 May]] [[2017]]
+|update = Shattered Worlds
+|members = Yes
+|options = Attack, Examine
+|race = Demon
+|examine = Lesser, but still pretty big, and kinda demony.
+|level = 1
+|lifepoints = 100
+|experience = 5.0
+|aggressive = No
+|poisonous = No
+|slayercat = Lesser demons, Demons
+|max_melee = 9
+|max_ranged = 0.0
+|max_magic = 9
+|max_necromancy = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 110
+|acc_ranged = 110
+|acc_magic = 110
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Nothing
+|susceptibility = Demon slayer
+|aff_weakness = 65
+|aff_melee = 65
+|aff_ranged = 65
+|aff_magic = 65
+|immune_to_poison = No
+|restriction = minigame
+|leagueRegion = Asgarnia
+|id1 = 24305
+|id2 = 24306
+}}
+'''Imitation lesser demons''' can be found while playing [[Shattered Worlds]]. Their levels and stats scale to the world the player finds them on. They can be killed as part of [[Lesser demons (Slayer assignment)|Lesser demons]] and [[Demons (Slayer assignment)|Demons]] Slayer tasks.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Shattered Worlds|date=2 May 2017}}
+** Added to game.
+}}
+
+{{Shattered Worlds}}

@@ -1,0 +1,106 @@
+{{External|os=Entrana firebird|rsc=Firebird}}
+{{Infobox Monster
+|name = Entranan firebird
+|image = [[File:Entranan firebird.png|200px]]
+|release = [[27 February]] [[2002]]
+|update = Latest RuneScape News (27 February 2002)
+|members = Yes
+|actions = Attack
+|examine = Probably not a chicken.
+|level = 1
+|lifepoints = 500
+|experience = 25.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6.4
+|slayercat = Birds
+|assigned_by = turael
+|max_melee = 20
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 10
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 6108
+|leagueRegion=Asgarnia}}
+The '''Entranan firebird''' is a unique [[bird]] found only on the holy isle of [[Entrana]]. As part of the [[Heroes' Quest]], players must journey to Entrana to obtain [[Entranan firebird feather|one of its feathers]], although to do so requires [[ice gloves]] as the feathers are made of flame.
+
+It can be found wandering around the northern section of Entrana, near the [[Law altar#Entrance|law ruins]].
+
+On the quest [[Perils of Ice Mountain]], the [[Oracle]] talks about the devastation of Entrana, and in this talk, she also mentions she had taken the form of a firebird, most likely referring to this.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Entrana]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:6108,x:2847,y:3386|leagueRegion=Asgarnia}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Entranan firebird feather|quantity=1|rarity=Always|gemw=no|alch=no}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Entrana firebird (2004).png|name=Entrana firebird}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Entrana firebird (2007).png|name=Entrana firebird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch||img=Entranan firebird.png|name=Entranan firebird}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (18 August 2014)|date=18 August 2014}}
+** Players can no longer use the legendary pet ‘scavenge’ ability to retrieve the fire feather from the Entrana firebird.
+
+* {{UL|type=patch|update=Patch Notes (19 May 2009)|date=19 May 2009}}
+** Added sounds to the Entrana firebird when burning and flapping.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine text has a relation to the chicken, with the chicken's being: "Yep, definitely a chicken."
+
+{{Entrana}}
+{{Heroes' Quest}}
+{{phoenix}}
+[[Category:Quest monsters]]
+[[Category:Phoenices]]

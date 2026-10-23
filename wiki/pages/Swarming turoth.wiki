@@ -1,0 +1,93 @@
+{{Infobox Monster
+|name = Swarming turoth
+|image = [[File:Swarming turoth.png|200px]]
+|release = [[5 June]] [[2008]]
+|update = Smoking Kills
+|members = Yes
+|options = Attack
+|examine = A vicious bite on a feeble body.
+|level = 60
+|lifepoints = 3600
+|experience = 180.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 55
+|slayxp = 10
+|slayercat = Turoth
+|assigned_by = Chaeldar, Sumona
+|max_melee = 840.0
+|max_ranged = 0
+|max_magic = 1
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 42
+|ranged = 1
+|magic = 0
+|necromancy = 1
+|acc_melee = 568
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 668
+|defence = 44
+|weakness = Air
+|susceptibility = Leaf-bladed
+|derived_susceptibility = No
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = quest
+|id = 1611
+|leagueRegion = Desert
+}}
+
+'''Swarming turoths''' are [[turoth]]s summoned by the [[mightiest turoth]] while battling it during the [[Desert Slayer Dungeon (miniquest)|Desert Slayer Dungeon miniquest]]. Like all turoths, they are immune to attacks not dealt by a [[leaf-bladed spear]], a [[leaf-bladed sword]], [[broad arrows]], [[broad-tipped bolts]], or the [[Slayer Dart]] spell. They are stun immune.
+
+The recommended strategy is to ignore these and concentrate on killing the mightiest turoth. Once the mightiest turoth is dead, the swarming turoths will also die.
+
+The swarming turoths will only respawn if they are killed. Be aware that these '''do''' count toward your slayer assignment if you have a turoth task, but give very little experience, so avoid killing them if you want a higher experience per task rate.
+
+==Locations==
+* The [[Pollnivneach Slayer Dungeon]], during the [[mightiest turoth]] fight only.
+{{LocTableHead}}
+{{LocLine
+|loc=[[Pollnivneach Slayer Dungeon]]
+|lvls=68
+|mem=yes
+|leagueRegion = Desert
+|mapID=22
+|npcid:1611,x:117,y:39|npcid:1611,x:116,y:30|npcid:1611,x:108,y:37
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=March Patch Week - This Week In RuneScape|date=11 March 2024}}
+** Rebalanced the minibosses in the Desert Slayer Dungeon miniquest.
+*** They all have more HP, damage, and have been cleaned up in general.
+
+* {{UL|type=update|update=Smoking Kills|date=5 June 2008}}
+** Added to game.
+}}
+
+{{Desert Slayer Dungeon (miniquest)}}
+{{Slayer monsters}}

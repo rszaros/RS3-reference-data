@@ -1,0 +1,86 @@
+{{External|os}}
+{{Infobox Monster
+|name = Angry vampyre
+|image = [[File:Angry vampyre.png|250px]]
+|release = [[4 September]] [[2006]]
+|update = Myreque Pt III - Darkness of Hallowvale
+|members = Yes
+|actions = Attack
+|examine = An enraged vampyre!
+|level = 58
+|lifepoints = 2100
+|slaylvl = 1
+|slayxp = 29.6
+|experience = 105.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Vampyres
+|assigned_by = Mazchna
+|max_melee = 168
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 42
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 668
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 668
+|defence = 42
+|weakness = Water
+|susceptibility = Vampyre Slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania
+|id = 4789,4790
+}}
+'''Angry vampyres''' are a possible result of using a dose of [[Guthix balance]] on a [[vampyre juvenile]] or [[vampyre juvinate]]. They become enraged, and attack you, but unlike normally, they can be harmed with any weapon, not just [[silver weapons|silver]]. They physically appear to be a larger version of the [[feral vampyre]]s that inhabit [[Morytania]], and they do in fact count for [[Vampyres (Slayer assignment)|Vampyres Slayer assignment]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Vampyre dust|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=2-7|rarity=1/20}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[4 September]] [[2006]]|update=Myreque Pt III - Darkness of Hallowvale|img=Angry vampyre old.png|name=Angry vampyre}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Angry vampyre.png|name=Angry vampyre}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Part II: Journey into the East!|date=28 September 2026}}
+** Added susceptibility to the [[Vampyre Slayer (ability)|Vampyre Slayer]] ability.
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Myreque Pt III - Darkness of Hallowvale|date=4 September 2006}}
+** Added to game.
+}}
+
+{{Vampyres}}
+{{Burgh de Rott}}

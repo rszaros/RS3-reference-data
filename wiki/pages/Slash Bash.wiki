@@ -1,0 +1,106 @@
+{{External|os}}
+{{Infobox Monster
+|name = Slash Bash
+|image = [[File:Slash Bash.png]]
+|release = [[17 May]] [[2005]]
+|update = Zogre Flesh Eaters
+|members = Yes
+|options = Attack
+|examine = A powerful looking Zogre.
+|level = 58
+|lifepoints = 6000
+|experience = 300.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ogres, Zombies, Undead
+|max_melee = 252
+|max_ranged = 252
+|max_magic = 252
+|max_necromancy = 0
+|max_spec = 0
+|style = melee, ranged
+|primarystyle = melee
+|speed = 6
+|attack = 42
+|ranged = 42
+|magic = 42
+|necromancy = 1
+|acc_melee = 668
+|acc_ranged = 668
+|acc_magic = 668
+|acc_necromancy = 0
+|armour = 668
+|defence = 42
+|weakness = Nothing
+|susceptibility = Brutal, Undead Slayer
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = quest
+|id = 2060
+|leagueRegion=Kandarin}}
+'''Slash Bash''' is a [[zogre]] encountered during the [[Zogre Flesh Eaters]] quest. He uses both melee and ranged attacks, but they are quite weak. He can be [[safe spot]]ted from behind the stand or a stack of bones, and then he can only attack with ranged, and would not be able to drain prayer.
+
+As with other zogres, [[brutal arrow]]s are his weakness. Other weapons and ammo will have their damage reduced by 75% (for example, up to 50 if a player normally hits up to 200). [[Necromancy]] damage is only reduced by 50%.
+
+Taking more than 5 minutes will result in Slash Bash disappearing in a puff of smoke and a message stating ''"The huge Slash Bash grows weary of your feeble attempts at combat and awaits a true challenge."''
+
+==Zogre Flesh Eaters==
+Slash Bash has a minor but important role in the [[Zogre Flesh Eaters]] quest. When the ogres find out that the zogre curse is irreversible, they decide to make their sacred burial ground in another spot. However for it to be sacred, the hero must retrieve the ancient sacred artefact that was left behind in the Zogre Caves. When the hero tries to take the artefact, Slash Bash enters and attacks them, only to be slain by the hero.
+
+==Habitat==
+Slash Bash inhabits the deepest part of the Zogre Caves underneath [[Jiggig]], the ancient chamber, a locked room where the ancient sacred artefact is kept. The room is beyond the two stone doors, and down a set of stairs; it contains several other [[Zogre]]s and [[Skogre]]s.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Ogre artefact|quantity=1|rarity=Always|gemw=no}}
+{{DropsLine|name=Ourg bones|quantity=3|rarity=Always}}
+{{DropsLine|name=Zogre bones|quantity=2|rarity=Always}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[17 May]] [[2005]]|update=Zogre Flesh Eaters|img=Slash Bash (2005).png|name=Slash Bash}}
+|{{GUL|date=|update=|img=Slash Bash.png|name=Slash Bash}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=patch|update=Patch Notes (7 March 2016)|date=7 March 2016}}
+** Slash Bash has had its combat stats rebalanced.
+
+* {{UL|type=patch|update=Patch Notes (24 November 2010)|date=24 November 2010}}
+** The disease caused by Slash Bash has been lessened so it can be healed with 4 doses of Relicym's Balm.
+
+* {{UL|type=update|update=Zogre Flesh Eaters|date=17 May 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* It was suggested in the 39th [[Postbag from the Hedge]] that Slash Bash could be an undead [[ourg]], a long dead species with only two currently living members, or just an abnormally large undead ogre.
+* Slash Bash wears the artefact you are sent to retrieve on his head, which explains why he drops it when he dies.
+
+{{Zogre Flesh Eaters}}
+{{Zombie}}
+{{Ogres}}
+[[Category:Quest monsters]]
+[[Category:Bosses]]
+[[Category:Antagonists]]
+[[Category:Unique monsters]]
+[[Category:Deceased characters]]
+[[Category:Bandosians]]

@@ -1,0 +1,200 @@
+{{otheruses|the monster|the emote|Zombie Hand (emote)}}
+{{Infobox Monster
+|name = Zombie hand
+|image = [[File:Zombiehand.png|200px]]
+|release = [[22 April]] [[2008]]
+|update = Myreque Part IV - Legacy of Seergaze
+|members = Yes
+|actions = Attack
+|examine = A giant, zombified hand. I don't think I should offer to shake hands.
+|level = 69
+|lifepoints = 9200
+|experience = 460.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 5
+|slayxp = 73.2
+|slayercat = Crawling hands, Zombies, Undead
+|max_melee = 880
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 44
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 610
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 955
+|defence = 54
+|weakness = Fire
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 7641
+|leagueRegion=Morytania}}
+[[File:Zombie hand icon.png|left]]
+'''Zombie hands''' only appear in the [[Meiyerditch tunnels]]. They can be killed instead of [[crawling Hand]]s or [[zombie]]s for [[Slayer assignments]], to gain more experience and better drops. Meiyerditch tunnels can only be accessed during and after the [[Legacy of Seergaze]] quest. [[Skeletal hand]]s, which are in the same area as zombie hands, will occasionally drop from the ceiling or come up from the ground and attack players.
+
+Zombie hands have very low defence, so players wearing a [[salve amulet]] or [[salve amulet (e)]] can kill them faster than [[Experiment]]s in [[Experiment Cave]]. 
+
+A [[cannon]] used in tandem with [[Chinchompa (item)|Chinchompas]] or [[burst spells]] can make short work of a slayer assignment. However, this is an expensive approach, and the drops barely make up for the cost of prayer potions, runes, and/or ammunition consumed.
+
+Players should use a [[Mask of Broken Fingers]] (or its helm variant [[Helm of the Dead Hand]]) to kill these, especially when on a slayer assignment, to take advantage of its benefits.
+
+Players can obtain a soul of a crawling hand for the [[Slayer Codex]] from this creature when using an [[ushabti]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Meiyerditch tunnels]]
+|requirements = Partial completion of {{QuestIcon|Legacy of Seergaze}}
+|lvls=69
+|mem=yes
+|mapID=41
+|npcid:7641,x:3607,y:9776|npcid:7641,x:3610,y:9772|npcid:7641,x:3614,y:9778
+|npcid:7641,x:3615,y:9746|npcid:7641,x:3618,y:9753|npcid:7641,x:3619,y:9748
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+===Getting there===
+* For players who have completed [[The Branches of Darkmeyer]], [[Drakan's medallion]] can teleport them to the Meiyerditch labs which connects to the dungeon.
+* Using the [[blood altar teleport]] to the [[blood altar]].
+* Travelling to the [[Abyss]], then to the [[blood rift]] and exiting the altar is a quick way to them. To avoid prayer drain, wear a [[forinthry bracelet]] or use [[prayer potions]].
+* Players with level 65 Agility (this can be boosted) can use an [[Agility#Shortcuts|Agility shortcut]] behind [[Ivandis Seergaze]]'s tomb.
+* Using blood altar [[Runecrafting Teleport Tablets]] is faster than using the Abyss and does not drain prayer, and can be obtained as a reward from the [[Great Orb Project]] activity.
+* The [[Mask of Broken Fingers]] or its [[Helm of the Dead Hand|upgraded version]] can teleport players directly to the dungeon twice per day.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black sq shield|quantity=1|rarity=96/2316}}
+{{DropsLine|name=Black kiteshield|quantity=1|rarity=86/2316}}
+{{DropsLine|name=Dark mystic gloves|quantity=1|rarity=2/2316}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Cosmic rune|quantity=3|rarity=99/2316}}
+{{DropsLine|name=Death rune|quantity=3|rarity=99/2316}}
+{{DropsLine|name=Blood rune|quantity=1|rarity=14/2316}}
+{{DropsLine|name=Dust rune|quantity=3|rarity=48/2316}}
+{{DropsLine|name=Mist rune|quantity=3|rarity=50/2316}}
+{{DropsLine|name=Smoke rune|quantity=3|rarity=53/2316}}
+{{DropsLine|name=Steam rune|quantity=3|rarity=58/2316}}
+{{DropsTableBottom}}
+
+===Jewellery===
+{{DropsTableHead}}
+{{DropsLine|name=Gold bracelet|quantity=1|rarity=99/2316}}
+{{DropsLine|name=Sapphire bracelet|quantity=1|rarity=99/2316}}
+{{DropsLine|name=Bracelet of clay|quantity=1|rarity=99/2316}}
+{{DropsLine|name=Castle wars brace (3)|quantity=1|rarity=18/2316}}
+{{DropsLine|name=Emerald bracelet|quantity=1|rarity=99/2316}}
+{{DropsLine|name=Ruby ring|quantity=1|rarity=22/2316}}
+{{DropsLine|name=Ruby bracelet|quantity=1|rarity=76/2316}}
+{{DropsLine|name=Forinthry bracelet (5)|quantity=1|rarity=34/2316}}
+{{DropsLine|name=Diamond bracelet|quantity=1|rarity=6/2316}}
+{{DropsLine|name=Diamond ring|quantity=1|rarity=4/2316}}
+{{DropsLine|name=Dragonstone bracelet|quantity=1|rarity=2/2316}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy ranarr|quantity=1|rarity=3/2316}}
+{{DropsLine|name=Grimy toadflax|quantity=1|rarity=38/2316}}
+{{DropsLine|name=Grimy kwuarm|quantity=1|rarity=10/2316}}
+{{DropsLine|name=Grimy irit|quantity=1|rarity=44/2316}}
+{{DropsLine|name=Grimy avantoe|quantity=1|rarity=46/2316}}
+{{DropsLine|name=Grimy dwarf weed|quantity=1|rarity=3/2316}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Tomato seed|quantity=3|rarity=99/2316}}
+{{DropsLine|name=Limpwurt seed|quantity=3|rarity=65/2316}}
+{{DropsLine|name=Sweetcorn seed|quantity=3|rarity=42/2316}}
+{{DropsLine|name=Whiteberry seed|quantity=1|rarity=99/2316}}
+{{DropsLine|name=Poison ivy seed|quantity=1|rarity=30/2316}}
+{{DropsLine|name=Jangerberry seed|quantity=3|rarity=56/2316}}
+{{DropsLine|name=Strawberry seed|quantity=3|rarity=62/2316}}
+{{DropsLine|name=Cave nightshade seed|quantity=3|rarity=70/2316}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Fishing bait|quantity=10|rarity=96/2316}}
+{{DropsLine|name=Steel nails|quantity=20|rarity=96/2316}}
+{{DropsLine|name=Black nails|quantity=10|rarity=96/2316}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=86/2316}}
+{{DropsLine|name=Small bladed steel salvage|quantity=1|rarity=86/2316}}
+{{DropsLine|name=Coins|quantity=750|rarity=26/2316}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Hand bone|quantity=1|rarity=Uncommon|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=no}}
+{{DropsLine|name=Crawling hand (item)|quantity=1|rarity=1/500|gemw=No}}
+{{DropsLineEffigy|level=69}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=69}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 235.145/1000
+|green = 16.796/1000
+|crimson = 16.796/1000
+|blue = 3.359/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Myreque Part IV - Legacy of Seergaze|date=22 April 2008}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{Zombie}}
+[[Category:Tier 1 luck]]

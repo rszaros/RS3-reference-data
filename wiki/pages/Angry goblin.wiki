@@ -1,0 +1,109 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = A Soul's Bane
+|version2 = Post-quest
+|name = Angry goblin
+|image = [[File:Angry goblin.png|150px]]
+|release = [[3 April]] [[2006]]
+|update = A Soul's Bane
+|members = No
+|actions = Attack
+|race = Goblin
+|examine = He looks a little on the cross side!
+|level1 = 45
+|level2 = 35
+|lifepoints = 1250
+|slaylvl = 1
+|slayxp1 = 0
+|slayxp2 = 14
+|experience = 62.5
+|aggressive = Yes
+|poisonous = No
+|slayercat1 = N/A
+|slayercat2 = Goblins
+|assigned_by1 = N/A
+|assigned_by2 = Turael, Spria
+|max_melee = 100
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 25
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 381
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 381
+|defence = 25
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison2 = No
+|immune_to_deflect2 = No
+|immune_to_stun2 = No
+|immune_to_drain2 = No
+|restriction1 = quest
+|restriction2 = surface
+|id1 = 3648
+|id2 = 3663
+|leagueRegion = Misthalin
+}}
+'''Angry goblins''' are [[monster]]s that appear during [[A Soul's Bane]], or afterwards, in [[Tolna's rift]].
+
+During the quest, they can only be killed with the [[anger battleaxe]]. After the quest, they can be fought with any weapon and will count towards a [[Goblins (Slayer assignment)|goblins Slayer assignment]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Tolna's rift]]
+|lvls=35, 45
+|mem=no
+|requirements={{QuestIcon|A Soul's Bane}} (partial)
+|mapID=4
+|npcid:3663,x:3269,y:9849
+|npcid:3663,x:3291,y:9843
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[3 April]] [[2006]]|update=A Soul's Bane|img=Angry goblin (2006).png|name=Angry goblin}}
+|{{GUL|date=[[24 April]] [[2007]]|update=Another Slice of H.A.M.|img=Angry goblin (2007).png|name=Angry goblin}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Angry goblin (2008).png|name=Angry goblin}}
+|{{GUL|date=[[17 October]] [[2012]]|update=What's Mine is Yours|img=Angry goblin.png|name=Angry goblin}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=What's Mine is Yours|date=17 October 2012}}
+** Received a graphical update along side goblin raids.
+
+* {{UL|type=update|update=Another Slice of H.A.M.|date=24 April 2007}}
+** Received a graphical update along side Another Slice of H.A.M.
+
+* {{UL|type=update|update=A Soul's Bane|date=3 April 2006}}
+** Added to game.
+}}
+
+==Trivia==
+*Although they were graphically reworked along with other monster goblins following the advent of ''RuneScape 3'', they still use older goblin sound effects when attacked.
+
+{{A Soul's Bane}}
+{{Goblins}}
+
+[[Category:Quest monsters]]
+[[Category:Bandosians]]

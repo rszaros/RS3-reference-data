@@ -1,0 +1,123 @@
+{{External|os}}
+{{Otheruses|def=no|the Temple Trekking variant|Asyn shadow (Temple Trekking)}}
+{{Infobox Monster
+|version1 = Shade
+|version2 = Shadow
+|name1 = Asyn Shade
+|name2 = Asyn Shadow
+|image1 = [[File:Asyn Shade.png|120px]]
+|image2 = [[File:Asyn Shadow.png|200px]]
+|release = [[18 October]] [[2004]]
+|update = Mortton Shades and Mage Armour
+|members = Yes
+|actions = Attack
+|examine1 = The shadowy remains of a long departed soul.
+|examine2 = A shadowy sort of entity, kind of creepy looking.
+|level = 84
+|lifepoints = 6000
+|slaylvl = 1
+|slayxp = 39
+|experience = 300.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Shades, Ghosts, Undead
+|assigned_by = Mazchna
+|max_melee = 576
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 60
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1132
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1132
+|defence = 60
+|weakness = Water
+|susceptibility = Salve, Gadderhammer, Ghost
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id1 = 1248
+|id2 = 1247
+|leagueRegion=Morytania}}
+'''Asyn Shades''' lurk behind the black door in the [[Shade Catacombs]] in [[Mort'ton]]. They initially appear as dark bluish moving shadows, known as Asyn Shadows, on the ground and then rise from the depths to attack or retaliate. Their remains can be cremated with [[Eucalyptus pyre logs|eucalyptus]], [[Yew pyre logs|yew]], or [[magic pyre logs]]. The [[salve amulet]] and [[salve amulet (e)]] work well on this shade which is very useful if shades are assigned for a [[Slayer assignment]].
+
+The player needs at least a [[black key]], which can be obtained from burning [[Riyl remains]], to gain access to the Asyn shades. Level 63 [[Firemaking]] is needed to cremate [[Asyn remains]] and get the silver key to get access to the [[Fiyr Shade]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Shade Catacombs]]
+|lvls=84
+|requirements = {{AchievementIcon|Shades of Mort'ton}} and any {{Ilink|black key|pic=Black key crimson}}
+|mem=yes
+|mapID=41
+|npcid:1247,x:3459,y:9642|npcid:1247,x:3460,y:9649|npcid:1247,x:3460,y:9656
+|npcid:1247,x:3460,y:9663|npcid:1247,x:3468,y:9652|npcid:1247,x:3469,y:9647
+|npcid:1247,x:3469,y:9659|npcid:1247,x:3470,y:9663|npcid:1247,x:3477,y:9643
+|npcid:1247,x:3477,y:9650|npcid:1247,x:3477,y:9657|npcid:1247,x:3484,y:9643
+|npcid:1247,x:3485,y:9650|npcid:1247,x:3485,y:9657|npcid:1247,x:3493,y:9653
+|npcid:1247,x:3494,y:9643|npcid:1247,x:3494,y:9658|npcid:1247,x:3494,y:9664
+|npcid:1247,x:3497,y:9649|npcid:1247,x:3498,y:9659|npcid:1247,x:3504,y:9650
+|npcid:1247,x:3504,y:9661|npcid:1247,x:3505,y:9644|npcid:1247,x:3507,y:9656
+|npcid:1247,x:3513,y:9643|npcid:1247,x:3514,y:9655|npcid:1247,x:3514,y:9661
+|npcid:1247,x:3516,y:9651|npcid:1247,x:3518,y:9643
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Asyn remains|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-11|rarity=1/20}}
+{{DropsLineGhosts|ectorarity=1000|herbrarity=1024}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (13 May 2013)|date=13 May 2013}}
+** Two lines of text concerning burning shades have been added to the [[game filter]].
+
+* {{UL|type=update|update=Mortton Shades and Mage Armour|date=18 October 2004}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Shades of Mort'ton (minigame)}}
+{{Mort'ton}}
+{{Ghost}}

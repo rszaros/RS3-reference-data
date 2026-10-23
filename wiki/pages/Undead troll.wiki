@@ -1,0 +1,606 @@
+{{Infobox Monster
+|version1 = Level 77
+|version2 = Level 81 (1)
+|version3 = Level 81 (2)
+|version4 = Level 81 (3)
+|version5 = Level 81 (4)
+|version6 = Level 81 (5)
+|version7 = Level 86 (1)
+|version8 = Level 86 (2)
+|version9 = Level 86 (3)
+|version10 = Level 95 (1)
+|version11 = Level 95 (2)
+|version12 = Level 95 (3)
+|version13 = Level 95 (4)
+|version14 = Level 95 (5)
+|version15 = Level 95 (6)
+|version16 = Level 95 (7)
+|name = Undead troll
+|image1 = [[File:Undead troll (2).png]]
+|image2 = [[File:Undead troll (4).png]]
+|image3 = [[File:Undead troll (9).png]]
+|image4 = [[File:Undead troll (10).png]]
+|image5 = [[File:Undead troll (12).png]]
+|image6 = [[File:Undead troll (13).png]]
+|image7 = [[File:Undead troll (3).png]]
+|image8 = [[File:Undead troll (5).png]]
+|image9 = [[File:Undead troll (14).png]]
+|image10 = [[File:Undead troll (1).png]]
+|image11 = [[File:Undead troll (6).png]]
+|image12 = [[File:Undead troll (7).png]]
+|image13 = [[File:Undead troll (8).png]]
+|image14 = [[File:Undead troll.png]]
+|image15 = [[File:Undead troll (15).png]]
+|image16 = [[File:Undead troll (16).png]]
+|release = [[26 November]] [[2008]]
+|update = While Guthix Sleeps
+|members = Yes
+|actions = Attack, Examine
+|race = Zombie, Troll
+|examine = Going by how trolls are named, this one's probably changed its name to 'Braiiins'.
+|leagueRegion = Asgarnia&Wilderness
+|level1 = 77
+|level2 = 81
+|level3 = 81
+|level4 = 81
+|level5 = 81
+|level6 = 81
+|level7 = 86
+|level8 = 86
+|level9 = 86
+|level10 = 95
+|level11 = 95
+|level12 = 95
+|level13 = 95
+|level14 = 95
+|level15 = 95
+|level16 = 95
+|lifepoints1 = 2750
+|lifepoints2 = 2900
+|lifepoints3 = 2900
+|lifepoints4 = 2900
+|lifepoints5 = 2900
+|lifepoints6 = 2900
+|lifepoints7 = 3100
+|lifepoints8 = 3100
+|lifepoints9 = 3100
+|lifepoints10 = 3400
+|lifepoints11 = 3400
+|lifepoints12 = 3400
+|lifepoints13 = 3400
+|lifepoints14 = 3400
+|lifepoints15 = 3400
+|lifepoints16 = 3400
+|experience1 = 137.5
+|experience2 = 145
+|experience3 = 145
+|experience4 = 145
+|experience5 = 145
+|experience6 = 145
+|experience7 = 155
+|experience8 = 155
+|experience9 = 155
+|experience10 = 170
+|experience11 = 170
+|experience12 = 170
+|experience13 = 170
+|experience14 = 170
+|experience15 = 170
+|experience16 = 170
+|aggressive = Yes
+|aggressive14 = No
+|aggressive5 = No
+|aggressive6 = No
+|aggressive9 = No
+|aggressive15 = No
+|aggressive16 = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Trolls, Zombies, Undead
+|max_melee1 = 220
+|max_melee2 = 232
+|max_melee3 = 232
+|max_melee4 = 232
+|max_melee5 = 232
+|max_melee6 = 232
+|max_melee7 = 248
+|max_melee8 = 248
+|max_melee9 = 248
+|max_melee10 = 272
+|max_melee11 = 272
+|max_melee12 = 272
+|max_melee13 = 272
+|max_melee14 = 272
+|max_melee15 = 272
+|max_melee16 = 272
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 55
+|attack2 = 58
+|attack3 = 58
+|attack4 = 58
+|attack5 = 58
+|attack6 = 58
+|attack7 = 62
+|attack8 = 62
+|attack9 = 62
+|attack10 = 68
+|attack11 = 68
+|attack12 = 68
+|attack13 = 68
+|attack14 = 68
+|attack15 = 68
+|attack16 = 68
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 983
+|acc_melee2 = 1070
+|acc_melee3 = 1070
+|acc_melee4 = 1070
+|acc_melee5 = 1070
+|acc_melee6 = 1070
+|acc_melee7 = 1197
+|acc_melee8 = 1197
+|acc_melee9 = 1197
+|acc_melee10 = 1409
+|acc_melee11 = 1409
+|acc_melee12 = 1409
+|acc_melee13 = 1409
+|acc_melee14 = 1409
+|acc_melee15 = 1409
+|acc_melee16 = 1409
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = N/A
+|armour1 = 983
+|armour2 = 1070
+|armour3 = 1070
+|armour4 = 1070
+|armour5 = 1070
+|armour6 = 1070
+|armour7 = 1197
+|armour8 = 1197
+|armour9 = 1197
+|armour10 = 1409
+|armour11 = 1409
+|armour12 = 1409
+|armour13 = 1409
+|armour14 = 1409
+|armour15 = 1409
+|armour16 = 1409
+|defence1 = 55
+|defence2 = 58
+|defence3 = 58
+|defence4 = 58
+|defence5 = 58
+|defence6 = 58
+|defence7 = 62
+|defence8 = 62
+|defence9 = 62
+|defence10 = 68
+|defence11 = 68
+|defence12 = 68
+|defence13 = 68
+|defence14 = 68
+|defence15 = 68
+|defence16 = 68
+|weakness = Air
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|id1 = 8378
+|id2 = 8380
+|id3 = 8385
+|id4 = 8386
+|id5 = 8388
+|id6 = 8389
+|id7 = 8379
+|id8 = 8381
+|id9 = 8390
+|id10 = 8377
+|id11 = 8382
+|id12 = 8383
+|id13 = 8384
+|id14 = 8387
+|id15 = 8391
+|id16 = 8392
+|dropversion1 = Low level
+|dropversion2 = Low level
+|dropversion3 = Low level
+|dropversion4 = Medium level
+|dropversion5 = Low level
+|dropversion6 = Low level
+|dropversion7 = Medium level
+|dropversion8 = Medium level
+|dropversion9 = Medium level
+|dropversion10 = High level
+|dropversion11 = High level
+|dropversion12 = High level
+|dropversion13 = Low level
+|dropversion14 = High level
+|dropversion15 = High level
+|dropversion16 = High level
+}}
+[[File:Undead mage.gif|160px|thumb|left|An undead troll being summoned by an undead mage.]]
+The '''Undead troll''' is an [[undead]] version of a troll. Being undead, they are vulnerable to the effects of a [[Salve amulet]]. They can be also killed for a [[troll]] [[slayer|slayer assignment]]. They can be found in [[Lucien's outpost]] and are mixed with [[Elite Black Knight]]s, who are aggressive unless the player is wearing [[Dagon'hai robes]] or [[Elite black armour]]. To access Lucien's outpost, you need to have at least made some progress in the [[While Guthix Sleeps]] [[quest]]. The undead trolls wielding [[pickaxes|pickaxe]]s are never aggressive, while the unarmed trolls are aggressive in the same fashion as the [[Elite Black Knight]]s.
+
+It is time consuming to get to Lucien's outpost, so few players go there to kill them. Some players on [[Trolls (Slayer assignment)|slayer assignments for 'trolls']] sometimes, for a change of pace, attack these trolls rather than [[mountain troll]]s, but [[ice troll]]s are as good for drops and easier to reach and slay.
+
+Undead trolls count as trolls for slayer assignments.
+
+==Locations==
+The undead trolls live in [[Lucien's outpost]]. To access this camp, players need to go to [[Surok Magis|Surok's]] room at the end of the [[Black Knights' Catacombs]], beneath the [[Black Knights' Fortress]]. They then need to activate the [[strange teleorb]] while having in inventory a [[death rune]] and a [[law rune]], which are consumed.
+
+{{LocTableHead}}
+{{LocLine
+|loc=[[Lucien's outpost]]
+|lvls=77, 81, 86, 95
+|mem=yes
+|mapID=28
+|requirements = Partial completion of {{QuestIcon|While Guthix Sleeps}}
+|npcid:8379,x:2906,y:3808|npcid:8380,x:2907,y:3806|npcid:8383,x:2908,y:3809
+|npcid:8381,x:2910,y:3805|npcid:8378,x:2910,y:3808|npcid:8377,x:2910,y:3810
+|npcid:8382,x:2912,y:3812|npcid:8383,x:2919,y:3823|npcid:8386,x:2921,y:3824
+|npcid:8384,x:2922,y:3827|npcid:8382,x:2923,y:3823|npcid:8385,x:2924,y:3825
+|npcid:8387,x:2934,y:3786|npcid:8390,x:2935,y:3781|npcid:8388,x:2935,y:3784
+|npcid:8391,x:2937,y:3780|npcid:8389,x:2937,y:3785|npcid:8392,x:2938,y:3782
+|npcid:8392,x:2938,y:3831|npcid:8390,x:2939,y:3829|npcid:8388,x:2940,y:3827
+|npcid:8391,x:2940,y:3833
+|leagueRegion=Asgarnia&Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops (low level)==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Undead troll#Low level}}
+
+===100%===
+{{DropsTableHead|version=Low level}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDropTable|quantity=1|gold=47.989/1000|green=23.994/1000|crimson=23.994/1000|blue=33.592/1000|version=Low level}}
+
+===Weapons===
+{{DropsTableHead|version=Low level}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=1/128}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead|version=Low level}}
+{{DropsLine|name=Earth rune|quantity=10-29|rarity=2/128}}
+{{DropsLine|name=Nature rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Blood rune|quantity=2|rarity=4/128}}
+{{DropsLine|name=Mithril arrow|quantity=3|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|33/128}}
+{{DropsTableHead|version=Low level}}
+{{HerbDropTable|33/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|10/128}}
+{{DropsTableHead|version=Low level}}
+{{UncommonSeedDropTable|10/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=Low level}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium blunt adamant salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Low level}}
+{{DropsLine|name=Coins|quantity=251-300|rarity=57/128}}
+{{DropsLine|name=Pure essence|quantity=5-10 (noted)|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128|version=Low level}}
+
+===Tertiary===
+{{DropsTableHead|version=Low level}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/256|citations={{CiteGeneral|url=https://runescape.wiki/w/Undead_troll?type=revision&diff=31193464&oldid=30026012|title=Undead troll|accessdate=14 October 2020|author=Mod Shauny|date=13 January 2020|archiveurl=https://reldo.runescape.wiki/i/103184|archivedate=14 October 2020|quote=Rarity = Varies {{!}} Raritynotes = 1/256 for this item from a level 74 undead troll, 1/128 for this item from a level 100 and 125 undead troll.}}}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Drops (medium level)==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Undead troll#Medium level}}
+
+===100%===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDropTable|quantity=1|gold=47.989/1000|green=23.994/1000|crimson=23.994/1000|blue=33.592/1000|version=Medium level}}
+
+===Weapons and armour===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=1/256}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=1/256}}
+{{DropsLine|name=Granite shield|quantity=1|rarity=1/128|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Granite shield: 1/128|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Earth rune|quantity=49-99|rarity=8/128}}
+{{DropsLine|name=Cosmic rune|quantity=6|rarity=3/128}}
+{{DropsLine|name=Chaos rune|quantity=12|rarity=2/128}}
+{{DropsLine|name=Nature rune|quantity=17|rarity=5/128}}
+{{DropsLine|name=Law rune|quantity=4|rarity=3/128}}
+{{DropsLine|name=Death rune|quantity=3|rarity=1/128}}
+{{DropsLine|name=Blood rune|quantity=3|rarity=4/128}}
+{{DropsLine|name=Mithril bolts|quantity=4-5|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|25/128}}
+{{DropsTableHead|version=Medium level}}
+{{HerbDropTable|25/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Medium blunt steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny blunt mithril salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Huge plated mithril salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Tiny bladed adamant salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Coins|quantity=241-300|rarity=42/128}}
+{{DropsLine|name=Pure essence|quantity=11-15 (noted)|rarity=5/128}}
+{{DropsLine|name=Oak plank|quantity=6 (noted)|rarity=4/128}}
+{{DropsLine|name=Coal stone spirit|quantity=7|rarity=3/128}}
+{{DropsLine|name=Teak plank|quantity=3 (noted)|rarity=2/128}}
+{{DropsLine|name=Raw tuna|quantity=5 (noted)|rarity=2/128}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128|version=Medium level}}
+
+===Tertiary===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128|citations={{CiteGeneral|url=https://runescape.wiki/w/Undead_troll?type=revision&diff=31193464&oldid=30026012|title=Undead troll|accessdate=14 October 2020|author=Mod Shauny|date=13 January 2020|archiveurl=https://reldo.runescape.wiki/i/103184|archivedate=14 October 2020|quote=Rarity = Varies {{!}} Raritynotes = 1/256 for this item from a level 74 undead troll, 1/128 for this item from a level 100 and 125 undead troll.}}}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Drops (high level)==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Undead troll#High level}}
+
+===100%===
+{{DropsTableHead|version=High level}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDropTable|quantity=1|gold=47.989/1000|green=23.994/1000|crimson=23.994/1000|blue=33.592/1000|version=High level}}
+
+===Weapons and armour===
+{{DropsTableHead|version=High level}}
+{{DropsLine|name=Earth battlestaff|quantity=1|rarity=1/128}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=1/256}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=1/256}}
+{{DropsLine|name=Granite shield|quantity=1|rarity=1/128|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Granite shield: 1/128|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead|version=High level}}
+{{DropsLine|name=Earth rune|quantity=81-150|rarity=3/128}}
+{{DropsLine|name=Death rune|quantity=5|rarity=14/128}}
+{{DropsLine|name=Nature rune|quantity=17-25|rarity=1/128}}
+{{DropsLine|name=Rune bolts|quantity=12|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|5/128}}
+{{DropsTableHead|version=High level}}
+{{HerbDropTable|5/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|8/128}}
+{{DropsTableHead|version=High level}}
+{{RareSeedDropTable|8/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=High level}}
+{{DropsLine|name=Medium bladed steel salvage|quantity=1|rarity=7/128}}
+{{DropsLine|name=Huge plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny bladed adamant salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Small plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium blunt rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=High level}}
+{{DropsLine|name=Coins|quantity=200-500|rarity=62/128}}
+{{DropsLine|name=Tuna|quantity=1|rarity=3/128}}
+{{DropsLine|name=Lobster|quantity=1|rarity=3/128}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128|version=High level}}
+
+===Tertiary===
+{{DropsTableHead|version=High level}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128|citations={{CiteGeneral|url=https://runescape.wiki/w/Undead_troll?type=revision&diff=31193464&oldid=30026012|title=Undead troll|accessdate=14 October 2020|author=Mod Shauny|date=13 January 2020|archiveurl=https://reldo.runescape.wiki/i/103184|archivedate=14 October 2020|quote=Rarity = Varies {{!}} Raritynotes = 1/256 for this item from a level 74 undead troll, 1/128 for this item from a level 100 and 125 undead troll.}}}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Slayer of Chaos}}
+** [[Granite shield]] drop
+
+==Graphical updates==
+{{Switch infobox
+|text1=1
+|item1=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (1).png|name=Undead troll (1)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (1).png|name=Undead troll (1)}}
+}}
+|text2=2
+|item2=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (2).png|name=Undead troll (2)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (2).png|name=Undead troll (2)}}
+}}
+|text3=3
+|item3=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (3).png|name=Undead troll (3)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (3).png|name=Undead troll (3)}}
+}}
+|text4=4
+|item4=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (4).png|name=Undead troll (4)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (4).png|name=Undead troll (4)}}
+}}
+|text5=5
+|item5=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (5).png|name=Undead troll (5)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (5).png|name=Undead troll (5)}}
+}}
+|text6=6
+|item6=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (6).png|name=Undead troll (6)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (6).png|name=Undead troll (6)}}
+}}
+|text7=7
+|item7=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (7).png|name=Undead troll (7)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (7).png|name=Undead troll (7)}}
+}}
+|text8=8
+|item8=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (8).png|name=Undead troll (8)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (8).png|name=Undead troll (8)}}
+}}
+|text9=9
+|item9=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (9).png|name=Undead troll (9)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (9).png|name=Undead troll (9)}}
+}}
+|text10=10
+|item10=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (10).png|name=Undead troll (10)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (10).png|name=Undead troll (10)}}
+}}
+|text11=11
+|item11=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (11).png|name=Undead troll (11)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll.png|name=Undead troll (11)}}
+}}
+|text12=12
+|item12=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (12).png|name=Undead troll (12)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (12).png|name=Undead troll (12)}}
+}}
+|text13=13
+|item13=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (13).png|name=Undead troll (13)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (13).png|name=Undead troll (13)}}
+}}
+|text14=14
+|item14=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (14).png|name=Undead troll (14)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (14).png|name=Undead troll (14)}}
+}}
+|text15=15
+|item15=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (15).png|name=Undead troll (15)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (15).png|name=Undead troll (15)}}
+}}
+|text16=16
+|item16=
+{{GU|subject=NPCs
+|{{GUL|date=[[26 November]] [[2008]]|update=While Guthix Sleeps|img=Undead troll (2008) (16).png|name=Undead troll (16)}}
+|{{GUL|date=[[24 november]] [[2010]]|update=Patch Notes (24 November 2010)|img=Undead troll (16).png|name=Undead troll (16)}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=patch|update=This Week In RuneScape: Double XP LIVE & Improved Divination Training|date=4 May 2021}}
+** Fixed an issue that was preventing Undead Trolls from dropping loot, which resulted in a script error.
+
+* {{UL|type=patch|update=Patch Notes (24 November 2010)|date=24 November 2010}}
+** Undead trolls north of the God Wars Dungeon now have animations.
+
+* {{UL|type=update|update=While Guthix Sleeps|date=26 November 2008}}
+** Added to game.
+}}
+
+==Trivia==
+* Undead trolls were referred to long before being added to the game. They were first mentioned in [[Nestor Peregrine]]'s [[Explorer's notes]] found within [[Keldagrim Library]].
+* Instead of respawning, they are summoned by the [[undead mage]]s.
+* They drop regular bones unlike most trolls, which drop [[big bones]].
+* Its examine text is a combination of the cliche of zombies eating brains, and how trolls are named after the first thing they (attempt to) eat.
+* They were the first trolls to use updated graphics. Other trolls were not updated until March [[2011]].
+
+==References==
+{{Reflist}}
+
+{{Zombie}}
+{{trolls}}
+{{While Guthix Sleeps}}
+[[Category:Bandosians]]

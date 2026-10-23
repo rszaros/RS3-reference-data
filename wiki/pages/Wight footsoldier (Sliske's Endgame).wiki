@@ -1,0 +1,102 @@
+{{Infobox Monster
+|version1 = 78
+|version2 = 78 (Weak in fire)
+|version3 = 85
+|version4 = 98
+|version5 = 104
+|name = Wight footsoldier
+|image = [[File:Wight footsoldier.png|200px]]
+|release = [[19 December]] [[2016]]
+|update = Sliske's Endgame - Frostworld Part 2
+|members = Yes
+|actions = Attack, Examine
+|race = Ghost
+|examine = 
+|level1 = 78
+|level2 = 78
+|level3 = 85
+|level4 = 98
+|level5 = 104
+|lifepoints = 
+|experience = 
+|aggressive = 
+|poisonous = 
+|slaylvl = 1
+|slayxp = 
+|slayercat = Ghosts, Undead
+|max_melee1 = 192.0
+|max_melee2 = 1080.0
+|max_melee3 = 384.0
+|max_melee4 = 1008.0
+|max_melee5 = 1152.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 
+|ranged = 
+|magic = 
+|acc_melee1 = 1132
+|acc_melee2 = 1694
+|acc_melee3 = 536
+|acc_melee4 = 1486
+|acc_melee5 = 1924
+|acc_ranged = 0
+|acc_magic = 0
+|abilities = 
+|armour1 = 1486
+|armour2 = 628
+|armour3 = 454
+|armour4 = 1486
+|armour5 = 1486
+|defence = 
+|weakness = Nothing
+|weakness2 = Fire
+|weakness3 = Air
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged1 = 60
+|aff_ranged2 = 50
+|aff_ranged3 = 50
+|aff_ranged4 = 60
+|aff_ranged5 = 60
+|aff_magic1 = 60
+|aff_magic2 = 70
+|aff_magic3 = 70
+|aff_magic4 = 60
+|aff_magic5 = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id1 = 23830, 23857
+|id2 = 23902
+|id3 = 23831
+|id4 = 23904
+|id5 = 23905
+|leagueRegion=Misthalin&Desert}}
+'''Wight footsoldiers''' are undead enemies summoned by [[Sliske]] encountered during [[Sliske's Endgame]]. Several also play a role in some of the puzzles in [[Sliske's Labyrinth]], where they are carrying masks needed to complete the puzzle in the room.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Sliske's Endgame - Frostworld Part 2|date=19 December 2016}}
+** Added to game.
+}}
+
+{{Sliske's Endgame}}
+{{Wights}}
+[[Category:Sliskeans]]
+[[Category:Quest monsters]]

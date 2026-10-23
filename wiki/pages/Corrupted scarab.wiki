@@ -1,0 +1,143 @@
+{{otheruses|the corrupted variant|the soul devourer variant|Scarab akh}}
+{{Otheruses|def=no|corrupted scarabs that spawn on the streets of Menaphos|Corrupted Scarab (Menaphos)}}
+{{Infobox Monster
+|name = Corrupted scarab
+|image = [[File:Corrupted scarab.png]]
+|release = [[5 June]] [[2017]]
+|update = Menaphos - The Gates are Open
+|members = Yes
+|options = Attack
+|examine = A scarab under the control of the Devourer.
+|level = 101
+|lifepoints = 10000
+|experience = 500.0
+|aggressive = no
+|poisonous = no
+|slaylvl = 91
+|slayxp = 389
+|slayercat = Corrupted creatures, Scabarites
+|assigned_by = Morvran, Kuradal, Sumona, Laniakea
+|max_melee = 700
+|max_ranged = 700
+|max_magic = 700
+|max_necromancy = 0
+|max_spec = N/A
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 73
+|ranged = 73
+|magic = 73
+|necromancy = 1
+|acc_melee = 1608
+|acc_ranged = 1608
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1566
+|defence = 72
+|weakness = Fire
+|susceptibility = Keris, Consecrated keris
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 24593
+|leagueRegion=Desert}}
+[[File:Corrupted scarab icon.png]] The '''corrupted scarab''' is a monster that requires level 91 [[Slayer]] to damage and a [[feather of Ma'at]] to complete each kill (the [[legendary pet]] ability 'Slayer Finisher' does not work). They can be found in the [[Sophanem Slayer Dungeon]].
+
+A safe spot can be found at the east side of the northern building, behind the flat stones at its south-east corner.
+
+A cat named [[Katarina]] has a chance to spawn upon each successful kill.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Sophanem Slayer Dungeon]]
+|lvls=101
+|mem=yes
+|mapID=718
+|npcid:24593,x:3300,y:9109|npcid:24593,x:3301,y:9115|npcid:24593,x:3301,y:9123
+|npcid:24593,x:3302,y:9102|npcid:24593,x:3306,y:9116|npcid:24593,x:3308,y:9110
+|npcid:24593,x:3313,y:9120|npcid:24593,x:3314,y:9108|npcid:24593,x:3314,y:9113
+|npcid:24593,x:3314,y:9124
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}} This value assumes you are not on slayer task, have auto-loot settings on, don't have a [[vital spark drop enhancer]] or [[Sophanem slayer dungeon drop enhancer]].
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny spiky rune salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Large plated rune salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1250|rarity=46/128}}
+{{DropsLine|name=Coins|quantity=2500|rarity=26/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Uncut ruby|quantity=1|rarity=22/128}}
+{{DropsLine|name=Potato cactus|quantity=3 (noted)|rarity=12/128}}
+{{DropsLine|name=Rune arrowheads|quantity=20|rarity=10/128}}
+{{DropsLine|name=Super restore (2)|quantity=1 (noted)|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/150}}
+
+===Tertiary===
+Regardless of chest auto-loot settings, all tertiary drops, with the exception of [[vital spark]]s, are dropped to the ground.
+
+{{DropsTableHead}}
+{{DropsLineSophanemSlayerDungeonTertiary|slayer_level=91}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/256}}
+{{DropsLineEffigy|level=101}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=101}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.579/1000
+|green = 44.79/1000
+|crimson = 313.527/1000
+|blue = 8.958/1000
+}}
+
+==Money making guide==
+{{Mmgsection|Killing corrupted scarabs}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (10 July 2017)|date=10 July 2017}}
+** Slayer masters now state that corrupted creature tasks have no specific combat weakness.
+
+* {{UL|type=update|update=Menaphos - The Gates are Open|date=5 June 2017}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Sophanem Slayer Dungeon}}
+{{Slayer monsters}}
+[[Category:Amascut]]
+[[Category:Bugs]]
+[[pt:Escaravelho corrompido]]

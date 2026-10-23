@@ -1,0 +1,80 @@
+{{Incomplete|The expression doesn't cover all the possible life point variants.}}
+{{Deleted content|update=Patch Notes: Dailyscape Overhaul}}
+{{Infobox Monster
+|name = Pyrefiend
+|image = [[File:Pyrefiend (Wilderness Flash Events).png|x280px]]
+|release = [[17 October]] [[2022]]
+|update = Wilderness Flash Events - This Week In RuneScape
+|removal = [[16 March]] [[2026]]
+|removalupdate = Patch Notes: Dailyscape Overhaul
+|members = Yes
+|options = Attack, Examine
+|race = Demon
+|examine = A bit hot headed.
+|level = 109
+|lifepoints = 8000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 
+|slayxp = 105.0
+|slayercat = Pyrefiends, Demons
+|max_melee = 576
+|max_ranged = 576
+|max_magic = 1267
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 40
+|ranged = 40
+|magic = 88
+|necromancy = 1
+|acc_melee = 628
+|acc_ranged = 628
+|acc_magic = 2343
+|acc_necromancy = 0
+|armour = 1486
+|defence = 70
+|weakness = Bolts
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = removed
+|id = 29608
+|leagueRegion = No
+}}
+The '''pyrefiends''' are [[monster]]s involved in the Infernal Star: Fight event in [[Wilderness Flash Events]].
+
+A number of them continuously spawn during five minutes. The number scales with the number of players in the area. The players must kill all of them before the time runs out for the event to be considered successful, with each player requiring to have dealt 70K damage for them to receive rewards from it. The event ends once the target number of pyrefiends have been killed or the time runs out, whichever happens first. Unlike [[Pyrefiend|normal pyrefiends]], these monsters can be damaged by all players regardless of [[Slayer]] level.
+
+Their [[life points]] scale with the number of players in the area. The value can be 8,000, 62,000<!--68 group target-->, 64,250<!--70 group target-->, 66,000, 68,000, 90,000, 130,000, 140,000, 185,750, 188,000, 251,000 or 208,250. The life points scales with the number of players participating in the event, determined by the expression <math>8\,000 + 2\,250N</math>, where <math>N</math> is the number of players involved.
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch_Notes:_Dailyscape_Overhaul|date=16 March 2026}}
+** Removed from game.
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Wilderness Flash Events - This Week In RuneScape|date=17 October 2022}}
+** Added to game.
+}}
+
+{{Wilderness Flash Events}}
+{{Demons}}

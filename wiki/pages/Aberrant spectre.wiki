@@ -1,0 +1,273 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Slayer Tower
+|version2 = Pollnivneach Slayer Dungeon
+|name = Aberrant spectre
+|image = [[File:Aberrant spectre.png|200px]]
+|release1 = [[26 January]] [[2005]]
+|release2 = [[5 June]] [[2008]]
+|update1 = Slayer Skill
+|update2 = Smoking Kills
+|members = Yes
+|actions = Attack
+|examine = A very smelly ghost.
+|level1 = 72
+|level2 = 78
+|lifepoints = 6000
+|slaylvl = 60
+|slayxp1 = 109.4
+|slayxp2 = 123.2
+|experience = 300.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Aberrant spectres, Ghosts, Undead
+|max_melee1 = 0
+|max_melee2 = 168
+|max_ranged1 = 0
+|max_ranged2 = 0
+|max_magic1 = 208
+|max_magic2 = 224
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack1 = 1
+|attack2 = 42
+|ranged1 = 1
+|ranged2 = 0
+|magic1 = 52
+|magic2 = 56
+|necromancy = 1
+|acc_melee1 = 0
+|acc_melee2 = 668
+|acc_ranged = 0
+|acc_magic1 = 901
+|acc_magic2 = 1011
+|acc_necromancy = 0
+|armour1 = 901
+|armour2 = 1011
+|defence1 = 52
+|defence2 = 56
+|weakness1 = Thrown
+|weakness2 = Arrows
+|susceptibility = Salve, Ghost
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison1 = No
+|immune_to_poison2 = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 1604,1605,1606,1607
+|id2 = 7801,7802,7803,7804
+|leagueRegion1 = Morytania
+|leagueRegion2 = Desert
+}}
+[[File:Aberrant spectre icon.png|left]]
+'''Aberrant spectres''' are [[Slayer]] monsters that require level 60 Slayer to kill. They frequently drop large amounts of [[herb]]s and [[Seeds#Herbs|herb seeds]], along with the [[ghost hunter equipment]] and [[ectoplasmator]].
+
+A [[macaw]] summoning familiar can be used, as it will upgrade the tier of herb drops, but this is not especially useful given the low rate of occurrence and the chance of upgrading a herb into a less valuable result. The macaw can also produce herbs with its special move, although herbs created this way will no longer be noted (this special move does not work in the Slayer Tower). [[Herb gloves]] (a reward from the [[Fist of Guthix]] minigame) are useful for targeting specific herb drops, and thus have a much more consistent result.
+
+==Strengths and weaknesses==
+Aberrant spectres have an extremely potent stench that drains stats and life points very quickly, so they are very deadly to fight without proper protection. If fought without appropriate protection, you will be hit for heavy damage every hit, and suffer massive stat drains. An equipped [[nose peg]], [[Mask of Stench]]/[[Helm of Foulness]], or [[slayer helmet]] (or any of its upgrades) protects against the stench. A [[gas mask]] does not work for this.
+
+Not wearing the required equipment results in the following effects:
+* Inflicts damage to the player up to a maximum of 13.5% of their max [[life points]] in typeless damage.
+* Lowers [[Attack]], [[Strength]], [[Magic]], [[Ranged]], and [[Necromancy]] by 80% of their current level. At level 1, it cannot be lowered any further.
+* Lowers [[Defence]] and [[Agility]] by 40% of their current level. At level 2, it cannot be lowered any further.
+* Multiplies current [[prayer points]] and [[summoning points]] by 0.6.
+
+They are weak against either [[thrown weapons]] or [[arrows]], depending on their location – spectres in [[Morytania Slayer Tower]] are weak to thrown weapons, whereas spectres in [[Pollnivneach Slayer Dungeon]] are weak to arrows.
+
+If a tank approach is desired when killing aberrant spectres, a [[shield]] is of utmost importance, as it enables the use of defensive and healing abilities. It is possible for a player in [[Karil the Tainted's equipment]] with [[blisterwood stakes]] and a shield to stay for an extended period of time with minimal food or prayer if [[Rejuvenate]], with shield, or [[Guthix's Blessing]], without shield, is used upon filling the adrenaline bar.
+
+Another easy and fast method to kill aberrant spectres in the Slayer Tower would be to use [[blisterwood stake]]s, [[sagaie]]s, or [[dragon dart]]s with either [[off-hand dragon dart]]s or a [[dragonhide shield]] with full [[dragonhide armour]], along with the proper protection while using ranged abilities, using Rejuvenate and [[Regenerate]] as and when needed. Using this method along with [[Ava's accumulator]] will allow for extended trips with minimal loss of ammunition and food. Using [[Sacrifice]] appropriately will eliminate the need for food and any defensive abilities if you are above level 130 combat.
+
+Spectres have a short-range magical attack. Players can take advantage of this in the Slayer Tower and Pollnivneach Slayer Dungeon by luring them into an obstacle and using a weapon with a large attack range.
+
+A [[salve amulet]] or a [[salve amulet (e)]] may also prove to be useful.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Slayer Tower]] {{floornumber|2}}
+|lvls=72
+|mem=yes
+|mapID=28|plane=1
+|npcid:1604,x:3434,y:3572|npcid:1604,x:3437,y:3565|npcid:1607,x:3441,y:3572
+|npcid:1606,x:3443,y:3564|npcid:1605,x:3445,y:3550|npcid:1606,x:3445,y:3559
+|npcid:1607,x:3445,y:3569
+|leagueRegion=Morytania
+}}
+{{LocLine
+|loc=[[Pollnivneach Slayer Dungeon]]
+|lvls=78
+|mem=yes
+|mapID=22
+|npcid:7804,x:111,y:62|npcid:7801,x:115,y:58|npcid:7802,x:120,y:62
+|npcid:7802,x:128,y:52|npcid:7803,x:129,y:59|npcid:7801,x:140,y:61
+|npcid:7803,x:147,y:58|npcid:7803,x:114,y:69|npcid:7802,x:120,y:73
+|npcid:7801,x:125,y:87|npcid:7804,x:126,y:65|npcid:7804,x:126,y:78
+|npcid:7801,x:135,y:75|npcid:7803,x:135,y:81|npcid:7802,x:142,y:67
+|leagueRegion=Desert
+}}
+{{LocTableBottom}}
+
+===Morytania Slayer Tower===
+These aberrant spectres are located on the {{floornumber|2}} of the Morytania Slayer Tower, on the east side. There are gates that can be opened to get to them at the entrances to their area.
+
+There are a number of ways to reach the slayer tower. The fastest is the teleport from the [[Mask of Stench]]/[[Helm of Foulness]] to just outside the door to the spectres. A [[ring of slaying]] teleports a player directly outside the tower. Alternatively, the {{Fairycode|CKS}} [[fairy ring]], Canifis Lodestone, [[Kharyrll teleport]] or [[Portal Chamber|Kharyrll Portal]] will teleport players near-by to return. The player can also use a [[Mask of Broken Fingers]], a [[Mask of the Abyss]] or their upgraded versions to teleport to other floors of the Slayer Tower and then use the central stairs.
+
+The spectres here are weak to thrown weapons, so the best option is to use [[sagaie]]s or [[blisterwood stake]]s. Other Tier 70 ranged weapons such as [[Crystal bow]] and [[Karil's crossbow]] are also viable options, as they can always hit the spectres. If your range level isn't that high, any other weapons below 70 are fine.
+
+In addition, the spectres in the tower are in lower numbers than the Pollnivneach Slayer Dungeon and are fairly spread out, so players may need to wait for the spectres to respawn on occasion. Extra combat xp or cash is available at this location by taking a [[Slayer contract]] with [[Markus]] so many players come here to do their tasks. The contract gives an extra 22 Slayer experience per kill, regardless of whether or not you have aberrant spectres as your task. If you are interested only in faster kills it might be suggested to use other locations for a slayer task.
+
+Killing aberrant spectres at the [[Slayer Tower]] is often used as a way to make money, due to the short distance between the tower and the bank in [[Canifis]]. Fast teleport options to a bank, such as the [[ring of kinship]] or [[TokKul-Zo]], will reduce banking time further.
+
+Players who use [[Summoning familiars]] can recharge their summoning points at the obelisk on the way to the tower.
+
+===Pollnivneach Slayer Dungeon===
+These aberrant spectres are located in the [[Pollnivneach Slayer Dungeon]], in the central area of the bottom floor of the dungeon. The dungeon is accessed by descending the well in [[Pollnivneach]]. Players will need to have completed the [[Smoking Kills]] quest to access the dungeon. In the dungeon you will be subjected to harmful smoke as well as the Aberrant spectre's stench, so '''using a [[slayer helmet]] is mandatory'''. Using only the individual components of the helmet will result in almost certain death, either from the spectres' stench or the smoke in the well.
+
+The fastest access is the teleport from the [[Mask of Stench]]/[[Helm of Foulness]] to just outside the barrier to the spectres. Quick access to the dungeon can also be gained by using a [[ring of slaying]] to teleport to [[Sumona]], using [[Teleport to House (spell)|Teleport to House]] and exiting to [[Pollnivneach]], or using a [[Pollnivneach tablet]] (requires completion of the [[Love Story]] quest).
+
+These spectres are weak against arrows, so a [[crystal bow]] or [[magic longbow]] with [[broad arrows]] or above is very helpful in killing them quickly. Utilising a combat familiar would greatly speed up kills, as there is a [[small obelisk]] in the same area as the spectres.
+
+This place is more deserted than the Slayer Tower, making it an ideal option to finish a slayer task quickly and efficiently. It is recommended to use a cannon here with healing abilities such as [[Soul Split]] and [[Rejuvenate]], as protection prayers only offer 50% protection against their magic attacks.
+
+==Champion's Challenge==
+Aberrant spectres are one of the 'races' who have lesser champions in the [[Champion's Challenge]]. To fight the [[Aberrant Spectre Champion]], the player must kill aberrant spectres until one drops a [[Aberrant Spectre Champion's scroll|Champion's scroll]], a very rare drop.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Lava battlestaff|quantity=1|rarity=2/128}}
+{{DropsLine|name=Dark mystic robe bottom|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|1/496 with tier 2 [[luck]] or higher.}}}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|override=There is a 60/128 chance of rolling the [[herb drop table]]. When the drop table is rolled, there is a 44/128 chance of dropping 2 herbs and a 16/128 chance of dropping 3 herbs, leading to an average of 2.27 herbs per roll.}}
+{{DropsTableHead}}
+{{HerbDropTable|60/128|2-3|noted=yes}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Fellstalk seed|quantity=2|rarity=6/128}}
+{{DropsLine|name=Morchella mushroom spore|quantity=3|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny blunt rune salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Medium plated rune salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Snape grass|quantity=8 (noted)|rarity=16/128}}
+{{DropsLine|name=Jangerberries|quantity=2 (noted)|rarity=8/128}}
+{{DropsLine|name=Swamp tar|quantity=25|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=2500-3500|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|8/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|slayer_level=60}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128|gemw=No}}
+{{DropsLine|name=Aberrant Spectre Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Aberrant Spectre Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineGhostlyEssence|quantity=8-9, 16-18|rarity=1/256|altrarity=1/96|raritynotes={{DropNote|While on an appropriate [[Slayer assignment]], there is a 1/96 chance to drop 16–18 ghostly essence.}}}}
+{{DropsLineGhosts|ectorarity=500|herbrarity=1024}}
+{{DropsLineEffigy|level=72}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=72}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDropTable
+|quantity = 1
+|gold = 120.298/1000
+|green = 60.149/1000
+|crimson = 40.099/1000
+|blue = 48.119/1000
+}}
+
+==Products==
+{{Uses facility list|Aberrant spectre}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Slaying spectres.png|Slaying spectres in the Tower
+Aberrant spectre concept art.png|Concept art of aberrant spectres
+</gallery>
+
+==Achievements==
+* {{Achievement|Fenkenstrain's Monster}} 
+** [[Dark mystic robe bottom]] and [[lava battlestaff]] drops
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Aberrant spectre (2005).png|name=Aberrant spectre}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Aberrant spectre.png|name=Aberrant spectre}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update = New Skill: Necromancy - This Week In RuneScape}}
+** Both types of aberrant spectres now give 300 combat experience.
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes aberrant spectres.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for Aberrant Spectres.
+
+* {{UL|type=patch|update=Patch Notes (18 August 2009)|date=18 August 2009}}
+** Made aberrant spectres consistent in the [[Slayer]] level-up messages.
+
+* {{UL|type=update|update=Smoking Kills|date=5 June 2008}}
+** [[Pollnivneach Slayer Dungeon]] variant added to game.
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The name of the monster used to be spelled "Aberrant specter", but it was changed to the British -re ending in an update several years ago.
+* This monster's examine is similar to that of the [[Plague frog]]s, which is "A very smelly frog."
+* With the [[Bloom lighting effects|bloom lighting]] update on [[28 November]] [[2011]], the appearance of aberrant spectres changed for players who enabled the feature.
+* Their arrival at the [[Slayer Tower]] is mentioned in a [[Journal (Slayer Tower)|journal]] found in a bookcase near their location in the Tower.
+* As of [[1 February]] [[2018]], the highest kill count for this monster was 101,439 kills.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=http://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+** This had not increased by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=http://archive.is/Fxc11|archivedate=28 February 2020|notes=|name=}}
+
+==References==
+{{reflist}}
+
+{{Slayer monsters}}
+{{Ghost}}
+{{Slayer Tower}}
+[[pt:Monstro espectral]]
+[[Category:Tier 2 luck]]

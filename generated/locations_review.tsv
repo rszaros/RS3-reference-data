@@ -1,0 +1,965 @@
+task	task_name	page	slayer_level	combat	loc	spawns	lvls	members	mapID
+aberrant_spectres	Aberrant spectres	Aberrant spectre	60	72	Slayer Tower floor 2 [UK]	7	72	yes	28
+aberrant_spectres	Aberrant spectres	Aberrant spectre	60	72	Pollnivneach Slayer Dungeon	15	78	yes	22
+abyssal_beasts	Abyssal beasts	Abyssal beast	105	119	Senntisten Asylum	8	119	yes	738
+abyssal_beasts	Abyssal beasts	Abyssal beast	105	119	South of the hobgoblin mine	3	119	yes	
+abyssal_beasts	Abyssal beasts	Abyssal beast	105	119	Wilderness, North of the Bandit Camp	3	119	yes	
+abyssal_beasts	Abyssal beasts	Abyssal beast	105	119	South of Lava Maze (level 35-39 Wilderness)	14	119	yes	
+abyssal_beasts	Abyssal beasts	Abyssal beast	105	119	Wilderness, north-east of Lava Maze	17	119	yes	
+abyssal_lords	Abyssal lords	Abyssal lord	115	133	Senntisten Asylum	5	133	yes	738
+abyssal_lords	Abyssal lords	Abyssal lord	115	133	North of the Wilderness herb patch	6	133	yes	
+abyssal_savages	Abyssal savages	Abyssal savage	95	111	Senntisten Asylum	11	111	yes	738
+abyssal_savages	Abyssal savages	Abyssal savage	95	111	North of the Bandit Camp	8	111	yes	28
+abyssal_savages	Abyssal savages	Abyssal savage	95	111	South of the hobgoblin mine	6	111	yes	
+abyssal_savages	Abyssal savages	Abyssal savage	95	111	West of the Rogues' Castle	28	111	yes	28
+ankou	Ankou	Ankou	1	54	Stronghold of Security (fourth level)	32	54	no	24
+ankou	Ankou	Ankou	1	54	Wilderness Crater (level 28 Wilderness)	7	54	no	28
+ankou	Ankou	Ankou (elite)	1	67	Stronghold of Security (fourth level)	32	54	no	24
+ankou	Ankou	Ankou (elite)	1	67	Wilderness Crater (level 28 Wilderness)	7	54	no	28
+banshees	Banshees	Banshee	15	24	Slayer Tower floor 1 [UK]	12	24	yes	28
+banshees	Banshees	Mighty banshee	15	61	Pollnivneach Slayer Dungeon	20	61	yes	22
+bats	Bats	Albino bat	1	43	Mos Le'Harmless Caves	18	43	yes	27
+bats	Bats	Bat	1	14	Shadow Dungeon	8	14	yes	416
+bats	Bats	Bat	1	14	Abandoned Mine level 1	12	14	yes	569
+bats	Bats	Bat	1	14	Abandoned Mine level 4	6	14	yes	296
+bats	Bats	Bat	1	14	Near Paterdomus	12	14	no	28
+bats	Bats	Bat	1	14	Slayer Tower floor 1 [UK]	1	14	yes	28
+bats	Bats	Bat	1	14	Haunted Woods	13	14	yes	28
+bats	Bats	Giant bat	1	23	Brine Rat Cavern	5	23	yes	560
+bats	Bats	Giant bat	1	23	Chaos Druid Tower dungeon	5	14	yes	0
+bats	Bats	Giant bat	1	23	Coal truck mine	7	14	yes	28
+bats	Bats	Giant bat	1	23	Elvarg's lair	3	14	no	13
+bats	Bats	Giant bat	1	23	Goblin Cave	6	14	yes	0
+bats	Bats	Giant bat	1	23	Golrie's cave	3	14	yes	363
+bats	Bats	Giant bat	1	23	Grand Tree mine	4	14	yes	499
+bats	Bats	Giant bat	1	23	Abandoned Mine level 1	4	14	yes	569
+bats	Bats	Giant bat	1	23	Abandoned Mine level 4	2	14	yes	296
+bats	Bats	Giant bat	1	23	Heroes' Guild Dungeon	5	14	yes	719
+bats	Bats	Giant bat	1	23	Keep Le Faye	3	14	yes	28
+bats	Bats	Giant bat	1	23	Legends' Guild Dungeon	5	14	yes	0
+bats	Bats	Giant bat	1	23	Ogre Enclave	4	14	yes	572
+bats	Bats	Giant bat	1	23	Shadow Dungeon	1	14	yes	416
+bats	Bats	Giant bat	1	23	Taverley Dungeon	9	14	yes	17
+bats	Bats	Giant bat	1	23	Temple of Ikov	3	14	yes	509
+bats	Bats	Giant bat	1	23	Underground Pass	11	14	yes	579
+bats	Bats	Giant bat	1	23	Yanille Agility dungeon	8	14	yes	3
+bats	Bats	Warped bat	1	16	Lumbridge Catacombs	9	16	no	165
+bears	Bears	Angry bear	1	35	Tolna's rift	2	35	No	4
+bears	Bears	Bear cub	1	21	Highweald Forest	1	21	No	28
+bears	Bears	Bear cub	1	21	Southeast of Rellekka	8	21	yes	28
+bears	Bears	Black bear	1	23	Entrana	1	23	yes	28
+bears	Bears	Black bear	1	23	Feldip Hills	1	23	yes	28
+bears	Bears	Black bear	1	23	Gnome Maze	1	23	yes	28
+bears	Bears	Black bear	1	23	North of the Observatory	2	23	yes	28
+bears	Bears	Black bear	1	23	West of Barbarian Village	8	23	no	28
+bears	Bears	Black bear	1	23	West of Ice Mountain	3	23	no	28
+bears	Bears	Grizzly bear	1	32	Ardougne Zoo	2	32	yes	28
+bears	Bears	Grizzly bear	1	32	Highweald Forest	1	32	No	28
+bears	Bears	Grizzly bear	1	32	Isafdar	3	32	yes	28
+bears	Bears	Grizzly bear	1	32	Legends' Guild south-west mine	9	32	yes	28
+bears	Bears	Grizzly bear	1	32	Rellekka	2	32	yes	28
+bears	Bears	Grizzly bear	1	32	Ruins (west) (level 19 Wilderness)	2	32	no	28
+bears	Bears	Grizzly bear	1	32	South of Wilderness Crater (level 11 Wilderness)	3	32	no	28
+bears	Bears	Grizzly bear	1	32	Tree Gnome Village	2	32	yes	28
+bears	Bears	Grizzly bear	1	32	Varrock	1	32	no	28
+bears	Bears	Grizzly bear cub	1	21	Isafdar	6	21	yes	28
+beastmasters_hounds	Beastmaster's hounds	Beastmaster's hound	43	68	South of Otot	9	68	yes	682
+beastmasters_hounds	Beastmaster's hounds	Beastmaster's hound	43	68	Graveyard (Mazcab)	6	68	yes	682
+birds	Birds	Chick (monster)		1	Amberfell	1	1	Yes	
+birds	Birds	Chick (monster)		1	Blooming Burrow	5	1	no	747
+birds	Birds	Chick (monster)		1	Marigold Farm	2	1	no	
+birds	Birds	Bird	1	7	Ape Atoll	27	7	yes	28
+birds	Birds	Bird	1	7	Crash Island	5	7	yes	28
+birds	Birds	Bird	1	7	Life altar	8	7	no	-1
+birds	Birds	Chicken	1	1	Amberfell	2	1	yes	28
+birds	Birds	Chicken	1	1	Barbarian Outpost	3	1	yes	28
+birds	Birds	Chicken	1	1	Champions' Guild	5	1	no	28
+birds	Birds	Chicken	1	1	Death Plateau	4	1	yes	28
+birds	Birds	Chicken	1	1	Entrana	6	1	yes	28
+birds	Birds	Chicken	1	1	Around castle on Etceteria	4	1	yes	28
+birds	Birds	Chicken	1	1	Outside bank on Etceteria	3	1	yes	28
+birds	Birds	Chicken	1	1	Falador farm	9	1	no	28
+birds	Birds	Chicken	1	1	Farm east of the River Lum in Lumbridge	9	1	no	28
+birds	Birds	Chicken	1	1	Fred's farm in Lumbridge	8	1	no	28
+birds	Birds	Chicken	1	1	Hemenster	4	1	yes	28
+birds	Birds	Chicken	1	1	Marigold Farm	4	1	no	28
+birds	Birds	Chicken	1	1	Miscellania Castle	4	2	yes	28
+birds	Birds	Chicken	1	1	Northern Miscellania	4	1	yes	28
+birds	Birds	Chicken	1	1	Peninsula between Witchaven and East Ardougne	4	1	yes	28
+birds	Birds	Chicken	1	1	Rellekka	4	1	yes	28
+birds	Birds	Chicken	1	1	Road between Lumbridge and Varrock	1	1	no	28
+birds	Birds	Chicken	1	1	Sinclair Mansion	3	1	yes	28
+birds	Birds	Chicken	1	1	Tai Bwo Wannai	4	1	yes	28
+birds	Birds	Chicken	1	1	Taverley	6	1	no	28
+birds	Birds	Chicken	1	1	Tutorial Island	4	1	no	714
+birds	Birds	Chicken	1	1	Sunken Tutorial Island	5	1	no	689
+birds	Birds	Chicken	1	1	Tyras Camp	3	1	yes	28
+birds	Birds	Chicken	1	1	White Knights' Castle	1	1	no	28
+birds	Birds	Chicken	1	1	Zanaris	2	1	yes	1
+birds	Birds	Chompy bird	1	2	Feldip Hills	0	2	yes	
+birds	Birds	Chompy bird	1	2	Kandarin, south of Castle Wars	0	2	yes	
+birds	Birds	Drake	1	1	Falador Park	1	N/A	no	28
+birds	Birds	Drake	1	1	Seth Groats farm	1	N/A	no	28
+birds	Birds	Drake	1	1	North of Lumbridge forest	2	N/A	no	28
+birds	Birds	Duck	1	1	Tree Gnome Stronghold	6	1	yes	28
+birds	Birds	Duck	1	1	Fishing Guild	59	1	yes	28
+birds	Birds	Duck	1	1	Fisher Realm	22	1	yes	400
+birds	Birds	Duck	1	1	Falador	9	1	no	28
+birds	Birds	Duck	1	1	Falador farm	2	1	no	28
+birds	Birds	Duck	1	1	Lumbridge forest pond	5	1	no	28
+birds	Birds	Duck	1	1	River Lum	71	1	no	28
+birds	Birds	Duckling	1	1	River Lum	2	N/A	no	28
+birds	Birds	Duckling	1	1	Lumbridge forest pond	3	N/A	no	28
+birds	Birds	Duckling	1	1	Falador	4	N/A	no	28
+birds	Birds	Duckling	1	1	Tree Gnome Stronghold	1	N/A	yes	28
+birds	Birds	Duckling	1	1	Fishing Guild	5	N/A	yes	28
+birds	Birds	Duckling	1	1	Fisher Realm	3	N/A	yes	400
+birds	Birds	Entranan firebird	1	1	Entrana	1	1	yes	28
+birds	Birds	Mounted terrorbird gnome	1	46	Tree Gnome Stronghold	15	46	Yes	28
+birds	Birds	Mounted terrorbird gnome	1	46	Battlefield	6	53	Yes	28
+birds	Birds	Oomlie bird	1	89	Kharazi Jungle	32	89	yes	28
+birds	Birds	Pekin	1	1	The Arc	6	1	Yes	
+birds	Birds	Penguin (monster)	1	8	Here Be Penguins Eastern Island	26	8	Yes	28
+birds	Birds	Penguin (monster)	1	8	Here Be Penguins Western Island	8	8	Yes	28
+birds	Birds	Penguin (monster)	1	8	Ardougne Zoo	3	8	Yes	28
+birds	Birds	Pernicious parrot	1	63	Jade vine maze	10	63	yes	28
+birds	Birds	Rooster	1	3	Miscellania	2	1	Yes	28
+birds	Birds	Rooster	1	3	Rellekka	1	1	Yes	28
+birds	Birds	Rooster	1	3	Death Plateau	1	1	Yes	28
+birds	Birds	Rooster	1	3	Blooming Burrow	1	3	no	747
+birds	Birds	Rooster	1	3	Marigold Farm	1	3	no	
+birds	Birds	Seagull	1	1	Port Sarim, drops 5 feathers	6	1	no	28
+birds	Birds	Seagull	1	1	Port Sarim, drops 10 feathers	3	1	no	28
+birds	Birds	Seagull	1	1	Icyene graveyard	1	1	yes	28
+birds	Birds	Tenacious toucan	1	84	Jade vine maze floor 2 [UK]	4	84	yes	28
+birds	Birds	Tenacious toucan	1	84	Jade vine maze floor 3 [UK]	2	84	yes	28
+birds	Birds	Tenacious toucan	1	84	Jade vine maze floor 4 [UK]	3	84	yes	28
+birds	Birds	Terrorbird	1	42	Tree Gnome Stronghold	10	42	yes	28
+birds	Birds	Terrorbird	1	42	Gnome Maze	2	42	yes	28
+birds	Birds	Terrorbird	1	42	Arposandra Dungeon (curently inaccessible)	7	42	yes	436
+birds	Birds	Undead chicken	1	7	Alice's farm	6	7	yes	28
+birds	Birds	Undead chicken (New Varrock)	1	7	New Varrock	3	7	yes	677
+birds	Birds	Undead pekin	1	7	Goshima	8	7	yes	
+bloodveld	Bloodveld	Bloodveld	50	47	Slayer Tower floor 2 [UK]	7	58	yes	28
+bloodveld	Bloodveld	Bloodveld	50	47	Meiyerditch Laboratories	4	58	yes	41
+bloodveld	Bloodveld	Bloodveld (God Wars Dungeon)	50	52	God Wars Dungeon	14	92	yes	15
+bloodveld	Bloodveld	Bloodveld (Heart of Gielinor)	50	81	Heart of Gielinor	8	108	yes	693
+bloodveld	Bloodveld	Mutated bloodveld	50	81	Meiyerditch tunnels	8	81	Yes	41
+blue_dragons	Blue dragons	Baby blue dragon	1	44	Taverley Dungeon	9	44	yes	17
+blue_dragons	Blue dragons	Blue dragon	1	74	Taverley Dungeon	3	74	yes	17
+blue_dragons	Blue dragons	Blue dragon	1	74	Taverley blue dragon resource dungeon	8	74	yes	379
+blue_dragons	Blue dragons	Blue dragon	1	74	Kuradal's Dungeon (Ancient Cavern)	5	74	yes	36
+blue_dragons	Blue dragons	Blue dragon	1	74	Ogre Enclave	6	74	yes	572
+blue_dragons	Blue dragons	Blue dragon	1	74	Heroes' Guild Dungeon	1	74	yes	719
+blue_dragons	Blue dragons	Blue dragon	1	74	West of the Black Knights' Fortress (level 5 Wilderness)	13	74	No	28
+bound_skeletons	Bound skeletons	Bound skeleton	1	70	Directly north of Fort Forinthry surrounding the entrance to the crypt	13	70	yes	28
+brine_rats	Brine rats	Brine rat	47	43	Brine Rat Cavern	7	43	yes	560
+bronze_dragons	Bronze dragons	Bronze dragon	1	86	Brimhaven Dungeon	3	86	yes	13
+bronze_dragons	Bronze dragons	Bronze dragon	1	86	Chaos Tunnels	3	86	yes	23
+catablepon	Catablepon	Catablepon	1	43	Stronghold of Security (3rd level)	26	43	no	24
+cave_bugs	Cave bugs	Cave bug	7	11	Burthorpe Slayer Cave	11	6	yes	719
+cave_bugs	Cave bugs	Cave bug	7	11	Chaos Tunnels	23	6, 11	yes	23
+cave_bugs	Cave bugs	Cave bug	7	11	Dorgesh-Kaan South Dungeon	15	6, 11	yes	-1
+cave_bugs	Cave bugs	Cave bug	7	11	Lumbridge Swamp Caves	21	6	yes	31
+cave_crawlers	Cave crawlers	Cave crawler	10	24	Dorgesh-Kaan South Dungeon	5	24	yes	-1
+cave_crawlers	Cave crawlers	Cave crawler	10	24	Fremennik Slayer Dungeon	8	24	yes	5
+cave_crawlers	Cave crawlers	Cave crawler	10	24	Lumbridge Swamp Caves	3	24	yes	608
+cave_crawlers	Cave crawlers	Cave crawler (Pollnivneach Slayer Dungeon)	10	59	Pollnivneach Slayer Dungeon	31	59	yes	22
+cave_crawlers	Cave crawlers	Monstrous cave crawler	10	76	Pollnivneach Slayer Dungeon	1	76	yes	22
+cave_horrors	Cave horrors	Cave horror	58	77	Mos Le'Harmless Caves	27	77	yes	27
+cave_horrors	Cave horrors	Unspeakable horror	58	105	Mos Le'Harmless Caves	26	105	yes	27
+cave_slimes	Cave slimes	Cave slime	17	22	Dorgesh-Kaan South Dungeon	9	22	yes	-1
+cave_slimes	Cave slimes	Cave slime	17	22	Lumbridge Swamp Caves	17	22	yes	608
+cockatrice	Cockatrice	Cockatrice	25	31	Fremennik Slayer Dungeon	7	31	yes	5
+cockroaches	Cockroaches	Cockroach drone	1	4	Stronghold of Player Safety crevice	2	4	no	28
+cockroaches	Cockroaches	Cockroach drone	1	4	Stronghold of Player Safety middle level	13	4	no	9
+cockroaches	Cockroaches	Cockroach drone	1	4	Stronghold of Player Safety lower level	38	4	no	9
+cockroaches	Cockroaches	Cockroach soldier	1	70	Stronghold of Player Safety secure sector	9	70	no	9
+cockroaches	Cockroaches	Cockroach soldier	1	70	Stronghold of Player Safety middle level	6	70	no	9
+cockroaches	Cockroaches	Cockroach soldier	1	70	Stronghold of Player Safety lower level	3	70	no	9
+cockroaches	Cockroaches	Cockroach soldier	1	70	Stronghold of Player Safety upper level	4	70	no	9
+cockroaches	Cockroaches	Cockroach worker	1	30	Stronghold of Player Safety lower level	15	30	no	9
+cockroaches	Cockroaches	Cockroach worker	1	30	Stronghold of Player Safety middle level	3	30	no	9
+cockroaches	Cockroaches	Cockroach worker	1	30	Stronghold of Player Safety upper level	14	30	no	9
+cockroaches	Cockroaches	Warped cockroach	1	1	Lumbridge Catacombs	5	1	no	165
+cows	Cows	Bull (monster)		5	Marigold Farm	1	5	no	
+cows	Cows	Calf	1	1	Crafting Guild	1	1	no	28
+cows	Cows	Calf	1	1	Falador farm	3	1	no	28
+cows	Cows	Calf	1	1	Marigold Farm	2	1	no	
+cows	Cows	Calf	1	1	Mill Lane Mill	6	1	no	28
+cows	Cows	Calf	1	1	Lumbridge	4	1	no	28
+cows	Cows	Cow	1	2	Astram Farm	7	2	no	28
+cows	Cows	Cow	1	2	Crafting Guild	3	2	no	28
+cows	Cows	Cow	1	2	Falador farm	7	2	no	28
+cows	Cows	Cow	1	2	Lumbridge	15	2	no	28
+cows	Cows	Cow	1	2	Marigold Farm	4	2	no	
+cows	Cows	Cow	1	2	Mill Lane Mill	12	2	no	28
+cows	Cows	Cow	1	2	Sinclair Mansion	1	2	yes	28
+cows	Cows	Cow	1	2	Yanille	4	2	yes	28
+cows	Cows	Cow	1	2	Zanaris	3	2	yes	1
+cows	Cows	Super Cow	1	5	Astram Farm	7	2	no	28
+cows	Cows	Super Cow	1	5	Crafting Guild	3	2	no	28
+cows	Cows	Super Cow	1	5	Falador farm	7	2	no	28
+cows	Cows	Super Cow	1	5	Lumbridge	15	2	no	28
+cows	Cows	Super Cow	1	5	Marigold Farm	4	2	no	
+cows	Cows	Super Cow	1	5	Mill Lane Mill	12	2	no	28
+cows	Cows	Super Cow	1	5	Sinclair Mansion	1	2	yes	28
+cows	Cows	Super Cow	1	5	Yanille	4	2	yes	28
+cows	Cows	Super Cow	1	5	Zanaris	3	2	yes	1
+cows	Cows	Undead cow	1	2	Alice's farm	4	2	yes	28
+crawling_hands	Crawling hands	Crawling hand	5	10	Burthorpe Slayer Cave	11	6	no	719
+crawling_hands	Crawling hands	Crawling hand	5	10	Slayer Tower floor 1 [UK]	17	6, 10	yes	28
+crawling_hands	Crawling hands	Skeletal hand	5	63	Meiyerditch tunnels	6	63	yes	41
+crawling_hands	Crawling hands	Zombie hand	5	69	Meiyerditch tunnels	6	69	yes	41
+crocodiles	Crocodiles	Crocodile	1	77	North of Sophanem	28	77	yes	28
+crocodiles	Crocodiles	Crocodile	1	77	East of Sophanem	17	40	yes	28
+crocodiles	Crocodiles	Crocodile akh	111	115	Sophanem Slayer Dungeon	9	115	yes	718
+cyclopes	Cyclopes	Cyclops	1	68	Warriors' Guild	12	57, 68	no	28
+cyclopes	Cyclopes	Cyclops (Ardougne Zoo)	1	63	Ardougne Zoo	1	63	yes	28
+cyclopes	Cyclopes	Cyclops (God Wars Dungeon)	1	91	God Wars Dungeon	12	91	yes	15
+desert_lizards	Desert lizards	Desert lizard	22	30	North of Nardah	7	30	yes	28
+desert_lizards	Desert lizards	Lizard	22	40	East of Sophanem	9	40	yes	28
+desert_lizards	Desert lizards	Lizard	22	40	North of Nardah	5	40	yes	28
+desert_lizards	Desert lizards	Small lizard	22	21	Kharidian Desert north of Nardah	31	21	yes	28
+desert_lizards	Desert lizards	Corrupted lizard	94	105	Sophanem Slayer Dungeon	8	105	yes	718
+desert_strykewyrms	Desert strykewyrms	Desert strykewyrm	77	103	East of Al Kharid	12	103	yes	28
+dogs	Dogs	Guard dog	1	33	Handelmort Mansion	4	33	yes	28
+dogs	Dogs	Guard dog	1	33	McGrubor's Wood	10	33	yes	28
+dogs	Dogs	Guard dog	1	33	Brimhaven	3	33	yes	28
+dogs	Dogs	Jackal	1	49	North of Menaphos	13	49	yes	28
+dogs	Dogs	Jackal	1	49	North of Sophanem	13	49	yes	28
+dogs	Dogs	Jackal	1	49	West of Nardah	11	49	yes	28
+dogs	Dogs	Jackal	1	49	South-west of Pollnivneach	7	49	yes	28
+dogs	Dogs	Jackal	1	49	North of Nardah	11	49	yes	28
+dogs	Dogs	Shadow Hound	1	67	Shadow Dungeon	10	67	yes	416
+dogs	Dogs	Shadow Hound	1	67	Chaos Tunnels	40	67	yes	23
+dogs	Dogs	Wild dog	1	35	Brimhaven Dungeon	56	35	yes	13
+dust_devils	Dust devils	Dust devil	65	85	Chaos Tunnels	8	85	yes	23
+dust_devils	Dust devils	Dust devil	65	85	Smoke Dungeon	19	85	yes	591
+dust_devils	Dust devils	Dust devil (elite)	65	95	Chaos Tunnels	8	85	yes	23
+dust_devils	Dust devils	Dust devil (elite)	65	95	Smoke Dungeon	19	85	yes	591
+dust_devils	Dust devils	Corrupted dust devil	97	107	Sophanem Slayer Dungeon	8	107	yes	718
+earth_warriors	Earth warriors	Earth warrior	1	61	Chaos Tunnels	8	61	yes	23
+earth_warriors	Earth warriors	Earth warrior	1	61	Edgeville Dungeon	11	61	yes	31
+fetid_zombies	Fetid zombies	Fetid zombie	1	66	Near Wilderness crypt in the Wilderness to the north and west of Fort Forinthry	14	66	yes	28
+fever_spiders	Fever spiders	Fever spider	42	70	Braindeath Island	11	70	yes	19
+fire_giants	Fire giants	Fire giant	1	85	Smoke Dungeon	6	85	yes	591
+fire_giants	Fire giants	Fire giant	1	85	Chaos Tunnels	20	85	yes	23
+fire_giants	Fire giants	Fire giant	1	85	Baxtorian Falls resource dungeon	11	85	yes	376
+fire_giants	Fire giants	Fire giant	1	85	Waterfall Dungeon	11	85	yes	619
+fire_giants	Fire giants	Fire giant	1	85	Brimhaven Dungeon	13	85	yes	13
+fleshcrawlers	Fleshcrawlers	Flesh Crawler	1	26	Stronghold of Security	26	26	no	24
+frogs	Frogs	Big frog	1	18	Dorgesh-Kaan South Dungeon	13	18	yes	-1
+frogs	Frogs	Big frog	1	18	Lumbridge Swamp Caves	11	18	yes	608
+frogs	Frogs	Frog	1	67	Jade vine maze floor 2 [UK]	4	67	yes	28
+frogs	Frogs	Frog	1	67	Jade vine maze floor 3 [UK]	1	67	yes	28
+frogs	Frogs	Giant frog	1	33	Dorgesh-Kaan South Dungeon	3	33	yes	-1
+frogs	Frogs	Giant frog	1	33	Lumbridge Swamp Caves	3	33	yes	31
+frogs	Frogs	Plague frog	1	17	Sophanem	17	17	yes	28
+frogs	Frogs	Swamp frog	1	4	Lumbridge Swamp	15	4	no	28
+fungal_magi	Fungal magi	Fungal mage	1	81	Polypore Dungeon	50	81	yes	41
+fungal_magi	Fungal magi	Fungal mage	1	81	Polypore Dungeon resource dungeon	14	81	yes	41
+gelatinous_abominations	Gelatinous abominations	Gelatinous abomination	1	2	Burthorpe Slayer Cave	19	2	no	719
+ghosts	Ghosts	Death wing		77	Viyeldi caves	8	77	yes	622
+ghosts	Ghosts	Ankou	1	54	Stronghold of Security (fourth level)	32	54	no	24
+ghosts	Ghosts	Ankou	1	54	Wilderness Crater (level 28 Wilderness)	7	54	no	28
+ghosts	Ghosts	Asyn Shade	1	84	Shade Catacombs	29	84	yes	41
+ghosts	Ghosts	Fiyr Shade	1	98	Shade Catacombs	8	98	yes	41
+ghosts	Ghosts	Ghast	1	35	Mort Myre swamp	179	35	yes	28
+ghosts	Ghosts	Ghost	1	25	Death Rune Temple	17	25	Yes	149
+ghosts	Ghosts	Ghost	1	25	West Ardougne Graveyard	2	25	Yes	28
+ghosts	Ghosts	Ghost	1	25	Uzer	5	25	Yes	257
+ghosts	Ghosts	Ghost	1	25	Taverley Dungeon	14	25	Yes	17
+ghosts	Ghosts	Ghost	1	25	The Forgotten Cemetery	6	25	No	28
+ghosts	Ghosts	Ghost	1	25	Varrock Sewers	3	25	No	31
+ghosts	Ghosts	Ghost	1	25	Boneyard	6	25	No	28
+ghosts	Ghosts	Ghost	1	25	Draynor Manor floor 2 [UK]	5	25	No	28
+ghosts	Ghosts	Ghost (Melzar's Maze)	1	12	Melzar's Maze floor 2 [UK]	5	25	no	28
+ghosts	Ghosts	Ghost (Ourania Runecrafting Altar)	1	28	Ourania Runecrafting Altar	6	28	Yes	28
+ghosts	Ghosts	Ghost (Stronghold of Security)	1	46	Stronghold of Security - Sepulchre of Death	31	46	No	24
+ghosts	Ghosts	Ghostly warrior	1	61	Spirit Realm	9	61	yes	429
+ghosts	Ghosts	Loar Shade	1	58	Mort'ton	25	58	yes	28
+ghosts	Ghosts	Phrin Shade	1	67	Shade Catacombs	12	67	yes	41
+ghosts	Ghosts	Revenant cyclops	1	60	Forinthry Dungeon	1	60	no	6
+ghosts	Ghosts	Revenant dark beast	1	112	Forinthry Dungeon	1	112	no	6
+ghosts	Ghosts	Revenant demon	1	84	Forinthry Dungeon	1	84	no	6
+ghosts	Ghosts	Revenant dragon	1	126	Forinthry Dungeon	1	126	yes	6
+ghosts	Ghosts	Revenant goblin	1	22	Forinthry Dungeon	4	16-28	no	6
+ghosts	Ghosts	Revenant hellhound	1	70	Forinthry Dungeon	1	70	no	6
+ghosts	Ghosts	Revenant hobgoblin	1	44	Forinthry Dungeon	1	44	no	6
+ghosts	Ghosts	Revenant icefiend	1	37	Forinthry Dungeon	1	37	no	6
+ghosts	Ghosts	Revenant imp	1	14	Forinthry Dungeon	2	14	no	6
+ghosts	Ghosts	Revenant knight	1	119	Forinthry Dungeon	1	119	no	6
+ghosts	Ghosts	Revenant ork	1	98	Forinthry Dungeon	1	98	no	6
+ghosts	Ghosts	Revenant pyrefiend	1	40	Forinthry Dungeon	1	40	no	6
+ghosts	Ghosts	Revenant vampyre	1	47	Forinthry Dungeon	1	47	no	6
+ghosts	Ghosts	Revenant werewolf	1	53	Forinthry Dungeon	1	53	no	6
+ghosts	Ghosts	Riyl Shade	1	75	Shade Catacombs	16	75	yes	41
+ghosts	Ghosts	Shade	1	52	Stronghold of Security (4th level)	6	52	no	24
+ghosts	Ghosts	Shadow warrior	1	65	Legends' Guild Dungeon	19	65	yes	0
+ghosts	Ghosts	Spectral worshipper	1	70	Nomad's Temple	16	70	yes	387
+ghosts	Ghosts	Tormented wraith	1	42	Spirit Realm	1	42	yes	429
+ghosts	Ghosts	Tortured soul (Port Phasmatys)	1	53	Port Phasmatys	8	53	yes	28
+ghosts	Ghosts	Wight	1	108	Heart of Gielinor	4	108	yes	693
+ghosts	Ghosts	Wight ranger	1	108	Heart of Gielinor	4	108	yes	693
+ghosts	Ghosts	Banshee	15	24	Slayer Tower floor 1 [UK]	12	24	yes	28
+ghosts	Ghosts	Mighty banshee	15	61	Pollnivneach Slayer Dungeon	20	61	yes	22
+ghosts	Ghosts	Aberrant spectre	60	72	Slayer Tower floor 2 [UK]	7	72	yes	28
+ghosts	Ghosts	Aberrant spectre	60	72	Pollnivneach Slayer Dungeon	15	78	yes	22
+ghosts	Ghosts	Spiritual ranger	63	98	God Wars Dungeon	34	98	yes	15
+ghosts	Ghosts	Spiritual warrior	68	98	God Wars Dungeon	46	98	yes	15
+ghosts	Ghosts	Spiritual mage	83	98	God Wars Dungeon	46	98	yes	15
+ghosts	Ghosts	Risen ghost	85	101	Crypt north of Fort Forinthry	8	101	yes	-1
+ghosts	Ghosts	Edimmu	90	122	Edimmu resource dungeon	15	122	yes	675
+ghouls	Ghouls	Ghoul	1	50	North of Canifis	24	50	yes	28
+ghouls	Ghouls	Ravenous ghoul	1	105	Slayer Tower Mausoleum	14	105	yes	-1
+goblins	Goblins	Angry goblin	1	35	Tolna's rift	2	35, 45	no	4
+goblins	Goblins	Brokeface	1	7	Goblin Village	0	7	yes	
+goblins	Goblins	Cave goblin (monster)	1	1	Lumbridge Swamp Caves	4	1	Yes	31
+goblins	Goblins	Cave goblin guard	1	21	Dorgesh-Kaan mine	4	21	yes	607
+goblins	Goblins	Cave goblin miner	1	7	Dorgesh-Kaan mine	8	7	yes	607
+goblins	Goblins	Goblin	1	5	Observatory Dungeon	33	2, 5	yes	545
+goblins	Goblins	Goblin	1	5	Arandar	3	5	yes	28
+goblins	Goblins	Goblin	1	5	Underground Pass	12	5, 11	yes	579
+goblins	Goblins	Goblin	1	5	Tree Gnome Village	10	2, 5	yes	28
+goblins	Goblins	Goblin	1	5	West of the Fishing Guild	23	2, 5	yes	28
+goblins	Goblins	Goblin	1	5	Clock Tower Dungeon	14	5, 11	yes	0
+goblins	Goblins	Goblin	1	5	Goblin Cave	24	2, 5	yes	0
+goblins	Goblins	Goblin	1	5	Entrance to the Goblin Cave	4	2, 5	yes	28
+goblins	Goblins	Goblin	1	5	Port Sarim	12	2, 5	no	28
+goblins	Goblins	Goblin	1	5	West of Varrock	5	11	no	28
+goblins	Goblins	Goblin	1	5	Varrock Dig Site	1	11	no	28
+goblins	Goblins	Goblin	1	5	Meiyerditch tunnels	3	2, 5, 11	yes	-1
+goblins	Goblins	Goblin (Goblin Village)	1	5	Goblin Village	27	5	no	28
+goblins	Goblins	Goblin (God Wars Dungeon)	1	84	God Wars Dungeon	16	84	yes	15
+goblins	Goblins	Goblin (Lumbridge)	1	2	Draynor Village	1	2	No	28
+goblins	Goblins	Goblin (Lumbridge)	1	2	Lumbridge forest	15	2	No	28
+goblins	Goblins	Goblin (Lumbridge)	1	2	Lumbridge	30	2	No	28
+goblins	Goblins	Goblin (Stronghold of Security)	1	5	Stronghold of Security	34	5	no	24
+goblins	Goblins	Goblin guard (Observatory)	1	28	Observatory Dungeon	1	28	yes	545
+goblins	Goblins	Guard (cave goblin)	1	58	Dorgesh-Kaan	4	58	yes	26
+goblins	Goblins	Lumpnose	1	7	Goblin Village	0	7	yes	
+goblins	Goblins	Sergeant Grimspike	1	102	Bandos's Stronghold	1	102	yes	15
+goblins	Goblins	Sergeant Steelwill	1	102	Bandos's Stronghold	1	102	yes	15
+goblins	Goblins	Sergeant Strongstack	1	102	Bandos's Stronghold	1	102	yes	15
+goblins	Goblins	Skoblin	1	19	Lumbridge Catacombs	13	19	No	165
+goblins	Goblins	Stinkears	1	7	Goblin Village	0	7	yes	
+goblins	Goblins	Wormbrain	1	5	Port Sarim jail	1	5	no	28
+goraks	Goraks	Gorak	1	95	Gorak Plane	11	74	yes	355
+goraks	Goraks	Gorak (God Wars Dungeon)	1	95	God Wars Dungeon	11	95	yes	15
+greater_demon_berserkers_and_ash_lords	Greater demon berserkers and ash lords	Greater demon ash lord	1	149	Wilderness level 43-46 by Demonic Ruins	5	157	yes	
+greater_demon_berserkers_and_ash_lords	Greater demon berserkers and ash lords	Greater demon berserker	1	159	Wilderness level 43-46	4	166	yes	
+green_dragons	Green dragons	Brutal green dragon	1	105	Ancient Cavern	7	105	yes	36
+green_dragons	Green dragons	Elvarg	1	63	Elvarg's lair	1	63	No	13
+green_dragons	Green dragons	Green dragon	1	63	West of the Dark Warriors' Fortress (level 15 Wilderness)	3	63	no	28
+green_dragons	Green dragons	Green dragon	1	63	East of the Boneyard (level 24 Wilderness)	11	63	no	28
+green_dragons	Green dragons	Green dragon	1	63	Forinthry Dungeon (level 18 Wilderness)	5	63	no	6
+green_dragons	Green dragons	Green dragon	1	63	Chaos Tunnels	7	63	yes	23
+grifolapines	Grifolapines	Grifolapine	88	103	Polypore Dungeon	34	103	yes	41
+grifolapines	Grifolapines	Grifolapine	88	103	Polypore Dungeon resource dungeon	15	103	yes	41
+grifolaroos	Grifolaroos	Grifolaroo	82	107	Polypore Dungeon	47	107	yes	41
+grifolaroos	Grifolaroos	Grifolaroo	82	107	Polypore Dungeon resource dungeon	22	107	yes	41
+grotworms	Grotworms	Grotworm	1	63	Grotworm Lair	31	63	yes	43
+grotworms	Grotworms	Mature grotworm	1	98	Grotworm Lair	28	98	yes	43
+grotworms	Grotworms	Young grotworm	1	28	Grotworm Lair	36	28	No	43
+harpie_bug_swarms	Harpie bug swarms	Harpie Bug Swarm	33	63	North Karamja	13	63	yes	28
+hellhounds	Hellhounds	Hellhound	1	92	Taverley hellhound resource dungeon	12	92	yes	378
+hellhounds	Hellhounds	Hellhound	1	92	Kuradal's Dungeon	7	92	yes	-1
+hellhounds	Hellhounds	Hellhound	1	92	Witchaven Dungeon	2	92	yes	612
+hellhounds	Hellhounds	Hellhound	1	92	Taverley Dungeon	13	92	yes	17
+hellhounds	Hellhounds	Hellhound	1	92	Wilderness Crater (level 23 Wilderness)	9	92	no	
+hellhounds	Hellhounds	Hellhound	1	92	Northwest of the Flesh-hatcher Mhekarnahz resource dungeon (level 34 Wilderness)	4	105	no	
+hellhounds	Hellhounds	Hellhound	1	92	Northeast of the Eastern Ruins (level 31 Wilderness)	4	105	no	
+hellhounds	Hellhounds	Hellhound	1	92	East of the Deserted Keep (level 51 Wilderness)	14	105	no	
+hellhounds	Hellhounds	Hellhound	1	92	Lava Maze (level 43 Wilderness)	18	105	no	
+hellhounds	Hellhounds	Hellhound	1	92	Forinthry Dungeon (level 31 Wilderness)	8	92	no	596
+hellhounds	Hellhounds	Hellhound (God Wars Dungeon)	1	95	God Wars Dungeon	5	95	yes	15
+hellhounds	Hellhounds	Hellhound (Heart of Gielinor)	1	108	Heart of Gielinor	12	108	yes	693
+hellhounds	Hellhounds	Revenant hellhound	1	70	Forinthry Dungeon	1	70	no	6
+hill_giants	Hill giants	Hill giant	1	26	Edgeville Dungeon	12	26	no	31
+hill_giants	Hill giants	Hill giant	1	26	Edgeville Dungeon resource dungeon	11	26	no	374
+hill_giants	Hill giants	Hill giant	1	26	North of the Observatory	6	26	yes	28
+hill_giants	Hill giants	Hill giant	1	26	Taverley Dungeon	5	26	yes	17
+hill_giants	Hill giants	Hill giant	1	26	Tree Gnome Village	3	26	yes	28
+hill_giants	Hill giants	Hill giant	1	26	South-west of the Tree Gnome Stronghold	6	26	yes	28
+hill_giants	Hill giants	Hill giant	1	26	South-east of the Boneyard	2	26	no	28
+hill_giants	Hill giants	Hill giant	1	26	Hollow Hill	4	26	no	28
+hill_giants	Hill giants	Ivar, King of Bones	1	206	Hollow Hill, north-east part of Havenhythe	1		no	28
+hobgoblins	Hobgoblins	Hobgoblin	1	15	Waterbirth Island	2	15	yes	28
+hobgoblins	Hobgoblins	Hobgoblin	1	15	Rellekka	6	18	yes	28
+hobgoblins	Hobgoblins	Hobgoblin	1	15	Clock Tower Dungeon	2	15	yes	0
+hobgoblins	Hobgoblins	Hobgoblin	1	15	Gnome Village Dungeon	7	15	yes	502
+hobgoblins	Hobgoblins	Hobgoblin	1	15	Asgarnia Ice Dungeon	7	15, 18	no	25
+hobgoblins	Hobgoblins	Hobgoblin	1	15	Meiyerditch Laboratories	2	15, 18	yes	593
+hobgoblins	Hobgoblins	Hobgoblin	1	15	Edgeville Dungeon	5	15, 18	no	592
+hobgoblins	Hobgoblins	Hobgoblin	1	15	Crandor	5	15	no	28
+hobgoblins	Hobgoblins	Hobgoblin	1	15	Outpost	8	15, 18	yes	28
+hobgoblins	Hobgoblins	Hobgoblin	1	15	Tai Bwo Wannai	3	15	yes	28
+hobgoblins	Hobgoblins	Hobgoblin	1	15	Hobgoblin Peninsula	10	15, 18	no	28
+hobgoblins	Hobgoblins	Hobgoblin	1	15	Witchaven Dungeon	4	18	yes	612
+hobgoblins	Hobgoblins	Hobgoblin (God Wars Dungeon)	1	91	God Wars Dungeon	11	91	yes	15
+hydrix_dragons	Hydrix dragons	Hydrix dragon	101	133	Gemstone cavern	6	133	yes	-1
+hydrix_dragons	Hydrix dragons	Hydrix dragon	101	133	Wilderness (level 47) Lava Maze mine	6	133	yes	
+hydrix_dragons	Hydrix dragons	Hydrix dragon	101	133	Deep Wilderness Dungeon	4	133	yes	562
+ice_giants	Ice giants	Ice giant	1	47	Asgarnian Ice Dungeon	3	47	No	25
+ice_giants	Ice giants	Ice giant	1	47	Chaos Tunnels	16	47	yes	23
+ice_giants	Ice giants	Ice giant	1	47	Ice Queen's lair	7	47	yes	8
+ice_giants	Ice giants	Ice giant	1	47	White Wolf Mountain	4	47	yes	28
+ice_warriors	Ice warriors	Ice warrior	1	40	White Wolf Mountain	2	40	yes	28
+ice_warriors	Ice warriors	Ice warrior	1	40	Ice Queen's Lair	14	40	yes	8
+ice_warriors	Ice warriors	Ice warrior	1	40	Asgarnian Ice Dungeon	11	40	no	25
+ice_warriors	Ice warriors	Ice warrior	1	40	Chaos Tunnels	6	40	yes	23
+ice_warriors	Ice warriors	Icelord	1	42	Iceberg	4	42	yes	14
+icefiends	Icefiends	Icefiend	1	35	Ice Mountain	11	35	no	28
+icefiends	Icefiends	Icefiend (Ghorrock)	1	107	Ghorrock	24	107	yes	-1
+icefiends	Icefiends	Icefiend (God Wars Dungeon)	1	84	God Wars Dungeon	5	84	yes	15
+icefiends	Icefiends	Revenant icefiend	1	37	Forinthry Dungeon	1	37	no	6
+infernal_mages	Infernal mages	Infernal Mage	45	63	Slayer Tower floor 2 [UK]	9	63	yes	28
+infernal_mages	Infernal mages	Infernal Mage	45	63	Chaos Tunnels	14	63	yes	23
+infernal_mages	Infernal mages	Infernal Mage (elite)	45	77	Slayer Tower floor 2 [UK]	9	63	yes	28
+infernal_mages	Infernal mages	Infernal Mage (elite)	45	77	Chaos Tunnels	14	63	yes	23
+jellies	Jellies	Jelly	52	61	Fremennik Slayer Dungeon	10	61	yes	5
+jellies	Jellies	Jelly	52	61	Jhallan's resting place	9	61	yes	613
+jellies	Jellies	Jelly	52	61	Chaos Tunnels	22	61	yes	23
+jellies	Jellies	Jelly (Soul Wars)	52	63	Soul Wars	12	63	yes	28
+jungle_horrors	Jungle horrors	Jungle horror	1	48	Mos Le'Harmless	75	48	yes	28
+jungle_strykewyrms	Jungle strykewyrms	Jungle strykewyrm	73	93	Southwest of Feldip Hills	11	93	yes	28
+killerwatts	Killerwatts	Killerwatt	37	55	Killerwatt Plane	26	55	yes	179
+kurask	Kurask	Kurask	70	78	Fremennik Slayer Dungeon	5	78	yes	5
+kurask	Kurask	Kurask	70	78	Pollnivneach Slayer Dungeon	15	78	yes	22
+kurask	Kurask	Kurask minion	70	73	Pollnivneach Slayer Dungeon	3	63	yes	22
+kurask	Kurask	Kurask overlord	70	90	Pollnivneach Slayer Dungeon	1	96	yes	22
+lesser_demons	Lesser demons	Lesser demon	1	70	Karamja Volcano resource dungeon	14	70	no	375
+lesser_demons	Lesser demons	Lesser demon	1	70	Viyeldi caves	3	70	yes	437
+lesser_demons	Lesser demons	Lesser demon	1	70	Temple of Ikov dungeon	3	70	yes	509
+lesser_demons	Lesser demons	Lesser demon	1	70	Crandor	2	70	no	28
+lesser_demons	Lesser demons	Lesser demon	1	70	Crandor and Karamja Dungeon	11	70	no	13
+lesser_demons	Lesser demons	Lesser demon	1	70	Taverley Dungeon	5	70	yes	17
+lesser_demons	Lesser demons	Lesser demon	1	70	Forinthry Dungeon	8	70	no	6
+lesser_demons	Lesser demons	Lesser demon	1	70	Wilderness Crater	5	70	no	28
+lesser_demons	Lesser demons	Lesser demon	1	70	South-east of the Demonic Ruins	1	70	no	28
+lesser_demons	Lesser demons	Lesser demon (Melzar's Maze)	1	56	Melzar's Maze	1	56	no	518
+lesser_demons	Lesser demons	Lesser demon (Wizards' Tower)	1	70	Wizards' Tower (floor 2 [UK])	1	70	no	28
+lesser_demons	Lesser demons	Zakl'n Gritch	1	102	Zamorak's Fortress	1	102	yes	15
+living_rock_creatures	Living rock creatures	Living rock protector	1	92	Living Rock Caverns	27	92	yes	35
+living_rock_creatures	Living rock creatures	Living rock striker	1	92	Living Rock Caverns	22	92	yes	35
+minotaurs	Minotaurs	Minotaur	1	12	Stronghold of Security	40	12, 15	no	24
+mogres	Mogres	Mogre	32	45	Mudskipper Point, south of Port Sarim (Fairy ring: AIQ)	3	45	yes	
+molanisks	Molanisks	Molanisk	39	44	Dorgesh-Kaan South Dungeon	10	44	yes	-1
+moss_giants	Moss giants	Moss giant	1	40	Varrock Sewers resource dungeon	8	40	yes	380
+moss_giants	Moss giants	Moss giant	1	40	Pirates' Cove	10	40	yes	28
+moss_giants	Moss giants	Moss giant	1	40	West of Fishing Guild	4	40	yes	28
+moss_giants	Moss giants	Moss giant	1	40	Moss Giant Island	5	40	yes	28
+moss_giants	Moss giants	Moss giant	1	40	Crandor	3	40	no	28
+moss_giants	Moss giants	Moss giant	1	40	Brimhaven Dungeon	20	40	yes	13
+moss_giants	Moss giants	Moss giant	1	40	Varrock Sewers	4	40	no	31
+moss_giants	Moss giants	Moss giant	1	40	Chaos Tunnels	16	40	yes	23
+moss_giants	Moss giants	Moss giant (Glarial's Tomb)	1	24	Glarial's Tomb	3	24	yes	501
+mutated_zygomites	Mutated zygomites	Mutated zygomite	57	65	Zanaris (north)	5	58	Yes	1
+mutated_zygomites	Mutated zygomites	Mutated zygomite	57	65	Zanaris (south)	5	65	Yes	1
+nechryael	Nechryael	Nechryael	80	96	Slayer Tower floor 3 [UK]	6	96	yes	28
+nechryael	Nechryael	Nechryael	80	96	Slayer Tower floor 4 [UK]	5	96	yes	28
+nechryael	Nechryael	Nechryael	80	96	Chaos Tunnels	6	96	yes	23
+nechryael	Nechryael	Nechryael (Heart of Gielinor)	80	108	Heart of Gielinor	7	108	yes	693
+nechryael	Nechryael	Nechryael (elite)	80	106	Slayer Tower floor 3 [UK]	6	96	yes	28
+nechryael	Nechryael	Nechryael (elite)	80	106	Slayer Tower floor 4 [UK]	5	96	yes	28
+nechryael	Nechryael	Nechryael (elite)	80	106	Chaos Tunnels	6	96	yes	23
+ogres	Ogres	Enclave guard	1	81	Gu'Tanoth	2	81	yes	28
+ogres	Ogres	Gorad	1	53	Gu'Tanoth	1	53	yes	28
+ogres	Ogres	Ogre	1	56	Chaos Druid Tower dungeon	7	67	yes	0
+ogres	Ogres	Ogre	1	56	Clock Tower Dungeon	3	67	yes	0
+ogres	Ogres	Ogre	1	56	Combat Training Camp	8	56	yes	28
+ogres	Ogres	Ogre	1	56	Gnome Maze	1	67	yes	28
+ogres	Ogres	Ogre	1	56	Gu'Tanoth	33	67	yes	28
+ogres	Ogres	Ogre	1	56	Underground Pass	2	67	yes	579
+ogres	Ogres	Ogre	1	56	West of Yanille	14	67	yes	28
+ogres	Ogres	Ogre	1	56	Witchaven Dungeon	6	67	yes	0
+ogres	Ogres	Ogre (God Wars Dungeon)	1	86	God Wars Dungeon	3	86	yes	15
+ogres	Ogres	Ogre chieftain	1	81	Outside of Ogre Enclave	4	81	Yes	28
+ogres	Ogres	Ogre chieftain	1	81	Feldip Hills	1	81	Yes	28
+ogres	Ogres	Ogre chieftain	1	81	Ogre Enclave	6	81	Yes	572
+ogres	Ogres	Ogre shaman	1	91	Ogre Enclave	6	91	Yes	572
+ogres	Ogres	Ogress	1	58	West of Oo'glog	14	58	Yes	28
+ogres	Ogres	Ogress champion	1	67	West of Oo'glog.	7	67	Yes	28
+ogres	Ogres	Ogress warrior	1	63	West of Oo'glog	14	63	Yes	28
+ogres	Ogres	Skogre	1	56	Jiggig	4	56	yes	28
+ogres	Ogres	Skogre	1	56	Jiggig Dungeon	9	56	yes	564
+ogres	Ogres	Zogre	1	56	Jiggig ground level	7	56	yes	28
+ogres	Ogres	Zogre	1	56	Jiggig Dungeon middle level	23	56	yes	564
+ogres	Ogres	Zogre	1	56	Jiggig Dungeon bottom level	4	56	yes	-1
+ogres	Ogres	Mogre	32	45	Mudskipper Point, south of Port Sarim (Fairy ring: AIQ)	3	45	yes	
+onyx_dragons	Onyx dragons	Onyx dragon	98	126	Gemstone cavern	6	126	yes	-1
+onyx_dragons	Onyx dragons	Onyx dragon	98	126	Wilderness	8	126	yes	28
+onyx_dragons	Onyx dragons	Onyx dragon	98	126	Deep Wilderness Dungeon	2	126	yes	562
+otherworldly_beings	Otherworldly beings	Otherworldly being	1	55	Zanaris	6	55	Yes	1
+pyrefiends	Pyrefiends	Revenant pyrefiend	1	40	Forinthry Dungeon	1	40	no	6
+pyrefiends	Pyrefiends	Pyrefiend	30	38	Fremennik Slayer Dungeon	13	38	yes	5
+pyrefiends	Pyrefiends	Pyrefiend	30	38	Smoke Dungeon	23	38	yes	591
+pyrefiends	Pyrefiends	Pyrefiend (God Wars Dungeon)	30	92	God Wars Dungeon	4	92	yes	15
+pyrefiends	Pyrefiends	Pyrefiend (Soul Wars)	30	63	Soul Wars	12	63	yes	28
+rats	Rats	Angry giant rat	1	45	Tolna's rift	2	35, 45	no	4
+rats	Rats	Blessed giant rat	1	16	Underground Pass	4	16	yes	579
+rats	Rats	Crypt rat	1	70	Barrows	6	70	yes	527
+rats	Rats	Dungeon rat	1	11	Ardougne Sewers	1	18	yes	0
+rats	Rats	Dungeon rat	1	11	Clock Tower Dungeon	12	11, 18	yes	0
+rats	Rats	Dungeon rat	1	11	Goblin Cave	5	18	yes	0
+rats	Rats	Giant crypt rat	1	77	Barrows	4	77	yes	527
+rats	Rats	Giant crypt rat	1	77	Chaos Tunnels	15	77	yes	23
+rats	Rats	Giant rat	1	7	Ardougne Sewers	8	7	yes	0
+rats	Rats	Giant rat	1	7	Bandit Camp (level 17 - 24 Wilderness)	2	7	no	28
+rats	Rats	Giant rat	1	7	Edgeville Dungeon	6	7	no	31
+rats	Rats	Giant rat	1	7	Grand Tree mine	9	7	yes	499
+rats	Rats	Giant rat	1	7	Lumbridge Swamp	21	4	no	28
+rats	Rats	Giant rat	1	7	Meiyerditch tunnels	7	7	yes	-1
+rats	Rats	Giant rat	1	7	North of Varrock (level 1 - 5 Wilderness)	7	7	no	28
+rats	Rats	Giant rat	1	7	Shadow Dungeon	2	7	yes	416
+rats	Rats	Giant rat	1	7	South of Varrock	15	7	no	28
+rats	Rats	Giant rat	1	7	South-west of Port Sarim	2	7	no	28
+rats	Rats	Giant rat	1	7	Stronghold of Security	10	9	no	24
+rats	Rats	Giant rat	1	7	Gnome Maze	2	7	yes	28
+rats	Rats	Giant rat	1	7	Varrock Sewers	7	7	no	31
+rats	Rats	Rat	1	1	Abandoned Mine - Level 2	8	1	yes	294
+rats	Rats	Rat	1	1	Abandoned Mine - Level 4	3	1	yes	296
+rats	Rats	Rat	1	1	Between Edgeville and Varrock Grand Exchange	3	1	no	28
+rats	Rats	Rat	1	1	Black Knights' Base	4	1	yes	17
+rats	Rats	Rat	1	1	Black Knights' Catacombs - Level One	3	1	yes	189
+rats	Rats	Rat	1	1	Brimhaven	2	1	yes	28
+rats	Rats	Rat	1	1	Burgh de Rott	13	1	yes	28
+rats	Rats	Rat	1	1	Cabin Fever Sea battle	6	1	yes	471
+rats	Rats	Rat	1	1	Clock Tower Dungeon	26	1	yes	0
+rats	Rats	Rat	1	1	Crandor and Karamja Dungeon	2	1	no	13
+rats	Rats	Rat	1	1	Draynor Manor	2	1	no	28
+rats	Rats	Rat	1	1	Draynor Manor Dungeon	9	1	no	31
+rats	Rats	Rat	1	1	Draynor Sewers	10	1	no	31
+rats	Rats	Rat	1	1	Draynor Village	1	1	no	28
+rats	Rats	Rat	1	1	Dwarven mines	4	1	no	18
+rats	Rats	Rat	1	1	Draynor Sewers	10	1	yes	542
+rats	Rats	Rat	1	1	Edgeville Dungeon	2	1	no	31
+rats	Rats	Rat	1	1	Gertrude's house	1	1	no	28
+rats	Rats	Rat	1	1	Gnome Maze	9	1	yes	28
+rats	Rats	Rat	1	1	Goblin Cave	19	1	yes	0
+rats	Rats	Rat	1	1	Grand Tree mine	20	1	yes	499
+rats	Rats	Rat	1	1	Graveyard of Shadows - (level 19 Wilderness)	6	1	no	28
+rats	Rats	Rat	1	1	Hollow Hill	4	1	No	767
+rats	Rats	Rat	1	1	Falador farm	2	1	no	28
+rats	Rats	Rat	1	1	Fishing Guild	1	1	yes	28
+rats	Rats	Rat	1	1	Hair of the Dog shortcut	17	1	yes	41
+rats	Rats	Rat	1	1	Lumbridge	8	1	no	28
+rats	Rats	Rat	1	1	Lunar Isle	2	1	yes	28
+rats	Rats	Rat	1	1	Meiyerditch Laboratories	4	1	yes	41
+rats	Rats	Rat	1	1	Meiyerditch Myreque Hideout	2	1	yes	534
+rats	Rats	Rat	1	1	Melzar's Maze - floor 1 [UK]	2	1	no	28
+rats	Rats	Rat	1	1	Melzar's Maze - floor 2 [UK]	2	1	no	28
+rats	Rats	Rat	1	1	Melzar's Maze - floor 3 [UK]	2	1	no	28
+rats	Rats	Rat	1	1	Mos Le'Harmless - The Adventurous	3	1	yes	28
+rats	Rats	Rat	1	1	New Varrock	3	1	yes	677
+rats	Rats	Rat	1	1	Observatory Dungeon	4	1	yes	545
+rats	Rats	Rat	1	1	Pirates' Cove - Lady Zay	2	1	yes	28
+rats	Rats	Rat	1	1	Port Phasmatys - The Adventurous	3	1	yes	28
+rats	Rats	Rat	1	1	Port Sarim	5	1	no	28
+rats	Rats	Rat	1	1	Rashiliyia's Tomb	3	1	yes	573
+rats	Rats	Rat	1	1	Rat Catchers Mansion	3	1	yes	353
+rats	Rats	Rat	1	1	Rimmington	4	1	no	28
+rats	Rats	Rat	1	1	Ruins (east) - (level 26 Wilderness)	3	1	no	28
+rats	Rats	Rat	1	1	Ruins (west) (level 23 Wilderness)	4	1	no	28
+rats	Rats	Rat	1	1	Shadow Dungeon	12	1	yes	416
+rats	Rats	Rat	1	1	Sinclair Mansion	5	1	yes	28
+rats	Rats	Rat	1	1	Skavid caves	18	1	yes	503
+rats	Rats	Rat	1	1	Southern Ardougne Sewers	18	1	yes	0
+rats	Rats	Rat	1	1	South of Gu'Tanoth	3	1	yes	28
+rats	Rats	Rat	1	1	South of the Wilderness Crater (level 15 Wilderness)	3	1	no	28
+rats	Rats	Rat	1	1	Spirit Realm	3	1	yes	429
+rats	Rats	Rat	1	1	Stronghold of Security	116	1	no	24
+rats	Rats	Rat	1	1	Underground Pass	27	1	yes	579
+rats	Rats	Rat	1	1	Varrock Sewers	24	1	no	31
+rats	Rats	Rat	1	1	Waterfall Dungeon	9	1	yes	619
+rats	Rats	Rat	1	1	West Ardougne	66	1	yes	28
+rats	Rats	Rat	1	1	West of Het's Oasis	1	1	no	28
+rats	Rats	Rat	1	1	West of McGrubor's Wood	3	1	yes	28
+rats	Rats	Warped rat	1	12	Lumbridge Catacombs	5	12	no	165
+rats	Rats	Zombie rat	1	2	Melzar's Maze	5	2	no	28
+rats	Rats	Brine rat	47	43	Brine Rat Cavern	7	43	yes	560
+red_dragons	Red dragons	Baby red dragon	1	47	Brimhaven Dungeon	8	47	yes	13
+red_dragons	Red dragons	Red dragon	1	84	Red Dragon Isle (level 41 Wilderness)	4	84	no	28
+red_dragons	Red dragons	Red dragon	1	84	Brimhaven Dungeon	6	84	yes	13
+revenants	Revenants	Revenant cyclops	1	60	Forinthry Dungeon	1	60	no	6
+revenants	Revenants	Revenant dark beast	1	112	Forinthry Dungeon	1	112	no	6
+revenants	Revenants	Revenant demon	1	84	Forinthry Dungeon	1	84	no	6
+revenants	Revenants	Revenant dragon	1	126	Forinthry Dungeon	1	126	yes	6
+revenants	Revenants	Revenant goblin	1	22	Forinthry Dungeon	4	16-28	no	6
+revenants	Revenants	Revenant hellhound	1	70	Forinthry Dungeon	1	70	no	6
+revenants	Revenants	Revenant hobgoblin	1	44	Forinthry Dungeon	1	44	no	6
+revenants	Revenants	Revenant icefiend	1	37	Forinthry Dungeon	1	37	no	6
+revenants	Revenants	Revenant imp	1	14	Forinthry Dungeon	2	14	no	6
+revenants	Revenants	Revenant knight	1	119	Forinthry Dungeon	1	119	no	6
+revenants	Revenants	Revenant ork	1	98	Forinthry Dungeon	1	98	no	6
+revenants	Revenants	Revenant pyrefiend	1	40	Forinthry Dungeon	1	40	no	6
+revenants	Revenants	Revenant vampyre	1	47	Forinthry Dungeon	1	47	no	6
+revenants	Revenants	Revenant werewolf	1	53	Forinthry Dungeon	1	53	no	6
+rock_slugs	Rock slugs	Rock slug	20	28	Dorgesh-Kaan South Dungeon	4	28	yes	-1
+rock_slugs	Rock slugs	Rock slug	20	28	Fremennik Slayer Dungeon	7	28	yes	5
+rock_slugs	Rock slugs	Rock slug	20	28	Lumbridge Swamp Caves	5	28	yes	31
+sanguine_crawlers	Sanguine crawlers	Sanguine crawler	28	43	Blighted Cave	12	43	Yes	28
+scabarites	Scabarites	Locust lancer	1	77	Ullek	1	77	yes	28
+scabarites	Scabarites	Locust ranger	1	77	Ullek	1	77	yes	28
+scabarites	Scabarites	Locust rider	1	75	Sophanem Dungeon	27	75	yes	-1
+scabarites	Scabarites	Locust rider	1	75	Sophanem Dungeon maze	2	75	yes	718
+scabarites	Scabarites	Scabaras lancer	1	77	Scabaras Dungeon	8	77	yes	559
+scabarites	Scabarites	Scabaras lancer	1	77	Ullek	1	77	yes	28
+scabarites	Scabarites	Scabaras mage	1	77	Scabaras Dungeon	8	77	yes	559
+scabarites	Scabarites	Scabaras ranger	1	77	Scabaras Dungeon	9	77	yes	559
+scabarites	Scabarites	Scabaras ranger	1	77	Ullek	1	77	yes	28
+scabarites	Scabarites	Scarab mage	1	75	Sophanem Dungeon (maze)	10	75	yes	718
+scabarites	Scabarites	Scarab mage	1	75	Sophanem Dungeon (cavern)	18	75	yes	-1
+scabarites	Scabarites	Scarab swarm	1	12	Sophanem Dungeon	0	12	yes	
+scabarites	Scabarites	Scarab swarm	1	12	Klenter's Pyramid	0	12	yes	
+scabarites	Scabarites	Scarab swarm	1	12	Scabaras Dungeon	0	12	yes	
+scabarites	Scabarites	Small scarab	1	42	Uzer Mastaba	59	42	Yes	359
+scabarites	Scabarites	Scarab akh	109	122	Sophanem Slayer Dungeon	7	122	yes	718
+scabarites	Scabarites	Elite Profane Scabarite	87	143	Temple of Isolation	0	143	yes	754
+scabarites	Scabarites	Profane Scabarite	87	125	Scabarite Cavern	21	125	yes	753
+scabarites	Scabarites	Corrupted scarab	91	101	Sophanem Slayer Dungeon	10	101	yes	718
+scorpions	Scorpions	Grave scorpion	1	14	Grave of Scorpius	5	14	yes	28
+scorpions	Scorpions	King Scorpion	1	22	Crandor	6	22	no	28
+scorpions	Scorpions	King Scorpion	1	22	Dwarven mines	2	22	no	18
+scorpions	Scorpions	Pit Scorpion	1	56	Ardougne Zoo	4	56	yes	28
+scorpions	Scorpions	Pit Scorpion	1	56	Legends' Guild Dungeon	20	56	yes	0
+scorpions	Scorpions	Poison Scorpion	1	49	Brimhaven	7	49	yes	28
+scorpions	Scorpions	Poison Scorpion	1	49	Taverley Dungeon	5	49	yes	17
+scorpions	Scorpions	Scorpion	1	26	Al Kharid mine	9	14	no	28
+scorpions	Scorpions	Scorpion	1	26	Ardougne Zoo	3	14	yes	28
+scorpions	Scorpions	Scorpion	1	26	Cairn Isle	5	14	yes	28
+scorpions	Scorpions	Scorpion	1	26	Dwarven mines	13	14	no	18
+scorpions	Scorpions	Scorpion	1	26	Karamja Volcano	7	14	no	28
+scorpions	Scorpions	Scorpion	1	26	Stronghold of Security (3rd level)	8	26	no	24
+scorpions	Scorpions	Scorpion	1	26	Temple of Ikov (dungeon)	5	14	yes	509
+scorpions	Scorpions	Scorpion	1	26	Varrock Sewers	2	14	no	31
+scorpions	Scorpions	Scorpion	1	26	Wilderness (Scorpion Pit)	7	14	no	28
+scorpions	Scorpions	Scorpion	1	26	Wilderness (south of Chaos altar)	7	14	no	28
+scorpions	Scorpions	Scorpion (Ape Atoll)	1	14	Ape Atoll	12	14	yes	28
+scorpions	Scorpions	Scorpion (Ape Atoll)	1	14	Crash Island	4	14	yes	28
+scorpions	Scorpions	Corrupted scorpion	88	98	Sophanem Slayer Dungeon	9	101	yes	718
+sea_snakes	Sea snakes	Sea Snake Hatchling	1	63	Miscellania and Etceteria dungeon	7	63	yes	14
+sea_snakes	Sea snakes	Sea Snake Young	1	63	Miscellania and Etceteria dungeon	10	63	yes	14
+shades	Shades	Asyn Shade	1	84	Shade Catacombs	29	84	yes	41
+shades	Shades	Fiyr Shade	1	98	Shade Catacombs	8	98	yes	41
+shades	Shades	Loar Shade	1	58	Mort'ton	25	58	yes	28
+shades	Shades	Phrin Shade	1	67	Shade Catacombs	12	67	yes	41
+shades	Shades	Riyl Shade	1	75	Shade Catacombs	16	75	yes	41
+shades	Shades	Shade	1	52	Stronghold of Security (4th level)	6	52	no	24
+shadow_warriors	Shadow warriors	Shadow warrior	1	65	Legends' Guild Dungeon	19	65	yes	0
+skeletal_wyverns	Skeletal wyverns	Skeletal Wyvern	72	109	Asgarnian Ice Dungeon	8	109	yes	25
+skeletons	Skeletons	Ankou	1	54	Stronghold of Security (fourth level)	32	54	no	24
+skeletons	Skeletons	Ankou	1	54	Wilderness Crater (level 28 Wilderness)	7	54	no	28
+skeletons	Skeletons	Ankou (elite)	1	67	Stronghold of Security (fourth level)	32	54	no	24
+skeletons	Skeletons	Ankou (elite)	1	67	Wilderness Crater (level 28 Wilderness)	7	54	no	28
+skeletons	Skeletons	Bound skeleton	1	70	Directly north of Fort Forinthry surrounding the entrance to the crypt	13	70	yes	28
+skeletons	Skeletons	Giant skeleton (Shadow Dungeon)	1	84	Shadow Dungeon	43	84	yes	416
+skeletons	Skeletons	Giant skeleton (Tarn's Lair)	1	84	Tarn's Lair	2	84	yes	30
+skeletons	Skeletons	Irvig Senay	1	70	Viyeldi caves	1	70	yes	437
+skeletons	Skeletons	Osseous	1	888	Anachronia	0	888	yes	
+skeletons	Skeletons	San Tojalon	1	70	Viyeldi caves	1	70	yes	437
+skeletons	Skeletons	Skeletal miner	1	49	Abandoned Mine level 4	14	49	Yes	296
+skeletons	Skeletons	Skeletal miner	1	49	Abandoned Mine level 2	7	49	Yes	294
+skeletons	Skeletons	Skeleton	1	32	Crandor	9	32	no	28
+skeletons	Skeletons	Skeleton	1	32	Crandor and Karamja Dungeon	19	15, 32, 58	no	13
+skeletons	Skeletons	Skeleton	1	32	Draynor Sewers	4	15, 32	no	31
+skeletons	Skeletons	Skeleton	1	32	Edgeville Dungeon	26	15, 16, 32, 58	no	31
+skeletons	Skeletons	Skeleton	1	32	Glarial's Tomb	6	15, 32	yes	501
+skeletons	Skeletons	Skeleton	1	32	Ogre Enclave	3	15	yes	572
+skeletons	Skeletons	Skeleton	1	32	Senntisten Temple	10	15	yes	442
+skeletons	Skeletons	Skeleton	1	32	Stronghold of Security (4th level)	26	46, 51	no	24
+skeletons	Skeletons	Skeleton	1	32	Taverley Dungeon	7	15, 32	yes	17
+skeletons	Skeletons	Skeleton	1	32	Temple of Ikov (dungeon)	15	32, 58	yes	509
+skeletons	Skeletons	Skeleton	1	32	Underground Pass (dungeon)	5	15, 32	yes	579
+skeletons	Skeletons	Skeleton	1	32	Varrock Sewers	9	16, 32	no	31
+skeletons	Skeletons	Skeleton	1	32	Waterfall Dungeon	3	58	yes	619
+skeletons	Skeletons	Skeleton	1	32	Wilderness (north of Edgeville)	14	15, 32	no	28
+skeletons	Skeletons	Skeleton	1	32	Wilderness (Boneyard)	5	32	no	28
+skeletons	Skeletons	Skeleton	1	32	Wilderness (level 9) south-west mine	12	15	no	28
+skeletons	Skeletons	Skeleton	1	32	Wilderness (The Forgotten Cemetery)	2	32	no	28
+skeletons	Skeletons	Skeleton	1	32	Wilderness Crater	10	51	no	28
+skeletons	Skeletons	Skeleton	1	32	Wilderness Agility Course Pit	8	32	yes	6
+skeletons	Skeletons	Skeleton	1	32	Yanille Agility dungeon	6	58	yes	3
+skeletons	Skeletons	Skeleton (Ape Atoll)	1	78	Ape Atoll Dungeon	17	78	yes	615
+skeletons	Skeletons	Skeleton (Barrows)	1	86	Barrows	6	86, 88	yes	527
+skeletons	Skeletons	Skeleton (Draynor Manor)	1	11	Draynor Manor	1	11	yes	28
+skeletons	Skeletons	Skeleton (Heart of Gielinor)	1	108	Heart of Gielinor	18	15	yes	693
+skeletons	Skeletons	Skeleton (Lumbridge Catacombs)	1	15	Lumbridge Catacombs	13	15	no	165
+skeletons	Skeletons	Skeleton (Melzar's Maze)	1	12	Melzar's Maze (floor 3 [UK])	6	12	no	28
+skeletons	Skeletons	Skeleton (Tarn's Lair)	1	72	Lair of Tarn Razorlor	24	45, 70, 71, 77, 79	Yes	30
+skeletons	Skeletons	Skeleton (Tarn's Lair)	1	72	Chaos Tunnels	21	77	Yes	23
+skeletons	Skeletons	Skeleton (Tarn's Lair)	1	72	Abandoned Mine level 1	2	72	Yes	569
+skeletons	Skeletons	Skeleton (Ullek)	1	70	Ullek	11	70	yes	28
+skeletons	Skeletons	Skeleton Mage	1	19	Waterfall Dungeon	4	19	yes	619
+skeletons	Skeletons	Skeleton Mage (Piscatoris Fishing Colony)	1	49	Piscatoris Fishing Colony	11	49	yes	28
+skeletons	Skeletons	Skeleton brute	1	88	Ancient Cavern	1	88	yes	36
+skeletons	Skeletons	Skeleton fremennik	1	23	Brine Rat Cavern	20	23, 28, 30	yes	560
+skeletons	Skeletons	Skeleton heavy	1	89	Ancient Cavern	0	89	yes	36
+skeletons	Skeletons	Skeleton hero	1	74	Ancient Cavern	0	74	yes	36
+skeletons	Skeletons	Skeleton looter	1	42	Uzer Mastaba	0	37	yes	357
+skeletons	Skeletons	Skeleton thug	1	85	Ancient Cavern	1	85	yes	36
+skeletons	Skeletons	Skeleton warlord	1	91	Ancient Cavern	2	91	yes	36
+skeletons	Skeletons	Skoblin	1	19	Lumbridge Catacombs	13	19	No	165
+skeletons	Skeletons	Skogre	1	56	Jiggig	4	56	yes	28
+skeletons	Skeletons	Skogre	1	56	Jiggig Dungeon	9	56	yes	564
+skeletons	Skeletons	Undead one	1	44	Shilo Village entrance	9	44	yes	28
+skeletons	Skeletons	Undead one	1	44	Ah Za Rhoon	18	44, 46	yes	623
+skeletons	Skeletons	Undead one	1	44	Ah Za Rhoon	20	44, 46	yes	624
+skeletons	Skeletons	Undead one	1	44	Rashiliyia's Tomb	19	44, 46	yes	573
+skeletons	Skeletons	Skeletal hand	5	63	Meiyerditch tunnels	6	63	yes	41
+skeletons	Skeletons	Skeletal Wyvern	72	109	Asgarnian Ice Dungeon	8	109	yes	25
+soulgazers	Soulgazers	Soulgazer	99	128	Stalker dungeon	10	128	yes	-1
+soulgazers	Soulgazers	Soulgazer	99	128	Wilderness	10	128	yes	28
+soulgazers	Soulgazers	Soulgazer (elite)	99	135	Stalker dungeon	10	128	yes	-1
+soulgazers	Soulgazers	Soulgazer (elite)	99	135	Wilderness	10	128	yes	28
+spiders	Spiders	Blessed spider	1	42	Underground Pass	21	42	yes	579
+spiders	Spiders	Blessed spider	1	42	Underground Pass (Bottom level)	31	42	yes	578
+spiders	Spiders	Corpse spider	1	4	Lumbridge Catacombs	10	4	no	165
+spiders	Spiders	Crypt spider	1	63	Chaos Tunnels	6	63	yes	23
+spiders	Spiders	Crypt spider	1	63	Barrows	5	63	yes	527
+spiders	Spiders	Deadly red spider	1	95	Arandar	7	95	yes	28
+spiders	Spiders	Deadly red spider	1	95	Crandor and Karamja Dungeon	5	95	no	13
+spiders	Spiders	Deadly red spider	1	95	Spirit Realm	11	95	yes	429
+spiders	Spiders	Deadly red spider	1	95	Edgeville Dungeon (level 4-6 Wilderness)	9	95	yes	31
+spiders	Spiders	Deadly red spider	1	95	Varrock Sewers	9	95	no	31
+spiders	Spiders	Deadly red spider	1	95	Abandoned Farm (level 35-38 Wilderness)	11	95	no	28
+spiders	Spiders	Deadly red spider	1	95	Chaos Tunnels	10	95	yes	23
+spiders	Spiders	Deadly red spider	1	95	Myreque Hideout	2	95	yes	593
+spiders	Spiders	Giant crypt spider	1	84	Chaos Tunnels	3	84	yes	23
+spiders	Spiders	Giant crypt spider	1	84	Barrows	6	84	yes	527
+spiders	Spiders	Giant spider	1	33	Stronghold of Security - Floor 3	45	29	No	24
+spiders	Spiders	Giant spider	1	33	South Feldip Hills	14	2	Yes	28
+spiders	Spiders	Giant spider	1	33	South Feldip Hills	5	33	Yes	28
+spiders	Spiders	Giant spider	1	33	Feldip Hills	2	33	Yes	28
+spiders	Spiders	Giant spider	1	33	Clock Tower Dungeon	15	2	Yes	551
+spiders	Spiders	Giant spider	1	33	Temple of Ikov	2	2	Yes	636
+spiders	Spiders	Giant spider	1	33	West Wilderness ruins (level 21 - 24 Wilderness)	5	2	No	28
+spiders	Spiders	Giant spider	1	33	Draynor Manor	2	2	No	28
+spiders	Spiders	Giant spider	1	33	Edgeville Dungeon	2	2	No	592
+spiders	Spiders	Giant spider	1	33	Lumbridge Swamp	5	4	No	28
+spiders	Spiders	Giant spider	1	33	Lumbridge	2	4	No	28
+spiders	Spiders	Giant spider	1	33	Lumbridge forest	7	4	No	28
+spiders	Spiders	Giant spider	1	33	Varrock Sewers	4	2, 33	No	592
+spiders	Spiders	Ice spider	1	42	Temple of Ikov	9	42	yes	509
+spiders	Spiders	Ice spider	1	42	Ice Queen's lair	9	42	yes	8
+spiders	Spiders	Jungle spider	1	21	Hazelmere's island	19	86	yes	28
+spiders	Spiders	Jungle spider	1	21	Ape Atoll	18	88	yes	28
+spiders	Spiders	Jungle spider	1	21	West of Shilo Village	4	86	yes	28
+spiders	Spiders	Jungle spider	1	21	South of Tai Bwo Wannai	2	86	yes	28
+spiders	Spiders	Jungle spider	1	21	North of Tai Bwo Wannai	6	86	yes	28
+spiders	Spiders	Jungle spider	1	21	Brimhaven	2	86	yes	28
+spiders	Spiders	Jungle spider	1	21	East of Tai Bwo Wannai	16	86	yes	28
+spiders	Spiders	Jungle spider	1	21	Jade vine maze floor 1 [UK]	11	42, 49	yes	28
+spiders	Spiders	Jungle spider	1	21	Jade vine maze floor 2 [UK]	7	42, 49	yes	28
+spiders	Spiders	Jungle spider	1	21	Jade vine maze floor 3 [UK]	1	42, 49	yes	28
+spiders	Spiders	Jungle spider	1	21	West of the Shipyard	14	86	yes	28
+spiders	Spiders	Jungle spider	1	21	Musa Point	7	21	no	28
+spiders	Spiders	Poison spider	1	53	Yanille Agility dungeon	18	53	yes	3
+spiders	Spiders	Poison spider	1	53	Taverley Dungeon	8	53	yes	17
+spiders	Spiders	Poison spider	1	53	Lava Maze Dungeon	5	53	no	6
+spiders	Spiders	Poison spider	1	53	Edgeville Dungeon	6	53	no	31
+spiders	Spiders	Poison spider	1	53	Chaos Tunnels	14	53	yes	23
+spiders	Spiders	Poison spider	1	53	Meiyerditch Laboratories (caves in The Hollows)	2	53	yes	593
+spiders	Spiders	Shadow spider	1	46	Waterfall Dungeon	5	46	yes	619
+spiders	Spiders	Shadow spider	1	46	Chaos Tunnels	12	46	yes	23
+spiders	Spiders	Spider	1	1	Al Kharid	3	1	no	28
+spiders	Spiders	Spider	1	1	Ape Atoll Dungeon	29	1	yes	615
+spiders	Spiders	Spider	1	1	Draynor Manor Dungeon	4	1	no	31
+spiders	Spiders	Spider	1	1	Gnome Maze	9	1	yes	28
+spiders	Spiders	Spider	1	1	Jungle demon lair	16	1	yes	616
+spiders	Spiders	Spider	1	1	Lumbridge Swamp	3	1	no	28
+spiders	Spiders	Spider	1	1	Lumbridge forest	7	1	no	28
+spiders	Spiders	Spider	1	1	Lumbridge Castle Cellar	4	1	no	31
+spiders	Spiders	Spider	1	1	Marim	19	1	yes	28
+spiders	Spiders	Spider	1	1	North of Red Dragon Isle	17	1	no	28
+spiders	Spiders	Spider	1	1	Ogre Enclave	10	1	yes	572
+spiders	Spiders	Spider	1	1	Rashiliyia's Tomb	1	1	yes	573
+spiders	Spiders	Spider	1	1	Ruins (west) (level 23 Wilderness)	6	1	no	28
+spiders	Spiders	Spider	1	1	Stronghold of Security	35	15	no	24
+spiders	Spiders	Spider	1	1	Temple of Marimbo Dungeon	22	1	yes	617
+spiders	Spiders	Spider	1	1	Temple Trekking Swamp	2	1	yes	302
+spiders	Spiders	Spider	1	1	Taverley Dungeon	3	1	yes	17
+spiders	Spiders	Spider	1	1	Underground Pass dungeon (Bottom level)	50	1	yes	578
+spiders	Spiders	Spider	1	1	Varrock Sewers	8	1	no	31
+spiders	Spiders	Spider	1	1	East of Yanille	2	1	yes	28
+spiders	Spiders	Fever spider	42	70	Braindeath Island	11	70	yes	19
+spiritual_mages	Spiritual mages	Spiritual mage	83	98	God Wars Dungeon	46	98	yes	15
+spiritual_warriors	Spiritual warriors	Spiritual warrior	68	98	God Wars Dungeon	46	98	yes	15
+suqahs	Suqahs	Suqah	1	73	Lunar Isle, north of town	4	73	Yes	28
+suqahs	Suqahs	Suqah	1	73	Lunar Isle, north of town	10	74	Yes	28
+suqahs	Suqahs	Suqah	1	73	Lunar Isle, north of town	1	79	Yes	28
+suqahs	Suqahs	Suqah	1	73	Hold of the ''Lady Zay''	1	74	Yes	28
+suqahs	Suqahs	Suqah	1	73	Lunar Isle, south of town	3	73	Yes	28
+suqahs	Suqahs	Suqah	1	73	Lunar Isle, south of town	5	74	Yes	28
+suqahs	Suqahs	Suqah	1	73	Lunar Isle, south of town	2	79	Yes	28
+terror_dogs	Terror dogs	Terror dog	40	65	Tarn's Lair	9	61, 65	yes	30
+trolls	Trolls	Berry	1	75	Troll Stronghold	1	75	yes	2
+trolls	Trolls	Cliff	1	49	Troll Invasion	0	Scales	yes	
+trolls	Trolls	Dad	1	77	Troll arena	1	77	yes	28
+trolls	Trolls	Ice troll	1	84	Troll tunnels	21	84	Yes	508
+trolls	Trolls	Ice troll	1	84	Ice Path	21	84	Yes	28
+trolls	Trolls	Ice troll female	1	68	Fremennik Isles	15	68	yes	28
+trolls	Trolls	Ice troll female	1	68	Jatizso dungeon mine	3	68	yes	492
+trolls	Trolls	Ice troll female	1	68	Ice Troll Caves	9	68	yes	14
+trolls	Trolls	Ice troll female	1	68	Chaos Tunnels	9	68	yes	23
+trolls	Trolls	Ice troll grunt	1	68	Fremennik Isles	4	68	yes	28
+trolls	Trolls	Ice troll grunt	1	68	Ice Troll Caves	6	68	yes	14
+trolls	Trolls	Ice troll male	1	68	Fremennik Isles	13	68	yes	28
+trolls	Trolls	Ice troll male	1	68	Jatizso dungeon mine	2	68	yes	492
+trolls	Trolls	Ice troll male	1	68	Ice Troll Caves	7	68	yes	14
+trolls	Trolls	Ice troll male	1	68	Chaos Tunnels	6	68	yes	23
+trolls	Trolls	Ice troll runt	1	53	Fremennik Isles	17	53	yes	28
+trolls	Trolls	Ice troll runt	1	53	Jatizso dungeon mine	5	53	yes	492
+trolls	Trolls	Ice troll runt	1	53	Ice Troll Caves	5	53	yes	14
+trolls	Trolls	Kraka	1	84	Death Plateau	1	84	yes	28
+trolls	Trolls	Mountain troll	1	75	Death Plateau	15	75	no	28
+trolls	Trolls	Mountain troll	1	75	Keldagrim tunnels	7	75	yes	21
+trolls	Trolls	Mountain troll	1	75	Troll arena	4	75	yes	28
+trolls	Trolls	Mountain troll	1	75	Troll Stronghold (Middle Level)	8	75	yes	2
+trolls	Trolls	Mountain troll	1	75	Troll Stronghold (Upper Level)	8	75	yes	2
+trolls	Trolls	Mountain troll	1	75	Trollheim (entrance to Troll Stronghold)	8	75	yes	28
+trolls	Trolls	Mountain troll	1	75	Trollheim tunnels	4	75	yes	5
+trolls	Trolls	Mountain troll (well)	1	9	Troll cave	7	8	no	173
+trolls	Trolls	Pee Hat	1	84	Death Plateau	1	84	Yes	28
+trolls	Trolls	Rock (monster)	1	88	Death Plateau	1	88	Yes	28
+trolls	Trolls	Stick	1	85	Death Plateau	1	85	Yes	28
+trolls	Trolls	Thrower Troll	1	67	Death Plateau	6	67	yes	28
+trolls	Trolls	Thrower Troll	1	67	Trollheim	5	67	yes	28
+trolls	Trolls	Troll brute	1	7	Burthorpe Troll Cave	11	7	No	719
+trolls	Trolls	Troll chucker	1	7	Burthorpe Troll Cave	11	7	No	719
+trolls	Trolls	Troll general	1	91	Troll Stronghold	3	91	Yes	2
+trolls	Trolls	Troll shaman	1	7	Burthorpe Troll Cave	11	7	No	719
+trolls	Trolls	Troll spectator	1	65	Troll arena	7	65	Yes	28
+trolls	Trolls	Twig (monster)	1	75	Troll Stronghold	1	75	yes	2
+trolls	Trolls	Undead troll	1	95	Lucien's outpost	22	77, 81, 86, 95	yes	28
+turoth	Turoth	Mightiest turoth	55	83	Pollnivneach Slayer Dungeon	1	96	yes	22
+turoth	Turoth	Swarming turoth	55	60	Pollnivneach Slayer Dungeon	3	68	yes	22
+turoth	Turoth	Turoth	55	60	Fremennik Slayer Dungeon	22	60, 68	Yes	5
+turoth	Turoth	Turoth	55	60	Chaos Tunnels	9	60, 68	Yes	23
+turoth	Turoth	Turoth	55	60	Pollnivneach Slayer Dungeon	26	60, 68	Yes	22
+tzhaar	TzHaar	TzHaar-Xil	0	86	TzHaar City	19	86	Yes	12
+tzhaar	TzHaar	TzHaar-Hur	1	98	TzHaar City	16	86, 98	yes	12
+tzhaar	TzHaar	TzHaar-Ket	1	86	TzHaar City	31	86	Yes	12
+tzhaar	TzHaar	TzHaar-Ket	1	86	TzHaar City side area	1	86	Yes	-1
+tzhaar	TzHaar	TzHaar-Mej	1	86	TzHaar City	13	86	Yes	12
+tzhaar	TzHaar	TzHaar-Mej	1	86	TzHaar City side area	3	86	Yes	-1
+vampyres	Vampyres	Feral vampyre	1	61	East of the Abandoned Mine	6	61	yes	28
+vampyres	Vampyres	Feral vampyre	1	61	Haunted Woods	17	61	yes	28
+vampyres	Vampyres	Revenant vampyre	1	47	Forinthry Dungeon	1	47	no	6
+vampyres	Vampyres	Vampyre	1	89	God Wars Dungeon	13	89	yes	15
+vampyres	Vampyres	Vampyre Juvenile	1	56	Burgh de Rott Woods	14	56	yes	28
+vampyres	Vampyres	Vampyre Juvenile	1	56	Castle Drakan	2	56	yes	28
+vampyres	Vampyres	Vampyre Juvenile	1	56	Meiyerditch	16	56	yes	28
+vampyres	Vampyres	Vampyre Juvinate	1	61	Burgh de Rott Woods	17	58, 63	yes	28
+vampyres	Vampyres	Vampyre Juvinate	1	61	Darkmeyer	19	84	yes	28
+volcanic_creatures	Volcanic creatures	TzTok-Jad	1	702	TzHaar Fight Cave	0	702	yes	
+wall_beasts	Wall beasts	Wall beast	35	45	Lumbridge Swamp Caves	7	45	yes	31
+warped_terrorbirds	Warped terrorbirds	Warped terrorbird	56	82	Poison Waste Slayer Dungeon	40	82	yes	200
+warped_tortoises	Warped tortoises	Warped tortoise	56	72	Poison Waste Slayer Dungeon	14	72	yes	200
+waterfiends	Waterfiends	Waterfiend	1	107	Ancient Cavern	16	107	yes	-1
+waterfiends	Waterfiends	Waterfiend	1	107	Chaos Tunnels	10	107	yes	23
+waterfiends	Waterfiends	Waterfiend	1	107	East of the Boneyard (level 16 Wilderness)	13	107	yes	
+waterfiends	Waterfiends	Waterfiend (Ghorrock)	1	107	Ghorrock dungeon upper floor (quest)	2	102	yes	547
+waterfiends	Waterfiends	Waterfiend (Ghorrock)	1	107	Ghorrock dungeon lower floor (quest)	3	102, 107	yes	547
+waterfiends	Waterfiends	Waterfiend (Ghorrock)	1	107	Ghorrock dungeon lower floor (post-quest)	22	102	yes	548
+waterfiends	Waterfiends	Waterfiend (elite)	1	111	Ancient Cavern	16	107	yes	-1
+waterfiends	Waterfiends	Waterfiend (elite)	1	111	Chaos Tunnels	10	107	yes	23
+waterfiends	Waterfiends	Waterfiend (elite)	1	111	East of the Boneyard (level 16 Wilderness)	13	107	yes	
+werewolves	Werewolves	Werewolf (God Wars Dungeon)	1	89	God Wars Dungeon	35	89	yes	15
+wolves	Wolves	Wolf (Havenhythe)		11	Highweald Forest	5	11	No	
+wolves	Wolves	Wolf (Havenhythe)		11	Amberfell forest	1	11	Yes	
+wolves	Wolves	Adolescent White wolf	1	6	White Wolf Mountain	7	6	no	28
+wolves	Wolves	Big Wolf	1	20	White Wolf Mountain	1	20	yes	28
+wolves	Wolves	Big Wolf	1	20	Chaos Tunnels	7	20	yes	23
+wolves	Wolves	Desert wolf	1	12	Kharidian Desert	55	12	yes	28
+wolves	Wolves	Dire Wolf	1	43	Arandar	6	43	yes	28
+wolves	Wolves	Dire Wolf	1	43	Tirannwn	2	43	yes	28
+wolves	Wolves	Dire Wolf	1	43	Chaos Tunnels	7	43	yes	23
+wolves	Wolves	Fenris wolf	1	46	South of Rellekka	12	46	yes	28
+wolves	Wolves	Ice wolf	1	58	Trollweiss Mountain	7	58	yes	28
+wolves	Wolves	Ice wolf	1	58	Ice Path	22	72	yes	28
+wolves	Wolves	Ice wolf	1	58	Outside God Wars Dungeon	7	72	yes	28
+wolves	Wolves	Ice wolf	1	58	Outside God Wars Dungeon	6	72	yes	28
+wolves	Wolves	Ice wolf	1	58	Ice Path	2	72	yes	28
+wolves	Wolves	Jungle Wolf	1	78	Kharazi Jungle	16	78	yes	28
+wolves	Wolves	White wolf	1	12	White Wolf Mountain	9	12	yes	28
+wolves	Wolves	Wolf	1	11	Arandar entrance	2	11	yes	28
+wolves	Wolves	Wolf	1	11	Ardougne Zoo	2	11	yes	28
+wolves	Wolves	Wolf	1	11	Feldip Hills	11	11	yes	28
+wolves	Wolves	Wolf	1	11	Gnome Maze	2	11	yes	28
+wolves	Wolves	Wolf	1	11	North of the Battlefield	15	11	yes	28
+wolves	Wolves	Wolf	1	11	Stronghold of Security (Vault of War - Floor 1)	16	8	no	24
+wolves	Wolves	Wolf	1	11	West of Oo'glog	15	11	yes	28
+wolves	Wolves	Wolf	1	11	West of Sinclair Mansion	5	11	yes	28
+wolves	Wolves	Wolf	1	11	White Wolf Mountain base	4	11	no	28
+wolves	Wolves	Wolf	1	11	White Wolf Mountain peak	5	11	yes	28
+zemouregals_undead	Zemouregal's undead	Bound skeleton	1	70	Directly north of Fort Forinthry surrounding the entrance to the crypt	13	70	yes	28
+zemouregals_undead	Zemouregal's undead	Fetid zombie	1	66	Near Wilderness crypt in the Wilderness to the north and west of Fort Forinthry	14	66	yes	28
+zemouregals_undead	Zemouregal's undead	Armoured phantom	113	150	Crypt (Wilderness)	6	150	yes	-1
+zemouregals_undead	Zemouregal's undead	Risen ghost	85	101	Crypt north of Fort Forinthry	8	101	yes	-1
+zombies	Zombies	Zombie (Temple Trekking)		28	Temple Trekking bridge encounter	1	28	Yes	302
+zombies	Zombies	Zombie (Wilderness)		29	Graveyard of Shadows	21	22, 29	no	28
+zombies	Zombies	Armoured zombie	1	84	Zemouregal's fort	1	72	yes	28
+zombies	Zombies	Armoured zombie	1	84	Chaos Temple Dungeon	55	85, 86	yes	581
+zombies	Zombies	Armoured zombie	1	84	New Varrock	53	86	yes	110
+zombies	Zombies	Corpse archer	1	18	Lumbridge Catacombs	9	18	no	165
+zombies	Zombies	Corpse mage	1	21	Lumbridge Catacombs	15	21	no	165
+zombies	Zombies	Corpse spider	1	4	Lumbridge Catacombs	10	4	no	165
+zombies	Zombies	Crawling corpse torso	1	9	Lumbridge Catacombs	8	9	no	165
+zombies	Zombies	Dragith Nurn	1	26	Lumbridge Catacombs	1	26	no	165
+zombies	Zombies	Dried zombie	1	67	Ullek	9	67	yes	28
+zombies	Zombies	Fetid zombie	1	66	Near Wilderness crypt in the Wilderness to the north and west of Fort Forinthry	14	66	yes	28
+zombies	Zombies	General malpractitioner	1	84	Braindeath Island 'Rum'-geon	9	84	yes	121
+zombies	Zombies	Jonny the beard	1		Varrock	1	1	no	28
+zombies	Zombies	Jonny the beard	1		New Varrock	1	N/A	yes	677
+zombies	Zombies	Monkey Zombie	1	72	Ape Atoll Dungeon	30	77	yes	615
+zombies	Zombies	Monkey Zombie	1	72	Temple of Marimbo Dungeon	41	72, 75	yes	617
+zombies	Zombies	Mummy (Jaldraocht Pyramid)	1	77	Jaldraocht Pyramid (floor 4)	46	77	yes	525
+zombies	Zombies	Mummy (Jaldraocht Pyramid)	1	77	Jaldraocht Pyramid (floor 3)	26	77	yes	485
+zombies	Zombies	Mummy (Jaldraocht Pyramid)	1	77	Jaldraocht Pyramid (floor 2)	4	77	yes	486
+zombies	Zombies	Mummy (Jaldraocht Pyramid)	1	77	Jaldraocht Pyramid (floor 1)	2	77	yes	487
+zombies	Zombies	Mummy (Jaldraocht Pyramid)	1	77	Chaos Tunnels	15	77	yes	23
+zombies	Zombies	Mummy (Klenter's Pyramid)	1	70	Klenter's Pyramid	6	70	yes	540
+zombies	Zombies	Mummy (Ullek)	1	74	Ullek	4	74	yes	28
+zombies	Zombies	Small scarab	1	42	Uzer Mastaba	59	42	Yes	359
+zombies	Zombies	Sorebones	1	49	Harmony Island church floor 1 [UK]	8	49	yes	28
+zombies	Zombies	Sorebones	1	49	Harmony Island church floor 2 [UK]	6	49	yes	28
+zombies	Zombies	Undead chicken	1	7	Alice's farm	6	7	yes	28
+zombies	Zombies	Undead chicken (New Varrock)	1	7	New Varrock	3	7	yes	677
+zombies	Zombies	Undead cow	1	2	Alice's farm	4	2	yes	28
+zombies	Zombies	Undead one	1	44	Shilo Village entrance	9	44	yes	28
+zombies	Zombies	Undead one	1	44	Ah Za Rhoon	18	44, 46	yes	623
+zombies	Zombies	Undead one	1	44	Ah Za Rhoon	20	44, 46	yes	624
+zombies	Zombies	Undead one	1	44	Rashiliyia's Tomb	19	44, 46	yes	573
+zombies	Zombies	Undead pekin	1	7	Goshima	8	7	yes	
+zombies	Zombies	Undead troll	1	95	Lucien's outpost	22	77, 81, 86, 95	yes	28
+zombies	Zombies	Zogre	1	56	Jiggig ground level	7	56	yes	28
+zombies	Zombies	Zogre	1	56	Jiggig Dungeon middle level	23	56	yes	564
+zombies	Zombies	Zogre	1	56	Jiggig Dungeon bottom level	4	56	yes	-1
+zombies	Zombies	Zombie	1	29	Ardougne Sewers	3	29	yes	0
+zombies	Zombies	Zombie	1	29	Draynor Sewers	7	12, 29	no	31
+zombies	Zombies	Zombie	1	29	Edgeville Dungeon	14	22, 29	no	31
+zombies	Zombies	Zombie	1	29	Glarial's Tomb	6	12, 29	yes	501
+zombies	Zombies	Zombie	1	29	Gnome Village Dungeon	3	12, 29	yes	363
+zombies	Zombies	Zombie	1	29	Underground Pass	18	12, 29	yes	579
+zombies	Zombies	Zombie	1	29	Varrock Sewers	6	12, 29	no	31
+zombies	Zombies	Zombie	1	29	West Ardougne	5	12, 29	yes	28
+zombies	Zombies	Zombie	1	29	Wizards' Guild basement	8	29	yes	3
+zombies	Zombies	Zombie (Entrana Dungeon)	1	29	Entrana Dungeon	5	29	yes	17
+zombies	Zombies	Zombie (Lair of Tarn Razorlor)	1	74	Chaos Tunnels	9	72	yes	23
+zombies	Zombies	Zombie (Lair of Tarn Razorlor)	1	74	Lair of Tarn Razorlor	37	72, 74 ,75, 77, 78, 79, 82, 84, 85	yes	30
+zombies	Zombies	Zombie (New Varrock)	1	1	New Varrock	49	1	yes	677
+zombies	Zombies	Zombie (Stronghold of Security)	1	12	Stronghold of Security	52	12, 21	no	24
+zombies	Zombies	Zombie pirate	1	35	Braindeath Island	12	50	yes	19
+zombies	Zombies	Zombie pirate (Harmony Island)	1	49	Harmony Island	15	49	Yes	28
+zombies	Zombies	Zombie pirate (Harmony Island)	1	49	Harmony Island ship (floor 0 [UK])	2	49	Yes	28
+zombies	Zombies	Zombie pirate (Harmony Island)	1	49	Harmony Island ship (floor 1 [UK])	2	49	Yes	28
+zombies	Zombies	Zombie pirate (Harmony Island)	1	49	Harmony Island ship (floor 2 [UK])	1	49	Yes	28
+zombies	Zombies	Zombie pirate (Harmony Island)	1	49	Underwater Tunnel (beneath Harmony Island)	11	49	Yes	-1
+zombies	Zombies	Zombie rat	1	2	Melzar's Maze	5	2	no	28
+zombies	Zombies	Zombie swab	1	47	Braindeath Island	6	47	Yes	19
+zombies	Zombies	Crawling hand	5	10	Burthorpe Slayer Cave	11	6	no	719
+zombies	Zombies	Crawling hand	5	10	Slayer Tower floor 1 [UK]	17	6, 10	yes	28
+zombies	Zombies	Zombie hand	5	69	Meiyerditch tunnels	6	69	yes	41
+zombies	Zombies	Edimmu	90	122	Edimmu resource dungeon	15	122	yes	675

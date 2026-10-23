@@ -1,0 +1,65 @@
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{Infobox Monster
+|name = Skeleton
+|image = [[File:Basic skeleton.png|x180px]]
+|release = [[5 June]] [[2008]]
+|update = Smoking Kills
+|members = Yes
+|examine = Could do with gaining a few pounds.
+|level = 12
+|lifepoints = 450
+|experience = 22.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Skeletons
+|assigned_by = turael, mazchna, Vannaka
+|max_melee = 0
+|max_ranged = 27
+|max_magic = 36
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 9
+|magic = 9
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 0
+|acc_ranged = 191
+|acc_magic = 191
+|armour = 191
+|defence = 9
+|weakness = Crush
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|restriction = quest
+|id = 7774
+}}
+'''Skeletons''' can be found guarding [[Catolax]]'s tomb during [[Smoking Kills]]. They are situated behind a chasm, and as such attack with long-ranged attacks, those on the ranged path using [[Ranged]], and those on the magic path using [[Magic]].
+
+While they are not required to be defeated, they attack you while you attempt to mine through the doors on their respective paths, and as such can be seen as a nuisance.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Smoking Kills|date=5 June 2008}}
+** Added to game.
+}}
+
+{{Smoking Kills}}
+{{Skeleton}}
+[[Category:Quest monsters]]

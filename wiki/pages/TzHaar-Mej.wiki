@@ -1,0 +1,193 @@
+{{External|os=TzHaar-Mej (monster)}}
+{{Otheruses|def=no|the [[TokHaar]] version|TokHaar-Mej|the library NPCs|TzHaar-Mej (TzHaar City library)}}
+{{Infobox Monster
+|name = TzHaar-Mej
+|image = [[File:TzHaar-Mej.png|250px]]
+|release = [[19 September]] [[2005]]
+|update = Massive minigame - Fight Pits
+|members = Yes
+|options = Attack
+|examine = *The Mej caste protect the TzHaar using powerful fire magic.
+*He's training the Ga'al in the ways of combat.
+*He's solemnly scattering donated TokKul into the sacred lava.
+|level = 86
+|lifepoints = 3100
+|experience = 155.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 77.5
+|slayercat = TzHaar
+|assigned_by = Kuradal,Morvran
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 310
+|max_necromancy = 0
+|style = magic
+|speed = 5
+|attack = 1
+|ranged = 1
+|magic = 62
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 1197
+|acc_necromancy = 0
+|armour = 1197
+|defence = 62
+|weakness = Arrows
+|aff_weakness = 90
+|aff_melee = 45
+|aff_ranged = 65
+|aff_magic = 55
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 2591
+|leagueRegion=Karamja,Tirannwn}}
+[[File:TzHaar-Mej chathead.png|left|100px]]
+The '''TzHaar-Mej''' inhabit the [[TzHaar city]]. They can be found wielding a [[Toktz-Mej-Tal]]. They attack slightly slower than other TzHaar, but they can use powerful magic that hits quite hard, although they may sometimes close in to use melee. In addition, when attacked, they may on rare occasions call for help ({{RSChat|Kot kl, zek e JalYt!}}, which roughly translates into "Save me, attack the human!") which will cause any nearby [[TzHaar-Ket]] or [[TzHaar-Xil]] to attack you.
+
+TzHaar-Mej can use two types of attacks. These include a melee attack with its staff, and a stronger magic attack that can deal considerable damage (800+). It may be advisable to activate [[Protect from Magic]] to reduce damage from the magic attack.
+
+===Notable TzHaar-Mej===
+These are non-attackable.
+* [[TzHaar-Mej-Ak]]
+* [[TzHaar-Mej-Jal]]
+* [[TzHaar-Mej-Jeh]]
+* [[TzHaar-Mej-Kah]]
+* [[TzHaar-Mej-Kol]]
+* [[TzHaar-Mej-Lor]]
+* [[TzHaar-Mej-Malk]]
+* [[TzHaar-Mej-Roh]]
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[TzHaar City]]
+|lvls = 86
+|mem = Yes
+|mapID = 12
+|plane = 0
+|npcid:2597,x:4621,y:5095
+|npcid:2596,x:4628,y:5114
+|npcid:2595,x:4632,y:5070
+|npcid:16257,x:4642,y:5158
+|npcid:2595,x:4646,y:5130
+|npcid:2592,x:4676,y:5115
+|npcid:2595,x:4697,y:5101
+|npcid:2594,x:4731,y:5074
+|npcid:2594,x:4682,y:5123
+|npcid:2594,x:4697,y:5121
+|npcid:2595,x:4754,y:5095
+|npcid:2591,x:4784,y:5105
+|npcid:2596,x:4782,y:5122
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc = [[TzHaar City]] side area
+|lvls = 86
+|mem = Yes
+|mapID = -1
+|plane = 0
+|npcid:7753,x:4428,y:5082
+|npcid:7753,x:4437,y:5074
+|npcid:7753,x:4437,y:5088
+|leagueRegion = Karamja
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Weapons and armour===
+''There is a 3/101 chance to roll obsidian equipment. A second roll determines which: 2/1280 for a toktz-mej-tal, 20/1280 for an obsidian cape, 18/1280 for 21000 tokkul, and 1240/1280 for 200-1000 tokkul.
+{{DropsTableHead}}
+{{DropsLine|name=Obsidian cape|quantity=1|rarity=60/129280}}
+{{DropsLine|name=Toktz-mej-tal|quantity=1|rarity=6/129280}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Fire rune|quantity=10-40|rarity=18/101|raritynotes={{DropNote|name=elemental|Fire runes are always dropped with either air or earth runes.}}}}
+{{DropsLine|name=Earth rune|quantity=10-40|rarity=9/101|raritynotes={{DropNote|name=elemental}}}}
+{{DropsLine|name=Air rune|quantity=10-40|rarity=9/101|raritynotes={{DropNote|name=elemental}}}}
+{{DropsLine|name=Chaos rune|quantity=2-9|rarity=5/101}}
+{{DropsLine|name=Nature rune|quantity=1-5|rarity=6/101}}
+{{DropsLine|name=Law rune|quantity=1-4|rarity=6/101}}
+{{DropsLine|name=Death rune|quantity=1-4|rarity=6/101}}
+{{DropsLine|name=Blood rune|quantity=1-4|rarity=6/101}}
+{{DropsLine|name=Smoke rune|quantity=1-5|rarity=4/101}}
+{{DropsTableBottom}}
+
+===Materials===
+{{TzhaarGemDropTable|7/101}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Staff of fire|quantity=1|rarity=2/303}}
+{{DropsLine|name=Fire battlestaff|quantity=1|rarity=2/303}}
+{{DropsLine|name=Tokkul|quantity=200-1000|rarity=33240/129280|gemw=no|altvalue=22|alch=no|raritynotes={{DropNote|There is a 25/101 chance to roll tokkul directly, plus a 1240/1280 chance after failing the 3/101 roll for obsidian equipment.}}}}
+{{DropsLine|name=Pure essence|quantity=3-11 (noted)|rarity=5/101}}
+{{DropsLine|name=Fire talisman|quantity=1|rarity=2/303}}
+{{DropsLine|name=Tokkul|quantity=21000|rarity=54/129280|gemw=no|altvalue=22|alch=no}}
+{{DropsLine|name=Nothing|rarity=6/101}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Obsidian charm|quantity=1|rarity=825.916/1000|gemw=no|alch=no}}
+{{DropsLine|name=Ring of stone|quantity=1|rarity=1/5000|altrarity=1/4850|raritynotes={{DropNote|1/4,850 if you have tier 2 [[luck]] or higher active.}}|citations={{CiteGeneral|url=https://runescape.wiki/w/TokHaar-Hok?type=revision&diff=30002840&oldid=29794267|title=TokHaar-Hok|accessdate=10 June 2020|author=Mod Shauny|date=8 October 2019|archiveurl=https://reldo.runescape.wiki/i/102614|archivedate=10 June 2020|quote=Rarity = 1/5000. 1/4850 if you have tier 2+ Luck active.}}}}
+{{DropsLineEffigy|level=86}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Mej BTS.jpg|Concept art.
+</gallery>
+
+==Achievements==
+* {{Achievement|Jungle Predator}}
+** [[Toktz-mej-tal]], [[obsidian cape]], and [[ring of stone]] drops
+
+==Graphical updates==
+===NPC===
+{{GU|subject=NPCs
+|{{GUL|date=[[19 September]] [[2005]]|update=Massive minigame - Fight Pits|img=TzHaar-Mej (2005).png|name=TzHaar-Mej}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=TzHaar-Mej (2008).png|name=TzHaar-Mej}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=TzHaar-Mej.png|name=TzHaar-Mej}}
+}}
+
+===Chathead===
+{{GU|subject=chathead
+|{{GUL|date=[[19 September]] [[2005]]|update=Massive minigame - Fight Pits|img=TzHaar-Mej chathead (2005).png|name=TzHaar-Mej}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=TzHaar-Mej chathead (2008).png|name=TzHaar-Mej}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=TzHaar-Mej chathead.png|name=TzHaar-Mej}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Patch Notes (30 April 2013)|date=30 April 2013}}
+** An issue with TzHaar-Mej not giving Slayer xp while on task has been fixed.
+
+* {{UL|type=update|update=Massive minigame - Fight Pits|date=19 September 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Before the TzHaar graphical update, TzHaar-Mej had three different types of magic attacks:
+<gallery>
+TzHaar-Mej meteors.gif|An attack that looked like many falling meteors (Magic)
+Tzhaar-Mej fireball.gif|A long-range rockball attack (Magic)
+TzHaar Mej wave.gif|A short-range wave attack (Magic)
+</gallery>
+* TzHaar-Mej used to only lurk near the marketplace, but after the TzHaar city update, there are many more attackable TzHaar-Mej than before.
+
+==References==
+{{Reflist}}
+
+{{TzHaar}}
+{{TzHaar City}}

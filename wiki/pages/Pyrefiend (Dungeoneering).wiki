@@ -1,0 +1,94 @@
+{{Dgvariant}}
+{{Infobox Monster
+|name = Pyrefiend
+|image = [[File:Pyrefiend (Dungeoneering).png|x280px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark, Examine
+|examine = A small fire demon.
+|level = 50
+|lifepoints = 4400
+|experience = 220.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 30
+|slayxp = 56
+|slayercat = Pyrefiends, Creatures of Daemonheim
+|max_melee = 148
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 52
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 901
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 341
+|defence = 22
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id = 10697
+|leagueRegion = Wilderness
+}}
+'''Pyrefiends''' are [[Slayer]] monsters that require level 30 Slayer to kill. They can drop the rare [[Flameburst defender]], which increases the power of the [[Frostbite dagger]] and the [[Hailstorm dagger]], as well as enable the use of dual wield abilities within Daemonheim. They are found on all [[Dungeoneering floors]].
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Monster-specific===
+{{DropsTableHead}}
+{{DropsLine|name=Flameburst defender|gemw=no|quantity=1|rarity=Uncommon}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[12 April]] [[2010]]|update=Soul Wars|img=Pyrefiend (Dungeoneering) (2010).png|name=Pyrefiend (Dungeoneering)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Pyrefiend (Dungeoneering) (2014).png|name=Pyrefiend (Dungeoneering)}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Pyrefiend (Dungeoneering).png|name=Pyrefiend (Dungeoneering)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Pyrefiends have been graphically updated.
+
+* {{UL|type=ninja|update=Patch Notes (26 August 2014)|date=26 August 2014}}
+** Pyrefiend and icefiend models and animations have been updated to use the God Wars models and animations.
+
+* {{UL|type=update|update=Game Update (19 April 2012)|date=19 April 2012}}
+** Increased frequency of Slayer creatures in Dungeoneering.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Slayer monsters}}
+{{Demons}}

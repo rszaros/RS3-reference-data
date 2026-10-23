@@ -1,0 +1,143 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 39
+|version2 = 58
+|version3 = 78
+|version4 = 98
+|version5 = 117
+|version6 = 138
+|name = Green dragon
+|image = [[File:Green dragon 1.png|200px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|options = Attack, Mark
+|size = 4
+|examine = Must be related to Elvarg.
+|level1 = 39
+|level2 = 58
+|level3 = 78
+|level4 = 98
+|level5 = 117
+|level6 = 138
+|lifepoints1 = 4800
+|lifepoints2 = 8400
+|lifepoints3 = 11200
+|lifepoints4 = 14000
+|lifepoints5 = 16800
+|lifepoints6 = 19800
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Green dragons, Dragons, Creatures of Daemonheim
+|max_melee1 = 201.6
+|max_melee2 = 302.4
+|max_melee3 = 403.2
+|max_melee4 = 504.0
+|max_melee5 = 604.8
+|max_melee6 = 712.8
+|max_ranged = 0
+|max_magic1 = 201.6
+|max_magic2 = 302.4
+|max_magic3 = 403.2
+|max_magic4 = 504.0
+|max_magic5 = 604.8
+|max_magic6 = 712.8
+|max_necromancy = 0
+|max_spec = n/a
+|style = magic, melee, dragonfire
+|primarystyle = magic
+|speed = 4
+|attack1 = 28
+|attack2 = 42
+|attack3 = 56
+|attack4 = 70
+|attack5 = 84
+|attack6 = 99
+|ranged = 1
+|magic1 = 28
+|magic2 = 42
+|magic3 = 56
+|magic4 = 70
+|magic5 = 84
+|magic6 = 99
+|necromancy = 1
+|acc_melee1 = 424
+|acc_melee2 = 668
+|acc_melee3 = 1011
+|acc_melee4 = 1486
+|acc_melee5 = 2125
+|acc_melee6 = 3031
+|acc_ranged = 0
+|acc_magic1 = 424
+|acc_magic2 = 668
+|acc_magic3 = 1011
+|acc_magic4 = 1486
+|acc_magic5 = 2125
+|acc_magic6 = 3031
+|acc_necromancy = 0
+|armour1 = 454
+|armour2 = 628
+|armour3 = 1011
+|armour4 = 1132
+|armour5 = 1486
+|armour6 = 1924
+|defence1 = 28
+|defence2 = 42
+|defence3 = 56
+|defence4 = 70
+|defence5 = 84
+|defence6 = 99
+|weakness = Arrows
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10604
+|id2 = 10605
+|id3 = 10606
+|id4 = 10607
+|id5 = 10608
+|id6 = 10609
+|leagueRegion = Wilderness
+}}
+A '''Green dragon''' may be encountered in the [[abandoned floors]] while training [[Dungeoneering]]. This monster uses a long-range [[dragonfire]] attack in addition to its regular dragonfire attack. This can prove very deadly to those without an [[Anti-dragon shield (Dungeoneering)|anti-dragon shield]] or a [[Cure potion]], or those with two-handed weapons such as [[bow]]s or [[two-handed sword]]s. [[Protect from Magic|Protect from]]/[[Deflect Magic]] may also be used to avoid heavy damage from dragonfire, but the dragon will still regularly hit in the 200s (this is also the only way to realistically exploit their weakness).
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Dragon bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+==Trivia==
+*The examine text is a reference to both [[Elvarg]] the dragon from [[Dragon Slayer]] and to other [[green dragon]]s found outside of [[Daemonheim]].
+
+==Gallery==
+<gallery mode="nolines" heights="200" widths="200">
+Green dragon 1.png
+Green dragon 2.png
+Green dragon 3.png
+</gallery>
+
+{{Dungeoneering monsters}}
+{{Dragon}}

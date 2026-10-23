@@ -1,0 +1,128 @@
+{{External|os}}
+{{otheruses|the NPC in an Enchanted Valley|the NPC in the Court Cases Distraction and Diversion|River troll (Court Cases)}}
+{{Infobox Monster
+|name = River troll
+|image = [[File:River troll.png|200px]]
+|release = [[29 March]] [[2004]]
+|update = RS2 Launched!
+|members = No
+|options = Attack, Examine
+|race = Troll
+|examine = Likes fish...hates people.
+|level = N/A
+|lifepoints = 1700
+|experience = 85
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 89.4
+|slayercat = Trolls
+|max_melee = 10
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 110
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 0
+|defence = 130
+|weakness = Crush
+|susceptibility = None
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|id = 8646
+|leagueRegion=Global}}
+A '''river troll''' can be found in the [[Enchanted Valley]], by fishing in the [[fishing spot (Enchanted Valley)|fishing spot]] there, and in [[Court Cases]]. They have no level and its attacks are very weak and inaccurate.
+
+==Cries==
+* {{RSChat|Fishies be mine, leave dem fishies!}}
+* {{RSChat|Leave dem fishies alone!}} (if player attempts to fish again while it is around)
+* {{RSChat|You killed da Sea Troll Queen - you die now!}} (After [[Swan Song]])
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5000}}
+{{DropsTableBottom}}
+
+==As a random event==
+[[File:River troll (2004).png|100px|left|River troll]]
+Before the update on [[25 February]] [[2009]], river trolls were a [[random event]] that occurred while a player was [[fishing]]. These [[NPC]] monsters would appear and attack players when the player initially made an attempt to fish. They would say "Fishes be mine!" before attacking the player. The river troll's combat level used to vary depending on that of the player's, up to a maximum of level 159. Like most other random events at the time, the river troll could be fled from, as it only had a [[melee]] attack.
+{{clear|left}}
+
+===Former drops===
+====Materials====
+{{DropsTableHead|version=Random event|bucket=no}}
+{{DropsLine|name=Raw tuna|quantity=1|rarity=1/128}}
+{{DropsLine|name=Raw salmon|quantity=1|rarity=4/128}}
+{{DropsLine|name=Raw herring|quantity=1|rarity=3/128}}
+{{DropsLine|name=Raw pike|quantity=1|rarity=6/128}}
+{{DropsLine|name=Raw sardine|quantity=1|rarity=4/128}}
+{{DropsLine|name=Raw swordfish|quantity=1|rarity=19/128}}
+{{DropsLine|name=Raw shark|quantity=1|rarity=12/128}}
+{{DropsTableBottom}}
+
+====Bait====
+{{DropsTableHead|version=Random event|bucket=no}}
+{{DropsLine|name=Fishing bait|quantity=5|rarity=27/128}}
+{{DropsLine|name=Fishing bait|quantity=15|rarity=9/128}}
+{{DropsLine|name=Fishing bait|quantity=30|rarity=13/128}}
+{{DropsLine|name=Fishing bait|quantity=50|rarity=2/128}}
+{{DropsLine|name=Feather|quantity=20|rarity=4/128}}
+{{DropsLine|name=Feather|quantity=40|rarity=4/128}}
+{{DropsTableBottom}}
+
+====Other====
+{{DropsTableHead|version=Random event|bucket=no}}
+{{DropsLine|name=Oyster|quantity=1|rarity=12/128}}
+{{DropsLine|name=Fishing potion (3)|quantity=1|rarity=3/128}}
+{{DropsLine|name=Casket|quantity=1|rarity=5/128}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=River troll (2004).png|name=River troll}}
+|{{GUL|date=[[15 March]] [[2011]]|update=Ring of Wealth, Shanties, Trolls and Dungeoneering|img=River troll.png|name=River troll}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=RS2 Launched!|date=29 March 2004}}
+** The NPC was permanently added with the launch of ''RuneScape 2''.
+* {{UL|type=update|update=Huge Runescape 2 update|date=2 February 2004}}
+** The NPC was added to the ''RuneScape 2'' Beta.
+}}
+
+==Trivia==
+* Despite their name "river troll", they would appear even if the player was fishing in the sea.
+* This statement explains the possible origins of the river troll, as taken from [[Postbag from the Hedge]]; ''"Dem fishes be mostly in de river. Den big trollnado come. Me and Dem missus in Dem whirlpool, get into Dem sea. Me’s get in Dem big trouble. Me hear Dem trolley get us back to Trollheim. Me’s try eating that clown fish, but it taste funny to me. If you’s helping Dem trolls get home, me gives big trollipop! Maybe."''
+* Previously, [[Monster Examine]] could not be cast on river trolls.
+
+{{Random Events}}
+{{Enchanted Valley}}
+{{Trolls}}
+[[Category:Bandosians]]

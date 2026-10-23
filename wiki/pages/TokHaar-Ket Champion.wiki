@@ -1,0 +1,80 @@
+{{Otheruses|the Fight Cauldron variant}}
+{{Infobox Monster
+|name = TokHaar-Ket Champion
+|image = [[File:TokHaar-Ket Champion.png|194px]]
+|release = [[4 December]] [[2012]]
+|update = The Brink of Extinction - Grandmaster Quest
+|members = Yes
+|options = Attack, Examine
+|examine = Larger and more ferocious than any of the other TokHaar-Ket.
+|level = 112
+|lifepoints = 9000
+|experience = 450.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 423.5
+|slayercat = TzHaar
+|assigned_by = Kuradal,Morvran
+|max_melee = 540
+|max_ranged = 900
+|max_magic = 540
+|max_necromancy = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 80
+|ranged = 80
+|magic = 80
+|necromancy = 1
+|acc_melee = 1924
+|acc_ranged = 1924
+|acc_magic = 1924
+|acc_necromancy = 0
+|armour = 1924
+|defence = 80
+|weakness = Nothing
+|aff_weakness = 40
+|aff_melee = 40
+|aff_ranged = 40
+|aff_magic = 40
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id = 17121
+|leagueRegion = Karamja,Tirannwn
+}}
+The '''TokHaar-Ket Champion''' is a powerful TokHaar creature that can be fought during the [[Fight Cauldron]] minigame. This monster has a powerful [[prayer]]-draining melee attack. It has no weakness, but it is advisable to fight it using [[melee]] or [[magic]], as players would take considerable damage if engaging it with [[ranged]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Obsidian shard|quantity=4|rarity=Always|gemw=no|alch=no|raritynotes={{DropNote|Shards are automatically picked up after every kill. They appear in the player's backpack upon leaving the Fight Cauldron. If the player dies, they instead only receive '''half''' of the shards they obtained.}}}}
+{{DropsLine|name=Uncut emerald|quantity=2 (noted)|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=TzHaar-Ket-Om|quantity=1|rarity=1/50}}
+{{DropsLine|name=Onyx bolt tips|quantity=4|rarity=1/50}}
+{{DropsLine|name=Uncut onyx|quantity=1|rarity=1/5000}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Jungle Predator}}
+** [[TzHaar-Ket-Om]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=The Brink of Extinction - Grandmaster Quest|date=4 December 2012}}
+** Added to game.
+}}
+
+{{Fight Cauldron}}
+[[Category:TokHaar]]

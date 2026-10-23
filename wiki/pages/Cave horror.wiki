@@ -1,0 +1,175 @@
+{{External|os}}
+{{Otheruses|def=no|the elite version|Cave horror (elite)}}
+{{Infobox Monster
+|name = Cave horror
+|image = [[File:Cave horror.png|250px]]
+|release = [[4 July]] [[2006]]
+|update = Trouble Brewing
+|level = 77
+|experience = 250.0
+|lifepoints = 5000
+|slaylvl = 58
+|slayxp = 99.4
+|slayercat = Cave horrors
+|assigned_by = Chaeldar, Sumona
+|members = Yes
+|aggressive = Yes
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style = melee
+|speed = 4
+|max_melee = 220
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|weakness = Air
+|options = Attack
+|examine = A horrible, emaciated ape like creature with beady red eyes.
+|attack = 55
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|defence = 55
+|armour = 983
+|acc_melee = 983
+|acc_ranged = 0
+|acc_magic = 0
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|primarystyle = melee
+|leagueRegion = Morytania
+|id = 4355
+}}
+[[File:Cave horror icon.png|left]]
+A '''cave horror''' is a [[Slayer]] monster that requires level 58 Slayer, a [[witchwood icon]], and a [[light source]] to successfully hunt and kill. The player must also have completed the [[Cabin Fever]] quest to have access to [[Mos Le'Harmless]], as cave horrors live in an unlit cave on this island. They also have a weaker relative outside on the island called the [[jungle horror]]. They have a stronger relative in the northeast of the same cave, the [[Unspeakable horror]], which can be used as a stronger alternative when you have these as a slayer task. When killing cave horrors, an [[cave horror (elite)|elite]] version may spawn (guaranteed while on a Slayer assignment), which can be further increased with the use of [[fellstalk incense stick]]s and tier 2 [[luck]]. 
+
+Players can buy a [[witchwood icon]] from any [[Slayer Master]] and must wear it while fighting cave horrors in close combat. The player can damage them without the icon, but the icon protects against the cave horrors' scream. Without the icon, the scream reduces stats and life points, similar to the effect of a [[banshee]] when fought without [[earmuffs]] or a [[dust devil]] when fought without a [[face mask]]. The [[Deflect Melee]] and [[Protect from Melee]] prayers will not block this damage. 
+
+The witchwood icon is not necessary when engaging in long range combat from a [[safe spot]], so a neck slot item with better combat modifiers can be worn instead. It is recommended to carry an icon in inventory when using this tactic, in case close combat occurs by accident.
+
+In contrast to most monsters, the cave horror has an irregular [[attack speed]], which can shift in the middle of a battle. Time between attacks can be either 2.4 seconds or 3.0 seconds.
+
+Cave horrors are generally known for dropping the [[Black mask(10)|black mask]].
+
+==Locations==
+Players need a [[light source]] such as [[Seer's headband 3]] or [[bullseye lantern]] to operate in the cave. If a player goes in without a light source, bugs will rapidly bite them hitting 10-100 and can kill the player quickly depending on their number of [[life points]].
+{{LocTableHead}}
+{{LocLine
+|loc=[[Mos Le'Harmless Caves]]
+|lvls=77
+|mem=yes
+|requirements={{QuestIcon|Cabin Fever}}
+|mapID=27
+|npcid:4355,x:3720,y:9349|npcid:4355,x:3724,y:9391|npcid:4355,x:3726,y:9399
+|npcid:4355,x:3729,y:9349|npcid:4355,x:3733,y:9353|npcid:4355,x:3733,y:9367
+|npcid:4355,x:3741,y:9373|npcid:4355,x:3754,y:9385|npcid:4355,x:3759,y:9395
+|npcid:4355,x:3717,y:9423|npcid:4355,x:3721,y:9418|npcid:4355,x:3729,y:9428
+|npcid:4355,x:3729,y:9457|npcid:4355,x:3734,y:9445|npcid:4355,x:3737,y:9412
+|npcid:4355,x:3739,y:9442|npcid:4355,x:3741,y:9418|npcid:4355,x:3741,y:9426
+|npcid:4355,x:3744,y:9463|npcid:4355,x:3748,y:9424|npcid:4355,x:3751,y:9456
+|npcid:4355,x:3754,y:9439|npcid:4355,x:3756,y:9432|npcid:4355,x:3762,y:9451
+|npcid:4355,x:3764,y:9434|npcid:4355,x:3769,y:9421|npcid:4355,x:3769,y:9465
+|leagueRegion=Morytania
+}}
+{{LocTableBottom}}
+
+===Getting there===
+*Using the [[charter ship]]
+*Teleporting using [[rum (red)]] or [[rum (blue)]] bought from [[Honest Jimmy's House of Stuff]]
+*Accessing through the [[fairy ring]] {{Fairycode|DIP}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black mask (10)|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|1/496 with tier 2 [[luck]] or higher.}}}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy ranarr|quantity=2 (noted)|rarity=8/128}}
+{{DropsLine|name=Grimy lantadyme|quantity=1 (noted)|rarity=6/128}}
+{{DropsLine|name=Grimy dwarf weed|quantity=1 (noted)|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2250-3750|rarity=10/128}}
+{{DropsLine|name=Coins|quantity=3750-6250|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=7500-12500|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Teak logs|quantity=6-10 (noted)|rarity=12/128}}
+{{DropsLine|name=Mahogany logs|quantity=2-6 (noted)|rarity=8/128}}
+{{DropsLine|name=Weapon poison+ (2)|quantity=1|rarity=14/128}}
+{{DropsLine|name=Big bones|quantity=13-17 (noted)|rarity=10/128}}
+{{DropsLine|name=Monkey bones|quantity=2 (noted)|rarity=10/128}}
+{{DropsLine|name=Raw swordfish|quantity=7-9 (noted)|rarity=10/128}}
+{{DropsLine|name=Ruby ring|quantity=3 (noted)|rarity=7/128}}
+{{DropsLine|name=Ruby necklace|quantity=2 (noted)|rarity=7/128}}
+{{DropsLine|name=Poison ivy berries|quantity=2 (noted)|rarity=6/128}}
+{{DropsLine|name=Coconut|quantity=1 (noted)|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Foot bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128}}
+{{DropsLineEffigy|level=77}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=77}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 38.071/1000
+|green = 19.036/1000
+|crimson = 133.249/1000
+|blue = 3.807/1000
+}}
+
+==Money making guide==
+{{Mmgsection|Killing cave horrors}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Jungle and Cave horror sculpts.jpg|Cave Horror sculpts
+Jungle and Cave horror models.jpg|Cave Horror models
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Trouble Brewing|date=4 July 2006}}
+** Added to game.
+}}
+
+{{Horrors}}
+{{Slayer monsters}}
+[[Category:Tier 2 luck]]
+[[Category:Mos Le'Harmless]]

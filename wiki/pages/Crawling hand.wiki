@@ -1,0 +1,409 @@
+{{external|os=Crawling Hand}}
+{{otheruses|the slayer monster|the rare item drop|crawling hand (item)}}
+{{otheruses|def=no}}
+{{Infobox Monster
+|version1 = Level 6 (1)
+|version2 = Level 6 (2)
+|version3 = Level 6 (3)
+|version4 = Level 6 (4)
+|version5 = Level 6 (5)
+|version6 = Level 10 (1)
+|version7 = Level 10 (2)
+|version8 = Level 10 (3)
+|version9 = Level 10 (4)
+|version10 = Level 10 (5)
+|name = Crawling hand
+|image = [[File:Crawling Hand.png|120px]]
+|image2 = [[File:Crawling hand (2).png|200px]]
+|image3 = [[File:Crawling hand (3).png|200px]]
+|image4 = [[File:Crawling hand (4).png|200px]]
+|image5 = [[File:Crawling hand (5).png|200px]]
+|image6 = [[File:Crawling hand (6).png|200px]]
+|image7 = [[File:Crawling hand (7).png|200px]]
+|image8 = [[File:Crawling hand (8).png|200px]]
+|image9 = [[File:Crawling hand (9).png|200px]]
+|image10 = [[File:Crawling hand (10).png|200px]]
+|release = [[26 January]] [[2005]]
+|update = Slayer Skill
+|members1 = No
+|members2 = Yes
+|members3 = Yes
+|members4 = Yes
+|members5 = Yes
+|members6 = Yes
+|members7 = Yes
+|members8 = Yes
+|members9 = Yes
+|members10 = Yes
+|options = Attack, Examine
+|examine1 = Gimme five. Actually, don't.
+|examine2 = Gimme five. Actually, don't.
+|examine3 = Gimme five. Actually, don't.
+|examine4 = Gimme five. Actually, don't.
+|examine5 = Gimme five. Actually, don't.
+|examine6 = Now, that's handy.
+|examine7 = I'm glad it's just the hand I can see...
+|examine8 = A big severed hand.
+|examine9 = Give the guy a big hand.....
+|examine10 = A big severed hand.
+|level1 = 6
+|level2 = 6
+|level3 = 6
+|level4 = 6
+|level5 = 6
+|level6 = 10
+|level7 = 10
+|level8 = 10
+|level9 = 10
+|level10 = 10
+|lifepoints1 = 1450
+|lifepoints2 = 1450
+|lifepoints3 = 1450
+|lifepoints4 = 1450
+|lifepoints5 = 1450
+|lifepoints6 = 1750
+|lifepoints7 = 1750
+|lifepoints8 = 1750
+|lifepoints9 = 1750
+|lifepoints10 = 1750
+|experience1 = 72.5
+|experience2 = 72.5
+|experience3 = 72.5
+|experience4 = 72.5
+|experience5 = 72.5
+|experience6 = 87.5
+|experience7 = 87.5
+|experience8 = 87.5
+|experience9 = 87.5
+|experience10 = 87.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 5
+|slayxp1 = 20
+|slayxp2 = 20
+|slayxp3 = 20
+|slayxp4 = 20
+|slayxp5 = 20
+|slayxp6 = 21.8
+|slayxp7 = 21.8
+|slayxp8 = 21.8
+|slayxp9 = 21.8
+|slayxp10 = 21.8
+|slayercat = Crawling hands, Zombies, Undead
+|max_melee1 = 80
+|max_melee2 = 80
+|max_melee3 = 80
+|max_melee4 = 80
+|max_melee5 = 80
+|max_melee6 = 140
+|max_melee7 = 140
+|max_melee8 = 140
+|max_melee9 = 140
+|max_melee10 = 140
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 4
+|attack2 = 4
+|attack3 = 4
+|attack4 = 4
+|attack5 = 4
+|attack6 = 7
+|attack7 = 7
+|attack8 = 7
+|attack9 = 7
+|attack10 = 7
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 40
+|acc_melee2 = 40
+|acc_melee3 = 40
+|acc_melee4 = 40
+|acc_melee5 = 40
+|acc_melee6 = 71
+|acc_melee7 = 71
+|acc_melee8 = 71
+|acc_melee9 = 71
+|acc_melee10 = 71
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 150
+|armour2 = 150
+|armour3 = 150
+|armour4 = 150
+|armour5 = 150
+|armour6 = 181
+|armour7 = 181
+|armour8 = 181
+|armour9 = 181
+|armour10 = 181
+|defence1 = 5
+|defence2 = 5
+|defence3 = 5
+|defence4 = 5
+|defence5 = 5
+|defence6 = 8
+|defence7 = 8
+|defence8 = 8
+|defence9 = 8
+|defence10 = 8
+|weakness = Fire
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 1648
+|id2 = 1649
+|id3 = 1650
+|id4 = 1651
+|id5 = 1652
+|id6 = 1653
+|id7 = 1654
+|id8 = 1655
+|id9 = 1656
+|id10 = 1657
+|leagueRegion=Asgarnia, Morytania}}
+[[File:Crawling hand icon.png|left]]
+'''Crawling hands''' are [[Slayer]] monsters that require level 5 Slayer to kill, and are the second [[Slayer monsters]] that beginning Slayers can kill, the first being [[gelatinous abomination]]s. They frequently drop gloves and rings, since they are reanimated severed hands. They are also one of the creatures that will sometimes "die" in a perfect form, dropping as a [[crawling hand (item)|crawling hand item]] that can be stuffed by a [[taxidermist]] and mounted in a [[player-owned house]]. The [[crawling hand (stuffed)|stuffed hand]] along with 5 zeal points can also be exchanged for a [[creeping hand]] [[Summoning pet]] at [[Soul Wars]].
+
+Players can also kill [[skeletal hand]]s and [[zombie hand]]s as part of a [[Crawling hands (Slayer assignment)|crawling hand Slayer task]]. These monsters yield more slayer and combat experience than crawling hands and have better drops. Skeletal and zombie hands are found in the [[Meiyerditch Dungeon]], which can only be accessed during and after the [[Legacy of Seergaze]] [[quest]].
+
+Crawling hands are susceptible to [[salve amulet]]s and other [[Undead slayer (effect)|undead slayer effects]]. Crawling hands can be fought on [[slayer contracts]], giving 9.6 and 11.3 experience on special contracts for the level 6 and level 10 versions, respectively.
+
+Players can use a [[mask of Broken Fingers]] (or its helm variant [[Helm of the Dead Hand]]) to kill these, especially when on a slayer assignment, to take advantage of its benefits.
+
+The crawling hands in the [[Burthorpe Slayer Cave]] are one of the few types of monsters that drop [[gold charm]]s in free-to-play.
+
+==Locations==
+{{see also|Crawling hand (Dungeoneering)}}
+{{LocTableHead}}
+{{LocLine
+|loc=[[Burthorpe Slayer Cave]]
+|lvls=6
+|mem=no
+|mapID=719
+|npcid:1648,x:223,y:99|npcid:1648,x:227,y:95|npcid:1648,x:232,y:100
+|npcid:1648,x:233,y:94|npcid:1648,x:234,y:85|npcid:1648,x:237,y:100
+|npcid:1648,x:240,y:95|npcid:1648,x:240,y:102|npcid:1648,x:242,y:87
+|npcid:1648,x:242,y:98|npcid:1648,x:246,y:82
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Slayer Tower]] {{FloorNumber|1}}
+|lvls=6, 10
+|mem=yes
+|mapID=28
+|npcid:1649,x:3401,y:3563|npcid:1652,x:3401,y:3568|npcid:1655,x:3402,y:3547
+|npcid:1648,x:3402,y:3553|npcid:1656,x:3402,y:3570|npcid:1650,x:3403,y:3573
+|npcid:1654,x:3404,y:3561|npcid:1657,x:3406,y:3542|npcid:1651,x:3406,y:3551
+|npcid:1648,x:3406,y:3573|npcid:1653,x:3407,y:3559|npcid:1648,x:3407,y:3561
+|npcid:1651,x:3408,y:3572|npcid:1650,x:3409,y:3543|npcid:1655,x:3410,y:3572
+|npcid:1649,x:3411,y:3567|npcid:1652,x:3412,y:3564
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Strategy==
+{{cquote2|The last Crawling hand I killed I found fire spells took them down effectively.
+
+Crawling hands are undead severed hands; fast and dexterous, they claw their victims. They can be found in the Slayer Tower, north-east of the entrance to Morytania.|[[Turael]]}}
+
+{{cquote2|The last Crawling hand I killed I found fire spells took them down effectively.
+
+Crawling hands are undead severed hands; fast and dexterous they claw their victims. Massacre these unnatural creations at the Slayer Tower near Canifis.|[[Chaeldar]]}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Gloves===
+{{DropsTableHead}}
+{{DropsLine|name=Leather gloves|quantity=1|rarity=21/128}}
+{{DropsLine|name=Gloves (grey)|members=yes|quantity=1|rarity=2/128}}
+{{DropsLine|name=Gloves (purple)|members=yes|quantity=1|rarity=2/128}}
+{{DropsLine|name=Gloves (red)|members=yes|quantity=1|rarity=2/128}}
+{{DropsLine|name=Gloves (teal)|members=yes|quantity=1|rarity=2/128}}
+{{DropsLine|name=Gloves (yellow)|members=yes|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Jewellery===
+{{DropsTableHead}}
+{{DropsLine|name=Gold ring|quantity=1|rarity=3/128}}
+{{DropsLine|name=Sapphire ring|quantity=1|rarity=2/128}}
+{{DropsLine|name=Emerald ring|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=5|rarity=22/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=8|rarity=22/128|altrarity=32/128|raritynotes={{DropNote|22/128 in members' worlds; 32/128 in free-to-play worlds.}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=44/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Hand bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}{{DropNote|Cannot be obtained in the [[Burthorpe Slayer Cave]].}}|gemw=No}}
+{{DropsLine|name=Crawling hand (item)|quantity=1|rarity=1/500|altrarity=1/243|altraritydash=y|raritynotes={{DropNote|1/485 with tier 1 [[luck]] or higher. 1/250 if wearing the [[Mask of Broken Fingers]] or [[Helm of the Dead Hand]] and 1/243 if also having tier 1 luck or higher.}}|gemw=No|members=Yes}}
+{{DropsLineEffigy|level=6|members=yes}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineMimic|level=6|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|f2p = yes
+|quantity = 1
+|gold = 98.537/1000
+|green = 3.079/1000
+|crimson = 6.159/1000
+|blue = 0.616/1000
+}}
+
+==Products==
+{{Uses facility list|Crawling hand}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Crawlinghands at the GE.png|Crawling hands mysteriously spawning at the Grand Exchange.
+</gallery>
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Crawling Hand 6a
+|item1 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Crawling hand (2005).png|name=Crawling hand}}
+|{{GUL|date=[[22 April]] [[2008]]|update=Myreque Part IV - Legacy of Seergaze|img=Crawling Hand.png|name=Crawling hand}}
+}}
+
+|text2 = Crawling Hand 6b
+|item2 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Crawling hand (2) (2005).png|name=Crawling hand}}
+|{{GUL|date=[[22 April]] [[2008]]|update=Myreque Part IV - Legacy of Seergaze|img=Crawling hand (2).png|name=Crawling hand}}
+}}
+
+|text3 = Crawling Hand 6c
+|item3 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Crawling hand (3) (2005).png|name=Crawling hand}}
+|{{GUL|date=[[22 April]] [[2008]]|update=Myreque Part IV - Legacy of Seergaze|img=Crawling hand (3).png|name=Crawling hand}}
+}}
+
+|text4 = Crawling Hand 6d
+|item4 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Crawling hand (4) (2005).png|name=Crawling hand}}
+|{{GUL|date=[[22 April]] [[2008]]|update=Myreque Part IV - Legacy of Seergaze|img=Crawling hand (4).png|name=Crawling hand}}
+}}
+
+|text5 = Crawling Hand 6e
+|item5 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Crawling hand (5) (2005).png|name=Crawling hand}}
+|{{GUL|date=[[22 April]] [[2008]]|update=Myreque Part IV - Legacy of Seergaze|img=Crawling hand (5).png|name=Crawling hand}}
+}}
+
+|text6 = Crawling Hand 10a
+|item6 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Crawling hand (6) (2005).png|name=Crawling hand}}
+|{{GUL|date=[[22 April]] [[2008]]|update=Myreque Part IV - Legacy of Seergaze|img=Crawling hand (6).png|name=Crawling hand}}
+}}
+
+|text7 = Crawling Hand 10b
+|item7 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Crawling hand (7) (2005).png|name=Crawling hand}}
+|{{GUL|date=[[22 April]] [[2008]]|update=Myreque Part IV - Legacy of Seergaze|img=Crawling hand (7).png|name=Crawling hand}}
+}}
+
+|text8 = Crawling Hand 10c
+|item8 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Crawling hand (8) (2005).png|name=Crawling hand}}
+|{{GUL|date=[[22 April]] [[2008]]|update=Myreque Part IV - Legacy of Seergaze|img=Crawling hand (8).png|name=Crawling hand}}
+}}
+
+|text9 = Crawling Hand 10d
+|item9 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Crawling hand (9) (2005).png|name=Crawling hand}}
+|{{GUL|date=[[22 April]] [[2008]]|update=Myreque Part IV - Legacy of Seergaze|img=Crawling hand (9).png|name=Crawling hand}}
+}}
+
+|text10 = Crawling Hand 10e
+|item10 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Crawling hand (10) (2005).png|name=Crawling hand}}
+|{{GUL|date=[[22 April]] [[2008]]|update=Myreque Part IV - Legacy of Seergaze|img=Crawling hand (10).png|name=Crawling hand}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament &amp; Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes crawling hands.
+
+* {{UL|type=patch|update=Patch Notes (9 November 2009)|date=9 November 2009}}
+** Crawling hands can now drop [[Gloves (purple)|purple gloves]] on occasion.
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The concept probably originated from the story, "La Main Gauche" from French author {{WP|Guy de Maupassant}}. This theory is backed up by the ability to display the hand in one's home, as in the story. Another possible origin might be the wallmasters/floormasters from the {{WP|The Legend of Zelda|The Legend of Zelda series}} or Thing from {{WP|The Addams Family}}. Another possible inspiration was from the B-movie {{WP|The Crawling Hand}}, in which an astronaut burns up and crash lands with his hand being the only surviving part, which becomes animated via radiation, or from {{WP|Dr. Terror's House of Horrors}}, in which the protagonist is haunted by the severed, crawling hand of his enemy who committed suicide.
+* Their appearance was updated on [[5 June]] [[2008]].
+*The black markings seen on some of the crawling hands is very similar to the appearance of Ash's possessed hand from ''{{WP|Evil Dead 2}}'', which he severs with a chainsaw, after which it crawls about on its own.
+* All crawling hands seem to be right hands.
+* Crawling hands are the lowest level monster that drop the [[Vecna skull]].
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{Zombie}}
+{{Slayer Tower}}
+[[Category:Tier 1 luck]]
+[[pt:Mão rastejante]]

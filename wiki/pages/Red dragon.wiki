@@ -1,0 +1,226 @@
+{{External|os|rsc=Red Dragon|dw=Red Dragon}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|name = Red dragon
+|image1 = [[File:Red dragon (1).png]]
+|image2 = [[File:Red dragon (2).png]]
+|image3 = [[File:Red dragon (3).png]]
+|image4 = [[File:Red dragon (4).png]]
+|image5 = [[File:Red dragon (5).png]]
+|release = [[27 February]] [[2002]]
+|update = Latest RuneScape News (27 February 2002)
+|members = No
+|options = Attack
+|size = 4
+|examine = A big powerful dragon.
+|level = 84
+|lifepoints = 6000
+|experience = 300
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 140
+|slayercat = Dragons, red dragons
+|assigned_by = Sumona
+|max_melee = 396
+|max_ranged = 0
+|max_magic = 396
+|max_spec = 0
+|style = magic, melee, dragonfire
+|primarystyle = magic
+|speed = 4
+|attack = 60
+|ranged = 1
+|magic = 60
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 1132
+|acc_ranged = 0
+|acc_magic = 1132
+|armour = 1132
+|defence = 60
+|weakness = Bolts
+|susceptibility = dragon bane, dragon slayer
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Karamja,Wilderness
+|id1 = 53
+|id2 = 4669
+|id3 = 4670
+|id4 = 4671
+|id5 = 4672
+}}
+[[File:Red dragon face.png|left|92px]]
+'''Red dragons''' are the second strongest [[chromatic dragons]]. They primarily attack using a [[Fire Bolt]] spell, but as with all dragons, they can use a magic-based dragonfire attack. They also use melee if the player gets within melee range. The dragonbreath attack can hit from a distance as well as up close, so an [[anti-dragon shield]], the [[Protect from Magic]] prayer, or an [[antifire]] potion are essential when fighting them as they can otherwise hit over 1500. Money can be made by selling their drops. Collecting the hides and bones makes each kill worth approximately {{formatnum:{{#expr:{{GEPrice|Dragon bones|n}} + {{GEPrice|Red dragonhide|n}} round 0}}}} [[coins]].
+
+If assigned red dragons as a [[slayer]] task, [[baby red dragon]]s may be killed as an alternative.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Red Dragon Isle]] (level 41 Wilderness)
+|lvls=84
+|mem=no
+|mapID=28
+|npcid:4672,x:3190,y:3834|npcid:4670,x:3181,y:3850|npcid:53,x:3212,y:3820
+|npcid:53,x:3222,y:3829
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Brimhaven Dungeon]]
+|lvls=84
+|mem=yes
+|mapID=13
+|npcid:4672,x:137,y:98|npcid:4670,x:145,y:114|npcid:53,x:146,y:99
+|npcid:4671,x:147,y:108|npcid:4669,x:154,y:118|npcid:53,x:163,y:109
+|leagueRegion = Karamja
+}}
+{{LocTableBottom}}
+
+==Strategy==
+As with all dragons, protection from their [[dragonfire]] is required. The following can be combined to provide full dragonfire protection:
+*An [[anti-dragon shield]] or [[dragonfire shield|dragonfire shield (melee)]], [[dragonfire deflector|deflector (ranged)]], or [[dragonfire ward|ward (magic)]] (DFS) with an [[antifire potion]]
+*An anti-dragon shield or DFS with the [[protect from magic]] prayer or [[deflect magic]] [[Ancient curses|curse]]
+*Protect from/deflect magic and antifire potion
+
+Alternatively, a [[super antifire (4)|super antifire]] potion provides complete immunity to dragonfire.
+
+The dragons are weakest to bolts, so Ranged is the most effective style. Melee is not recommended without high combat stats and equipment.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Dragon bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Red dragonhide|quantity=1|rarity=Always}}
+{{DropsLine|name=Perfect red dragon scale|quantity=1|rarity=Always|raritynotes={{DropNote|Guaranteed drop until obtained while on a [[Slayer/Challenges|Slayer challenge]] from [[Vannaka]].}}|gemw=no|alch=no}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril javelin|quantity=20|rarity=1/128}}
+{{DropsLine|name=Rune dart|quantity=1-8|rarity=3/256|altrarity=7/256|raritynotes={{DropNote|3/256 in members' worlds; 7/256 in free-to-play worlds.}}}}
+{{DropsLine|name=Off-hand rune dart|quantity=1-8|rarity=3/256|altrarity=7/256|raritynotes={{DropNote|3/256 in members' worlds; 7/256 in free-to-play worlds.}}}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Law rune|quantity=4|rarity=5/128}}
+{{DropsLine|name=Death rune|quantity=5|rarity=3/128}}
+{{DropsLine|name=Blood rune|members=Yes|quantity=2|rarity=4/128|raritynotes={{DropNote|In free-to-play worlds, this drop is replaced by main hand or off-hand rune darts.}}}}
+{{DropsLine|name=Rune arrow|quantity=4|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|2/128}}
+{{DropsTableHead}}
+{{HerbDropTable|2/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny bladed mithril salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Medium bladed mithril salvage|quantity=1|rarity=7/128}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Huge plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=66|rarity=29/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=196|rarity=40/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=330|rarity=10/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=690|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Chocolate cake|quantity=3|rarity=3/128}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Red dragon tail-bone|members=Yes|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=No}}
+{{DropsLine|name=Sealed clue scroll (hard)|members=Yes|quantity=1|rarity=1/128|gemw=No}}
+{{DropsLine|name=Red dragon egg|members=Yes|quantity=1|rarity=1/200|raritynotes={{DropNote|Requires level 99 [[Summoning]] and not having the [[Baby dragon (pet)#Red|Baby Dragon (Red)]] pet already unlocked.}}|gemw=No}}
+{{DropsLine|name=Red dragon egg (unchecked)|members=Yes|quantity=1|rarity=1/2000|altrarity=1/1600|raritynotes={{DropNote|Only after completing the [[player-owned farm tutorial]]. 1/1,600 with the [[Farming reputation#Ranks and rewards|Apprentice Farmer]] rank unlocked.}}}}
+{{DropsLineSpiritGems|members=Yes}}
+{{DropsLineEffigy|members=Yes|level=84}}
+{{DropsLineMimic|members=Yes|level=84}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 180.95/1000
+|green = 452.374/1000
+|crimson = 180.95/1000
+|blue = 36.19/1000
+}}
+
+==Money making guide==
+{{Mmgsection|Killing red dragons}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Red dragon (2004).png|name=Red dragon}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Red dragon (August 2006) (1).png|name=Red dragon (1)}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Red dragon (August 2006) (2).png|name=Red dragon (2)}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Red dragon (August 2006) (3).png|name=Red dragon (3)}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Red dragon (August 2006) (4).png|name=Red dragon (4)}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Red dragon (August 2006) (5).png|name=Red dragon (5)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Red dragon old 5.png|name=Red dragon (5)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=File:Red dragon (1).png|name=Red dragon (1)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=File:Red dragon (2).png|name=Red dragon (2)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=File:Red dragon (3).png|name=Red dragon (3)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=File:Red dragon (4).png|name=Red dragon (4)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=File:Red dragon (5).png|name=Red dragon (5)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=ninja|update=Patch Notes (9 October 2017)|date=9 October 2017}}
+** Red dragons now drop between one to eight rune darts. Eight is no longer guaranteed.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for Red Dragons.
+
+* {{UL|type=update|update=Love_Story|date=5 July 2010}}
+** Graphical overhaul to chromatics, including baby variants.
+
+* {{UL|type=patch|update=Patch Notes (9 September 2009)|date=9 September 2009}}
+** Improved various dragons’ fire-breath code behaviour to match the KBD's existing behaviour. The actual animation has not changed.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+{{Brimhaven Dungeon}}
+{{Dragon}}
+[[pt:Dragão vermelho]]

@@ -1,0 +1,102 @@
+{{Infobox Monster
+|version1 = Normal
+|version2 = Angry
+|name = The Map
+|image = [[File:The Map.png|200px]]
+|release = [[31 January]] [[2012]]
+|update = Troll Warzone
+|members = No
+|options1 = Talk to, Examine
+|options2 = Attack, Examine
+|examine1 = It looks like he's been living here a while.
+|examine2 = Oh good, now he's angry.
+|level = 9
+|lifepoints = 2050
+|experience = 102.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Trolls
+|max_melee = 210
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 7
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 171
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 171
+|defence = 7
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|restriction = quest
+|leagueRegion = Asgarnia
+|id1 = 15100
+|id2 = 15101
+|voice = Yes
+}}
+[[File:The Map chathead.png|left|75px]]
+'''The Map''' is a [[troll]] encountered during [[Death Plateau]]. He is found in a cutscene during the quest and needs to be defeated.
+
+He can be spoken to, and doing so will reveal that he was part of a group of trolls going to a human settlement using a map, but he ate the map leading to the human settlement, resulting in the other trolls getting annoyed with him and getting lost. The map seems to be the first thing he ate since he is named after it.
+
+It's unspecified how much time passed since then, but it's hinted that it was long enough for The Map to resort to {{WP|cannibalism}}. It seems the other trolls were dead by the time he ate them, although he says that some of them tried to trick him into not eating them by acting alive, so some may have still been alive.
+
+The Map attacks with weak melee attacks and moves slower than walking speed. He follows a simple attack rotation while in melee distance. The Map's first type of auto-attack consists of an uppercut with his left hand that hits the player for up to 60 melee damage. After four auto-attacks, he'll slam both of his fists down on the player for up to 110 melee damage. He will repeat this attack rotation until he dies.
+
+If The Map cannot catch up to the player for a few seconds, he will instead do a special attack where he waves his arms in the air before charging a few tiles, dealing 75 typeless damage. He is weak to [[Water spells]] and can be [[safe spot]]ted across the small rocks to the east, allowing even new players to defeat him effortlessly with [[Water Strike]].
+
+If [[ring of recoil|recoiling]] The Map, the player is required to deal at least one point of damage. While he does not hit hard, The Map has significantly more lifepoints than other monsters at his level, so skillers should take precaution to bring enough food.
+
+{{Listen
+|title = I's The Map.
+|align = left
+|filename = The Map.ogg
+}}
+
+[[File:The Map fight.png|thumb|300px|left|A player fighting The Map]]
+
+==Dialogue==
+{{Speaksin}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=update|update=Going Home to Lumbridge & Amascut 4k Enrage - This Week In RuneScape|date=17 November 2025}}
+** Buffed the lifepoints and damage of Burthorpe trolls that even for Burthorpe path players were underbalanced (troll chuckers, shamans, brutes, Morningstar, Magic Stick and The Map in the Death Plateau quest).
+
+* {{UL|type=update|update=Troll Warzone|date=31 January 2012}}
+** Added to game.
+}}
+
+{{Death Plateau}}
+{{Trolls}}
+{{DEFAULTSORT:Map, The}}
+[[Category:Quest monsters]]
+[[Category:Deceased characters]]
+[[Category:Bandosians]]
+[[Category:NPCs that can move at crawling speed]]

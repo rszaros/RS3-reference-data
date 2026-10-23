@@ -1,0 +1,258 @@
+{{External|os=Goblin}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|version6 = 6
+|version7 = 7
+|version8 = 8
+|name = Goblin
+|image1 = [[File:Goblin (Lumbridge, 1).png]]
+|image2 = [[File:Goblin (Lumbridge, 2).png]]
+|image3 = [[File:Goblin (Lumbridge, 3).png]]
+|image4 = [[File:Goblin (Lumbridge, 4).png]]
+|image5 = [[File:Goblin (Lumbridge, 5).png]]
+|image6 = [[File:Goblin (Lumbridge, 6).png]]
+|image7 = [[File:Goblin (Lumbridge, 7).png]]
+|image8 = [[File:Goblin (Lumbridge, 8).png]]
+|release = [[4 January]] [[2001]]
+|update = Runescape beta is now online!
+|members = No
+|options = Attack, Examine
+|race = Goblin
+|examine = An ugly green creature.
+|level = 2
+|lifepoints = 550
+|experience = 
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19
+|slayercat = Goblins
+|max_melee = 40
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 2
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 20
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 120
+|defence = 2
+|weakness = Air
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|leagueRegion = Misthalin
+|id1 = 11232
+|id2 = 11234
+|id3 = 11236
+|id4 = 11238
+|id5 = 11240
+|id6 = 12353
+|id7 = 12355
+|id8 = 12357
+}}
+[[File:Goblin (Lumbridge) chathead.png|left|90px]]
+'''Goblins''' are level 2 monsters found in [[Lumbridge]], in [[Lumbridge forest]], and slightly south-east of the [[Lumbridge#Lumbridge Market|Lumbridge Market]]. A lone goblin is found in the [[Wheat (scenery)|wheat]] field in [[Draynor Village]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Goblin
+|loc = [[Draynor Village]]
+|mem = No
+|mapID = 28
+|plane = 0
+|lvls = 2
+|npcid:12353,x:3110,y:3281
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|name = Goblin
+|loc = [[Lumbridge forest]]
+|mem = No
+|mapID = 28
+|plane = 0
+|lvls = 2
+|npcid:11232,x:3141,y:3261|npcid:11232,x:3182,y:3255|npcid:11234,x:3173,y:3237
+|npcid:11234,x:3142,y:3260|npcid:11236,x:3141,y:3258|npcid:11236,x:3157,y:3254
+|npcid:11236,x:3157,y:3237|npcid:11236,x:3183,y:3255|npcid:11238,x:3170,y:3259
+|npcid:11238,x:3145,y:3246|npcid:11240,x:3151,y:3252|npcid:11240,x:3173,y:3253
+|npcid:12353,x:3144,y:3259|npcid:12353,x:3146,y:3260|npcid:12353,x:3184,y:3255
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|name = Goblin
+|loc = [[Lumbridge]]
+|mem = No
+|mapID = 28
+|plane = 0
+|lvls = 2
+|npcid:11232,x:3249,y:3242
+|npcid:11232,x:3255,y:3238
+|npcid:11232,x:3258,y:3245
+|npcid:11234,x:3224,y:3261
+|npcid:11234,x:3244,y:3246
+|npcid:11234,x:3251,y:3238
+|npcid:11234,x:3257,y:3248
+|npcid:11236,x:3246,y:3245
+|npcid:11236,x:3255,y:3247
+|npcid:11236,x:3256,y:3232
+|npcid:11238,x:3258,y:3226
+|npcid:11238,x:3255,y:3252
+|npcid:11238,x:3262,y:3219
+|npcid:11240,x:3251,y:3231
+|npcid:11240,x:3252,y:3240
+|npcid:11240,x:3256,y:3224
+|npcid:11240,x:3258,y:3228
+|npcid:12353,x:3250,y:3241
+|npcid:12353,x:3260,y:3226
+|npcid:12353,x:3260,y:3225
+|npcid:12353,x:3258,y:3223
+|npcid:12353,x:3260,y:3233
+|npcid:12355,x:3248,y:3238
+|npcid:12355,x:3254,y:3240
+|npcid:12355,x:3260,y:3237
+|npcid:12357,x:3246,y:3241
+|npcid:12357,x:3254,y:3236
+|npcid:12357,x:3260,y:3240
+|npcid:11232,x:3217,y:3278
+|npcid:11234,x:3215,y:3276
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+Charms are only dropped in members' worlds.
+
+{{CharmDropTable|quantity=1|gold=85.996/1000|green=2.687/1000|crimson=5.375/1000|blue=0.537/1000}}
+
+===Wood spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Wood spirit|quantity=1|rarity=9/128}}
+{{DropsLine|name=Oak wood spirit|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Weapons and armours===
+{{DropsTableHead}}
+{{DropsLine|name=Bronze spear|quantity=1|rarity=4/128|members=yes|raritynotes={{DropNote|name=bronzespear|Bronze spear replaced by bronze dagger/off hand dagger in free-to-play.}}}}
+{{DropsLine|name=Bronze dagger|quantity=1|rarity=4/256|namenotes={{F2POnly}}|raritynotes={{DropNote|name=bronzespear}}}}
+{{DropsLine|name=Bronze off hand dagger|quantity=1|rarity=4/256|namenotes={{F2POnly}}|raritynotes={{DropNote|name=bronzespear}}}}
+{{DropsLine|name=Bronze kiteshield|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Water rune|quantity=6|rarity=6/128}}
+{{DropsLine|name=Body rune|quantity=7|rarity=5/128}}
+{{DropsLine|name=Mind rune|quantity=13-19|rarity=3/128}}
+{{DropsLine|name=Bronze bolts|quantity=8|rarity=3/128}}
+{{DropsLine|name=Earth rune|quantity=4|rarity=3/128}}
+{{DropsLine|name=Air rune|quantity=2-7|rarity=3/128}}
+{{DropsLine|name=Bronze arrow|quantity=16|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=5|rarity=28/128}}
+{{DropsLine|name=Coins|quantity=5-10|rarity=11/128}}
+{{DropsLine|name=Coins|quantity=15|rarity=3/128}}
+{{DropsLine|name=Coins|quantity=20|rarity=2/128}}
+{{DropsLine|name=Coins|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Cabbage|quantity=1|rarity=14/128}}
+{{DropsLine|name=Bread dough|quantity=1|rarity=10/128}}
+{{DropsLine|name=Goblin mail|quantity=1|rarity=5/128}}
+{{DropsLine|name=Grapes|quantity=3|rarity=3/128}}
+{{DropsLine|name=Chef's hat|quantity=1|rarity=3/128}}
+{{DropsLine|name=Beer|quantity=1|rarity=2/128}}
+{{DropsLine|name=Goblin book|quantity=1|rarity=2/128|gemw=no|alch=no}}
+{{DropsLine|name=Brass necklace|quantity=1|rarity=1/128}}
+{{DropsLine|name=Air talisman|quantity=1|rarity=1/128}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Goblin skull|members=yes|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest.}}|gemw=no|alch=no}}
+{{DropsLine|name=Undercooked mystery meat|quantity=1|rarity=1/20|raritynotes={{DropNote|Only when wearing the [[Asylum doctor's ring]].}}}}
+{{DropsLine|name=Sealed clue scroll (easy)|members=Yes|quantity=1|rarity=1/128}}
+{{DropsLine|name=Bronze gauntlets|quantity=1|rarity=1/128}}
+{{BeginnerWeaponsDropLines}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Goblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Goblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Achievement==
+* {{Achievement|Guardian of the Realm}}
+** [[Goblin mail]] and [[goblin book]] drops
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Tiny plated bronze salvage → Bronze gauntlets
+*** Tiny spiky bronze salvage → Bronze spear, Bronze dagger/Bronze off hand dagger
+*** Medium plated bronze salvage → Bronze kiteshield
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=26 November 2024}}
+** Wood spirit and oak tree spirit have been added to the loot tables.
+*** In most cases we targeted weak or "less-useful" salvage drops to replace them with, while in a handful of cases cases we replaced logs or other items such as stone spirits.
+
+* {{UL|type=patch|update=Patch Notes (19 December 2012)|date=19 December 2012}}
+** Several goblins have been graphically updated to the same standard as the recently reworked goblins.
+
+* {{UL|type=patch|update=What's Mine is Yours|date=17 October 2012}}
+** The Goblin Village has also received a full graphical rework, as have all surface-dwelling goblin NPCs, the Chaos Temple near Doric's house and the Burthorpe wall north-west of Falador.
+
+* {{UL|type=patch|update=Patch Notes (13 May 2010)|date=13 May 2010}}
+** Goblin death animations should now be a bit quicker.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* Before the [[Battle of Lumbridge]], there were a lot more spawns between [[Draynor Village]] and [[Lumbridge]], south of [[Mill Lane Mill]], and north of [[Lumbridge Swamp]].
+* Prior to the release of [[Til Death Do Us Part]], there was an attackable goblin found south of [[Draynor Manor]], which was replaced with [[Victor (goblin)|Victor]].
+
+{{Goblins}}
+[[Category:Bandosians]]

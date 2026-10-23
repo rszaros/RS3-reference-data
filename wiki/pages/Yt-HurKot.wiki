@@ -1,0 +1,79 @@
+{{External|os}}
+{{Otheruses|the TzHaar monster|the TzekHaar variant|Fatal TzekHaar-Yt-HurKot}}
+{{Infobox Monster
+|name = Yt-HurKot
+|image = [[File:Yt-HurKot.png|130px]]
+|release = [[4 October]] [[2005]]
+|update = TzHaar Fight Caves
+|members = Yes
+|examine = Mini menace.
+|options = Attack
+|level = 108
+|lifepoints = 10000
+|experience = 500.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Volcanic creatures
+|max_melee = 260
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|speed = 4
+|attack = 65
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1299
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1299
+|defence = 65
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id = 2746
+|leagueRegion=Karamja}}
+'''Yt-HurKot''' is a [[TzHaar]] monster that only appears in the [[TzHaar Fight Cave]] and the [[Tzhaar Fight Pits]]. They only appear in the final wave of the Fight Cave, alongside [[TzTok-Jad]]. They used to resemble small [[Yt-MejKot]]s, however this was changed with the update to the graphics of the TzHaar.
+
+Four of these are summoned to heal Tztok-Jad when its [[life points]] are half or lower. They heal TzTok-Jad very quickly, and unless the player can out-do their healing rates with their own damage against TzTok-Jad, they will heal it to full health unless the player catches their attention. If they are attacked from a distance (but not killed), they focus on attacking the player and are distracted from their duty of healing TzTok-Jad unless they are still within melee range of TzTok-Jad.
+
+They can hit into the mid-200s and are pretty accurate, so they can possibly pose a threat with two or more of them attacking the player at once while the player is busy dealing with TzTok-Jad. The most effective way of dealing with the healers is to lure them all from Jad as soon as they spawn and take them behind a safespot to kill them one by one away from TzTok-Jad's attacks. However, you can easily tank their hits if you have 85+ in [[Defence]] and a good shield (just make sure to keep an eye on your life points). Bear in mind as well, that if the player doesn't manage to kill all 4 of the Yt-HurKot before they manage to fully heal TzTok-Jad, they will keep re-spawning, where if you manage to kill them before they manage to fully heal Jad, they will no longer respawn, leaving you to fight TzTok-Jad alone.
+
+Yt-HurKots used to only heal when they weren't in combat. Due to an update, they are now able to heal TzTok-Jad if they are within melee range of him even if they are attacking the player. They can also heal themselves and will be un-killable if close to TzTok Jad. It is advised to keep them off of TzTok-Jad because they can seriously prolong a fight where if you miss a prayer, you can potentially be killed in one hit.
+
+==Gallery==
+<gallery mode="packed" heights="190">
+TzHaar - Thz Yt-hurkot.png|Concept art of the Yt-HurKot
+Yk-HurKot healing.gif|A Yt-HurKot healing TzTok-Jad
+</gallery>
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[4 October]] [[2005]]|update=TzHaar Fight Caves|img=Yt-HurKot (2005).png|name=Yt-HurKot}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=Yt-HurKot (2008).png|name=Yt-HurKot}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=Yt-HurKot.png|name=Yt-HurKot}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=TzHaar Fight Caves|date=4 October 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Yt-HurKot, in the [[Tzhaar language]], could be translated as "Dead-Small-Protect". "Yt" in TzHaar is cold, freeze, or dead; "Hur" means Builder, crafter, sculptor and small; "Kot" means save or protect. 
+* Before the recent Graphical rework of the Tzhaar area, the Yt-HurKot had the same design as the Yt-MejKot, except that they were smaller. Now, their design is unique.
+
+{{TzHaar Fight Cave}}
+[[Category:Boss minions]]

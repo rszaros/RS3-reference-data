@@ -1,0 +1,132 @@
+{{External|os|rsc=Nazastarool}}
+{{Infobox Monster
+|version1 = Zombie
+|version2 = Skeleton
+|version3 = Ghost
+|name = Nazastarool
+|image1 = [[File:Nazastarool.png|100px]]
+|image2 = [[File:Nazastarool (Skeleton).png|100px]]
+|image3 = [[File:Nazastarool (Ghost).png|100px]]
+|release = [[27 January]] [[2003]]
+|update = Shilo Village Quest online
+|members = Yes
+|options = Attack
+|examine1 = A giant zombie of huge strength and devastating power.
+|examine2 = A giant skeleton of huge strength and devastating power.
+|examine3 = A giant ghost of huge strength and devastating power.
+|level = 53
+|lifepoints1 = 5000
+|lifepoints2 = 7500
+|lifepoints3 = 10000
+|experience1 = 250.0
+|experience2 = 375.0
+|experience3 = 500.0
+|slayxp1 = 65
+|slayxp2 = 98
+|slayxp3 = 130
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat1 = Zombies, Undead
+|slayercat2 = Skeletons, Undead
+|slayercat3 = Ghosts, Undead
+|max_melee = 152
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 38
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 590
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 590
+|defence = 38
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = Yes
+|restriction = quest
+|id1 = 507
+|id2 = 509
+|id3 = 509
+|leagueRegion=Karamja}}
+'''Nazastarool''' is a level 53 [[undead]] encountered during the [[Shilo Village]] quest. He has three forms; a [[Zombie]], a [[Skeleton]] and a [[Ghost (monster)|Ghost]]. All three forms have to be fought during the quest. Using a [[safe spot]] makes killing him trivial, as he can get stuck behind obstacles. He is found in [[Rashiliyia's Tomb]].
+
+When defeated, he curses the player and disappears. If you take too long to defeat any of his phases Nazastarool will despawn, forcing you to start that phase over.
+
+You are able to leave the tomb to restock, when you come back Nazastarool will be in the same phase you left him in.
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Rashiliyia corpse|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Shilo Village]] quest. The item will appear on top of the [[tomb dolmen]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Speaksin}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Zombie
+|item1 = 
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Nazastarool (Zombie) (2004).png|name=Nazastarool}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Nazastarool (Zombie) (2007).png|name=Nazastarool}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Nazastarool.png|name=Nazastarool}}
+}}
+
+|text2 = Skeleton
+|item2 = 
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Nazastarool (Skeleton) (2004).png|name=Nazastarool}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Nazastarool (Skeleton) (2007).png|name=Nazastarool}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Nazastarool (Skeleton) (2008).png|name=Nazastarool}}
+|{{GUL|date=[[2 March]] [[2015]]|update=Patch_Notes (2 March 2015)|img=Nazastarool (Skeleton).png|name=Nazastarool}}
+}}
+
+|text3 = Ghost
+|item3 =  
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Nazastarool (Ghost) (2004).png|name=Nazastarool}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Nazastarool (Ghost) (2007).png|name=Nazastarool}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Nazastarool (Ghost).png|name=Nazastarool}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (17 January 2011)|date=17 January 2011}}
+** This npc has had his attack animations fixed.
+
+* {{UL|type=update|update=Shilo Village Quest online|date=27 January 2003}}
+** Added to game.
+}}
+
+==Trivia==
+* He is only aggressive when he spawns. If left alone for a while, he would become tolerant.
+
+{{Shilo Village}}
+{{Zombie}}
+{{Skeletons}}
+{{Ghost}}
+[[Category:Quest monsters]]
+[[Category:NPCs with multiple Examine options]]
+[[Category:Deceased characters]]

@@ -1,0 +1,122 @@
+{{Infobox Monster
+|name = Ogress champion
+|image = [[File:Ogress Champion.png|200px]]
+|release = [[28 January]] [[2008]]
+|update = As a First Resort...
+|members = Yes
+|options = Attack
+|examine = A fearsome adversary with no sense of humour.
+|level = 67
+|lifepoints = 2400
+|experience = 120.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 44.0
+|slayercat = Ogres
+|max_melee = 192
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 48
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 801
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 801
+|defence = 48
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|leagueRegion = Kandarin
+|id = 7078
+}}
+The '''Ogress champion''' is the highest level of ogress. These monsters don't hit very often but can hit quite hard. They are aggressive so it can be dangerous to lower levels should they be swarmed by these foes. They are also fairly good [[charm]] droppers. 
+By using the Prayer boosting and/or life point boosting pools in Oo'glog (completion of [[As a First Resort]] required), players can train on these without the need of food.
+
+If you edge on the left side of [[Oo'glog]] two dirt spots before the grass and lure the Ogress Champion, you can range or halberd without her being able to hit you because she cannot enter the city of [[Oo'glog]].
+
+They respawn fairly quick and their Defence is low. They are weak to [[Air spells]].
+
+Players often like to train here because of their close proximity to a bank, and because ogress champions have a good gold charm rate.
+
+==Locations==
+
+{{LocTableHead}}
+{{LocLine
+|loc = West of [[Oo'glog]].
+|lvls = 67
+|mem = Yes
+|mapID = 28
+|plane = 0
+|npcid:7078,x:2451,y:2857
+|npcid:7078,x:2453,y:2874
+|npcid:7078,x:2475,y:2868
+|npcid:7078,x:2477,y:2832
+|npcid:7078,x:2475,y:2896
+|npcid:7078,x:2476,y:2883
+|npcid:7078,x:2502,y:2838
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Ogre club|quantity=1|rarity=5/9}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Ogre ribs|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during [[Rag and Bone Man/Wish list]].}}|gemw=No}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=67}}
+{{DropsLineEffigy|level=67}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity=1
+|gold=538.767/1000
+|green=38.483/1000
+|crimson=38.483/1000
+|blue=7.697/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=As a First Resort...|date=28 January 2008}}
+** Added to game.
+}}
+
+{{Ogres}}
+[[Category:Oo'glog]]
+[[Category:Bandosians]]

@@ -1,0 +1,342 @@
+{{External|rsc=Moss Giant|os}}
+{{Otheruses|def=no|the variant in Glarial's Tomb|Moss giant (Glarial's Tomb)}}
+{{Infobox Monster
+|version1 = Variant 1
+|version2 = Variant 2
+|version3 = Variant 3
+|version4 = Variant 4
+|version5 = Pirate's Cove
+|name = Moss giant
+|image1 = [[File:Moss giant (2).png|225px]]
+|image2 = [[File:Moss giant (3).png|225px]]
+|image3 = [[File:Guthixian moss giant.png|225px]]
+|image4 = [[File:Moss giant.png|225px]]
+|image5 = [[File:Moss giant (4).png|225px]]
+|release = [[5 February]] [[2001]]
+|update = New section of sewer opened
+|release5=[[24 July]] [[2006]]
+|update5=Lunar Diplomacy
+|members = No
+|members5 = Yes
+|options = Attack, Examine
+|examine = His beard seems to have a life of its own.
+|level = 40
+|lifepoints = 6400
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 47.8
+|slayercat = Moss giants
+|assigned_by = vannaka
+|max_melee = 625
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 25
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 281
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 486
+|defence = 32
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction3 = quest
+|leagueRegion = Misthalin,Fremennik,Kandarin,Karamja,Wilderness
+|id1 = 112
+|id2 = 1587
+|id3 = 1588
+|id4 = 4688
+|id5 = 4706
+|dropsversion1=Regular
+|dropsversion2=Regular
+|dropsversion3=Regular
+|dropsversion4=Regular
+|dropsversion5=Pirate's Cove
+}}
+[[File:Moss giant icon.png|left]]
+'''Moss giants''' are a species of giant that live in [[Gielinor]] and are tied with [[ice giant]]s for third strongest giant. They attack with [[melee]] and are weak to fire spells, however melee is also effective against them. Moss giants are popular for training on [[Free-to-play]] worlds, because they are one of the few creatures that drop [[Big bones]].
+
+Free-to-play players can find moss giants in the [[Varrock sewers]], whilst members can find 20 in [[Brimhaven dungeon]]. 875 coins or completion of the hard [[Karamja achievements]] is required to enter the dungeon. As Brimhaven dungeon can be dangerous for lower-levelled players, an alternative location is the [[Moss giant island]] west of [[Brimhaven]]. Level 10 [[Agility]] is required to access it.
+
+They are sometimes given out as [[Slayer]] assignments by [[Mazchna]] and [[Vannaka]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Varrock Sewers resource dungeon]]
+|lvls=40
+|mem=yes
+|requirements = {{Skillreq|Dungeoneering|65}}
+|mapID=380
+|npcid:112,x:1307,y:4574|npcid:1587,x:1308,y:4580|npcid:1588,x:1311,y:4584|npcid:4688,x:1312,y:4577|npcid:112,x:1315,y:4581|npcid:1588,x:1319,y:4577|npcid:1587,x:1323,y:4582|npcid:112,x:1323,y:4587
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Pirates' Cove]]
+|lvls=40
+|mem=yes
+|requirements = {{QuestIcon|Lunar Diplomacy}}
+|mapID=28
+|npcid:4706,x:2195,y:3808|npcid:4706,x:2196,y:3822|npcid:4706,x:2197,y:3805|npcid:4706,x:2197,y:3813|npcid:4706,x:2201,y:3812|npcid:4706,x:2202,y:3824|npcid:4706,x:2203,y:3804|npcid:4706,x:2207,y:3813|npcid:4706,x:2211,y:3818|npcid:4706,x:2214,y:3819
+|leagueRegion = Fremennik}}
+{{LocLine
+|loc=West of [[Fishing Guild]]
+|lvls=40
+|mem=yes
+|mapID=28
+|npcid:112,x:2549,y:3408|npcid:1588,x:2554,y:3401|npcid:1587,x:2554,y:3409|npcid:4688,x:2556,y:3406
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Moss Giant Island]]
+|lvls=40
+|mem=yes
+|mapID=28
+|npcid:1588,x:2691,y:3215|npcid:1587,x:2692,y:3204|npcid:1587,x:2695,y:3216|npcid:112,x:2698,y:3206|npcid:4688,x:2699,y:3212
+|requirements = {{Skillreq|Agility|10}}
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Crandor]]
+|lvls=40
+|mem=no
+|requirements = {{QuestIcon|Dragon Slayer}}
+|mapID=28
+|npcid:1588,x:2827,y:3246|npcid:112,x:2831,y:3243|npcid:1587,x:2834,y:3242
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Brimhaven Dungeon]]
+|lvls=40
+|mem=yes
+|mapID=13
+|npcid:1587,x:76,y:120|npcid:112,x:82,y:84|npcid:4688,x:82,y:110|npcid:112,x:85,y:124|npcid:1588,x:86,y:76|npcid:1587,x:87,y:79|npcid:112,x:76,y:136|npcid:1587,x:80,y:175|npcid:1587,x:87,y:146|npcid:1588,x:88,y:129|npcid:112,x:91,y:156|npcid:112,x:93,y:166|npcid:1588,x:94,y:179|npcid:4688,x:99,y:140|npcid:112,x:103,y:148|npcid:112,x:110,y:136|npcid:1587,x:113,y:184|npcid:1587,x:120,y:136|npcid:1588,x:120,y:186|npcid:1588,x:122,y:165
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Varrock Sewers]]
+|lvls=40
+|mem=no
+|mapID=31
+|npcid:4688,x:3157,y:9905|npcid:1588,x:3159,y:9900|npcid:112,x:3163,y:9878|npcid:1587,x:3167,y:9879
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=40
+|mem=yes
+|mapID=23
+|npcid:4688,x:3200,y:5495|npcid:112,x:3201,y:5484|npcid:1588,x:3201,y:5490|npcid:112,x:3204,y:5494|npcid:112,x:3206,y:5485|npcid:112,x:3206,y:5491|npcid:1587,x:3209,y:5481|npcid:112,x:3233,y:5563|npcid:112,x:3235,y:5556|npcid:4706,x:3237,y:5559|npcid:4706,x:3239,y:5553|npcid:112,x:3243,y:5558|npcid:112,x:3244,y:5550|npcid:4706,x:3244,y:5554|npcid:112,x:3249,y:5549|npcid:4706,x:3249,y:5559
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black full helm|quantity=1|rarity=2/128}}
+{{DropsLine|name=Black sq shield|quantity=1|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Earth rune|quantity=27|rarity=3/128|altrarity=13/128|raritynotes={{DropNote|3/128 in members' worlds; 13/128 in free-to-play worlds.}}}}
+{{DropsLine|name=Air rune|quantity=18|rarity=3/128}}
+{{DropsLine|name=Chaos rune|quantity=7|rarity=3/128}}
+{{DropsLine|name=Nature rune|quantity=6|rarity=3/128}}
+{{DropsLine|name=Cosmic rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Death rune|quantity=3|rarity=1/128}}
+{{DropsLine|name=Blood rune|members=Yes|quantity=1|rarity=1/128|raritynotes={{DropNote|Replaced by acadia wood spirits in free-to-play.}}}}
+{{DropsLine|name=Iron arrow|quantity=15|rarity=4/128}}
+{{DropsLine|name=Steel arrow|quantity=30|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|5/128}}
+{{DropsTableHead}}
+{{HerbDropTable|5/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|33/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|33/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=1|rarity=7/128|altrarity=9/128|raritynotes={{DropNote|7/128 in members' worlds; 9/128 in free-to-play worlds.}}}}
+{{DropsLine|name=Maple wood spirit|quantity=6-7|rarity=1/128}}
+{{DropsLine|name=Acadia wood spirit|members=No|quantity=5-6|rarity=2/128|altrarity=3/128|raritynotes={{DropNote|3/128 in free-to-play.}}}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated steel salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny spiky mithril salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=37|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=2|rarity=19/128|namenotes={{F2POnly}}|raritynotes={{DropNote|Replaced by irit seeds in members' worlds.}}}}
+{{DropsLine|name=Coins|quantity=300|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Grapevine seed|quantity=1|rarity=10/128|members=yes}}
+{{DropsLine|name=Grapevine seed|quantity=2|rarity=2/128|members=yes}}
+{{DropsLine|name=Irit seed|quantity=1-2|rarity=19/128|members=yes|raritynotes={{DropNote|Replaced by 2 coins in free-to-play.}}}}
+{{DropsLine|name=Spirit weed seed|quantity=1|rarity=2/128}}
+{{DropsLine|name=Spinach roll|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|4/128|f2p=yes}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Moss giant bone|members=Yes|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Shoulder bone|members=Yes|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=No}}
+{{DropsLine|name=Tiny plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Long bone|members=Yes|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|members=Yes|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsLineEffigy|level=40|members=yes}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineMimic|level=40|members=yes}}
+{{DropsTableBottom}}
+
+===Charms {{(m)}}===
+====Pirate's Cove moss giants====
+{{CharmDropTable
+|version=Pirate's Cove
+|members=yes
+|quantity = 1
+|gold = 451.117/1000
+|green = 32.223/1000
+|crimson = 32.223/1000
+|blue = 6.445/1000
+}}
+
+====Other moss giants====
+{{CharmDropTable
+|members=yes
+|version=Regular
+|quantity = 1
+|gold = 318.436/1000
+|green = 22.745/1000
+|crimson = 22.745/1000
+|blue = 4.549/1000
+}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Moss Giants.png|Moss giants wandering west of the [[Fishing Guild]]
+</gallery>
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Variant 1
+|item1 = 
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Moss giant (1) (2004).png|name=Moss giant}}
+|{{GUL|date=[[17 January]] [[2005]]|update=Karamja Dungeon|img=Moss giant (1) (17 January 2005).png|name=Moss giant}}
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Moss giant (1) (26 January 2005).png|name=Moss giant}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Moss giant (1) (2006).png|name=Moss giant}}
+|{{GUL|date=|update=|img=Moss giant (2).png|name=Moss giant}}
+}}
+
+|text2 = Variant 2
+|item2 =  
+{{GU|subject=npc
+|{{GUL|date=[[17 January]] [[2005]]|update=Karamja Dungeon|img=Moss giant (2) (17 January 2005).png|name=Moss giant}}
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Moss giant (2) (26 January 2005).png|name=Moss giant}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Moss giant (2) (2006).png|name=Moss giant}}
+|{{GUL|date=|update=|img=Moss giant (3).png|name=Moss giant}}
+}}
+
+|text3 = Variant 3
+|item3 =  
+{{GU|subject=npc
+|{{GUL|date=[[17 January]] [[2005]]|update=Karamja Dungeon|img=Moss giant (3) (17 January 2005).png|name=Moss giant}}
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Moss giant (3) (26 January 2005).png|name=Moss giant}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Moss giant (3) (2006).png|name=Moss giant}}
+|{{GUL|date=|update=|img=Guthixian moss giant.png|name=Moss giant}}
+}}
+
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** Replaced 2 coin drop with 37 coin drop (8/128 chance)
+** Replaced old 37 coin drop with 1-2 irit seeds in members, 2 coins in free-to-play (19/128 chance)
+
+* {{UL|type=patch|update=Double XP & Amascut next steps - This Week In RuneScape|date=11 August 2025}}
+** Flesh crawlers and Moss giants no longer drop spirit weed seeds within free to play worlds.
+
+* {{UL|type=update|update=July Quest Qol and Game Health Update - This Week In RuneScape|date=14 July 2025}}
+** Added new sources for [[spirit weed seed|Spirit Weed Seeds]], [[inert adrenaline crystal|Inert Adrenaline Crystals]] and [[sirenic scale|Sirenic Scales]] across various [[Slayer]] monsters:
+*** Spirit Weed seeds - [[Automaton (monster)|Automatons]], [[Strykewyrm]]s, [[Turoth]]s, [[gemstone dragon|Gemstone Dragons]] (on task), [[brutisch dinosaur|Brutish Dinosaurs]], [[Grotworm]]s, Moss Giants, [[flesh crawler|Flesh Crawlers]], [[Cockatrice]]s, [[Kurask]] and [[seed drop table|Rare Seed Drop Table]].
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[medium plated steel salvage]] drop with [[maple wood spirit]]s.
+** Replaced the [[medium spiky mithril salvage]] drop with [[acadia wood spirit]]s.
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=ninja|update=This Week In RuneScape: Yak To Basics and Ninja Strike 20!|date=1 March 2021}}
+** Moss giants now attack with melee and are weak to fire spells. Some moss giants' levels and stats were also changed.
+
+* {{UL|type=ninja|update=Patch Notes (17 August 2015)|date=17 August 2015}}
+** Various gauntlets are now dropped from additional NPCs:
+*** Mithril - moss giants
+
+* {{UL|type=patch|update=Patch Notes (18 March 2013)|date=18 March 2013}}
+** [[Grotworm]]s, moss giants, [[banshee]]s, [[jungle spider]]s, [[shadow spider]]s, [[spider]]s, [[giant spider]]s, [[deadly red spider]]s, [[ice spider]]s, [[scorpion]]s, [[poison scorpion]]s and [[pit scorpion]] will no longer hit for 1 hit point worth of damage.
+
+* {{UL|type=patch|update=Patch Notes (9 June 2009)|date=9 June 2009}}
+** Fixed the examine on the bones of moss giants.
+
+*{{UL|type=update|update=New section of sewer opened|date=5 February 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* As referred to Armies of Gielinor, Moss Giants are followers of [[Guthix]].
+* As seen in the 6th [[Postbag from the Hedge]], a moss giant's beard has a life of its own. The only known beard currently is [[Dave the Beard]].
+* As shown during the [[2017 Easter event]] through Guthix's memories in the [[divine egg (ent)]], Moss Giants came from the same world as the [[Giant ent]] species.
+* Moss Giants originally attacked with melee, but their attack style was changed to ranged with the release of the Evolution of Combat. It has since been changed back to melee as of March 2021.
+
+{{Giants}}
+{{Eulogy for a Forgotten Hero}}
+{{Brimhaven Dungeon}}
+[[Category:NPCs with multiple Examine options]]
+[[Category:Elementals]]
+[[Category:Guthixians]]
+[[pt:Gigante de líquen]]

@@ -1,0 +1,63 @@
+{{External|os}}
+{{Infobox Monster
+|name = Zombie
+|image = [[File:Zombie (Zogre Flesh Eaters).png|120px]]
+|release = [[17 May]] [[2005]]
+|update = Zogre Flesh Eaters
+|members = Yes
+|actions = Attack, Talk-to
+|examine = A human zombie.
+|level = 36
+|lifepoints = 1300
+|experience = 65.0
+|aggressive = No
+|poisonous = No
+|slayercat = Zombies
+|assigned_by = Vannaka
+|max_melee = 156
+|max_ranged = 0
+|max_magic = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 26
+|ranged = 0
+|magic = 0
+|acc_melee = 395
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 395
+|defence = 26
+|weakness = Arrows
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|id = 1826
+|leagueRegion=Kandarin}}
+The '''zombie''' is a [[monster]] encountered during the [[Zogre Flesh Eaters]] [[quest]]. When killed, it drops the [[ruined backpack]], which must be opened to progress through the quest.
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Ruined backpack (Zogre Flesh Eaters)|quantity=1|rarity=Always|gemw=No}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Speaksin}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Zogre Flesh Eaters|date=17 May 2005}}
+** Added to game.
+}}
+
+{{Zogre Flesh Eaters}}
+{{Zombie}}

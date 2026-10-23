@@ -1,0 +1,100 @@
+{{Infobox Monster
+|name = Kurask overlord
+|image = [[File:Kurask overlord.png|200px]]
+|release = [[5 June]] [[2008]]
+|update = Smoking Kills
+|members = Yes
+|options = Attack, Examine
+|examine = A bulky Kurask.
+|level = 90
+|lifepoints = 23550
+|experience = 1177.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 70
+|slayxp = 1000
+|slayercat = Kurask
+|assigned_by = sumona, chaeldar
+|max_melee = 1500.0
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 75
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1594
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 983
+|defence = 55
+|weakness = Air
+|susceptibility = Leaf-bladed
+|derived_susceptibility = No
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = quest
+|id = 7797
+|leagueRegion = Desert
+}}
+The '''kurask overlord''' is a stronger [[kurask]] found inside the [[Pollnivneach Slayer Dungeon]]. The kurask overlord is fought during the [[Desert Slayer Dungeon (miniquest)|Desert Slayer Dungeon miniquest]], which becomes available after completing the [[Smoking Kills]] quest. The kurask overlord can only be fought once and during the fight, the overlord summons [[Kurask minion]]s to aid him.
+
+Killing the kurask overlord requires level 70 [[Slayer]] and rewards the player with 1,000 [[Slayer]] experience. Contrary to popular belief, killing this boss while having the regular version assigned, '''does not''' give more Slayer experience: 1,000 experience is the maximum. However, if the player's current task is kurasks, then the 15% combat bonus of the ([[Full slayer helm|full]]) [[slayer helmet]], [[black mask]], [[hexcrest]], and [[focus sight]] is in effect, as well as the kurask overlord counting toward the task.
+
+The kurask overlord is immune to all attacks not dealt via a [[leaf-bladed spear]], a [[leaf-bladed sword]], [[broad arrows]], [[broad-tipped bolts]] or the [[Slayer Dart]] spell. The recommended technique for fighting the kurask overlord is fighting with [[Slayer Dart]] and using [[Protect from Melee]]. You could also fight using a leaf-bladed sword and use Protect from Melee and bring food and some prayer potions. In addition, there is a safespot available. 
+
+[[File:Kurask overlord safespot.png|thumb|350px|left|A player safespotting the overlord.]]
+{{clear|left}}
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Pollnivneach Slayer Dungeon]]
+|lvls=96
+|mem=yes
+|mapID=22
+|npcid:7797,x:107,y:89
+|leagueRegion = Desert
+}}
+{{LocTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=|update=|img=Kurask overlord old.png|name=Kurask overlord}}
+|{{GUL|date=|update=|img=Kurask overlord.png|name=Kurask overlord}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=March Patch Week - This Week In RuneScape|date=11 March 2024}}
+** Rebalanced the minibosses in the Desert Slayer Dungeon miniquest.
+*** They all have more HP, damage, and have been cleaned up in general.
+
+* {{UL|type=ninja|update=Patch Notes (26 August 2014)|date=26 August 2014}}
+** All Kurask models and animations have been updated.
+
+* {{UL|type=update|update=Smoking Kills|date=5 June 2008}}
+** Added to game.
+}}
+
+{{Desert Slayer Dungeon (miniquest)}}
+{{Slayer monsters}}
+[[Category:Bosses]]
+[[Category:Unique monsters]]

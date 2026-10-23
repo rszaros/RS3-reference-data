@@ -1,0 +1,145 @@
+{{External|rsc=Baby Blue Dragon|os}}
+{{Infobox Monster
+|name = Baby blue dragon
+|image = [[File:Baby blue dragon.png|200px]]
+|release = [[27 February]] [[2002]]
+|update = Latest RuneScape News (27 February 2002)
+|members = Yes
+|options = Attack
+|examine = Young but still dangerous.
+|level = 44
+|lifepoints = 1600
+|slaylvl = 1
+|slayxp = 18.8
+|experience = 80.0
+|aggressive = No
+|poisonous = No
+|slayercat = Blue dragons, dragons
+|assigned_by = Chaeldar, Sumona, Kuradal
+|max_melee = 128
+|max_ranged = 0
+|max_magic = 128
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 32
+|necromancy = 1
+|acc_melee = 486
+|acc_ranged = 0
+|acc_magic = 486
+|acc_necromancy = 0
+|armour = 486
+|defence = 32
+|weakness = Bolts
+|susceptibility = dragon bane, dragon slayer
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 52,4665,4666
+|leagueRegion=Asgarnia
+}}
+'''Baby blue dragons''' are small blue dragons that are found in [[Taverley Dungeon]] and are the weakest attackable baby [[chromatic dragons]]. Players require the [[dusty key]] to open the gate leading to the blue dragons or have 70 [[Agility]] to use the pipe shortcut. They attack with magic, which is fairly accurate. Unlike their [[blue dragon|adult forms]], they do not breathe [[dragonfire]].
+
+Due to the relatively high [[Prayer]] experience gained from their bones in comparison to their toughness to defeat, they are often killed for their bones. Each burial of baby dragon bones grants 30 Prayer experience; for reference, [[dragon bones]] grant 72, and [[big bones]] grant 15. Blue and baby blue dragons respawn at the rate of around 20 seconds.
+
+Baby blue dragons may be killed by players who have received blue dragons as a [[Slayer]] assignment but do not wish to kill adult blue dragons, giving 18.8 Slayer experience each. Their bones also provide 30 [[Prayer]] experience each and can be set to be automatically buried by the [[bonecrusher]]. Lower-levelled players who wish to kill baby blue dragons without being attacked by higher-levelled blue dragons can find them in Taverley Dungeon near three fishing spots for [[lava eel]]s. These are south of the Agility shortcut and the [[small obelisk]] found near to the mother blue dragons.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Taverley Dungeon]]
+|lvls=44
+|mem=yes
+|mapID=17
+|npcid:4665,x:2895,y:9769|npcid:52,x:2896,y:9766|npcid:4666,x:2900,y:9764
+|npcid:4665,x:2892,y:9799|npcid:4666,x:2904,y:9796|npcid:4665,x:2909,y:9806
+|npcid:52,x:2911,y:9797|npcid:52,x:2911,y:9808|npcid:4666,x:2917,y:9801
+|leagueRegion=Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Baby dragon bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}} 
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Perfect blue dragon scale|quantity=1|rarity=Once|raritynotes={{DropNote|Guaranteed drop until obtained while on a [[Slayer/Challenges|Slayer challenge]] from [[Vannaka]].}}|gemw=no|alch=no}}
+{{DropsLine|name=Baby blue dragon bone|rarity=1/4|quantity=1|gemw=no|raritynotes={{DropNote|Only during [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = 1
+|item1 = {{GU|subject=npc
+|{{GUL|date=[[27 February]] [[2002]]|update=Latest RuneScape News (27 February 2002)|img=Baby blue dragon (2002).png|name=Baby blue dragon}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Baby blue dragon (2004).png|name=Baby blue dragon}}
+|{{GUL|date=[[28 March]] [[2006]]|update=Temple Trekking|img=Baby blue dragon (March 2006).png|name=Baby blue dragon}}
+|{{GUL|date=[[3 April]] [[2006]]|update=A Soul's Bane|img=Baby blue dragon (April 2006).png|name=Baby blue dragon}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Baby blue dragon (August 2006) (1).png|name=Baby blue dragon (1)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Baby blue dragon (2008).png|name=Baby blue dragon (1)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Baby blue dragon.png|name=Baby blue dragon}}
+}}
+|text2 = 2
+|item2 = {{GU|subject=npc
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Baby blue dragon (August 2006) (2).png|name=Baby blue dragon (2)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Baby blue dragon (2) (2008).png|name=Baby blue dragon (2)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Baby blue dragon.png|name=Baby blue dragon}}
+}}
+|text3 = 3
+|item3 = {{GU|subject=npc
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Baby blue dragon (August 2006) (3).png|name=Baby blue dragon (3)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Baby blue dragon (3) (2008).png|name=Baby blue dragon (3)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Baby blue dragon.png|name=Baby blue dragon}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes blue dragons
+
+* {{UL|type=update|update=Love_Story|date=5 July 2010}}
+** Graphical overhaul to chromatics, including baby variants.
+
+* {{UL|type=hidden|update=|date=November 2007}}
+** Renamed from "Baby dragon" to "Baby blue dragon".
+
+* {{UL|type=update|update=Demons, Dragons and Giants|date=29 August 2006}}
+** Graphically updated.
+** Renamed from "Baby blue dragon" to "Baby dragon".
+
+* {{UL|type=hidden|update=A Soul's Bane|date=3 April 2006}}
+** Graphically updated.
+
+* {{UL|type=hidden|update=Temple Trekking|date=28 March 2006}}
+** Graphically updated.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+==Trivia==
+* When fighting the more southern baby blue dragons in the Taverley Dungeon, players will experience a glitch which seems to cause the dragon to be cut off graphically.
+* During Bot-Nuking week, baby blue dragons were one of the monsters to have an temporarily increased respawn rate.
+
+{{Dragon}}

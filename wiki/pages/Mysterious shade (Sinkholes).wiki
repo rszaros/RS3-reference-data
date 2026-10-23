@@ -1,0 +1,197 @@
+{{Infobox Monster
+|version1 = 2
+|version2 = 7
+|version3 = 10
+|version4 = 19
+|version5 = 31
+|version6 = 48
+|version7 = 65
+|version8 = 79
+|version9 = 93
+|version10 = 111
+|name = Mysterious shade
+|image = [[File:Mysterious Shade.png|200px]]
+|release = [[5 February]] [[2013]]
+|update = Sinkholes
+|members = Yes
+|options = Attack
+|examine = A shadow floating over the floor.
+|level1 = 2
+|level2 = 7
+|level3 = 10
+|level4 = 19
+|level5 = 31
+|level6 = 48
+|level7 = 65
+|level8 = 79
+|level9 = 93
+|level10 = 111
+|lifepoints1 = 200
+|lifepoints2 = 4000
+|lifepoints3 = 4000
+|lifepoints4 = 4000
+|lifepoints5 = 4000
+|lifepoints6 = 4000
+|lifepoints7 = 4000
+|lifepoints8 = 4000
+|lifepoints9 = 4000
+|lifepoints10 = 4000
+|experience1 = 10.0
+|experience2 = 200.0
+|experience3 = 200.0
+|experience4 = 200.0
+|experience5 = 200.0
+|experience6 = 200.0
+|experience7 = 200.0
+|experience8 = 200.0
+|experience9 = 200.0
+|experience10 = 200.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Shades, Ghosts, Undead
+|max_melee = 0
+|max_ranged1 = 50
+|max_ranged2 = 375
+|max_ranged3 = 375
+|max_ranged4 = 375
+|max_ranged5 = 375
+|max_ranged6 = 375
+|max_ranged7 = 375
+|max_ranged8 = 375
+|max_ranged9 = 375
+|max_ranged10 = 375
+|max_magic1 = 50
+|max_magic2 = 375
+|max_magic3 = 375
+|max_magic4 = 375
+|max_magic5 = 375
+|max_magic6 = 375
+|max_magic7 = 375
+|max_magic8 = 375
+|max_magic9 = 375
+|max_magic10 = 375
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged, magic
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged1 = 2
+|ranged2 = 90
+|ranged3 = 90
+|ranged4 = 90
+|ranged5 = 90
+|ranged6 = 90
+|ranged7 = 90
+|ranged8 = 90
+|ranged9 = 90
+|ranged10 = 90
+|magic1 = 2
+|magic2 = 90
+|magic3 = 90
+|magic4 = 90
+|magic5 = 90
+|magic6 = 90
+|magic7 = 90
+|magic8 = 90
+|magic9 = 90
+|magic10 = 90
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged1 = 20
+|acc_ranged2 = 900
+|acc_ranged3 = 900
+|acc_ranged4 = 900
+|acc_ranged5 = 900
+|acc_ranged6 = 900
+|acc_ranged7 = 900
+|acc_ranged8 = 900
+|acc_ranged9 = 900
+|acc_ranged10 = 900
+|acc_magic1 = 20
+|acc_magic2 = 50
+|acc_magic3 = 100
+|acc_magic4 = 190
+|acc_magic5 = 250
+|acc_magic6 = 400
+|acc_magic7 = 550
+|acc_magic8 = 700
+|acc_magic9 = 800
+|acc_magic10 = 900
+|acc_necromancy = 0
+|armour1 = 20
+|armour2 = 700
+|armour3 = 700
+|armour4 = 700
+|armour5 = 700
+|armour6 = 700
+|armour7 = 700
+|armour8 = 700
+|armour9 = 700
+|armour10 = 700
+|defence1 = 2
+|defence2 = 70
+|defence3 = 70
+|defence4 = 70
+|defence5 = 70
+|defence6 = 70
+|defence7 = 70
+|defence8 = 70
+|defence9 = 70
+|defence10 = 70
+|weakness = Nothing
+|aff_weakness = 80
+|aff_melee = 80
+|aff_ranged = 80
+|aff_magic = 80
+|immune_to_poison = No
+|immune_to_stun = No
+|restriction = minigame
+|leagueRegion = Morytania,Fremennik,Kandarin,Karamja,Misthalin,Asgarnia,Desert,Havenhythe
+|id1 = 16739
+|id2 = 16748
+|id3 = 16748
+|id4 = 16748
+|id5 = 16748
+|id6 = 16748
+|id7 = 16748
+|id8 = 16748
+|id9 = 16748
+|id10 = 16748
+}}
+The''' Mysterious shade''' is a monster found in [[Sinkholes]].
+
+[[File:Mysterious shade range.png|left|thumb|Ranged attack.]]
+[[File:Mysterious shade mage.png|left|thumb|Magic attack.]]
+
+It is one of the most powerful types of foes in Sinkholes, and can easily kill a player. It uses a mixture of [[Magic]] (blue-coloured) and [[Ranged]] (yellow-coloured) attacks, which are powered evenly. It is almost always recommended to defeat the shades in a room first to eliminate their devastating attacks. They are very dangerous and can deal '''extremely''' high damage for their level, powerful and accurate with decent attack speed. These shades do not have any weakness, unlike those found while [[Dungeoneering]]. For using prayer against exceptionally strong shades, either use [[Protect from Ranged]] or [[Protect from Magic]] or their respective [[Ancient Curses|Curse]] equivalents. Ranged armour offers the best overall defence against their attacks. If there is a single shade in a room (as there often is if soloing), it is almost always about as strong as the player and is likely to exhaust a player's food/prayer quickly if they are wearing melee armour.
+
+This is one of the monsters within Sinkholes that will switch targets instead of continuing to attack the first player it sees. Thus if a group encounters a high level shade and one happens to get attacked, the shade will change target and during this time, the latter can have time to heal or run away.
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Combat totem|quantity=1|rarity=Always|gemw=no|alch=no}}
+{{DropsTableBottom}}
+
+===Cards===
+{{DropsTableSinkholesCards|showlv85=y}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (13 August 2013)|date=13 August 2013}}
+** Shades in Sinkholes now have attack animations. 
+
+* {{UL|type=update|update=Sinkholes|date=5 February 2013}}
+** Added to game.
+}}
+
+{{Sinkholes}}
+{{Ghost}}

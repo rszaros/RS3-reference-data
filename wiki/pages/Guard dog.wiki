@@ -1,0 +1,115 @@
+{{External|os|rsc=Guard Dog}}
+{{otheruses|the standard monster}}
+{{Infobox Monster
+|name = Guard dog
+|image = [[File:Guard dog.png|100px]]
+|release = [[27 February]] [[2002]]
+|update = Latest RuneScape News (27 February 2002)
+|members = Yes
+|options = Attack
+|examine = He doesn't seem pleased to see me.
+|level = 33
+|lifepoints = 1200
+|experience = 60.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 13.4
+|slayercat = Dogs
+|assigned_by = turael, mazchna
+|max_melee = 96
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 24
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 368
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 368
+|defence = 24
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 99
+|leagueRegion = Kandarin, Karamja
+}}
+A '''guard dog''' is an aggressive [[Dog (race)|dog]]. Guard dogs drop only [[bones]]. They can be slain for a [[Dogs (Slayer assignment)|dogs slayer assignment]] assigned by a [[Slayer Master]]. For lower-level players, guard dogs can be tough to melee, as they can hit frequently, but these players can easily attack them from safe spots using ranged, magic, or long-range melee weapons like [[halberds]]. One safe spot is through the fence of the north side of the [[McGrubor's Wood]]. Another spot is behind the mushrooms located on the south-west corner of the wood. Players wielding a halberd can safely attack them from any side of the fence.
+
+Guard dogs may also be purchased at level 74 [[Construction]] to guard a player's [[Dungeon (player-owned house)|dungeon]], see [[guard dog (player-owned house)]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Handelmort Mansion]]
+|lvls=33
+|mem=yes
+|mapID=28
+|npcid:99,x:2624,y:3319|npcid:99,x:2624,y:3327|npcid:99,x:2642,y:3314
+|npcid:99,x:2646,y:3325
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[McGrubor's Wood]]
+|lvls=33
+|mem=yes
+|mapID=28
+|npcid:99,x:2625,y:3502|npcid:99,x:2629,y:3475|npcid:99,x:2631,y:3472
+|npcid:99,x:2636,y:3503|npcid:99,x:2645,y:3488|npcid:99,x:2659,y:3478
+|npcid:99,x:2665,y:3471|npcid:99,x:2666,y:3506|npcid:99,x:2669,y:3488
+|npcid:99,x:2674,y:3504
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Brimhaven]]
+|lvls=33
+|mem=yes
+|mapID=28
+|npcid:99,x:2784,y:3191|npcid:99,x:2784,y:3197|npcid:99,x:2787,y:3195
+|leagueRegion = Karamja}}
+{{LocTableBottom}}
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Key (Treasure Trails)|quantity=1|rarity=Always|gemw=no|raritynotes={{DropNote|Only with the relevant clue in the inventory.}}}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[27 February]] [[2002]]|update=Latest RuneScape News (27 February 2002)|img=File:Guard dog (2002).png|name=Guard Dog}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=File:Guard dog (2004).png|name=Guard dog}}
+|{{GUL|date=[[4 June]] [[2007]]||update=Hair of the dog|img=File:Guard dog (2007).png|name=Guard dog}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=File:Guard dog.png|name=Guard dog}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+==Trivia==
+* [[Horacio]] addresses a [[Guard dog (Back to my Roots)|guard dog]] at [[Handelmort Mansion]] as "Odif".
+
+{{Fishing Contest}}
+{{Handelmort Mansion}}
+{{Dogs}}

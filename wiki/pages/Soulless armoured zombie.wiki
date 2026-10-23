@@ -1,0 +1,58 @@
+{{Recurring content/Halloween}}
+{{Infobox Monster
+|name = Soulless armoured zombie
+|image = Soulless armoured zombie.png
+|release = [[8 October]] [[2018]]
+|update = Til Death Do Us Part
+|members = No
+|actions = Attack, Examine
+|race = Zombie
+|examine = Armoured to the teeth! If it had any teeth that is...
+|level = 0
+|lifepoints = 10000000
+|experience = 0.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Zombies, Undead
+|max_melee = 288
+|max_ranged = 0
+|max_magic = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 30
+|ranged = 0
+|magic = 0
+|acc_melee = 454
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 454
+|defence = 30
+|weakness = Nothing
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|restriction = removed
+|id = 25938
+|leagueRegion = No
+}}
+'''Soulless armoured zombies''' may occasionally appear near the [[chaotic rift]] north of [[Draynor Village]] during the [[2018 Halloween event]]. They will emerge from the ground, summoned by the [[soulless necromancer]], and will encircle and attack the surrounding [[Pillar (2018 Halloween event)|pillars]], pushing away any players adjacent to them. Despite having an attack option, they cannot be attacked directly.
+
+Attempting to attack them results in the below message appearing:
+
+{{RSFont|colour=#AE0000|bg=no|It appears your attack does not affect this enemy. Try using the soul rift near Death instead.}}
+
+To stop them, the player must siphon souls from [[Death's soul rift]] to make the soulless necromancer mortal.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Til Death Do Us Part|date=8 October 2018}}
+** Added to game.
+}}
+
+{{2018 Halloween event}}
+{{Zombies}}

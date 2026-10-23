@@ -1,0 +1,162 @@
+{{external|os}}
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{Infobox Monster
+|version1 = Level 86 (1)
+|version2 = Level 88 (1)
+|version3 = Level 86 (2)
+|version4 = Level 88 (2)
+|name = Skeleton
+|image1 = [[File:Skeleton (Barrows).png|x180px]]
+|image2 = [[File:Skeleton (Barrows, 2).png|x180px]]
+|image3 = [[File:Skeleton (Barrows, 3).png|x180px]]
+|image4 = [[File:Skeleton (Barrows, 4).png|x180px]]
+|release1 = [[9 May]] [[2005]]
+|release2 = [[9 May]] [[2005]]
+|release3 = [[22 January]] [[2007]]
+|release4 = [[22 January]] [[2007]]
+|update1 = Barrows
+|update2 = Barrows
+|update3 = The Lair of Tarn Razorlor
+|update4 = The Lair of Tarn Razorlor
+|members = Yes
+|options = Attack, Examine
+|examine = Could do with gaining a few pounds.
+|level1 = 86
+|level2 = 88
+|level3 = 86
+|level4 = 88
+|lifepoints1 = 3100
+|lifepoints2 = 3150
+|lifepoints3 = 3100
+|lifepoints4 = 3150
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 77.2
+|slayxp2 = 81.0
+|slayxp3 = 77.2
+|slayxp4 = 81.0
+|slayercat = Skeletons
+|max_melee1 = 372
+|max_melee2 = 378
+|max_melee3 = 372
+|max_melee4 = 378
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack1 = 62
+|attack2 = 63
+|attack3 = 62
+|attack4 = 63
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 454
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence1 = 62
+|defence2 = 63
+|defence3 = 62
+|defence4 = 63
+|weakness = Earth
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania
+|id1 = 2036
+|id2 = 2037
+|id3 = 5381
+|id4 = 5422
+}}
+'''Skeletons''' are [[undead]] monsters found inside the [[Barrows]] crypts. They were presumably reanimated by the [[Zaros]]ian [[Mahjarrat]] [[Sliske]] in order to protect his [[Barrows wights]] and their treasure.
+
+They are aggressive, and like most skeletons they are weak to the [[Salve amulet]] and [[Earth spells]]. Like the other monsters in the Crypts, they can be killed to increase your Barrows killcount, which increases the chances of getting [[Barrows equipment]] from the chest, although the effect seems to cap at around 8 killed.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Barrows]]
+|lvls=86, 88
+|mem=yes
+|mapID=527
+|npcid:5381,x:3548,y:9709|npcid:2036,x:3549,y:9713|npcid:2037,x:3551,y:9714
+|npcid:2036,x:3553,y:9707|npcid:5422,x:3554,y:9713|npcid:2037,x:3555,y:9709
+|leagueRegion = Morytania}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Level 86 (1)
+|item1 = {{GU|subject=npc
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Skeleton (Barrows) (2005).png|name=Skeleton (Barrows)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton (Barrows) (2007).png|name=Skeleton (Barrows)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Skeleton (Barrows) (2008).png|name=Skeleton (Barrows)}}
+|{{GUL|date=[[2 March]] [[2015]]|update=Beta: EoC/Legacy Mash-up|img=Skeleton (Barrows).png|name=Skeleton (Barrows)}}
+}}
+|text2 = Level 88 (1)
+|item2 = {{GU|subject=npc
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Skeleton (Barrows, 2) (2005).png|name=Skeleton (Barrows)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton (Barrows, 2) (2007).png|name=Skeleton (Barrows)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Skeleton (Barrows, 2) (2008).png|name=Skeleton (Barrows)}}
+|{{GUL|date=[[2 March]] [[2015]]|update=Beta: EoC/Legacy Mash-up|img=Skeleton (Barrows, 2).png|name=Skeleton (Barrows)}}
+}}
+|text3 = Level 86 (2)
+|item3 = {{GU|subject=npc
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton (Barrows, 3) (2007).png|name=Skeleton (Barrows)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Skeleton (Barrows, 3) (2008).png|name=Skeleton (Barrows)}}
+|{{GUL|date=[[2 March]] [[2015]]|update=Beta: EoC/Legacy Mash-up|img=Skeleton (Barrows, 3).png|name=Skeleton (Barrows)}}
+}}
+|text4 = Level 88 (2)
+|item4 = {{GU|subject=npc
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton (Barrows, 4) (2007).png|name=Skeleton (Barrows)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Skeleton (Barrows, 4) (2008).png|name=Skeleton (Barrows)}}
+|{{GUL|date=[[2 March]] [[2015]]|update=Beta: EoC/Legacy Mash-up|img=Skeleton (Barrows, 4).png|name=Skeleton (Barrows)}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=ninja|update=Beta: EoC/Legacy Mash-up|date=2 March 2015}}
+** Graphically updated.
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Graphically updated. Two additional skeleton variants have been added to the Barrows.
+
+* {{UL|type=update|update=Barrows|date=9 May 2005}}
+** Added to game.
+}}
+
+{{The Barrows Brothers}}
+{{Skeleton}}
+[[Category:Sliskeans]]

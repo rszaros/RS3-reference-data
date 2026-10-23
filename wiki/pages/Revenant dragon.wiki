@@ -1,0 +1,120 @@
+{{External|os}}
+{{Infobox Monster
+|name = Revenant dragon
+|image = [[File:Revenant dragon.png|250px]]
+|release = [[15 January]] [[2008]]
+|update = Summoning!
+|members = Yes
+|actions = Attack
+|examine = The ghost of a dragon slain during the god wars.
+|level = 126
+|lifepoints = 10350
+|aggressive = Yes
+|poisonous = Yes
+|slaylvl = 1
+|slayxp = 712.4
+|slayercat = Revenants, Ghosts, Undead, Dragons
+|max_melee = 1552
+|max_ranged = 1552
+|max_magic = 1552
+|max_spec = 0
+|style = melee, ranged, magic
+|primarystyle = melee
+|speed = 5
+|attack = 90
+|ranged = 90
+|magic = 90
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 2458
+|acc_ranged = 2458
+|acc_magic = 2458
+|armour = 2458
+|defence = 90
+|weakness = Nothing
+|susceptibility = undead slayer, ghost hunter, revenant bane, salve
+|aff_weakness = 40
+|aff_melee = 40
+|aff_ranged = 40
+|aff_magic = 40
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 13481
+|leagueRegion = Wilderness
+}}
+The '''revenant dragon''' is the spirit of a [[Dragon (race)|dragon]] that inhabits the [[Forinthry Dungeon]], along with all other [[revenants]]. They are the strongest revenants, and only appear in members' worlds.
+The Forinthry Dungeon is a part of the [[Wilderness]] so it is possible to be attacked by other players here if opted into [[PvP]].
+
+Like all revenants, they can restore lifepoints quickly, can cure themselves of poison and react quickly to a player's protection prayers. When below 50% health, revenant dragons will "eat" to heal 1275 lifepoints from their limited supply of food. For a full description of the healing mechanic see the [[Revenants#Overview|revenants]] page.
+
+Revenant dragons are the only revenants capable of inflicting [[poison]], doing so via their ranged attacks, dealing around 400-800 each time a poison hit is inflicted. They also possess unusually high defensive stats for their level, comparable to that of high-level bosses (their affinities and Defence level are the same as [[Vorago]]'s, but their armour is even higher).
+
+Despite being former dragons, [[dragon slayer (effect)|dragon slayer effects]] do not work on them; instead, [[undead slayer (effect)|undead slayer effects]] do. They do not use dragonfire either.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Forinthry Dungeon]]
+|lvls=126
+|mem=yes
+|mapID=6
+|npcid:13481,x:3115,y:10165
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+Revenant drops are not affected by [[luck]]. There are only two ways to increase the drop rate of revenant items: completion of the [[elite Wilderness achievements]] which gives a 5% increased chance for revenant drops, and [[revenant drop enhancer]]s, which give a 10% increased chance. Both boosts can be in effect at the same time.
+
+===Main===
+{{Revenant main drops|level=126}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{Revenant tertiary drops|level=126}}
+{{DropsLine|name=Dragon scimitar|quantity=1|rarity=1/96|altrarity=1/56|raritynotes={{DropNote|1/56 while wearing [[Jennica's ring]].}}}}
+{{DropsLineGhosts|ectorarity=750|herbrarity=1024}}
+{{DropsTableBottom}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=126}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[15 January]] [[2008]]|update=Summoning!|img=Revenant dragon old.png|name=Revenant dragon}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Revenant dragon.png|name=Revenant dragon}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Love Story|date=5 July 2010}}
+** As mentioned in this month's Behind the Scenes, we’ve graphically updated the regular dragons in the game. This includes green, blue red and black dragons (including baby variants), plus bronze, iron, steel and mithril dragons. Check them out if you can handle the heat!
+
+* {{UL|type=update|update=Summoning!|date=15 January 2008}}
+** Added to game.
+}}
+
+==Trivia==
+* Revenant dragons had two heads before the dragon graphical update on [[5 July]] [[2010]].
+* Prior to the Evolution of Combat, revenant dragons were the strongest revenants. After the update, their combat level was lowered for unknown reasons; however, a subsequent update returned them back to their original position.
+* Despite possessing the appearances of an adult dragon, revenant dragons are unusually smaller compared to their living counterparts; all other revenants occupy the same amount of tiles as with their living counterparts. An adult dragon covers a 5 × 5 area, while a revenant dragon only covers a 2 × 2 area.
+
+==References==
+{{Reflist}}
+
+{{Revenants}}
+{{Ghost}}
+{{Dragon}}
+[[pt:Dragão fantasma]]
+[[Category:Participants in the God Wars]]

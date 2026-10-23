@@ -1,0 +1,236 @@
+{{External|os}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|name = Nechryael
+|image = [[File:Nechryael.png|200px]]
+|release = [[26 January]] [[2005]]
+|update = Slayer Skill
+|members = Yes
+|options = Attack
+|examine = An evil death demon.
+|level = 96
+|lifepoints = 8000
+|experience = 400.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 80
+|slayxp = 251.6
+|slayercat = Nechryael
+|assigned_by = Sumona, Lapalok, Kuradal, Morvran
+|max_melee = 276
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 69
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1447
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1447
+|defence = 69
+|weakness = Crush
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania,Wilderness,Tirannwn
+|id = 1613
+}}
+[[File:Nechryael icon.png|left]]
+'''Nechryael''' are [[Chthonian]] [[demon]]s that require level 80 [[Slayer]] to kill. They are found on the top floor, northwest corner of the [[Slayer Tower]] in [[Morytania]] and in the [[Chaos Tunnels]]. When killing a nechryael, an [[nechryael (elite)|elite]] version may spawn (guaranteed while on a Slayer assignment), which can be further increased with the use of [[fellstalk incense sticks]] and tier 2 [[luck]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Slayer Tower]] {{FloorNumber|3}}
+|lvls=96
+|mem=yes
+|mapID=28|plane=2
+|npcid:1613,x:3402,y:3567|npcid:1613,x:3403,y:3571|npcid:1613,x:3407,y:3569
+|npcid:1613,x:3409,y:3574|npcid:1613,x:3410,y:3563|npcid:1613,x:3410,y:3571
+|leagueRegion = Morytania}}
+{{LocLine
+|loc=[[Slayer Tower]] {{FloorNumber|4}}
+|lvls=96
+|mem=yes
+|requirements = {{Skillreq|Agility|71}}
+|mapID=28|plane=3
+|npcid:1613,x:3402,y:3560|npcid:1613,x:3404,y:3567|npcid:1613,x:3404,y:3573
+|npcid:1613,x:3408,y:3563|npcid:1613,x:3409,y:3571
+|leagueRegion = Morytania}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=96
+|mem=yes
+|mapID=23
+|npcid:1613,x:3165,y:5557|npcid:1613,x:3167,y:5554|npcid:1613,x:3168,y:5557
+|npcid:1613,x:3171,y:5558|npcid:1613,x:3171,y:5561|npcid:1613,x:3173,y:5556
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Strategy==
+Cannons cannot be used as a means to kill them as cannons are not permitted in either of the places nechryael can be found, but these demons are considered weak for their level. With low life points, low damage and mediocre defence, they can be easily defeated using a powerful [[Crush weapons|crush weapon]] (their weakness), such as a [[chaotic maul]], dual wielded [[drygore mace]]s, or the [[superior kyzaj]]. They can also be killed fairly effectively with slashing or stabbing weapons.
+
+A nechryael's main attack is a two handed clawing move that hits up to 276 life points. When engaged in melee combat, a nechryael may randomly summon up to two level 95 [[death spawn]]s to assist it. These death spawns have a meagre 500 life points but are very accurate and can deliver hits upwards of 300 life points. Death spawns can be ignored by higher level players, and will subsequently disappear if they are left alone, but they may be a nuisance for lower level players.
+
+With a two-handed weapon, abilities such as [[Adaptive Strike]] and [[Hurricane]] can quickly kill the death spawn without diverting attention away from the nechryael.
+
+Using a [[Guthan's set]] against a nechryael is extremely effective if the player has high combat stats.
+
+For those who wish to mage or range nechryael in the [[Slayer Tower]], there is a hole in the floor in the southern part of the room that can be effectively used as a safespot. Another good strategy is to stand behind a death spawn so the nechryael will get trapped behind it. The roof area contains several objects that can be used for safespots, such as a skeleton lying on the floor.
+
+A good tip is to use the [[Sacrifice]] ability on the death spawns - the ability will usually kill them immediately due to their low constitution, healing the player for 500 life points.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Infernal ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=1/128|altrarity=1/124|raritynotes={{DropNote|1/124 with tier 2 [[luck]] or higher.}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Death rune|quantity=10|rarity=8/128}}
+{{DropsLine|name=Chaos rune|quantity=37|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|18/128}} ''There is an additional 3/128 chance of rolling a fellstalk seed and a 2/128 chance of rolling morchella mushroom spores.''
+{{DropsTableHead}}
+{{DropsLine|name=Fellstalk seed|quantity=1|rarity=3/128}}
+{{DropsLine|name=Morchella mushroom spore|quantity=4|rarity=2/128}}
+{{RareSeedDropTable|18/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=11|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=44|rarity=29/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=132|rarity=17/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=220|rarity=18/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=460|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny bladed steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Medium bladed steel salvage|quantity=1|rarity=7/128}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium plated rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}|gemw=no}}
+{{DropsLine|name=Tuna|quantity=1|rarity=3/128}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=2/128}}
+{{DropsLine|name=Thread|quantity=10|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem and Rare drop table===
+{{GemDropTable|4/128|rdt=1/250}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-14|rarity=1/15}}
+{{DropsLineEffigy|level=96}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=96}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 85.1/1000
+|green = 42.55/1000
+|crimson = 297.85/1000
+|blue = 8.51/1000
+}}
+
+==Money making guide==
+{{Mmgsection|Killing nechryael}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Nechryael (2005).png|name=Nechryael}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Nechryael (June 2008).png|name=Nechryael}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Nechryael (July 2008).png|name=Nechryael}}
+|{{GUL|date=[[23 June]] [[2014]]|update=Patch Notes (23 June 2014)|img=Nechryael.png|name=Nechryael}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Update:Necromancy Patch Week - This Week In RuneScape|date=11 September 2023}}
+** Increased drop rate of congealed blood at gargoyles, nechryael, bloodvelds, and terror dogs to reduce reliance on ravenous ghouls.
+
+* {{UL|type=patch|update=Patch Notes (10 September 2018)|date=10 September 2018}}
+** Fixed an issue where the [[Ectoplasmator]] is not recognizing ashes from Nechryael or the [[Death spawn]]s they create.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for Nechryael.
+
+*{{UL|type=patch|update=Patch Notes (3 August 2015)|date=3 August 2015}} 
+** Nechryael no longer appear slightly before they play their spawn animation.
+
+* {{UL|type=ninja|update=Patch Notes (23 June 2014)|date=23 June 2014}}
+** The graphics and animations for the following NPCs have been revised:
+*** Nechryael
+
+* {{UL|type=update|update=Chat Changes & Camera Controls|date=4 October 2011}}
+** Demons in Daemonheim now drop impious, accursed and [[infernal ashes]].
+
+* {{UL|type=hidden|update=Smoking Kills|date=5 June 2008}}
+** Graphically updated.
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The word ''nechryael'' appears to be an unchanging irregular plural noun, being both the singular and plural as indicated by slayer masters when assigning them and giving tips on fighting them and by the [[ring of slaying]] when checking the progress of the assignment.
+* The old graphics of nechryael had a pentagram on their chest, a symbol of many religions and a sign that has many occult meanings. Meanwhile, in the current graphics, they don't even have a chest, featuring a body that has been cut open and hollow inside.
+* When trying to write "Nechryael" on the [[Notes]] block, the game will censor it, showing up "Ne**ryael". It is currently unknown if this is a glitch or not.
+* Mod Jack revealed{{CiteTwitter|author=Mod Jack|url=https://twitter.com/JagexJack/status/481144942006665216|quote=In my system the Nechryael are definitely Chthonians. I have them specifically as the spawn of Orcus. That's not canon yet though.|date=23 June 2014|archiveurl=https://reldo.runescape.wiki/i/107709|archivedate=26 January 2019|notes=In response to the question: "So that Nechryael-look, are they Chthonian? I see some resemblance to the Virii <<nowiki>https://t.co/UxYYV0aUwF</nowiki>> … Or are they Infernal, or?"}} on Twitter that nechryael are the spawn of [[Duke Orcus]].
+* The nechryael's arrival at the [[Slayer Tower]] is mentioned in a [[Journal (Slayer Tower)|journal]] found near the [[aberrant spectre]]s in the Tower.
+* As of [[1 February]] [[2018]], the highest kill count for this monster was 90,339 kills.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=https://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+** This had increased to 93,252 by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=https://archive.is/Fxc11|archivedate=28 February 2020|notes=|name=}}
+*Nechryael were formerly the only monster to drop [[rune armoured boots]]. It has since been replaced with [[tiny plated rune salvage]] in their drop table as of the [[Mining and Smithing rework]].
+**Interestingly, tiny plated rune salvage from Nechryael still seems to be treated like other unique slayer drops, as [[Luck|luck items]] will shine whenever they are dropped.
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{Demons}}
+{{Slayer Tower}}
+
+[[Category:Tier 2 luck]]
+[[pt:Necriel]]

@@ -1,0 +1,97 @@
+{{External|os}}
+{{Otheruses|def=no|the stronger variant|Giant crypt rat}}
+{{Infobox Monster
+|name = Crypt rat
+|image = [[File:Crypt rat.png|100px]]
+|release = [[9 May]] [[2005]]
+|update = Barrows
+|members = Yes
+|options = Attack
+|examine = A nasty little rodent.
+|level = 70
+|lifepoints = 2500
+|experience = 125.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 43.5
+|slayercat = Rats
+|assigned_by = jacquelyn
+|max_melee = 300
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 50
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 2032
+|leagueRegion=Morytania}}
+The '''Crypt rat''' can be found under the [[Barrows]] tunnels. Despite their combat level, they are weaker than they appear unless they come in large amounts. Due to the disgusting appearance of the crypt rat, not even a [[cat]] will try to catch it.
+
+They do not pose a large threat to most players, but with many of them together along with other monsters, they become an annoyance. They are far stronger than regular [[rat]]s, and are aggressive.
+
+They can be handy as they can be used to heal if the player completing the barrows activity has [[Guthan the Infested's equipment|Guthan's armour]]. Crypt rats are only aggressive for 10 minutes, after which they gain [[tolerance]].
+
+These are widely seen as a great way to get kill count in [[Barrows]], as they can be killed quickly and don't pose much of a threat to players.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Barrows]]
+|lvls=70
+|mem=yes
+|mapID=527
+|npcid:2032,x:3531,y:9694|npcid:2032,x:3534,y:9690|npcid:2032,x:3534,y:9698
+|npcid:2032,x:3535,y:9695|npcid:2032,x:3537,y:9692|npcid:2032,x:3539,y:9695
+|leagueRegion = Morytania}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Rat bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|citations={{CiteTwitter|author=Mod Ash|url=https://twitter.com/JagexAsh/status/1108655941006835713|date=21 March 2019|archiveurl=https://reldo.runescape.wiki/i/97648|archivedate=18 May 2019|quote=The initial quest ones are guaranteed drops. The longer wish-list is 1/4.}}}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Barrows|date=9 May 2005}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Barrows}}
+{{Rats}}

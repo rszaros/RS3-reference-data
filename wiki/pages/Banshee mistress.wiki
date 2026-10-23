@@ -1,0 +1,120 @@
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|name = Banshee mistress
+|image = [[File:BansheeMistress.png|200px]]
+|release = [[5 June]] [[2008]]
+|update = Smoking Kills
+|members = Yes
+|actions = Attack
+|examine = A howling banshee.
+|level = 93
+|lifepoints = 15000
+|slaylvl = 35
+|slayxp = 222
+|experience = 750.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Banshees, Ghosts, Undead
+|max_melee = 201
+|max_ranged = 201
+|max_magic = 268
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 50
+|ranged = 67
+|magic = 67
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 850
+|acc_ranged = 1372
+|acc_magic = 1372
+|armour = 1372
+|defence = 67
+|weakness = Bolts
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|restriction = quest
+|id = 7793
+|leagueRegion = Desert
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|name = Banshee mistress
+|image = File:BansheeMistress.png
+|release = [[5 June]] [[2008]]
+|update = Smoking Kills
+|race = Banshee
+|members = Yes
+|quest = [[Smoking Kills]]
+|location = [[Pollnivneach Slayer Dungeon]]
+|map = no
+|gender = Female
+|actions = Attack, Examine
+|examine =
+|id = 7794
+|leagueRegion = Desert
+}}
+}}
+The '''Banshee mistress''' is an exceptionally strong [[banshee]], and acts as the final boss of the [[Smoking Kills]] quest. She is located at the northern end of the [[Pollnivneach Slayer Dungeon]]. To enter her chamber, players must have a [[Banshee voice]]. She is inaccessible after the quest.
+
+When she is at half of her full life points, she will call her minions to help. When this happens, four level 81 [[Insectoid assassin]]s will attack with powerful ranged attacks. When you kill her, the assassins vanish and a cutscene is played. It is strongly recommended that players wield [[masked earmuffs]] before attempting to fight her and also whilst in the cave; otherwise there is a very high risk of death.
+
+Due to an update, if a player dies while fighting the Banshee mistress, they will now automatically keep the masked earmuffs and their gravestone will spawn next to the well in Pollnivneach.
+
+==Strategies==
+Throughout the fight, the mistress will randomly hit players with an acoustic attack, causing the player to fall over. This hits 20% of max LP and you can't prevent it. If auto-retaliate is off, then the player will not attack the mistress again, possibly causing the player to die.
+
+During the fight, players should stand away from her, using [[Protect from Magic]] and eating when necessary. When the mistress says, 'Minions, aid me', the player should quickly swap to [[Protect from Ranged]] as they deal more total damage than the mistress. Players should then watch their health and prayer carefully and eat as often as required.
+
+===Required items===
+* [[Masked earmuffs]]
+* Decent food (such as [[monkfish]] or [[shark]]s)
+* 1-2 [[prayer potion]]s
+* [[Emergency teleport]] (such as a teletab)
+* A [[ring of life]] could prove useful
+* The best available [[Armour/Ranged armour|Ranged armour]].
+* A good weapon. The mistress is weak to bolts so it is '''strongly''' recommended to bring the best crossbow you can use along with suitable bolts. The best options are the [[Royal crossbow]] or twin [[Chaotic crossbow]]s, but the [[Black salamander]] or even the [[Red salamander (Hunter)|Red salamander]] will work too, as they are inexpensive and deal decent bolt damage (though they require tar instead of bolts). Another alternative for those with a high [[Firemaking]] level and completion of [[Forgiveness of a Chaos Dwarf]] is the [[hand cannon]].
+* Plenty of runes/arrows; about 100 bolts should be more than enough.
+
+While bolts is her weakness, other styles can be used fine. It is possible to defeat her with as low as [[Spider silk equipment]] and [[Air Blast]].
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Do No Evil boss room.png|The room the banshee mistress appears
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Smoking Kills|date=5 June 2008}}
+** Added to game.
+}}
+
+{{Smoking Kills}}
+{{Ghost}}
+[[Category:Unique monsters]]
+[[Category:Bosses]]
+[[Category:Amascut]]
+[[Category:Quest monsters]]

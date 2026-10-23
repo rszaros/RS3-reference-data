@@ -1,0 +1,120 @@
+{{External|os|rsc=Blessed Spider}}
+{{Infobox Monster
+|name = Blessed spider
+|image = [[File:Blessed spider.png|200px]]
+|release = [[3 March]] [[2003]]
+|update = New Quest Online - Part Three
+|members = Yes
+|options = Attack
+|examine = It's one of Iban's pets.
+|level = 42
+|lifepoints = 2400
+|slaylvl = 1
+|slayxp = 17.2
+|experience = 120.0
+|aggressive = No
+|poisonous = No
+|slayercat = Spiders
+|assigned_by = Turael, Vannaka
+|max_melee = 440
+|max_ranged = 600
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 22
+|ranged = 30
+|magic = 1
+|necromancy = 1
+|acc_melee = 241
+|acc_ranged = 354
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 454
+|defence = 30
+|weakness = Crush
+|susceptibility = NopeNopeNope
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|leagueRegion = Tirannwn
+|id = 977
+}}
+The '''blessed spider''' is a type of [[spider]] found only in the quest area of [[Underground Pass (dungeon)|Underground Pass]]. They are believed to be blessed or "converted" to [[Iban]]. Like most spiders, blessed spiders attack with [[ranged]] and are weak to crush. They are strong for their level, hitting a maximum of 120, it is a good idea to bring food and good armour since there are multiple spiders in the given areas.
+
+A larger version of the spider is found in a canyon on the bottom floor and is known as [[Kalrag]]. They are found on the west side of bridge and in the pit where Kalrag is located.
+
+Blessed spiders are not aggressive. However, if [[Kalrag]] is killed, they become aggressive to all levels of players. When Kalrag respawns, they revert to being non-aggressive, except for any that might be attempting to attack the player already. Blessed spiders are often feared for lower levels that are doing quests associated with the Underground Pass. 
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Underground Pass]]
+|lvls=42
+|mem=yes
+|mapID=579
+|npcid:977,x:2395,y:9683|npcid:977,x:2397,y:9684|npcid:977,x:2400,y:9682
+|npcid:977,x:2402,y:9680|npcid:977,x:2432,y:9723|npcid:977,x:2433,y:9686
+|npcid:977,x:2433,y:9692|npcid:977,x:2433,y:9720|npcid:977,x:2434,y:9688
+|npcid:977,x:2434,y:9693|npcid:977,x:2434,y:9722|npcid:977,x:2434,y:9725
+|npcid:977,x:2435,y:9690|npcid:977,x:2435,y:9724|npcid:977,x:2436,y:9722
+|npcid:977,x:2436,y:9724|npcid:977,x:2437,y:9692|npcid:977,x:2438,y:9687
+|npcid:977,x:2438,y:9722|npcid:977,x:2439,y:9689|npcid:977,x:2440,y:9690
+|leagueRegion = Tirannwn}}
+{{LocLine
+|loc=[[Underground Pass]] (Bottom level)
+|lvls=42
+|mem=yes
+|mapID=578
+|npcid:977,x:2347,y:9916|npcid:977,x:2348,y:9914|npcid:977,x:2349,y:9894
+|npcid:977,x:2349,y:9899|npcid:977,x:2349,y:9918|npcid:977,x:2350,y:9896
+|npcid:977,x:2350,y:9911|npcid:977,x:2351,y:9895|npcid:977,x:2351,y:9896
+|npcid:977,x:2351,y:9910|npcid:977,x:2352,y:9897|npcid:977,x:2352,y:9899
+|npcid:977,x:2352,y:9914|npcid:977,x:2353,y:9896|npcid:977,x:2353,y:9916
+|npcid:977,x:2354,y:9902|npcid:977,x:2354,y:9903|npcid:977,x:2355,y:9902
+|npcid:977,x:2355,y:9910|npcid:977,x:2355,y:9911|npcid:977,x:2356,y:9909
+|npcid:977,x:2357,y:9902|npcid:977,x:2357,y:9916|npcid:977,x:2358,y:9916
+|npcid:977,x:2359,y:9912|npcid:977,x:2360,y:9911|npcid:977,x:2360,y:9912
+|npcid:977,x:2360,y:9914|npcid:977,x:2361,y:9906|npcid:977,x:2363,y:9908
+|npcid:977,x:2364,y:9912
+|leagueRegion = Tirannwn}}
+{{LocTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[3 March]] [[2003]]|update=New Quest Online - Part Three|img=Blessed spider (3 March 2003).png|name=Blessed spider}}
+|{{GUL|date=[[15 April]] [[2004]]|update=The Underground Pass|img=Blessed spider (15 April 2004).png|name=Blessed spider}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Blessed spider (5 December 2006).png|name=Blessed spider}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (7 June 2011)|date=7 June 2011}}
+** Multiple blessed spiders in Underground Pass no longer attack the player if they are in combat, and have not been fighting Kalrag.
+
+* {{UL|type=update|update=Treasure Trails, spiders and sheep|date=5 December 2006}}
+** New, shiny, woolly and scuttley versions of sheep and spiders have appeared today with the aim of brightening up the landscape. 
+
+* {{UL|type=update|update=The Underground Pass|date=15 April 2004}}
+** Visually updated.
+
+* {{UL|type=update|update=New Quest Online - Part Three|date=3 March 2003}}
+** Added to game.
+}}
+
+{{Spiders}}
+{{Underground Pass}}

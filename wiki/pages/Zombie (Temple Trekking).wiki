@@ -1,0 +1,84 @@
+{{External|os}}
+{{Otheruses|def=no|other zombies|Zombie (disambiguation)}}
+{{Deleted content}}
+{{Infobox Monster
+|name = Zombie
+|image = [[File:Zombie (Temple Trekking).png]]
+|release = [[28 March]] [[2006]]
+|update = Temple Trekking
+|removal = [[17 August]] [[2011]]
+|removalupdate = Temple Trekking: Revamped
+|members = Yes
+|actions = Attack, Examine
+|race = Zombie
+|examine = I wonder if he'd let me borrow his hatchet?
+|level = 28
+|lifepoints = 1000
+|experience = 50.0
+|aggressive = No
+|poisonous = No
+|slayercat = Zombies
+|max_melee = 0.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|attack = 20
+|ranged = 1
+|magic = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 0
+|defence = 20
+|aff_weakness = 90
+|immune_to_poison = No
+|leagueRegion = No
+|id = 3622
+}}
+A '''zombie''' wielding a [[bronze hatchet]] could be encountered during the [[Temple Trekking]] minigame, during the bridge puzzle event, prior to its rework in 2011. The zombie was guaranteed to drop a [[bronze hatchet]] when killed, which could be used to cut the nearby [[tree]]s for [[logs]] to fill the gaps in the bridge.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Zombie (Temple Trekking)
+|loc = [[Temple Trekking]] bridge encounter
+|lvls = 28
+|mem = Yes
+|mapID = 302
+|plane = 0
+|x:2599,y:5045
+|mtype = pin
+|leagueRegion = No
+}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bronze hatchet|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|gemw=No}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[28 March]] [[2006]]|update=Temple Trekking|img=Zombie (Temple Trekking) (2006).png|name=Zombie (Temple Trekking)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie (Temple Trekking) (2007).png|name=Zombie (Temple Trekking)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie (Temple Trekking).png|name=Zombie (Temple Trekking)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=|date=}}
+** Examine changed from "I wonder if he'd let me borrow his axe?" to "I wonder if he'd let me borrow his hatchet?".
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Zombies, skeletons and ghosts have been graphically updated.
+
+* {{UL|type=update|update=Temple Trekking|date=28 March 2006}}
+** Added to game.
+}}
+
+{{Temple Trekking}}
+{{Zombie}}

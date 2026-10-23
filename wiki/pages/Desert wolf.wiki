@@ -1,0 +1,114 @@
+{{External|os=Desert Wolf|rsc=Desert Wolf}}
+{{Infobox Monster
+|name = Desert wolf
+|version1 = Grey
+|version2 = Brown (1)
+|version3 = Brown (2)
+|image1 = [[File:Desert wolf.png|250px]]
+|image2 = [[File:Desert wolf (2).png|250px]]
+|release = [[14 April]] [[2003]]
+|update = Tourist Trap Quest Online!
+|members = Yes
+|options = Attack, Examine
+|examine = A vicious desert wolf.
+|level = 12
+|lifepoints = 1650
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 8.8
+|slayercat = Wolves
+|max_melee = 220
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 11
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 113
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 171
+|defence = 7
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 839
+|id2 = 6050
+|id3 = 6051
+|leagueRegion=Desert}}
+A '''desert wolf''' is a type of [[wolf]] that is located in the [[Kharidian Desert]]. Players who wish to kill desert wolves should bring [[waterskin]]s or wear an [[enchanted water tiara]] to avoid damage from thirst and possibly [[death (mechanic)|death]]. The desert wolf is relatively easy to defeat, being a low level monster.
+
+It is quite abundant in the Kharidian Desert, so if players do not wish to fight it, just run away. Better yet, use the [[magic carpet]] service to get away from monsters. They are aggressive to players level 55 and below. Anyone under its level should be extremely careful and make sure they have plenty of water skins and food.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Kharidian Desert]]
+|lvls=12
+|mem=yes
+|mapID=28
+|npcid:839,x:3150,y:3044|npcid:6051,x:3153,y:3047|npcid:839,x:3172,y:3009
+|npcid:6050,x:3174,y:3010|npcid:6051,x:3196,y:3063|npcid:839,x:3197,y:3012
+|npcid:839,x:3198,y:3040|npcid:6050,x:3198,y:3061|npcid:6050,x:3199,y:3016
+|npcid:6051,x:3199,y:3036|npcid:839,x:3237,y:2968|npcid:6050,x:3223,y:3011
+|npcid:6051,x:3223,y:3035|npcid:839,x:3224,y:3013|npcid:6051,x:3225,y:3011
+|npcid:839,x:3225,y:3034|npcid:839,x:3226,y:3060|npcid:6050,x:3228,y:3060
+|npcid:839,x:3250,y:3057|npcid:6050,x:3251,y:3059|npcid:6051,x:3221,y:3092
+|npcid:839,x:3223,y:3092|npcid:6050,x:3233,y:3075|npcid:6051,x:3234,y:3117
+|npcid:839,x:3235,y:3074|npcid:6050,x:3236,y:3118|npcid:6050,x:3250,y:3126
+|npcid:839,x:3252,y:3125|npcid:839,x:3258,y:3078|npcid:6051,x:3260,y:3077
+|npcid:6050,x:3264,y:3008|npcid:839,x:3265,y:3066|npcid:6050,x:3266,y:3008
+|npcid:6051,x:3266,y:3010|npcid:839,x:3267,y:3066|npcid:6051,x:3267,y:3068
+|npcid:6050,x:3285,y:3066|npcid:6051,x:3287,y:3065|npcid:6051,x:3287,y:3067
+|npcid:839,x:3310,y:3068|npcid:6051,x:3310,y:3070|npcid:6051,x:3312,y:3068
+|npcid:6051,x:3320,y:3054|npcid:839,x:3322,y:3011|npcid:6050,x:3322,y:3032
+|npcid:839,x:3322,y:3052|npcid:6050,x:3323,y:3055|npcid:6051,x:3324,y:3013
+|npcid:839,x:3324,y:3030|npcid:6050,x:3325,y:3010|npcid:6051,x:3325,y:3033
+|npcid:6051,x:3283,y:3084|npcid:839,x:3283,y:3108|npcid:6050,x:3310,y:3076
+|npcid:839,x:3323,y:3094
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw wolf meat|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bone|quantity=1|rarity=Common|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]] activity.}}|gemw=no|version=Grey}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=New Throwing Weapons!|date=14 April 2003}}
+** Added to game.
+}}
+
+{{Wolves}}
+
+[[Category:Wolves]]

@@ -1,0 +1,265 @@
+{{External|os}}
+{{Confuse|Cave crawler}}
+{{Infobox Monster
+|version1 = Level 6
+|version2 = Level 11
+|name = Cave bug
+|image1 = [[File:Cave bug (level 12).png|150px]]
+|image2 = [[File:Cave bug (level 18).png|150px]]
+|release1 = [[14 March]] [[2005]]
+|release2 = [[20 March]] [[2007]]
+|update1 = Lumbridge Swamp Caves
+|update2 = Dorgesh-Kaan
+|members = Yes
+|options = Attack, Examine
+|examine1 = A nasty crawling critter.
+|examine2 = A big, smelly cave dweller.
+|leagueRegion1 = Asgarnia,Misthalin,Wilderness
+|leagueRegion2 = Misthalin,Wilderness
+|level1 = 6
+|level2 = 11
+|lifepoints1 = 650
+|lifepoints2 = 1650
+|experience =
+|aggressive = No
+|poisonous = No
+|slaylvl = 7
+|slayxp1 = 18
+|slayxp2 = 23
+|slayercat = Cave bugs
+|assigned_by = Spria, jacquelyn
+|max_melee = 0
+|max_ranged1 = 120
+|max_ranged2 = 180
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged1 = 6
+|ranged2 = 9
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged1 = 60
+|acc_ranged2 = 91
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 140
+|armour2 = 171
+|defence1 = 4
+|defence2 = 7
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Level 6
+|dropversion2 = Level 11
+|id1 = 1832
+|id2 = 5750
+}}
+[[File:Cave bug icon.png|left]]
+'''Cave bugs''' can be assigned as [[Slayer]] assignments, and require level 7 [[Slayer]] to kill.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Burthorpe Slayer Cave]]
+|lvls=6
+|mem=yes
+|mapID=719
+|npcid:1832,x:224,y:69|npcid:1832,x:226,y:64|npcid:1832,x:228,y:69
+|npcid:1832,x:228,y:84|npcid:1832,x:231,y:81|npcid:1832,x:232,y:78
+|npcid:1832,x:234,y:69|npcid:1832,x:236,y:79|npcid:1832,x:237,y:64
+|npcid:1832,x:240,y:70|npcid:1832,x:242,y:65
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=6, 11
+|mem=yes
+|mapID=23
+|npcid:1832,x:3268,y:5553|npcid:5750,x:3269,y:5553|npcid:1832,x:3270,y:5550
+|npcid:1832,x:3271,y:5546|npcid:1832,x:3272,y:5555|npcid:5750,x:3273,y:5546
+|npcid:5750,x:3273,y:5558|npcid:1832,x:3277,y:5546|npcid:1832,x:3278,y:5558
+|npcid:5750,x:3280,y:5546|npcid:1832,x:3280,y:5556|npcid:5750,x:3282,y:5556
+|npcid:1832,x:3283,y:5544|npcid:1832,x:3283,y:5558|npcid:1832,x:3284,y:5554
+|npcid:5750,x:3285,y:5543|npcid:1832,x:3285,y:5551|npcid:1832,x:3287,y:5538
+|npcid:5750,x:3288,y:5538|npcid:1832,x:3288,y:5545|npcid:5750,x:3289,y:5544
+|npcid:1832,x:3289,y:5547|npcid:1832,x:3290,y:5540
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Dorgesh-Kaan South Dungeon]]
+|lvls=6, 11
+|mem=yes
+|mapID=-1
+|npcid:5750,x:2697,y:5221|npcid:5750,x:2711,y:5231|npcid:1832,x:2712,y:5233
+|npcid:1832,x:2713,y:5237|npcid:5750,x:2715,y:5224|npcid:1832,x:2715,y:5240
+|npcid:1832,x:2715,y:5241|npcid:1832,x:2716,y:5227|npcid:1832,x:2716,y:5235
+|npcid:1832,x:2721,y:5224|npcid:5750,x:2738,y:5193|npcid:5750,x:2738,y:5206
+|npcid:5750,x:2744,y:5221|npcid:1832,x:2745,y:5220|npcid:1832,x:2747,y:5217
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Lumbridge Swamp Caves]]
+|lvls=6
+|mem=yes
+|mapID=31
+|npcid:1832,x:3148,y:9578|npcid:1832,x:3150,y:9571|npcid:1832,x:3150,y:9575
+|npcid:1832,x:3157,y:9558|npcid:1832,x:3164,y:9542|npcid:1832,x:3169,y:9546
+|npcid:1832,x:3172,y:9558|npcid:1832,x:3178,y:9558|npcid:1832,x:3181,y:9585
+|npcid:1832,x:3182,y:9556|npcid:1832,x:3184,y:9549|npcid:1832,x:3187,y:9561
+|npcid:1832,x:3187,y:9577|npcid:1832,x:3189,y:9550|npcid:1832,x:3191,y:9571
+|npcid:1832,x:3191,y:9582|npcid:1832,x:3207,y:9589|npcid:1832,x:3209,y:9585
+|npcid:1832,x:3220,y:9575|npcid:1832,x:3227,y:9583|npcid:1832,x:3229,y:9575
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Level 6 drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Cave bug#Level 6|mobname=level 6 cave bug}}
+
+===Runes===
+{{DropsTableHead|version=Level 6}}
+{{DropsLine|name=Earth rune|quantity=6|rarity=2/128}}
+{{DropsLine|name=Water rune|quantity=8|rarity=5/128}}
+{{DropsLine|name=Nature rune|quantity=1|rarity=5/128}}
+{{DropsLine|name=Nature rune|quantity=2|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|override=There is a 23/128 chance of rolling the [[herb drop table]], with an additional 16/128 chance of rolling a grimy guam.}}
+{{DropsTableHead|version=Level 6}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity=16/128}}
+{{HerbDropTable|23/128}}
+{{DropsTableBottom}}
+
+===Materials===
+{{DropsTableHead|version=Level 6}}
+{{DropsLine|name=Unicorn horn dust|quantity=1|rarity=2/128}}
+{{DropsLine|name=Eye of newt|quantity=1|rarity=2/128}}
+{{DropsLine|name=Limpwurt root|quantity=1|rarity=1/128}}
+{{DropsLine|name=Snape grass|quantity=1|rarity=1/128}}
+{{DropsLine|name=Red spiders' eggs|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead|version=Level 6}}
+{{DropsLine|name=Coins|quantity=3|rarity=8/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=8|rarity=3/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Level 6}}
+{{DropsLine|name=Nothing|rarity=48/128}}
+{{DropsLine|name=White candle|quantity=1|rarity=5/128}}
+{{DropsLine|name=Tinderbox|quantity=1|rarity=3/128}}
+{{DropsLine|name=Candle lantern (empty)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny plated bronze salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+==Level 11 drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Cave bug#Level 11|mobname=level 11 cave bug}}
+
+===Weapons===
+{{DropsTableHead|version=Level 11}}
+{{DropsLine|name=Water battlestaff|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead|version=Level 11}}
+{{DropsLine|name=Earth rune|quantity=1-10|rarity=15/128}}
+{{DropsLine|name=Earth rune|quantity=1-170|rarity=2/128}}
+{{DropsLine|name=Water rune|quantity=1-15|rarity=13/128}}
+{{DropsLine|name=Water rune|quantity=1-170|rarity=2/128}}
+{{DropsLine|name=Fire rune|quantity=1-20|rarity=12/128}}
+{{DropsLine|name=Fire rune|quantity=1-170|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|20/128}}
+{{DropsTableHead|version=Level 11}}
+{{HerbDropTable|20/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Level 11}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsLine|name=Coins|quantity=1-40|rarity=14/128|gemw=No}}
+{{DropsLine|name=Swamp weed|quantity=1-4|rarity=21/128}}
+{{DropsLine|name=Swamp weed|quantity=1-8|rarity=20/128}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead|version=Level 11}}
+{{DropsLine|name=Tiny plated bronze salvage|quantity=1|rarity=1/128|raritynotes={{DropNote|Drops along with the Water battlestaff drop.}}}}
+{{DropsLineEffigy|level=11}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=11}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|version=Level 11
+|quantity = 1
+|gold = 91.478/1000
+|green = 365.91/1000
+|crimson = 22.869/1000
+|blue = 4.574/1000
+}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Cave bugs.png|thumb|Cave bugs in the Chaos tunnels
+</gallery>
+
+==Graphical updates==
+{{GU
+|subject=NPCs
+|{{GUL|date=[[14 March]] [[2005]]|update=Lumbridge Swamp Caves|img=Cave bug (2005).png|name=Cave bug}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Dorgesh-Kaan|img=Cave bug (2007).png|name=Cave bug}}
+|{{GUL|date=|update=|img=Cave bug (level 12).png|name=Cave bug}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Cookbook And Progression Wrapup Update - This Week In RuneScape|date=25 March 2024}}
+** Cave bugs can now be selected as a task from [[Turael]]/[[Spria]] when using the [[Slayer master cape|Slayer Master Cape]] skillcape perk.
+
+* {{UL|type=patch|update=Housing of Parliament &amp; Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=hidden|update=This Week In RuneScape: Yak To Basics and Ninja Strike 20!|date=1 March 2021}}
+** The level 8 variant was made available to [[free-to-play]] players.
+
+* {{UL|type=patch|update=Patch Notes (3 May 2011)|date=3 May 2011}}
+** This monster will no longer be assigned as a Slayer task to players with very low combat stats, and their regeneration rate has been lowered.
+
+* {{UL|type=update|update=Lumbridge Swamp Caves|date=14 March 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* This monster previously appeared on free-to-play worlds in the Taverley Slayer Dungeon, but it could not be killed because it requires a Slayer level of 7, while free players can only reach level 5.
+* The large level 11 cave bugs were level 96 before the [[Evolution of Combat]].
+* When a level 11 cave bug is killed, it appears to fall apart and explode.
+
+{{Slayer monsters}}

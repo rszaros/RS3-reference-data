@@ -1,0 +1,258 @@
+{{External|os}}
+{{Otheruses|def=no|the equipment set|Dharok the Wretched's equipment}}
+{{Otheruses|def=no|the pet version|Dharok the Bobbled}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Normal
+|version2 = Ritual of the Mahjarrat
+|version3 = Rise of the Six
+|name = Dharok the Wretched
+|image1 = [[File:Dharok the Wretched.png|200px]]
+|image2 = [[File:Dharok the Wretched.png|200px]]
+|image3 = [[File:Dharok the Wretched (Shadow).png|200px]]
+|release1 = [[9 May]] [[2005]]
+|release2 = [[14 September]] [[2011]]
+|release3 = [[13 November]] [[2013]]
+|update1 = Barrows
+|update2 = Ritual of the Mahjarrat
+|update3 = Barrows - Rise of the Six
+|members = Yes
+|options = Attack
+|examine = A vengeful spirit corrupted by dark magic.
+|level1 = 150
+|level2 = 105
+|level3 = 650
+|lifepoints1 = 12000
+|lifepoints2 = 50000
+|lifepoints3 = 50000
+|slayxp1 = 343.6
+|slayxp2 = 395
+|slayxp3 = 
+|experience2 = 1250.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ghosts, Undead
+|max_melee1 = 1260
+|max_melee2 = 1296
+|max_melee3 = 1296
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 3150
+|style = melee
+|primarystyle = melee
+|speed1 = 6
+|speed2 = 5
+|speed3 = 5
+|attack1 = 70
+|attack2 = 70
+|attack3 = 90
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 1566
+|acc_melee2 = 1694
+|acc_melee3 = 2458
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 1299
+|armour2 = 1694
+|armour3 = 1924
+|defence1 = 70
+|defence2 = 70
+|defence3 = 90
+|weakness1 = Fire
+|weakness2 = Nothing
+|weakness3 = Nothing
+|susceptibility = Salve, Ghost
+|aff_weakness1 = 90
+|aff_weakness2 = 40
+|aff_weakness3 = 40
+|aff_melee1 = 60
+|aff_melee2 = 40
+|aff_melee3 = 40
+|aff_ranged1 = 50
+|aff_ranged2 = 40
+|aff_ranged3 = 40
+|aff_magic1 = 70
+|aff_magic2 = 40
+|aff_magic3 = 40
+|immune_to_poison1 = No
+|immune_to_poison2 = No
+|immune_to_poison3 = Yes
+|immune_to_deflect1 = No
+|immune_to_deflect2 = No
+|immune_to_deflect3 = Yes
+|immune_to_stun1 = No
+|immune_to_stun2 = No
+|immune_to_stun3 = Yes
+|immune_to_drain1 = No
+|immune_to_drain2 = No
+|immune_to_drain3 = Yes
+|restriction2 = quest
+|leagueRegion = Morytania
+|id1 = 2026
+|id2 = 14264
+|id3 = 18540
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = 150
+|version2 = 0
+|name = Dharok
+|image = File:Dharok the Wretched.png
+|release = [[23 May]] [[2016]]
+|update = New Quest – Kindred Spirits - Void Knights Rework
+|race = Ghost
+|level1 = 150
+|level2 = 0
+|members = Yes
+|quest = [[Kindred Spirits]]
+|location = [[Sliske's lair]]
+|map = no
+|gender = Male
+|options = Talk to, Examine
+|examine =
+|leagueRegion = Morytania
+|id1 = 22727
+|id2 = 22738
+}}
+}}
+{{Synced switch
+|version1=[[File:Dharok the Wretched chathead.png|left|80px]]
+|version2=[[File:Dharok the Wretched chathead.png|left|80px]]
+|version3=[[File:Dharok the Wretched (Rise of the Six) chathead.png|left]]
+}}
+'''Dharok the Wretched '''(abbreviated by some players as '''DH'''), is the second oldest of the six [[Barrows brothers]]. Like most of the Barrows Brothers, he attacks with [[melee]], using his [[Dharok's Greataxe|greataxe]]. Dharok attacks at a slower speed than his brothers, but when he is at low health he can hit extremely high and thus he is considered by most players to be the most dangerous of the original Barrows brothers.
+
+Dharok's set effect; ''Dharok's Might'', causes his average damage dealt to be increased as he loses life points. This causes him to hit upwards of 3,000-4,000 when at low life points. Therefore it is incredibly important for a player to watch their life points, as well as prayer points if using protection prayers, and to eat food whenever necessary. [[Protect from Melee]]/[[Deflect Melee]] are also recommended when fighting him, as they can block up to 50% of damage he inflicts, reducing the maximum hit to around 1000-2000.
+
+Dharok is fought in [[Barrows: Rise of the Six]].
+
+==Drops==
+Dharok does not drop his main rewards directly; instead, his [[Dharok the Wretched's equipment|equipment]] is added as possible rewards from the Barrows chest. ''See [[The Barrows Brothers#Rewards]] for more information.'' However, Dharok can directly drop the following items.
+
+{{DropsTableHead}}
+{{DropsLineGhosts}}
+{{DropsTableBottom}}
+
+==History==
+===Early history===
+Dharok, along with his brothers, lived on a small farm. He was somewhat haughty, having bullied others when he was young. However, his views changed after a preacher stayed at the farm for a season. Eventually, his younger brother [[Guthan the Infested|Guthan]] convinced him to join the crusades. Dharok initially opposed the idea, as he believed that maintaining the farm and feeding the crusaders was enough "glory" for him.
+
+He may have had a wife, if the tradition surrounding the [[Lock of hair]], a Saradominist relic, is true. 
+
+===2016 Easter event===
+During the [[2016 Easter event]], Dharok the Wretched and his brothers play a role as the workers (bobble-numbskulls) of Sliske's chocolate factory. They resembled their bobble-head versions.
+
+===Tormented past===
+{{OccDur|Kindred Spirits}}
+[[File:Kindred Spirits Dharok.png|thumb|left|Dharok mentally tortured in his arena.]]
+During [[Kindred Spirits]], Sliske subjected Dharok into a "game" where he is constantly forced to fight endless waves of [[Saradomin crusader]]s, much to his reluctance. The World Guardian, who is forced to play along to save Meg, Rancour and Linza, found Dharok and learned about his past. They were given the option of either sending out a [[White Knight champion]] or letting the weak crusaders kill him. If they opted for the former, Dharok was upset with their actions and considered it a betrayal; if they chose the latter, Dharok thanked them, stating that it was a relief to let go of his anger and pride go as he felt the retribution of his victims.
+
+Dharok later accompanied the group to the rest of the brothers where he learned of Ahrim and Verac's hidden secrets. After the World Guardian snooped around Sliske's lair during the remaining brothers' games, they destroyed a crystal inside, allowing Dharok and the others to slightly resist Sliske's control. When the World Guardian and the remaining hostages escaped his lair, Dharok emerged from his mound, thanking the World Guardian for whatever they had done, as they were finally able to resist Sliske's control. He told them that Linza was not like the others and that they would feign loyalty to Sliske, promising to help the World Guardian when the time came before returning to rest.
+
+===Freedom===
+{{OccDur|Sliske's Endgame}}
+Dharok, along with his brothers, were summoned by Sliske, by being the second intended wave in Sliske's attempts to destroy the World Guardian. However, the Barrows Brothers had managed to regain a modicum of control over their own actions due to the World Guardian destroying the shadow crystal inside Sliske's hideout during the torturous games and chose to aid the World Guardian, attacking Sliske's wights and champions.
+
+After Sliske's demise, Dharok and the others decided to remain at Barrows and figure out what to do with their newfound freedom, along with sparring with the World Guardian if they chose to pay a visit.
+
+{{Listen
+|align=right
+|title=Dharok draining prayer
+|desc=
+|filename=Dharok_laugh.ogg
+}}
+
+==Mentioned==
+{{MentionedIn}}
+
+==Gallery==
+<gallery mode="packed" heights="150">
+Dharok the Wretched official art.png|A picture of Dharok the Wretched.
+Dharok concept art.jpg|Artwork for Dharok as a wight.
+File:Dharoks RuneFest concept.png|The new model for Dharok's armour revealed at RuneFest 2011.
+Dharok the Wretched (Christmas).png|Dharok wearing a Santa hat during Christmas.
+Dharok the Wretched (Shadow, Christmas).png|Shadow Dharok wearing a Santa hat during Christmas.
+</gallery>
+
+==Graphical updates==
+===NPCs===
+{{GU|subject=NPCs
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Dharok the Wretched (2005).png|name=Dharok the Wretched}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Dharok the Wretched (2008).png|name=Dharok the Wretched}}
+|{{GUL|date=[[1 September]] [[2010]]|update=Court Cases: Back in Session|img=Dharok the Wretched (2010).png|name=Dharok the Wretched}}
+|{{GUL|date=[[4 January]] [[2012]]|update=A Very Barrows New Year!|img=Dharok the Wretched.png|name=Dharok the Wretched}}
+}}
+===Chatheads===
+{{GU|subject=Chatheads
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Dharok the Wretched (2005) chathead.png|name=Dharok the Wretched's chathead}}
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Dharok the Wretched (2008) chathead.png|name=Dharok the Wretched's chathead}}
+|{{GUL|date=[[3 December]] [[2009]]|update=The Temple at Senntisten|img=Dharok the Wretched (2009) chathead.png|name=Dharok the Wretched's chathead}}
+|{{GUL|date=[[4 January]] [[2012]]|update=A Very Barrows New Year!|img=Dharok the Wretched chathead.png|name=Dharok the Wretched's chathead}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=Necromancy Patch Week - This Week In RuneScape|date=11 September 2023}}
+** The 50% combat experience reduction on bosses has been removed. Bosses now give 50 combat experience per 1,000 life points, like most other monsters in the game.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+** An old restriction preventing the use of the Salve Amulet at Barrows has been removed. It also works in Rise of the Six.
+
+* {{UL|type=patch|update=This Week In RuneScape: Celebration of Combat#Patch Notes|date=11 January 2021}}
+** Various bosses around RuneScape have taken their Santa Hats off for another year.
+
+* {{UL|type=patch|update=Patch Notes (23 October 2017)|date=23 October 2017}}
+** The right-click options on Barrows brothers spawned by other players have been removed.
+
+* {{UL|type=update|update=A Very Barrows New Year!|date=4 January 2012}}
+** Dharok the Wretched is graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (13 May 2010)|date=13 May 2010}}
+** Dharok's axe now matches the player version of this item.
+
+* {{UL|type=update|update=Barrows|date=9 May 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Along with the graphical update on 4 January 2012, his combat level was increased from 115 to 196. Due to the Evolution of Combat, his combat level has been lowered to 150.
+* All of the Barrows brothers had their attack speed changed to 6 ticks (3.6 seconds) during the transition to the [[Evolution of Combat]]. Dharok was the only one among them whose speed increased; his pre-EoC attack speed was 7 game ticks (4.2 seconds).
+* There are two statues of Dharok, or a player wearing Dharok's set, in front of the Morytania Slayer Tower wielding a 2-handed sword. The prominent spike on the front of the helmet is missing on both statues.
+
+==References==
+{{Reflist}}
+
+{{Barrows}}
+{{Barrows: Rise of the Six}}
+{{The Temple at Senntisten}}
+{{Ritual of the Mahjarrat}}
+{{Missing, Presumed Death}}
+{{Kindred Spirits}}
+{{Sliske's Endgame}}
+{{2016 Easter event}}
+{{Wights}}
+{{The Fall of Six}}
+{{Top trumps}}
+{{Return to Canifis}}
+[[Category:Saradominists]]
+[[Category:Participants in the God Wars]]
+[[Category:Sliskeans]]
+[[Category:Bosses]]
+[[Category:Familiar-immune monsters]]
+[[Category:NPCs that can move at running speed]]
+[[pt:Dharok, o desprezível]]

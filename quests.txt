@@ -1,0 +1,534 @@
+id|config_name|display_name|quest_points
+0|CABINFEVER|Cabin Fever|0
+1|TOWER_OF_LIFE|Tower of Life|2
+2|SCORPIONCATCHER|Scorpion Catcher|0
+3|THEGOLEM_QUEST|The Golem|0
+4|ROCKING_OUT|Rocking Out|2
+5|THEPATHOFGLOUPHRIE|The Path of Glouphrie|0
+6|COOK_QUEST|Cook's Assistant|0
+7|WITCHES_HOUSE|Witch's House|0
+8|RS_QUEST_ELEMENTAL_WORKSHOP_1|Elemental Workshop I|0
+9|PRIESTPERIL|Priest in Peril|0
+10|SHADESOFMORTTON|Shades of Mort'ton|0
+11|LOVESTORY|Love Story|0
+12|SEA_SLUG_2|The Slug Menace|0
+13|DEATH_TO_THE_DORGESHUUN|Death to the Dorgeshuun|1
+14|SPIRIT_SUMMER_1|Spirit of Summer|0
+15|ERNEST_THE_CHICKEN|Ernest the Chicken|4
+16|WATCHTOWER|Watchtower|4
+17|ROMEO_AND_JULIET|Romeo and Juliet|0
+18|TALE_OF_THE_MUSPAH|The Tale of the Muspah|1
+19|SEARCHFORMYREQUE|In Search of the Myreque|0
+20|SWEPT_AWAY|Swept Away|2
+21|IN_AID_OF_THE_MYREQUE|In Aid of the Myreque|2
+22|MY_ARM|My Arm's Big Adventure|0
+23|CATAPULT_CONSTRUCTION|Catapult Construction|2
+24|LUNAR_DIPLOMACY|Lunar Diplomacy|2
+25|SCABARAS|Dealing With Scabaras|0
+26|MYQ3_MAIN_QUEST|The Darkness of Hallowvale|0
+27|RESTLESS_GHOST|The Restless Ghost|1
+28|MURDER_MYSTERY|Murder Mystery|3
+29|ALL_FIRED_UP|All Fired Up|1
+30|RECIPE_FOR_DISASTER|Recipe for Disaster|0
+31|UNDERGROUNDPASS|Underground Pass|0
+32|GRIM_QUEST|Grim Tales|0
+33|FUR_N_SEEK|Fur 'n Seek|2
+34|DWARF_CANNON|Dwarf Cannon|1
+35|FORGIVENESS|Forgiveness of a Chaos Dwarf|2
+36|SOULS_BANE|A Soul's Bane|1
+37|LOST_TRIBE|The Lost Tribe|1
+38|HEROES_QUEST|Heroes' Quest|0
+39|SHEEP_HERDER|Sheep Herder|4
+40|TRIBAL_TOTEM|Tribal Totem|1
+41|A_FIRST_RESORT|As a First Resort|0
+42|LOSTCITY|Lost City|0
+43|ANIMAL_MAGNETISM|Animal Magnetism|1
+44|CLOCK_TOWER|Clock Tower|1
+45|TAIL_OF_TWO_CATS|A Tail of Two Cats|2
+46|SPIRITS_OF_THE_ELID|Spirits of the Elid|2
+47|MYQ4|Legacy of Seergaze|0
+48|SWANSONG1|Swan Song|0
+49|B2MR|Back to my Roots|0
+50|FREMENNIKTRIALS|The Fremennik Trials|0
+51|DEMON_SLAYER|Demon Slayer|3
+52|WOLFWHISTLE|Wolf Whistle|0
+53|BLACK_KNIGHTS_FORTRESS|Black Knights' Fortress|0
+54|OBSERVATORY_QUEST|Observatory Quest|0
+55|RUNE_MYSTERIES|Rune Mysteries|0
+56|DEFENDER_OF_VARROCK|Defender of Varrock|2
+57|BETWEENAROCK|Between a Rock...|0
+58|PLAGUE_CITY|Plague City|1
+59|JUNGLE_POTION|Jungle Potion|1
+60|PIRATES_TREASURE|Pirate's Treasure|2
+61|KINGS_RANSOM|King's Ransom|1
+62|RECRUITMENT_DRIVE|Recruitment Drive|1
+63|SHIELD_OF_ARRAV|Shield of Arrav|1
+64|PRINCEALI_RESCUE|Prince Ali Rescue|0
+65|THEGRANDTREE|The Grand Tree|0
+66|DRAGON_SLAYER|Dragon Slayer|2
+67|RAT_CATCHERS|Rat Catchers|0
+68|RAG_AND_BONE_MAN|Rag and Bone Man|2
+69|DIGSITE_QUEST|The Dig Site|0
+70|SHILO_VILLAGE|Shilo Village|2
+71|SHADOW_OF_THE_STORM|Shadow of the Storm|1
+72|IMP_CATCHER|Imp Catcher|1
+73|FAIRY_TALE_PART_1|A Fairy Tale I - Growing Pains|0
+74|MYTHS_OF_THE_WHITE_LANDS|Myths of the White Lands|2
+75|EADGARS_RUSE|Eadgar's Ruse|1
+76|FISHING_CONTEST|Fishing Contest|1
+77|MISSING_MY_MUMMY|Missing My Mummy|1
+78|TREEGNOMEVILLAGE|Tree Gnome Village|0
+79|DREAM_MENTOR|Dream Mentor|2
+80|SMOKING|Smoking Kills|0
+81|TEARS_OF_GUTHIX|Tears of Guthix|1
+82|GHOSTS_AHOY|Ghosts Ahoy|2
+83|VKQ2|A Void Dance|1
+84|RECIPE_FOR_DISASTER_SUB_0|Recipe For Disaster: Another Cook's Quest|0
+85|TROLL_STRONGHOLD|Troll Stronghold|1
+86|WHILE_GUTHIX_SLEEPS|While Guthix Sleeps|5
+87|IN_PYRE_NEED|In Pyre Need|1
+88|BRAIN_QUEST|The Great Brain Roberry|0
+89|TBWT|Tai Bwo Wannai Trio|0
+90|TROLL_ROMANCE|Troll Romance|2
+91|LOTG|Land of the Goblins|0
+92|CREATURE_OF_FENKENSTRAIN|Creature of Fenkenstrain|2
+93|WATERFALL|Waterfall Quest|1
+94|RS_QUEST_ELEMENTAL_WORKSHOP_2|Elemental Workshop II|0
+95|SUMMERS_END|Summer's End|1
+96|KENNITHSCONCERNS|Kennith's Concerns|0
+97|ENAKHRAS_LAMENT|Enakhra's Lament|2
+98|FORGETTABLE_TALE_OF_ADRUNKENDWARF|Forgettable Tale of a Drunken Dwarf|0
+99|DORIC_QUEST|Doric's Quest|0
+100|REGICIDE_QUEST|Regicide|0
+101|RUM_DEAL|Rum Deal|2
+102|BIG_CHOMPY_BIRD_HUNTING|Big Chompy Bird Hunting|2
+103|WANTED_QUEST|Wanted!|0
+104|ZOGRE_FLESH_EATERS|Zogre Flesh Eaters|1
+105|HORROR_FROM_DEEP|Horror from the Deep|0
+106|FIGHTARENA|Fight Arena|0
+107|LED_ZEP|Enlightened Journey|0
+108|MERLINS_CRYSTAL|Merlin's Crystal|6
+109|PERILS|Perils of Ice Mountain|0
+110|ROVING_ELVES|Roving Elves|1
+111|DRUIDIC_RITUAL|Druidic Ritual|4
+112|HOLY_GRAIL|Holy Grail|2
+113|THE_TOURIST_TRAP|The Tourist Trap|0
+114|CHOSEN_COMMANDER|The Chosen Commander|3
+115|GLORIOUS_MEMORIES|Glorious Memories|1
+116|FAMILY_CREST|Family Crest|1
+117|CURSE_OF_ARRAV|The Curse of Arrav|1
+118|GARDEN_OF_TRANQUILITY|Garden of Tranquillity|0
+119|LEGENDS1|Legends' Quest|0
+120|HAUNTED_MINE|Haunted Mine|2
+121|SEA_SLUG|Sea Slug|1
+122|RED_RAKTUBER|Hunt for Red Raktuber|0
+123|DEVIOUS_MINDS|Devious Minds|1
+124|MAKING_HISTORY|Making History|3
+125|HAZEEL_CULT|Hazeel Cult|1
+126|TEMPLE_OF_IKOV|Temple of Ikov|1
+127|ROYAL_TROUBLE|Royal Trouble|1
+128|BIOHAZARD|Biohazard|3
+129|MOURNINGS_ENDS_PART2|Mournings Ends Part II|0
+130|MONKEY_MADNESS|Monkey Madness|3
+131|TUTORIAL_3|Unstable Foundations|1
+132|VAMPIRE_SLAYER|Vampyre Slayer|0
+133|NATURE_SPIRIT|Nature Spirit|2
+134|THE_GIANT_DWARF|The Giant Dwarf|0
+135|DESERT_TREASURE|Desert Treasure|3
+136|THE_FEUD|The Feud|0
+137|GOBLIN_DIPLOMACY|Goblin Diplomacy|5
+138|GERTRUDES_CAT|Gertrude's Cat|1
+139|DILLO|TokTz-Ket-Dill|0
+140|DEATH_PLATEAU|Death Plateau|1
+141|ICTHLARINS_LITTLE_HELPER|Icthlarin's Little Helper|0
+142|MEETING_HISTORY|Meeting History|1
+143|EYES_GLOUPHRIE|The Eyes of Glouphrie|0
+144|WHAT_LIES_BELOW|What Lies Below|1
+145|COLD_WAR|Cold War|1
+146|ONE_SMALL_FAVOUR|One Small Favour|2
+147|MONKSFRIEND|Monk's Friend|0
+148|FREMENNIK_ISLES|The Fremennik Isles|1
+149|EAGLES_PEAK|Eagles' Peak|2
+150|HANDSAND_QUEST|The Hand in the Sand|0
+151|MOUNTAIN_DAUGHTER|Mountain Daughter|2
+152|SQUIRE_QUEST|The Knight's Sword|0
+153|OLAF_QUEST|Olaf's Quest|0
+154|FAIRYTALE_PART2|A Fairy Tale II - Cure a Queen|0
+155|ANOTHER_SLICE_OF_HAM|Another Slice of H.A.M.|1
+156|MOURNINGS_ENDS_PART1|Mournings Ends Part 1|0
+157|TOMISC|Throne of Miscellania|0
+158|CONTACT_QH|Contact!|0
+159|RECIPE_FOR_DISASTER_SUB_6|Recipe For Disaster: Freeing Skrach Uglogwee|0
+160|RECIPE_FOR_DISASTER_SUB_5|Recipe For Disaster: Freeing Pirate Pete|0
+161|RECIPE_FOR_DISASTER_SUB_1|Recipe For Disaster: Freeing the Goblin Generals|0
+162|RECIPE_FOR_DISASTER_SUB_8|Recipe For Disaster: Freeing King Awowogei|0
+163|RECIPE_FOR_DISASTER_SUB_7|Recipe For Disaster: Freeing Sir Amik Varze|0
+164|RECIPE_FOR_DISASTER_SUB_3|Recipe For Disaster: Freeing Evil Dave|0
+165|RECIPE_FOR_DISASTER_SUB_2|Recipe For Disaster: Freeing the Mountain Dwarf|0
+166|RECIPE_FOR_DISASTER_SUB_4|Recipe For Disaster: Freeing the Lumbridge Sage|0
+167|WITHIN_THE_LIGHT|Within the Light|2
+168|SENNTISTEN|The Temple at Senntisten|0
+169|EPIC_VIKING|Blood Runs Deep|0
+170|NOMADS_REQUIEM|Nomad's Requiem|3
+171|RUNE_MECHANICS|Rune Mechanics|1
+172|LUMBCAT_BLOOD_PACT|The Blood Pact|0
+173|SHEEP_SHEARER|Sheep Shearer (miniquest)|0
+174|THIGUI|Buyers and Cellars|0
+175|FAIRY_TALE_PART_3|A Fairy Tale III - Battle at Ork's Rift|0
+176|RS_QUEST_ELEMENTAL_WORKSHOP_3|Elemental Workshop III|0
+177|VKQ1_QUIET_BEFORE_SWARM|The Quiet Before the Swarm|0
+178|WITCHS_POTION|Witch's Potion (miniquest)|0
+179|ROMCOM|Gunnar's Ground|0
+180|VKQ3_LIE_IN_RUINS|The Void Stares Back|0
+181|XMAS_2010|O Little Town of Daemonheim|0
+182|TASKMASTER|Achievement System|0
+183|APMEKEN_QUEST|Do No Evil|0
+184|HALLOWEEN_2010|Partying is Such Sweet Sorrow|0
+185|KING_OF_THE_DWARVES|King of the Dwarves|2
+186|PRISONER_OF_GLOUPHRIE|The Prisoner of Glouphrie|1
+187|RS_QUEST_ELEMENTAL_WORKSHOP_4|Elemental Workshop IV|0
+188|CLOCKWORK_SYRINGE|A Clockwork Syringe|1
+189|EASTER11_HOLLY|Holly|0
+190|EASTER11_HAWTHORN|Hawthorn|0
+191|DEADLIEST_CATCH_QUEST|Deadliest Catch|0
+192|SLUG3_PLOG|Salt in the Wound|0
+193|MYQ5_QUEST|The Branches of Darkmeyer|0
+194|RITUAL_OF_THE_MAHJARRAT|Ritual of the Mahjarrat|3
+195|HALLOWEEN_2011|Deathcon II|0
+196|ONE_PIERCING_NOTE|One Piercing Note|2
+197|THANKSGIVING_2011|Turkey Protest|0
+198|XMAS11|A Towering Feast|0
+199|FMC_QUEST|The Firemaker's Curse|0
+200|LETTHEMEATPIE|Let Them Eat Pie|0
+201|TZHAAR2_QUEST|The Elder Kiln|0
+202|SONG_FROM_THE_DEPTHS|Song from the Depths|0
+203|CARNILLEANRISING|Carnillean Rising|0
+204|SOME_LIKE_IT_COLD|Some Like It Cold|1
+205|OZAN2_QUEST|Diamond in the Rough|0
+206|OZAN1_QUEST|Stolen Hearts|0
+207|PNR_QUEST|What's Mine is Yours|0
+208|ARIANE1_QUEST|Rune Mysteries|0
+209|ARIANE2_QUEST|Rune Memories|0
+210|TZHAAR3_QUEST|The Brink of Extinction|0
+211|XMAS_2012|A Stray in a Manger|0
+212|TSD_QUEST|The World Wakes|0
+213|QUEST_BACON|Bringing Home the Bacon|0
+214|OWEN1_QUEST|The Death of Chivalry|0
+215|BIRTHRIGHT_OF_THE_DWARVES|Birthright of the Dwarves|2
+216|SLISKE1_QUEST|Missing, Presumed Death|0
+217|TUT5_QUEST|Tutorial|0
+218|OOAK_QUEST|One of a Kind|0
+219|PURPLE_ROSE_QUEST|Fate of the Gods|0
+220|ASH1_QUEST|A Shadow over Ashdale|0
+221|THE_MIGHTY_FALL|The Mighty Fall|0
+222|PLAGUES_END|Plague's End|2
+223|QUEST_HOUSE|Broken Home|0
+224|HEART_OF_STONE|Heart of Stone|1
+225|QUEST_SLISKE2|Dishonour among Thieves|0
+226|QUEST_200|Dimension of Disaster|0
+227|QUEST_200_INTRO|Dimension of Disaster: Coin of the Realm|0
+228|QUEST_200_SOA|Dimension of Disaster: Shield of Arrav|0
+229|QUEST_200_DS|Dimension of Disaster: Demon Slayer|0
+230|QUEST_200_DOV|Dimension of Disaster: Defender of Varrock|0
+231|QUEST_200_COA|Dimension of Disaster: Curse of Arrav|0
+232|CRONDIS_QUEST|Crocodile Tears|0
+233|QUEST_SEREN|The Light Within|0
+234|MYQ6_QUEST|The Lord of Vampyrium|0
+235|QUEST_GOEBIE1|Call of the Ancestors|0
+236|QUEST_TUTISLAND|Tutorial|0
+237|QUEST_NOMEL|Nomad's Elegy|0
+238|MYQ7_QUEST|River of Blood|0
+239|QUEST_SISTER|Kindred Spirits|0
+240|QUEST_GOWER|Gower Quest|0
+241|QUEST_FOTG2|Children of Mah|0
+242|QUEST_ELR0|Impressing the Locals|0
+243|QUEST_ENDGAME|Sliske's Endgame|0
+244|QUEST_PENG_BTTF|Back to the Freezer|0
+245|QUEST_HEROS_WELCOME|Hero's Welcome|0
+246|HET_QUEST|Our Man in the North|0
+247|OZAN3_QUEST|The Jack of Spades|0
+248|PHARAOH_QUEST|'Phite Club|0
+249|HW17_QUEST||0
+250|DAVE_QUEST|Evil Dave's Big Day Out|0
+251|XMAS17_QUEST|Ghost Stories of Gielinor|0
+252|QUEST_PIRATEFINALE|Pieces of Hate|0
+253|TRAIL_QUEST|You Are It|0
+254|QUEST_TNS|The Needle Skips|0
+255|XMAS18_QUEST|Violet is Blue|0
+256|TUT5|Tutorial|0
+257|COOKS_ASSISTANT|Cook's Assistant|1
+258|VAMPYRE_SLAYER|Vampyre Slayer|3
+259|PRINCE_ALI_RESCUE|Prince Ali Rescue|0
+260|DORICS|Doric's Quest|0
+261|KNIGHTS_SWORD|The Knight's Sword|1
+262|LOST_CITY|Lost City|3
+263|WITCHS_HOUSE|Witch's House|4
+264|HEROES|Heroes' Quest|1
+265|SCORPION_CATCHER|Scorpion Catcher|1
+266|MONKS_FRIEND|Monk's Friend|1
+267|TREE_GNOME_VILLAGE|Tree Gnome Village|2
+268|FIGHT_ARENA|Fight Arena|2
+269|GRAND_TREE|The Grand Tree|5
+270|UNDERGROUND_PASS|Underground Pass|5
+271|OBSERVATORY|Observatory Quest|2
+272|TOURIST_TRAP|The Tourist Trap|2
+273|DIG_SITE|The Dig Site|2
+274|LEGENDS|Legends' Quest|4
+275|ELEMENTAL_WORKSHOP_I|Elemental Workshop I|1
+276|PRIEST_IN_PERIL|Priest in Peril|1
+277|TAI_BWO_WANNAI_TRIO|Tai Bwo Wannai Trio|2
+278|REGICIDE|Regicide|3
+279|SHADES_OF_MORTTON|Shades of Mort'ton|3
+280|FREMENNIK_TRIALS|The Fremennik Trials|3
+281|HORROR_FROM_THE_DEEP|Horror from the Deep|2
+282|THRONE_OF_MISCELLANIA|Throne of Miscellania|1
+283|IN_SEARCH_OF_THE_MYREQUE|In Search of the Myreque|2
+284|BETWEEN_A_ROCK|Between a Rock...|2
+285|FEUD|The Feud|1
+286|GOLEM|The Golem|1
+287|ICS_LITTLE_HELPER|Icthlarin's Little Helper|2
+288|GIANT_DWARF|The Giant Dwarf|2
+289|MOURNINGS_END|Mourning's End Part I|2
+290|FORGETTABLE_TALE|Forgettable Tale of a Drunken Dwarf|2
+291|GARDEN_OF_TRANQUILLITY|Garden of Tranquillity|2
+292|WANTED|Wanted!|1
+293|MOURNINGS_END_PART_2|Mourning's End Part II|2
+294|RATCATCHERS|Rat Catchers|2
+295|HAND_IN_THE_SAND|The Hand in the Sand|1
+296|CABIN_FEVER|Cabin Fever|2
+297|FAIRY_TALE_I|A Fairy Tale I - Growing Pains|2
+298|RECIPE_FOR_DISASTER_INTRO|Recipe for Disaster: Another Cook's Quest|1
+299|RECIPE_FOR_DISASTER_DWARF|Recipe for Disaster: Freeing the Mountain Dwarf|1
+300|RECIPE_FOR_DISASTER_GOBLIN|Recipe for Disaster: Freeing the Goblin Generals|1
+301|RECIPE_FOR_DISASTER_PIRATE|Recipe for Disaster: Freeing Pirate Pete|1
+302|RECIPE_FOR_DISASTER_GUIDE|Recipe for Disaster: Freeing the Lumbridge Sage|1
+303|RECIPE_FOR_DISASTER_DAVE|Recipe for Disaster: Freeing Evil Dave|1
+304|RECIPE_FOR_DISASTER_OGRE|Recipe for Disaster: Freeing Skrach Uglogwee|1
+305|RECIPE_FOR_DISASTER_VARZE|Recipe for Disaster: Freeing Sir Amik Varze|1
+306|RECIPE_FOR_DISASTER_MONKEY|Recipe for Disaster: Freeing King Awowogei|1
+307|RECIPE_FOR_DISASTER_BOSS|Recipe for Disaster: Defeating the Culinaromancer|1
+308|SWAN_SONG|Swan Song|2
+309|FAIRY_TALE_II|A Fairy Tale II - Cure a Queen|2
+310|EYES_OF_GLOUPHRIE|The Eyes of Glouphrie|2
+311|DARKNESS_OF_HALLOWVALE|The Darkness of Hallowvale|2
+312|SLUG_MENACE|The Slug Menace|1
+313|ELEMENTAL_WORKSHOP_II|Elemental Workshop II|1
+314|MY_ARMS_BIG_ADVENTURE|My Arm's Big Adventure|1
+315|ENLIGHTENED_JOURNEY|Enlightened Journey|1
+316|CONTACT|Contact!|1
+317|GREAT_BRAIN_ROBBERY|The Great Brain Robbery|2
+318|OLAFS|Olaf's Quest|1
+319|GRIM_TALES|Grim Tales|1
+320|PATH_OF_GLOUPHRIE|The Path of Glouphrie|1
+321|BACK_TO_MY_ROOTS|Back to my Roots|1
+322|LAND_OF_THE_GOBLINS|Land of the Goblins|1
+323|DEALING_WITH_SCABARAS|Dealing with Scabaras|1
+324|WOLF_WHISTLE|Wolf Whistle|1
+325|AS_A_FIRST_RESORT|As a First Resort|1
+326|KENNITHS_CONCERNS|Kennith's Concerns|1
+327|LEGACY_OF_SEERGAZE|Legacy of Seergaze|2
+328|PERILS_OF_ICE_MOUNTAIN|Perils of Ice Mountain|1
+329|TZHAAR1|TokTz-Ket-Dill|1
+330|SMOKING_KILLS|Smoking Kills|1
+331|SPIRIT_OF_SUMMER|Spirit of Summer|1
+332|HUNT_FOR_RED_RAKTUBER|Hunt for Red Raktuber|1
+333|TEMPLE_AT_SENNTISTEN|The Temple at Senntisten|2
+334|BLOOD_RUNS_DEEP|Blood Runs Deep|2
+335|BLOOD_PACT|The Blood Pact|1
+336|BUYERS_AND_CELLARS|Buyers and Cellars|1
+337|FAIRY_TALE_III|A Fairy Tale III - Battle at Ork's Rift|2
+338|ELEMENTAL_WORKSHOP_III|Elemental Workshop III|1
+339|VKQ1|Quiet Before the Swarm|1
+340|LOVE_STORY|Love Story|2
+341|GUNNARS_GROUND|Gunnar's Ground|5
+342|VKQ3|The Void Stares Back|1
+343|DO_NO_EVIL|Do No Evil|1
+344|ELEMENTAL_WORKSHOP_IV|Elemental Workshop IV|2
+345|DEADLIEST_CATCH|Deadliest Catch|1
+346|SALT_IN_THE_WOUND|Salt in the Wound|2
+347|BRANCHES_OF_DARKMEYER|The Branches of Darkmeyer|2
+348|XMAS_2011|A Towering Feast|0
+349|FIREMAKERS_CURSE|The Firemaker's Curse|2
+350|LET_THEM_EAT_PIE|Let Them Eat Pie|1
+351|TZHAAR2|The Elder Kiln|2
+352|QBD1|Song from the Depths|1
+353|CARNILLEAN_RISING|Carnillean Rising|1
+354|CARNI_FAKEQUEST|Philipe's Big Adventure|0
+355|OZAN1|Stolen Hearts|3
+356|OZAN2|Diamond in the Rough|1
+357|WHATS_MINE_IS_YOURS|What's Mine is Yours|1
+358|ARIANE1|Rune Mysteries|1
+359|ARIANE2|Rune Memories|1
+360|TZHAAR3|The Brink of Extinction|3
+361|WORLD_WAKES|The World Wakes|3
+362|BACON|Bringing Home the Bacon|1
+363|OWEN1|The Death of Chivalry|3
+364|SLISKE1|Missing, Presumed Death|2
+365|ONE_OF_A_KIND|One of a Kind|1
+366|FOTG|Fate of the Gods|2
+367|ASH1|A Shadow over Ashdale|1
+368|MIGHTY_FALL|The Mighty Fall|2
+369|BROKEN_HOME|Broken Home|1
+370|SLISKE2|Dishonour among Thieves|2
+371|Q200|Dimension of Disaster|2
+372|Q200_INTRO|Dimension of Disaster: Coin of the Realm|1
+373|Q200_SOA|Dimension of Disaster: Shield of Arrav|1
+374|Q200_DS|Dimension of Disaster: Demon Slayer|3
+375|Q200_DOV|Dimension of Disaster: Defender of Varrock|2
+376|Q200_COA|Dimension of Disaster: Curse of Arrav|1
+377|HEROS_WELCOME|Hero's Welcome|2
+378|SEREN|The Light Within|2
+379|LORD_OF_VAMPYRIUM|The Lord of Vampyrium|2
+380|GOEBIE1|Call of the Ancestors|1
+381|BENEATH_CURSED_TIDES|Beneath Cursed Tides|1
+382|NOMADS_ELEGY|Nomad's Elegy|1
+383|RIVER_OF_BLOOD|River of Blood|3
+384|KINDRED_SPIRITS|Kindred Spirits|1
+385|GOWER|Gower Quest|1
+386|FOTG2|Children of Mah|2
+387|ELR0|Impressing the Locals|1
+388|SLISKES_ENDGAME|Sliske's Endgame|3
+389|PENG_BTTF|Back to the Freezer|1
+390|OZAN3|The Jack of Spades|1
+391|CROCODILE_TEARS|Crocodile Tears|1
+392|OUR_MAN_IN_THE_NORTH|Our Man in the North|1
+393|PHITE_CLUB|'Phite Club|1
+394|HALLOWEEN_2017|Ghost Stories of Gielinor|0
+395|DAVE|Evil Dave's Big Day Out|2
+396|XMAS_2017|The G-Nome Project|0
+397|PIRATEFINALE|Pieces of Hate|2
+398|TRAIL|You Are It|1
+399|TNS|The Needle Skips|1
+400|XMAS18|Violet is Blue|1
+401|CHEESECAKE|Chef's Assistant|1
+402|ELITEDUNGEONS|Curse of the Black Stone|4
+403|BARCRAWL|Bar Crawl (miniquest)|0
+404|ABYSS|Enter the Abyss (miniquest)|0
+405|CURSE_OF_ZAROS|Curse of the Empty Lord (miniquest)|0
+406|LAIR_OF_TARN_RAZORLOR|Lair of Tarn Razorlor (miniquest)|0
+407|GENERALS_SHADOW|The General's Shadow (miniquest)|0
+408|HUNT_FOR_SUROK|The Hunt for Surok (miniquest)|0
+409|HANDSAND2|One Foot in the Grave (miniquest)|0
+410|HOPESPEARS_WILL|Hopespear's Will (miniquest)|0
+411|SMOKING_KILLS_DUNGEON|Desert Slayer Dungeon (miniquest)|0
+412|PURPLE_CAT|Purple Cat (miniquest)|0
+413|CAPER_ACORNS|From Tiny Acorns (miniquest)|0
+414|CAPER_MARBLES|Lost Her Marbles (miniquest)|0
+415|CAPER_OUROWN|A Guild of Our Own (miniquest)|0
+416|FREMSAGA_SIGNATURE|Three's Company (saga)|0
+417|FREMSAGA_VENGEANCE|Vengeance (saga)|0
+418|FREMSAGA_THOK|Thok It To 'Em (saga)|0
+419|FREMSAGA_BILRACH|Nadir (saga)|0
+420|FREMSAGA_THOK2|Thok Your Block Off (saga)|0
+421|WHATS_MINE_IS_YOURS_DORIC_TASK1|Doric's Task I (miniquest)|0
+422|WHATS_MINE_IS_YOURS_DORIC_TASK2|Doric's Task II (miniquest)|0
+423|WHATS_MINE_IS_YOURS_DORIC_TASK3|Doric's Task III (miniquest)|0
+424|WHATS_MINE_IS_YOURS_DORIC_TASK4|Doric's Task IV (miniquest)|0
+425|WHATS_MINE_IS_YOURS_DORIC_TASK5|Doric's Task V (miniquest)|0
+426|WHATS_MINE_IS_YOURS_DORIC_TASK6|Doric's Task VI (miniquest)|0
+427|WHATS_MINE_IS_YOURS_DORIC_TASK7|Doric's Task VII (miniquest)|0
+428|WHATS_MINE_IS_YOURS_DORIC_TASK8|Doric's Task VIII (miniquest)|0
+429|WHATS_MINE_IS_YOURS_BORIC_TASK1|Boric's Task I (miniquest)|0
+430|WHATS_MINE_IS_YOURS_BORIC_TASK2|Boric's Task II (miniquest)|0
+431|WHATS_MINE_IS_YOURS_BORIC_TASK3|Boric's Task III (miniquest)|0
+432|TZHAAR3_GAAL|Wandering Ga'al (miniquest)|0
+433|KHARSHAI|Koschei's Troubles (miniquest)|0
+434|MAHMEM|Mahjarrat Memories (miniquest)|0
+435|TALES_OF_THE_GOD_WARS|Tales of the God Wars (miniquest)|0
+436|BENEDICT_WORLD_TOUR|Benedict's World Tour (miniquest)|0
+437|MYQ7_MEMORIAL|In Memory of the Myreque (miniquest)|0
+438|MYQ7_LOST_TOYS|The Lost Toys (miniquest)|0
+439|TALES_OF_NOMAD|Tales of Nomad (miniquest)|0
+440|ELR_FLAG|Flag Fall (miniquest)|0
+441|ELR_HEAD|Head of the Family (miniquest)|0
+442|ELR_SLAYER|Spiritual Enlightenment (miniquest)|0
+443|ELR_JED|Jed Hunter (miniquest)|0
+444|ELR_CYCLOSIS|Eye for an Eye (miniquest)|0
+445|ELR_HARBINGER|Harbinger (miniquest)|0
+446|ELR_TUAILEIT|Tuai Leit's Own (miniquest)|0
+447|ELR_EXTURTLES|Ghosts from the Past (miniquest)|0
+448|ELR_GOSHIMA|Damage Control (miniquest)|0
+449|ELR_FINALE|Final Destination (miniquest)|0
+450|MAH5_EDGE|Rebuilding Edgeville (miniquest)|0
+451|EASTER2019|Guilded Eggstravaganza|0
+452|MINIQUEST_DINO_BOSS|Raksha, the Shadow Colossus|0
+453|VIB2|Violet is Blue Too|1
+454|MINIQUEST_TRINDINE|The Vault of Shadows|0
+455|ONCE_UPON_A_SLIME|Once Upon a Slime|1
+456|ARCH_MONOLITH||0
+457|ARCH_MYSTERY||0
+458|QUEST_DM|Desperate Measures|0
+459|MINIQUEST_KERAPAC_DND|Sins of the Father|0
+460|CHAROS|Desperate Times|3
+461|LANIAKEA_FETCH|Helping Laniakea|0
+462|FATHER_SON|Father and Son|0
+463|MINIQUEST_OUT1|Foreshadowing|0
+464|TORTLE_COMBAT|Tortle Combat (miniquest)|0
+465|DM|Desperate Measures|3
+466|KERAPAC_DND|Sins of the Father|0
+467|DINO_BOSS|Raksha, the Shadow Colossus|0
+468|HEARTSTEALER|Heartstealer|1
+469|AZZANADRA|Azzanadra's Quest|3
+470|TRINDINE|The Vault of Shadows|0
+471|OUT1|Foreshadowing|0
+472|OUT2|Flashback|0
+473|EGWD_PRERELEASE|Battle of the Monolith|0
+474|QUEST_SENNTISTEN|City of Senntisten|3
+475|OUT3|Fortunes|0
+476|OUT4|Finale|0
+477|QUEST_OUT0|Once Upon a Time in Gielinor|4
+478|DUEL_ARENA_REMOVAL_PART1|Eye of Het I|0
+479|DUEL_ARENA_REMOVAL_PART2|Eye of Het II|0
+480|EGW_FINALE|Extinction|4
+481|ZAMORAK|Twilight of the Gods|3
+482|AFTERMATH|Aftermath|0
+483|QUEST_DAUGHTER|Daughter of Chaos|1
+484|ZAMORAK_CIVIL_WAR_1|Civil War I (miniquest)|0
+485|ZAMORAK_CIVIL_WAR_2|Civil War II (miniquest)|0
+486|ZAMORAK_CIVIL_WAR_3|Civil War III (miniquest)|0
+487|QUEST_DAUGHTER2|Succession|1
+488|QUEST_RUNEPASS_3|Desperate Creatures|0
+489|QUEST_FORT_INTRO|New Foundations|1
+490|QUEST_FORT|Murder on the Border|1
+491|QUEST_FORT_SLAYER|Unwelcome Guests|1
+492|QUEST_FORT_RAPTOR|Dead and Buried|1
+493|QUEST_NECROMANCY_TUTORIAL|Necromancy!|1
+494|QUEST_NECROMANCY_ORIGINS|Rune Mythos|1
+495|QUEST_NECROMANCY_HARBINGER|Vessel of the Harbinger|1
+496|QUEST_NECROMANCY_HERMOD|The Spirit of War|1
+497|QUEST_NECROMANCY_WARLOCK|Tomes of the Warlock|1
+498|QUEST_NECROMANCY_NECROLORD|Remains of the Necrolord|1
+499|QUEST_NECROMANCY_FINALE|Alpha vs Omega|1
+500|NECROMANCY_CITY_SMITH|Kili Row|1
+501|NECROMANCY_CITY_BAND|That Old Black Magic|1
+502|QUEST_FORT_ZEMO|Ancient Awakening|1
+503|NECROMANCY_CITY_BAND_GUITAR|My One and Only Lute|0
+504|NECROMANCY_CITY_BAND_TRUMPET|Skelly By Everlight|0
+505|NECROMANCY_CITY_BAND_PIANO|Flesh and Bone|0
+506|NECROMANCY_CITY_BAND_DRUMS|Hermy and Bass|0
+507|QUEST_FORT_EPILOGUE|Battle of Forinthry|1
+508|QUEST_XMAS23|It's Snow Bother|0
+509|NECROMANCY_CITY_OWLERY|Housing of Parliament|1
+510|QUEST_EASTER24|Great Egg-spectations|0
+511|QUEST_VORKATH|Requiem for a Dragon|1
+512|QUEST_OSSEOUS|Osseous Rex|1
+513|QUEST_REBIRTH_SANCTUM|Soul Searching|1
+514|QUEST_AMASCUT|Ode of the Devourer|1
+515|QUEST_HALLOWEEN24|Field of Screams|0
+516|QUEST_XMAS24|A Christmas Reunion|0
+517|QUEST_DESERT_SCABARAS|Beneath Scabaras' Sands|2
+518|COMBAT_MASTERY|Achievement System|0
+519|QUEST_DESERT_LEELA|Pharaoh's Folly|2
+520|QUEST_DUCK|Duck Quest|1
+521|QUEST_DESERT_FINALE|Eclipse of the Heart|3
+522|QUEST_STAR|Stellar Born|2
+523|QUEST_HALLOWEEN25|Guys and Dolls|0
+524|QUEST_XMAS25|Cold Front|0
+525|QUEST_PRINCESS|Princess and the Pauper|1
+526|QUEST_WENDLE_CONNECTIONS|Visions of Havenhythe|1
+527|QUEST_WENDLE_SANGUINE|Hearts of Sanguine|1
+528|QUEST_CRAB|Hermit Permits|1
+529|QUEST_WIZARD_CHILD|Wiz Kid|1
+530|QUEST_EASTER26|Corporate Egg-spionage|0
+531|QUEST_WENDLE_SECRETS|Secrets of Amberfell|3
+532|QUEST_CONSTRUCTION_TUTORIAL|There's No Place Like Home...|1

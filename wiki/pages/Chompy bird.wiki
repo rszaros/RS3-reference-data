@@ -1,0 +1,178 @@
+{{External|os}}
+{{Redirect|Chompy}}
+{{HasGuide}}
+{{Multi Infobox
+|text1 = Monster
+|item1 = 
+{{Infobox Monster
+|name = Chompy bird
+|image = [[File:Chompy bird.png|100px]]
+|release = [[18 May]] [[2004]]
+|update = Big Chompy Bird Hunting
+|members = Yes
+|options = Attack, Examine
+|race = Bird
+|examine = A large boisterous bird, a delicacy for ogres.
+|level = 2
+|lifepoints = 300
+|experience = 15.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19.4
+|slayercat = Birds
+|assigned_by = Turael
+|max_melee = 6
+|max_ranged = 8
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 2
+|magic = 0
+|necromancy = 1
+|acc_melee = 15
+|acc_ranged = 120
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Arrows
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1550
+|leagueRegion = Kandarin
+}}
+|text2 = Dead
+|item2 = 
+{{Infobox NPC
+|name = Chompy bird
+|image = Dead chompy.png
+|release = [[18 May]] [[2004]]
+|update = Big Chompy Bird Hunting
+|race = Bird
+|members = Yes
+|quest = [[Big Chompy Bird Hunting]]
+|location = The swamps in [[Feldip Hills]] and south-east of [[Castle Wars]].
+|gender = N/A
+|options = Pluck, Examine
+|examine = A once boisterous bird, now closer to being an ogre delicacy.
+|map = No
+|id = 1016
+|leagueRegion = Kandarin
+}}
+}}
+'''Chompy birds''' are monsters that can only be killed after completion of [[Big Chompy Bird Hunting]]. They can only be attacked with the [[Comp ogre bow|composite ogre bow]] or [[ogre bow]] equipped with [[brutal arrows]] or [[ogre arrow]]s. [[Bloated toad]]s must be dropped on the ground as bait to attract them. Chompy birds spawn in a 10 [[game square]] radius around the bloated toad (21x21 game square). A chompy bird will leave if it is not killed after one minute. 
+
+When a chompy bird is killed, a message says: "You scratch a notch on your bow for the chompy bird kill." When a chompy dies, it leaves a corpse, which can be plucked to gain [[feather]]s. Doing this will also place a [[raw chompy]] and some [[bones]] on the ground.
+
+Players have a 25%/50%/75%/100% chance to spawn an additional chompy bird while hunting chompy birds, respectively if easy/medium/hard/elite [[Ardougne achievements]] are completed.
+
+[[Cannons]] can target and kill chompy birds if the cannon's owner has one of the required bows equipped.
+
+After 30 kills, the player can wear [[chompy hat]]s. Upon reaching 4,000 kills, players will be rewarded with 30,000 [[Ranged]] experience (which can be increased with [[bonus experience]]). Killing 30 chompy birds is a requirement for obtaining the [[master quest cape]], and killing 4,000 chompy birds is a requirement for the [[Completionist cape (t)|trimmed completionist cape]].
+
+==Locations==
+{{Incomplete|Spawn and map information missing}}
+{{LocTableHead}}
+{{LocLine
+|loc=[[Feldip Hills]]
+|lvls=2
+|mem=yes
+|mapID=
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Kandarin]], south of [[Castle Wars]]
+|lvls=2
+|mem=yes
+|mapID=
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw chompy|quantity=1|rarity=Always}}
+{{DropsLine|name=Feather|quantity=11-30|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main drop===
+{{DropsTableHead}}
+{{DropsLine|name=Cornucopia|quantity=1|rarity=Very rare|gemw=no|alch=yes}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Master Bogreman}}
+* {{Achievement|Chompy Massacre}}
+* {{Achievement|Guardian of the Realm}} 
+** [[Cornucopia]] drop
+
+==Dialogue==
+{{HasDialogue|npc}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[18 May]] [[2004]]|update=Big Chompy Bird Hunting|img=Chompy bird (2004).png|name=Chompy bird}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Chompy bird.png|name=Chompy bird}}
+}}
+
+{{GU|subject=npc
+|{{GUL|date=[[18 May]] [[2004]]|update=Big Chompy Bird Hunting|img=Chompy bird (dead, 2004).png|name=Dead chompy bird}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Dead chompy.png|name=Dead chompy bird}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=ninja|update=Patch Notes (22 July 2019)|date=22 July 2019}}
+** Added a 25%/50%/75%/100% chance to spawn an additional Chompy bird while hunting chompy birds, respectively if Easy/Medium/Hard/Elite Ardougne achievement diaries are completed.
+
+* {{UL|type=ninja|update=Patch Notes (18 July 2016)|date=18 July 2016}}
+** Allowed use of abilities on chompy and jubbly birds.
+
+* {{UL|type=patch|update=Patch Notes (5 May 2015)|date=5 May 2015}}
+** Chompy birds no longer appear to have 1 lifepoint when defeated.
+
+* {{UL|type=patch|update=Patch Notes (28_January_2013)|date=28 January 2013}}
+** Players will now continuously attack Chompy birds and will no longer be told that the bird they were attacking is not their target.
+
+* {{UL|type=patch|update=Patch Notes (26 September 2012)|date=26 September 2012}} 
+** Certain messages have been removed while Chompy bird hunting to prevent spamming.
+
+* {{UL|type=patch|update=Patch Notes (31 August 2011)|date=31 August 2011}}
+** Chompy birds now work correctly with the bonecrusher.
+
+* {{UL|type=patch|update=Patch_Notes_(16 February 2010)|date=16 February 2010}}
+** Corrected the timing when cooking chompy bird meat on a spit.
+
+* {{UL|type=patch|update=Patch Notes (16 June 2009)|date=16 June 2009}}
+** Prevented certain bubbles in the Feldip Hills from blocking Ranged attacks when hunting chompies and jubbly chompies.
+
+* {{UL|type=update|update=Big Chompy Bird Hunting|date=18 May 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* The chompy bird's appearance is similar to that of the extinct {{Wp|dodo}}.
+* The chompy bird's name possibly comes from the Nicaraguan word for ''Turkey, ''"Chompipe", pronounced "chom-''pea-''pay''".''
+* It previously could not be [[Monster Examine]]d. This might have been because it does not attack the player. However, it is now possible, and states that this monster has a max hit of 8.
+
+{{Big Chompy Bird Hunting}}
+[[Category:Birds]]

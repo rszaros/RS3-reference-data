@@ -1,0 +1,68 @@
+{{Recurring content/Halloween}}
+{{Infobox Monster
+|name = Soulless unarmoured zombie
+|image = Soulless unarmoured zombie.png
+|release = [[8 October]] [[2018]]
+|update = Til Death Do Us Part
+|members = No
+|actions = Attack, Examine
+|race = Zombie
+|examine = Knees weak, arms are heavy. There's vomit on its sweater... Could be brains though. Yup. Definitely brains.
+|level = 0
+|lifepoints = 
+|experience = 
+|aggressive = 
+|poisonous = 
+|slaylvl = 
+|slayxp = 
+|slayercat = Zombies, Undead
+|assigned_by = 
+|max_melee = 0.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_spec = 
+|style = 
+|primarystyle = 
+|speed = 
+|attack = 
+|ranged = 
+|magic = 
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 0
+|abilities = 
+|armour = 
+|defence = 
+|weakness = None
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 
+|aff_ranged = 
+|aff_magic = 
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = removed
+|id = 25939
+|leagueRegion = No
+}}
+'''Soulless unarmoured zombies''' may occasionally appear near the [[chaotic rift]] north of [[Draynor Village]] during the [[2018 Halloween event]]. They will be summoned by the [[soulless necromancer]] if he is not defeated quickly enough. Despite having an attack option, they cannot be attacked directly.
+
+Attempting to attack them results in the following message:
+
+{{RSFont|colour=#AE0000|bg=no|This zombie doesn't have a soul! Restore it so that Death can take him down!}}
+
+To defeat them, the player must siphon souls from [[Death's soul rift]] to make them mortal.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Til Death Do Us Part|date=8 October 2018}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine quote is a reference to the lyrics of the song ''{{Wp|Lose Yourself}}'' by Eminem.
+
+{{2018 Halloween event}}
+{{Zombies}}

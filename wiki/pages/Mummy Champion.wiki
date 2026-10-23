@@ -1,0 +1,96 @@
+{{Infobox Monster
+|version1 = Normal
+|version2 = On fire
+|version3 = Ashes
+|name = Mummy Champion
+|image1 = [[File:Mummy Champion.png|Mummy Champion|150px]]
+|image2 = [[File:Mummy Champion (fire).png|140px]]
+|image3 = [[File:Mummy Champion (ashes).png|150px]]
+|release = [[9 November]] [[2009]]
+|update = Champions' Challenge Update and Hairstyles
+|members = Yes
+|options = Attack, Examine
+|examine1 = Champion of the mummies.
+|examine2 = Champion of the mummies. On fire.
+|examine3 = Champion of the mummies.
+|level = 105
+|lifepoints = 6500
+|experience = 325.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Zombies, Undead
+|max_melee = 1378
+|max_ranged = 0
+|max_magic = 1378
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 75
+|ranged = 1
+|magic = 75
+|necromancy = 1
+|acc_melee = 1694
+|acc_ranged = 0
+|acc_magic = 1694
+|acc_necromancy = 0
+|armour = 1694
+|defence = 75
+|weakness = Fire
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = minigame
+|id1 = 8988
+|id2 = 8992
+|id3 = 8992
+|leagueRegion = Desert & Misthalin
+}}
+[[File:Mummy banner detail.png|left|100px]] 
+The '''Mummy Champion''' is one of the 16 champions fought as part of the [[Champion's Challenge]] [[Distractions and Diversions|Distraction and Diversion]]. Like the other champions, she may be fought beneath the [[Champions' Guild]] but only after a player finds a [[Mummy champion scroll]], which is a very rare drop from [[Mummy|mummies]]. After being defeated the first time, she may be fought again weekly for additional [[Slayer]] and [[Constitution]] experience.
+
+Like the other champions, there is a special restriction during the fight with her. In her case, [[off-hand weapon]]s, [[shield]]s, and two-handed weapons are prohibited. She fights using a powerful [[magic]] attack from a distance and [[melee]] up close. Additionally, like other mummies, she can be set on fire using magic. As such, attacking her from a distance with [[fire spells]] while using the [[protect from magic]] prayer or [[deflect magic]] curse may be the most effective way to defeat her.
+
+==Rewards==
+* {{Skill XP|Slayer|6771}} 
+* {{Skill XP|Constitution|6771}} 
+* A new banner hung under the [[Champions' Guild]] to celebrate victory
+
+==Works==
+{{Worksby}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Mummy Champion reward.png|After defeating the Mummy Champion
+Mummy champion fight.png|A player fighting the Mummy champion
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (10 July 2017)|date=10 July 2017}}
+** An issue where the Mummy Champion challenge couldn't be completed when using fire spells has been fixed.
+
+* {{UL|type=update|update=Champions' Challenge Update and Hairstyles|date=9 November 2009}}
+** Added to game.
+}}
+
+{{Champions' Challenge}}
+{{Mummy}}
+[[Category:Unique monsters]]

@@ -1,0 +1,170 @@
+{{External|rsc=Shadow Warrior|os}}
+{{Infobox Monster
+|name = Shadow warrior
+|image = [[File:Shadow warrior.png|140px]]
+|release = [[20 August]] [[2003]]
+|update = New - Legends Quest!
+|members = Yes
+|options = Attack
+|examine = A fighter from the supernatural world. He's a shadow of his former self.
+|level = 65
+|lifepoints = 7800
+|slaylvl = 1
+|slayxp = 113.2
+|aggressive = No
+|poisonous = No
+|slayercat = Shadow warriors, Ghosts, Undead
+|max_melee = 940
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 47
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 678
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 778
+|defence = 47
+|weakness = Water
+|susceptibility = Salve, Ghost
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 158
+|leagueRegion = Kandarin
+}}
+[[File:Shadow warrior icon.png|left]]
+A '''Shadow warrior''' is a deceased knight, found in the basement of the [[Legends' Guild]]. They are considered [[undead]], so the [[salve amulet]] has an effect on them. They do not count for the [[Shadow creatures (Slayer assignment)|shadow creature Slayer assignment]].
+
+After completion of [[Legends' Quest]], Shadow warriors are also a [[slayer task]] given by [[Chaeldar]] and [[Mazchna]]. Shadow warriors appear to be wielding [[battleaxe]]s, but they attack at the ''fast'' speed of [[scimitar]]s (2.4 seconds, or 4 ticks).
+
+Shadow warriors do not appear on the minimap.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Legends' Guild Dungeon]]
+|lvls=65
+|mem=yes
+|mapID=0
+|npcid:158,x:2693,y:9776|npcid:158,x:2697,y:9773|npcid:158,x:2697,y:9779
+|npcid:158,x:2700,y:9770|npcid:158,x:2700,y:9774|npcid:158,x:2700,y:9777
+|npcid:158,x:2701,y:9781|npcid:158,x:2703,y:9770|npcid:158,x:2703,y:9774
+|npcid:158,x:2703,y:9779|npcid:158,x:2705,y:9757|npcid:158,x:2705,y:9760
+|npcid:158,x:2705,y:9766|npcid:158,x:2706,y:9753|npcid:158,x:2706,y:9763
+|npcid:158,x:2706,y:9772|npcid:158,x:2707,y:9756|npcid:158,x:2707,y:9761
+|npcid:158,x:2708,y:9758
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black full helm|quantity=1|rarity=2/128}}
+{{DropsLine|name=Black wizard robe top|quantity=1|rarity=1/128}}
+{{DropsLine|name=Black longsword|quantity=1|rarity=0.5/256}}
+{{DropsLine|name=Off-hand black longsword|quantity=1|rarity=0.5/256}}
+{{DropsLine|name=Black knife|quantity=1|rarity=0.5/256}}
+{{DropsLine|name=Off-hand black knife|quantity=1|rarity=0.5/256}}
+{{DropsLine|name=Black dagger|quantity=1|rarity=0.5/256}}
+{{DropsLine|name=Off-hand black dagger|quantity=1|rarity=0.5/256}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Cosmic rune|quantity=3|rarity=9/128}}
+{{DropsLine|name=Blood rune|quantity=2|rarity=6/128}}
+{{DropsLine|name=Death rune|quantity=2|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|18/128}}
+{{DropsTableHead}}
+{{HerbDropTable|18/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=8|rarity=51/128|gemw=No}}
+{{DropsLine|name=Nothing|rarity=20/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=4/128}}
+{{DropsLine|name=Medium spiky adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Weapon poison (3)|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|8/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=65}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=65}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 106.45/1000
+|green = 53.225/1000
+|crimson = 133.062/1000
+|blue = 5.322/1000
+}}
+
+==Achievements==
+* {{Achievement|Shadow Boxing}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=New Skill: Necromancy - This Week In RuneScape|date=7 August 2023}}
+** Several monsters have been rebalanced in line with modern standards.
+*** Melee accuracy reduced from 778 to 678.
+*** Melee damage increased from 188 to 940.
+*** Weakness changed from air spells to water spells.
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=ninja|update=This Week In RuneScape: Scattershot Ninja Strike|date=17 January 2022}}
+** Replaced an old version of weapon poison drops on various NPCs with the correct version of weapon poison.
+
+* {{UL|type=update|update=New - Legends Quest!|date=23 August 2003}}
+** Added to game.
+}}
+
+==Trivia==
+* They still use the old [[RuneScape 2]] animations.
+* The examine info 'He's a shadow of his former self' is a reference to the [https://www.dictionary.com/browse/shadow-of-one-s-self popular phrase].
+
+==References==
+{{Reflist}}
+
+{{Legends' Quest}}
+{{Elementals}}
+[[Category:NPCs not visible on the minimap]]

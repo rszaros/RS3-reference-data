@@ -1,0 +1,84 @@
+{{Infobox Monster
+|version1 = 1 (Ancient Awakening)
+|version2 = 2 (Ancient Awakening)
+|version3 = 1 (Ungael combat activity)
+|version4 = 2 (Ungael combat activity)
+|name = Skeleton archer
+|image1 = Skeleton archer (Ancient Awakening, 1).png
+|image2 = Skeleton archer (Ancient Awakening, 2).png
+|image3 = Skeleton archer (Ancient Awakening, 1).png
+|image4 = Skeleton archer (Ancient Awakening, 2).png
+|release = [[9 October]] [[2023]]
+|update = Ancient Awakening Launches - This Week in RuneScape
+|members = Yes
+|options = Attack, Target, Examine
+|race = Skeleton
+|examine1 = He's got a bone to pick with you.
+|examine2 = A bone-a fide skeleton.
+|examine3 = He's got a bone to pick with you.
+|examine4 = A bone-a fide skeleton.
+|level = 76
+|lifepoints1 = 10710
+|lifepoints2 = 10710
+|lifepoints3 = 15300
+|lifepoints4 = 15300
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 0
+|slayercat = Skeletons, Undead
+|max_melee = 0
+|max_ranged = 1500
+|max_magic = 0
+|max_necromancy = 0
+|max_spec =
+|style = Ranged
+|primarystyle = Ranged
+|speed = 5
+|attack = 1
+|ranged = 60
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 1032
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 850
+|defence = 50
+|weakness = Crushing
+|susceptibility = Undead slayer
+|aff_weakness1 = 90
+|aff_weakness2 = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect =
+|immune_to_stun =
+|immune_to_drain =
+|restriction = minigame
+|id1 = 30535
+|id2 = 30536
+|id3 = 30535
+|id4 = 30536
+}}
+'''Skeleton archer''' is a [[monster]] encountered during [[Ancient Awakening]] and in the standard mode of the [[Ungael combat activity]].
+
+During Ancient Awakening their [[life points]] are reduced to 70% of the value seen in the standard mode of Ungael combat activity. The player fights them with their expedition party in the tower on [[Ungael]], with two of them appearing in the second, fourth, and fifth waves and one in the sixth, eighth, ninth, and twelfth waves, along with many other monsters.
+
+In the standard mode of the Ungael combat activity two of them appear in the second, fourth, tenth, and eleventh waves, along with many other monsters.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Ancient Awakening Launches - This Week in RuneScape|date=9 October 2023}}
+** Added to game.
+}}
+
+{{Ancient Awakening}}

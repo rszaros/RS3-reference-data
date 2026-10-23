@@ -1,0 +1,156 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = Mining (1)
+|version6 = Mining (2)
+|version7 = Mining (3)
+|version8 = Mining (4)
+|name = Cave goblin miner
+|image1 = [[File:Cave goblin miner.png|150px]]
+|image2 = [[File:Cave goblin miner (2).png|150px]]
+|image3 = [[File:Cave goblin miner (3).png|150px]]
+|image4 = [[File:Cave goblin miner (4).png|150px]]
+|image5 = [[File:Cave goblin miner (mining, 1).png|150px]]
+|image6 = [[File:Cave goblin miner (mining, 2).png|150px]]
+|image7 = [[File:Cave goblin miner (mining, 3).png|150px]]
+|image8 = [[File:Cave goblin miner (mining, 4).png|150px]]
+|release = [[31 May]] [[2005]]
+|update = New Appointment in Lumbridge
+|members = Yes
+|options = Talk to, Attack, Examine
+|examine1 = This one is slacking off.
+|examine2 = This one is slacking off.
+|examine3 = This one is slacking off.
+|examine4 = This one is slacking off.
+|examine5 = He's working away.
+|examine6 = He's working away.
+|examine7 = He's working away.
+|examine8 = He's working away.
+|level = 7
+|lifepoints = 250
+|experience = 12.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6.8
+|slayercat = Goblins
+|assigned_by = Turael
+|max_melee = 20
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|speed = 4
+|attack = 5
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 150
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 2069
+|id2 = 2070
+|id3 = 2071
+|id4 = 2072
+|id5 = 2075
+|id6 = 2076
+|id7 = 2077
+|id8 = 2078
+|leagueRegion = Misthalin
+}}
+[[File:Cave goblin miner chathead.png|left|70px]]
+'''Cave goblin miners''' can be found in the [[Dorgesh-Kaan mine]] under [[Lumbridge]] after completing the members-only quest [[Lost Tribe]]. Once attacked, a [[cave goblin guard]] will attack the players. These miners will mine the various [[iron rock|iron]] and [[silver rock]]s around the Dorgeshuun mines.
+
+These cave goblin miners are under the instruction of [[Mistag]] and mine the iron in order to use it to build and repair [[Dorgesh-Kaan]]. The [[goblin]]s will also explain that they always build with bones as they have no access to trees. They also believe that [[giant frog]]s (from which they get their bones for building) are fearsome to them.
+
+These are the only monsters which drop [[mining helmet]], one of the best light sources in the game.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Dorgesh-Kaan mine]]
+|lvls=7
+|mem=yes
+|mapID=607
+|npcid:2076,x:3312,y:9646|npcid:2075,x:3313,y:9654|npcid:2072,x:3314,y:9630
+|npcid:2070,x:3314,y:9636|npcid:2071,x:3315,y:9620|npcid:2069,x:3316,y:9632
+|npcid:2072,x:3321,y:9646|npcid:2071,x:3324,y:9621
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Ore===
+{{DropsTableHead}}
+{{DropsLine|name=Iron ore|quantity=2|rarity=15/128}}
+{{DropsLine|name=Iron ore|quantity=7|rarity=20/128}}
+{{DropsLine|name=Silver ore|quantity=1|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Mining helmet|quantity=1|rarity=20/128}}
+{{DropsLine|name=Tinderbox|quantity=1|rarity=20/128}}
+{{DropsLine|name=Coins|quantity=6|rarity=20/128}}
+{{DropsLine|name=Nothing|quantity=6|rarity=28/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Cave goblin skull|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]] activity.}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Hastranscript|npc}}
+
+==Graphical updates==
+{{GU
+|subject = chatheads
+|{{GUL|date=31 May 2005|update=New Appointment in Lumbridge|img=Cave_goblin_miner_(2005)_chathead.png|name=Cave goblin miner}}
+|{{GUL|date=20 March 2007|update=Dorgesh-Kaan|img=Cave_goblin_miner_chathead.png|name=Cave goblin miner}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Iron stone spirit → Iron ore
+*** Silver stone spirit → Silver ore
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=update|update=New Appointment in Lumbridge|date=31 May 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* There are four different variants of miners, with each having their own variant whilst idling or mining. Interestingly, one of the mining variant's chathead still uses the original cave goblin model, rather than the newer model all other cave goblins have used since early [[2007]].
+* They seem to use a pickaxe which looks like a cross-over between a [[bone spear]] and a [[scythe]], though this "bone pickaxe" does not exist in ''RuneScape''.
+
+{{Dorgesh-Kaan}}
+{{Dorgeshuun}}

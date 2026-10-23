@@ -1,0 +1,144 @@
+{{Infobox Monster
+|name = Locust lancer
+|image = [[File:Locust lancer.png|260px]]
+|release = [[2 January]] [[2008]]
+|update = Dealing with Scabaras
+|members = Yes
+|options = Attack, Examine
+|examine = Bouncy, but not fun.
+|level = 77
+|lifepoints = 2750
+|experience = 137.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 91
+|slayercat = Scabarites
+|assigned_by = sumona, duradel, lapalok
+|max_melee = 220
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 55
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 983
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 983
+|defence = 55
+|weakness = Fire
+|susceptibility = Keris
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 6777
+|leagueRegion = Desert
+}}
+'''Locust lancers''' are encountered during the [[Dealing with Scabaras]] quest. They can be used to get [[Scabarite notes]] for the [[Scabarites Notes]] miniquest, and also for the [[Scabarites]] slayer assignment. [[Protect from Missiles]] may be needed as these reside with [[Locust ranger]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ullek]]
+|lvls=77
+|mem=yes
+|mapID=28
+|npcid:6777,x:3432,y:2810
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+The area is considered part desert, and the player may require water (or [[Enchanted water tiara]]) due the [[desert heat]] effect. Three tiles south of the statue, and all north of this line, are desert areas. Staying south of this line will negate the [[desert heat]] effect.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+{{Average drop value|mob=Locust lancer}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Medium blunt rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Adamant arrow|quantity=24|rarity=4/128}}
+{{DropsLine|name=Rune arrow|quantity=9|rarity=2/128}}
+{{DropsLine|name=Blood rune|quantity=7|rarity=4/128}}
+{{DropsLine|name=Cosmic rune|quantity=5|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|override=There is a 19/128 chance of rolling the [[herb drop table]]. When the drop table is rolled, 2 rolls are performed every time.}}
+{{DropsTableHead}}
+{{HerbDropTable|19/128|rolls=2}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=15|rarity=10/128}}
+{{DropsLine|name=Coins|quantity=29|rarity=6/128}}
+{{DropsLine|name=Coins|quantity=60|rarity=42/128}}
+{{DropsLine|name=Coins|quantity=300|rarity=7/384}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|gemw=no|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}}}
+{{DropsLine|name=Swordfish|quantity=1|rarity=4/128}}
+{{DropsLine|name=Raw swordfish|quantity=1|rarity=4/128}}
+{{DropsLine|name=Desert goat horn|quantity=3|rarity=2/128}}
+{{DropsLine|name=Emerald|quantity=2|rarity=3/128}}
+{{DropsLine|name=Marrentill tar|quantity=8|rarity=1/128}}
+{{DropsLine|name=Meat pizza|quantity=1|rarity=1/128}}
+{{DropsLine|name=Waterskin (4)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Cactus seed|quantity=1|rarity=1/384}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|14/128|rolls=2|override=There is a 10/128 chance of rolling the [[gem drop table]] two times, and a 4/128 chance to roll it one time.}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Scabarite notes|quantity=1|rarity=6/170|raritynotes={{DropNote|Dropped during the [[Scabarites Notes]] miniquest. Scabarites can drop any of the first 17 notes, at a 6/170 chance (6/10 for any note). If a note has already been copied to the [[scabaras research]], nothing is dropped.}}|gemw=no|image=Scabarite notes (1).png}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dealing with Scabaras|date=2 January 2008}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Dealing with Scabaras}}
+{{Scabarites Notes}}
+
+[[Category:Bugs]]

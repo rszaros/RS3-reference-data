@@ -1,0 +1,395 @@
+{{external|os}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 1 (chimed)
+|version3 = 2
+|version4 = 2 (chimed)
+|version5 = 3
+|version6 = 3 (chimed)
+|version7 = 4
+|version8 = 4 (chimed)
+|version9 = 5
+|version10 = 5 (chimed)
+|version11 = 6
+|version12 = 6 (chimed)
+|version13 = 7
+|version14 = 7 (chimed)
+|version15 = 8
+|version16 = 8 (chimed)
+|version17 = 9
+|version18 = 9 (chimed)
+|version19 = 10
+|version20 = 10 (chimed)
+|name = Warped terrorbird
+|image1 = Warped terrorbird.png
+|image2 = Warped terrorbird (chimed).png
+|image3 = Warped terrorbird (2).png
+|image4 = Warped terrorbird (2, chimed).png
+|image5 = Warped terrorbird (3).png
+|image6 = Warped terrorbird (3, chimed).png
+|image7 = Warped terrorbird (4).png
+|image8 = Warped terrorbird (4, chimed).png
+|image9 = Warped terrorbird (5).png
+|image10 = Warped terrorbird (5, chimed).png
+|image11 = Warped terrorbird (6).png
+|image12 = Warped terrorbird (6, chimed).png
+|image13 = Warped terrorbird (7).png
+|image14 = Warped terrorbird (7, chimed).png
+|image15 = Warped terrorbird (8).png
+|image16 = Warped terrorbird (8, chimed).png
+|image17 = Warped terrorbird (9).png
+|image18 = Warped terrorbird (9, chimed).png
+|image19 = Warped terrorbird (10).png
+|image20 = Warped terrorbird (10, chimed).png
+|release = [[3 September]] [[2007]]
+|update = The Path of Glouphrie
+|members = Yes
+|actions = Attack
+|examine1 = You don't think you can harm this terrorbird.
+|examine2 = This bird looks a little more vulnerable now.
+|examine3 = You don't think you can harm this terrorbird.
+|examine4 = This bird looks a little more vulnerable now.
+|examine5 = You don't think you can harm this terrorbird.
+|examine6 = This bird looks a little more vulnerable now.
+|examine7 = You don't think you can harm this terrorbird.
+|examine8 = This bird looks a little more vulnerable now.
+|examine9 = You don't think you can harm this terrorbird.
+|examine10 = This bird looks a little more vulnerable now.
+|examine11 = You don't think you can harm this terrorbird.
+|examine12 = This bird looks a little more vulnerable now.
+|examine13 = You don't think you can harm this terrorbird.
+|examine14 = This bird looks a little more vulnerable now.
+|examine15 = You don't think you can harm this terrorbird.
+|examine16 = This bird looks a little more vulnerable now.
+|examine17 = You don't think you can harm this terrorbird.
+|examine18 = This bird looks a little more vulnerable now.
+|examine19 = You don't think you can harm this terrorbird.
+|examine20 = This bird looks a little more vulnerable now.
+|level = 82
+|lifepoints = 5900
+|aggressive = Yes
+|poisonous = No
+|experience = 295.0
+|slaylvl = 56
+|slayxp = 133.4
+|slayercat = Warped terrorbirds
+|assigned_by = Lapalok
+|max_melee = 177
+|max_ranged = 236
+|max_magic = 177
+|max_necromancy = 0
+|max_spec = 0
+|style = melee, ranged
+|speed = 4
+|attack = 59
+|ranged = 59
+|magic = 59
+|necromancy = 0
+|acc_melee = 442
+|acc_ranged = 1101
+|acc_magic = 1101
+|acc_necromancy = 0
+|armour = 1101
+|defence = 59
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 6285
+|id2 = 6322
+|id3 = 6286
+|id4 = 6323
+|id5 = 6287
+|id6 = 6324
+|id7 = 6288
+|id8 = 6325
+|id9 = 6289
+|id10 = 6326
+|id11 = 6290
+|id12 = 6327
+|id13 = 6291
+|id14 = 6328
+|id15 = 6292,6293
+|id16 = 6329,6330
+|id17 = 6294
+|id18 = 6331
+|id19 = 6295
+|id20 = 6332
+|leagueRegion=Tirannwn}}
+[[File:Warped terrorbird icon.png|left]]
+The '''warped terrorbird''' is a [[Slayer]] monster found in the [[Poison Waste Slayer Dungeon]]. They require 56 Slayer and a [[Crystal chime]] to be killed. There are also three level 82 warped terrorbirds that the player must fight near the end of [[The Path of Glouphrie]] quest; see [[The Path of Glouphrie#Warped|here]] for a guide to that fight. Players must have at least started the quest in order to receive these monsters as a Slayer assignment.
+
+Warped terrorbirds are also capable of attacking with ranged and hit higher than their melee attacks, so it is recommended to use [[Protect from Missiles]] or equivalents when fighting them. Wearing [[earmuffs]], [[masked earmuffs]] or any version of the [[slayer helmet]] (including on the [[slayer helmet stand]]) will also greatly reduce the amount of damage dealt by this attack.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Poison Waste Slayer Dungeon]]
+|lvls=82
+|mem=yes
+|requirements = {{QuestIcon|The Path of Glouphrie}}
+|mapID=200
+|npcid:6289,x:1999,y:4217
+|npcid:6286,x:2003,y:4215
+|npcid:6286,x:2007,y:4216
+|npcid:6292,x:2039,y:4172
+|npcid:6288,x:2039,y:4184
+|npcid:6290,x:1989,y:4191
+|npcid:6287,x:1990,y:4197
+|npcid:6289,x:1991,y:4186
+|npcid:6286,x:1992,y:4201
+|npcid:6286,x:1995,y:4204
+|npcid:6288,x:1996,y:4212
+|npcid:6289,x:1996,y:4220
+|npcid:6287,x:2005,y:4175
+|npcid:6286,x:2006,y:4170
+|npcid:6291,x:2007,y:4200
+|npcid:6290,x:2010,y:4166
+|npcid:6290,x:2013,y:4220
+|npcid:6289,x:2014,y:4173
+|npcid:6292,x:2015,y:4204
+|npcid:6291,x:2020,y:4188
+|npcid:6287,x:2023,y:4213
+|npcid:6286,x:2027,y:4175
+|npcid:6290,x:2028,y:4169
+|npcid:6286,x:2029,y:4201
+|npcid:6292,x:2033,y:4193
+|npcid:6290,x:2035,y:4171
+|npcid:6292,x:2043,y:4171
+|npcid:6287,x:1992,y:4255
+|npcid:6286,x:1999,y:4227
+|npcid:6286,x:1999,y:4236
+|npcid:6286,x:2004,y:4273
+|npcid:6286,x:2009,y:4271
+|npcid:6292,x:2010,y:4227
+|npcid:6291,x:2011,y:4239
+|npcid:6295,x:2023,y:4250
+|npcid:6285,x:2025,y:4227
+|npcid:6293,x:2025,y:4261
+|npcid:6294,x:2027,y:4256
+|npcid:6285,x:2031,y:4238
+|npcid:6288,x:2037,y:4231
+|leagueRegion = Tirannwn
+}}
+{{LocTableBottom}}
+
+Players may travel there by:
+*Using [[Spirit Tree]] to [[Poison Waste]].
+*Going west of [[Castle Wars]] with a [[Crossbow]] and a [[Mithril grapple]] equipped to grapple across the river.
+
+Enter through the sewer entrance south-west of the [[Spirit tree]].
+
+*Additionally, players who have completed the [[Tirannwn Set Tasks - Medium]] can use the [[Tirannwn quiver 2]] teleport to the [[Poison Waste Slayer Dungeon]] to arrive within the first room of the dungeon.
+
+[[File:Arposandra machine.png|thumb|The Machine in [[Arposandra]] that either creates intelligent or warped terrorbirds.]]
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Earth rune|quantity=12-36|rarity=11/128}}
+{{DropsLine|name=Adamant bolts|quantity=5-15|rarity=10/128}}
+{{DropsLine|name=Air rune|quantity=24-60|rarity=8/128}}
+{{DropsLine|name=Death rune|quantity=14-18|rarity=8/128}}
+{{DropsLine|name=Rune bolts|quantity=3-12|rarity=5/128}}
+{{DropsLine|name=Law rune|quantity=1-10|rarity=3/128}}
+{{DropsLine|name=Soul rune|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Chocolate bomb|quantity=1-3|rarity=3/128}}
+{{DropsLine|name=Tangled toads' legs|quantity=1-3|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Bolt tips===
+{{DropsTableHead}}
+{{DropsLine|name=Emerald bolt tips|quantity=16-24|rarity=6/128}}
+{{DropsLine|name=Ruby bolt tips|quantity=16-24|rarity=4/128}}
+{{DropsLine|name=Diamond bolt tips|quantity=16-24|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Huge plated mithril salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Large plated rune salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium blunt rune salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium blunt mithril salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=15-415|rarity=12/128}}
+{{DropsLine|name=Feather|quantity=20-100|rarity=10/128}}
+{{DropsLine|name=Swamp tar|quantity=10-52|rarity=10/128}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=10/128}}
+{{DropsLine|name=Wergali seed|quantity=1|rarity=4/128}}
+{{DropsLine|name=Raw shark|quantity=1-6 (noted)|rarity=3/128}}
+{{DropsLine|name=Law talisman|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Terrorbird wing|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1= 1
+|item1=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird.png|name=Warped terrorbird}}
+}}
+|text2= 1 (chimed)
+|item2=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (chimed) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (chimed).png|name=Warped terrorbird}}
+}}
+|text3= 2
+|item3=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (2) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (2).png|name=Warped terrorbird}}
+}}
+|text4= 2 (chimed)
+|item4=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (2, chimed) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (2, chimed).png|name=Warped terrorbird}}
+}}
+|text5= 3
+|item5=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (3) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (3).png|name=Warped terrorbird}}
+}}
+|text6= 3 (chimed)
+|item6=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (3, chimed) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (3, chimed).png|name=Warped terrorbird}}
+}}
+|text7= 4
+|item7=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (4) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (4).png|name=Warped terrorbird}}
+}}
+|text8= 4 (chimed)
+|item8=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (4, chimed) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (4, chimed).png|name=Warped terrorbird}}
+}}
+|text9= 5
+|item9=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (5) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (5).png|name=Warped terrorbird}}
+}}
+|text10= 5 (chimed)
+|item10=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (5, chimed) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (5, chimed).png|name=Warped terrorbird}}
+}}
+|text11= 6
+|item11=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (6) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (6).png|name=Warped terrorbird}}
+}}
+|text12= 6 (chimed)
+|item12=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (6, chimed) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (6, chimed).png|name=Warped terrorbird}}
+}}
+|text13= 7
+|item13=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (7) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (7).png|name=Warped terrorbird}}
+}}
+|text14= 7 (chimed)
+|item14=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (7, chimed) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (7, chimed).png|name=Warped terrorbird}}
+}}
+|text15= 8
+|item15=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (8) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (8).png|name=Warped terrorbird}}
+}}
+|text16= 8 (chimed)
+|item16=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (8, chimed) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (8, chimed).png|name=Warped terrorbird}}
+}}
+|text17= 9
+|item17=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (9) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (9).png|name=Warped terrorbird}}
+}}
+|text18= 9 (chimed)
+|item18=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (9, chimed) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (9, chimed).png|name=Warped terrorbird}}
+}}
+|text19= 10
+|item19=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (10) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (10).png|name=Warped terrorbird}}
+}}
+|text20= 10 (chimed)
+|item20=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped terrorbird (10, chimed) (2007).png|name=Warped terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped terrorbird (10, chimed).png|name=Warped terrorbird}}
+}}
+}}
+
+==Update history==
+{{Update history|
+* {{UL|type=patch|update=Patch Notes (4 November 2019)|date=4 November 2019}}
+** Lessened the harshness of warped terrorbird and tortoise in the poison waste dungeon as well as toned down the chime sound a little.
+
+* {{UL|type=patch|update=Patch Notes (29 July 2013)|date=29 July 2013}} 
+** Discontinued weapon poisons are now untradeable, and Warped Tortoises & Terrorbirds no longer drop them.
+
+* {{UL|type=update|update=The Path of Glouphrie|date=3 September 2007}}
+** Added to game.
+}}
+
+==See also==
+* [[Terrorbird]]
+* [[Warped tortoise]]s
+
+{{The Path of Glouphrie}}
+{{Slayer monsters}}
+[[Category:Terrorbirds]]
+[[Category:Quest monsters]]

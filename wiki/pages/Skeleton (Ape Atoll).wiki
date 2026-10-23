@@ -1,0 +1,105 @@
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{External|os}}
+{{Infobox Monster
+|name = Skeleton
+|image = [[File:Skeleton (Ape Atoll).png|200px]]
+|release = [[6 December]] [[2004]]
+|update = Monkey Madness
+|members = Yes
+|options = Attack
+|examine = It looks just a bit... underfed.
+|level = 78
+|lifepoints = 5000
+|experience = 250.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 102.4
+|slayercat = Skeletons
+|assigned_by = turael, mazchna, Vannaka
+|max_melee = 224
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 56
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 1011
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1011
+|defence = 56
+|weakness = Earth
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1471
+|leagueRegion=Kandarin}}
+
+'''Skeletons''' are skeletal apes that are found in the [[Ape Atoll Dungeon]]. Due to their [[aggressiveness]] they are a common target for [[Ranged|rangers]] using [[chinchompa (item)|grey]] and [[red chinchompa]]s and mages using [[burst]] and [[barrage spells]] to train on.
+
+They are a form of [[Undead]], meaning players can equip a [[Salve amulet]] (or [[Salve amulet (e)]]) to increase their damage output on them.
+
+It is worth noting these skeletons have a special respawn ability - if their bones are not picked up and buried, they will respawn again in an effect similar to the [[Skeletal horror]]. To prevent them from overflowing the game, if too much of their bones are on the ground, they will "burn" instead, permanently killing the skeleton. Their bones cannot be taken out from the dungeon, as they will turn into ashes upon doing so.
+
+The bones were not originally able to be crushed for [[Prayer]] [[experience]] by the [[Bonecrusher]], but [[Update:Patch Notes (5 July 2011)|a small update]] made it possible to do so. However, it is still not recommended to crush the bones since the skeletons spawn from them.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ape Atoll Dungeon]]
+|lvls=78
+|mem=yes
+|requirements = Partial completion of {{QuestIcon|Monkey Madness}}
+|mapID=615
+|npcid:1471,x:2704,y:9109|npcid:1471,x:2707,y:9112|npcid:1471,x:2708,y:9103
+|npcid:1471,x:2710,y:9135|npcid:1471,x:2711,y:9109|npcid:1471,x:2711,y:9130
+|npcid:1471,x:2714,y:9135|npcid:1471,x:2715,y:9132|npcid:1471,x:2735,y:9119
+|npcid:1471,x:2736,y:9121|npcid:1471,x:2738,y:9124|npcid:1471,x:2740,y:9120
+|npcid:1471,x:2741,y:9103|npcid:1471,x:2741,y:9124|npcid:1471,x:2743,y:9105
+|npcid:1471,x:2744,y:9100|npcid:1471,x:2745,y:9102|leagueRegion=Kandarin}}
+{{LocTableBottom}}
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Skeletal monkey bones|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[6 December]] [[2004]]|update=Monkey Madness|img=Skeleton (Ape Atoll) (2004).png|name=Skeleton (Ape Atoll)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton (Ape Atoll) (2007).png|name=Skeleton (Ape Atoll)}}
+|{{GUL|date=|update=|img=Skeleton (Ape Atoll) old.png|name=Skeleton (Ape Atoll)}}
+|{{GUL|date=|update=|img=Skeleton (Ape Atoll).png|name=Skeleton (Ape Atoll)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (5 July 2011)|date=5 July 2011}}
+** The bonecrusher now works correctly with monkey skeletons. The respawning code has also been tidied up to not rely on players being in the area.
+
+* {{UL|type=update|update=Monkey Madness|date=6 December 2004}}
+** Added to game.
+}}
+
+{{Skeleton}}
+{{Ape Atoll}}

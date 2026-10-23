@@ -1,0 +1,171 @@
+{{Otheruses|the Wilderness variant|The Zamorakian Undercity variant|Greater demon ash lord (The Zamorakian Undercity)}}
+{{Infobox Monster
+|name = Greater demon ash lord
+|image = [[File:Greater demon ash lord.png|x280px]]
+|release = [[1 August]] [[2022]]
+|update = Wilderness Reborn & New Quest - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|race = Demon
+|examine = Big, red and magical.
+|level = 149
+|lifepoints = 110,000
+|slaylvl = 1
+|slayxp = 4,400
+|experience = 5,500
+|aggressive = Yes
+|poisonous = No
+|slayercat = Greater demon berserkers and ash lords, Greater demons, Demons
+|max_melee = 1564
+|max_ranged = 1564
+|max_magic = 2570
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 6
+|attack = 70
+|ranged = 70
+|magic = 115
+|necromancy = 0
+|acc_melee = 1,486
+|acc_ranged = 1,486
+|acc_magic = 4,292
+|acc_necromancy = 0
+|abilities = No
+|armour = 3100
+|defence = 100
+|weakness = Nothing
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 55
+|aff_magic = 55
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Wilderness
+|id = 29360
+}}
+'''Greater demon ash lords''' are monsters found in the [[Wilderness]], east of the [[Demonic Ruins]] alongside [[greater demon berserker]]s. These demons have less health than their [[Greater demon ash lord (The Zamorakian Undercity)|Zamorakian Undercity counterparts]] and are susceptible to both stun and poison.
+
+Like their fellow demons encountered in the elite dungeon, these monsters are capable of pathing around obstacles to reach the player (including in the Wilderness) and can deal immense amounts of damage with their magic attacks. They may be killed in place of a [[greater demon]] task for more slayer experience.
+
+[[Mandrith]] can also assign these as a [[Slayer/Challenges#Mandrith|Slayer challenge]], requiring players to kill 15. 
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Wilderness]] level 43-46 by [[Demonic Ruins]]
+|lvls=157
+|mem=yes
+|npcid:29360,x:3335,y:3815|npcid:29360,x:3338,y:3834|npcid:29360,x:3331,y:3844|npcid:29360,x:3340,y:3849|npcid:29360,x:3314,y:3875
+|leagueRegion=Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Accursed ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Dragon spear|quantity=1|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Law rune|quantity=40-60|rarity=4/128}}
+{{DropsLine|name=Blood rune|quantity=40-60|rarity=6/128}}
+{{DropsLine|name=Soul rune|quantity=5-10|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy ranarr|quantity=3 (noted)|rarity=10/128}}
+{{DropsLine|name=Grimy torstol|quantity=2 (noted)|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Small plated necronium salvage|quantity=1-2|rarity=4/128}}
+{{DropsLine|name=Medium plated necronium salvage|quantity=1-2|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=8000-10000|rarity=14/128}}
+{{DropsLine|name=Coins|quantity=10000-20000|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Shark|quantity=2|rarity=18/128}}
+{{DropsLine|name=Uncut dragonstone|quantity=2|rarity=8/128}}
+{{DropsLine|name=Super Zamorak brew (3)|quantity=2|rarity=8/128}}
+{{DropsLine|name=Necrite stone spirit|quantity=3|rarity=4/128}}
+{{DropsLine|name=Wine of Zamorak|quantity=3 (noted)|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Gem and Rare drop table===
+{{GemDropTable|14/128|rdt=1/200}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=149}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=149}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 223.221/1000
+|green = 111.61/1000
+|crimson = 446.441/1000
+|blue = 14.881/1000
+}}
+
+===Wilderness shared loot table===
+{{Wilderness shared loot table|level=149}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=New Slayer Mobs & Premier Refresh - This Week In RuneScape|date=4 November 2024}}
+** Reduced Slayer XP from Wilderness greater demon variants to reduce the impact of them warping lower level Slayer; they now give 0.04 XP per HP rather than 0.065 XP per HP.
+*** Also removed their additional killcount cost to make them favor Slayer wildcards slightly less. For example, a greater demon ashlord will now reduce normal Slayer count by 1 rather than 8.
+
+* {{UL|type=hidden|update=Hidden updates|date=4 March 2024}}
+** The Strong Guard buff has effectively been replaced by the damage potential system, and monsters which previously had this buff no longer have it.
+*** Greater demon ash lord
+
+* {{UL|type=patch|update=Spring Festival & Frank's Free Chest 2 - This Week In RuneScape|date=3 April 2023}}
+** Adjusted the spawn location of demons at the bloodwood tree west of the Dragonkin Laboratory as they often interfered with players interacting with the tree.
+
+* {{UL|type=patch|update=Wilderness Ninja Strike! - This Week In RuneScape|date=13 March 2023}}
+** Moved the berserkers from the area near the level 44 Wilderness obelisk to area outside the Dragonkin Laboratory.
+
+* {{UL|type=patch|update=Free To Play Area Graphical Updates - This Week In RuneScape|date=5 September 2022}}
+** Updated the Greater Demons in Wilderness:
+*** Reduced health of ash lords from 140,000 to 110,000.
+*** Removed stun and poison immunity.
+*** Added drops.
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Added to game.
+}}
+
+==Trivia==
+* Alongside the berserkers, the greater demon ash lord are the first monsters to drop necronium salvage.
+* This type of greater demon used to possess the [[Strong guard (status)|Strong guard]] status, which made the players' attacks incapable of missing and made their [[Ability damage|damage]] dependent on their [[Hit chance|accuracy]]; this was effectively replaced by the damage potential system on [[4 March]] [[2024]].
+
+{{The Zamorakian Undercity}}
+{{Demons}}
+{{Slayer monsters}}

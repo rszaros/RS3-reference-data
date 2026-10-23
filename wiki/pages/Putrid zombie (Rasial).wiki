@@ -1,0 +1,69 @@
+{{Infobox Monster
+|version1 = Normal
+|version2 = Quest
+|name = Putrid zombie
+|image = <!--Putrid zombie (Rasial).png-->
+|release = [[7 August]] [[2023]]
+|update = New Skill: Necromancy - This Week In RuneScape
+|members = Yes
+|actions = Attack
+|examine = An enthralled zombie.
+|level = 98
+|lifepoints1 = 7800
+|lifepoints2 = 3900
+|slaylvl = 1
+|slayxp = 255.2
+|slayercat = Zombies, Undead
+|experience = 
+|aggressive = Yes
+|poisonous = No
+|max_melee = 857.5
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 70
+|acc_melee = 1486
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1486
+|defence = 70
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|weakness = Necromancy
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = no
+|restriction = no
+|leagueRegion = Misthalin
+|id = 30167
+}}
+'''Putrid zombies''' are [[monster]]s summoned during the fight with [[Rasial, the First Necromancer]]. Two of them also attack the player with [[Hermod, the Spirit of War]] during [[Alpha vs Omega]].
+
+When summoned by Rasial, the First Necromancer during [[Alpha vs Omega]], their [[life points]] are halved.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=New Skill: Necromancy - This Week In RuneScape|date=7 August 2023}}
+** Added to game.
+}}
+
+{{Rasial, the First Necromancer}}
+{{Alpha vs Omega}}
+[[Category:Boss minions]]
+[[pt:Zumbi putrefato (Rasial)]]

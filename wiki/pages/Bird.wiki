@@ -1,0 +1,127 @@
+{{External|os}}
+{{otheruses|the monster|other avian creatures|Bird (disambiguation)}}
+{{otheruses|def=no|slayer assignments|Birds (Slayer assignment)}}
+{{Infobox Monster
+|version1 = Black
+|version2 = Green
+|name = Bird
+|image1 = [[File:Bird (1475).png]]
+|image2 = [[File:Bird.png]]
+|release = [[5 December]] [[2004]]
+|update = Monkey Madness
+|members = No
+|options = Attack
+|examine1 = It's a brightly coloured bird of the jungle.
+|examine2 = It's a brightly coloured bird of the jungle. It flies very quickly.
+|level = 7
+|lifepoints = 700
+|slaylvl = 1
+|slayxp = 19.4
+|experience = 35.0
+|aggressive = No
+|poisonous = No
+|slayercat = Birds
+|assigned_by = spria, jacquelyn
+|max_melee = 100
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 5
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 50
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 1475
+|id2 = 1476
+|leagueRegion=Kandarin, Asgarnia}}
+'''Birds''' are avian enemies found on [[Ape Atoll]], [[Crash Island]], and the [[Life altar]]. They attack with melee and can be assigned as [[Slayer]] assignments by [[Turael]], [[Jacquelyn]], and [[Spria]]. Although they are airborne, they use melee and are weakest to [[Earth spells]].
+
+When assigned as a slayer task, you can also kill other low-level birds such as [[seagull]]s and [[chicken]]s. 
+
+==Locations==
+{{LocTableHead}}
+
+{{LocLine
+|loc=[[Ape Atoll]]
+|lvls=7
+|mem=yes
+|mapID=28
+|npcid:1476,x:2696,y:2709|npcid:1476,x:2713,y:2697|npcid:1475,x:2718,y:2726
+|npcid:1476,x:2737,y:2695|npcid:1475,x:2741,y:2712|npcid:1476,x:2694,y:2761
+|npcid:1476,x:2698,y:2788|npcid:1476,x:2723,y:2805|npcid:1475,x:2760,y:2711
+|npcid:1476,x:2764,y:2694|npcid:1476,x:2771,y:2737|npcid:1475,x:2773,y:2704
+|npcid:1476,x:2779,y:2743|npcid:1475,x:2783,y:2709|npcid:1476,x:2787,y:2694
+|npcid:1476,x:2794,y:2705|npcid:1476,x:2795,y:2739|npcid:1476,x:2798,y:2716
+|npcid:1476,x:2807,y:2714|npcid:1476,x:2810,y:2736|npcid:1476,x:2753,y:2754
+|npcid:1476,x:2756,y:2811|npcid:1476,x:2768,y:2759|npcid:1476,x:2779,y:2809
+|npcid:1476,x:2787,y:2752|npcid:1476,x:2797,y:2810|npcid:1476,x:2813,y:2757
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Crash Island]]
+|lvls=7
+|mem=yes
+|mapID=28
+|npcid:1476,x:2891,y:2723|npcid:1476,x:2900,y:2739|npcid:1476,x:2902,y:2701
+|npcid:1476,x:2906,y:2709|npcid:1476,x:2939,y:2718
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Life altar]]
+|lvls=7
+|mem=no
+|mapID=-1
+|plane=1
+|npcid:1475,x:1051,y:5550|npcid:1475,x:1066,y:5546|npcid:1475,x:1046,y:5547|npcid:1475,x:1064,y:5544|npcid:1476,x:1061,y:5547|npcid:1476,x:1063,y:5543|npcid:1476,x:1050,y:5542|npcid:1476,x:1055,y:5538
+|leagueRegion = Asgarnia}}
+{{LocTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Black
+|item1 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[5 December]] [[2004]]|update=Monkey Madness|img=Bird (1475, 2004).png|name=Bird}}
+|{{GUL|date=[[2005]]|update=|img=Bird (1475, 2005).png|name=Bird}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Bird (1475).png|name=Bird}}
+}}
+|text2 = Green
+|item2 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[5 December]] [[2004]]|update=Monkey Madness|img=Bird (1476, 2004).png|name=Bird}}
+|{{GUL|date=[[2005]]|update=|img=Bird (1476, 2005).png|name=Bird}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Bird.png|name=Bird}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (9 November 2009)|date=9 November 2009}}
+** Added some variety to bird flapping sounds.
+
+* {{UL|type=update|update=Monkey Madness|date=5 December 2004}}
+** Added to game.
+}}
+
+[[Category:Birds]]

@@ -1,0 +1,231 @@
+{{External|os|dw}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|version6 = 6
+|version7 = Dancing (1)
+|version8 = Dancing (2)
+|version9 = Dancing (3)
+|version10 = Dancing (4)
+|version11 = Drummer
+|name = Zogre
+|image1 = [[File:Zogre.png]]
+|image2 = [[File:Zogre (2).png]]
+|image3 = [[File:Zogre (3).png]]
+|image4 = [[File:Zogre (4).png]]
+|image5 = [[File:Zogre (5).png]]
+|image6 = [[File:Zogre (6).png]]
+|image7 = [[File:Zogre (dancing, 1).png]]
+|image8 = [[File:Zogre (dancing, 2).png]]
+|image9 = [[File:Zogre (dancing, 3).png]]
+|image10 = [[File:Zogre (dancing, 4).png]]
+|image11 = [[File:Zogre (drummer).png]]
+|release = [[17 May]] [[2005]]
+|update = Zogre Flesh Eaters
+|members = Yes
+|options = Attack, Examine
+|examine = A partially decomposing zombie ogre.
+|level = 56
+|lifepoints = 2000
+|experience = 100.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 28
+|slayercat = Ogres, Zombies, Undead
+|assigned_by = 
+|max_melee1 = 160.0
+|max_melee2 = 240.0
+|max_melee3 = 240.0
+|max_melee4 = 240.0
+|max_melee5 = 240.0
+|max_melee6 = 240.0
+|max_melee7 = 240.0
+|max_melee8 = 240.0
+|max_melee9 = 240.0
+|max_melee10 = 240.0
+|max_melee11 = 240.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 40
+|ranged = 0
+|magic = 0
+|necromancy = 0
+|acc_melee = 628
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 628
+|defence = 40
+|weakness = Arrows
+|susceptibility = Brutal, Undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = 
+|dropversion2 = Walking (Variant 2)
+|dropversion7 = Dancing (Variant 1)
+|id1 = 2044
+|id2 = 2045
+|id3 = 2046
+|id4 = 2047
+|id5 = 2048
+|id6 = 2049
+|id7 = 2051
+|id8 = 2052
+|id9 = 2053
+|id10 = 2054
+|id11 = 2055
+|leagueRegion=Kandarin}}
+'''Zogres''' are zombified [[Ogre (race)|ogres]] who have invaded the dance site of [[Jiggig]], south of [[Castle Wars]]. They are also encountered during the [[Zogre Flesh Eaters]] quest. Their name is a portmanteau of "zombie" and "ogre". They count as both [[Zombies (Slayer assignment)|zombies]] and [[Ogres (Slayer assignment)|ogres]] for [[Slayer assignment]]s.
+
+When burying [[zogre bones]] inside Jiggig, there is a chance that an aggressive [[skogre]] will spawn next to the player.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Jiggig]] ground level
+|lvls=56
+|mem=yes
+|mapID=28
+|npcid:2052,x:2464,y:3045|npcid:2051,x:2464,y:3049|npcid:2053,x:2467,y:3049
+|npcid:2054,x:2468,y:3046|npcid:2055,x:2470,y:3055|npcid:2045,x:2482,y:3046
+|npcid:2044,x:2486,y:3048
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Jiggig Dungeon]] middle level
+|lvls=56
+|mem=yes
+|mapID=564
+|npcid:2045,x:2459,y:9394|npcid:2046,x:2466,y:9389|npcid:2047,x:2477,y:9384
+|npcid:2044,x:2484,y:9392|npcid:2048,x:2485,y:9398|npcid:2046,x:2436,y:9452
+|npcid:2046,x:2436,y:9465|npcid:2047,x:2437,y:9429|npcid:2047,x:2440,y:9438
+|npcid:2044,x:2448,y:9442|npcid:2046,x:2450,y:9460|npcid:2046,x:2455,y:9440
+|npcid:2048,x:2457,y:9420|npcid:2047,x:2458,y:9408|npcid:2048,x:2462,y:9431
+|npcid:2044,x:2465,y:9454|npcid:2044,x:2471,y:9422|npcid:2045,x:2473,y:9430
+|npcid:2046,x:2473,y:9439|npcid:2045,x:2478,y:9442|npcid:2048,x:2482,y:9422
+|npcid:2046,x:2483,y:9408|npcid:2045,x:2487,y:9455
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Jiggig Dungeon]] bottom level
+|lvls=56
+|mem=yes
+|mapID=-1
+|npcid:2046,x:2449,y:9429|npcid:2047,x:2449,y:9434|npcid:2049,x:2452,y:9440
+|npcid:2048,x:2455,y:9435
+|leagueRegion = Kandarin}}
+{{LocTableBottom}}
+
+==Strengths and weaknesses==
+Zogres take heavily reduced damage from normal weapons (approximately 75% reduction). Like [[skogre]]s, they are especially weak to [[brutal arrows]], taking full damage. They also take full damage from [[poison]] and [[Summoning familiars]]. [[Necromancy]] is very effective against Zogres.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Ogre coffin key|quantity=1|rarity=Always}}
+{{DropsLine|name=Zogre bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{Dropsline|name=Zogre bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=no}}
+{{DropsLineBoneFragments|slayer_level=1}}
+{{DropsLineSpiritGems|version=Charm dropper}}
+{{DropsLineMimic|level=56|version=Charm dropper}}
+{{DropsLineEffigy|level=56|version=Charm dropper}}
+{{DropsTableBottom}}
+
+====Charms - Dancing====
+Charms are dropped by a specific dancing zogre (ID 2051), of which there are 1 instance. The other dancing zogres, and the zogre drummer, do not drop charms, spirit gems, mimic kill tokens, or effigies.
+
+{{CharmDropTable
+|version=Dancing (Variant 1)
+|quantity=1
+|gold=379.931/1000
+|green=27.138/1000
+|crimson=27.138/1000
+|blue=5.428/1000
+}}
+
+====Charms - Walking====
+Charms are dropped by a specific walking zogre (ID 2045), of which there are 5 instances. The other walking zogres do not drop charms, spirit gems, mimic kill tokens, or effigies.
+
+{{CharmDropTable
+|version=Walking (Variant 2)
+|quantity=1
+|gold=271.38/1000
+|green=54.276/1000
+|crimson=27.138/1000
+|blue=10.855/1000
+}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Zogre (2005).png|name=Zogre}}
+|{{GUL|date=|update=|img=Zogre (3).png|name=Zogre}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=patch|update=This Week In RuneScape - 10/08/20#patch-notes|date=10 August 2020}}
+** It is no longer possible to spawn extra [[skogre]]s when burying [[zogre bones]] in an area with multiple zogres.
+
+* {{UL|type=patch|update=Patch Notes (7 March 2016)|date=7 March 2016}}
+** Zogres have had their combat stats rebalanced.
+
+* {{UL|type=update|update=Zogre Flesh Eaters|date=17 May 2005}}
+** Added to game.
+}}
+
+==Trivia==
+[[File:Zogre with Drums.gif|160px|thumb|A Zogre playing drums.]]
+* The zogre playing the drums can be attacked, but only with [[Ranged]], [[Magic]] or the use of [[Melee]] weapons capable of hitting 2 squares away. You will also need to [[telegrab]] their items, should you wish to pick them up.
+* The colour of the drums that the drumming zogre plays is slightly lighter than that of the other drums.
+* Zogres used to inflict [[Disease (historical)|disease]], but this status effect was removed from the game with the introduction of the [[Evolution of Combat]].
+* According to [[Juna]], zogres fought for [[Zamorak]] during the [[God Wars]] and could "repel the forces of [[Saradomin]] with their stench alone."{{CiteNPC|npc=Juna|loc=Tears of Guthix{{l/c}} and {{l/o}}Zogre Flesh Eaters|quote=Zombie Ogres!? Some of the foulest creatures of Zamorak. In the great wars, the zogre armies would repel the forces of Saradomin with their stench alone.}}
+* In [[RuneScape - Dragonwilds|RuneScape: Dragonwilds]], zogres make an appearance as mini boss monsters. Their origin in the game are different to the ones here.
+
+==See also==
+* [[Skogre]]
+* [[Ogre]]
+* [[Mogre]]
+* [[Jogre]]
+* [[Slash Bash]]
+
+==References==
+{{Reflist}}
+
+{{Zogre Flesh Eaters}}
+{{Jiggig}}
+{{Ogres}}
+{{Zombie}}
+[[Category:Bandosians]]
+[[pt:Zogro]]

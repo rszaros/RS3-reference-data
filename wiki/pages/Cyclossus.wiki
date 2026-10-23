@@ -1,0 +1,173 @@
+{{Confuse|Cyclosis}}
+{{Infobox Monster
+|name = Cyclossus
+|image = [[File:Cyclossus.png|150px]]
+|release = [[7 December]] [[2010]]
+|update = Warriors' Guild and Dragon Defender
+|members = No
+|options = Attack
+|examine = A one-eyed maneater.
+|leagueRegion = Asgarnia
+|level = 89
+|lifepoints = 12600
+|experience = 630.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 350
+|slayercat = Cyclopes
+|assigned_by = achtryn, mazchna, vannaka
+|max_melee = 960
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 64
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1264
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1264
+|defence = 64
+|weakness = Stab
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 3478
+}}
+'''Cyclossi''' are monsters found inside the [[Warriors' Guild]]. They are much taller than a regular [[cyclops]] and drop the [[dragon defender]] and [[cyclopean helmet]]. There is a chance a cyclossus will be summoned when a player kills a regular cyclops, providing the player had shown a [[Rune defender|rune]] or [[dragon defender]] to [[Kamfreena]] before entering the room and wielded one whilst killing the cyclops. Unlike fighting the cyclops, either type of defender must be wielded while fighting Cyclossus; otherwise, the player will be prevented from doing any damage.
+
+When a cyclossus first appears, it can only be attacked by the player it is after, and nobody else. If the original player breaks off combat with the cyclossus (by not attacking it or being attacked by it for 10 seconds), the cyclossus will walk around the room taunting other players by name, and calling out things like "Your mum has two eyes!" and "Two-eyed freaks! Think you can take on Cyclossus?" During this time, any player not in combat can attack the cyclossus, not just the original player.
+
+The cyclossus possesses a special move which shoves the player back several squares and knocks the player down. The cyclossus then follows this move up with a magic attack that looks like a tiny lightning bolt. This always hits, damaging and stunning the player. This does not act like an actual stun, as the player can still attack and use food during this time. [[Anticipation]] will not block the stun, but [[Freedom]] can be used to clear it. It is recommended to stand near a wall in the warriors guild while fighting Cyclossus, to stop it from pushing you away. This will do two hits; the pushing hit that does not hurt a lot and a lightning bolt that also does minor damage.
+
+The melee attacks of a cyclossus are much more accurate than those of a regular cyclops. The [[Protect from Melee]] prayer blocks some melee damage and is recommended for players who can use that prayer. This prayer, however, does not block the special move or magic attack of the cyclossus. Harrallak does not allow [[Ancient Curses]] to be used in the Warriors' Guild, so [[Deflect Melee]] and [[Soul Split]] cannot be used. Ancient curse users should switch to the regular prayers if they wish to use prayers in the room.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+Some drops will be noted and in a higher quantity if "Use multiple token types" is selected when entering the room. For example, the player will always receive 2 noted [[big bones]] when killing a cyclossus.
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1, 2|quantitynotes={{DropNote|2 noted if using all token types in the Warriors' Guild, 1 unnoted otherwise.}}|rarity=Always}}
+{{DropsTableBottom}}
+
+===Defenders===
+{{DropsTableHead}}
+{{DropsLine|name=Rune defender|quantity=1|rarity=1/4|altrarity=1/50|raritynotes={{DropNote|name=defender|1/4 when Cyclossus spawns from killing a cyclops, otherwise 1/50.}}{{DropNote|Only in free-to-play worlds.}}|gemw=No}}
+{{DropsLine|name=Dragon defender|quantity=1|rarity=1/4|altrarity=1/50|raritynotes={{DropNote|name=defender}}|gemw=No|members=Yes}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Cyclopean helmet|quantity=1|rarity=42/100}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Blood rune|quantity=15-24|rarity=1/100}}
+{{DropsLine|name=Mithril arrow|quantity=5-24|rarity=1/100}}
+{{DropsLine|name=Adamant arrow|quantity=5-14|rarity=1/100}}
+{{DropsLine|name=Mithril bolts|quantity=5-24|rarity=1/100}}
+{{DropsLine|name=Adamant bolts|quantity=5-14|rarity=1/100}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|1/100}}
+{{DropsTableHead}}
+{{RareSeedDropTable|1/100}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Super strength (2)|quantity=1|quantitynotes={{DropNote|name=noted|Noted if using all token types in the Warriors' Guild, otherwise unnoted.}}|rarity=2/100}}
+{{DropsLine|name=Swordfish|quantity=1|rarity=8/100|raritynotes={{DropNote|Only in free-to-play worlds.}}}}
+{{DropsLine|name=Shark|quantity=1|rarity=8/100|members=Yes}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Small bladed mithril salvage|quantity=1|rarity=2/100}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=2/100}}
+{{DropsLine|name=Medium bladed mithril salvage|quantity=1|rarity=2/100}}
+{{DropsLine|name=Medium blunt mithril salvage|quantity=1|rarity=1/100}}
+{{DropsLine|name=Tiny blunt adamant salvage|quantity=1|rarity=1/100}}
+{{DropsLine|name=Medium bladed adamant salvage|quantity=1|rarity=1/100}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|quantitynotes={{DropNote|1/3 chance to be noted if using all token types in the Warriors' Guild, otherwise always unnoted.}}|rarity=3/100}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=1/100}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1900-2099|rarity=10/100}}
+{{DropsLine|name=Nothing|rarity=9/100}}
+{{DropsLine|name=Limpwurt root|quantity=5|quantitynotes={{DropNote|name=noted}}|rarity=2/100}}
+{{DropsLine|name=Uncut ruby|quantity=1|quantitynotes={{DropNote|name=noted}}|rarity=2/100}}
+{{DropsLine|name=Uncut diamond|quantity=1|quantitynotes={{DropNote|name=noted}}|rarity=2/100}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=3/100}}
+{{DropsLine|name=Runite stone spirit|quantity=1|rarity=1/100}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/200}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Shoulder bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=no}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/512}}
+{{DropsLineEffigy|level=89}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=89}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 47.989/1000
+|green = 23.994/1000
+|crimson = 19.196/1000
+|blue = 76.782/1000
+}}
+
+==Achievement==
+* {{Achievement|Guardian of the Realm}} 
+** [[Dragon defender]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hotfix|update=Patch Notes (16 October 2017)|date=9 October 2017}}
+** Cyclopes in the Warriors' Guild can no longer drop [[dragon defender]]s on free worlds.
+
+* {{UL|type=patch|update=Patch Notes (6 February 2017)|date=6 February 2017}}
+** Updated the models of the cyclopes (and the cyclossus) in the Warrior's Guild.
+
+* {{UL|type=update|update=Warriors' Guild and Dragon Defender|date=7 December 2010}}
+** Added to game.
+}}
+
+==Trivia==
+* Cyclossus is a portmanteau of "cyclops" and "colossus".
+
+{{Warriors' Guild}}
+{{Elite monster}}
+{{Cyclopes}}

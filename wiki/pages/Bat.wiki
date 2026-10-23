@@ -1,0 +1,192 @@
+{{Dgvariant}}
+{{otheruses|def=no}}
+{{External|os}}
+{{Infobox Monster
+|name = Bat
+|image = [[File:Bat.png|250px]]
+|release = [[27 February]] [[2002]]
+|update = Latest RuneScape News (27 February 2002)
+|members = No
+|options = Attack
+|examine = An annoying flappy thing.
+|level = 14
+|lifepoints = 1000
+|slaylvl = 1
+|slayxp = 8.2
+|experience = 50.0
+|aggressive = No
+|poisonous = No
+|slayercat = Bats
+|assigned_by = turael, jacquelyn, vannaka
+|max_melee = 200
+|max_ranged = 0
+|max_magic = 40
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 10
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 102
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 202
+|defence = 10
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 412
+|leagueRegion = Morytania, Misthalin, Kandarin
+}}
+[[File:Bat icon.png|left]]
+'''Bats''' are small, flying animals that can be found in numerous darker areas throughout ''[[RuneScape]]'', such as [[Morytania]]. Many small bats can be found in [[Silvarea]] (the pathway to [[Paterdomus]]), as well as around the [[Slayer Tower]].
+
+There are several stronger variants of bats such as [[giant bat]]s, [[warped bat]]s, and [[albino bat]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Shadow Dungeon]]
+|lvls=14
+|mem=yes
+|mapID=416
+|npcid:412,x:2693,y:5102|npcid:412,x:2699,y:5083|npcid:412,x:2707,y:5106
+|npcid:412,x:2721,y:5062|npcid:412,x:2735,y:5073|npcid:412,x:2735,y:5105
+|npcid:412,x:2742,y:5097|npcid:412,x:2744,y:5065
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Abandoned Mine]] level 1
+|lvls=14
+|mem=yes
+|mapID=569
+|npcid:412,x:3409,y:9637|npcid:412,x:3410,y:9640|npcid:412,x:3411,y:9644
+|npcid:412,x:3414,y:9643|npcid:412,x:3418,y:9642|npcid:412,x:3419,y:9646
+|npcid:412,x:3420,y:9631|npcid:412,x:3421,y:9629|npcid:412,x:3423,y:9625
+|npcid:412,x:3433,y:9638|npcid:412,x:3434,y:9636|npcid:412,x:3436,y:9636
+|leagueRegion = Morytania}}
+{{LocLine
+|loc=[[Abandoned Mine]] level 4
+|lvls=14
+|mem=yes
+|mapID=296
+|npcid:412,x:2759,y:4498|npcid:412,x:2761,y:4495|npcid:412,x:2762,y:4500
+|npcid:412,x:2782,y:4491|npcid:412,x:2783,y:4487|npcid:412,x:2792,y:4488
+|leagueRegion = Morytania}}
+{{LocLine
+|loc=Near [[Paterdomus]]
+|lvls=14
+|mem=no
+|mapID=28
+|npcid:412,x:3341,y:3478|npcid:412,x:3343,y:3484|npcid:412,x:3345,y:3484
+|npcid:412,x:3350,y:3493|npcid:412,x:3353,y:3494|npcid:412,x:3361,y:3484
+|npcid:412,x:3364,y:3489|npcid:412,x:3370,y:3497|npcid:412,x:3379,y:3478
+|npcid:412,x:3387,y:3483|npcid:412,x:3388,y:3494|npcid:412,x:3389,y:3483
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Slayer Tower]] {{floornumber|1}}
+|lvls=14
+|mem=yes
+|mapID=28
+|npcid:412,x:3411,y:3550
+|leagueRegion = Morytania}}
+{{LocLine
+|loc=[[Haunted Woods]]
+|lvls=14
+|mem=yes
+|mapID=28
+|npcid:412,x:3565,y:3503|npcid:412,x:3567,y:3481|npcid:412,x:3580,y:3491
+|npcid:412,x:3588,y:3472|npcid:412,x:3598,y:3509|npcid:412,x:3599,y:3486
+|npcid:412,x:3607,y:3462|npcid:412,x:3611,y:3499|npcid:412,x:3613,y:3482
+|npcid:412,x:3627,y:3511|npcid:412,x:3628,y:3473|npcid:412,x:3636,y:3466
+|npcid:412,x:3639,y:3510
+|leagueRegion = Morytania}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bat bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main===
+{{DropsTableHead}}
+{{DropsLine|name=Batwing|quantity=1|rarity=1/10}}
+{{DropsLine|name=Nothing|quantity=1|rarity=9/10}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Bat wing|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLineEffigy|level=14}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=14}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 46.644/1000
+|green = 1.458/1000
+|crimson = 2.915/1000
+|blue = 0.292/1000
+}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2_Launched!|img=Bat (2004).png|name=Bat}}
+|{{GUL|date=[[18 October]] [[2006]]|update=Capes_of_Achievement..._and_Goats!|img=Bat (2006).png|name=Bat}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Bat (2008).png|name=Bat}}
+|{{GUL|date=[[12 May]] [[2014]]|update=Patch Notes (12 May 2014)|img=Bat.png|name=Bat}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (4 December 2017)|date=4 December 2017}}
+** Bats now drop bat bones instead of regular bones.
+
+* {{UL|type=ninja|update=Patch Notes (7 August 2017)|date=7 August 2017}}
+** Some bats that were only visible on members' worlds are now visible on free worlds.
+
+* {{UL|type=ninja|update=Patch Notes (22 July 2014)|date=22 July 2014}}
+** More bats and scorpions have been graphically updated across the game.
+
+* {{UL|type=patch|update=Patch Notes (12 May 2014)|date=12 May 2014}}
+** Bats have been graphically updated across the game.
+
+* {{UL|type=patch|update=Patch Notes (5 February 2013)|date=5 February 2013}}
+** [[Batwing]]s are now dropped after a bat has died.
+
+* {{UL|type=patch|update=Patch Notes (26 October 2009)|date=26 October 2009}}
+** Added different sound effects for small bats.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+==See also==
+*[[Tz-Kih]]
+*[[Vampyre bat]]
+*[[Fruit bat]]
+*[[Bat shish]]
+*[[Bat (Swept Away)|Bat (swept away)]]
+[[pt:Morcego]]

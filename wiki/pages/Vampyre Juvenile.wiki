@@ -1,0 +1,261 @@
+{{External|os}}
+{{Otheruses|def=no}}
+{{Multi infobox
+|text1= Burgh de Rott
+|item1=
+{{Infobox Monster
+|version1 = Male
+|version2 = Female
+|name = Vampyre Juvenile
+|image1 = [[File:Vampyre Juvenile (male).png|130px]]
+|image2 = [[File:Vampyre Juvenile (female).png|130px]]
+|release = [[22 March]] [[2006]]
+|update = In Aid of the Myreque
+|members = Yes
+|options = Attack
+|examine1 = He looks really hungry!
+|examine2 = She looks really hungry!
+|level = 56
+|lifepoints = 2000
+|experience = 100.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 26.8
+|slayercat = Vampyres
+|max_melee = 160
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 40
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 628
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|weakness = Water
+|susceptibility = Silver, Blisterwood, Vampyre Slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 3531,3533
+|id2 = 3532
+|dropversion = Burgh de Rott
+|leagueRegion = Morytania
+}}
+|text2 = Meiyerditch
+|item2 =
+{{Infobox Monster
+|version1 = Male
+|version2 = Female
+|name = Vampyre Juvenile
+|image1 = [[File:Vampyre Juvenile (male).png|130px]]
+|image2 = [[File:Vampyre Juvenile (female).png|130px]]
+|release = [[4 September]] [[2006]]
+|update = Myreque Pt III - Darkness of Hallowvale
+|members = Yes
+|options = Talk to, Attack
+|examine = A juvenile vampyre.
+|level = 56
+|lifepoints = 2000
+|experience = 100.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 28
+|slayercat = Vampyres
+|max_melee = 160
+|max_ranged = 0
+|max_magic = 0
+|style = melee
+|primarystyle = Melee
+|speed = 4
+|attack = 40
+|ranged = 1
+|magic = 1
+|acc_melee = 628
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 628
+|defence = 40
+|weakness = Water
+|susceptibility = Silver, Blisterwood, Vampyre Slayer
+|derived_susceptibility = No
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 4774
+|id2 = 4775
+|dropversion = Meiyerditch
+|leagueRegion = Morytania
+}}
+}}
+{{Synced switch
+|version1 = [[File:Vampyre juvenile chathead.png|left|75px]]
+|version2 = [[File:Juvenile chathead.png|left|75px]]
+}}
+'''Vampyre Juveniles''' are the lowest rank and first transformation stage of vampyres who were once human. The ones in the [[Burgh de Rott Woods]] can be damaged with any weapon, and the ones in [[Meiyerditch]] require a [[Silver weapons|silver]] or [[blisterwood]] weapon to damage, making them similar to a [[Vampyre Juvinate|juvinate]]. If players use a [[Guthix balance]] potion on them, one of three things can occur: they can be killed instantly, turned into an [[angry vampyre]], or turned back into a [[Former vampyre|human]] and give the player a small reward.
+
+If a Guthix balance potion is not used on the ones in Meiyerditch, then the Juvenile will say "Ha ha, time to disappear and re-rejuvenate!", turn into a cloud of mist and float away when it reaches approximately 0 health. No drops will be received when this happens.
+
+==Prayer info==
+{{Prayer info
+|name = Vampyre Juvinate
+|level = 1
+|xp = 100
+|xpnote = Only upon killing the juvenile with the use of a dose of [[Guthix balance]]
+|type = guthix balance
+}}
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Burgh de Rott Woods]]
+|lvls=56
+|mem=yes
+|mapID=28
+|npcid:3532,x:3546,y:3249|npcid:3531,x:3550,y:3200|npcid:3532,x:3556,y:3216
+|npcid:3532,x:3559,y:3200|npcid:3531,x:3561,y:3246|npcid:3531,x:3562,y:3229
+|npcid:3533,x:3564,y:3201|npcid:3531,x:3564,y:3206|npcid:3531,x:3564,y:3218
+|npcid:3531,x:3564,y:3253|npcid:3533,x:3565,y:3241|npcid:3531,x:3567,y:3236
+|npcid:3533,x:3582,y:3216|npcid:3533,x:3583,y:3200
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Castle Drakan]]
+|lvls=56
+|mem=yes
+|mapID=28
+|npcid:4775,x:3527,y:3351|npcid:4775,x:3536,y:3349
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Meiyerditch]]
+|lvls=56
+|mem=yes
+|requirements = Partial completion of {{QuestIcon|The Darkness of Hallowvale}}
+|mapID=28
+|npcid:22667,x:3630,y:3216
+|npcid:22665,x:3630,y:3223
+|npcid:22667,x:3631,y:3220
+|npcid:22665,x:3633,y:3212
+|npcid:22665,x:3634,y:3228
+|npcid:22667,x:3635,y:3230
+|npcid:22669,x:3630,y:3213
+|npcid:22669,x:3630,y:3219
+|npcid:22669,x:3630,y:3225
+|npcid:22671,x:3631,y:3212
+|npcid:22671,x:3631,y:3218
+|npcid:22671,x:3631,y:3226
+|npcid:4774,x:3603,y:3189|npcid:4775,x:3618,y:3187|npcid:4774,x:3638,y:3196
+|npcid:4775,x:3639,y:3193
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops (using a Guthix balance potion)==
+{{DropLogProject|jagex=yes}}
+===100%===
+{{DropsTableHead}}
+{{DropsLinePrayer|name=Vampyre dust|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLinePrayer|name=Congealed blood|quantity=2-7|rarity=1/20}}
+{{DropsTableBottom}}
+
+==Drops (Burgh de Rott)==
+{{DropsTableHead|version=Burgh de Rott}}
+{{DropsLine|name=Vampyre dust|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Burgh de Rott
+|item1 =
+{{GU|subject=NPCs
+|{{GUL|date=[[22 March]] [[2006]]|update=In Aid of the Myreque|img=Vampyre Juvenile (Burgh de Rott, 1) (2006).png|name=Vampyre Juvenile (1)}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Vampyre Juvenile (male).png|name=Vampyre Juvenile (1)}}
+}}
+{{GU|subject=NPCs
+|{{GUL|date=[[22 March]] [[2006]]|update=In Aid of the Myreque|img=Vampyre Juvenile (Burgh de Rott, 2) (2006).png|name=Vampyre Juvenile (2)}}
+|{{GUL|date=[[1 September]] [[2010]]|update=Court Cases: Back in Session|img=Vampyre Juvenile (Burgh de Rott, 2) (2010).png|name=Vampyre Juvenile (2)}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Vampyre Juvenile (female).png|name=Vampyre Juvenile (2)}}
+}}
+{{GU|subject=NPCs
+|{{GUL|date=[[22 March]] [[2006]]|update=In Aid of the Myreque|img=Vampyre Juvenile (Burgh de Rott, 3) (2006).png|name=Vampyre Juvenile (3)}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Vampyre Juvenile (male).png|name=Vampyre Juvenile (3)}}
+}}
+|text2 = Meiyerditch
+|item2 =
+{{GU|subject=NPCs
+|{{GUL|date=[[4 September]] [[2006]]|update=Myreque Pt III - Darkness of Hallowvale|img=Vampyre Juvenile (male) (2006).png|name=Vampyre Juvenile (male)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Vampyre juvenile male old.png|name=Vampyre Juvenile (male)}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Vampire juvenile.png|name=Vampyre Juvenile (male)}}
+}}
+{{GU|subject=NPCs
+|{{GUL|date=[[4 September]] [[2006]]|update=Myreque Pt III - Darkness of Hallowvale|img=Vampyre Juvenile (female) (2006).png|name=Vampyre Juvenile (female)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Vampyre juvenile female old.png|name=Vampyre Juvenile (female)}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Vampyre Juvenile (female).png|name=Vampyre Juvenile (female)}}
+}}
+{{GU|subject=Chatheads
+|{{GUL|date=[[4 September]] [[2006]]|update=Myreque Pt III - Darkness of Hallowvale|img=Vampyre Juvenile (male) chathead (2006).png|name=Vampyre Juvenile (male)}}
+|{{GUL||date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Vampyre Juvenile (male) chathead (2008).png|name=Vampyre Juvenile (male)}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Vampyre juvenile chathead.png|name=Vampyre Juvenile (male)}}
+}}
+{{GU|subject=Chatheads
+|{{GUL|date=[[4 September]] [[2006]]|update=Myreque Pt III - Darkness of Hallowvale|img=Vampyre Juvenile (female) chathead (2006).png|name=Vampyre Juvenile (female)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Vampyre Juvenile (female) chathead (2008).png|name=Vampyre Juvenile (female)}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Juvenile chathead.png|name=Vampyre Juvenile (female)}}
+}}
+}}
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Part II: Journey into the East!|date=28 September 2026}}
+** Added susceptibility to the [[Vampyre Slayer (ability)|Vampyre Slayer]] ability.
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=patch|update=Patch Notes (3 May 2016)|date=3 May 2016}}
+** Vampyre juveniles and [[Vampyre Juvinate|juvinates]] will move on from South East [[Meiyerditch]] after the quest [[River of Blood]] is completed.
+
+* {{UL|type=update|update=In Aid of the Myreque|date=22 March 2006}}
+** Added to game.
+}}
+
+==Trivia==
+[[File:Rod of ivandis special.gif|right|frame|Retainer, the [[rod of ivandis|Rod of Ivandis]]'s currently removed special attack used on a Vampyre Juvenile.]]
+* Vampyre Juveniles in Burgh de Rott and the Vampyre juveniles in Meiyerditch used to be significantly different, the latter having a much older, albeit unique, model, despite being released later. The [[Update:Temple Trekking: Revamped|graphical updates]] to Morytania and vampyres solved this, making the two look generally the same. The combat levels and capitalisation have also remained different.
+* Vampyre juveniles in Temple Trekking would turn into [[Benjamin]], [[Liam (Temple Trekking)|Liam]], [[Miala]], or [[Verak]] if cured by [[Guthix balance]] before an [[Update:Evolution of Combat: Now Live!|update]].
+* Vampyre Juveniles may be based on Count Orlock, the main antagonist of the 1924 silent vampire film ''Nosferatu'' (which was criticised for plagiarising Bram Stoker's 1897 novel ''Dracula''), given their bald heads as well as the males' fangs replacing their upper front teeth rather than their upper canine teeth.
+
+{{Vampyres}}
+{{Burgh de Rott}}
+{{Meiyerditch}}
+[[Category:Morytania]]

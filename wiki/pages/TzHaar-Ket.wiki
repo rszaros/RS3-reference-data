@@ -1,0 +1,185 @@
+{{External|os}}
+{{Otheruses|the Fight Caves monster|TokHaar version|TokHaar-Ket}}
+{{Otheruses|def=no|TzekHaar version|Unbreakable TzekHaar-Ket}}
+{{Otheruses|def=no|the version fought during The Elder Kiln|TzHaar-Ket (Hardened)}}
+{{Infobox Monster
+|name = TzHaar-Ket
+|image = [[File:TzHaar-Ket.png|250px]]
+|release = [[19 September]] [[2005]]
+|update = Massive minigame - Fight Pits
+|members = Yes
+|options = Attack
+|examine = *''Attackable'': Must be a guard or something.
+*''At the [[Fight Kiln]] entrance'': He's standing sentry.
+|level = 86
+|lifepoints = 3100
+|experience = 155.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 77.5
+|slayercat = TzHaar
+|assigned_by = kuradal,morvran
+|max_melee = 248
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|speed = 4
+|attack = 62
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1197
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1197
+|defence = 62
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 2611
+|leagueRegion=Karamja,Tirannwn}}
+[[File:TzHaar-Ket chathead.png|left|100px]]
+The '''TzHaar-Ket''' is an inhabitant of the [[TzHaar City]]. All of them can be found wielding a [[TzHaar-Ket-Om]]. Some will have nothing with it, some wield three TzHaar-Ket-Em to accompany, or a [[toktz-ket-xil]].
+
+TzHaar-Ket have a max hit of 300 life points, which could cause problems for players with low [[Defence]], although it is rare to see them hit over 200. [[Protect from Melee]] is recommended for lower level players. Despite being the same level, they tend to miss a lot more than the weaker [[TzHaar-Xil]]. Prior to the successful deployment of [[ClusterFlutterer]], these creatures were killed often, primarily by [[bots]], and so it was very hard to find a world without competition. In addition, players can go into the [[TzHaar Fight Cave|Fight Cave]] and die to fully heal themselves and recharge [[Prayer]] and [[Summoning]] points. They are more popular to kill than TzHaar-Xil despite their higher defence, due to having both more [[life points]] and more valuable Obsidian item drops.
+
+TzHaar-Ket can be killed as part of the Slayer task set by [[Kuradal]] or [[Morvran]]. The player has a choice whether to do the task as normal or to change it to Volcanic Creatures, which are the creatures in the Fight Cave. Changing the task requires the player to kill [[TzTok-Jad]]. As a reward there is a bonus amount of Slayer experience.
+
+If you are a low levelled player coming to fight TzHaar-Hurs, make sure that no TzHaar-Ket, TzHaar-Xil, or TzHaar-Mej are near, as they will try to protect the TzHaar-Hurs by trying to kill you. If you are level 95+, you should be able to fight these monsters with little or no food.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[TzHaar City]]
+|lvls = 86
+|mem = Yes
+|mapID = 12
+|plane = 0
+|npcid:2615,x:4621,y:5081
+|npcid:2616,x:4631,y:5103
+|npcid:2614,x:4639,y:5074
+|npcid:2611,x:4643,y:5107
+|npcid:2614,x:4660,y:5085
+|npcid:2614,x:4668,y:5101
+|npcid:2616,x:4668,y:5116
+|npcid:2615,x:4623,y:5132
+|npcid:2614,x:4666,y:5123
+|npcid:2625,x:4667,y:5176
+|npcid:2611,x:4678,y:5096
+|npcid:2611,x:4689,y:5112
+|npcid:2614,x:4708,y:5076
+|npcid:2611,x:4715,y:5099
+|npcid:2615,x:4720,y:5066
+|npcid:2611,x:4722,y:5116
+|npcid:2615,x:4698,y:5129
+|npcid:16253,x:4704,y:5120
+|npcid:2625,x:4675,y:5176
+|npcid:2624,x:4707,y:5172
+|npcid:2624,x:4715,y:5177
+|npcid:2624,x:4717,y:5147
+|npcid:2624,x:4725,y:5152
+|npcid:2624,x:4725,y:5172
+|npcid:2624,x:4729,y:5162
+|npcid:2615,x:4748,y:5078
+|npcid:2614,x:4755,y:5068
+|npcid:2611,x:4761,y:5083
+|npcid:15194,x:4741,y:5171
+|npcid:15193,x:4745,y:5171
+|npcid:16248,x:4786,y:5124
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc = [[TzHaar City]] side area
+|lvls = 86
+|mem = Yes
+|mapID = -1
+|plane = 0
+|npcid:15194,x:4496,y:5281
+|leagueRegion = Karamja
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Obsidian equipment===
+''There is a 9/101 chance to roll obsidian equipment. A second roll determines which: 4/128 for a TzHaar-Ket-Om, 4/128 for Toktz-ket-xil, 5/128 for obsidian cape, or 115/128 for 600-1900 tokkul.''
+{{DropsTableHead}}
+{{DropsLine|name=TzHaar-Ket-Om|quantity=1|rarity=36/12928}}<!-- 9/101 -> 4/128 -->
+{{DropsLine|name=Toktz-ket-xil|quantity=1|rarity=36/12928}}<!-- 9/101 -> 4/128 -->
+{{DropsLine|name=Obsidian cape|quantity=1|rarity=45/12928}}<!-- 9/101 -> 5/128 -->
+{{DropsTableBottom}}
+
+===Gems===
+{{TzhaarGemDropTable|16/101}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Tokkul|quantity=300-1900|rarity=4363/12928|gemw=No|altvalue=22|raritynotes={{DropNote|26/101 for this tokkul amount directly, plus 1035/12928 from a failed obsidian equipment roll.}}}}
+{{DropsLine|name=Tokkul|quantity=150-950|rarity=40/101|gemw=No|altvalue=22}}
+{{DropsLine|name=Chilli potato|quantity=1|rarity=6/101}}
+{{DropsLine|name=Super defence (1)|quantity=1|rarity=4/101|raritynotes={{DropNote|name=potions|Potions are dropped together.}}}}
+{{DropsLine|name=Super strength (1)|quantity=1|rarity=4/101|raritynotes={{DropNote|name=potions}}}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Obsidian charm|quantity=2|rarity=622.643/1000|gemw=No}}
+{{DropsLine|name=Ring of stone|quantity=1|rarity=1/5000|altrarity=1/4850|raritynotes={{DropNote|1/4,850 if you have tier 2 [[luck]] or higher active.}}|citations={{CiteGeneral|url=https://runescape.wiki/w/TokHaar-Hok?type=revision&diff=30002840&oldid=29794267|title=TokHaar-Hok|accessdate=10 June 2020|author=Mod Shauny|date=8 October 2019|archiveurl=https://reldo.runescape.wiki/i/102614|archivedate=10 June 2020|quote=Rarity = 1/5000. 1/4850 if you have tier 2+ Luck active.}}}}
+{{DropsLineEffigy|level=86}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Jungle Predator}}
+** [[TzHaar-Ket-Om]], [[Toktz-ket-xil]], [[obsidian cape]], and [[ring of stone]] drops
+
+==Gallery==
+<gallery heights="190">
+TzHaar - Warrior cast.png|Concept art for the 2012 TzHaar-Ket model.
+</gallery>
+
+==Graphical updates==
+===NPC===
+{{GU|subject=NPCs
+|{{GUL|date=[[19 September]] [[2005]]|update=Massive minigame - Fight Pits|img=TzHaar-Ket (2005).png|name=TzHaar-Ket}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=TzHaar-Ket (2008).png|name=TzHaar-Ket}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=TzHaar-Ket.png|name=TzHaar-Ket}}
+}}
+
+===Chathead===
+{{GU|subject=chathead
+|{{GUL|date=[[19 September]] [[2005]]|update=Massive minigame - Fight Pits|img=TzHaar-Ket chathead (2005).png|name=TzHaar-Ket}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=TzHaar-Ket chathead (2008).png|name=TzHaar-Ket}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=TzHaar-Ket chathead.png|name=TzHaar-Ket}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Massive minigame - Fight Pits|date=19 September 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* TzHaar-Ket were available as neutral units in [[Armies of Gielinor]]. While the game's canonicity is dubious, this could indicate that the TzHaar participated in the God Wars, albeit it is unknown who they would've be fighting for or against.
+** A rogue TzHaar-Ket took part in the first assault on [[Eastbridge]], along with [[Barbarians]].
+** In the Guthix Campaign of [[Armies of Gielinor]] on the level "King of the Hill", there are special TzHaar-Kets called Flame Keepers. They are under the command of Flametongue, better known as [[Verak Lith]], a three-headed dragon like the [[King Black Dragon]].
+* These monsters' default action is to attack, no matter what your combat level is. It is unknown whether this was meant to be implemented or simply a glitch.
+* According to ''[[RuneScape - The First 20 Years]]'', the TzHaar-Ket's appearance were visually inspired by crustaceans.
+
+==References==
+{{Reflist}}
+
+{{The Brink of Extinction}}
+{{TzHaar}}
+{{TzHaar City}}

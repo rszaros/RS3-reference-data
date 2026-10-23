@@ -1,0 +1,167 @@
+{{Otheruses|the monster in the [[Heart of Gielinor]]|other uses|Hellhound (disambiguation)}}
+{{Infobox Monster
+|name = Hellhound
+|image = [[File:Hellhound (Heart of Gielinor).png|x280px]]
+|release = [[29 March]] [[2016]]
+|update = God Wars Dungeon 2
+|members = Yes
+|options = Attack
+|examine = From the maws of hell.
+|level = 108
+|lifepoints = 8000
+|experience = 400.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 334.2
+|slayercat = Hellhounds
+|assigned_by = Sumona, Lapalok, Kuradal, Mandrith
+|max_melee = 768
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 80
+|ranged = 80
+|magic = 80
+|necromancy = 1
+|acc_melee = 1924
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1694
+|defence = 75
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Desert
+|id = 22487
+}}
+'''Hellhounds''' can be found in the [[Heart of Gielinor]]. They can be fought for killcount for the [[Zamorak]] faction.
+
+Equipping a [[Zamorak insignia]] or [[Shard of Mah]] makes them non-aggressive.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Heart of Gielinor]]
+|lvls=108
+|mem=yes
+|mapID=693
+|npcid:22487,x:3134,y:7029|npcid:22487,x:3127,y:7041|npcid:22487,x:3166,y:7020
+|npcid:22487,x:3183,y:7018|npcid:22487,x:3186,y:7023|npcid:22487,x:3151,y:7036
+|npcid:22487,x:3151,y:7036|npcid:22487,x:3151,y:7036|npcid:22487,x:3151,y:7036
+|npcid:22487,x:3151,y:7036|npcid:22487,x:3151,y:7036|npcid:22487,x:3151,y:7036
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Ingression fragment|quantity=5-9|rarity=Always|gemw=No}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Acadia shortbow|quantity=1|rarity=9/126}}
+{{DropsLine|name=Acadia longbow|quantity=1|rarity=8/126}}
+{{DropsLine|name=Water battlestaff|quantity=1|rarity=2/126}}
+{{DropsLine|name=Fire battlestaff|quantity=1|rarity=2/126}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril arrow|quantity=40-60|rarity=9/126}}
+{{DropsLine|name=Adamant arrow|quantity=50-100|rarity=4/126}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|5/126}}
+{{DropsTableHead}}
+{{HerbDropTable|5/126}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|4/126}}
+{{DropsTableHead}}
+{{RareSeedDropTable|4/126}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Super strength (1)|quantity=1|rarity=4/126}}
+{{DropsLine|name=Super ranging potion (1)|quantity=1|rarity=4/126}}
+{{DropsLine|name=Super magic potion (1)|quantity=1|rarity=4/126}}
+{{DropsLine|name=Chocolate cake|quantity=2|rarity=9/126}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny blunt mithril salvage|quantity=1|rarity=9/126}}
+{{DropsLine|name=Tiny blunt adamant salvage|quantity=1|rarity=8/126}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=12/126}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=800-1200|rarity=9/126}}
+{{DropsLine|name=Coins|quantity=2500-3500|rarity=4/126}}
+{{DropsTableBottom}}
+
+===Furniture plans===
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Zamorak altar|quantity=1|rarity=}}
+{{DropsLine|name=Furniture plans: Zamorak rug|quantity=1|rarity=}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=15/126}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/126}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2016]]|update=God Wars Dungeon 2|img=Hellhound (Heart of Gielinor) (2016).png|name=Hellhound (Heart of Gielinor)}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Hellhound (Heart of Gielinor) (2022).png|name=Hellhound (Heart of Gielinor)}}
+|{{GUL|date=[[6 February]] [[2023]]|update=Prepping For Fort Forinthry - This Week In RuneScape|img=Hellhound (Heart of Gielinor).png|name=Hellhound (Heart of Gielinor)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Prepping For Fort Forinthry - This Week In RuneScape|date=6 February 2023}}
+** Updated the appearance of hellhounds by adjusting their roughness and metal spec values.
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Hellhounds have been graphically updated.
+
+* {{UL|type=update|update=God Wars Dungeon 2|date=29 March 2016}}
+** Added to game.
+}}
+
+{{Heart of Gielinor}}
+{{Demons}}
+[[Category:Heart of Gielinor dropping monsters]]
+[[Category:Zamorakians]]

@@ -1,0 +1,147 @@
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|name = Ghost
+|image1 = [[File:Ghost-19.png|x280px]]
+|image2 = [[File:Ghost (Stronghold of Security, 2).png|x280px]]
+|image3 = [[File:Ghost (Stronghold of Security, 3).png|x280px]]
+|image4 = [[File:Ghost (Stronghold of Security, 4).png|x280px]]
+|image5 = [[File:Ghost (Stronghold of Security, 5).png|x280px]]
+|release1 = [[4 July]] [[2006]]
+|release2 = [[4 July]] [[2006]]
+|release3 = [[22 January]] [[2007]]
+|release4 = [[22 January]] [[2007]]
+|release5 = [[22 January]] [[2007]]
+|update1 = Security and free-to-play update - the Stronghold of Security
+|update2 = Security and free-to-play update - the Stronghold of Security
+|update3 = The Lair of Tarn Razorlor
+|update4 = The Lair of Tarn Razorlor
+|update5 = The Lair of Tarn Razorlor
+|members = No
+|options = Attack, Examine
+|race = Ghost
+|examine = Eeek! A ghost!
+|level = 46
+|lifepoints = 5300
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 59.2
+|slayercat = Ghosts, Undead
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 825
+|max_necromancy = 0
+|max_spec = 0
+|style = Magic
+|primarystyle = Magic
+|speed = 5
+|attack = 1
+|ranged = 1
+|magic = 33
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 402
+|acc_necromancy = 0
+|abilities = No
+|armour = 502
+|defence = 33
+|weakness = Thrown
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|leagueRegion = Misthalin
+|id1 = 4387
+|id2 = 4388
+|id3 = 5369
+|id4 = 5370
+|id5 = 5371
+}}
+The '''ghosts''' are an undead monster that is found on level 4 of [[Stronghold of Security]] - Sepulchre of Death. They are all level 46.
+
+As they are undead, the [[salve amulet]] effects work well on them. While ghosts are not very effective combat training, they are a slayer task assigned by [[Jacquelyn]] and [[Vannaka]] and  have a chance of dropping [[ghost hunter equipment]] and the [[ectoplasmator]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Stronghold of Security]] - Sepulchre of Death
+|lvls = 46
+|mem = No
+|mapID = 24
+|npcid:4387,x:144,y:5
+|npcid:4387,x:145,y:13
+|npcid:4387,x:148,y:20
+|npcid:4387,x:149,y:10
+|npcid:4388,x:97,y:49
+|npcid:4388,x:97,y:57
+|npcid:4388,x:98,y:45
+|npcid:4388,x:98,y:59
+|npcid:4388,x:101,y:62
+|npcid:4388,x:103,y:53
+|npcid:4388,x:106,y:53
+|npcid:4388,x:106,y:60
+|npcid:4388,x:107,y:52
+|npcid:4388,x:108,y:43
+|npcid:4388,x:114,y:51
+|npcid:4388,x:117,y:44
+|npcid:5370,x:110,y:40
+|npcid:5370,x:114,y:46
+|npcid:5370,x:116,y:40
+|npcid:5370,x:144,y:16
+|npcid:5370,x:146,y:10
+|npcid:5369,x:107,y:42
+|npcid:5369,x:117,y:48
+|npcid:5369,x:118,y:42
+|npcid:5369,x:140,y:10
+|npcid:5369,x:146,y:18
+|npcid:5371,x:112,y:42
+|npcid:5371,x:112,y:45
+|npcid:5371,x:113,y:41
+|npcid:5371,x:146,y:16
+|npcid:5371,x:148,y:9
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLineGhostlyEssence|quantity=1-2|rarity=Rare}}
+{{DropsLineGhosts}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (16 April 2018)|date=16 April 2018}}
+** Ghosts in F2P are once again able to drop the Cremation ability and ghost hunter outfit.
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Zombies, skeletons and ghosts have been graphically updated.
+
+* {{UL|type=update|update=Security and free-to-play update - the Stronghold of Security|date=4 July 2006}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Ghost}}

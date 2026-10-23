@@ -1,0 +1,106 @@
+{{External|os}}
+{{Otheruses|the monster|the music track|Evil Spirit (music track)}}
+{{Infobox Monster
+|name = Evil spirit
+|image = [[File:Evil spirit.png]]
+|release = [[31 October]] [[2005]]
+|update = Rum Deal
+|members = Yes
+|options = Attack, Examine
+|examine = The pun was intended.
+|level = 56
+|lifepoints = 6500
+|experience = 325
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp =
+|slayercat = Ghosts, Undead
+|max_melee = 160
+|max_ranged = 160
+|max_magic = 160
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 40
+|ranged = 40
+|magic = 40
+|necromancy = 1
+|acc_melee = 628
+|acc_ranged = 628
+|acc_magic = 628
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|weakness = None
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 2849
+|leagueRegion=Morytania}}
+The '''evil spirit''' is the [[boss]] in [[Rum Deal]]. It only attacks with [[Melee]], so turning on [[Protect from Melee]] or [[Deflect Melee]] is sufficient in protecting a player from most damage. High-levelled players should not worry about this battle, as the spirit is rather weak, has no weakness, and has few life points for its level.
+
+A two-handed weapon can kill it relatively quickly. Poison is not necessary, as the spirit is immune to its effects. If a player is above level 80 and uses Protect from Melee, there is little need for [[food]].
+
+==Habitats==
+The [[Braindeath Island]] Brewery. 
+Players must have made sufficient progress in [[Rum Deal]] to be able to fight it. 
+Players are able to fight it when they bang their [[Holy Wrench]] on the "possessed" [[brewing control]]s.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Accursed ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineGhosts|ectorarity=500|herbrarity=1024}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Evil spirit (2005).png|name=Evil spirit}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Evil spirit.png|name=Evil spirit}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Update:Combat Update & Thok's Smashing Buffs- This Week In RuneScape|date=4 March 2024}}
+** Increased the base hit chance of all the following bosses to use the standard base hit chances.
+** Increased the life points of the boss: Evil Spirit - Rum Deal
+*** HP: 2000 -> 6500
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (12 April 2011)|date=12 April 2011}}
+** This boss now drops accursed ashes.
+
+* {{UL|type=update|update=Rum Deal|date=31 October 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The 'pun intended' comment on its examine text is a reference to a spirit, which is a type of alcohol and [[Braindeath 'rum']], which is an evil alcohol.
+
+==References==
+{{Reflist}}
+
+{{Rum Deal}}
+{{Ghost}}
+[[Category:Quest monsters]]
+[[Category:Unique monsters]]
+[[Category:Antagonists]]
+[[Category:Deceased characters]]

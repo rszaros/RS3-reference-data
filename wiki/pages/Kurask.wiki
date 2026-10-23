@@ -1,0 +1,257 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Variant 1
+|version2 = Variant 2
+|name = Kurask
+|image = [[File:Kurask.png|200px]]
+|release = [[26 January]] [[2005]]
+|update = Slayer Skill
+|members = Yes
+|options = Attack, Examine
+|examine1 = Large, heavy, with sharp things attached to its head.
+|examine2 = Larger, heavier, with sharper things attached to its head.
+|level = 78
+|lifepoints = 5600
+|experience = 280.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 70
+|slayxp = 115
+|slayercat = Kurask
+|assigned_by = Chaeldar,Sumona
+|max_melee = 224
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 56
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1011
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1011
+|defence = 56
+|weakness = Air
+|susceptibility = Leaf-bladed
+|derived_susceptibility = No
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 1608
+|id2 = 1609
+|leagueRegion = Fremennik, Desert
+}}
+[[File:Kurask icon.png|left]]
+'''Kurask''' are large, green, armoured monsters that can be found in the second to last chamber of the [[Fremennik Slayer Dungeon]] and on the lower level of the [[Pollnivneach Slayer Dungeon]]. They require 70 [[Slayer]] to kill. Kurasks, like [[turoth]]s, must be killed with certain weapons (listed [[#Strategy|below]]). A kurask task can be forced if the player is wearing a [[Mask of the Kura]] or [[Helm of the Kuraski]] and asking for assignment from [[Chaeldar]] or [[Sumona]].
+
+This monster has a pet version known as the [[baby kurask]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Fremennik Slayer Dungeon]]
+|lvls=78
+|mem=yes
+|mapID=5
+|npcid:1608,x:2694,y:9995|npcid:1609,x:2694,y:9999|npcid:1608,x:2698,y:9992
+|npcid:1608,x:2699,y:10001|npcid:1608,x:2701,y:9996
+|leagueRegion = Fremennik}}
+{{LocLine
+|loc=[[Pollnivneach Slayer Dungeon]]
+|lvls=78
+|mem=yes
+|mapID=22
+|npcid:1608,x:98,y:94|npcid:1608,x:102,y:117|npcid:1608,x:105,y:102
+|npcid:1609,x:105,y:122|npcid:1609,x:106,y:93|npcid:1609,x:111,y:88
+|npcid:1609,x:111,y:109|npcid:1608,x:111,y:115|npcid:1608,x:113,y:96
+|npcid:1608,x:114,y:122|npcid:1608,x:117,y:106|npcid:1609,x:117,y:117
+|npcid:1609,x:124,y:102|npcid:1609,x:124,y:121|npcid:1608,x:126,y:113
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Strategy==
+===Items to bring===
+Kurasks must be killed with one of these weapons:
+
+* Melee:
+** [[Leaf-bladed spear]] (2H - Tier 50)
+** [[Leaf-bladed sword]] and [[Off-hand leaf bladed sword]] (Dual wield - Tier 50)
+* Magic: [[Slayer Dart]] spell (Tier 65) used with either:
+** [[Slayer's staff]] (2H - Tier 50)
+** [[Staff of light]] (2H - Tier 75)
+** [[Abyssal wand]] and [[Abyssal orb]] (Dual wield - Tier 75)
+** [[Staff of darkness]] (2H - Tier 85)
+* Ranged: A fitting ranged weapon with any of the following ammunition:
+** [[Broad arrows]] (Bow - Tier 55)
+** [[Broad-tipped bolts]] (Crossbow - Tier 55)
+** [[Royal bolts]] (Crossbow - Tier 80)
+** [[Ascension bolts]] (Crossbow - Tier 90)
+* Necromancy:
+** Necromancy does not affect kurasks.
+
+===Strengths and weaknesses===
+Players must use a [[leaf-bladed weapon]], [[broad arrow]]s, [[broad-tipped bolts]], [[royal bolts]], [[ascension bolts]], or the [[Slayer Dart]] spell when fighting these. Using any other weapon is completely ineffective. The [[dwarf multicannon]] and its variants do not deal damage, although they will still cause Kurasks to target the player. Deflect curses will reflect damage, although the amount will be reduced. Familiar damage is unaffected.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+These roll in this order before the rest of the drops and will prevent the rest of the drops if successful (except bones and kurask head, but including charms).
+{{DropsTableHead}}
+{{DropsLine|name=Light mystic robe top|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|1/496 with tier 2 or higher [[luck]] active.}}}}
+{{DropsLine|name=Kurask boots|quantity=1|rarity=1/512|altrarity=1/360|altrarity2=1/496|altrarity3=1/349|raritynotes={{DropNote|While not on an applicable Slayer task: 1/512, 1/496 with tier 2 or higher [[luck]] active. While on-task: 1/360, 1/349 with tier 2 luck.}}}}
+{{DropsLine|name=Leaf-bladed sword|quantity=1|rarity=1/1024|raritynotes={{DropNote|1/512 to choose one of the two swords. 1/506 for either sword (1/1012 for specific) if tier 2 or higher luck is active.|name=lbswords}}|altrarity=1/1012}}
+{{DropsLine|name=Off-hand leaf-bladed sword|quantity=1|rarity=1/1024|raritynotes={{DropNote|name=lbswords}}|altrarity=1/1012}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|10/128}}
+{{DropsTableHead}}
+{{RareSeedDropTable|10/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Huge plated adamant salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1200-1600|rarity=18/128}}
+{{DropsLine|name=Coins|quantity=1500-2500|rarity=10/128}}
+{{DropsLine|name=Flax|quantity=50 (noted)|rarity=14/128}}
+{{DropsLine|name=Uncut emerald|quantity=1|rarity=10/128}}
+{{DropsLine|name=Yew wood spirit|quantity=3|rarity=10/128}}
+{{DropsLine|name=Limpwurt root|quantity=2 (noted)|rarity=10/128}}
+{{DropsLine|name=White berries|quantity=2 (noted)|rarity=10/128}}
+{{DropsLine|name=Unfinished broad bolts|quantity=50|rarity=8/128}}
+{{DropsLine|name=Broad arrowheads|quantity=50|rarity=8/128}}
+{{DropsLine|name=Spirit weed seed|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Kurask head|quantity=1|rarity=1/3000|altrarity=1/1500|altrarity2=1/2910|altrarity3=1/1455|raritynotes={{DropNote|Wearing the [[Mask of the Kura]] or the [[Helm of the Kuraski]] increases the drop chance of this item to 1/1,500. If tier 2 [[luck]] is active, drop chance is increased to 1/2910, or 1/1455 with slayer mask.}}|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Kurask head: 1/3000 (1/1500 while wearing the helm of the kuraski)|date=9 October 2019|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}|gemw=no|alch=no}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=78}}
+{{DropsLineEffigy|level=78}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity=1
+|gold=89.847/1000
+|green=269.54/1000
+|crimson=67.385/1000
+|blue=13.477/1000
+}}
+
+==Products==
+{{Uses facility list|Kurask}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Kurasks (Fremennik Slayer Dungeon).png|thumb|left|Kurask in the Fremennik dungeon.
+</gallery>
+
+==Biology and nature==
+Kurask are somewhat similar to gorillas, although they share some traits with other animals such as their large horns which are similar to a bull's. They are grey to pale green in colour and have rows of hooked horns protruding from their back. They have three stomachs, the third of which has a special stomach lining that prevents food from being digested. Within the stomach a ceremonial fruit is stored for the duration of the kurask's life. Their lifespan is of an unknown length, but surpasses that of [[human]]s. They ideally come of age at 80 years. There is also evidence that they can breathe underwater.
+
+It was revealed in issue 23 of [[Postbag from the Hedge]] that kurask are somewhat intelligent, and have their own rites of passage and [[Languages#Kurask language|language]].{{CitePostbag |issue = 23|letter =Letter 5|author=Skuhavi |name = postbag}} Kurask society dictates that individuals should not come in contact with other races unless they are hunting. Those that disobey this are generally shunned or even banished.
+
+At age 80 kurask partake in a coming-of-age ritual called ''Kurisk''. This generally kills one-third of those that attempt it. The kurask are sent "over a plain" and then "under the sea" to retrieve a fruit from the human lands (this is thought to mean through northern [[Kandarin]], under the [[Southern Sea]], and onto [[Karamja]]). Those that return are treated as adults.
+
+{{cquote2|To become a ''kuraski'', at the age of 80, a ''kura'' must leave the cave and complete the rite of ''Kurisk'' [...] a ''kura'' must then pluck a fruit from a tree and bring it back to ''Kuriskia''.
+
+Then they become ''kuraski'' and the fruit is ingested whole, held in a third stomach until death and preserved by our stomach lining. You did not, by any chance, eat it, did you?|Skuhavi{{NamedRef|postbag}}}}
+
+Since the discovery of the Slayer Dungeon beneath the [[Kharidian Desert|Kharidian]] settlement [[Pollnivneach]], kurask society's origins and schisms have been called into greater question. The nature of the Pollnivneach Slayer Dungeon is still largely unknown, although its workings are obviously artificial; it possesses constructed portals to the Fremennik caves, amongst other slayer-related locations. It is unknown whether kurask originated in the Kharidian Desert or Fremennik Province, if either.
+
+The idea of living in solitude and isolation that governs kurask society is very similar in nature to that of the [[scabarite]] race which follows [[Scabaras]]'s ideologies. If the kurask race originated in the Kharidian Desert, it is possible that they were influenced by the scabarites, who were very active (although at the time probably all humans) during the [[Third Age]], roughly when the dungeon is believed to have been created and active.
+
+===Language===
+Kurask possess a basic language. Little is known of it, and only a few words have been translated; most by [[Skuhavi]], a kurask banished for his interest in humans. Below is a list of known words in the kurask language.{{NamedRef|postbag}}
+
+*''Skutask'' - Interest.
+*''Shallask'' - Alas, or an expression of anger/regret.
+*''Skarooom'' - Dooom!
+*''Kuraski'' - A kurask that has completed ''Kurisk'', an adult. Must be at least 80 years old.
+*''Kura'' - A child, or one who has not completed ''Kurisk''.
+*''Kurisk'' - Rite performed by ''Kura''. Named after [[Kurisk|a legendary kurask hero]] that first performed the travel to Karamja.
+*''Kuriskia'' - A kurask city.
+
+==Achievements==
+* {{Achievement|The Start of Something New}} 
+** [[Light mystic robe top]], [[kurask boots]], [[kurask head]], and [[Leaf-bladed sword|main]] and [[off-hand leaf-bladed sword]] drops
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Kurask (2005).png|name=Kurask}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Kurask (2008).png|name=Kurask}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Kurask.png|name=Kurask}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=July Quest Qol and Game Health Update - This Week In RuneScape|date=14 July 2025}}
+** Added new sources for [[spirit weed seed|Spirit Weed Seeds]], [[inert adrenaline crystal|Inert Adrenaline Crystals]] and [[sirenic scale|Sirenic Scales]] across various [[Slayer]] monsters:
+*** Spirit Weed seeds - [[Automaton (monster)|Automatons]], [[Strykewyrm]]s, [[Turoth]]s, [[gemstone dragon|Gemstone Dragons]] (on task), [[brutisch dinosaur|Brutish Dinosaurs]], [[Grotworm]]s, [[moss giant|Moss Giants]], [[flesh crawler|Flesh Crawlers]], [[Cockatrice]]s, Kurask and [[seed drop table|Rare Seed Drop Table]].
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[banana]] drop with [[yew wood spirit]]s.
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes kurasks.
+
+* {{UL|type=ninja|update=Patch Notes (26 August 2014)|date=26 August 2014}}
+** All Kurask models and animations have been updated.
+
+* {{UL|type=patch|update=Patch Notes (4 June 2013)|date=4 June 2013}}
+** Kurasks can no longer be attacked with spells other than [[Slayer Dart]] whilst wielding the [[Slayer's staff]].
+
+* {{UL|type=patch|update=Patch Notes (4 March 2013)|date=4 March 2013}}
+** An issue with generic weapons causing damage to [[Turoth]]s and Kurasks who should otherwise be immune has been fixed.
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Prior to the [[Update:Order of Ascension|release]] of the [[Order of Ascension]], it was possible to kill kurasks (and [[turoth]]) using any spell, as long as a [[Slayer staff]] or [[staff of light]] was equipped. This no longer works, and [[Slayer Dart]] is now required to kill them with magic, as had originally been intended.
+* Although the examine text of the second variant states that it's larger, both variants have been identical since the 2014 graphical update.
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+[[Category:Tier 2 luck]]

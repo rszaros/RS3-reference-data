@@ -1,0 +1,101 @@
+{{External|os|rsc=Karamja Wolf}}
+{{Infobox Monster
+|name = Jungle Wolf
+|image = [[File:Jungle Wolf.png|150px]]
+|release = [[20 August]] [[2003]]
+|update = New - Legends Quest!
+|members = Yes
+|actions = Attack
+|examine = A rare jungle wolf - specific to the Kharazi jungle.
+|leagueRegion = Karamja
+|level = 78
+|lifepoints = 9200
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 81
+|slayercat = Wolves
+|assigned_by = turael, mazchna, Vannaka
+|max_melee = 1160
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 58
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 970
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 955
+|defence = 54
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 143
+}}
+'''Jungle Wolves{{sic}}''' are an uncommon type of [[wolf]] found in the [[Kharazi Jungle]]. They only drop [[wolf bones]] and [[raw wolf meat]] when killed. If you get wolves as a [[slayer]] assignment, you can slay these for the task. They are aggressive to all players and will start pursuing from a distance. They are similar to regular wolves, but the main differences are their colour and location.
+
+Their location in the jungle makes them hard to reach; if one plans to hunt Jungle wolves, be aware that many other native animals are poisonous, so be sure to have [[antipoison]]. There are only seven Jungle wolves in the entire Kharazi jungle, so finding them may be difficult.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Kharazi Jungle]]
+|lvls=78
+|mem=yes
+|requirements = {{QuestIcon|Legends' Quest}}
+|mapID=28
+|npcid:143,x:2775,y:2913|npcid:143,x:2789,y:2932|npcid:143,x:2801,y:2899
+|npcid:143,x:2813,y:2917|npcid:143,x:2824,y:2896|npcid:143,x:2827,y:2924
+|npcid:143,x:2842,y:2899|npcid:143,x:2861,y:2907|npcid:143,x:2862,y:2899
+|npcid:143,x:2887,y:2929|npcid:143,x:2893,y:2893|npcid:143,x:2911,y:2894
+|npcid:143,x:2915,y:2906|npcid:143,x:2918,y:2927|npcid:143,x:2919,y:2907
+|npcid:143,x:2941,y:2887
+|leagueRegion = Karamja
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|kills=1477}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw wolf meat|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Wolf bones are only dropped during [[Rag and Bone Man/Wish list]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=New - Legends Quest!|date=20 August 2003}}
+** Added to game.
+}}
+
+{{Legends' Quest}}
+{{Wolves}}
+{{Kharazi Jungle}}

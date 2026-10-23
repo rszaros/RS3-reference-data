@@ -1,0 +1,155 @@
+{{external|os=Choke devil}}
+{{Infobox Monster
+|name = Dust devil
+|image = [[File:Dust devil.png|200px]]
+|release = [[27 July]] [[2015]]
+|update = Elite Monster Spawns
+|members = Yes
+|options = Attack
+|examine = The vacuumed face of true evil.
+|level = 95
+|lifepoints = 32000
+|experience = 1600.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 65
+|slayxp = 684
+|slayercat = Dust devils
+|assigned_by = chaeldar, sumona, duradel, kuradal
+|max_melee = 0
+|max_ranged = 732
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 76
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 1335
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1973
+|defence = 61
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 21503
+|leagueRegion = Wilderness, Desert
+}}
+A '''Dust devil (elite)''' is an [[elite monster|elite version]] of the [[dust devil]]. If on a [[Slayer assignment]], an elite Dust devil is guaranteed to spawn; otherwise, elite monsters have a spawn rate of 1 in 1,000. Elite spawn rates can be further increased with the use of [[fellstalk incense stick]]s and tier 2 [[luck]]. 
+
+Unlike its normal counterparts, It will occasionally stun the player for 3 seconds at a time, so having [[Freedom]] and [[Anticipation]] will come in handy when facing it.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=85
+|mem=yes
+|mapID=23
+|npcid:1624,x:3166,y:5513|npcid:1624,x:3167,y:5517|npcid:1624,x:3170,y:5512
+|npcid:1624,x:3175,y:5514|npcid:1624,x:3177,y:5523|npcid:1624,x:3178,y:5521
+|npcid:1624,x:3179,y:5528|npcid:1624,x:3180,y:5517
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Smoke Dungeon]]
+|lvls=85
+|mem=yes
+|mapID=591
+|npcid:1624,x:3213,y:9361|npcid:1624,x:3215,y:9355|npcid:1624,x:3217,y:9400
+|npcid:1624,x:3218,y:9365|npcid:1624,x:3218,y:9373|npcid:1624,x:3220,y:9347
+|npcid:1624,x:3221,y:9383|npcid:1624,x:3224,y:9396|npcid:1624,x:3226,y:9352
+|npcid:1624,x:3233,y:9398|npcid:1624,x:3234,y:9364|npcid:1624,x:3236,y:9402
+|npcid:1624,x:3237,y:9377|npcid:1624,x:3243,y:9383|npcid:1624,x:3245,y:9349
+|npcid:1624,x:3245,y:9400|npcid:1624,x:3250,y:9349|npcid:1624,x:3259,y:9372
+|npcid:1624,x:3261,y:9399
+|leagueRegion = Desert
+}}
+{{LocTableBottom}}
+
+==Names==
+The elite versions have varying names, with a randomly generated prefix and suffix.
+{{Elite names|name=Dust devil}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mobname=elite dust devil}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Dragon chainbody|quantity=1|rarity=1/4096|altrarity=1/3973|rolls=3|raritynotes={{DropNote|1/3,973 with tier 2 [[luck]] or higher.}}}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Rune arrow|quantity=80|rarity=8/40|rolls=3}}
+{{DropsLine|name=Soul rune|quantity=25|rarity=2/40|rolls=3}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=4000|rarity=10/40|rolls=3}}
+{{DropsLine|name=Bucket of sand|quantity=40 (noted)|rarity=4/40|rolls=3}}
+{{DropsLine|name=Soda ash|quantity=40, 80 (noted)|rarity=4/40|rolls=3}}
+{{DropsLine|name=Tiny spiky rune salvage|quantity=1|rarity=4/40|rolls=3}}
+{{DropsLine|name=Mithril stone spirit|quantity=4|rarity=4/40|rolls=3}}
+{{DropsTableBottom}}
+
+====Gem drop table====
+{{GemDropTable|4/40|rolls=3}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=95|rolls = 3}}
+{{DropsLineSpiritGems|rolls = 3}}
+{{DropsLineMimic|level=95|rolls = 3}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|rolls = 3
+|gold = 121.405/1000
+|green = 60.702/1000
+|crimson = 242.809/1000
+|blue = 8.094/1000
+}}
+
+==Achievements==
+* {{Achievement|Sand in My Loot}}
+** [[Dragon chainbody]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Elite Monster Spawns|date=27 July 2015}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Elite monster}}
+{{Slayer monsters}}

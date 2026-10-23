@@ -1,0 +1,155 @@
+{{external|os=Malevolent Mage}}
+{{Infobox Monster
+|name = Infernal Mage
+|image = [[File:Infernal Mage (elite).png|250px]]
+|release = [[27 July]] [[2015]]
+|update = Elite Monster Spawns
+|members = Yes
+|actions = Attack
+|examine = An incredibly evil magic user.
+|level = 77
+|lifepoints = 21,000
+|experience = 
+|aggressive = No
+|poisonous = No
+|slaylvl = 45
+|slayxp = 596
+|slayercat = Infernal mages
+|assigned_by = Chaeldar
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 1240
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 62
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 1097
+|acc_necromancy = 0
+|abilities = Combust
+|armour = 850
+|defence = 50
+|weakness = Arrows
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania,Wilderness
+|id = 21504
+}}
+An''' Infernal Mage (elite)''' is an [[elite monster|elite version]] of the [[Infernal Mage]]. If on a [[Slayer assignment]], an elite Infernal Mage is guaranteed to spawn; otherwise, elite monsters have a spawn rate of 1 in 1,000. Elite spawn rates can be further increased with the use of [[fellstalk incense sticks]] and tier 1 [[luck]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Slayer Tower]] {{floorNumber|2}}
+|lvls=63
+|mem=yes
+|mapID=28|plane=1
+|npcid:1646,x:3400,y:3560|npcid:1644,x:3402,y:3557|npcid:1643,x:3402,y:3563
+|npcid:1645,x:3403,y:3570|npcid:1643,x:3407,y:3557|npcid:1647,x:3409,y:3560
+|npcid:1644,x:3409,y:3573|npcid:1646,x:3410,y:3566|npcid:1645,x:3411,y:3563
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=63
+|mem=yes
+|mapID=23
+|npcid:1645,x:3189,y:5523|npcid:1645,x:3191,y:5532|npcid:1645,x:3193,y:5530
+|npcid:1645,x:3196,y:5525|npcid:1644,x:3236,y:5456|npcid:1647,x:3237,y:5453
+|npcid:1644,x:3238,y:5455|npcid:1645,x:3239,y:5451|npcid:1643,x:3242,y:5449
+|npcid:1647,x:3243,y:5445|npcid:1643,x:3244,y:5450|npcid:1643,x:3246,y:5446
+|npcid:1646,x:3246,y:5449|npcid:1647,x:3249,y:5447
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Names==
+The elite versions have varying names, with a randomly generated prefix and suffix.
+{{Elite names|name=Infernal mage}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+Three 1/256 rolls are performed to obtain any of the following drops. If the pre-roll fails, a common drop will be rolled instead.
+
+{{DropsTableHead}}
+{{DropsLine|name=Lava battlestaff|quantity=1|rarity=1/768|rolls=3|citations={{CiteTwitter|author=Mod Ash|url=https://twitter.com/JagexAsh/status/834717543243927552|quote=1 / 1k chance.|date=23 February 2017|archiveurl=https://archive.ph/efSKK|archivedate=30 April 2020}}}}
+{{DropsLine|name=Dark mystic boots|quantity=1|rarity=1/768|rolls=3|citations={{CiteForum|author=Envision|url=https://archive.fo/5P5mn|title=Drop Rates V2|postdate=29 July 2014|name=Drop Rates V2}}}}
+{{DropsLine|name=Dark mystic hat|quantity=1|rarity=1/768|rolls=3|citations={{NamedRef|Drop Rates V2}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=25|rarity=5/40|rolls=3}}
+{{DropsLine|name=Water rune|quantity=25|rarity=5/40|rolls=3}}
+{{DropsLine|name=Fire rune|quantity=25|rarity=5/40|rolls=3}}
+{{DropsLine|name=Death rune|quantity=30|rarity=10/40|rolls=3}}
+{{DropsLine|name=Blood rune|quantity=15|rarity=5/40|rolls=3}}
+{{TableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1500|rarity=5/40|rolls=3}}
+{{TableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/40|rolls=3}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=77|rolls=3}}
+{{DropsLineSpiritGems|rolls=3}}
+{{DropsLineMimic|level=77|rolls=3}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|rolls = 3
+|gold = 334.916/1000
+|green = 23.923/1000
+|crimson = 23.923/1000
+|blue = 4.785/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Elite Monster Spawns|date=27 July 2015}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Elite monster}}
+{{Slayer monsters}}
+{{Slayer Tower}}

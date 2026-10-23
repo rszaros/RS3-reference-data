@@ -1,0 +1,433 @@
+{{External|rsc|os|wp}}
+{{Otheruses|def=no}}
+{{Otheruses|def=no|the elite version|Hobgoblin (elite)}}
+{{Infobox Monster
+|version1 = Level 15
+|version2 = Level 18
+|name = Hobgoblin
+|image1 = [[File:Hobgoblin (level 28).png|200px]]
+|image2 = [[File:Hobgoblin.png|230px]]
+|release = [[6 April]] [[2001]]
+|update = Massive update!
+|members = No
+|actions = Attack
+|examine = An ugly, smelly creature.
+|examine2 = {{*}} An ugly, smelly creature, with a spear.<br /> {{*}} An ugly, smelly creature wielding a spear.
+|leagueRegion1 = Asgarnia,Fremennik,Kandarin,Misthalin,Morytania
+|leagueRegion2 = Asgarnia,Fremennik,Kandarin,Karamja,Misthalin,Morytania
+|level1 = 15
+|level2 = 18
+|lifepoints1 = 2000
+|lifepoints2 = 2250
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 35
+|slayxp2 = 39
+|slayercat = Hobgoblins
+|assigned_by = Vannaka
+|max_melee1 = 240
+|max_melee2 = 280
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 12
+|attack2 = 14
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 123
+|acc_melee2 = 145
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 202
+|armour2 = 223
+|defence1 = 10
+|defence2 = 12
+|defence3 = 65
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|dropversion1 = Level 15
+|dropversion2 = Level 18
+|id1 = 2685, 2686, 2687, 13100
+|id2 = 2688, 4898, 13246
+}}
+[[File:Hobgoblin icon.png|left]]
+'''Hobgoblins''' are [[Bandos]]ian creatures that share characteristics with both [[goblin]]s and [[ork]]s. They are [[aggressiveness|aggressive]]. The level 18 variants appear to be wielding spears.
+
+The [[Edgeville Dungeon]] is a popular location for free-to-play players to find hobgoblins. They also reside in large numbers west of the [[Crafting Guild]] on the aptly-named [[Hobgoblin Peninsula]]. [[Hobgoblin (God Wars Dungeon)]] can also be found in the [[God Wars Dungeon]]. Hobgoblins are often found in areas near water such as peninsulas, in caves, and in areas that contain [[limpwurt root]] spawns; they can drop these roots, making fighting hobgoblins an effective way to obtain them.
+
+In the quest [[Fur 'n Seek]], [[hobgoblin skin]] must be collected and cleaned for the [[Odd Old Man]].
+
+When killing hobgoblins, an [[hobgoblin (elite)|elite]] version may spawn (guaranteed while on a Slayer assignment), which can be further increased with the use of [[fellstalk incense stick]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Waterbirth Island]]
+|lvls=15
+|mem=yes
+|mapID=28
+|npcid:13100,x:2503,y:3730|npcid:13100,x:2526,y:3739
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc=[[Rellekka]]
+|lvls=18
+|mem=yes
+|mapID=28
+|npcid:13246,x:2653,y:3720|npcid:13246,x:2654,y:3729|npcid:13246,x:2659,y:3733
+|npcid:13246,x:2669,y:3725|npcid:13246,x:2675,y:3731|npcid:13246,x:2684,y:3730
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc=[[Clock Tower Dungeon]]
+|lvls=15
+|mem=yes
+|mapID=0
+|npcid:13100,x:2566,y:9632|npcid:13100,x:2573,y:9626
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Gnome Village Dungeon]]
+|lvls=15
+|mem=yes
+|mapID=502
+|npcid:13100,x:2513,y:9579|npcid:13100,x:2515,y:9578|npcid:13100,x:2515,y:9581
+|npcid:13100,x:2515,y:9583|npcid:13100,x:2518,y:9580|npcid:13100,x:2519,y:9581
+|npcid:13100,x:2511,y:9581
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Asgarnia Ice Dungeon]]
+|lvls=15, 18
+|mem=no
+|mapID=25
+|npcid:13100,x:3010,y:9578|npcid:13100,x:3010,y:9593|npcid:13100,x:3010,y:9595
+|npcid:13100,x:3011,y:9579|npcid:13100,x:3016,y:9578|npcid:13100,x:3016,y:9594
+|npcid:13246,x:3019,y:9591
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Meiyerditch Laboratories]]
+|lvls=15, 18
+|mem=yes
+|mapID=593
+|npcid:13246,x:3469,y:9796|npcid:13100,x:3469,y:9797
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Edgeville Dungeon]]
+|lvls=15, 18
+|mem=no
+|mapID=592
+|npcid:13246,x:3118,y:9871|npcid:13100,x:3122,y:9874|npcid:13246,x:3123,y:9879
+|npcid:13100,x:3126,y:9875|npcid:13246,x:3128,y:9876
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Crandor]]
+|lvls=15
+|mem=no
+|mapID=28
+|npcid:13100,x:2818,y:3291|npcid:13100,x:2822,y:3282|npcid:13100,x:2822,y:3288
+|npcid:13100,x:2824,y:3298|npcid:13100,x:2834,y:3305
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc=[[Outpost]]
+|lvls=15, 18
+|mem=yes
+|mapID=28
+|npcid:13246,x:2443,y:3359|npcid:13246,x:2445,y:3359|npcid:13100,x:2445,y:3362
+|npcid:13246,x:2446,y:3357|npcid:13100,x:2447,y:3361|npcid:13246,x:2448,y:3329
+|npcid:13246,x:2448,y:3331|npcid:13246,x:2451,y:3330
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Tai Bwo Wannai]]
+|lvls=15
+|mem=yes
+|mapID=28
+|npcid:13100,x:2787,y:3013|npcid:13100,x:2791,y:3012|npcid:13100,x:2794,y:3012
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc=[[Hobgoblin Peninsula]]
+|lvls=15, 18
+|mem=no
+|mapID=28
+|npcid:2685,x:2905,y:3295|npcid:2685,x:2906,y:3288|npcid:2687,x:2908,y:3291
+|npcid:2687,x:2909,y:3282|npcid:2686,x:2909,y:3285|npcid:2688,x:2909,y:3294
+|npcid:2685,x:2912,y:3279|npcid:2686,x:2915,y:3273|npcid:2687,x:2917,y:3269
+|npcid:2685,x:2920,y:3266
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Witchaven Dungeon]]
+|lvls=18
+|mem=yes
+|mapID=612
+|npcid:2688,x:2694,y:9687|npcid:2688,x:2696,y:9689|npcid:2688,x:2697,y:9693
+|npcid:2688,x:2699,y:9688
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Characteristics and history==
+Hobgoblins are said to be similar to a cross between [[Goblin (monster)|goblins]] and [[ork]]s{{CiteGeneral|url=http://services.runescape.com/m=rswiki/en/Special:History?topicVersionId=39603&topic=God_Wars_Dungeon|title=God Wars Dungeon|quote=Hobgoblins are like a cross between a goblin and an ork, but they lack a goblin's tenacity and an ork's brute strength. They make up for this by being almost as numerous as the goblins but far stronger.|archivedate=23 March 2016|archiveurl=https://reldo.runescape.wiki/i/14871923}}, which were brought with the other Bandosian races from [[Yu'Biusk]] in the [[Second Age]].
+
+Unlike goblins, hobgoblins have tusks, and they appear to be of lower intelligence than regular goblins; at least one intelligent [[hobgoblin geomancer]] exists in service of the [[Mahjarrat]] [[Bilrach]]; the geomancer keeps a [[hobgoblin scrawlings|diary]] and has built a shrine to Bandos. Hobgoblins are described as hardy but highly mobile {{wp|guerrilla}} soldiers.{{CiteLore|author=John Ayliff|title=History of the Goblins|url=https://www.runescape.com/lore/history-of-the-goblins|archivedate=30 September 2018|archiveurl=https://reldo.runescape.wiki/i/11061035}}
+{{clear|left}}
+
+==Champion's Challenge==
+Hobgoblins are one of the races with a champion in the [[Champion's Challenge]] Distraction and Diversion. To fight the [[Hobgoblin Champion]], the player must kill hobgoblins until one drops a [[Hobgoblin Champion's scroll]], a very rare drop.
+
+==Unarmed (level 15) hobgoblin drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Hobgoblin#Level 15}}
+
+===100%===
+{{DropsTableHead|version=Level 15}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead|version=Level 15}}
+{{DropsLine|name=Water rune|quantity=2|rarity=2/128}}
+{{DropsLine|name=Fire rune|quantity=7|rarity=2/128}}
+{{DropsLine|name=Body rune|quantity=6|rarity=2/128}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=1/128}}
+{{DropsLine|name=Chaos rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Nature rune|quantity=4|rarity=2/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|7/128}}
+{{DropsTableHead|version=Level 15}}
+{{HerbDropTable|7/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{GeneralSeedDropTableIntro|override=There is a 18/128 chance of rolling the [[Seed drop table|general seed drop table]] in members' worlds. In free-to-play worlds, 15 coins are dropped instead.}}
+{{DropsTableHead|version=Level 15}}
+{{GeneralSeedDropTable|18/128|level=15|members=yes}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead|version=Level 15}}
+{{DropsLine|name=Bronze spear|quantity=1|rarity=3/128|members=Yes|raritynotes={{DropNote|Goblin mail in free-to-play worlds.}}}}
+{{DropsLine|name=Iron spear|quantity=1|rarity=2/128|raritynotes={{DropNote|name=coins28|28 coins in free-to-play worlds.}}}}
+{{DropsLine|name=Steel spear|quantity=1|rarity=3/128|altrarity=2/128|raritynotes={{DropNote|name=coins28}}}}
+{{DropsLine|name=Steel longsword|quantity=1|rarity=1/256}}
+{{DropsLine|name=Steel off hand longsword|quantity=1|rarity=1/256}}
+{{DropsLine|name=Steel dagger|quantity=1|rarity=3/256}}
+{{DropsLine|name=Steel off hand dagger|quantity=1|rarity=3/256}}
+{{DropsLine|name=Iron sword|quantity=1|rarity=3/256}}
+{{DropsLine|name=Iron off hand sword|quantity=1|rarity=3/256}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead|version=Level 15}}
+{{DropsLine|name=Coins|quantity=5|rarity=12/128|raritynotes={{DropNote|name=outsidekaramja|Only dropped by hobgoblins outside [[Karamja]].}}|gemw=No}}
+{{DropsLine|name=Coins|quantity=15|rarity=16/128|altrarity=34/128|raritynotes={{DropNote|16/128 in members' worlds; 34/128 in free-to-play worlds.}}|gemw=No}}
+{{DropsLine|name=Coins|quantity=28|rarity=12/128|altrarity=16/128|raritynotes={{DropNote|12/128 in members' worlds; 16/128 in free-to-play worlds.}}}}
+{{DropsLine|name=Coins|quantity=42|rarity=3/128|raritynotes={{DropNote|name=outsidekaramja}}|gemw=No}}
+{{DropsLine|name=Coins|quantity=62|rarity=4/128|raritynotes={{DropNote|name=outsidekaramja}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Level 15}}
+{{DropsLine|name=Trading sticks|quantity=1|rarity=1/128|raritynotes={{DropNote|name=karamja|Only dropped by hobgoblins on [[Karamja]].}}|members=Yes}}
+{{DropsLine|name=Trading sticks|quantity=5|rarity=12/128|raritynotes={{DropNote|name=karamja}}|members=Yes}}
+{{DropsLine|name=Trading sticks|quantity=15|rarity=16/128|raritynotes={{DropNote|name=karamja}}|members=Yes}}
+{{DropsLine|name=Trading sticks|quantity=28|rarity=12/128|raritynotes={{DropNote|name=karamja}}|members=Yes}}
+{{DropsLine|name=Trading sticks|quantity=42|rarity=3/128|raritynotes={{DropNote|name=karamja}}|members=Yes}}
+{{DropsLine|name=Trading sticks|quantity=62|rarity=4/128|raritynotes={{DropNote|name=karamja}}|members=Yes}}
+{{DropsLine|name=Limpwurt root|quantity=1|rarity=22/128}}
+{{DropsLine|name=Goblin mail|quantity=1|rarity=2/128|altrarity=5/128|raritynotes={{DropNote|2/128 in members' worlds; 5/128 in free-to-play worlds.}}}}
+{{DropsLine|name=Grapes|quantity=3|rarity=1/128|raritynotes={{DropNote|name=outsidekaramja}}}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128|f2p=yes|version=Level 15}}
+
+===Tertiary===
+{{DropsTableHead|version=Level 15}}
+{{DropsLine|name=Hobgoblin skin|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Fur 'n Seek]] quest.}}|gemw=no|members=yes}}
+{{DropsLine|name=Hobgoblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Hobgoblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineEffigy|level=15|members=yes}}
+{{DropsLineMimic|level=15|members=yes}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|version=Level 15
+|members=Yes
+|quantity=1
+|gold=161.242/1000
+|green=5.039/1000
+|crimson=10.078/1000
+|blue=1.008/1000
+}}
+
+==Armed (level 18) hobgoblin drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Hobgoblin#Level 18}}
+
+===100%===
+{{DropsTableHead|version=Level 18}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead|version=Level 18}}
+{{DropsLine|name=Water rune|quantity=2|rarity=2/128}}
+{{DropsLine|name=Fire rune|quantity=7|rarity=2/128}}
+{{DropsLine|name=Body rune|quantity=6|rarity=2/128}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=1/128}}
+{{DropsLine|name=Chaos rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Nature rune|quantity=4|rarity=2/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Iron javelin|quantity=5|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|7/128}}
+{{DropsTableHead|version=Level 18}}
+{{HerbDropTable|7/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|12/128}}
+{{DropsTableHead|version=Level 18}}
+{{UncommonSeedDropTable|12/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead|version=Level 18}}
+{{DropsLine|name=Iron sword|quantity=1|rarity=3/256}}
+{{DropsLine|name=Iron off hand sword|quantity=1|rarity=3/256}}
+{{DropsLine|name=Steel dagger|quantity=1|rarity=3/256}}
+{{DropsLine|name=Steel off hand dagger|quantity=1|rarity=3/256}}
+{{DropsLine|name=Steel longsword|quantity=1|rarity=1/256}}
+{{DropsLine|name=Steel off hand longsword|quantity=1|rarity=1/256}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead|version=Level 18}}
+{{DropsLine|name=Coins|quantity=1|rarity=4/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=5|rarity=12/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=15|rarity=34/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=28|rarity=4/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=42|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=62|rarity=4/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Level 18}}
+{{DropsLine|name=Limpwurt root|quantity=1|rarity=21/128}}
+{{DropsLine|name=Goblin mail|quantity=1|rarity=2/128}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128|f2p=yes|version=Level 18}}
+
+===Tertiary===
+{{DropsTableHead|version=Level 18}}
+{{DropsLine|name=Hobgoblin skin|quantity=1|rarity=Common|raritynotes={{DropNote|Only during the [[Fur 'n Seek]] quest.}}|gemw=no}}
+{{DropsLine|name=Hobgoblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Hobgoblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineEffigy|level=18|members=yes}}
+{{DropsLineMimic|level=18|members=yes}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|version=Level 18
+|members=Yes
+|quantity=1
+|gold=161.242/1000
+|green=5.039/1000
+|crimson=10.078/1000
+|blue=1.008/1000
+}}
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}} 
+** [[Goblin mail]] drop
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Hobgoblin (2004).png|name=Hobgoblin}}
+|{{GUL|date=[[23 September]] [[2009]]|update=Woodcutting Rebalance|img=Hobgoblin (2009).png|name=Hobgoblin}}
+|{{GUL|date=[[6 January]] [[2016]]|update=Patch Notes (11 January 2016)|img=Hobgoblin.png|name=Hobgoblin}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Level 15:
+**** Tiny spiky bronze salvage → Bronze spear
+**** Tiny spiky iron salvage → Iron spear, Iron sword/Iron off hand sword
+**** Tiny spiky steel salvage → Steel spear, Steel dagger/Steel off hand dagger
+**** Small bladed steel salvage → Steel longsword/Steel off hand longsword
+*** Level 18:
+**** Tiny spiky iron salvage → Iron sword/Iron off hand sword
+**** Tiny spiky steel salvage → Steel dagger/Steel off hand dagger
+**** Small bladed steel salvage → Steel longsword/Steel off hand longsword
+
+* {{UL|type=patch|update=Housing of Parliament &amp; Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended-
+
+* {{UL|type=patch|update=Patch Notes (9 September 2019)|date=9 September 2019}}
+** Players can no longer attack hobgoblins through the locked door below the [[Tree Gnome Village (location)|Tree Gnome Village]].
+
+* {{UL|type=ninja|update=Patch Notes (11 January 2016)|date=11 January 2016}}
+** Hobgoblins around the world have had their models updated to match the [[God Wars Dungeon|God Wars dungeon]] hobgoblins.
+
+* {{UL|type=update|update=Woodcutting Rebalance|date=23 September 2009}}
+** Hobgoblins have been graphically updated.
+
+* {{UL|type=update|update=Massive update!|date=6 April 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* A {{WP|hobgoblin}} is a household spirit from British folklore, being a more intelligent and helpful versions of {{wp|goblin}}s.
+* In Armies of Gielinor hobgoblins are described as: "The hobgoblin occupies the rung on the evolutionary ladder between goblin and ork, and so displays the best and worst traits of both races."
+* According to the [[Runescape Official Handbook]], hobgoblins keep their teeth sharp so they can eat their opponent.
+* As of [[30 January]] [[2023]], hobgoblin Slayer assignments had the highest completion rate with over 99%.{{CiteTwitter|author=Mod Sponge|url=https://twitter.com/JagexSponge/status/1620148676239958018|date=30 January 2023|archiveurl=https://reldo.runescape.wiki/i/100367|archivedate=1 March 2023|quote=[Stat of the day (kinda) Which slayer task do you think has the highest completion rate (by percentage)?] Hobgoblins, the answer was hobgoblins. With above 99% completion rate.}}
+
+==References==
+{{Reflist}}
+
+[[Category:Participants in the God Wars]]
+[[Category:Bandosians]]
+[[Category:Hobgoblins]]
+[[pt:Trasgo]]

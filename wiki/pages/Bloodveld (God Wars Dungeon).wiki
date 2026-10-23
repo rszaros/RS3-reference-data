@@ -1,0 +1,212 @@
+{{External|os=Bloodveld#GWD}}
+{{Otheruses|the enemy in the God Wars Dungeon|other Bloodveld|Bloodveld (disambiguation)}}
+{{Infobox Monster
+|name = Bloodveld
+|image = [[File:Bloodveld (God Wars Dungeon).png|200px]]
+|release = [[28 August]] [[2007]]
+|update = God Wars Dungeon
+|members = Yes
+|race = Bloodveld
+|options = Attack, Examine
+|examine = The tongue of evil.
+|level = 52
+|aggressive = Yes
+|poisonous = No
+|lifepoints = 10250
+|slaylvl = 50
+|slayxp = 151.0
+|slayercat = Bloodveld
+|assigned_by = Chaeldar, Sumona, Duradel, Kuradal
+|max_melee = 680
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|weakness = Fire
+|attack = 34
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 419
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia
+|id = 6215
+}}
+'''Bloodveld''' can be found in the [[God Wars Dungeon]]. They can be fought for killcount for the [[Zamorak]] faction.
+
+Equipping an [[God Wars Dungeon/God Protection|item aligned to Zamorak]], a piece of [[ancient equipment]] or the [[Shard of Zaros]] makes them non-aggressive.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[God Wars Dungeon]]
+|lvls=92
+|mem=yes
+|mapID=15
+|npcid:6215,x:2845,y:5283|npcid:6215,x:2870,y:5297|npcid:6215,x:2853,y:5355
+|npcid:6215,x:2861,y:5336|npcid:6215,x:2884,y:5317|npcid:6215,x:2884,y:5325
+|npcid:6215,x:2886,y:5351|npcid:6215,x:2886,y:5359|npcid:6215,x:2889,y:5322
+|npcid:6215,x:2894,y:5352|npcid:6215,x:2894,y:5362|npcid:6215,x:2922,y:5358
+|npcid:6215,x:2928,y:5356|npcid:6215,x:2934,y:5353
+|leagueRegion = Asgarnia}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black boots|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Rune arrow|quantity=40|rarity=7/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy kwuarm|rarity=12/128|quantity=1}}
+{{DropsLine|name=Wergali seed|rarity=12/128|quantity=1}}
+{{DropsTableBottom}}
+
+===Stone and wood spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Luminite stone spirit|quantity=4|rarity=8/128}}
+{{DropsLine|name=Runite stone spirit|quantity=2|rarity=10/128}}
+{{DropsLine|name=Acadia wood spirit|quantity=2|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Large bladed steel salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Huge plated steel salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=600-1000|rarity=18/128}}
+{{DropsLine|name=Coins|quantity=1200-1800|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=3000-3800|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Furniture plans===
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Zamorak altar|quantity=1|rarity=}}
+{{DropsLine|name=Furniture plans: Zamorak rug|quantity=1|rarity=}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Meat pizza|quantity=1|rarity=14/128}}
+{{DropsLine|name=Big bones|quantity=4 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|8/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-11|rarity=1/10}}
+{{DropsLine|name=Frozen key piece (Zamorak)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Zamorak's Fortress]].}}|gemw=No}}
+{{DropsLineEffigy|level=52}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=52}}
+{{DropsLineWarpriest|god=zamorak}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 90.982/1000
+|green = 318.436/1000
+|crimson = 45.491/1000
+|blue = 9.098/1000
+}}
+
+==Products==
+{{Uses facility list|Bloodveld}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Stuffed bloodveld.png|A [[stuffed bloodveld]], found in [[Castle Drakan]]
+File:Bloodveld leecher.png|A baby Bloodveld.
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Bloodveld (God Wars Dungeon) (28 August 2007).png|name=Bloodveld}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Bloodveld (God Wars Dungeon) (June 2008).png|name=Bloodveld}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Bloodveld (God Wars Dungeon) (July 2008).png|name=Bloodveld}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Bloodveld (God Wars Dungeon).png|name=Bloodveld}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Starbloom Seeds have landed - This Week In RuneScape|date=9 June 2025}}
+** Fixed an issue where black boots were unable to be dropped from bloodveld.
+
+* {{UL|type=patch|update=Game Jam Farming Strike - This Week In RuneScape|date=6 May 2025}}
+** Changed the Slayer XP of bloodveld.
+** Updated the drop tables of regular and mutated bloodveld.
+*** They're now more likely to drop congealed blood.
+
+* {{UL|type=patch|update=Necromancy Patch Week - This Week In RuneScape|date=11 September 2023}}
+** Increased drop rate of congealed blood at gargoyles, nechyrael, bloodveld, and terror dogs to reduce reliance on ravenous ghouls.
+
+* {{UL|type=patch|update=Patch Notes (16 January 2017)|date=16 January 2017}}
+** Bloodveld are now all melee-based and weak to fire spells.
+
+* {{UL|type=update|update=God Wars: Remastered|date=5 September 2012}}
+** Bloodveld in the [[God Wars Dungeon]] have been graphically updated.
+
+* {{UL|type=hidden|update=Smoking Kills|date=5 June 2008}}
+** Graphically updated.
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine text of bloodveld is similar to other slayer monsters. The bloodveld is "the tongue of evil", the [[dust devil]] is "the vacuumed face of evil", the [[basilisk]] is "the eyes of evil" and the [[rockslug]] "the slime of evil."
+* The bloodveld seems to attack twice in a row but it only attacks once, as seen on the hitsplats.
+* Vampyres keep bloodveld as pets, in a similar fashion to the way in which humans keep dogs. [[Harold]], who belongs to [[Vanstrom Klause]] is one example, as are [[Grigan Kaninus]]' [[bloodveld youngling]]s.
+* In the {{Pfth|12}}, their tongues are likened to that of KISS bassist {{WP|Gene_Simmons|Gene Simmons}}, a rock star who himself has an unusually long tongue.
+* On [[16 January]] 2017, their attack style and weakness were changed from magic and thrown weapons to melee and fire spells, respectively.
+* As of [[1 February]] [[2018]], the highest kill count for this monster was 80,366 kills.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=http://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+** This had not increased by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=http://archive.is/Fxc11|archivedate=28 February 2020|notes=|name=}}
+
+==References==
+{{reflist}}
+
+{{Slayer monsters}}
+{{God Wars Dungeon}}

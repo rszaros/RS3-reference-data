@@ -1,0 +1,194 @@
+{{External|os=Small Lizard}}
+{{Infobox Monster
+|version1 = Green
+|version2 = Yellow
+|name = Small lizard
+|image1 = [[File:Small lizard (green).png|250px]]
+|image2 = [[File:Small lizard.png|250px]]
+|release = [[24 October]] [[2005]]
+|update = Mogres, Lizards, Pet Fish, Potions and Potatoes!
+|members = Yes
+|examine = A small cold-blooded creature, partial to warmth.
+|level = 21
+|lifepoints = 2650
+|experience = 132.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 22
+|slayxp = 9.6
+|slayercat = Desert lizards
+|assigned_by = Turael, Achtryn, Sumona
+|max_melee = 300
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 15
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 157
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 257
+|defence = 15
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 2807
+|id2 = 2808
+|leagueRegion = Desert
+}}
+'''Small lizards''' are [[Slayer monsters]] that require level 22 [[Slayer]] to kill. [[Ice cooler]]s are required to kill them, which can be bought from any [[Slayer Masters|Slayer Master]]. They can be killed on [[Desert lizards (Slayer assignment)|desert lizard]] Slayer tasks, along with level 49 [[desert lizard]]s and level 77 [[lizard]]s, also found in the same area.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Kharidian Desert]] north of [[Nardah]]
+|lvls=21
+|mem=yes
+|mapID=28
+|npcid:2807,x:3384,y:3013
+|npcid:2808,x:3385,y:3067
+|npcid:2807,x:3387,y:3014
+|npcid:2808,x:3389,y:3065
+|npcid:2808,x:3400,y:3032
+|npcid:2808,x:3402,y:3061
+|npcid:2808,x:3404,y:3060
+|npcid:2808,x:3407,y:3067
+|npcid:2808,x:3408,y:3060
+|npcid:2808,x:3411,y:3065
+|npcid:2808,x:3412,y:3032
+|npcid:2808,x:3412,y:3049
+|npcid:2808,x:3414,y:3029
+|npcid:2808,x:3417,y:3036
+|npcid:2808,x:3418,y:3032
+|npcid:2808,x:3419,y:3034
+|npcid:2808,x:3422,y:3058
+|npcid:2808,x:3424,y:3059
+|npcid:2808,x:3435,y:3057
+|npcid:2808,x:3435,y:3062
+|npcid:2808,x:3439,y:3013
+|npcid:2808,x:3439,y:3065
+|npcid:2808,x:3440,y:3016
+|npcid:2807,x:3441,y:3059
+|npcid:2808,x:3443,y:3012
+|npcid:2808,x:3443,y:3017
+|npcid:2807,x:3443,y:3033
+|npcid:2808,x:3443,y:3034
+|npcid:2808,x:3443,y:3047
+|npcid:2807,x:3443,y:3059
+|npcid:2808,x:3446,y:3014
+|leagueRegion = Desert
+}}
+{{LocTableBottom}}
+
+===Getting there===
+* The [[fairy ring]] code {{fairycode|DLQ}} is the best way to reach them.
+* Go through the [[Shantay Pass]], head south-east and cross over the first bridges.
+* Use a [[super dominion medallion]] to teleport to the [[Dominion Tower]], which is north-west of the lizards.
+
+==Strategy==
+[[Ice cooler]]s must be used on them when they reach 1-120 [[life points]] in order to kill them. If an [[ice cooler]] is accidentally used when the desert lizard has more than 120 life points, it will still be used up but have no effect. Players would be wise to bring a few extra because of this. [[Waterskin]]s (and a means of filling them, such as a knife for cutting cactus or [[Humidify]]) or an [[enchanted water tiara]] should be brought to avoid dying in the desert due to heat. [[Desert outfit|Desert clothing]] may be useful if you can afford to fight without decent armour. Magic attacks appear to be effective, particularly fire spells, although melee works well enough.
+
+If on a task level 77 [[lizard]]s should be killed for the most experience, as they have more life points. These can be found near to the small lizards. These drop [[big bones]], so more [[experience]] in slayer, [[combat]], and [[prayer]] is gained than with the smaller lizards. Killing small lizards will allow you to complete the task more quickly, however.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Light mystic gloves|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|1/496 with tier 1 [[luck]] or higher.}}|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Light mystic gloves: 1/512|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Fire rune|quantity=5|rarity=20/128}}
+{{DropsLine|name=Fire rune|quantity=42|rarity=4/128}}
+{{DropsLine|name=Nature rune|quantity=5|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|10/128}}
+{{DropsTableHead}}
+{{HerbDropTable|10/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{GeneralSeedDropTableIntro|9/128}}
+{{DropsTableHead}}
+{{GeneralSeedDropTable|9/128|level=21}}
+{{DropsTableBottom}}
+
+===Ores and Bars===
+{{DropsTableHead}}
+{{DropsLine|name=Copper ore|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tin ore|quantity=1|rarity=1/128}}
+{{DropsLine|name=Iron ore|quantity=1-2 (noted)|rarity=22/128}}
+{{DropsLine|name=Coal|quantity=1-2 (noted)|rarity=13/128}}
+{{DropsLine|name=Silver ore|quantity=1|rarity=3/128}}
+{{DropsLine|name=Silver bar|quantity=1|rarity=2/128}}
+{{DropsLine|name=Mithril ore|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Waterskins===
+{{DropsTableHead}}
+{{DropsLine|name=Waterskin (1)|quantity=2|rarity=4/128|gemw=No}}
+{{DropsLine|name=Waterskin (2)|quantity=2|rarity=1/128|gemw=No}}
+{{DropsLine|name=Waterskin (3)|quantity=2|rarity=1/128|gemw=No}}
+{{DropsLine|name=Waterskin (4)|quantity=2|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Kebab|quantity=1|rarity=13/128}}
+{{DropsLine|name=Knife|quantity=1|rarity=10/128}}
+{{DropsLine|name=Tiny plated iron salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128|override=There is a 4/128 chance of rolling once on the gem drop table, and a 1/128 chance of rolling twice.}}
+
+==Achievements==
+* {{Achievement|The Start of Something New}} 
+** [[Light mystic gloves]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=Patch Notes (26 February 2018)|date=26 February 2018}}
+** Renamed from "Small Lizard" to "Small lizard".
+
+* {{UL|type=patch|update=Patch Notes (26 February 2018)|date=26 February 2018}}.
+** Desert lizards are no longer aggressive to players who have completed Crondis' quest.
+
+* {{UL|type=update|update=Mogres, Lizards, Pet Fish, Potions and Potatoes!|date=24 October 2005}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}

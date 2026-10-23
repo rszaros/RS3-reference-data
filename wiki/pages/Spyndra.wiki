@@ -1,0 +1,128 @@
+{{Infobox Monster
+|version1 = Normal mode
+|version2 = Story mode
+|name = Spyndra
+|image = [[File:Spyndra.png|250px]]
+|release = [[13 August]] [[2018]]
+|update = Elite Dungeons - Dragonkin Laboratory
+|members = Yes
+|actions = Attack, Mark, Examine
+|examine = She weaves webs of terror. Lustrous, silken fear. An architect of nightmares.
+|level = 107
+|lifepoints = 180,000
+|experience = 9,000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp2 = 3,760.9
+|slayercat = Spiders
+|assigned_by = Turael, Vannaka
+|max_melee = 816
+|max_ranged = 816
+|max_magic = 816
+|max_necromancy = 0
+|max_spec = N/A
+|style1 = ranged
+|primarystyle = ranged
+|speed1 = 2
+|attack = 85
+|ranged = 85
+|magic = 85
+|necromancy = 1
+|acc_melee = 2178
+|acc_ranged = 2178
+|acc_magic = 2178
+|acc_necromancy = 0
+|abilities = N/A
+|armour = 1486
+|defence = 70
+|weakness = Nothing
+|aff_weakness1 = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Normal mode
+|dropversion2 = Story mode
+|leagueRegion = Wilderness
+|id = 25688
+}}
+
+'''Spyndra''' is a miniboss found within the [[Dragonkin Laboratory]]. This miniboss can be encountered by following the first path to the east upon entering the dungeon.
+
+In Story mode its health is reduced by 50% and its damage output is reduced by 90%.
+
+==Drops (story mode)==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead|version=Story mode}}
+{{DropsLine|name=Dungeoneering token|quantity=500|rarity=Always|gemw=no|alch=no|altvalue=1|altcurrency=Dungeoneering tokens}}
+{{DropsTableBottom}}
+
+==Drops (normal mode)==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Spyndra#Normal mode}}
+
+===100%===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLine|name=Dungeoneering token|quantity=5000|rarity=Always|gemw=no|alch=no|altvalue=1|altcurrency=Dungeoneering tokens}}
+{{DropsTableBottom}}
+
+===Alchables===
+{{Dragonkin Laboratory alchables drop table|340/1000|version=Normal mode}}
+
+===Currency===
+{{Dragonkin Laboratory currency drop table|650/1000|610/1000|version=Normal mode}}
+
+===Supplies===
+{{Dragonkin Laboratory supplies drop table|10/1000|version=Normal mode}}
+
+===Lucky charm===
+{{Lucky charm (Dragonkin Laboratory) drops|40/1000|version=Normal mode}}
+
+===Rare drop table===
+{{Rare drop table|1/150|version=Normal mode}}
+
+===Tertiary===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=107}}
+{{DropsLineMimic|level=107}}
+{{DropsTableBottom}}
+
+====Charms====
+{{EliteDungeonCharmDropTable|version=Normal mode}}
+
+==Achievements==
+* {{Achievement|Spiderlogical Warfare}}
+* {{Achievement|Elite Dungeons and Dragons}}
+
+==Dialogue==
+{{Hastranscript|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Elite Dungeons - Dragonkin Laboratory|date=13 August 2018}}
+** Added to game.
+}}
+
+==Trivia==
+* Spyndra's name and examine were chosen from one of the winners of a twitter raffle held by [[Mod Orion]].{{CiteTwitter|author=Mod Orion|url=https://twitter.com/JagexOrion/status/1029421666722570242|quote=So, I ran a Twitter competition...|date=14 August 2018|archiveurl=https://reldo.runescape.wiki/i/104997|archivedate=26 December 2019}}
+
+==References==
+{{Reflist}}
+
+{{Dragonkin Laboratory}}
+{{Spiders}}
+[[pt:Spyndra]]

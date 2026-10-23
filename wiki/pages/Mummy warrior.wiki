@@ -1,0 +1,105 @@
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Standard
+|version2 = On fire
+|name = Mummy warrior
+|image1 = [[File:Mummy warrior (Standard).png|200px]]
+|image2 = [[File:Mummy warrior (on fire).png|200px]]
+|release = [[5 June]] [[2008]]
+|update = Smoking Kills
+|members = Yes
+|actions = Attack, Examine
+|examine = A large and scary mummy.
+|level = 77
+|lifepoints = 2750
+|experience = 137.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Zombies, Undead
+|max_melee = 220
+|max_ranged = 0
+|max_magic = 0
+|max_spec = N/A
+|style = melee
+|speed = 4
+|attack = 55
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 983
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 983
+|defence = 55
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id1 = 7807
+|id2 = 7808
+|leagueRegion = Desert
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|name = Mummy warrior
+|image = File:Mummy warrior (Standard).png
+|release = [[5 June]] [[2008]]
+|update = Smoking Kills
+|race = Mummy
+|members = Yes
+|quest = [[Smoking Kills]]
+|location = [[Tomb of Catolax]]
+|map = no
+|gender = Unspecified
+|actions = Examine
+|examine =
+|id = 7806
+|leagueRegion = Desert
+}}
+}}
+'''Mummy warriors''' are fought to obtain either a [[magic path key]] or a [[ranged path key]] in the [[Smoking Kills]] quest. These keys unlock the path to the [[Mighty Banshee]]. This monster only appears after the surrounding skeletons and zombies are dead.
+
+==Habitat==
+In the dungeon area up the broken stairs in the swamp near the [[Agility pyramid]] south of [[Nardah]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Magic path key|quantity=1|rarity=Always|raritynotes={{DropNote|Only dropped if the western path was taken.}}}}
+{{DropsLine|name=Ranged path key|quantity=1|rarity=Always|raritynotes={{DropNote|Only dropped if the eastern path was taken.}}}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Mummy Champion's scroll|quantity=1|rarity=1/5000|altrarity=1/4000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Mummy Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Smoking Kills|date=5 June 2008}}
+** Added to game.
+}}
+
+==Trivia==
+* If you kill it again when you already have the key, it says "Why?" upon dying.
+
+{{Smoking Kills}}
+{{Mummy}}
+[[Category:Quest monsters]]

@@ -1,0 +1,155 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 4
+|version2 = 18
+|version3 = 33
+|version4 = 49
+|version5 = 63
+|version6 = 78
+|version7 = 93
+|version8 = 107
+|version9 = 123
+|version10 = 138
+|name = Earth warrior
+|image = [[File:Earth warrior.png|150px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark
+|examine = A strange, inhuman, elemental warrior.
+|level1 = 4
+|level2 = 18
+|level3 = 33
+|level4 = 49
+|level5 = 63
+|level6 = 78
+|level7 = 93
+|level8 = 107
+|level9 = 123
+|level10 = 138
+|lifepoints1 = 300
+|lifepoints2 = 1300
+|lifepoints3 = 2400
+|lifepoints4 = 3500
+|lifepoints5 = 4500
+|lifepoints6 = 5600
+|lifepoints7 = 6700
+|lifepoints8 = 7700
+|lifepoints9 = 8800
+|lifepoints10 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Earth warriors, Creatures of Daemonheim
+|max_melee1 = 12
+|max_melee2 = 52
+|max_melee3 = 96
+|max_melee4 = 140
+|max_melee5 = 180
+|max_melee6 = 224
+|max_melee7 = 268
+|max_melee8 = 308
+|max_melee9 = 352
+|max_melee10 = 396
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 3
+|attack2 = 13
+|attack3 = 24
+|attack4 = 35
+|attack5 = 45
+|attack6 = 56
+|attack7 = 67
+|attack8 = 77
+|attack9 = 88
+|attack10 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 130
+|acc_melee2 = 234
+|acc_melee3 = 368
+|acc_melee4 = 536
+|acc_melee5 = 732
+|acc_melee6 = 1011
+|acc_melee7 = 1372
+|acc_melee8 = 1783
+|acc_melee9 = 2343
+|acc_melee10 = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 130
+|armour2 = 234
+|armour3 = 257
+|armour4 = 316
+|armour5 = 454
+|armour6 = 628
+|armour7 = 850
+|armour8 = 1132
+|armour9 = 1486
+|armour10 = 1924
+|defence1 = 3
+|defence2 = 13
+|defence3 = 24
+|defence4 = 35
+|defence5 = 45
+|defence6 = 56
+|defence7 = 67
+|defence8 = 77
+|defence9 = 88
+|defence10 = 99
+|weakness1 = Air
+|weakness2 = Water
+|weakness3 = Earth
+|weakness4 = Fire
+|weakness5 = Air
+|weakness6 = Water
+|weakness7 = Earth
+|weakness8 = Fire
+|weakness9 = Air
+|weakness10 = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10178
+|id2 = 10179
+|id3 = 10180
+|id4 = 10181
+|id5 = 10182
+|id6 = 10183
+|id7 = 10184
+|id8 = 10185
+|id9 = 10186
+|id10 = 10187
+|leagueRegion = Wilderness
+}}
+'''Earth warriors''' are monsters found in [[Daemonheim]], on the [[Abandoned floors]]. These monsters attack using maces, which are surprisingly accurate against platemail. At higher levels, these monsters are very dangerous. They are weak against one of the types of elemental spells, depending on their level. Unlike the earth warriors on the surface areas, these monsters' defence are heavily specialised. Contrary to popular belief, they are '''not''' affected by the [[Shadow silk hood]]'s cloaking ability.
+
+==Drops==
+{{Dungeoneering droptable|headings=3}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}

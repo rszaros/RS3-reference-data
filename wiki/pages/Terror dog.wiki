@@ -1,0 +1,228 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Level 65
+|version2 = Level 61
+|name = Terror dog
+|image = [[File:Terror dog.png|200px]]
+|image2 = [[File:Terror dog (level 61).png|125px]]
+|release = [[22 January]] [[2007]]
+|update = The Lair of Tarn Razorlor
+|members = Yes
+|actions = Attack, Examine
+|examine = A terrifying dog beast.
+|leagueRegion = Morytania
+|level1 = 65
+|level2 = 61
+|lifepoints1 = 4700
+|lifepoints2 = 4400
+|experience1 = 235
+|experience2 = 220
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 40
+|slayxp1 = 75.4
+|slayxp2 = 65.2
+|slayercat = Terror dogs
+|assigned_by = Sumona,Kuradal
+|max_melee1 = 188
+|max_melee2 = 176
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack1 = 47
+|attack2 = 44
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee1 = 778
+|acc_melee2 = 710
+|acc_ranged = 0
+|acc_magic = 0
+|armour1 = 778
+|armour2 = 710
+|defence1 = 47
+|defence2 = 44
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 5417
+|id2 = 5418
+}}
+[[File:Terror dog icon.png|left]]
+'''Terror dogs''' are found at the end of [[Lair of Tarn Razorlor (dungeon)|Tarn's Lair]]. They can be killed with level 40 [[Slayer]], and players can access them very quickly using the "Tarn's Lair" teleport on the [[ring of slaying]].
+
+During the [[Lair of Tarn Razorlor (miniquest)|Lair of Tarn Razorlor miniquest]], four of these need to be fought alongside some [[Animated steel armour (Lair of Tarn Razorlor)|animated steel armour]] and [[Tarn]]. After the miniquest is complete, they can be found in the same chamber. They are aggressive and will rush players in a [[Prayer]]-draining area that can create problems for the unprepared.
+
+Terror dogs do not count toward fulfilling [[Slayer assignments]] for dogs and are instead their own unique task. They are the only monsters that drop [[granite helm]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Tarn's Lair]]
+|lvls=61, 65
+|mem=yes
+|mapID=30
+|npcid:5418,x:36,y:79|npcid:5418,x:36,y:85|npcid:5417,x:42,y:80
+|npcid:5418,x:42,y:88|npcid:5417,x:44,y:77|npcid:5417,x:47,y:85
+|npcid:5417,x:48,y:79|npcid:5418,x:54,y:79|npcid:5418,x:54,y:85
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+===Getting there===
+The lair's entrance is found in the [[Abandoned Mine]] and requires a [[salve amulet]] to enter. The fastest way to access the lair is to use the [[ring of slaying]] and selecting the 'Tarn's Lair' option, which teleports directly into the dungeon (salve amulet not required), with Tarn's room being directly north of the teleport spot.
+
+The second fastest way is using [[Drakan's medallion]] to teleport to [[Burgh de Rott]] and then heading west to use the [[Agility]] shortcut to climb over the fence, climb over the cart, and enter the cart tunnel to enter the Abandoned Mine.
+
+The third way is to teleport to [[Canifis]], and go via the Myreque shortcut to Burgh de Rott. There is an Agility shortcut between the town of Burgh de Rott and the Abandoned Mine area.
+
+Another route is the [[Temple Trekking|Burgh de Rott Ramble]]. Choose [[Pazuzu]] (strongest follower), and route 1, the easiest.
+
+To enter the lair, climb over the mine cart just south of the [[Zealot]] (featured in the [[Haunted Mine]] quest), and enter the [[Abandoned Mine]], then travel north and enter the lair.
+
+If players travel through Tarn's Lair, it is recommended to wear magic defensive armour, or bring [[prayer potion]]s as the [[Skeleton (Tarn's Lair)|skeleton mage]]s' magic attacks can hit hard. Before entering the room with the terror dogs, remember to equip melee armour.
+
+{{Map:Tarn's Lair}}
+{{Clear|left}}
+
+==Strategy==
+Terror dogs are weak to slashing weapons and have very low [[Defence]], however they are aggressive and accurate in their attacks. The [[dwarf multicannon]] and its variants cannot be used here. Players should be prepared to be attacked by multiple dogs at once, and may take damage very quickly.
+
+Tarn's Lair drains [[prayer points]] at a rate of 10 points per two game ticks, or 500 points per minute (much faster than [[the Barrows Brothers]]), so it is best not to plan on using prayer (prayer drain does not apply to the empty chamber the ring of slaying teleports you to). However, using items such as the prayer necklaces from [[Daemonheim Rewards]] ([[Twisted bird skull necklace|twisted bird skull]], [[Split dragontooth necklace|split dragontooth]] and [[demon horn necklace]]s) and the [[bonecrusher]], using [[prayers]] is more than viable, should players be able to kill terror dogs at a fast enough rate. 
+
+With a Twisted bird skull necklace, a player must kill one terror dog every 5 seconds to maintain prayer points, with no prayers enabled. With a Split dragontooth necklace or a Demon horn necklace, a player must kill a level 61 terror dog every 5 seconds or a level 65 terror dog every 10 seconds to maintain prayer points with no prayers enabled. Dependent on [[Prayer#Prayers|Prayers]] or [[Ancient Curses|Curses]] active, this will also drain prayer points, meaning players must kill terror dogs at rate faster than the maintenance rate  above, however this can be easily achieved with area of effect attacks. Area of effect abilities can be found in the [[abilities|abilities list]]. 
+
+Area of affect [[basic attack]]s can be used by wielding [[Chinchompa (weapon)|chinchompas]] for [[Ranged]] players, [[halberds]] for [[Melee]] players or using the [[Ancient Magicks]] spellbook for [[Magic]] players. Though a player may use any of these weapons, a halberd would be most recommended as terror dogs are [[Weakness|weak]] to [[Slash weapons|Slash]] attack styles.
+
+It is recommended to bring a two-handed weapon with healing abilities, and good armour. The [[Saradomin godsword]] is a good choice as it is a slashing weapon. [[Halberds]] can also be used for their extra reach - at least a [[dragon halberd]] is recommended. A full set of [[Guthan the Infested's equipment|Guthan's armour]] can be used as an alternative method, however the spear is a stabbing weapon resulting in slightly less accuracy. A combat [[Summoning familiars|familiar]], instead of a healing one, can be helpful if players choose to use a Saradomin godsword or Guthan's set.
+
+Players should use a set of AoE abilities that include two-handed [[Adaptive Strike]], [[Hurricane]], and [[Meteor Strike]], and keep in the middle of large numbers of enemy attacks.
+
+A full [[Dharok the Wretched's equipment|Dharok's set]] is not advised here. Terror dogs are accurate enough that multiple attacks could seriously endanger a player trying to use Dharoks' low-life damage boosts.
+
+It is possible to [[safe spot]] the large level 65 terror dogs once they become unaggressive, or at least limit the number of terror dogs attacking at once even when they are aggressive, via the torches in the large central chamber, or the edges of the small side chambers (the level 65 dogs respawn in the central chamber, but the small level 61 ones respawn in the side chambers). One can also use a halberd and trap them, exploiting their weakness to slash weapons.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Terror dog}}
+
+===Charms===
+Level 61:
+
+{{CharmDropTable|quantity=1|gold=67.007/1000|green=33.503/1000|crimson=33.503/1000|blue=46.905/1000}}
+
+Level 65: 
+
+{{CharmDropTable|quantity=1|gold=71.599/1000|green=35.799/1000|crimson=35.799/1000|blue=50.119/1000}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always|version=Level 61}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always|version=Level 65}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Granite helm|quantity=1|rarity=1/256|altrarity=1/248|raritynotes={{DropNote|Drop rate is increased to 1/248 with at least tier 1 [[luck]]}}}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=10/128}}
+{{DropsLine|name=Small plated adamant salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Tiny spiky rune salvage|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|22/128}}
+{{DropsTableHead}}
+{{HerbDropTable|22/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|18/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|18/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=800-1200|rarity=16/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=1200-2000|rarity=8/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=12/128}}
+{{DropsLine|name=Swamp tar|quantity=4|rarity=8/128}}
+{{DropsLine|name=Coal stone spirit|quantity=6|rarity=8/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|6/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-11|rarity=1/15}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|version=Level 65}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|version=Level 65}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=1/134733|approx=Yes}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Fenkenstrain's Monster}} 
+** [[Granite helm]] drop
+
+==Gallery==
+<gallery mode="packed" heights="200px">
+File:Terror dog safespot torch.png|Safe spotting behind a torch.
+File:Terror dog safespot side chamber.png|Safe spotting from a side chamber.
+File:Terror dog awakening.png|Tarn turns a [[Terror dog statue|statue]] into a terror dog!
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Update:Necromancy Patch Week - This Week In RuneScape|date=11 September 2023}}
+** Increased drop rate of congealed blood at gargoyles, nechryael, bloodvelds, and terror dogs to reduce reliance on ravenous ghouls.
+
+* {{UL|type=patch|update=Patch Notes (24 November 2010)|date=24 November 2010}}
+** The terror dogs of [[Tarn's Lair]] will now show their drops on the floor more clearly.
+
+* {{UL|type=patch|update=Patch Notes (6 October 2010)|date=6 October 2010}}
+** Textured terror dogs to look the same during animations as they do when stationary.
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* As of [[1 February]] [[2018]], the highest kill count for these monsters was 120,000 kills.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=http://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+** This had increased to 131,738 by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=http://archive.is/Fxc11|archivedate=28 February 2020|notes=|name=}}
+
+==References==
+{{Reflist}}
+
+{{Lair of Tarn Razorlor (miniquest)}}
+{{Slayer monsters}}
+{{Dogs}}

@@ -1,0 +1,67 @@
+{{Infobox Monster
+|name = Bossy McBossFace's First mate
+|image = [[File:Bossy McBossFace's First mate.png|175px]]
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|members = Yes
+|actions = Attack, Mark
+|examine = A prime mate.
+|level = 122
+|lifepoints = 22000
+|experience = 1100.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Skeletons
+|assigned_by = Vannaka
+|max_melee = 1886.4
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1829
+|defence = 78
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Wilderness
+|id = 26138
+}}
+'''Bossy McBossFace's First mate''' is a skeleton that can spawn during the fight with [[Bossy McBossFace]]. Bossy will on occasion spawn a number of [[summoned skeleton]]s, this group of skeletons may include the first mate.
+
+==Achievement==
+* {{Achievement|Monkey Sadness}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+==Trivia==
+* Its examine text is a pun on "primate".
+
+{{The Shadow Reef}}
+{{Skeletons}}

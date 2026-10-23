@@ -1,0 +1,69 @@
+{{Infobox Monster
+|version1 = Regular
+|version2 = Hydra
+|name1 = False pyrefiend
+|name2 = False pyrefiend (hydra)
+|image1 = [[File:False pyrefiend.png|x280px]]
+|image2 = [[File:False pyrefiend (hydra).png|x280px]]
+|release = [[2 May]] [[2017]]
+|update = Shattered Worlds
+|members = Yes
+|options = Attack, Examine
+|race = Fiend
+|examine = A small fire entity.
+|level = 1
+|lifepoints = 100
+|experience = 5.0
+|aggressive = No
+|poisonous = No
+|slayercat1 = Pyrefiends
+|max_melee = 9
+|max_ranged = 0.0
+|max_magic = 9
+|max_necromancy = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 110
+|acc_ranged = 110
+|acc_magic = 110
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Nothing
+|susceptibility = Demon
+|aff_weakness = 65
+|aff_melee = 65
+|aff_ranged = 65
+|aff_magic = 65
+|immune_to_poison = No
+|restriction = minigame
+|leagueRegion = Asgarnia
+|id1 = 24329
+|id2 = 24330
+}}
+'''False pyrefiends''' can be found while playing [[Shattered Worlds]]. Their levels and stats scale to the world the player finds them on. 
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[2 May]] [[2017]]|update=Shattered Worlds|img=False pyrefiend (2017).png|name=False pyrefiend}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=False pyrefiend.png|name=False pyrefiend}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Pyrefiends have been graphically updated.
+
+* {{UL|type=update|update=Shattered Worlds|date=2 May 2017}}
+** Added to game.
+}}
+
+==Trivia==
+* The hydra version of the false pyrefiend was not graphically updated with the rest of pyrefiends on [[1 August]] [[2022]].
+
+{{Shattered Worlds}}

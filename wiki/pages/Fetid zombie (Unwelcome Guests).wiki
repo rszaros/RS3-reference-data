@@ -1,0 +1,75 @@
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|name = Fetid zombie
+|image1 = [[File:Fetid zombie (3).png]]
+|image2 = [[File:Fetid zombie (4).png]]
+|release = [[11 April]] [[2023]]
+|update = Unwelcome Guests Slayer Content - This Week In RuneScape
+|members = Yes
+|options = Attack
+|race = Zombie
+|examine = Dead, impressive.
+|level = 66
+|lifepoints = 5000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 100
+|slayercat = Fetid zombies, Zombies, Zemouregal's undead, Undead
+|max_melee = 480
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 50
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0 
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Air
+|susceptibility = Magic, Salve, Undead Slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id1 = 30035
+|id2 = 30036
+}}
+'''Fetid zombies''' are [[monster]]s that swarm the northern gates of [[Fort Forinthry]] during the [[Unwelcome Guests]] quest. Throughout the quest, the player will need to defeat a total of 20 of them. Although there are two variants that are visually distinct, both possess identical combat stats.
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Cooked meat|quantity=1|rarity=}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=SteelSeries & Patch Week - This Week in RuneScape|date=24 April 2023}}
+** Fetid zombies' texture has been tweaked to differentiate them from standard zombies.
+
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Added to game.
+}}
+
+{{Unwelcome Guests}}

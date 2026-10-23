@@ -1,0 +1,114 @@
+{{External|os}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|name = Ice Troll King
+|image = [[File:ice troll king.png|Ice Troll King|200px]]
+|release = [[6 February]] [[2007]]
+|update = Fremennik Isles
+|members = Yes
+|options = Attack, Examine
+|examine = An impressive-looking troll.
+|leagueRegion = Fremennik
+|level = 91
+|lifepoints = 14550
+|experience = 727.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 150
+|slayercat = Trolls
+|max_melee = 1300
+|max_ranged = 1300
+|max_magic = 1300
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 65
+|ranged = 65
+|magic = 65
+|necromancy = 1
+|acc_melee = 1199
+|acc_ranged = 1199
+|acc_magic = 1199
+|acc_necromancy = 0
+|armour = 1299
+|defence = 65
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = Yes
+|restriction = quest
+|id = 5472
+}}
+|text2 = Defeated
+|item2 = 
+{{Infobox NPC
+|version1 = Defeated
+|version2 = Decapitated
+|name = Ice Troll King
+|image1 = [[File:Ice Troll King (defeated).png]]
+|image2 = [[File:Ice Troll King (decapitated).png]]
+|release = [[6 February]] [[2007]]
+|update = Fremennik Isles
+|members = Yes
+|race = Troll
+|quest = [[The Fremennik Isles]]
+|location = [[Ice Troll Caves]]
+|gender = Male
+|options1 = Decapitate, Examine
+|options2 = Examine
+|examine1 = Not so impressive anymore!
+|examine2 = Even less impressive!
+|map = {{NPC map|npcname=Ice Troll King|mapID=639|x:2385,y:10250}}
+|id = None
+|objectid1 = 21622
+|objectid2 = 21623
+|leagueRegion = Fremennik
+}}
+}}
+The '''Ice Troll King''' is the [[boss]] monster for [[The Fremennik Isles]] quest, and is the leader of the [[ice troll]]s. He is located in the [[Ice Troll Caves]] on the northern part of the isles. He uses all 3 combat styles, which includes a [[Melee]] attack, a [[Magic]] attack that freezes players, and a [[Ranged]] in which he will throw rocks at players and a special move which will send players flying across the battleground.
+
+After the Ice Troll King is dead, the players may decapitate him and take the [[Decapitated head (The Fremennik Isles)|head]] to the [[Burgher]] to show them they have defeated him.
+
+==Location==
+{{NPC map|npcname=Ice Troll King|mapID=639|npcid:5472,x:2385,y:10250|caption=Ice Troll Kings location in the [[Ice Troll Caves]]}}
+{{Clear|left}}
+
+==Strategy==
+[[File:Dead ice troll king.png|thumb|left|The Ice Troll King after being killed.]]
+The main thing to be careful about is that he attacks using his special attack that knocks players backwards. Players should use the [[Protect from Magic]] or [[Protect from Ranged]]. [[Protect from Melee]] will result in the troll king knocking the player into the cave wall for very high damage which will repeat multiple times, leaving them almost helpless. When players use either of the other prayers, it negates his attack which knocks you back. The king has a magic attack similar to ice barrage however players can use prayer to protect themselves. Wearing the [[yak-hide armour]] and [[Fremennik round shield]] may help reduce the damage from the king. Combining with the [[Protect from Magic]] prayer should keep damage taken to a minimum as the yak armour will greatly reduce his melee accuracy and the shield will lower his ranged strength. A one handed dragon weapon or better is advised to defeat the King as he has high defensive stats.
+
+One of the most widely-used ways to kill the king is to use the Protect from Magic prayer, along with the Fremennik round shield and the yak-hide armour, because the prayer will protect you from the troll's magic attack, and your Fremennik round shield and yak-hide armour will greatly reduce the damage of the troll's melee and ranged attacks, and he will not hit you for more than 10 or 20 life points with each hit.
+
+Another way of defeating him is to simply use a ring of recoil and to stand well away from him. This will cause him to use ranged attacks dealing small amounts of damage to you and him. This method uses a lot of food and may still result in death if you are unlucky.
+
+Also usable is the Protect from Ranged prayer. If this prayer is used, the king can only use magic and close-range (melee) attacks, and players can negate his attack which knocks them backwards. However, he can still freeze players with his magic attack which can be highly annoying and a waste of prayer, and Protect from Ranged has a higher prayer requirement. Bear in mind also that the damage taken from the Magic attack is not reduced nearly as much by equipment, if at all. For these reasons, Protect from Magic is generally recommended.
+{{Clear|left}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[6 February]] [[2007]]|update=Fremennik Isles|img=Ice troll king (2007).png|name=Ice Troll King}}
+|{{GUL|date=[[15 March]] [[2011]]|update=Ring of Wealth, Shanties, Trolls and Dungeoneering|img=Ice troll king.png|name=Ice Troll King}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Fremennik Isles|date=6 February 2007}}
+** Added to game.
+}}
+
+{{The Fremennik Isles}}
+{{Trolls}}
+[[Category:Quest monsters]]
+[[Category:Bosses]]
+[[Category:Antagonists]]
+[[Category:Deceased characters]]
+[[Category:Bandosians]]

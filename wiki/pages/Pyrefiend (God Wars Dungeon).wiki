@@ -1,0 +1,201 @@
+{{External|os=Pyrefiend#Level_48}}
+{{Otheruses|the non-God Wars Dungeon version|Pyrefiend|def=no}}
+{{Infobox Monster
+|version = God Wars Dungeon
+|name = Pyrefiend
+|image = [[File:Pyrefiend.png|x280px]]
+|release = [[28 August]] [[2007]]
+|update = God Wars Dungeon
+|members = Yes
+|options = Attack, Examine
+|examine = A small fire demon.
+|level = 92
+|lifepoints = 6600
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 30
+|slayxp = 187.8
+|slayercat = Pyrefiends
+|assigned_by = Mazchna
+|max_melee = 264
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 66
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1335
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1335
+|defence = 66
+|weakness = Water
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia
+|id = 6216
+}}
+[[File:Pyrefiend icon.png|left]]
+'''Pyrefiends''' are [[Slayer]] monsters and followers of [[Zamorak]] found in the [[God Wars Dungeon]]. They require level 30 [[Slayer]] to kill, and are notable for their relatively high drop rate for [[sealed clue scroll (medium)|medium clue scrolls]].
+
+A [[Pyrefiend (Soul Wars)|variant]] of pyrefiends can be found in [[Soul Wars]]. These count for Slayer tasks.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[God Wars Dungeon]]
+|lvls=92
+|mem=yes
+|mapID=15
+|npcid:6216,x:2863,y:5307|npcid:6216,x:2864,y:5280|npcid:6216,x:2864,y:5281
+|npcid:6216,x:2873,y:5312
+|leagueRegion = Asgarnia}}
+{{LocTableBottom}}
+
+==Strengths and weaknesses==
+Pyrefiends found in the God Wars Dungeon use melee, unlike their lower levelled magic-using counterparts. They are most susceptible to attacks using [[Magic]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDropTable|quantity=1|gold=46.334/1000|green=23.167/1000|crimson=57.917/1000|blue=2.317/1000}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril arrow|quantity=10|rarity=12/128}}
+{{DropsLine|name=Fire rune|quantity=10|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity=6/128}}
+{{DropsLine|name=Grimy harralander|quantity=1|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=14/128}}
+{{DropsLine|name=Willow wood spirit|quantity=3|rarity=6/128}}
+{{DropsLine|name=Teak wood spirit|quantity=2|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=200|rarity=34/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=450|rarity=12/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Furniture plans===
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Zamorak altar|quantity=1|rarity=}}
+{{DropsLine|name=Furniture plans: Zamorak rug|quantity=1|rarity=}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Ashes|quantity=1|rarity=16/128}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Redberries|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsLineWarpriest|god=zamorak}}
+{{DropsTableBottom}}
+
+==Money making guide==
+{{Mmgsection|Killing Pyrefiends}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Fiends concept art.png|Concept art for Pyrefiends, [[Icefiend]]s and [[Waterfiend]]s
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Pyrefiend (2005).png|name=Pyrefiend}}
+<!--
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Pyrefiend (June 2008).png|name=Pyrefiend}}
+-->
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Pyrefiend (July 2008).png|name=Pyrefiend}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Pyrefiend (God Wars Dungeon) (2012).png|name=Pyrefiend (God Wars Dungeon)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Pyrefiend (2014).png|name=Pyrefiend (1)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Pyrefiend (2) (2014).png|name=Pyrefiend (2)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Pyrefiend (3) (2014).png|name=Pyrefiend (3)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Pyrefiend (4) (2014).png|name=Pyrefiend (4)}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Pyrefiend.png|name=Pyrefiend}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Pyrefiend (God Wars Dungeon).png|name=Pyrefiend (God Wars Dungeon)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[medium plated mithril salvage]] drop with [[teak wood spirit]]s.
+** Replaced the [[tiny plated steel salvage]] drop with [[willow wood spirit]]s.
+
+* {{UL|type=patch|update=Housing of Parliament &amp; Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Pyrefiends have been graphically updated.
+
+* {{UL|type=ninja|update=Patch Notes (26 August 2014)|date=26 August 2014}}
+** Pyrefiend and icefiend models and animations have been updated to use the God Wars models and animations.
+
+* {{UL|type=update|update=God Wars: Remastered|date=5 September 2012}}
+** Pyrefiends in the God Wars Dungeon have been graphically updated.
+
+* {{UL|type=update|update=Chat Changes & Camera Controls|date=4 October 2011}}
+** Demons in Daemonheim now drop [[Impious ashes|impious]], accursed and infernal ashes.
+
+* {{UL|type=patch|update=Patch Notes (9 November 2009)|date=9 November 2009}}
+** Greatly sped up the death animation of pyrefiends.
+
+* {{UL|type=hidden|update=Smoking Kills|date=5 June 2008}}
+** Pyrefiends have been graphically updated.
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Pyrefiends used to have significant stalling on their combat animations, causing them to appear in a different tile from where they actually were. This was reduced with their graphical update in 2014.
+
+{{Slayer monsters}}
+{{Demons}}
+{{Elementals}}
+{{God Wars Dungeon}}
+[[Category:Participants in the God Wars]]

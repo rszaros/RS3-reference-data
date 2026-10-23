@@ -1,0 +1,170 @@
+{{External|os=Rock (Troll)}}
+{{Infobox Monster
+|name = Rock
+|image = [[File:Rock (monster).png|200px]]
+|release = [[9 August]] [[2004]]
+|update = Death Plateau Quest
+|members = No
+|options = Attack
+|examine = The biggest and baddest troll.
+|level = 88
+|lifepoints = 27900
+|experience = 1395.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 81
+|slayercat = Trolls
+|assigned_by = Chaeldar, Sumona, Turael, Spria
+|max_melee = 1890
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 63
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1130
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1230
+|defence = 63
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1095
+|leagueRegion=Asgarnia}}
+'''Rock''' is the strongest [[troll]] on [[Death Plateau (location)|Death Plateau]]. As he is the strongest troll in the area, caution is advised when fighting him, as he can hit a max of 1890 and has a fair amount of life points. Since he only attacks with melee, [[Protect from Melee]] or [[Deflect Melee]] may help. Like the rest of the "big, bad" trolls in the area, such as [[Stick]], [[Pee Hat]], and [[Kraka]], he may drop a [[rune warhammer]] or [[granite shield]].
+
+Since trolls are named after the first thing they eat, he probably ate a rock.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Death Plateau (location)|Death Plateau]]
+|lvls = 88
+|mem = Yes
+|mapID = 28
+|npcid:1095,x:2849,y:3591
+|leagueRegion=Asgarnia
+}}
+{{LocTableBottom}}
+
+Although the [[Death Plateau (location)|Death Plateau]] requires [[members]] to enter, [[free-to-play]] players may [[Bound (status)|bind]] and attack him from below the plateau to the south.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=3/256}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=3/256}}
+{{DropsLine|name=Granite shield|quantity=1|rarity=1/128|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Granite shield: 1/128|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Nature rune|quantity=16|rarity=5/128}}
+{{DropsLine|name=Law rune|quantity=4|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|15/128}}
+{{DropsTableHead}}
+{{HerbDropTable|15/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Huge plated steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium blunt steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Small plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small bladed adamant salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Huge plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium blunt rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=20|rarity=4/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=40|rarity=29/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=135|rarity=26/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=190|rarity=18/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=420|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=6|rarity=3/128}}
+{{DropsLine|name=Raw tuna|quantity=4 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Troll bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsLineCourtSummons}}
+{{DropsLineEffigy|level=88}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=88}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 416.245/1000
+|green = 52.031/1000
+|crimson = 34.687/1000
+|blue = 10.406/1000
+}}
+
+==Achievements==
+* {{Achievement|Slayer of Chaos}}
+** [[Granite shield]] drop
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[9 August]] [[2004]]|update=Death Plateau Quest|img=Rock (monster) (2004).png|name=Rock}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Rock (monster) (2008).png|name=Rock}}
+|{{GUL|date=[[15 March]] [[2011]]|update=Ring of Wealth, Shanties, Trolls and Dungeoneering|img=Rock (monster) (2011).png|name=Rock}}
+|{{GUL|date=[[31 January]] [[2012]]|update=Troll Warzone|img=Rock (monster).png|name=Rock}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Death Plateau Quest|date=9 August 2004}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Trolls}}
+[[Category:Bandosians]]

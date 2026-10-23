@@ -1,0 +1,73 @@
+{{Otheruses|the Davendale tutorial monster|Senntisten character|Troll lout (Senntisten)}}
+{{Infobox Monster
+|name = Troll lout
+|image = [[File:Troll lout.png]]
+|release = [[24 May]] [[2021]]
+|update = This Week In RuneScape: Battle of the Monolith & Guardian's Gift
+|members = No
+|options = Attack
+|examine = He will rock you.
+|level = 1
+|lifepoints = 100
+|experience = 20.0
+|aggressive = No
+|poisonous = No
+|slayercat = Trolls
+|max_melee = 72
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 202
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Stab
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = No
+|id = 27835
+|leagueRegion = No
+}}
+'''Troll louts''' are monsters that are fought during the [[Davendale Tutorial]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2-5|rarity=90/100}}
+{{DropsLine|name=Bronze kiteshield|quantity=1|rarity=10/100}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Troll 2021 rework concept art.jpg|Concept art
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=This Week In RuneScape: Battle of the Monolith & Guardian's Gift|date=24 May 2021}}
+** Added to game.
+}}
+
+{{Davendale}}
+{{Trolls}}

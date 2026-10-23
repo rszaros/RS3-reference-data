@@ -1,0 +1,115 @@
+{{Infobox Monster
+|version1 = Story mode 1
+|version2 = Story mode 2
+|version3 = Normal mode 1 (siege)
+|version4 = Normal mode 2 (siege)
+|version5 = Normal mode 1 (boss)
+|version6 = Normal mode 2 (boss)
+|version7 = Hard mode 1
+|version8 = Hard mode 2
+|image1 = Skeleton archer (Ancient Awakening, 1).png
+|image2 = Skeleton archer (Ancient Awakening, 2).png
+|image3 = Skeleton archer (Ancient Awakening, 1).png
+|image4 = Skeleton archer (Ancient Awakening, 2).png
+|image5 = Skeleton archer (Ancient Awakening, 1).png
+|image6 = Skeleton archer (Ancient Awakening, 2).png
+|image7 = Skeleton archer (Ancient Awakening, 1).png
+|image8 = Skeleton archer (Ancient Awakening, 2).png
+|name = Skeleton archer
+|image = 
+|release = [[20 November]] [[2023]]
+|update = Vorkath, Battle for Forinthry - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|race = Skeleton
+|examine1 = A bone-a fide skeleton.
+|examine2 = He's got a bone to pick with you.
+|examine3 = A bone-a fide skeleton.
+|examine4 = He's got a bone to pick with you.
+|examine5 = A bone-a fide skeleton.
+|examine6 = He's got a bone to pick with you.
+|examine7 = A bone-a fide skeleton.
+|examine8 = He's got a bone to pick with you.
+|level = 76
+|level5 = 97
+|level6 = 97
+|level7 = 97
+|level8 = 97
+|lifepoints1 = 7650
+|lifepoints2 = 7650
+|lifepoints3 = 15300
+|lifepoints4 = 15300
+|lifepoints5 = 18000
+|lifepoints6 = 18000
+|lifepoints7 = 36000
+|lifepoints8 = 36000
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp =
+|slayercat = Skeletons, Undead
+|max_melee = 0
+|max_ranged1 = 300
+|max_ranged2 = 300
+|max_ranged3 = 1005
+|max_ranged4 = 1005
+|max_ranged5 = 1875
+|max_ranged6 = 1875
+|max_ranged7 = 1875
+|max_ranged8 = 1875
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Ranged
+|primarystyle = Ranged
+|speed = 5
+|attack = 1
+|ranged = 60
+|ranged5 = 75
+|ranged6 = 75
+|ranged7 = 75
+|ranged8 = 75
+|magic = 1
+|necromancy = 1
+|acc_melee = 
+|acc_ranged = 
+|acc_magic = 
+|acc_necromancy = 
+|abilities =
+|armour = 850
+|armour5 = 1299
+|armour6 = 1299
+|armour7 = 1299
+|armour8 = 1299
+|defence = 50
+|defence5 = 65
+|defence6 = 65
+|defence7 = 65
+|defence8 = 65
+|weakness = Crush
+|susceptibility = undead
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain =
+|restriction = 
+|leagueRegion = Misthalin
+|id = 30656, 30657
+}}
+The '''skeleton archers''' are [[monster]]s fought during the [[Zemouregal & Vorkath]] battle in the [[Zemouregal & Vorkath#Siege phase|siege phase]].
+
+They attack the fort from the north-western [[place of power]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Vorkath, Battle for Forinthry - This Week In RuneScape|date=20 November 2023}}
+** Added to game.
+}}
+
+{{Zemouregal & Vorkath}}
+{{Battle of Forinthry}}
+[[Category:Boss minions]]

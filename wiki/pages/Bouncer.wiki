@@ -1,0 +1,234 @@
+{{External|os|rsc}}
+{{Otheruses|the hellhound}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Fight Arena
+|version2 = The General's Shadow
+|version3 = Dominion Tower
+|version4 = Rumble Mode
+|name = Bouncer
+|image1 = [[File:Bouncer.png]]
+|image2 = [[File:Bouncer (ghost).png]]
+|image3 = [[File:Bouncer.png]]
+|image4 = [[File:Bouncer.png]]
+|release1 = [[23 July]] [[2002]]
+|release2 = [[12 February]] [[2007]]
+|release3 = [[1 November]] [[2011]]
+|release4 = [[20 June]] [[2016]]
+|update1 = Members' quests
+|update2 = A sq'irk a day...
+|update3 = Dominion Tower
+|update4 = Gower Quest - Get Ready For Telos
+|members = Yes
+|options = Attack, Examine
+|race = Hellhound
+|examine1 = Postie Pete's worst nightmare.
+|examine2 = Big, mean, dead doggy.
+|examine3 = 
+|examine4 = 
+|level1 = 77
+|level2 = 91
+|level3 = 77
+|level4 = 77
+|lifepoints1 = 13150
+|lifepoints2 = 14550
+|lifepoints3 = 13150
+|lifepoints4 = 13150
+|experience1 = 657.5
+|experience2 = 727.5
+|experience3 = 657.5
+|experience4 = 657.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp2 = 
+|slayercat1 = No
+|slayercat2 = Ghosts, Undead
+|slayercat3 = No
+|slayercat4 = No
+|max_melee1 = 440
+|max_melee2 = 520
+|max_melee3 = 660
+|max_melee4 = 660
+|max_ranged1 = 440
+|max_ranged2 = 0
+|max_ranged3 = 660
+|max_ranged4 = 660
+|max_magic1 = 440
+|max_magic2 = 0
+|max_magic3 = 660
+|max_magic4 = 660
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack1 = 55
+|attack2 = 65
+|attack3 = 55
+|attack4 = 55
+|ranged1 = 55
+|ranged2 = 1
+|ranged3 = 55
+|ranged4 = 55
+|magic1 = 55
+|magic2 = 1
+|magic3 = 55
+|magic4 = 55
+|necromancy = 1
+|acc_melee1 = 983
+|acc_melee2 = 1299
+|acc_melee3 = 983
+|acc_melee4 = 983
+|acc_ranged1 = 983
+|acc_ranged2 = 0
+|acc_ranged3 = 983
+|acc_ranged4 = 983
+|acc_magic1 = 983
+|acc_magic2 = 0
+|acc_magic3 = 983
+|acc_magic4 = 983
+|acc_necromancy = 0
+|abilities = 
+|armour1 = 983
+|armour2 = 1299
+|armour3 = 983
+|armour4 = 983
+|defence1 = 55
+|defence2 = 65
+|defence3 = 55
+|defence4 = 55
+|weakness1 = None
+|weakness2 = Air
+|weakness3 = None
+|weakness4 = None
+|susceptibility1 = 
+|susceptibility2 = Undead slayer
+|susceptibility3 = 
+|susceptibility4 = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|restriction4 = minigame
+|id1 = 269
+|id2 = 5564, 5565
+|id3 = 14555, 14483
+|id4 = 18924
+|leagueRegion =Kandarin
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = Dominion Tower
+|version2 = Dominion Tower (ghost)
+|version3 = Rumble Mode
+|name = Bouncer
+|image1 = [[File:Bouncer.png]]
+|image2 = [[File:Bouncer (ghost).png]]
+|image3 = [[File:Bouncer (ghost).png]]
+|release = [[1 November]] [[2011]]
+|release3 = [[20 June]] [[2016]]
+|update = Dominion Tower
+|update3 = Gower Quest - Get Ready For Telos
+|level1 = N/A
+|level2 = 98
+|level3 = 98
+|members = Yes
+|race = Hellhound
+|quest = No
+|location = [[Dominion Tower]]
+|gender = Not specified
+|options = Examine
+|examine1 =
+|examine2 =
+|examine3 =
+|map = No
+|id1 = 14482
+|id2 = 14247
+|id3 = 17274
+|leagueRegion =Desert
+}}
+}}
+'''Bouncer''' is the [[hellhound]] pet of a [[Mahjarrat]], [[General Khazard]]. He serves as the final required boss of the [[Fight Arena]] quest, and as the final boss of [[The General's Shadow (miniquest)|The General's Shadow]] miniquest. Despite Khazard's fearsome reputation and aggressive nature, he cares deeply for his "puppy". Bouncer is subsequently killed, to Khazard's great anger and dismay. Bouncer's ghost is later fought in The General's Shadow when, in the [[Shadow Realm]], Khazard tricked that adventurer to do something for him, but really led them to a cave where Bouncer stood ready to assassinate them. However, Khazard's plan failed and Bouncer's ghost was slain.
+
+==Appearances==
+===Fight Arena===
+During the [[Fight Arena]] quest, players must undergo a series of fights in order to free the [[Servil family]] from the Fight Arena. After defeating the [[Khazard ogre]] and [[Khazard scorpion]], General Khazard sets bouncer on you, remarking that you need a tougher challenge.
+
+Most players should have no trouble with Bouncer, as he only attacks with weak melee, and is in fact weaker than a regular hellhound. It's possible to safespot Bouncer by using Ranged or Magic from behind the skeletons that lay around in the Fight Arena. It is also possible to use a [[halberds|halberd]] to attack him from one of these [[safe spot]]s. 
+
+After Bouncer is killed, General Khazard will become enraged about his death, and attack you himself, although it is not required to face him.
+
+Bouncer can be fought as a class E boss monster in the [[Dominion Tower]] minigame after Fight Arena has been completed, with the exact same stats as he had during the quest.
+
+===The General's Shadow (miniquest)===
+During the General's Shadow miniquest, players head to a cave near the fishing guild to retrieve a 'reward' that General Khazard has promised them. However, they instead encounter Bouncer's ghost, with the player then realising it was a trap and that they had been tricked. This time around the encounter with Bouncer is notably more dangerous, as he is stronger players cannot use [[Prayer]] during the fight. 
+
+[[Magic]] is suggested as the best method to kill him, as he is weak to Air spells, so a powerful air spell such as [[Air Wave]], [[Air Surge]], or even [[Smoke spells]] from the [[Ancient Magicks]] book is suggested. The [[Polypore staff]] is notably effective since its special spell, [[Polypore Strike]], is air-based.
+
+In the south-western corner of the room there is a crevice where players will be safe from Bouncer and able to eat food if needed.
+
+When Bouncer reaches low life points, players will automatically throw the [[Severed leg]], which Bouncer will chase, only to be stabbed in the back by the player, rewarding 2000 [[Slayer]] experience and a [[shadow sword]].
+
+===Ritual of the Mahjarrat===
+Bouncer's ghost reappears in Ritual of the Mahjarrat, and is summoned repeatedly by [[General Khazard (monster)|General Khazard]] during the fight against him. Bouncer will attack the player with rapid unblockable damage, and is unable to be harmed by the player. If the player walks near [[Wahisietel]], Wahisietel will hit 7000 damage on him, killing him in a single hit, and the player can resume fighting Khazard.
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Bouncer fight.png|Using a safespot to fight bouncer.
+File:Bouncer dog pain.png|Fighting Bouncer's ghost.
+File:Bouncer dies.png|[[Wahisietel]] kills Bouncer.
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|beta=yes|img=Bouncer (RS2 beta).png|name=Bouncer}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Bouncer (2004).png|name=Bouncer}}
+|{{GUL|date=[[4 June]] [[2007]]|update=Hair of the dog|img=Bouncer (2007).png|name=Bouncer}}
+|{{GUL|date=|update=|img=Bouncer.png|name=Bouncer}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Update:Combat Update & Thok's Smashing Buffs- This Week In RuneScape|date=4 March 2024}}
+** Increased the base hit chance of all the following bosses to use the standard base hit chances.
+** Increased the life points of the boss:
+*** Bouncer - [[Fight Arena]]
+**** HP: 5500 → 13150
+**** [[Dominion Tower]] HP: 5500 → 13150
+*** Bouncer - [[The General's Shadow (miniquest)|The General's Shadow]]
+**** HP: 6500 → 14550
+
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Members' quests|date=23 July 2002}}
+** Added to game.
+}}
+
+==Trivia==
+* [[Postie Pete]] is mentioned in Bouncer's examine text as Bouncer being his worst nightmare. This is likely because of a combination of him being made of bones, which dogs like to chew, and being a mailman, which dogs are known to attack.
+
+{{Fight Arena}}
+{{Ritual of the Mahjarrat}}
+{{The General's Shadow (miniquest)}}
+{{Dominion Tower}}
+{{Demons}}
+{{Ghost}}
+{{Dogs}}
+[[Category:Quest monsters]]
+[[Category:Bosses]]

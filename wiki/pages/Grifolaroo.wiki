@@ -1,0 +1,204 @@
+{{Infobox Monster
+|version1 = Normal
+|version2 = Neem oil
+|name = Grifolaroo
+|image1 = [[File:Grifolaroo.png|250px]]
+|image2 = [[File:Grifolaroo (neem oil).png|250px]]
+|release = [[28 November]] [[2011]]
+|update = Polypore Dungeon
+|members = Yes
+|options = Attack
+|examine1 = A bouncy creature covered in grifolic fungus.
+|examine2 = This grifolaroo has been weakened slightly.
+|level = 107
+|lifepoints = 7700
+|experience = 385.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 82
+|slayxp = 323.2
+|slayercat = Grifolaroos, Polypore creatures
+|assigned_by = Kuradal, chaeldar, duradel, sumona,
+|max_melee = 0
+|max_ranged1 = 308
+|max_ranged2 = 154
+|max_magic1 = 308
+|max_magic2 = 154
+|max_necromancy = 0
+|max_spec = 0
+|style = magic, ranged
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 77
+|magic = 77
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 1783
+|acc_magic = 1783
+|acc_necromancy = 0
+|armour = 1566
+|defence = 77
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 14700
+|id2 = 14701
+|leagueRegion = Misthalin
+}}
+[[File:Grifolaroo icon.png|left]]'''Grifolaroos''' are monsters found in the [[Polypore Dungeon]]. They are the third strongest monster there, requiring a [[Slayer]] level of 82 to be killed, and 60 [[Magic]] to receive as a [[Slayer task]]. They are the weakest monster to drop [[grifolic flakes]], which can be made into the [[grifolic armour]] set. They are also the only monster that can drop [[grifolic gloves]] and [[grifolic orb]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Polypore Dungeon]]
+|lvls=107
+|mem=yes
+|mapID=41
+|npcid:14700,x:3307,y:9333|npcid:14700,x:3311,y:9338|npcid:14700,x:3313,y:9330
+|npcid:14700,x:3315,y:9335|npcid:14700,x:3349,y:9514|npcid:14700,x:3353,y:9513
+|npcid:14700,x:3355,y:9517|npcid:14700,x:3356,y:9512|npcid:14700,x:3372,y:9530
+|npcid:14700,x:3376,y:9497|npcid:14700,x:3378,y:9528|npcid:14700,x:3378,y:9534
+|npcid:14700,x:3380,y:9503|npcid:14700,x:3380,y:9532|npcid:14700,x:3381,y:9496
+|npcid:14700,x:3408,y:9684|npcid:14700,x:3410,y:9680|npcid:14700,x:3416,y:9685
+|npcid:14700,x:3431,y:9680|npcid:14700,x:3434,y:9676|npcid:14700,x:3435,y:9683
+|npcid:14700,x:3437,y:9677|npcid:14700,x:3347,y:9546|npcid:14700,x:3351,y:9543
+|npcid:14700,x:3352,y:9546|npcid:14700,x:3369,y:9550|npcid:14700,x:3370,y:9553
+|npcid:14700,x:3370,y:9572|npcid:14700,x:3371,y:9548|npcid:14700,x:3371,y:9567
+|npcid:14700,x:3376,y:9570|npcid:14700,x:3358,y:9357|npcid:14700,x:3361,y:9361
+|npcid:14700,x:3409,y:9551|npcid:14700,x:3413,y:9551|npcid:14700,x:3413,y:9556
+|npcid:14700,x:3416,y:9555|npcid:14700,x:3416,y:9579|npcid:14700,x:3416,y:9581
+|npcid:14700,x:3418,y:9584|npcid:14700,x:3420,y:9579|npcid:14700,x:3435,y:9569
+|npcid:14700,x:3437,y:9566|npcid:14700,x:3438,y:9570|npcid:14700,x:3473,y:9748
+|npcid:14700,x:3474,y:9743|npcid:14700,x:3480,y:9745
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Polypore Dungeon resource dungeon]]
+|lvls=107
+|mem=yes
+|requirements = {{Skillreq|Dungeoneering|82}}
+|mapID=41
+<!-- Plane 1 -->
+|npcid:14700,x:3247,y:9321|npcid:14700,x:3248,y:9327|npcid:14700,x:3249,y:9325
+|npcid:14700,x:3252,y:9323
+<!-- Plane 2 -->
+|npcid:14700,x:3272,y:9526|npcid:14700,x:3273,y:9542|npcid:14700,x:3274,y:9523
+|npcid:14700,x:3275,y:9530|npcid:14700,x:3277,y:9540|npcid:14700,x:3278,y:9524
+|npcid:14700,x:3279,y:9545|npcid:14700,x:3296,y:9551|npcid:14700,x:3296,y:9555
+|npcid:14700,x:3297,y:9557|npcid:14700,x:3312,y:9555|npcid:14700,x:3315,y:9551
+|npcid:14700,x:3317,y:9558|npcid:14700,x:3319,y:9554
+<!-- Plane 3 -->
+|npcid:14700,x:3375,y:9725|npcid:14700,x:3378,y:9728|npcid:14700,x:3382,y:9724
+|npcid:14700,x:3382,y:9729
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Strategy==
+{{cquote2|The last Grifolaroo I killed I found earth spells took them down effectively.
+
+Grifolaroos live in a cave north-east of the Mage Training Arena. The creatures of that dungeon are coated in toxic fungus, so you should fight them from a distance, although they'll try to hop over obstacles towards you. The fungus helps them repair physical damage, so you might prefer using magical attacks.|[[Chaeldar]]}}
+
+All ranged and melee hits done to all monsters in the [[Polypore Dungeon]], including grifolaroos, are heavily capped (including [[dwarf multicannon]]s) to 40 damage per hit. As such, using magic or necromancy is highly recommended.
+
+Grifolaroos use both Magic and Ranged attacks against players. The ranged attack prompts it to turn around and launch barbs, while it makes a squeezing motion to launch a transparent projectile as its magic attack.
+
+When attacked and the player is not within 2 spaces of the Grifolaroo, it will yell {{RSFont|Hup!}} and jump 3-4 spaces towards the player - it may also get itself stuck in an inaccessible area on the platform at some cases. The player will briefly lose track of the Grifolaroo as it jumps, after which it becomes targetable again shortly after it jumped. Grifolaroos will also attempt to close in on the player to infest them with fungi.
+
+Due to the jumping mechanic, it's best to stay within melee distance of a Grifolaroo so it does not jump. Spraying [[neem oil]] will prevent infestation damage, although they should be taken down quickly.
+
+[[File:Grifolaroo neem.png|thumb|A Grifolaroo affected by neem oil.]]
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Neem drupe|quantity=1-3|rarity=Always|gemw=No}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Grifolic orb|quantity=1|rarity=1/60}}
+{{DropsLine|name=Grifolic gloves|quantity=1|rarity=1/60}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|8/60}} ''When this table is rolled, two rolls will be performed every time. There is an additional 4/60 chance to roll once for morchella mushroom spores.''
+{{DropsTableHead}}
+{{DropsLine|name=Morchella mushroom spore|quantity=3|rarity=4/60}}
+{{UncommonSeedDropTable|8/60|rolls=2}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Gorajian mushroom|quantity=3 (noted)|rarity=16/60}}
+{{DropsLine|name=Grifolic flake|quantity=1-75|rarity=12/60}}
+{{DropsLine|name=Polypore spore|quantity=1-300|rarity=10/60}}
+{{DropsLine|name=Snape grass|quantity=10-19 (noted)|rarity=8/60}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=107}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=107}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 37.325/1000
+|green = 18.662/1000
+|crimson = 119.439/1000
+|blue = 7.465/1000
+}}
+==Achievements==
+* {{Achievement|Fenkenstrain's Monster}} 
+** [[Grifolic orb]] and [[grifolic gloves]] drops
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (7 March 2016)|date=7 March 2016}}
+** Grifolaroos have had their combat stats rebalanced (weakened variant).
+
+* {{UL|type=patch|update=Patch Notes (2 November 2015)|date=2 November 2015}}
+** Now deals damage correctly with ranged and magic attacks.
+
+* {{UL|type=update|update=Polypore Dungeon|date=28 November 2011}}
+** Added to game.
+}}
+
+==Trivia==
+* The skull of the grifolaroo resembles that of the old Slayer icon, which is depicted as an animal skull.
+* The description seems to hint that the name "grifolaroo" is a reference to kangaroos.
+* The name also sounds similar to (The) 'Gruffalo' which, in the book, has '''purple prickles all over his back''<nowiki/>', a feature that is shared with a grifolaroo that also has spines, or prickles, that the monster uses to attack the player (although these are yellow in colour).
+* Occasionally while fighting the grifolaroo, it will say "Hup!". It is the only monster along with the grifolapine to have a dialogue in Polypore Dungeon other than the "Ssss!" and "Krrr!".
+* There is a glitch where if the grifolaroo says "Hup!" and soon gets its cover back and you click on your neem oil, you spray the neem oil on another monster instead rather than the monster you are targeting. This also affects attacking too.
+* If a player manages to deal a killing blow on a grifolaroo when it says "Hup!" the death animation will not be seen. This also is similar to landing a killing blow on an [[abyssal demon]] during the teleportation phase.
+* It is possible for a grifolaroo to jump into an area inaccessible to players, making it impossible to collect your drops unless players bring runes for the Telegrab spell.
+* The examine text resembles that of a [[zygomite]]: "A bouncy fungus" versus "a bouncy creature covered in...fungus".
+* As of [[1 February]] [[2018]], the highest kill count for these monsters was 259,437 kills, shared with all polypore creatures.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=http://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+** This had increased to 351,360 by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=http://archive.is/Fxc11|archivedate=28 February 2020|notes=|name=}}
+
+==References==
+{{reflist}}
+
+{{Slayer monsters}}
+{{Polypore Dungeon}}

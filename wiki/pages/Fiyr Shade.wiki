@@ -1,0 +1,124 @@
+{{External|os}}
+{{Otheruses|def=no|the Temple Trekking variant|Shade (Temple Trekking)}}
+{{Infobox Monster
+|version1 = Shade
+|version2 = Shadow
+|name1 = Fiyr Shade
+|name2 = Fiyr Shadow
+|image1 = [[File:Fiyr Shade.png|120px]]
+|image2 = [[File:Fiyr Shadow.png|200px]]
+|release = [[18 October]] [[2004]]
+|update = Mortton Shades and Mage Armour
+|members = Yes
+|options = Attack
+|examine1 = The shadowy remains of a long departed soul.
+|examine2 = A shadowy sort of entity, kind of creepy looking.
+|level = 98
+|lifepoints = 7000
+|experience = 350.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 43
+|slayercat = Shades, Ghosts, Undead
+|assigned_by = Mazchna
+|max_melee = 672
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 70
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1486
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1486
+|defence = 70
+|weakness = Water
+|susceptibility = Salve, Gadderhammer, Ghost
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|leagueRegion = Morytania
+|id1 = 1250
+|id2 = 1249
+}}
+'''Fiyr Shades''' lurk behind the silver door in the [[Shade Catacombs]] in [[Mort'ton]]. They initially appear as very dark moving shadows on the ground and then rise from the depths to attack or retaliate. They are combat level 98 and their primary weakness is magic. Like all shades, they have a special attack that deals moderate damage and has a chance of draining one's [[Strength]] level. Their remains can be cremated with [[magic pyre logs]], requiring a [[Firemaking]] level of 80. The [[salve amulet]] and [[salve amulet (e)]] work well on this shade.
+
+Other Fiyr Shades (called [[Shade (Temple Trekking)|Shade]] in-game) can be found in [[Temple Trekking]], attempting to break into the houses of the three unafflicted people in Mort'ton.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Shade Catacombs]]
+|lvls=98
+|mem=yes
+|requirements = {{AchievementIcon|Shades of Mort'ton}} and any {{Ilink|silver key|pic=Silver key crimson|txt=silver shade key}}
+|mapID=41
+|npcid:1249,x:3458,y:9678|npcid:1249,x:3458,y:9687|npcid:1249,x:3458,y:9696
+|npcid:1249,x:3459,y:9687|npcid:1249,x:3463,y:9674|npcid:1249,x:3463,y:9687
+|npcid:1249,x:3463,y:9699|npcid:1249,x:3464,y:9691
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+{{Reflist|group=n}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Fiyr remains|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-11|rarity=1/20}}
+{{DropsLineGhosts|ectorarity=1000|herbrarity=1024}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (13 May 2013)|date=13 May 2013}}
+** Two lines of text concerning burning shades have been added to the [[game filter]].
+
+* {{UL|type=update|update=Mortton Shades and Mage Armour|date=18 October 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* When encountered during a Trek, they are simply named 'Shade'. They still drop Fiyr remains when killed. Some of them are also not aggressive.
+* In the Trek or Ramble, if they manage to break the door or the player opens the door for them, they will say address the hiding NPC and say, "Your time has come, _______." or " It is over, _______." before killing them.
+* For about a week after the release of the [[Evolution of Combat]], these monsters retained their pre-EoC stats. This made them have high combat levels, with low life points and damage, and a weakness to crush. Their stats were changed to the levels they had in the combat beta with the release of the [[Update:Ariane Quest Double Bill|Ariane quests]].
+* With the update of the [[Shades of Mort'ton (minigame)|Shades of Mort'ton]] minigame, their [[Fiyr remains|remains]] boasted a street price of 10k each, although the current G.E. price is: {{NoCoins|{{GEPrice|Fiyr remains}}|c}}. This was due to the addition of the [[shade master kit]], used to upgrade [[Dagon'hai robes set]], and [[shade skull]]s, a cosmetic attachment to [[elemental staves]], which are obtained by unlocking shade chests with [[gold key]]s from their cremated remains.
+
+==References==
+{{Reflist}}
+
+{{Shades of Mort'ton (minigame)}}
+{{Mort'ton}}
+{{Ghost}}

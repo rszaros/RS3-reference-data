@@ -1,0 +1,100 @@
+{{Infobox Monster
+|name = TokHaar-Mej
+|image = [[File:TokHaar-Mej.png|200px]]
+|release = [[4 December]] [[2012]]
+|update = The Brink of Extinction - Grandmaster Quest
+|members = Yes
+|options = Attack
+|race = TokHaar
+|examine = A potent combination of magical prowess and honed obsidian.
+|level = 119
+|lifepoints = 3825
+|experience = 191.2
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 254
+|slayercat = TzHaar
+|assigned_by = Kuradal,Morvran
+|max_melee = 480
+|max_ranged = 0
+|max_magic = 850
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 5
+|attack = 70
+|ranged = 1
+|magic = 85
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 2178
+|acc_necromancy = 0
+|armour = 2178
+|defence = 85
+|weakness = Bolts
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id = 17118
+|leagueRegion = Karamja
+}}
+The '''TokHaar-Mej''' is a monster that can be fought during the [[Fight Cauldron]] minigame. It can be killed for [[TzHaar]] slayer assignments.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Obsidian shard|quantity=2|rarity=Always|gemw=no|alch=no|raritynotes={{DropNote|Shards are automatically picked up after every kill. They appear in the player's backpack upon leaving the Fight Cauldron. If the player dies, they instead only receive '''half''' of the shards they obtained.}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Fire rune|quantity=200|rarity=1/7}}
+{{DropsLine|name=Nature rune|quantity=20|rarity=1/7}}
+{{DropsLine|name=Blood rune|quantity=15|rarity=1/7}}
+{{DropsTableBottom}}
+
+===Main===
+{{DropsTableHead}}
+{{DropsLine|name=Uncut emerald|quantity=2 (noted)|rarity=1/7}}
+{{DropsLine|name=Nothing|rarity=3/7}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Uncut ruby|quantity=1 (noted)|rarity=1/10}}
+{{DropsLine|name=Toktz-mej-tal|quantity=1|rarity=1/50}}
+{{DropsLine|name=Onyx bolt tips|quantity=2|rarity=1/50}}
+{{DropsLine|name=Uncut onyx|quantity=1|rarity=1/5000}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Jungle Predator}}
+** [[Toktz-mej-tal]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=The Brink of Extinction - Grandmaster Quest|date=4 December 2012}}
+** Added to game.
+}}
+
+{{Fight Cauldron}}
+[[Category:TokHaar]]

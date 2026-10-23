@@ -1,0 +1,237 @@
+{{External|os}}
+{{Multi Infobox
+|item1 = 
+{{Infobox NPC
+|version1 = Human
+|version2 = Mutant tarn (Dominion Tower)
+|version3 = Tarn (Dominion Tower)
+|name = Tarn
+|image1 = Human tarn.png
+|image2 = [[File:Tarn mutant.png]]
+|image3 = [[File:Tarnghost.png]]
+|release1 = [[22 January]] [[2007]]
+|release2 = [[1 November]] [[2011]]
+|release3 = [[1 November]] [[2011]]
+|update = The Lair of Tarn Razorlor
+|update2 = Dominion Tower
+|update3 = Dominion Tower
+|members = Yes
+|quest1 = [[Lair of Tarn Razorlor (miniquest)]]
+|quest = No
+|location = [[Lair of Tarn Razorlor (dungeon)|Lair of Tarn Razorlor]]
+|location2 = [[Dominion Tower]]
+|location3 = [[Dominion Tower]]
+|gender = Male
+|race1 = Human
+|race2 = 
+|race3 = Ghost
+|actions = Examine
+|examine1 = A mad man.
+|examine2 = I preferred him when he was human.
+|examine3 = A mad man.
+|id1 = 5419
+|id2 = 14426
+|id3 = 14427
+}}
+|text1 = Human
+|item2 = 
+{{Infobox Monster
+|version1 = Mutant tarn
+|version2 = Tarn
+|version3 = Mutant tarn (Dominion Tower)
+|version4 = Tarn (Dominion Tower)
+|name1 = Mutant tarn
+|name2 = Tarn
+|name3 = Mutant tarn
+|name4 = Tarn
+|image1 = [[File:Tarn mutant.png]]
+|image2 = [[File:Tarnghost.png]]
+|image3 = [[File:Tarn mutant.png]]
+|image4 = [[File:Tarnghost.png]]
+|release1 = [[22 January]] [[2007]]
+|release2 = [[22 January]] [[2007]]
+|release3 = [[1 November]] [[2011]]
+|release4 = [[1 November]] [[2011]]
+|update1 = The Lair of Tarn Razorlor
+|update2 = The Lair of Tarn Razorlor
+|update3 = Dominion Tower
+|update4 = Dominion Tower
+|members = Yes
+|options = Attack, Examine
+|race1 = 
+|race2 = Ghost
+|race3 = 
+|race4 = Ghost
+|examine1 = I preferred him when he was human.
+|examine2 = A mad man.
+|examine3 = I preferred him when he was human.
+|examine4 = A mad man.
+|level = 79
+|lifepoints1 = 11400
+|lifepoints2 = 2850
+|lifepoints3 = 14820
+|lifepoints4 = 7410
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp2 = 61
+|slayxp4 =
+|slayercat = No
+|slayercat2 = Ghosts, Undead
+|slayercat4 = Ghosts, Undead
+|max_melee1 = 228.0
+|max_melee2 = 0.0
+|max_melee3 = 342.0
+|max_melee4 = 342.0
+|max_ranged1 = 0.0
+|max_ranged2 = 0.0
+|max_ranged3 = 342.0
+|max_ranged4 = 342.0
+|max_magic1 = 0.0
+|max_magic2 = 912.0
+|max_magic3 = 342.0
+|max_magic4 = 342.0
+|max_necromancy = 0.0
+|style1 = melee
+|style2 = magic
+|style3 = ranged
+|style4 = melee
+|primarystyle1 = melee
+|primarystyle2 = magic
+|primarystyle3 = ranged
+|primarystyle4 = melee
+|speed = 4
+|attack1 = 57
+|attack2 = 1
+|attack3 = 57
+|attack4 = 57
+|ranged1 = 1 
+|ranged2 = 1
+|ranged3 = 57
+|ranged4 = 57
+|magic1 = 1
+|magic2 = 57
+|magic3 = 57
+|magic4 = 57
+|necromancy = 0
+|acc_melee1 = 1040
+|acc_melee2 = 0
+|acc_melee3 = 1040
+|acc_melee4 = 1040
+|acc_ranged1 = 0
+|acc_ranged2 = 0
+|acc_ranged3 = 1040
+|acc_ranged4 = 1040
+|acc_magic1 = 0
+|acc_magic2 = 1040
+|acc_magic3 = 1040
+|acc_magic4 = 1040
+|acc_necromancy = 0
+|defence = 57
+|armour = 1040
+|weakness1 = Air
+|weakness2 = Thrown
+|weakness3 = Nothing
+|weakness4 = Nothing
+|susceptibility2 = Salve
+|susceptibility4 = Salve
+|aff_weakness1 = 90
+|aff_weakness2 = 90
+|aff_weakness3 = 40
+|aff_weakness4 = 40
+|aff_melee1 = 60
+|aff_melee2 = 50
+|aff_melee3 = 40
+|aff_melee4 = 40
+|aff_ranged1 = 50
+|aff_ranged2 = 70
+|aff_ranged3 = 40
+|aff_ranged4 = 40
+|aff_magic1 = 70
+|aff_magic2 = 60
+|aff_magic3 = 40
+|aff_magic4 = 40
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction1 = quest
+|restriction2 = quest
+|restriction3 = minigame
+|restriction4 = minigame
+|id1 = 5421
+|id2 = 5420
+|id3 = 14429, 17317
+|id4 = 14430, 17318
+|leagueRegion = Morytania
+}}
+|text2 = In combat
+}}
+[[File:Tarn Razorlor chathead.png|left|80px]]
+'''Tarn Razorlor''' is a sorcerer and necromancer that dwells in [[Lair of Tarn Razorlor (dungeon)|his Lair]] beneath the [[Mort Ridge Mine]]. He is the [[boss]] monster in the miniquest [[Lair of Tarn Razorlor (miniquest)|Lair of Tarn Razorlor]], and is guarded by his undead minions, [[animated steel armour (Lair of Tarn Razorlor)|animated steel armour]], and [[terror dog]]s.
+
+Tarn Razorlor is fightable as a class H boss monster in the [[Dominion Tower]] minigame if the player has completed [[Haunted Mine]].
+
+==Background==
+He and his followers originally trekked through [[Morytania]] searching for a mysterious and powerful [[Haunted Mine|crystal]] with which to control the undead. In the process, it is implied that Tarn encountered [[Treus Dayth]], the guard of the crystals, and fled into an ancient dungeon beneath [[Burgh de Rott]] while his followers attempted to destroy the ghost. His followers are now dead, but with his necromancy skills he made them into the undead that scatter the lair. He is insane and was once an ordinary man; now he is a twisted monster.
+
+==Fighting strategy==
+{{Main|Lair of Tarn Razorlor (miniquest)#Fighting Tarn Razorlor}}
+[[File:Tarn's Lair map.png|thumb|right|A map of Tarn's Lair, with Tarn's location shown in red]]
+When Tarn is first encountered, he is in human form, and then proceeds to change into a mutant form (level 79) before attacking. Even after he is defeated in this form, a ghost form (level 79) will appear and attack. After the ghost is dealt with, Tarn will finally be defeated. After he is defeated, one will receive 5,000 [[Slayer]] experience. In addition to that, they gain the ability to enchant the [[salve amulet]] into the enchanted [[salve amulet (e)]], using [[Tarn's diary]]. This amulet is used to raise the wearer's [[Attack]] and [[Strength]] by 20% while attacking undead monsters, but will now increase accuracy and damage of all combat styles by 20%.
+{{Clear|left}}
+
+==Dominion Tower==
+In the [[Dominion Tower]], Tarn starts the match in mutant form with four large terror dogs next to him. In mutant form, Tarns attacks with magic while the dogs attack with melee. Once mutant Tarn is slain, his ghost form appears and attacks with melee. Unlike in his lair, he has no weakness here, so all attack styles are equally effective.
+
+The match is won by killing the ghost Tarn. The terror dogs do not have to be killed.
+
+As the match does not occur in Tarn's lair, the rapid Prayer drain of the lair is not in effect, making it practical to pray during the fight. [[Protect from Melee]]/[[Deflect Melee]] is most effective, reducing the damage taken by the dogs and the ghost.
+
+==Dialogue==
+{{Speaksin}}
+
+===Quotes===
+{{Clear|left}}
+{{Listen|align = left|title = I can't be slain that easily, fool!|filename = Tarn Razorlor - I can't be slain that easily, fool!.ogg|desc=}}
+{{Listen|align = left|title = Tarn's battle theme|filename = Tarn Razorlor.ogg|desc=}}
+{{Listen|align = left|title = It's Tarn!|filename = Tarn (Lair of Tarn Razorlor).ogg|desc=}}
+{{Clear}}
+
+==Works==
+{{Worksby}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=ninja|update=Patch Notes (22 January 2018)|date=22 January 2018}}
+** Tarn Razorlor no longer despawns if a player takes too long to kill him in his mutant and ghost forms. This is to allow for usage of a [[ring of recoil]] to defeat him.
+
+* {{UL|type=patch|update=Patch_Notes_(21 March 2016)|date=21 March 2016}}
+** Corrected item XP given when fighting [[Sickly airut]], Tarn Razorlor and [[Damis]].
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* Players do not have to complete the miniquest in order to fight Tarn in the Dominion Tower, just Haunted Mine, making it possible to fight a boss you have never seen before.
+* Killing Tarn with terror dogs as a Slayer task grants extra Slayer experience on top of the 5,000 gained from killing him originally.
+* Tarn's mutated form may be inspired by [https://en.wikipedia.org/wiki/Hulk The Incredible Hulk], as both characters have green skin, a large size, and wear torn pants upon transforming.
+
+==See also==
+* [[Lair of Tarn Razorlor (miniquest)]] - The miniquest where the player meets Tarn Razorlor.
+* [[Lair of Tarn Razorlor (dungeon)]] - The dungeon he dwells beneath the Haunted Mines.
+* [[Salve amulet (e)]]
+
+{{Lair of Tarn Razorlor (miniquest)}}
+{{Dominion Tower}}
+{{Ghost}}
+{{Necromancer}}
+[[Category:Antagonists]]
+[[Category:Unique monsters]]
+[[Category:Zamorakians]]
+[[Category:Quest monsters]]
+[[Category:Deceased characters]]

@@ -1,0 +1,61 @@
+{{Infobox Monster
+|name = Zombie captain
+|image = [[File:Zombie captain.png|170px]]
+|release = [[19 March]] [[2018]]
+|update = Pieces of Hate - Player Gallery
+|members = Yes
+|actions = Attack, Examine
+|race = Zombie
+|examine = Kill the captain! Rout his crew!
+|level = 49
+|lifepoints = 1750
+|experience = 87.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Zombies, Undead
+|max_melee = 140
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|speed = 4
+|attack = 35
+|ranged = 0
+|magic = 0
+|necromancy = 0
+|acc_melee = 536
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 536
+|defence = 35
+|weakness = Air
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 25320
+|leagueRegion=Morytania}}
+'''Zombie captains''' are fought during the [[Mos Le'Harmless]] invasion during the quest, [[Pieces of Hate]].
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Pieces of Hate - Player Gallery|date=19 March 2018}}
+** Added to game.
+}}
+
+{{Pieces of Hate}}
+{{Zombies}}
+{{Pirates}}
+[[Category:Quest monsters]]

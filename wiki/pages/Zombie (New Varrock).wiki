@@ -1,0 +1,329 @@
+{{Infobox Monster
+|name = Zombie
+|image = [[File:Zombie (New Varrock).png|200px]]
+|release = [[23 March]] [[2015]]
+|update = Dimension of Disaster – 200th Quest
+|members = Yes
+|actions = Attack, Pickpocket
+|race = Zombie
+|examine = A reanimated corpse.
+|level = 1
+|lifepoints = 25
+|experience = 1.2
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Zombies, Undead
+|max_melee = 10
+|max_ranged = 0
+|max_magic = 0
+|style = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|acc_melee = 110
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 110
+|defence = 1
+|weakness = Slash
+|aff_weakness = 1000
+|aff_melee = 1000
+|aff_ranged = 1000
+|aff_magic = 1000
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|thievelvl = 1
+|id = 20916
+}}
+'''Zombies''' can be found throughout [[New Varrock]]. They may be killed and pickpocketed to obtain a variety of goods, although most of them can also simply be bought from shops instead. They can also be summoned during the fight against [[Zemouregal]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[New Varrock]]
+|lvls=1
+|mem=yes
+|mapID=677
+|npcid:20914,x:3696,y:9022
+|npcid:20915,x:3697,y:9023
+|npcid:20919,x:3706,y:9028
+|npcid:20919,x:3691,y:9092
+|npcid:20914,x:3692,y:9088
+|npcid:20918,x:3693,y:9096
+|npcid:20917,x:3697,y:9092
+|npcid:20913,x:3698,y:9089
+|npcid:20912,x:3701,y:9095
+|npcid:20915,x:3706,y:9090
+|npcid:20916,x:3706,y:9096
+|npcid:20914,x:3712,y:9031
+|npcid:20914,x:3712,y:9077
+|npcid:20919,x:3713,y:9072
+|npcid:20918,x:3713,y:9075
+|npcid:20912,x:3714,y:9038
+|npcid:20916,x:3714,y:9076
+|npcid:20912,x:3714,y:9078
+|npcid:20915,x:3715,y:9073
+|npcid:20916,x:3716,y:9040
+|npcid:20917,x:3716,y:9076
+|npcid:20913,x:3717,y:9074
+|npcid:20918,x:3718,y:9039
+|npcid:20915,x:3719,y:9040
+|npcid:20914,x:3721,y:9039
+|npcid:20920,x:3730,y:9027
+|npcid:20923,x:3730,y:9030
+|npcid:20922,x:3730,y:9033
+|npcid:20921,x:3736,y:9034
+|npcid:20916,x:3743,y:9077
+|npcid:20915,x:3745,y:9026
+|npcid:20919,x:3745,y:9076
+|npcid:20916,x:3746,y:9030
+|npcid:20918,x:3747,y:9033
+|npcid:20917,x:3747,y:9069
+|npcid:20912,x:3747,y:9074
+|npcid:20916,x:3749,y:9038
+|npcid:20919,x:3750,y:9038
+|npcid:20913,x:3752,y:9074
+|npcid:20915,x:3753,y:9070
+|npcid:20918,x:3754,y:9075
+|npcid:20916,x:3757,y:9027
+|npcid:20913,x:3771,y:9036
+|npcid:20912,x:3774,y:9042
+|npcid:20917,x:3752,y:9108
+|npcid:20913,x:3757,y:9095
+|npcid:20918,x:3746,y:9017
+|npcid:20912,x:3743,y:9027
+|npcid:20917,x:3743,y:9031
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|kills=9725}}
+
+{{DropsTableHead}}
+<!--Weapons and armour-->
+{{DropsLine|name=Bronze bolts|quantity=1-9|rarity=5/128|gemw=n|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze arrow|quantity=1-8|rarity=5/128|gemw=no|alch=no|altvalue=2|altcurrency=Zemomark}}
+{{DropsLine|name=Iron arrow|quantity=3-8|rarity=1/128|gemw=no|alch=no|altvalue=6|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze crossbow|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=61|altcurrency=Zemomark}}
+{{DropsLine|name=Off-hand bronze crossbow|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=31|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze halberd|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=75|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze javelin|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze med helm|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Iron bolts|quantity=2-5|rarity=1/128|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Leather body|quantity=1|rarity=1/128|gemw=no|alch=no|altvalue=6|altcurrency=Zemomark}}
+{{DropsLine|name=Leather chaps|quantity=1|rarity=1/256|gemw=no|alch=no|altvalue=6|altcurrency=Zemomark}}
+{{DropsLine|name=Leather cowl|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=7|altcurrency=Zemomark}}
+{{DropsLine|name=Leather boots|quantity=1|rarity=Unknown|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Leather shield|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=20|altcurrency=Zemomark}}
+{{DropsLine|name=Leather vambraces|quantity=1|rarity=1/256|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze knife|quantity=1|rarity=1/256|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Off-hand bronze knife|quantity=1|rarity=1/256|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze throwing axe|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Off-hand bronze throwing axe|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Shortbow|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=15|altcurrency=Zemomark}}
+{{DropsLine|name=Staff of air|quantity=1|rarity=1/256|gemw=no|alch=no|altvalue=20|altcurrency=Zemomark}}
+{{DropsLine|name=Staff of fire|quantity=1|rarity=1/128|gemw=no|alch=no|altvalue=450|altcurrency=Zemomark}}
+{{DropsLine|name=Staff of water|quantity=1|rarity=1/256|gemw=no|alch=no|altvalue=450|altcurrency=Zemomark}}
+{{DropsLine|name=Staff of earth|quantity=1|rarity=1/128|gemw=no|alch=no|altvalue=450|altcurrency=Zemomark}}
+{{DropsLine|name=Wizard book|quantity=1|rarity=1/128|gemw=no|alch=no|altvalue=30|altcurrency=Zemomark}}
+{{DropsLine|name=Wizard boots|quantity=1|rarity=1/4096|gemw=no|alch=no|altvalue=30|altcurrency=Zemomark}}
+{{DropsLine|name=Wizard shield|quantity=1|rarity=1/4096|gemw=no|alch=no|altvalue=30|altcurrency=Zemomark}}
+{{DropsLine|name=Wizard hat|quantity=1|rarity=1/256|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Wizard robe top|quantity=1|rarity=1/128|gemw=no|alch=no|altvalue=4|altcurrency=Zemomark}}
+{{DropsLine|name=Wizard robe skirt|quantity=1|rarity=1/256|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Wizard gloves|quantity=1|rarity=Unknown|gemw=no|alch=no|altvalue=30|altcurrency=Zemomark}}
+{{DropsLine|name=Wizard wand|quantity=1|rarity=1/128|gemw=no|alch=no|altvalue=30|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze dart|quantity=1|rarity=1/256|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Off-hand bronze dart|quantity=1|rarity=1/256|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze 2h crossbow|quantity=1|rarity=1/256|gemw=no|alch=no|altvalue=31|altcurrency=Zemomark}}
+{{DropsLine|name=Longbow|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=24|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze longsword|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze off hand longsword|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze mace|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze off hand mace|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze dagger|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze off hand dagger|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze claws|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze off hand claws|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze scimitar|quantity=1|rarity=1/1024|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze off hand scimitar|quantity=1|rarity=1/1024|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze spear|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze battleaxe|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze off hand battleaxe|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze warhammer|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze off hand warhammer|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze sword|quantity=1|rarity=1/1024|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze off hand sword|quantity=1|rarity=1/1024|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze kiteshield|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze platelegs|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=75|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze plateskirt|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=75|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze full helm|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze chainbody|quantity=1|rarity=1/512|gemw=no|alch=no|altvalue=125|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze square shield|quantity=1|rarity=1/1024|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLine|name=Bronze armoured boots|quantity=1|rarity=1/1024|gemw=no|alch=no|altvalue=25|altcurrency=Zemomark}}
+<!--Runes-->
+{{DropsLine|name=Air rune|quantity=1-10|rarity=5/128|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLine|name=Earth rune|quantity=1-10|rarity=4/128|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLine|name=Fire rune|quantity=1-10|rarity=4/128|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLine|name=Water rune|quantity=1-10|rarity=4/128|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLine|name=Body rune|quantity=2-7|rarity=1/128|gemw=no|alch=no|altvalue=4|altcurrency=Zemomark}}
+{{DropsLine|name=Mind rune|quantity=1-10|rarity=1/128|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLine|name=Nature rune|quantity=1-10|rarity=1/128|gemw=no|alch=no|altvalue=111|altcurrency=Zemomark}}
+{{DropsLine|name=Astral rune|quantity=1-5|rarity=1/128|gemw=no|alch=no|altvalue=66|altcurrency=Zemomark}}
+{{DropsLine|name=Blood rune|quantity=2-5|rarity=1/128|gemw=no|alch=no|altvalue=165|altcurrency=Zemomark}}
+{{DropsLine|name=Chaos rune|quantity=1-10|rarity=1/128|gemw=no|alch=no|altvalue=42|altcurrency=Zemomark}}
+{{DropsLine|name=Cosmic rune|quantity=1-10|rarity=1/128|gemw=no|alch=no|altvalue=69|altcurrency=Zemomark}}
+{{DropsLine|name=Death rune|quantity=1-10|rarity=1/128|gemw=no|alch=no|altvalue=93|altcurrency=Zemomark}}
+{{DropsLine|name=Law rune|quantity=1-10|rarity=1/128|gemw=no|alch=no|altvalue=113|altcurrency=Zemomark}}
+<!--Food-->
+{{DropsLine|name=Cabbage (New Varrock)|quantity=1|rarity=5/128|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Onion|quantity=1|rarity=5/128|gemw=no|alch=no|altvalue=3|altcurrency=Zemomark}}
+{{DropsLine|name=Raw potato|quantity=1|rarity=5/128|gemw=no|alch=no|altvalue=4|altcurrency=Zemomark}}
+{{DropsLine|name=Raw undead beef|quantity=1|rarity=5/128|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Raw undead chicken|quantity=1|rarity=5/128|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Tomato|quantity=1|rarity=6/128|gemw=no|alch=no|altvalue=4|altcurrency=Zemomark}}
+<!--Materials-->
+{{DropsLine|name=Flax|quantity=1-5|rarity=1/1024|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Iron ore|quantity=2|rarity=2/128|gemw=no|alch=no|altvalue=7|altcurrency=Zemomark}}
+{{DropsLine|name=Zombie cowhide|quantity=2-3|rarity=4/128|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Copper ore|quantity=1|rarity=4/128|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLine|name=Sinew|quantity=3|rarity=1/1024|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Logs|quantity=3|rarity=4/128|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Tin ore|quantity=1|rarity=4/128|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLine|name=Willow logs|quantity=2|rarity=2/128|gemw=no|alch=no|altvalue=12|altcurrency=Zemomark}}
+{{DropsLine|name=Imphide|quantity=2|rarity=2/128|gemw=no|alch=no|altvalue=15|altcurrency=Zemomark}}
+{{DropsLine|name=Thread|quantity=5-20|rarity=4/128|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Feather|quantity=5-20|rarity=4/128|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Wool|quantity=1-5|rarity=1/4096|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Black wool|quantity=1-5|rarity=1/1024|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsTableBottom}}
+
+==Pickpocketing==
+{{Thieving info
+|name = Zombie
+|level = 1
+|xp = 8
+|stun = {{Ticks|5}}
+|damage = 10 + 3% of base [[life points]]
+|type = Pickpocket
+|multiloot = true
+}}
+===Loot===
+{{DropsTableHead|version=Pickpocketing}}
+<!--Weapons-->
+{{DropsLineThiev|name=Bronze dagger|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze off hand dagger|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze sword|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze crossbow|quantity=1|gemw=no|alch=no|altvalue=61|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Off-hand bronze crossbow|quantity=1|gemw=no|alch=no|altvalue=31|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze 2h crossbow|quantity=1|gemw=no|alch=no|altvalue=31|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze scimitar|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze off hand longsword|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze warhammer|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze mace|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze off hand mace|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze longsword|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze claws|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze off hand claws|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze halberd|quantity=1|gemw=no|alch=no|altvalue=75|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze javelin|quantity=1|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze battleaxe|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze off hand battleaxe|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Off-hand bronze knife|quantity=1|gemw=no|alch=no}}
+{{DropsLineThiev|name=Bronze throwing axe|quantity=1|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Off-hand bronze throwing axe|quantity=1|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze dart|quantity=1|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Shortbow|quantity=1|gemw=no|alch=no|altvalue=15|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Longbow|quantity=1|gemw=no|alch=no|altvalue=24|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Staff of air|quantity=1|gemw=no|alch=no|altvalue=20|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Staff of fire|quantity=1|gemw=no|alch=no|altvalue=450|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Staff of water|quantity=1|gemw=no|alch=no|altvalue=450|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Staff of earth|quantity=1|gemw=no|alch=no|altvalue=450|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Wizard book|quantity=1|gemw=no|alch=no|altvalue=30|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Wizard wand|quantity=1|gemw=no|alch=no|altvalue=30|altcurrency=Zemomark}}
+
+<!--Armour-->
+{{DropsLineThiev|name=Bronze kiteshield|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze square shield|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze med helm|quantity=1|gemw=no|alch=no|altvalue=50|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze chainbody|quantity=1|gemw=no|alch=no|altvalue=125|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze platebody|quantity=1|gemw=no|alch=no|altvalue=125|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze platelegs|quantity=1|gemw=no|alch=no|altvalue=75|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze plateskirt|quantity=1|gemw=no|alch=no|altvalue=75|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze armoured boots|quantity=1|gemw=no|alch=no|altvalue=25|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Leather body|quantity=1|gemw=no|alch=no|altvalue=6|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Leather chaps|quantity=1|gemw=no|alch=no|altvalue=6|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Leather cowl|quantity=1|gemw=no|alch=no|altvalue=7|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Leather shield|quantity=1|gemw=no|alch=no|altvalue=20|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Leather boots|quantity=1|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Leather vambraces|quantity=1|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Wizard hat|quantity=1|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Wizard robe top|quantity=1|gemw=no|alch=no|altvalue=4|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Wizard robe skirt|quantity=1|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Wizard gloves|quantity=1|gemw=no|alch=no|altvalue=30|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Wizard boots|quantity=1|gemw=no|alch=no|altvalue=30|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Wizard shield|quantity=1|gemw=no|alch=no|altvalue=30|altcurrency=Zemomark}}
+
+<!--Ammo-->
+{{DropsLineThiev|name=Bronze bolts|quantity=1-9|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Bronze arrow|quantity=1-8|gemw=no|alch=no|altvalue=2|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Iron arrow|quantity=1-8|gemw=no|alch=no|altvalue=6|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Iron bolts|quantity=1-5|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+
+<!--Runes-->
+{{DropsLineThiev|name=Air rune|quantity=1-10|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Earth rune|quantity=1-10|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Fire rune|quantity=1-10|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Water rune|quantity=1-10|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Body rune|quantity=1-10|gemw=no|alch=no|altvalue=4|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Mind rune|quantity=1-10|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Nature rune|quantity=1-10|gemw=no|alch=no|altvalue=111|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Law rune|quantity=1-10|gemw=no|alch=no|altvalue=113|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Astral rune|quantity=1-10|gemw=no|alch=no|altvalue=66|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Blood rune|quantity=1-10|gemw=no|alch=no|altvalue=165|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Chaos rune|quantity=1-10|gemw=no|alch=no|altvalue=42|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Cosmic rune|quantity=1-10|gemw=no|alch=no|altvalue=69|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Death rune|quantity=1-10|gemw=no|alch=no|altvalue=93|altcurrency=Zemomark}}
+
+<!--Food-->
+{{DropsLineThiev|name=Cabbage (New Varrock)|quantity=1|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Onion|quantity=1|gemw=no|alch=no|altvalue=3|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Raw potato|quantity=1|gemw=no|alch=no|altvalue=4|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Raw undead beef|quantity=1|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Raw undead chicken|quantity=1|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Tomato|quantity=1|gemw=no|alch=no|altvalue=4|altcurrency=Zemomark}}
+
+<!--Materials-->
+{{DropsLineThiev|name=Bowstring|quantity=1|gemw=no|alch=no}}
+{{DropsLineThiev|name=Iron ore|quantity=2|gemw=no|alch=no|altvalue=7|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Zombie cowhide|quantity=2-3|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Copper ore|quantity=1|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Sinew|quantity=2-5|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Logs|quantity=3|gemw=no|alch=no}}
+{{DropsLineThiev|name=Iron ore|quantity=2|gemw=no|alch=no|altvalue=7|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Tin ore|quantity=1|gemw=no|alch=no|altvalue=5|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Willow logs|quantity=2|gemw=no|alch=no|altvalue=12|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Imphide|quantity=2|gemw=no|alch=no}}
+{{DropsLineThiev|name=Flax|quantity=1-2|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Black wool|quantity=1-5|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Wool|quantity=1-5|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Thread|quantity=1-20|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLineThiev|name=Feather|quantity=6|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Dimension of Disaster – 200th Quest|date=23 March 2015}}
+** Added to game.
+}}
+
+{{New Varrock}}
+{{Zombie}}
+[[Category:Thievable quest entities]]
+[[Category:NPCs that can move at crawling speed]]

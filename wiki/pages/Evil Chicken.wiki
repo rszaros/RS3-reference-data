@@ -1,0 +1,312 @@
+{{External|os}}
+{{Multi Infobox
+|text1 = In combat
+|item1 = 
+{{Infobox Monster
+|version1 = Quest
+|version2 = Dominion Tower
+|version3 = Dominion Tower roof
+|version4 = Rumble Mode
+|version5 = Rumble Mode (event)
+|name = Evil Chicken
+|image = [[File:Evil Chicken.png]]
+|release1 = [[15 March]] [[2006]]
+|release2 = [[1 November]] [[2011]]
+|release3 = [[1 November]] [[2011]]
+|release4 = [[8 December]] [[2014]]
+|release5 = [[8 December]] [[2014]]
+|update1 = Hundredth Quest - Recipe for Disaster!
+|update2 = Dominion Tower
+|update3 = Dominion Tower
+|update4 = Snowverload & Dominion Tower Rumble Mode
+|update5 = Snowverload & Dominion Tower Rumble Mode
+|members = Yes
+|actions = Attack, Examine
+|race = Chicken
+|examine = A fowl beast.
+|level = 77
+|lifepoints = 11800
+|lifepoints4 = 8250
+|lifepoints5 = 
+|aggressive1 = No
+|aggressive2 = Yes
+|aggressive3 = Yes
+|poisonous = No
+|slaylvl1 = 1
+|slayxp1 = 
+|slayercat1 = Birds
+|assigned_by1 = turael
+|max_melee = 1375
+|max_melee5 = 440
+|max_ranged = 1375
+|max_ranged5 = 440
+|max_magic = 1375
+|max_magic5 = 440
+|max_necromancy = 0
+|max_spec = n/a
+|style = melee
+|primarystyle = melee
+|speed = 5
+|speed3 = 4
+|attack = 55
+|ranged = 55
+|magic = 55
+|necromancy = 1
+|acc_melee = 883
+|acc_melee5 = 983
+|acc_ranged = 883
+|acc_ranged5 = 983
+|acc_magic = 883
+|acc_magic5 = 983
+|acc_necromancy = 0
+|armour = 983
+|defence = 55
+|weakness = Fire
+|weakness3 = Nothing
+|aff_weakness = 90
+|aff_weakness5 = 40
+|aff_melee = 60
+|aff_melee5 = 20
+|aff_ranged = 50
+|aff_ranged5 = 10
+|aff_magic = 70
+|aff_magic5 = 40
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|restriction1 = quest
+|restriction2 = minigame
+|restriction3 = minigame
+|id1 = 3375
+|id2 = 14522
+|id3 = 14559
+|id4 = 20307
+|id5 = 20430
+|leagueRegion =Misthalin&Kandarin,Desert
+}}
+|text2 = NPC
+|item2=
+{{Infobox NPC
+|version1 = Roaming
+|version2 = Dominion Tower
+|version3 = Easter 2012
+|name = Evil Chicken
+|image1 = [[File:Evil Chicken (NPC, 2013).png]]
+|image2 = [[File:Evil Chicken.png]]
+|image3 = [[File:Evil Chicken (2012 Easter event).png]]
+|release1 = [[25 February]] [[2009]]
+|release2 = [[1 November]] [[2011]]
+|release3 = [[2 April]] [[2012]]
+|update1 = Random Event Update and More
+|update2 = Dominion Tower
+|update3 = Easter 2012: Chocatrice vs Evil Chicken
+|members = No
+|quest = No
+|location1 = Varies
+|location2 = [[Dominion Tower]]
+|location3 = [[Varrock]]
+|gender = Male
+|race = Chicken
+|map = no
+|options1 = Talk to, Examine
+|options2 = Examine
+|options3 = Talk to, Examine
+|examine1 = A fowl bird.
+|examine2 = A fowl bird.
+|examine3 = It's big, dangerous, evil...and a chicken?
+|id1 = 8644
+|id2 = 14521
+|id3 = 15262,15263,15264
+}}
+}}
+[[File:Evil Chicken chathead.png|left]]
+The '''evil chicken''' formerly appeared in the evil chicken [[random event]], until the removal of random events on [[24 October]] [[2012]]. He now plays a role in the [[Recipe for Disaster]] quest, being fought in his lair in order to obtain an [[evil chicken egg]]. He can subsequently be fought as a boss in [[Dominion Tower]]. He also played a role in the [[2012 Easter Event]].
+
+He is a former [[random event]], and can still be encountered at random intervals in almost any location where [[chickens]] are found. When he appears, he encourages the chickens to revolt against their human captors. After a few minutes he teleports to a different area. When players attempt to talk to him, he will shout "Begone from me" and repel the player with a magical blast which deals 1 life point of damage.
+{{Clear|left}}
+
+==Recipe for Disaster==
+{{OccDur|Recipe for Disaster}}
+[[File:Evilchickenrfd.png|thumb|The Evil Chicken, fighting an adventurer in his lair|left]]
+During the [[Recipe for Disaster/Freeing Sir Amik Varze|Freeing Sir Amik Varze]] section of [[Recipe for Disaster]], the adventurer heads to the [[Evil Chicken's Lair]] in search of one of the [[Evil Chicken's egg]]s.
+
+After heading through [[Zanaris]], the adventurer enters the Evil Chicken's lair through a small chicken shrine by making an offering of [[raw chicken]]. He is found in his nest in the northern section of the lair, in an area safe from the [[black dragon]]s that protect him. Like all chickens, he counts for [[bird]] Slayer assignments. The adventurer ultimately proves victorious, and they are able to take the egg and free Sir Amik from the Culinaromancer's control.
+
+The Evil Chicken is a fairly tough foe to defeat, having a combat level of 77, and attacking with fairly powerful magical attacks. Unlike other enemies, his life points can vary, being either 4125 or 8250, seemingly based on your [[combat level]]. During the fight, he shouts various phrases at you, although these seem to have no actual effect on the fight. Using [[Protect from Magic]] or [[Deflect Magic]] may be advisable, as they will negate half of the damage his magic attacks deal, leading to an easier fight.
+
+Although he can not be found in his lair after the quest, he can be fought again in the [[Dominion Tower]] with the exact same abilities, provided that you meet the tower's requirements.
+{{Clear|left}}
+==Dominion Tower==
+The Evil Chicken appears in 4 instances in the [[Dominion Tower]], provided you have completed [[Recipe for Disaster: Freeing Sir Amik Varze]] (corresponding the infobox versions above):
+* He can appear as a boss in climber, endurance, freestyle modes, and as a special fight featuring 15 Evil Chickens.
+* He can appear on the [[Dominion_Tower#The_top_of_the_Dominion_Tower|roof of the tower]]
+* He can appear during [[Dominion Tower#Rumble mode|rumble mode]]
+* A special event during rumble mode can spawn multiple Evil Chickens - these are unique as they have slightly different combat stats to all other versions
+
+==A Fowl Easter==
+{{OccDur|A Fowl Easter}}
+[[File:Easter 2012.png|thumb|The Evil Chicken in Varrock square, competing with his rival the [[Chocatrice]]|left]]
+In the [[2012 Easter Event]], he competed with the [[Chocatrice]] to see who could destroy the most Easter eggs. He claimed to be filling in for the Easter Bunny after he fell into a volcano, although the Chocatrice claims that the Easter Bunny fell down [[White Wolf Mountain]].
+
+If players collected 3 [[evil drumstick]]s for him, he rewarded them with an [[egg on face mask]].
+
+If you asked the Evil Chicken who had the leading of the competition and his team had less eggs found than the chocatrice's team, your character would answer "Awww...". If he is winning, then he will say "We are in the lead, comrade. Nothing can stop us."
+{{Clear|left}}
+
+==Random event==
+[[File:Evil chicken attacked me.png|thumb|left|A player being attacked by the Evil Chicken]]
+Before the [[Update:Random Event Update and More|update]] which altered random events on [[25 February]] [[2009]], the Evil Chicken used to appear before a player at random times, no matter where they were, even under water (in which case he would appear wearing a diving helmet). He immediately began attacking them, using a magic based attack which was low-hitting but extremely accurate and rapid. This made him very dangerous for players who were low on life points or inattentive. Players were forced to either fight and kill the chicken or run away from it.
+
+The Evil Chicken could not be attacked by anyone besides the player to whom he appeared. If the player took too long to kill him, or if they were in range but not attackable (such as if they were in a different room), the Evil Chicken would get bored and leave. The chicken could not move from the spot in which he appeared, so if a player stepped on top of him, instead of moving to the side as other monsters would, he would shout "Get off of me!" and use a special attack which would push the player aside. If you tried to attack the Evil Chicken as it attacked another player, you would get the message "Don't worry, he's not after you" in the chat box.
+
+The Evil Chicken's combat stats varied depending on the player's combat level. There was also a discrepancy between the max hit as reported by [[Monster Examine]] and the actual max hit. The reason for this was unknown, and it was never fixed. It was possible to make a familiar attack the Evil Chicken. When killed in this manner, he had 10 life points and drops nothing.
+
+{|class="wikitable"
+!Player level
+!Evil Chicken level
+!Life points
+!Real Max hit
+!Monster Examine max hit
+|-
+|3-10
+|19
+|190
+|10
+|30
+|-
+|11-20
+|38
+|400
+|10
+|50
+|-
+|21-40
+|69
+|600
+|20
+|100
+|-
+|41-60
+|81
+|800
+|30
+|100
+|-
+|61-90
+|121
+|1050
+|40
+|150
+|-
+|91+
+|159
+|1200
+|50
+|210
+|}
+{{Clear|left}}
+
+===Phrases===
+{{listen
+|align=left
+|filename=Evil Chicken.ogg
+|title=BWUK bwuuuk!
+|desc=}}
+{{Clear|left}}
+
+When players fought the Evil Chicken, he yelled the following phrases while attacking:
+
+* "Bwuk"
+* "Bwuk bwuk bwuk"
+* "How dare you invade my lair?"
+* "Flee from me, ''[player's name]''!"
+* "Begone, ''[player's name]''!"
+* "Bwaaaauuuuk bwuk bwuk"
+* "MUAHAHAHAHAAA!"
+
+When he appeared underwater as a Random Event, the phrases were different:
+
+* "Swim faster, ''[player's name]''"
+* "Bwaaaauuuuk glub glub"
+* "Even here you cannot escape me, ''[player's name]''"
+* "My fury is deeper than the oceans!"
+* "Glub"
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Raw chicken|quantity=1|rarity=Always}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Feather|quantity=46-112|rarity=Always}}
+{{DropsLine|name=Evil chicken's egg|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+==Mentioned==
+{{MentionedIn}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Evil-chicken-attacking.gif|The Evil Chicken attacking before the update
+Evil Chicken encounter.png|The Evil Chicken encouraging chickens to rebel at the [[Barbarian Outpost]]
+Evil Chicken (underwater).png|The Evil Chicken appears underwater as a random event.
+Evil Chicken Top Trumps card.jpg|The Evil Chicken's [[Top Trumps]] card
+</gallery>
+
+==Graphical updates==
+===Evil Chicken===
+{{GU|subject=NPCs
+|{{GUL|date=[[1 August]] [[2005]]|update=Waterbirth Island|img=Evil Chicken (2005).png|name=Evil Chicken as a random event and quest boss}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Evil Chicken (2008).png|name=Evil Chicken}}
+}}
+===Evil Chicken (Quest Boss)===
+{{GU|subject=NPCs
+|{{GUL|date=[[1 November]] [[2011]]|update=Dominion Tower|img=Evil Chicken (2011).png|name=Evil Chicken as a quest boss}}
+|{{GUL|date=[[7 August]] [[2023]]|update=New Skill: Necromancy - This Week In RuneScape|img=Evil Chicken.png|name=Evil Chicken as a quest boss}}
+}}
+===Evil Chicken (Roaming)===
+{{GU|subject=NPCs
+|{{GUL|date=[[25 February]] [[2009]]|update=Random Event Update and More|img=Evil Chicken (2005).png|name=Evil Chicken as a roaming NPC}}
+|{{GUL|date=[[12 March]] [[2013]]|update=Tribute to Guthix and New Combat Abilities|img=Evil Chicken (NPC, 2013).png|name=Evil Chicken as a roaming NPC}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased (applies to all versions except rumble mode event):
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=The Journey Continues with Necromancy - This Week In RuneScape|date=14 August 2023}}
+** The Evil Chicken has been graphically updated in [[Recipe for Disaster]] and in the [[Dominion Tower]].
+
+* {{UL|type=update|update=Waterbirth Island|date=1 August 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* In the Dominion Tower, the Evil Chicken is referred to as a female, despite being referred to as to a male in all other areas of the game. In addition to this, despite being male, he lays eggs.
+* If you used a [[Chocotreat]] on the Evil chicken during the [[2012 Easter Event]], he will mention that chocolate may well be his weakness but then swiftly denies it.
+* According to his [[Top Trumps]] card, he is 36 years old and 0.5m tall.
+* The [[book on chickens]], or The Origins of the Bird of Evil, states that the Evil Chicken started out as a chicken of above-average intelligence. He became aware that he and his brethren were prisoners of the humans and then organised the chickens and rebelled against their captors; however, all the chickens were slaughtered with ease. The chicken blamed his kin for the failure and swore revenge on all chickens and humans. Another theory from the book says that he was created by a mage who was attempting to summon a demon and bind it to his will. The mage's spell failed and instead of a demon, he summoned a chicken. The mage grew angry at his failure and banished the chicken to the [[Abyss]]. The chicken managed to survive and grew in power. Years later, the same mage attempted to summon another creature, but instead the chicken appeared again.
+* The Evil Chicken featured often in [[Postbag from the Hedge]].
+** In [[Magic, Hans and Bankers!|issue 2]] the Evil Chicken states that other chickens fear him as he loves to eat roast chicken, and hates the taste of chicken feed.{{CitePostbag |author=Evil Chicken|issue=2 |letter=Letter 3 }}
+** In [[Melzar's Mad Musings.|issue 18]] [[Evil Bob]] suggests that there is an Evil Chicken counterpart in [[ScapeRune]] named "[[Cheery Old Chicken]]".{{CitePostbag |issue=18 |letter=Letter 1 |author=Evil Bob}}
+** In [[The trouble with trolls|issue 25]] the evil chicken says that he is homicidal and eats humans, and that he learned magic in evening classes.{{CitePostbag |issue=25 |letter=Letter 7 |author=Evil Chicken}}
+* The random event Evil Chicken dropped 32-750 feathers, with the [[ring of wealth]] affecting the number dropped.
+* According to [[RuneScape - Dragonwilds]], there is a legend that suggests the Evil Chicken was born under the blood moon, as such farmers would prevent eggs from hatching when ever they have a bad feeling about it.
+
+==References==
+{{Reflist}}
+
+{{Recipe for Disaster: Freeing Sir Amik Varze}}
+{{Dominion Tower}}
+{{Chickens}}
+{{Random Events}}
+{{2012 Easter event}}
+{{RuneScape Top Trumps}}
+[[Category:Quest monsters]][[Category:Birds]]

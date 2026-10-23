@@ -1,0 +1,634 @@
+{{External|os=Zombie (Tarn's Lair)}}
+{{Otheruses|the zombies in the Lair of Tarn Razorlor|others|Zombie (disambiguation)}}
+{{Infobox Monster
+|version1 = 72
+|version2 = 74 (1)
+|version3 = 74 (2)
+|version4 = 75 (1)
+|version5 = 75 (2)
+|version6 = 77 (1)
+|version7 = 77 (2)
+|version8 = 78 (1)
+|version9 = 78 (2)
+|version10 = 79 (1)
+|version11 = 79 (2)
+|version12 = 82 (1)
+|version13 = 82 (2)
+|version14 = 82 (3)
+|version15 = 84 (1)
+|version16 = 84 (2)
+|version17 = 85 (1)
+|version18 = 85 (2)
+|name = Zombie
+|image1 = [[File:Zombie (Lair of Tarn Razorlor, level 72).png|x280px]]
+|image2 = [[File:Zombie (Lair of Tarn Razorlor, level 74, 1).png|x280px]]
+|image3 = [[File:Zombie (Lair of Tarn Razorlor, level 74, 2).png|x280px]]
+|image4 = [[File:Zombie (Lair of Tarn Razorlor, level 75, 1).png|x280px]]
+|image5 = [[File:Zombie (Lair of Tarn Razorlor, level 75, 2).png|x280px]]
+|image6 = [[File:Zombie (Lair of Tarn Razorlor, level 77, 1).png|x280px]]
+|image7 = [[File:Zombie (Lair of Tarn Razorlor, level 77, 2).png|x280px]]
+|image8 = [[File:Zombie (Lair of Tarn Razorlor, level 78, 1).png|x280px]]
+|image9 = [[File:Zombie (Lair of Tarn Razorlor, level 78, 2).png|x280px]]
+|image10 = [[File:Zombie (Lair of Tarn Razorlor, level 79, 1).png|x280px]]
+|image11 = [[File:Zombie (Lair of Tarn Razorlor, level 79, 2).png|x280px]]
+|image12 = [[File:Zombie (Lair of Tarn Razorlor, level 82, 1).png|x280px]]
+|image13 = [[File:Zombie (Lair of Tarn Razorlor, level 82, 2).png|x280px]]
+|image14 = [[File:Zombie (Lair of Tarn Razorlor, level 82, 3).png|x280px]]
+|image15 = [[File:Zombie (Lair of Tarn Razorlor, level 84, 1).png|x280px]]
+|image16 = [[File:Zombie (Lair of Tarn Razorlor, level 84, 2).png|x280px]]
+|image17 = [[File:Zombie (Lair of Tarn Razorlor, level 85, 1).png|x280px]]
+|image18 = [[File:Zombie (Lair of Tarn Razorlor, level 85, 2).png|x280px]]
+|release = [[22 January]] [[2007]]
+|update = The Lair of Tarn Razorlor
+|members = Yes
+|actions = Attack, Examine
+|race = Zombie
+|examine1 = Could his name be 'Lurch'?
+|examine3 = Has anybody told him he's dead?
+|examine4 = Dave? Is that you?
+|examine5 = Why don't zombies ever wash?
+|examine6 = A shambling pile of rotten flesh.
+|examine7 = He needs lessons on walking.
+|examine9 = One of the undead.
+|examine10 = A disgusting zombie.
+|examine13 = Can't a body get any rest around here?
+|examine14 = Brains...
+|examine16 = All skin and bones.
+|examine17 = Why zombies? Why now?
+|leagueRegion = Morytania
+|leagueRegion1 = Morytania,Wilderness
+|level1 = 72
+|level2 = 74
+|level3 = 74
+|level4 = 75
+|level5 = 75
+|level6 = 77
+|level7 = 77
+|level8 = 78
+|level9 = 78
+|level10 = 79
+|level11 = 79
+|level12 = 82
+|level13 = 82
+|level14 = 82
+|level15 = 84
+|level16 = 84
+|level17 = 85
+|level18 = 85
+|lifepoints1 = 2600
+|lifepoints2 = 3050
+|lifepoints3 = 3050
+|lifepoints4 = 3050
+|lifepoints5 = 3050
+|lifepoints6 = 3050
+|lifepoints7 = 3050
+|lifepoints8 = 3050
+|lifepoints9 = 3050
+|lifepoints10 = 3050
+|lifepoints11 = 3050
+|lifepoints12 = 3050
+|lifepoints13 = 3050
+|lifepoints14 = 3050
+|lifepoints15 = 3050
+|lifepoints16 = 3050
+|lifepoints17 = 3050
+|lifepoints18 = 3050
+|experience1 = 130.0
+|experience2 = 152.5
+|experience3 = 152.5
+|experience4 = 152.5
+|experience5 = 152.5
+|experience6 = 152.5
+|experience7 = 152.5
+|experience8 = 152.5
+|experience9 = 152.5
+|experience10 = 152.5
+|experience11 = 152.5
+|experience12 = 152.5
+|experience13 = 152.5
+|experience14 = 152.5
+|experience15 = 152.5
+|experience16 = 152.5
+|experience17 = 152.5
+|experience18 = 152.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Zombies
+|assigned_by = Spria, Achtryn, Vannaka
+|max_melee1 = 208
+|max_melee2 = 244
+|max_melee3 = 244
+|max_melee4 = 244
+|max_melee5 = 244
+|max_melee6 = 244
+|max_melee7 = 244
+|max_melee8 = 244
+|max_melee9 = 244
+|max_melee10 = 244
+|max_melee11 = 244
+|max_melee12 = 244
+|max_melee13 = 244
+|max_melee14 = 244
+|max_melee15 = 244
+|max_melee16 = 244
+|max_melee17 = 244
+|max_melee18 = 244
+|max_ranged = 0.0
+|max_magic = 0.0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 52
+|attack2 = 61
+|attack3 = 61
+|attack4 = 61
+|attack5 = 61
+|attack6 = 61
+|attack7 = 61
+|attack8 = 61
+|attack9 = 61
+|attack10 = 61
+|attack11 = 61
+|attack12 = 61
+|attack13 = 61
+|attack14 = 61
+|attack15 = 61
+|attack16 = 61
+|attack17 = 61
+|attack18 = 61
+|ranged = 1
+|magic = 1
+|acc_melee1 = 901
+|acc_melee2 = 1164
+|acc_melee3 = 1164
+|acc_melee4 = 1164
+|acc_melee5 = 1164
+|acc_melee6 = 1164
+|acc_melee7 = 1164
+|acc_melee8 = 1164
+|acc_melee9 = 1164
+|acc_melee10 = 1164
+|acc_melee11 = 1164
+|acc_melee12 = 1164
+|acc_melee13 = 1164
+|acc_melee14 = 1164
+|acc_melee15 = 1164
+|acc_melee16 = 1164
+|acc_melee17 = 1164
+|acc_melee18 = 1164
+|acc_ranged = 0
+|acc_magic = 0
+|armour1 = 901
+|armour2 = 1164
+|armour3 = 1164
+|armour4 = 1164
+|armour5 = 1164
+|armour6 = 1164
+|armour7 = 1164
+|armour8 = 1164
+|armour9 = 1164
+|armour10 = 1164
+|armour11 = 1164
+|armour12 = 1164
+|armour13 = 1164
+|armour14 = 1164
+|armour15 = 1164
+|armour16 = 1164
+|armour17 = 1164
+|armour18 = 1164
+|defence1 = 52
+|defence2 = 61
+|defence3 = 61
+|defence4 = 61
+|defence5 = 61
+|defence6 = 61
+|defence7 = 61
+|defence8 = 61
+|defence9 = 61
+|defence10 = 61
+|defence11 = 61
+|defence12 = 61
+|defence13 = 61
+|defence14 = 61
+|defence15 = 61
+|defence16 = 61
+|defence17 = 61
+|defence18 = 61
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Levels 72–75
+|dropversion2 = Levels 72–75
+|dropversion3 = Levels 72–75
+|dropversion4 = Levels 72–75
+|dropversion5 = Levels 72–75
+|dropversion6 = Levels 77–79
+|dropversion7 = Levels 77–79
+|dropversion8 = Levels 77–79
+|dropversion9 = Levels 77–79
+|dropversion10 = Levels 77–79,Level 79 Charm Dropper
+|dropversion11 = Levels 77–79,Level 79 Charm Dropper
+|dropversion12 = Levels 82–85,Level 82 Charm Dropper
+|dropversion13 = Levels 82–85,Level 82 Charm Dropper
+|dropversion14 = Levels 82–85
+|dropversion15 = Levels 82–85
+|dropversion16 = Levels 82–85
+|dropversion17 = Levels 82–85
+|dropversion18 = Levels 82–85
+|id1 = 5393
+|id2 = 5394
+|id3 = 5395
+|id4 = 5396
+|id5 = 5397
+|id6 = 5398
+|id7 = 5399
+|id8 = 5400
+|id9 = 5401
+|id10 = 5402
+|id11 = 5403
+|id12 = 5404
+|id13 = 5405
+|id14 = 5410
+|id15 = 5406
+|id16 = 5407
+|id17 = 5408
+|id18 = 5409
+}}
+'''Zombies''' can be found in the [[Lair of Tarn Razorlor (dungeon)|Lair of Tarn Razorlor]] or the [[Chaos Tunnels]].
+
+If players wish to train on them in the Lair of Tarn Razorlor, the banker [[Odovacar]] can be found close to the entrance to the dungeon, allowing easy banking at a cost of 100 [[coins]] per use. A [[toad batta]] item spawn can also be found nearby for additional healing.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=72
+|mem=yes
+|mapID=23
+|npcid:5393,x:3170,y:5495|npcid:5393,x:3172,y:5491|npcid:5393,x:3187,y:5485|npcid:5393,x:3192,y:5470|npcid:5393,x:3192,y:5466|npcid:5393,x:3195,y:5460|npcid:5393,x:3195,y:5456|npcid:5393,x:3195,y:5451|npcid:5393,x:3193,y:5447
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Lair of Tarn Razorlor (dungeon)|Lair of Tarn Razorlor]]
+|lvls=72, 74 ,75, 77, 78, 79, 82, 84, 85
+|mem=yes
+|mapID=30
+|npcid:5393,x:10,y:60|npcid:5393,x:27,y:62|npcid:5393,x:115,y:55
+|npcid:5394,x:31,y:53|npcid:5394,x:36,y:62
+|npcid:5395,x:5,y:62|npcid:5395,x:34,y:56|npcid:5395,x:104,y:53
+|npcid:5396,x:105,y:47
+|npcid:5397,x:19,y:47|npcid:5397,x:136,y:40
+|npcid:5398,x:105,y:38|npcid:5398,x:142,y:50
+|npcid:5399,x:196,y:21|npcid:5399,x:244,y:42
+|npcid:5400,x:135,y:43|npcid:5400,x:198,y:24|npcid:5400,x:215,y:33
+|npcid:5401,x:111,y:37
+|npcid:5402,x:18,y:23|npcid:5402,x:131,y:35|npcid:5402,x:139,y:50
+|npcid:5403,x:5,y:21|npcid:5403,x:238,y:41
+|npcid:5404,x:7,y:19|npcid:5404,x:104,y:13|npcid:5404,x:150,y:51|npcid:5404,x:242,y:40
+|npcid:5405,x:27,y:23|npcid:5405,x:106,y:29|npcid:5405,x:155,y:46
+|npcid:5406,x:119,y:67
+|npcid:5407,x:101,y:11
+|npcid:5408,x:130,y:23
+|npcid:5409,x:37,y:14|npcid:5409,x:54,y:15
+|npcid:5410,x:54,y:25
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+Many zombie locations are far from banks. These locations are close to banks:
+* The [[Tarn's Lair|lair of Tarn Razorlor]] has a banker, [[Odovacar]]. However, using this dungeon requires the completion of the [[Haunted Mine]] quest, the [[Lair of Tarn Razorlor (miniquest)|Lair of Tarn Razorlor]] miniquest, and a 100 coin fee each time accessing the bank.
+* The zombie cave in the [[Chaos Tunnels]] is easily accessed from the entrance in level 4 [[Wilderness]] to tunnels and is thus moderately close to the [[Edgeville bank]]. However, care should be taken because the entrance is still in the Wilderness and enters the cave with rather dangerous [[gargoyle]]s. Aggressive [[Skeleton (Tarn's Lair)|skeleton]]s in the cave with the zombies may interfere with zombie hunting.
+
+==Level 72-75 drops==
+{{DropLogProject|jagex=yes}}
+===100%===
+{{DropsTableHead|version=Levels 72–75}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead|version=Levels 72–75}}
+{{DropsLine|name=Mud rune|quantity=3|rarity=5/128}}
+{{DropsLine|name=Water rune|quantity=4|rarity=5/128}}
+{{DropsLine|name=Cannonball|quantity=3|rarity=3/128}}
+{{DropsLine|name=Fire rune|quantity=12|rarity=3/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Steel arrow|quantity=7|rarity=3/128}}
+{{DropsLine|name=Steel knife|quantity=1|rarity=5/256}}
+{{DropsLine|name=Off-hand steel knife|quantity=1|rarity=5/256}}
+{{DropsLine|name=Chaos rune|quantity=6|rarity=2/128}}
+{{DropsLine|name=Earth rune|quantity=8|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=Levels 72–75}}
+{{DropsLine|name=Medium plated steel salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Medium bladed bronze salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium bladed bronze salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny blunt steel salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium blunt iron salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny spiky mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small plated steel salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herb drop table===
+{{HerbDropTableIntro|3/128}}
+{{DropsTableHead|version=Levels 72–75}}
+{{HerbDropTable|3/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead|version=Levels 72–75}}
+{{DropsLine|name=Coins|quantity=19|rarity=5/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=33|rarity=5/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=60|rarity=5/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=40|rarity=3/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=86|rarity=3/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=2|rarity=2/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=37|rarity=2/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=54|rarity=2/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=126|rarity=1/128|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Levels 72–75}}
+{{DropsLine|name=Bowl of water|quantity=1|rarity=5/128}}
+{{DropsLine|name=Fishing potion (1)|quantity=1|rarity=5/128}}
+{{DropsLine|name=Pot lid|quantity=1|rarity=5/128}}
+{{DropsLine|name=Pot of flour|quantity=1|rarity=5/128}}
+{{DropsLine|name=Steel nails|quantity=6|rarity=5/128}}
+{{DropsLine|name=Plant pot (empty)|quantity=1|rarity=3/128}}
+{{DropsLine|name=Iron stone spirit|quantity=2|rarity=3/128}}
+{{DropsLine|name=Staff of air|quantity=1|rarity=3/128}}
+{{DropsLine|name=Gold stone spirit|quantity=3|rarity=2/128}}
+{{DropsLine|name=Oak plank|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tile|quantity=1|rarity=2/128}}
+{{DropsLine|name=Unholy mould|quantity=1|rarity=2/128}}
+{{DropsLine|name=Earth orb|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128|version=Levels 72–75}}
+
+===Tertiary===
+{{DropsTableHead|version=Levels 82–85}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|gemw=no|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000}}
+{{DropsTableBottom}}
+
+==Level 77-79 drops==
+{{DropLogProject|jagex=yes}}
+===100%===
+{{DropsTableHead|version=Levels 77–79}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Equipment===
+{{DropsTableHead|version=Levels 77–79}}
+{{DropsLine|name=Gold necklace|quantity=1|rarity=3/128}}
+{{DropsLine|name=Steel arrow|quantity=11|rarity=3/128}}
+{{DropsLine|name=Willow shortbow|quantity=1|rarity=3/128}}
+{{DropsLine|name=Leather boots|quantity=1|rarity=2/128}}
+{{DropsLine|name=Ring of duelling (3)|quantity=1|rarity=2/128|gemw=no}}
+{{DropsLine|name=Bronze throwing axe|quantity=1|rarity=3/256}}
+{{DropsLine|name=Off-hand bronze throwing axe|quantity=1|rarity=3/256}}
+{{DropsLine|name=Steel dart|quantity=3|rarity=3/256}}
+{{DropsLine|name=Off-hand steel dart|quantity=3|rarity=3/256}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=Levels 77–79}}
+{{DropsLine|name=Medium blunt steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small bladed adamant salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny spiky mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small bladed steel salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium blunt rune salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herb drop table===
+{{HerbDropTableIntro|2/128}}
+{{DropsTableHead|version=Levels 77–79}}
+{{HerbDropTable|2/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead|version=Levels 77–79}}
+{{DropsLine|name=Coins|quantity=52|rarity=19/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=35|rarity=5/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=298|rarity=5/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=67|rarity=3/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=135|rarity=3/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=27|rarity=2/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=95|rarity=2/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=132|rarity=2/128|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Levels 77–79}}
+{{DropsLine|name=Knife|quantity=1|rarity=10/128}}
+{{DropsLine|name=Cup of tea|quantity=1|rarity=5/128}}
+{{DropsLine|name=Pure essence|quantity=14|rarity=5/128}}
+{{DropsLine|name=Rune nails|quantity=3|rarity=5/128}}
+{{DropsLine|name=Super ranging potion (3)|quantity=1|rarity=5/128}}
+{{DropsLine|name=Death rune|quantity=4|rarity=3/128}}
+{{DropsLine|name=Fire orb|quantity=1|rarity=3/128}}
+{{DropsLine|name=Holy mould|quantity=1|rarity=3/128}}
+{{DropsLine|name=Limestone brick|quantity=2|rarity=3/128}}
+{{DropsLine|name=Magic logs|quantity=1|rarity=2/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tinderbox|quantity=1|rarity=2/128}}
+{{DropsLine|name=Garlic|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128|version=Levels 77–79}}
+
+===Tertiary===
+{{DropsTableHead|version=Levels 82–85}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|gemw=no|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000}}
+{{DropsTableBottom}}
+
+==Level 82-85 drops==
+{{DropLogProject|jagex=yes}}
+===100%===
+{{DropsTableHead|version=Levels 82–85}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead|version=Levels 82–85}}
+{{DropsLine|name=Nature rune|quantity=7|rarity=3/128}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=2/128}}
+{{DropsLine|name=Lava rune|quantity=8|rarity=2/128}}
+{{DropsLine|name=Law rune|quantity=6|rarity=2/128}}
+{{DropsLine|name=Mind rune|quantity=10|rarity=2/128}}
+{{DropsLine|name=Mist rune|quantity=3|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Equipment===
+{{DropsTableHead|version=Levels 82–85}}
+{{DropsLine|name=Bronze javelin|quantity=4|rarity=3/128}}
+{{DropsLine|name=Leather gloves|quantity=1|rarity=2/128}}
+{{DropsLine|name=Adamant bolts|quantity=7|rarity=1/128}}
+{{DropsLine|name=Black chainbody|quantity=1|rarity=1/128}}
+{{DropsLine|name=Black hatchet|quantity=1|rarity=1/128}}
+{{DropsLine|name=Black sq shield|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=Levels 82–85}}
+{{DropsLine|name=Medium bladed bronze salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Medium spiky adamant salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium blunt steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium bladed mithril salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Small spiky mithril salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Medium plated steel salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Large bladed rune salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny spiky adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium plated bronze salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herb drop table===
+{{HerbDropTableIntro|2/128}}
+{{DropsTableHead|version=Levels 82–85}}
+{{HerbDropTable|2/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead|version=Levels 82–85}}
+{{DropsLine|name=Coins|quantity=17|rarity=22/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=82|rarity=21/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=154|rarity=5/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=55|rarity=2/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=78|rarity=2/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=78|rarity=1/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=112|rarity=1/128|gemw=no}}
+{{DropsLine|name=Coins|quantity=410|rarity=1/128|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Levels 82–85}}
+{{DropsLine|name=Black nails|quantity=8|rarity=5/128}}
+{{DropsLine|name=Hard leather|quantity=2 (noted)|rarity=5/128}}
+{{DropsLine|name=Fishing bait|quantity=7|rarity=3/128}}
+{{DropsLine|name=Dwellberries|quantity=4 (noted)|rarity=2/128}}
+{{DropsLine|name=Pestle and mortar|quantity=1|rarity=2/128}}
+{{DropsLine|name=White berries|quantity=1|rarity=2/128}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=1/128}}
+{{DropsLine|name=Pot of cream|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128|version=Levels 82–85}}
+
+===Tertiary===
+{{DropsTableHead|version=Levels 82–85}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|gemw=no|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000}}
+{{DropsTableBottom}}
+
+==Charm drops==
+{{DropLogProject|jagex=yes}}
+Only specific zombies drop charms, at different rates.
+
+===Level 72===
+:<small>NPC ID 5393</small>
+{{CharmDropTable
+|version=Level 72
+|quantity=1
+|gold=44.39/1000
+|green=22.195/1000
+|crimson=14.797/1000
+|blue=17.756/1000
+}}
+
+===Level 79 (1)===
+:<small>NPC ID 5402</small>
+{{CharmDropTable
+|version=Level 79 (1)
+|quantity=1
+|gold=88.623/1000
+|green=44.312/1000
+|crimson=29.541/1000
+|blue=35.449/1000
+}}
+===Level 79 (2)===
+:<small>NPC ID 5403</small>
+{{CharmDropTable
+|version=Level 79 (2)
+|quantity=1
+|gold=91.12/1000
+|green=45.56/1000
+|crimson=30.373/1000
+|blue=36.448/1000
+}}
+
+===Level 82 (1)===
+:<small>NPC ID 5404</small>
+{{CharmDropTable
+|version=Level 82 (1)
+|quantity=1
+|gold=95.42/1000
+|green=47.71/1000
+|crimson=31.807/1000
+|blue=38.168/1000
+}}
+===Level 82 (2)===
+:<small>NPC ID 5405</small>
+{{CharmDropTable
+|version=Level 82 (2)
+|quantity=1
+|gold=96.925/1000
+|green=48.463/1000
+|crimson=32.308/1000
+|blue=38.77/1000
+}}
+===Level 85 (2)===
+:<small>NPC ID 5409</small>
+{{CharmDropTable
+|version=Level 85 (2)
+|quantity=1
+|gold=133.302/1000
+|green=66.651/1000
+|crimson=44.434/1000
+|blue=53.321/1000
+}}
+
+===Tertiary===
+Only charm-dropping zombies can drop these.
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=72|version=Level 72}}
+{{DropsLineMimic|level=79|version=Level 79 Charm Dropper}}
+{{DropsLineMimic|level=82|version=Level 82 Charm Dropper}}
+{{DropsLineMimic|level=85|version=Level 85 (2)}}
+{{DropsLineEffigy|level=72|version=Level 72}}
+{{DropsLineEffigy|level=79|version=Level 79 Charm Dropper}}
+{{DropsLineEffigy|level=82|version=Level 82 Charm Dropper}}
+{{DropsLineEffigy|level=85|version=Level 85 (2)}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Added to game.
+}}
+
+{{Zombie}}

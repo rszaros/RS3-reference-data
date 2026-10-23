@@ -1,0 +1,64 @@
+{{Infobox Monster
+|name = Mysterious shade
+|image = [[File:Mysterious Shade.png|200px]]
+|release = [[1 June]] [[2011]]
+|update = Fremennik Sagas
+|members = No
+|options = Attack, Mark, Examine
+|examine = The vengeful spirit of one who died within Daemonheim.
+|level = 35
+|lifepoints = 1500
+|experience = 0.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Shades, Ghosts, Undead
+|max_melee = 183
+|max_ranged = 183
+|max_magic = 183
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 5
+|attack = 25
+|ranged = 25
+|magic = 25
+|necromancy = 1
+|acc_melee = 381
+|acc_ranged = 381
+|acc_magic = 381
+|acc_necromancy = 0
+|armour = 381
+|defence = 25
+|weakness = Arrows
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_stun = No
+|restriction = quest
+|leagueRegion = Wilderness
+|id = 7398
+}}
+Three '''mysterious shades''' appear as enemies in the [[Three's Company]] Fremennik Saga, in both the pickaxe room and the room with the green rectangle key. They do not need to be killed to complete the saga, although they may drop food.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Fremennik Sagas|date=1 June 2011}}
+** Added to game.
+}}
+
+{{Three's Company (saga)}}

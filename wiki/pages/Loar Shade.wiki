@@ -1,0 +1,131 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Shade
+|version2 = Shadow
+|name1 = Loar Shade
+|name2 = Loar Shadow
+|image1 = [[File:Loar Shade.png|120px]]
+|image2 = [[File:Loar Shadow.png|200px]]
+|release = [[18 October]] [[2004]]
+|update = Mortton Shades and Mage Armour
+|members = Yes
+|options = Attack
+|examine1 = The shadowy remains of a long departed soul.
+|examine2 = A shadowy sort of entity, kind of creepy looking.
+|level = 58
+|lifepoints = 4200
+|experience = 210.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 59.5
+|slayercat = Shades, Ghosts, Undead
+|assigned_by = Mazchna
+|max_melee = 403
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 42
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 668
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 668
+|defence = 42
+|weakness = Water
+|susceptibility = Salve, Gadderhammer, Ghost
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id1 = 1241
+|id2 = 1240
+|leagueRegion = Morytania
+}}
+'''Loar Shades''' lurk around [[Mort'ton]] and the nearby swamp regions surrounding the [[Shade Catacombs]]. They initially appear as dark greenish moving shadows (known as '''Loar Shadows''') on the ground and then rise from the depths to attack or retaliate. Their remains can be cremated with any [[pyre logs]].
+
+The [[salve amulet]] and [[salve amulet (e)]] work well on this shade and are very useful if shades are assigned for a [[slayer assignment]]. They are easy to defeat for players with a combat level of 70 or higher, but they have no standard drops besides their remains. Very low level players may use the [[Gadderhammer]] for its increased damage against shades, but quickly become irrelevant at higher levels when better weapons can be used. Because they are weak to water, ice spells from the [[Ancient Magicks]] can prove effective.
+
+Loar Shades' attacks are quite accurate and may temporarily reduce your [[Strength]] level by one. When fighting large groups of shades, such as during the [[Shades of Mort'ton (minigame)|Shades of Mort'ton minigame]], the stat drain can quickly stack up, leaving the player with an enormous drain on their Strength level in minutes. It is a good idea to attack shades from a distance, or use fast hitting melee attacks to defeat this enemy as quick as possible to minimise food consumption. The combat boost from a [[god banner]] will also give a Strength boost which constantly refreshes for 30 minutes, completely negating the stat drain from the shades during that time, though the boost can only be used once per day. In Mort'ton they can be safespotted using the tree and rocks outside the general store.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Mort'ton]]
+|lvls=58
+|mem=yes
+|mapID=28
+|npcid:1240,x:3474,y:3280|npcid:1240,x:3478,y:3307|npcid:1240,x:3479,y:3283
+|npcid:1240,x:3480,y:3271|npcid:1240,x:3482,y:3302|npcid:1240,x:3483,y:3283
+|npcid:1240,x:3483,y:3295|npcid:1240,x:3487,y:3272|npcid:1240,x:3488,y:3282
+|npcid:1240,x:3488,y:3288|npcid:1240,x:3489,y:3267|npcid:1240,x:3489,y:3302
+|npcid:1240,x:3492,y:3285|npcid:1240,x:3493,y:3293|npcid:1240,x:3496,y:3277
+|npcid:1240,x:3496,y:3296|npcid:1240,x:3500,y:3286|npcid:1240,x:3501,y:3294
+|npcid:1240,x:3501,y:3297|npcid:1240,x:3501,y:3313|npcid:1240,x:3501,y:3321
+|npcid:1240,x:3504,y:3299|npcid:1240,x:3507,y:3301|npcid:1240,x:3513,y:3321
+|npcid:1240,x:3516,y:3315
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Loar remains|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-11|rarity=1/20}}
+{{DropsLineGhosts|ectorarity=1000|herbrarity=1024}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (13 May 2013)|date=13 May 2013}}
+** Two lines of text concerning burning shades have been added to the [[game filter]].
+
+* {{UL|type=update|update=Mortton Shades and Mage Armour|date=18 October 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* Loar Shades have an extremely large [[wander radius]] and can go over terrain such as water. They can follow players to as far as the [[Barrows]] entrance and the [[Burgh de Rott]] entrance. They are also capable of moving from water onto bridges in sections where the fence is broken.
+* If attacked by one of these, after about a minute of not retaliating, Loar Shades will again become Loar Shadows and remain unaggressive for a few seconds.
+* Loar Shades used to be aggressive. This was changed in a hidden update.
+* On [[18 April]] [[2016]], Loar Shades and all other shades had their stats rebalanced. Their weakness also changed to water spells; before the update they were weak to arrows.
+
+==References==
+{{Reflist}}
+
+{{Shades of Mort'ton}}
+{{Shades of Mort'ton (minigame)}}
+{{Mort'ton}}
+{{Ghost}}
+[[Category:NPCs that can ignore ground blocking]]

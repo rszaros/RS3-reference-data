@@ -1,0 +1,64 @@
+{{Infobox Monster
+|version1 = The World Wakes
+|version2 = Dominion Tower
+|name = Skeleton bone thrower
+|image = [[File:Skeleton bone thrower.png|200px]]
+|release1 = [[4 March]] [[2013]]
+|release2 = [[8 December]] [[2014]]
+|update1 = The World Wakes
+|update2 = Snowverload & Dominion Tower Rumble Mode
+|members = Yes
+|options = Attack, Examine
+|race = Skeleton
+|examine = Could do with gaining a few pounds.
+|level = 46
+|lifepoints = 660
+|experience = 0.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Skeletons, Undead
+|max_melee = 0
+|max_ranged = 264
+|max_magic = 0
+|max_necromancy = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 33
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 502
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 502
+|defence = 33
+|weakness = Crush
+|aff_weakness = 80
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|restriction = quest
+|id1 = 17012
+|id2 = 17267
+}}
+'''Skeleton bone throwers''' are summoned by [[Zemouregal]] to aid him during [[The World Wakes]]. They, like the [[ghostly wraith]]s and [[armoured zombie]]s that Zemouregal also summons, are extremely weak and easily able to be defeated.
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=The World Wakes|date=4 March 2013}}
+** Added to game.
+}}
+
+==Trivia==
+*Despite their name, they actually throw rocks instead of bones.
+
+{{Skeleton}}
+{{The World Wakes}}
+[[Category:Quest monsters]]

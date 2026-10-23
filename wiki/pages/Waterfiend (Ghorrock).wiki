@@ -1,0 +1,207 @@
+{{Infobox Monster
+|version1 = Level 102
+|version2 = Level 107
+|name = Waterfiend
+|image = [[File:Waterfiend (Ghorrock).png|x280px]]
+|release = [[3 December]] [[2009]]
+|update = The Temple at Senntisten
+|members = Yes
+|options = Attack, Examine
+|examine1 = A fiendish embodiment of water.
+|examine2 = {{*}} A frozen embodiment of water. <br /> {{*}} A fiendish embodiment of water.
+|level1 = 102
+|level2 = 107
+|lifepoints1 = 8,000
+|lifepoints2 = 20,000
+|experience1 = 400
+|experience2 = 1,000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 290.8
+|slayercat = Waterfiends
+|in_wilderness = No
+|max_melee1 = 739
+|max_melee2 = 720
+|max_ranged1 = 739
+|max_ranged2 = 0
+|max_magic1 = 739
+|max_magic2 = 720
+|max_spec = 0
+|max_necromancy = 0
+|style = magic,ranged
+|primarystyle = magic
+|speed = 6
+|attack1 = 73
+|attack2 = 77
+|ranged = 73
+|magic1 = 73
+|magic2 = 77
+|necromancy = 1
+|acc_melee = 1783
+|acc_ranged = 1783
+|acc_magic = 1783
+|acc_necromancy = 0
+|armour1 = 1486
+|armour2 = 1694
+|defence1 = 73
+|defence2 = 77
+|weakness = Bolts
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Level 102
+|dropversion2 = Level 107
+|leagueRegion = Fremennik
+|id1 = 9054,9056,9057,9058,9059
+|id2 = 9077
+}}
+'''Waterfiends''' are demonic elemental monsters made entirely out of water, which can be located in [[Ghorrock]] fortress during and after the completion of [[The Temple at Senntisten]]. They are slightly weaker than the versions found in the [[Ancient Cavern]]. Additionally, they are aggressive monsters, whereas their counterparts are not. They are also completely immune to fire spells.
+
+They appear from inside various ice blocks when a [[heat globe]] is placed nearby. If the heat globe is subsequently removed, they will turn into [[Icefiend (Ghorrock)|icefiends]]. Likewise, the icefiends will turn back into waterfiends if the heat globe is placed back.
+
+One unique, level 107 waterfiend can be found frozen within a large ice block on the lower floor, alongside a crate that contains 40 [[law rune]]s. Unlike the other waterfiends, it can be seen before it is unfrozen, and it cannot be turned into an icefiend. Although it has significantly more lifepoints than the other waterfiends, it is incapable of dealing damage with ranged attacks.
+
+After the quest, the level 102 versions can be found in the bottom floor of the dungeon, with icefiends instead being found upstairs.
+
+Compared to standard [[waterfiend]]s, Ghorrock waterfiends are slightly weaker with lower combat stats. They drop two charms at a time rather than one, but the drop rate is slightly lowered, which somewhat "balances" out the rate players can collect charms from them.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ghorrock]] dungeon upper floor (quest)
+|lvls=102
+|mem=yes
+|requirements = Partial completion of {{QuestIcon|The Temple at Senntisten}}
+|mapID=547|plane=1
+|npcid:9054,x:2901,y:10352
+|npcid:9054,x:2893,y:10353
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc=[[Ghorrock]] dungeon lower floor (quest)
+|lvls=102, 107
+|mem=yes
+|requirements = Partial completion of {{QuestIcon|The Temple at Senntisten}}
+|mapID=547
+|npcid:9054,x:2908,y:10351
+|npcid:9077,x:2901,y:10341
+|npcid:9054,x:2919,y:10319
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc=[[Ghorrock]] dungeon lower floor (post-quest)
+|lvls=102
+|mem=yes
+|requirements = {{QuestIcon|The Temple at Senntisten}}
+|mapID=548
+|npcid:9054,x:2894,y:10384
+|npcid:9054,x:2894,y:10389
+|npcid:9054,x:2896,y:10401
+|npcid:9054,x:2898,y:10382
+|npcid:9054,x:2900,y:10391
+|npcid:9054,x:2900,y:10414
+|npcid:9054,x:2901,y:10405
+|npcid:9054,x:2902,y:10412
+|npcid:9054,x:2903,y:10403
+|npcid:9054,x:2903,y:10416
+|npcid:9054,x:2907,y:10384
+|npcid:9054,x:2908,y:10391
+|npcid:9054,x:2912,y:10384
+|npcid:9054,x:2917,y:10415
+|npcid:9054,x:2922,y:10391
+|npcid:9054,x:2923,y:10384
+|npcid:9054,x:2925,y:10386
+|npcid:9054,x:2926,y:10418
+|npcid:9054,x:2927,y:10406
+|npcid:9054,x:2928,y:10385
+|npcid:9054,x:2928,y:10397
+|npcid:9054,x:2928,y:10413
+|leagueRegion = Fremennik
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril stone spirit|quantity=2|rarity=10/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=4|rarity=12/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Seaweed|quantity=6 (noted)|rarity=18/128}}
+{{DropsLine|name=Coins|quantity=1200|rarity=16/128}}
+{{DropsLine|name=Snape grass|quantity=6 (noted)|rarity=14/128}}
+{{DropsLine|name=Raw lobster|quantity=4 (noted)|rarity=10/128}}
+{{DropsLine|name=Mithril arrowheads|quantity=25|rarity=8/128}}
+{{DropsLine|name=Water orb|quantity=2 (noted)|rarity=8/128}}
+{{DropsLine|name=Raw shark|quantity=2 (noted)|rarity=6/128}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=4/128}}
+{{DropsLine|name=Fishbowl|quantity=1|rarity=4/128}}
+{{DropsLine|name=Water talisman|quantity=1|rarity=2/128}}
+{{DropsLine|name=Casket|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|4/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128}}
+{{DropsLineEffigy|level=107|raritynotes={{DropNote|For level 107}}}}
+{{DropsLineEffigy|level=109|raritynotes={{DropNote|For level 109}}}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable|quantity=2|gold=30.793/1000|green=15.397/1000|crimson=246.342/1000|blue=6.158/1000}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=107}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[3 December]] [[2009]]|update=The Temple at Senntisten|img=Waterfiend (Ghorrock) (2009).png|name=Waterfiend (Ghorrock)}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Waterfiend (Ghorrock).png|name=Waterfiend (Ghorrock)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Waterfiends have been graphically updated.
+
+* {{UL|type=update|update=The Temple at Senntisten|date=3 December 2009}}
+** Added to game.
+}}
+
+{{The Temple at Senntisten}}
+{{Demons}}
+{{Elementals}}

@@ -1,0 +1,106 @@
+{{Otheruses|def=no|the monsters on the mainland|Armoured zombie}}
+{{Infobox Monster
+|version1 = Docile (Throwing Axes)
+|version2 = Docile (Sword and Shield)
+|version3 = Aggressive
+|name = Armoured zombie
+|image1 = [[File:Armoured zombie (ranged).png|110px]]
+|image2 = [[File:Armoured zombie.png|150px]]
+|image3 = [[File:Armoured zombie (ranged).png|110px]]
+|release = [[25 July]] [[2016]]
+|update = The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit
+|members = Yes
+|actions = Attack
+|examine = This is a rotten one.
+|level = 93
+|lifepoints = 1000
+|slaylvl = 1
+|experience = 50.0
+|aggressive = No
+|poisonous = No
+|slayercat = Zombies
+|assigned_by = Turael, Spria
+|max_melee = 268
+|max_ranged = 268
+|max_magic = 268
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = melee
+|speed = 4
+|attack = 67
+|ranged = 67
+|magic = 67
+|necromancy = 1
+|acc_melee = 1372
+|acc_ranged = 1372
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1372
+|defence = 67
+|weakness = Water
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia
+|id = 23042,23043,23044,23045
+}}
+'''Armoured zombies''' are [[monster]]s that can be found randomly on [[Uncharted Isles]], alongside their [[Zombie (Uncharted Isles)|non-armoured counterparts]]. They may be killed for combat experience and [[chimes]]. While not aggressive, they are accurate and can hit hard if players are unprepared for combat. The zombies are usually found in large groups making it very dangerous to use area-of-effect attacks or abilities against them.
+
+Attacking armoured zombies will scale their [[life points]] and combative abilities to the player's own combat level.
+
+The zombies will always be found near an overturned [[Potions (Uncharted Isles)|cauldron with potions]] laying about; this acts as their respawn point.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{TableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Maple shortbow|quantity=1-2 (noted)|rarity=11/128}}
+{{DropsLine|name=Yew shortbow|quantity=1-2 (noted)|rarity=11/128}}
+{{DropsLine|name=Magic shortbow|quantity=1-2 (noted)|rarity=2/128}}
+{{DropsLine|name=Amulet of strength|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril arrow|quantity=5-15|rarity=20/128}}
+{{DropsLine|name=Adamant arrow|quantity=5-15|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Chimes|image=Chimes 1.png|quantity=2-5|rarity=64/128|gemw=No}}
+{{DropsLine|name=Big bones|quantity=1-4 (noted)|rarity=6/128}}
+{{DropsLine|name=Yew logs|quantity=5-15 (noted)|rarity=2/128}}
+{{DropsLine|name=Gin|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit|date=25 July 2016}}
+** Added to game.
+}}
+
+{{Uncharted Isles}}
+{{Zombie}}
+[[Category:NPCs that can move at crawling speed]]

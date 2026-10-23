@@ -1,0 +1,163 @@
+{{External|os|wp}}{{Otheruses|the monster|the race|Ghoul (race)}}
+{{Infobox Monster
+|name = Ghoul
+|version1 = Brown
+|version2 = Blue
+|image1 = [[File:Ghoul.png|120px]]
+|image2 = [[File:Ghoul (2).png|120px]]
+|release = [[14 October]] [[2004]]
+|update = Morytania Expansion
+|members = Yes
+|actions = Attack
+|examine = It's totally savage.
+|level = 50
+|lifepoints = 6500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 64.8
+|slayercat = Ghouls
+|assigned_by = Mazchna
+|max_melee = 620
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 31
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 370
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 1218
+|id2 = 22531
+|leagueRegion =Morytania
+}}
+[[File:Ghoul icon.png|left]]
+'''Ghouls''' are a humanoid [[race]] and the descendants of a long-dead society that degraded to the point that its people ate their dead.{{CiteGeneral|url=http://services.runescape.com/m=rswiki/en/Canifis|title=Canifis|accessdate=18 December 2023| publisher=Jagex|archiveurl=https://reldo.runescape.wiki/i/14771345|archivedate=17 July 2016|quote=Ghouls are the savage remnants of a society that fell, many centuries ago, into eating their dead. In modern times they are a rare species, but can be relied upon to be found near graveyards, where they dig up the bodies and feast on rotting flesh. They fight without weapons and tear at their enemies with malformed fingers.}} They feed on the rotting flesh of bodies scavenged from grave sites and battlefields. Their appetite for dead bodies is the reason they are found just north of [[Canifis]] outside the mausoleum in the graveyard. Players can quickly reach ghouls by using the [[Canifis lodestone]].
+
+Ghouls are not undead. They are in fact still alive and immune to the effects of the [[Salve amulet]] and [[Salve amulet (e)]].
+
+Although the race as a whole is almost completely mindless, at least one non-violent ghoul known as [[Gus]] appears to have intelligence comparable to that of a [[human]]. [[Gus]] also appears to be the only ghoul (besides the [[Ghoul Champion]]) who resides west of the [[River Salve]].
+
+These monsters can be killed for 38 Slayer experience each when on a [[Slayer]] assignment for ghouls. They do not hit well against players with high defences, although they will occasionally damage even players at quite high levels.
+
+The graveyard is an excellent place to use a [[Dwarf multicannon|Dwarf Cannon]], due to the many ghouls and their fast respawn. This strategy can yield a lot of ranged experience and Slayer if killed for an assignment.
+
+A [[ghoul bone]], a special drop, is necessary to collect during the [[Rag and Bone Man/Wish list|wish list]] after the [[Rag and Bone Man]] quest.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=North of [[Canifis]]
+|lvls=50
+|mem=yes
+|mapID=28
+|npcid:1218,x:3483,y:3533|npcid:22531,x:3484,y:3530|npcid:1218,x:3484,y:3537
+|npcid:22531,x:3484,y:3542|npcid:1218,x:3484,y:3545|npcid:1218,x:3485,y:3528
+|npcid:1218,x:3486,y:3540|npcid:22531,x:3487,y:3548|npcid:1218,x:3488,y:3531
+|npcid:1218,x:3489,y:3535|npcid:1218,x:3490,y:3529|npcid:22531,x:3490,y:3540
+|npcid:1218,x:3490,y:3549|npcid:1218,x:3492,y:3533|npcid:22531,x:3494,y:3528
+|npcid:1218,x:3494,y:3540|npcid:22531,x:3494,y:3548|npcid:1218,x:3495,y:3537
+|npcid:1218,x:3496,y:3535|npcid:22531,x:3496,y:3542|npcid:1218,x:3496,y:3546
+|npcid:1218,x:3497,y:3530|npcid:22531,x:3497,y:3533|npcid:22531,x:3500,y:3527
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Champion's Challenge==
+Ghouls are one of the 'races' who have lesser champions in the [[Champion's Challenge]] [[Distraction and Diversion]]. To fight the [[Ghoul Champion]], the player must kill ghouls until one drops a [[Ghoul Champion's scroll|Champion's scroll]], a very rare drop.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main drop===
+{{DropsTableHead}}
+{{DropsLine|name=Law talisman|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-11|rarity=1/20}}
+{{DropsLine|name=Ghoul bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Ghoul Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Ghoul Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineEffigy|level=50}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=50}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 188.587/1000
+|green = 5.893/1000
+|crimson = 11.787/1000
+|blue = 1.179/1000
+}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Ghouls location.png|Ghouls at the graveyard near [[Mausoleum]] and [[In Memory of the Myreque (miniquest)|Myreque memorial statues]]
+File:Ghouls location old.png|Ghouls' previous model at their previous location, near the Slayer Tower
+File:Ghoul concept art.png|Concept art of the Ghouls graphical update
+</gallery>
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[14 October]] [[2004]]|update=Morytania Expansion|img=Ghoul_(2004).png|name=Ghoul}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Ghoul_(2008).png|name=Ghoul}}
+|{{GUL|date=[[11 April]] [[2016]]|update=Morytania Madness - Plushies - Myreque Memorial|img=Ghoul.png|name=Ghoul}}}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Patch Notes (23 October 2017)|date=23 October 2017}}
+** Ghouls no longer spawn within trees in the [[Canifis]] graveyard.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for Ghouls.
+
+* {{UL|type=update|update=Morytania Madness - Plushies - Myreque Memorial|date=11 April 2016}}
+** Graphically updated. Moved location from outside the [[Slayer Tower]] to the cemetery north of Canifis.
+
+* {{UL|type=update|update=Morytania Expansion|date=14 October 2004}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Slayer Tower}}
+
+[[Category:Morytania]]

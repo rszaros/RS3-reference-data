@@ -1,0 +1,108 @@
+{{External|os}}
+{{Otheruses|the TzHaar monster|the Summoning familiar|Spirit Tz-Kih}}
+{{otheruses|def=no|the [[TzekHaar]] version|TzekHaar-Kih}}
+{{Infobox Monster
+|version1 = TzHaar Fight Cave
+|version2 = TzHaar Fight Pit
+|version3 = The Brink of Extinction
+|name = Tz-Kih
+|image = [[File:Tz-Kih.png|100px]]
+|release1 = [[4 October]] [[2005]]
+|release2 = [[19 September]] [[2005]]
+|release3 = [[4 December]] [[2012]]
+|update1 = TzHaar Fight Caves
+|update2 = Massive minigame - Fight Pits
+|update3 = The Brink of Extinction - Grandmaster Quest
+|members = Yes
+|options = Attack
+|examine1 = Totally blind, the waspish Tz-Kih flies guided by sound alone.
+|examine2 = Totally blind, the waspish Tz-Kih flies guided by sound alone.
+|examine3 = Totally blind, the waspish Tz-Kih flies guided by sound alone.
+|level1 = 22
+|level2 = 84
+|level3 = 85
+|lifepoints1 = 3000
+|lifepoints2 = 1500
+|lifepoints3 = 1500
+|experience1 = 150.0
+|experience2 = 75.0
+|experience3 = 75.0
+|aggressive = Yes
+|poisonous2 = No
+|slaylvl = 1
+|slayxp1 = 72
+|slayercat = Volcanic creatures
+|assigned_by = Kuradal
+|max_melee1 = 244
+|max_melee2 = 610
+|max_melee3 = 610
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|speed = 4
+|attack = 61
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1164
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1164
+|defence = 61
+|weakness1 = Water
+|weakness2 = Water
+|weakness3 = Stab
+|aff_weakness1 = 90
+|aff_weakness2 = 40
+|aff_weakness3 = 90
+|aff_melee1 = 55
+|aff_melee2 = 40
+|aff_melee3 = 55
+|aff_ranged1 = 45
+|aff_ranged2 = 40
+|aff_ranged3 = 45
+|aff_magic1 = 65
+|aff_magic2 = 40
+|aff_magic3 = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction1 = minigame
+|restriction2 = minigame
+|restriction3 = quest
+|id1 = 2734
+|id2 = 16265
+|id3 = 16265
+|leagueRegion=Karamja}}
+The '''Tz-Kih''' is a [[monster]] found in the [[TzHaar]] [[TzHaar Fight Pit|Fight Pit]] and [[TzHaar Fight Cave|Fight Cave]]. They also appear during [[The Brink of Extinction]]. Tz-Kih translated is roughly “Flying Fire.”
+
+==Fight Cave==
+In the fight cave, it is the first enemy encountered. It resembles a fiery [[bat]] and can hit up to 200 life points. Each hit it inflicts on a player, whether it inflicts damage or not, will drain the player's [[Prayer]] points. With every successful hit, it will drain 10 prayer points.
+
+It is advised to prioritise killing these with ranged or magic as their prayer draining ability can make later waves harder and to trap them behind larger monsters where possible.
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[19 September]] [[2005]]|update=Massive minigame - Fight Pits|img=Tz-Kih (2005).png|name=Tz-Kih}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=Tz-Kih (2008).png|name=Tz-Kih}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=Tz-Kih.png|name=Tz-Kih}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Massive minigame - Fight Pits|date=19 September 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The name Tz-Kih in the [[TzHaar language]] means Fire Fly.
+* This creature also has a [[Spirit Tz-Kih|spirit]] familiar equivalent in the [[Summoning]] skill.
+* Its examine text was previously "Hangs out in caves."
+
+[[File:Tzkih BTS.jpg|left|thumb|Concept art]]
+
+{{The Brink of Extinction}}
+{{TzHaar Fight Cave}}

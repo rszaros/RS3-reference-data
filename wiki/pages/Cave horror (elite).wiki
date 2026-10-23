@@ -1,0 +1,139 @@
+{{external|os=Cave abomination}}
+{{Infobox Monster
+|name = Cave horror
+|image = [[File:Cave horror.png|250px]]
+|release = [[27 July]] [[2015]]
+|update = Elite Monster Spawns
+|members = Yes
+|actions = Attack
+|examine = An extremely horrible, emaciated ape like creature with beady red eyes.
+|level = 86
+|lifepoints = 11000
+|experience = 550
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 58
+|slayxp = 509
+|slayercat = Cave horrors
+|assigned_by = Chaeldar, Sumona
+|max_melee = 660
+|max_ranged = 0
+|max_magic = 660
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 60
+|ranged = 1
+|magic = 60
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 1132
+|acc_ranged = 0
+|acc_magic = 1132
+|armour = 1694
+|defence = 75
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania
+|id = 21432
+}}
+A '''cave horror''' (elite) is an [[elite monster|elite version]] of the [[cave horror]]. If on a [[Slayer assignment]], an elite Cave horror is guaranteed to spawn; otherwise, elite monsters have a spawn rate of 1 in 1,000. Elite spawn rates can be further increased with the use of [[fellstalk incense stick]]s and tier 2 [[luck]]. 
+
+Unlike its normal counterpart, the elite version has the ability to negate the effect of [[Witchwood icon]]s, allowing them to attack at a rapid rate.
+
+==Names==
+The elite versions have varying names, with a randomly generated prefix and suffix.
+{{Elite names|name=Cave horror}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black mask (10)|quantity=1|rarity=1/256|altrarity=1/248|raritynotes={{DropNote|1/248 with tier 2 [[luck]] or higher.}}|rolls=3}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy ranarr|quantity=2 (noted)|rarity=8/128|rolls=3}}
+{{DropsLine|name=Grimy lantadyme|quantity=1 (noted)|rarity=6/128|rolls=3}}
+{{DropsLine|name=Grimy dwarf weed|quantity=1 (noted)|rarity=6/128|rolls=3}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2250-3750|rarity=10/128|rolls=3}}
+{{DropsLine|name=Coins|quantity=3750-6250|rarity=8/128|rolls=3}}
+{{DropsLine|name=Coins|quantity=7500-12500|rarity=2/128|rolls=3}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Teak logs|quantity=6-10 (noted)|rarity=12/128|rolls=3}}
+{{DropsLine|name=Mahogany logs|quantity=2-6 (noted)|rarity=8/128|rolls=3}}
+{{DropsLine|name=Weapon poison+ (3)|quantity=1|rarity=14/128|rolls=3}}
+{{DropsLine|name=Big bones|quantity=13-17 (noted)|rarity=10/128|rolls=3}}
+{{DropsLine|name=Monkey bones|quantity=2 (noted)|rarity=10/128|rolls=3}}
+{{DropsLine|name=Raw swordfish|quantity=7-9 (noted)|rarity=10/128|rolls=3}}
+{{DropsLine|name=Ruby ring|quantity=3 (noted)|rarity=7/128|rolls=3}}
+{{DropsLine|name=Ruby necklace|quantity=2 (noted)|rarity=7/128|rolls=3}}
+{{DropsLine|name=Poison ivy berries|quantity=2 (noted)|rarity=6/128|rolls=3}}
+{{DropsLine|name=Coconut|quantity=1 (noted)|rarity=4/128|rolls=3}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/200|rolls=3}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Foot bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/96|rolls=3}}
+{{DropsLineEffigy|level=86|rolls = 3}}
+{{DropsLineSpiritGems|rolls = 3}}
+{{DropsLineMimic|level=86|rolls = 3}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|rolls = 3
+|gold = 38.071/1000
+|green = 19.036/1000
+|crimson = 133.249/1000
+|blue = 3.807/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Elite Monster Spawns|date=27 July 2015}}
+** Added to game.
+}}
+
+{{Horrors}}
+{{Elite monster}}
+{{Slayer monsters}}
+[[Category:Mos Le'Harmless]]

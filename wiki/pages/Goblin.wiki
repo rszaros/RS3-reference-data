@@ -1,0 +1,972 @@
+{{External|rsc|os|dw}}
+{{Otheruses|regular goblins}}
+{{Incomplete|Missing appearance in Deserted Mine.}}
+{{Multi infobox
+|text1 = Varrock
+|item1 =
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|name = Goblin
+|image1 = [[File:Goblin (Varrock, 1).png]]
+|image2 = [[File:Goblin (Varrock, 2).png]]
+|image3 = [[File:Goblin (Varrock, 3).png]]
+|image4 = [[File:Goblin (Varrock, 4).png]]
+|release = [[4 January]] [[2001]]
+|update = Runescape beta is now online!
+|members = No
+|options = Attack, Examine
+|race = Goblin
+|examine = An ugly green creature.
+|level = 11
+|lifepoints = 1750
+|experience = 87.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Goblins
+|max_melee = 160
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 8
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 81
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 181
+|defence = 8
+|weakness = Water
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|leagueRegion = Misthalin
+|id1 = 3264
+|id2 = 3265
+|id3 = 3266
+|id4 = 3267
+}}
+|text2 = Port Sarim
+|item2 =
+{{Infobox Monster
+|version1 = Level 2 (1)
+|version2 = Level 2 (2)
+|version3 = Level 2 (3)
+|version4 = Level 2 (4)
+|version5 = Level 2 (5)
+|version6 = Level 2 (6)
+|version7 = Level 2 (7)
+|version8 = Level 2 (8)
+|version9 = Level 5 (9)
+|version10 = Level 5 (10)
+|version11 = Level 5 (11)
+|version12 = Level 5 (12)
+|name = Goblin
+|image1 = [[File:Goblin (Port Sarim, 1).png]]
+|image2 = [[File:Goblin (Port Sarim, 2).png]]
+|image3 = [[File:Goblin (Port Sarim, 3).png]]
+|image4 = [[File:Goblin (Port Sarim, 4).png]]
+|image5 = [[File:Goblin (Port Sarim, 5).png]]
+|image6 = [[File:Goblin (Port Sarim, 6).png]]
+|image7 = [[File:Goblin (Port Sarim, 7).png]]
+|image8 = [[File:Goblin (Port Sarim, 8).png]]
+|image9 = [[File:Goblin (Port Sarim, 9).png]]
+|image10 = [[File:Goblin (Port Sarim, 10).png]]
+|image11 = [[File:Goblin (Port Sarim, 11).png]]
+|image12 = [[File:Goblin (Port Sarim, 12).png]]
+|release = [[4 January]] [[2001]]
+|update = Runescape beta is now online!
+|members = No
+|options = Attack, Examine
+|race = Goblin
+|examine = An ugly, green creature.
+|level1 = 2
+|level2 = 2
+|level3 = 2
+|level4 = 2
+|level5 = 2
+|level6 = 2
+|level7 = 2
+|level8 = 2
+|level9 = 5
+|level10 = 5
+|level11 = 5
+|level12 = 5
+|lifepoints1 = 550
+|lifepoints2 = 550
+|lifepoints3 = 550
+|lifepoints4 = 550
+|lifepoints5 = 550
+|lifepoints6 = 550
+|lifepoints7 = 550
+|lifepoints8 = 550
+|lifepoints9 = 1300
+|lifepoints10 = 1300
+|lifepoints11 = 1300
+|lifepoints12 = 1300
+|experience1 = 27.5
+|experience2 = 27.5
+|experience3 = 27.5
+|experience4 = 27.5
+|experience5 = 27.5
+|experience6 = 27.5
+|experience7 = 27.5
+|experience8 = 27.5
+|experience9 = 65
+|experience10 = 65
+|experience11 = 65
+|experience12 = 65
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Goblins
+|max_melee1 = 40
+|max_melee2 = 40
+|max_melee3 = 40
+|max_melee4 = 40
+|max_melee5 = 40
+|max_melee6 = 40
+|max_melee7 = 40
+|max_melee8 = 40
+|max_melee9 = 80
+|max_melee10 = 80
+|max_melee11 = 80
+|max_melee12 = 80
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack1 = 2
+|attack2 = 2
+|attack3 = 2
+|attack4 = 2
+|attack5 = 2
+|attack6 = 2
+|attack7 = 2
+|attack8 = 2
+|attack9 = 4
+|attack10 = 4
+|attack11 = 4
+|attack12 = 4
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 20
+|acc_melee2 = 20
+|acc_melee3 = 20
+|acc_melee4 = 20
+|acc_melee5 = 20
+|acc_melee6 = 20
+|acc_melee7 = 20
+|acc_melee8 = 20
+|acc_melee9 = 40
+|acc_melee10 = 40
+|acc_melee11 = 40
+|acc_melee12 = 40
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour1 = 120
+|armour2 = 120
+|armour3 = 120
+|armour4 = 120
+|armour5 = 120
+|armour6 = 120
+|armour7 = 120
+|armour8 = 120
+|armour9 = 140
+|armour10 = 140
+|armour11 = 140
+|armour12 = 140
+|defence1 = 2
+|defence2 = 2
+|defence3 = 2
+|defence4 = 2
+|defence5 = 2
+|defence6 = 2
+|defence7 = 2
+|defence8 = 2
+|defence9 = 4
+|defence10 = 4
+|defence11 = 4
+|defence12 = 4
+|weakness1 = Air
+|weakness2 = Air
+|weakness3 = Air
+|weakness4 = Air
+|weakness5 = Air
+|weakness6 = Air
+|weakness7 = Air
+|weakness8 = Air
+|weakness9 = Fire
+|weakness10 = Fire
+|weakness11 = Fire
+|weakness12 = Fire
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|leagueRegion = Asgarnia
+|id1 = 8638
+|id2 = 11233
+|id3 = 11235
+|id4 = 11237
+|id5 = 11239
+|id6 = 11241
+|id7 = 12354
+|id8 = 12356
+|id9 = 13247
+|id10 = 13248
+|id11 = 13249
+|id12 = 13250
+}}
+|text3 = North-West Kandarin
+|item3 =
+{{Infobox Monster
+|version1 = Level 2 (1)
+|version2 = Level 2 (2)
+|version3 = Level 2 (3)
+|version4 = Level 2 (4)
+|version5 = Level 2 (5)
+|version6 = Level 2 (6)
+|version7 = Level 2 (7)
+|version8 = Level 2 (8)
+|version9 = Level 2 (9)
+|version10 = Level 2 (10)
+|version11 = Level 2 (11)
+|version12 = Level 5 (1)
+|version13 = Level 5 (2)
+|version14 = Level 5 (3)
+|version15 = Level 5 (4)
+|version16 = Level 5 (5)
+|name = Goblin
+|image1 = [[File:Goblin (Goblin Cave, 1).png]]
+|image2 = [[File:Goblin (Goblin Cave, 2).png]]
+|image3 = [[File:Goblin (Goblin Cave, 3).png]]
+|image4 = [[File:Goblin (Goblin Cave, 4).png]]
+|image5 = [[File:Goblin (Goblin Cave, 5).png]]
+|image6 = [[File:Goblin (Goblin Cave, 6).png]]
+|image7 = [[File:Goblin (Goblin Cave, 7).png]]
+|image8 = [[File:Goblin (Goblin Cave, 8).png]]
+|image9 = [[File:Goblin (Goblin Cave, 9).png]]
+|image10 = [[File:Goblin (Goblin Cave, 10).png]]
+|image11 = [[File:Goblin (Goblin Cave, 11).png]]
+|image12 = [[File:Goblin (Goblin Cave, 12).png]]
+|image13 = [[File:Goblin (Goblin Cave, 13).png]]
+|image14 = [[File:Goblin (Goblin Cave, 14).png]]
+|image15 = [[File:Goblin (Goblin Cave, 15).png]]
+|image16 = [[File:Goblin (Goblin Cave, 16).png]]
+|release = [[13 June]] [[2006]]
+|update = Warriors' Guild
+|members = Yes
+|options = Attack, Examine
+|race = Goblin
+|examine = An ugly green creature.
+|level1 = 2
+|level2 = 2
+|level3 = 2
+|level4 = 2
+|level5 = 2
+|level6 = 2
+|level7 = 2
+|level8 = 2
+|level9 = 2
+|level10 = 2
+|level11 = 2
+|level12 = 5
+|level13 = 5
+|level14 = 5
+|level15 = 5
+|level16 = 5
+|lifepoints1 = 550
+|lifepoints2 = 550
+|lifepoints3 = 550
+|lifepoints4 = 550
+|lifepoints5 = 550
+|lifepoints6 = 550
+|lifepoints7 = 550
+|lifepoints8 = 550
+|lifepoints9 = 550
+|lifepoints10 = 550
+|lifepoints11 = 550
+|lifepoints12 = 1300
+|lifepoints13 = 1300
+|lifepoints14 = 1300
+|lifepoints15 = 1300
+|lifepoints16 = 1300
+|aggressive1 = Yes
+|aggressive2 = Yes
+|aggressive3 = No
+|aggressive4 = No
+|aggressive5 = No
+|aggressive6 = No
+|aggressive7 = No
+|aggressive8 = No
+|aggressive9 = No
+|aggressive10 = No
+|aggressive11 = No
+|aggressive12 = No
+|aggressive13 = No
+|aggressive14 = No
+|aggressive15 = No
+|aggressive16 = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Goblins
+|max_melee1 = 40
+|max_melee2 = 40
+|max_melee3 = 40
+|max_melee4 = 40
+|max_melee5 = 40
+|max_melee6 = 40
+|max_melee7 = 40
+|max_melee8 = 40
+|max_melee9 = 40
+|max_melee10 = 40
+|max_melee11 = 40
+|max_melee12 = 80
+|max_melee13 = 80
+|max_melee14 = 80
+|max_melee15 = 80
+|max_melee16 = 80
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack1 = 2
+|attack2 = 2
+|attack3 = 2
+|attack4 = 2
+|attack5 = 2
+|attack6 = 2
+|attack7 = 2
+|attack8 = 2
+|attack9 = 2
+|attack10 = 2
+|attack11 = 2
+|attack12 = 4
+|attack13 = 4
+|attack14 = 4
+|attack15 = 4
+|attack16 = 4
+|ranged1 = 1
+|ranged2 = 1
+|ranged3 = 1
+|ranged4 = 1
+|ranged5 = 1
+|ranged6 = 1
+|ranged7 = 1
+|ranged8 = 1
+|ranged9 = 1
+|ranged10 = 1
+|ranged11 = 1
+|ranged12 = 1
+|ranged13 = 1
+|ranged14 = 1
+|ranged15 = 1
+|ranged16 = 1
+|magic1 = 1
+|magic2 = 1
+|magic3 = 1
+|magic4 = 1
+|magic5 = 1
+|magic6 = 1
+|magic7 = 1
+|magic8 = 1
+|magic9 = 1
+|magic10 = 1
+|magic11 = 1
+|magic12 = 1
+|magic13 = 1
+|magic14 = 1
+|magic15 = 1
+|magic16 = 1
+|necromancy = 1
+|acc_melee1 = 20
+|acc_melee2 = 20
+|acc_melee3 = 20
+|acc_melee4 = 20
+|acc_melee5 = 20
+|acc_melee6 = 20
+|acc_melee7 = 20
+|acc_melee8 = 20
+|acc_melee9 = 20
+|acc_melee10 = 20
+|acc_melee11 = 20
+|acc_melee12 = 40
+|acc_melee13 = 40
+|acc_melee14 = 40
+|acc_melee15 = 40
+|acc_melee16 = 40
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour1 = 120
+|armour2 = 120
+|armour3 = 120
+|armour4 = 120
+|armour5 = 120
+|armour6 = 120
+|armour7 = 120
+|armour8 = 120
+|armour9 = 120
+|armour10 = 120
+|armour11 = 120
+|armour12 = 140
+|armour13 = 140
+|armour14 = 140
+|armour15 = 140
+|armour16 = 140
+|defence1 = 2
+|defence2 = 2
+|defence3 = 2
+|defence4 = 2
+|defence5 = 2
+|defence6 = 2
+|defence7 = 2
+|defence8 = 2
+|defence9 = 2
+|defence10 = 2
+|defence11 = 2
+|defence12 = 4
+|defence13 = 4
+|defence14 = 4
+|defence15 = 4
+|defence16 = 4
+|weakness1 = Air
+|weakness2 = Air
+|weakness3 = Air
+|weakness4 = Air
+|weakness5 = Air
+|weakness6 = Air
+|weakness7 = Air
+|weakness8 = Air
+|weakness9 = Air
+|weakness10 = Air
+|weakness11 = Air
+|weakness12 = Fire
+|weakness13 = Fire
+|weakness14 = Fire
+|weakness15 = Fire
+|weakness16 = Fire
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Kandarin
+|id1 = 4261
+|id2 = 4262
+|id3 = 4263
+|id4 = 4264
+|id5 = 4265
+|id6 = 4266
+|id7 = 4267
+|id8 = 4268
+|id9 = 4269
+|id10 = 4270
+|id11 = 4271
+|id12 = 4272
+|id13 = 4273
+|id14 = 4274
+|id15 = 4275
+|id16 = 4276
+}}
+|text4 = Members area
+|item4 =
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|name = Goblin
+|image1 = [[File:Goblin (1).png]]
+|image2 = [[File:Goblin (2).png]]
+|image3 = [[File:Goblin (3).png]]
+|image4 = [[File:Goblin (4).png]]
+|release = [[17 June]] [[2002]]
+|release2 = [[3 March]] [[2003]]
+|release4 = [[17 March]] [[2003]]
+|update = Latest RuneScape News (17 June 2002)
+|update2 = New Quest Online - Part Three
+|update4 = Observatory Quest online!
+|members = Yes
+|options = Attack, Examine
+|race = Goblin
+|examine1 = An ugly, green creature.
+|examine2 = An ugly goblin... bleurgh!
+|examine3 = An ugly, green creature.
+|examine4 = These goblins have grown strong.
+|level1 = 2
+|level2 = 5
+|level3 = 5
+|level4 = 11
+|lifepoints1 = 550
+|lifepoints2 = 1300
+|lifepoints3 = 1300
+|lifepoints4 = 1750
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Goblins
+|max_melee1 = 40
+|max_melee2 = 80
+|max_melee3 = 80
+|max_melee4 = 160
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack1 = 2
+|attack2 = 4
+|attack3 = 4
+|attack4 = 8
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 20
+|acc_melee2 = 40
+|acc_melee3 = 40
+|acc_melee4 = 81
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour1 = 120
+|armour2 = 140
+|armour3 = 140
+|armour4 = 181
+|defence1 = 2
+|defence2 = 4
+|defence3 = 4
+|defence4 = 8
+|weakness1 = Air
+|weakness2 = Fire
+|weakness3 = Fire
+|weakness4 = Water
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|leagueRegion = Kandarin,Tirannwn,Morytania
+|id1 = 8637
+|id2 = 4499
+|id3 = 13095
+|id4 = 13097
+}}
+}}
+[[File:Goblin chathead.png|left|95px]]
+'''Goblins''' are generally weak monsters who are popular for [[combat training]] for players with lower [[combat level]]s. They are most easily found in the [[Goblin Cave]], north-west of the [[Manor Farm]] and south-east of [[Fishing Guild]]. Some [[Goblin (Lumbridge)|variants]] are found east of [[Lumbridge]]. Some [[Goblin (God Wars Dungeon)|variants]] are found in the [[God Wars Dungeon]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Observatory Dungeon]]
+|lvls=2, 5
+|mem=yes
+|mapID=545
+|npcid:13095,x:2305,y:9385|npcid:13095,x:2307,y:9359|npcid:13095,x:2307,y:9403
+|npcid:13095,x:2310,y:9396|npcid:8637,x:2316,y:9392|npcid:13095,x:2317,y:9371
+|npcid:13095,x:2317,y:9383|npcid:8637,x:2319,y:9367|npcid:8637,x:2321,y:9402
+|npcid:8637,x:2322,y:9387|npcid:6125,x:2323,y:9377|npcid:13095,x:2324,y:9404
+|npcid:8637,x:2325,y:9360|npcid:8637,x:2333,y:9346|npcid:13095,x:2333,y:9366
+|npcid:8637,x:2335,y:9382|npcid:13095,x:2335,y:9393|npcid:8637,x:2337,y:9387
+|npcid:13095,x:2339,y:9403|npcid:13095,x:2342,y:9347|npcid:8637,x:2343,y:9360
+|npcid:8637,x:2344,y:9369|npcid:8637,x:2348,y:9390|npcid:8637,x:2349,y:9380
+|npcid:8637,x:2349,y:9402|npcid:6126,x:2351,y:9358|npcid:13095,x:2351,y:9359
+|npcid:8637,x:2359,y:9345|npcid:8637,x:2359,y:9359|npcid:8637,x:2359,y:9374
+|npcid:8637,x:2359,y:9382|npcid:13095,x:2359,y:9392|npcid:8637,x:2363,y:9403
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Arandar]]
+|lvls=5
+|mem=yes
+|mapID=28
+|npcid:13095,x:2385,y:3339|npcid:13095,x:2387,y:3345|npcid:13095,x:2394,y:3334
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Underground Pass (dungeon)|Underground Pass]]
+|lvls=5, 11
+|mem=yes
+|mapID=579
+|npcid:13095,x:2377,y:9657|npcid:13095,x:2381,y:9655|npcid:13095,x:2384,y:9655
+|npcid:13097,x:2391,y:9655|npcid:13095,x:2392,y:9656|npcid:13095,x:2396,y:9658
+|npcid:13095,x:2397,y:9655|npcid:13095,x:2438,y:9695|npcid:4499,x:2438,y:9698
+|npcid:13095,x:2438,y:9699|npcid:13095,x:2440,y:9697|npcid:13095,x:2441,y:9698
+|leagueRegion = Tirannwn
+}}
+{{LocLine
+|loc=[[Tree Gnome Village (location)|Tree Gnome Village]]
+|lvls=2, 5
+|mem=yes
+|mapID=28
+|npcid:13095,x:2505,y:3176|npcid:13095,x:2519,y:3145|npcid:13095,x:2523,y:3155
+|npcid:13095,x:2542,y:3155|npcid:13095,x:2550,y:3166|npcid:8637,x:2550,y:3197
+|npcid:8637,x:2552,y:3195|npcid:8637,x:2553,y:3198|npcid:8637,x:2555,y:3194
+|npcid:13095,x:2557,y:3198
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=West of the [[Fishing Guild]]
+|lvls=2, 5
+|mem=yes
+|mapID=28
+|npcid:4265,x:2563,y:3398|npcid:4268,x:2563,y:3416|npcid:4274,x:2563,y:3439
+|npcid:4276,x:2564,y:3407|npcid:4263,x:2566,y:3453|npcid:4264,x:2567,y:3428
+|npcid:4264,x:2568,y:3403|npcid:4275,x:2568,y:3433|npcid:4273,x:2569,y:3410
+|npcid:4265,x:2569,y:3442|npcid:4267,x:2571,y:3442|npcid:4275,x:2572,y:3396
+|npcid:4276,x:2572,y:3420|npcid:4269,x:2574,y:3409|npcid:4273,x:2576,y:3436
+|npcid:4272,x:2577,y:3404|npcid:4263,x:2578,y:3400|npcid:4270,x:2578,y:3413
+|npcid:4274,x:2581,y:3395|npcid:4275,x:2583,y:3430|npcid:4272,x:2583,y:3435
+|npcid:4271,x:2585,y:3432|npcid:4261,x:2564,y:3456
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Clock Tower Dungeon]]
+|lvls=5, 11
+|mem=yes
+|mapID=0
+|npcid:13097,x:2562,y:9657|npcid:13095,x:2562,y:9659|npcid:13095,x:2563,y:9661
+|npcid:8637,x:2564,y:9653|npcid:8637,x:2565,y:9655|npcid:8637,x:2566,y:9626
+|npcid:8637,x:2567,y:9653|npcid:8637,x:2569,y:9633|npcid:13097,x:2571,y:9653
+|npcid:13095,x:2599,y:9626|npcid:13095,x:2601,y:9627|npcid:13095,x:2605,y:9621
+|npcid:8637,x:2607,y:9621|npcid:13095,x:2610,y:9620
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Goblin Cave]]
+|lvls=2, 5
+|mem=yes
+|mapID=0
+|npcid:4272,x:2564,y:9836|npcid:4273,x:2565,y:9835|npcid:4275,x:2566,y:9849
+|npcid:4272,x:2568,y:9844|npcid:4273,x:2569,y:9847|npcid:4263,x:2570,y:9845
+|npcid:4274,x:2570,y:9850|npcid:4269,x:2579,y:9841|npcid:4266,x:2580,y:9825
+|npcid:4270,x:2580,y:9847|npcid:4271,x:2580,y:9850|npcid:4271,x:2584,y:9826
+|npcid:4263,x:2584,y:9829|npcid:4266,x:2584,y:9835|npcid:4264,x:2586,y:9832
+|npcid:4268,x:2587,y:9837|npcid:4267,x:2589,y:9834|npcid:4276,x:2590,y:9821
+|npcid:4265,x:2591,y:9830|npcid:4269,x:2591,y:9836|npcid:4262,x:2592,y:9819
+|npcid:4270,x:2594,y:9826|npcid:4275,x:2595,y:9821|npcid:4274,x:2597,y:9821
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=Entrance to the [[Goblin Cave]]
+|lvls=2, 5
+|mem=yes
+|mapID=28
+|npcid:4273,x:2628,y:3400|npcid:4270,x:2631,y:3392|npcid:4271,x:2631,y:3398
+|npcid:4272,x:2636,y:3393
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Port Sarim]]
+|lvls=2, 5
+|mem=no
+|mapID=28
+|npcid:11233,x:2995,y:3209|npcid:11235,x:2996,y:3201|npcid:8638,x:2997,y:3216
+|npcid:11237,x:2998,y:3205|npcid:11239,x:2999,y:3208|npcid:11241,x:2999,y:3211
+|npcid:13247,x:3001,y:3202|npcid:12356,x:3002,y:3206|npcid:12354,x:3002,y:3210
+|npcid:13249,x:3003,y:3205|npcid:13248,x:3004,y:3201|npcid:13250,x:3004,y:3209
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=West of [[Varrock]]
+|lvls=11
+|mem=no
+|mapID=28
+|npcid:3266,x:3118,y:3432|npcid:3267,x:3119,y:3444|npcid:3264,x:3121,y:3422
+|npcid:3265,x:3126,y:3431|npcid:3264,x:3126,y:3450
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Varrock Dig Site]]
+|lvls=11
+|mem=no
+|mapID=28
+|npcid:3264,x:3312,y:3370
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Meiyerditch tunnels]]
+|lvls=2, 5, 11
+|mem=yes
+|mapID=-1
+|npcid:13095,x:3465,y:9797|npcid:13097,x:3466,y:9796|npcid:8637,x:3466,y:9798
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Champion's Challenge==
+Goblins are one of the 'races' that have champions in the [[Champion's Challenge]], a [[Distractions and Diversions|Distraction and Diversion]]. To fight the [[Goblin Champion]], the player must kill goblins until one drops a [[Goblin Champion's scroll|Champion's scroll]], a very rare drop.
+
+==Drops==
+===Table 1===
+{{DropLogProject|jagex=yes}}
+
+This drop table is accessed by level 11 goblins and most level 2 goblins. Some level 5 goblins use also use this drop table.
+
+{{Average drop value|mob=Goblin#Table 1}}
+
+====100%====
+{{DropsTableHead|version=Table 1}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+====Charms====
+Charms are only dropped in members' worlds.
+
+{{CharmDropTable|quantity=1|gold=85.996/1000|green=2.687/1000|crimson=5.375/1000|blue=0.537/1000}}
+
+====Weapons and armours====
+{{DropsTableHead|version=Table 1}}
+{{DropsLine|name=Bronze med helm|quantity=1|rarity=9/128}}
+{{DropsLine|name=Bronze spear|quantity=1|rarity=4/128|members=yes|raritynotes={{DropNote|name=bronzespear|Bronze spear replaced by bronze dagger/off hand dagger in free-to-play.}}}}
+{{DropsLine|name=Bronze dagger|quantity=1|rarity=4/256|namenotes={{F2POnly}}|raritynotes={{DropNote|name=bronzespear}}}}
+{{DropsLine|name=Bronze off hand dagger|quantity=1|rarity=4/256|namenotes={{F2POnly}}|raritynotes={{DropNote|name=bronzespear}}}}
+{{DropsLine|name=Bronze square shield|quantity=1|rarity=3/128}}
+{{DropsLine|name=Bronze kiteshield|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Runes and ammunition====
+{{DropsTableHead|version=Table 1}}
+{{DropsLine|name=Water rune|quantity=6|rarity=6/128}}
+{{DropsLine|name=Body rune|quantity=7|rarity=5/128}}
+{{DropsLine|name=Mind rune|quantity=13-19|rarity=3/128}}
+{{DropsLine|name=Bronze bolts|quantity=8|rarity=3/128}}
+{{DropsLine|name=Earth rune|quantity=4|rarity=3/128}}
+{{DropsLine|name=Air rune|quantity=2-7|rarity=3/128}}
+{{DropsLine|name=Bronze arrow|quantity=16|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Coins====
+{{DropsTableHead|version=Table 1}}
+{{DropsLine|name=Coins|quantity=5|rarity=28/128}}
+{{DropsLine|name=Coins|quantity=5-10|rarity=11/128}}
+{{DropsLine|name=Coins|quantity=15|rarity=3/128}}
+{{DropsLine|name=Coins|quantity=20|rarity=2/128}}
+{{DropsLine|name=Coins|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Other====
+{{DropsTableHead|version=Table 1}}
+{{DropsLine|name=Cabbage|quantity=1|rarity=14/128}}
+{{DropsLine|name=Guam seed|members=yes|quantity=1|rarity=10/128|raritynotes={{DropNote|name=guam seed|Guam seed replaced by bread dough in free-to-play.}}}}
+{{DropsLine|name=Bread dough|members=np|quantity=1|rarity=10/128|namenotes={{F2POnly}}|raritynotes={{DropNote|name=guam seed}}}}
+{{DropsLine|name=Goblin mail|quantity=1|rarity=5/128}}
+{{DropsLine|name=Grapes|quantity=3|rarity=3/128}}
+{{DropsLine|name=Chef's hat|quantity=1|rarity=3/128}}
+{{DropsLine|name=Beer|quantity=1|rarity=2/128}}
+{{DropsLine|name=Goblin book|quantity=1|rarity=2/128|gemw=no|alch=no}}
+{{DropsLine|name=Brass necklace|quantity=1|rarity=1/128}}
+{{DropsLine|name=Air talisman|quantity=1|rarity=1/128}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Tertiary====
+{{DropsTableHead|version=Table 1}}
+{{DropsLine|name=Goblin skull|members=yes|quantity=1|rarity=Always|gemw=no|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest.}}}}
+{{DropsLine|name=Undercooked mystery meat|quantity=1|rarity=1/20|raritynotes={{DropNote|Only when wearing the [[Asylum doctor's ring]].}}}}
+{{DropsLine|name=Sealed clue scroll (easy)|members=Yes|quantity=1|rarity=1/128}}
+{{DropsLine|name=Bronze gauntlets|quantity=1|rarity=1/128}}
+{{BeginnerWeaponsDropLines}}
+{{DropsLine|name=Goblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Goblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4,000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineSpiritGems}}
+{{DropsTableBottom}}
+
+===Table 2===
+{{DropLogProject|jagex=yes}}
+
+This drop table is accessed by some level 5 goblins and one level 2 goblin. <!--The IDs using this drop table are 4262, 4272, 4273, 4274, 4275, 4276, and 13095.-->
+
+{{Average drop value|mob=Goblin#Table 2}}
+
+====100%====
+{{DropsTableHead|version=Table 2}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+====Weapons and armour====
+{{DropsTableHead|version=Table 2}}
+{{DropsLine|name=Bronze spear|quantity=1|rarity=9/128|members=yes|raritynotes={{DropNote|name=bronzespear|Bronze spear replaced by bronze dagger/off hand dagger in free-to-play.}}}}
+{{DropsLine|name=Bronze dagger|quantity=1|rarity=9/256|namenotes={{F2POnly}}|raritynotes={{DropNote|name=bronzespear}}}}
+{{DropsLine|name=Bronze off hand dagger|quantity=1|rarity=9/256|namenotes={{F2POnly}}|raritynotes={{DropNote|name=bronzespear}}}}
+{{DropsLine|name=Bronze scimitar|quantity=1|rarity=1/256}}
+{{DropsLine|name=Bronze off hand scimitar|quantity=1|rarity=1/256}}
+{{DropsLine|name=Bronze full helm|quantity=1|rarity=1/128}}
+{{DropsLine|name=Iron full helm|quantity=1|rarity=1/256}}
+{{DropsLine|name=Iron square shield|quantity=1|rarity=1/256}}
+{{DropsTableBottom}}
+
+====Runes and ammunition====
+{{DropsTableHead|version=Table 2}}
+{{DropsLine|name=Bronze arrow|quantity=20|rarity=3/128}}
+{{DropsLine|name=Bronze javelin|quantity=5|rarity=2/128}}
+{{DropsLine|name=Earth rune|quantity=4|rarity=3/128}}
+{{DropsLine|name=Body rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Mind rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Nature rune|quantity=1|rarity=1/128}}
+{{DropsLine|name=Chaos rune|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Herbs====
+{{HerbDropTableIntro|2/128}}
+{{DropsTableHead|version=Table 2}}
+{{HerbDropTable|2/128|f2p=yes}}
+{{DropsTableBottom}}
+
+====Coins====
+{{DropsTableHead|version=Table 2}}
+{{DropsLine|name=Coins|quantity=1|rarity=34/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=5-15|rarity=14/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=3|rarity=13/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=5|rarity=8/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=16|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=24|rarity=3/128|gemw=No}}
+{{DropsTableBottom}}
+
+====Other====
+{{DropsTableHead|version=Table 2}}
+{{DropsLine|name=Goblin mail|quantity=1|rarity=10/128|gemw=no|alch=no}}
+{{DropsLine|name=Bronze hatchet|quantity=1|rarity=3/128}}
+{{DropsLine|name=Goblin book|quantity=1|rarity=2/128|gemw=No}}
+{{DropsLine|name=Tin ore|quantity=1|rarity=1/128}}
+{{DropsLine|name=Cape (red)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Grapes|quantity=1|rarity=1/128}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Tertiary====
+{{DropsTableHead|version=Table 2}}
+{{DropsLine|name=Goblin skull|members=yes|quantity=1|rarity=Always|gemw=no|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest.}}}}
+{{DropsLine|name=Undercooked mystery meat|quantity=1|rarity=1/20|raritynotes={{DropNote|Only when wearing the [[Asylum doctor's ring]].}}}}
+{{DropsLine|name=Sealed clue scroll (easy)|members=Yes|quantity=1|rarity=1/128|gemw=No}}
+{{DropsLine|name=Bronze gauntlets|quantity=1|rarity=1/128}}
+{{DropsLine|name=Goblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Goblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4,000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Transcript==
+{{Speaksin}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Goblin Transformation.gif|A player transformed into a Goblin
+File:June Game Jam - This Week In RuneScape (45) update image.png|Unreleased goblin model rework from [[Game Jam (June 2023)]]
+File:June Game Jam - This Week In RuneScape (46) update image.gif|Unreleased goblin model rework
+File:June Game Jam - This Week In RuneScape (47) update image.gif|Unreleased goblin model rework
+File:June Game Jam - This Week In RuneScape (44) update image.gif|Unreleased goblin chathead rework
+</gallery>
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}}
+** [[Goblin mail]] and [[goblin book]] drops
+
+==Graphical updates==
+===NPCs===
+{{GU
+|subject = npc
+|{{GUL|date=[[4 January]] [[2001]]|update=Runescape beta is now online!|img=Goblin (2001).png|name=Goblin}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Goblin (level 2) (2004).png|name=Goblin}}
+|{{GUL|date=[[24 April]] [[2007]]|update=Another Slice of H.A.M.|img=Goblin (level 2) (2007).png|name=Goblin}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Goblin (2008).png|name=Goblin}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Goblin (2) (2008).png|name=Goblin}}
+|{{GUL|date=[[17 October]] [[2012]]|update=What's Mine is Yours|img=Goblin (Port Sarim, 3).png|name=Goblin}}
+}}
+
+===Chatheads===
+{{GU
+|subject = chatheads
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Goblin chathead (2004).png|name=Goblin}}
+|{{GUL|date=[[24 April]] [[2007]]|update=Another Slice of H.A.M.|img=Goblin chathead (2007).png|name=Goblin}}
+|{{GUL|date=[[17 October]] [[2012]]|update=What's Mine is Yours|img=Goblin chathead.png|name=Goblin}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Out Now|date=23 March 2026}}
+** Added to [[Deserted Mine]].
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Tiny plated bronze salvage → Bronze med helm, Bronze gauntlets
+*** Tiny spiky bronze salvage → Bronze spear, Bronze dagger/Bronze off hand dagger
+*** Small plated bronze salvage → Bronze square shield (level 2), Bronze full helm (level 5)
+*** Small bladed bronze salvage → Bronze scimitar/Bronze off hand scimitar
+*** Medium plated bronze salvage → Bronze kiteshield
+*** Small plated iron salvage → Iron full helm, Iron square shield
+
+* {{UL|type=patch|update=Patch Notes (19 December 2012)|date=19 December 2012}}
+** Several goblins have been graphically updated to the same standard as the recently reworked goblins.
+
+* {{UL|type=patch|update=What's Mine is Yours|date=17 October 2012}}
+** The Goblin Village has also received a full graphical rework, as have all surface-dwelling goblin NPCs, the [[Captured Temple|Chaos Temple]] near [[Doric's hut|Doric's house]] and the [[Burthorpe]] wall north-west of [[Falador]].
+
+* {{UL|type=patch|update=Patch Notes (13 May 2010)|date=13 May 2010}}
+** Goblin death animations should now be a bit quicker.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* Some common goblins have a "talk" option such as the one in the hay barn in Draynor near [[Mabel]]. However, upon talking to them, the game box will say "The goblin doesn't have anything interesting to say."
+
+{{Deserted Mine}}
+{{Goblins}}
+{{Top trumps}}
+[[Category:Bandosians]]
+[[pt:Duende]]

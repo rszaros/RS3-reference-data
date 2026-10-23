@@ -1,0 +1,205 @@
+{{External|os}}
+{{Otheruses|def=no|the variant in God Wars Dungeon|Gorak (God Wars Dungeon)}}
+{{Infobox Monster
+|version1 = Gorak Plane
+|version2 = The World Wakes
+|name = Gorak
+|image = [[File:Gorak.png|250px]]
+|release1 = [[11 July]] [[2006]]
+|release2 = [[4 March]] [[2013]]
+|update1 = Fairy Tale II - Cure a Queen
+|update2 = The World Wakes
+|level1 = 74
+|level2 = 95
+|experience1 = 192.0
+|experience2 = 598.5
+|lifepoints1 = 2650
+|lifepoints2 = 6800
+|slaylvl = 1
+|slayxp1 = 49.8
+|slayercat = Goraks
+|members = Yes
+|aggressive = No
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = Yes
+|immune_to_drain = No
+|style = none
+|primarystyle = melee
+|speed = 4
+|max_melee1 = 212
+|max_melee2 = 272
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|weakness1 = Water
+|weakness2 = Fire
+|options = Attack
+|examine1 = Gorak by name, Gorak by nature.
+|examine2 = 
+|attack1 = 53
+|attack2 = 68
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|defence1 = 53
+|defence2 = 68
+|armour1 = 928
+|armour2 = 680
+|acc_melee1 = 928
+|acc_melee2 = 680
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|restriction2 = quest
+|dropversion1 = Gorak Plane
+|id1 = 4418
+|id2 = 17025
+|leagueRegion1 = Misthalin
+|leagueRegion2 = Kandarin
+}}
+[[File:Gorak icon.png|left]]
+'''Goraks''' are a race from the [[Gorak Plane]], a separate dimension from [[Gielinor]]. The Gorak Plane can only be accessed via [[fairy ring]] code {{Fairycode|dir}}. Some [[Gorak (God Wars Dungeon)|goraks]] can be found in the [[God Wars Dungeon]]. They are encountered during and after the [[A Fairy Tale II - Cure a Queen]] quest, where the player must obtain their [[Gorak claws|claws]] to create a [[Magic essence|magic essence potion]].
+
+The Goraks constantly draw the life essence from any living being they encounter, as well as the world they live on. In doing so, they have effectively trapped themselves on a small plane, leaving what remains of it noticeably warped. At some point, they were recruited into [[Zamorak]]'s army.
+
+Goraks can be assigned as [[Slayer]] tasks in numbers of 40-80, by [[Duradel]] or [[Lapalok]]. Goraks will not be assigned as a task unless the player has access to the fairy ring network.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Gorak Plane]]
+|lvls=74
+|mem=yes
+|mapID=355
+|npcid:4418,x:3023,y:5339|npcid:4418,x:3023,y:5350|npcid:4418,x:3033,y:5343
+|npcid:4418,x:3035,y:5350|npcid:4418,x:3037,y:5330|npcid:4418,x:3038,y:5344
+|npcid:4418,x:3038,y:5361|npcid:4418,x:3040,y:5351|npcid:4418,x:3042,y:5347
+|npcid:4418,x:3052,y:5344|npcid:4418,x:3052,y:5353
+|leagueRegion=Misthalin
+}}
+{{LocTableBottom}}
+
+==Strategy==
+Goraks mainly attack with a typeless melee attack, and every damaging hit will lower a random skill by at least one level, including noncombat skills, but excluding [[Constitution]], [[Prayer]], and [[Summoning]] ([[prayer points]] and [[summoning points]] are drained instead). It is recommended to bring a few [[Super restore]]s to replenish drained stats as necessary.
+
+Lower-levelled players should be cautious, however players with at least level 80 stats should have little trouble killing large quantities, particularly if using magic.
+
+Because their attacks deal typeless damage, protection prayers and deflect curses will have no effect. However, all other prayers and curses can be used normally. The accuracy is calculated against the player's melee defence, so magic armour will provide the best protection.
+
+When fighting Goraks in the [[Gorak plane]] using range or magic, it is very easy to move around the fairy ring using it as a safe spot for the Goraks that spawn nearby.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Iron halberd|quantity=1|rarity=3/128}}
+{{DropsLine|name=Steel throwing axe|quantity=1|rarity=1.5/256}}
+{{DropsLine|name=Off-hand steel throwing axe|quantity=1|rarity=1.5/256}}
+{{DropsLine|name=Mithril throwing axe|quantity=1|rarity=1.5/256}}
+{{DropsLine|name=Off-hand mithril throwing axe|quantity=1|rarity=1.5/256}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|15/128}}
+{{DropsTableHead}}
+{{HerbDropTable|15/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated steel salvage|quantity=1|rarity=7/128}}
+{{DropsLine|name=Medium bladed iron salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Medium bladed steel salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Large plated rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=27|rarity=5/128}}
+{{DropsLine|name=Coins|quantity=97|rarity=7/128}}
+{{DropsLine|name=Coins|quantity=104|rarity=29/128}}
+{{DropsLine|name=Coins|quantity=132|rarity=25/128}}
+{{DropsLine|name=Coins|quantity=286|rarity=10/128}}
+{{DropsLine|name=Coins|quantity=475|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Ring of life|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tooth half of a key|quantity=1|rarity=0.5/128}}
+{{DropsLine|name=Loop half of a key|quantity=1|rarity=0.5/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Gorak claws|quantity=1|rarity=1/3|raritynotes={{DropNote|Gorak claws are only dropped if [[A Fairy Tale II - Cure a Queen]] has been started or completed.}}|gemw=No}}
+{{DropsLine|name=Long, sharp claws|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=no}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Gorak concept art.jpg|Concept art of Gorak.
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[11 July]] [[2006]]|update=Fairy Tale II - Cure a Queen|img=Gorak (2006).png|name=Gorak}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Gorak (2008).png|name=Gorak}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Gorak.png|name=Gorak}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (2 March 2020)|date=2 March 2020}}.
+** Getting damaged by the Gorak now lowers your [[Invention]] level.
+
+* {{UL|type=ninja|update=Patch Notes (23 June 2014)|date=23 June 2014}}
+** The graphics and animations for the following NPCs have been revised:
+*** Goraks
+
+* {{UL|type=patch|update=Patch Notes (8 July 2009)|date=8 July 2009}}
+** Goraks no longer get a bit confused when in combat with several players.
+
+* {{UL|type=update|update=Fairy Tale II - Cure a Queen|date=11 July 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine text "Gorak by name, Gorak by nature." refers to architect {{wp|Antoni Gaudí}}. People used to say "Gaudí by name, gaudy by nature."
+* After the Evolution of Combat update and the removal of poison weapons, it was still possible to receive poison weapons from the goraks in the Gorak Plane, which could only be banked. Equipping them would remove the poison. This has since been fixed.
+* Goraks were originally slated to be included in Daemonheim.
+* Goraks are one of the few monsters unable to drop Summoning charms.
+
+{{A Fairy Tale II - Cure a Queen}}
+[[Category:Quest monsters]]
+[[Category:Participants in the God Wars]]
+[[Category:NPCs with multiple Examine options]]
+[[pt:Gorak]]

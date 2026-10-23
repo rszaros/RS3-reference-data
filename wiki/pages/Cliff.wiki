@@ -1,0 +1,345 @@
+{{Infobox Monster
+|version1 = 7
+|version2 = 16
+|version3 = 28
+|version4 = 37
+|version5 = 49
+|version6 = 58
+|version7 = 70
+|version8 = 81
+|version9 = 91 Magic
+|version10 = 91 Melee
+|version11 = 91 Ranged
+|name = Cliff
+|image = [[File:Cliff.png|160px]]
+|release = [[14 June]] [[2011]]
+|update = Troll Invasion
+|members = Yes
+|options = Attack, Information
+|examine = An unusually large troll.
+|level1 = 7
+|level2 = 16
+|level3 = 28
+|level4 = 37
+|level5 = 49
+|level6 = 58
+|level7 = 70
+|level8 = 81
+|level9 = 91
+|level10 = 91
+|level11 = 91
+|lifepoints1 = 2000
+|lifepoints2 = 3250
+|lifepoints3 = 3250
+|lifepoints4 = 3250
+|lifepoints5 = 3250
+|lifepoints6 = 3250
+|lifepoints7 = 3250
+|lifepoints8 = 3250
+|lifepoints9 = 3250
+|lifepoints10 = 3250
+|lifepoints11 = 3250
+|experience1 = 100.0
+|experience2 = 90.0
+|experience3 = 90.0
+|experience4 = 90.0
+|experience5 = 90.0
+|experience6 = 90.0
+|experience7 = 90.0
+|experience8 = 90.0
+|experience9 = 90.0
+|experience10 = 90.0
+|experience11 = 90.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 509
+|slayercat = Trolls
+|assigned_by = Spria, Chaeldar, Sumona
+|max_melee1 = 30
+|max_melee2 = 0
+|max_melee3 = 0
+|max_melee4 = 0
+|max_melee5 = 0
+|max_melee6 = 0
+|max_melee7 = 0
+|max_melee8 = 0
+|max_melee9 = 0
+|max_melee10 = 0
+|max_melee11 = 0
+|max_ranged1 = 30
+|max_ranged2 = 260
+|max_ranged3 = 260
+|max_ranged4 = 260
+|max_ranged5 = 260
+|max_ranged6 = 260
+|max_ranged7 = 260
+|max_ranged8 = 260
+|max_ranged9 = 260
+|max_ranged10 = 260
+|max_ranged11 = 260
+|max_magic1 = 30
+|max_magic2 = 0
+|max_magic3 = 0
+|max_magic4 = 0
+|max_magic5 = 0
+|max_magic6 = 0
+|max_magic7 = 0
+|max_magic8 = 0
+|max_magic9 = 0
+|max_magic10 = 0
+|max_magic11 = 0
+|max_necromancy = 0
+|max_spec = 0
+|style1 = melee
+|style2 = melee
+|style3 = melee
+|style4 = melee
+|style5 = melee
+|style6 = melee
+|style7 = melee
+|style8 = melee
+|style9 = magic
+|style10 = melee
+|style11 = ranged
+|primarystyle1 = melee
+|primarystyle2 = melee
+|primarystyle3 = melee
+|primarystyle4 = melee
+|primarystyle5 = melee
+|primarystyle6 = melee
+|primarystyle7 = melee
+|primarystyle8 = melee
+|primarystyle9 = magic
+|primarystyle10 = melee
+|primarystyle11 = ranged
+|speed1 = 6
+|speed2 = 6
+|speed3 = 6
+|speed4 = 6
+|speed5 = 6
+|speed6 = 6
+|speed7 = 6
+|speed8 = 6
+|speed9 = 4
+|speed10 = 4
+|speed11 = 4
+|attack1 = 5
+|attack2 = 1
+|attack3 = 1
+|attack4 = 1
+|attack5 = 1
+|attack6 = 1
+|attack7 = 1
+|attack8 = 1
+|attack9 = 1
+|attack10 = 1
+|attack11 = 1
+|ranged1 = 5
+|ranged2 = 65
+|ranged3 = 65
+|ranged4 = 65
+|ranged5 = 65
+|ranged6 = 65
+|ranged7 = 65
+|ranged8 = 65
+|ranged9 = 65
+|ranged10 = 65
+|ranged11 = 65
+|magic1 = 5
+|magic2 = 1
+|magic3 = 1
+|magic4 = 1
+|magic5 = 1
+|magic6 = 1
+|magic7 = 1
+|magic8 = 1
+|magic9 = 1
+|magic10 = 1
+|magic11 = 1
+|necromancy = 1
+|acc_melee1 = 150
+|acc_melee2 = 0
+|acc_melee3 = 0
+|acc_melee4 = 0
+|acc_melee5 = 0
+|acc_melee6 = 0
+|acc_melee7 = 0
+|acc_melee8 = 0
+|acc_melee9 = 0
+|acc_melee10 = 0
+|acc_melee11 = 0
+|acc_ranged1 = 150
+|acc_ranged2 = 1299
+|acc_ranged3 = 1299
+|acc_ranged4 = 1299
+|acc_ranged5 = 1299
+|acc_ranged6 = 1299
+|acc_ranged7 = 1299
+|acc_ranged8 = 1299
+|acc_ranged9 = 1299
+|acc_ranged10 = 1299
+|acc_ranged11 = 1299
+|acc_magic1 = 150
+|acc_magic2 = 223
+|acc_magic3 = 316
+|acc_magic4 = 409
+|acc_magic5 = 536
+|acc_magic6 = 668
+|acc_magic7 = 850
+|acc_magic8 = 1070
+|acc_magic9 = 1299
+|acc_magic10 = 0
+|acc_magic11 = 0
+|acc_necromancy = 0
+|armour1 = 150
+|armour2 = 1299
+|armour3 = 1299
+|armour4 = 1299
+|armour5 = 1299
+|armour6 = 1299
+|armour7 = 1299
+|armour8 = 1299
+|armour9 = 1299
+|armour10 = 1299
+|armour11 = 1299
+|defence1 = 5
+|defence2 = 65
+|defence3 = 65
+|defence4 = 65
+|defence5 = 65
+|defence6 = 65
+|defence7 = 65
+|defence8 = 65
+|defence9 = 65
+|defence10 = 65
+|defence11 = 65
+|weakness1 = Nothing
+|weakness2 = Nothing
+|weakness3 = Nothing
+|weakness4 = Nothing
+|weakness5 = Nothing
+|weakness6 = Nothing
+|weakness7 = Nothing
+|weakness8 = Nothing
+|weakness9 = Arrows
+|weakness10 = Air
+|weakness11 = Slash
+|aff_weakness1 = 40
+|aff_weakness2 = 40
+|aff_weakness3 = 40
+|aff_weakness4 = 40
+|aff_weakness5 = 40
+|aff_weakness6 = 40
+|aff_weakness7 = 40
+|aff_weakness8 = 40
+|aff_weakness9 = 90
+|aff_weakness10 = 90
+|aff_weakness11 = 90
+|aff_melee1 = 40
+|aff_melee2 = 40
+|aff_melee3 = 40
+|aff_melee4 = 40
+|aff_melee5 = 40
+|aff_melee6 = 40
+|aff_melee7 = 40
+|aff_melee8 = 40
+|aff_melee9 = 50
+|aff_melee10 = 60
+|aff_melee11 = 70
+|aff_ranged1 = 40
+|aff_ranged2 = 40
+|aff_ranged3 = 40
+|aff_ranged4 = 40
+|aff_ranged5 = 40
+|aff_ranged6 = 40
+|aff_ranged7 = 40
+|aff_ranged8 = 40
+|aff_ranged9 = 70
+|aff_ranged10 = 50
+|aff_ranged11 = 60
+|aff_magic1 = 40
+|aff_magic2 = 40
+|aff_magic3 = 40
+|aff_magic4 = 40
+|aff_magic5 = 40
+|aff_magic6 = 40
+|aff_magic7 = 40
+|aff_magic8 = 40
+|aff_magic9 = 60
+|aff_magic10 = 70
+|aff_magic11 = 50
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id1 = 12921
+|id2 = 15114
+|id3 = 15114
+|id4 = 15114
+|id5 = 15114
+|id6 = 15114
+|id7 = 15114
+|id8 = 15114
+|id9 = 15114
+|id10 = 15114
+|id11 = 15114
+|leagueRegion = Asgarnia
+}}
+'''Cliff''' is a troll that features in the [[Distractions and Diversions]] [[Troll Invasion]]. All that is known about Cliff is that his name derives from the first thing he ate: an entire cliff face, the [[Forinthry Cliffs]].{{CiteGeneral|url = http://services.runescape.com/m=rswiki/en/Troll_Invasion.html|title = Troll Invasion|publisher = Jagex|quote = Have you ever travelled to the Forinthry Cliffs and looked out over the vastness of the Wilderness? There are tales of how breathtaking the view is - or rather was, because Cliff here ate them. How one can eat a cliff isn't clear, but you should be more concerned with what it did to Cliff than how he did it. He's big and tough, and came down from the mountain to drink milk and kick butt...and he's all outta milk.|archiveurl=https://archive.ph/4TtPb|archivedate=21 March 2016|name=jagexwiki}} This implies that he is very strong for a troll. He is fought in wave 20 of the D&D, or wave 7 if doing the harder version.
+
+Despite his fearsome stature, varied attacks, and a decent amount of life points, Cliff is very weak and poses no threat other than his stun. He appears alone in wave 20, but in hard mode wave 7, he appears with several other trolls, including dangerous [[Dynamite]], [[Wizard (Troll Invasion)|Wizard]], and [[Troll ranger]] which should be focused on instead.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Troll Invasion]]
+|lvls = Scales
+|mem = yes
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Combat==
+*'''Magic:''' A large rock, that looks like a lava-infused [[Earth Surge]], form at Cliff's hands and shoot toward the player. The player can use Protect from Magic when the rock is forming to negate the damage. Cliff will only use this attack when the player is out of his melee range.
+*'''Ranged:''' Three rocks form and fly toward the player, converging slowly until they meet and hit the player. It is possible to step out of the way of this attack and avoid all damage as it does not track you like normal ranged attacks, but it is unnecessary as it does low damage. Cliff will only use this attack when the player is out of his melee range.
+*'''Melee:''' Cliff's melee attacks come in two forms. The first looks like a regular punch, while the second looks like he is pounding down with both fists. Cliff does not move closer to attack with melee if he is at a distance. His melee attacks can cause the screen to shake, but this is a purely visual effect with no consequence.
+*'''Stun:''' When the player is within melee range, Cliff will occasionally teleport the player a few squares away from him and briefly stunning them. This can be seen as a purple mesh that envelopes the player. This is his most dangerous attack as this can drag players into dangers like [[Wizard (Troll Invasion)|Wizard]]s' fields. It is recommended to stay out of melee range to avoid this attack, as he does not move into melee range on his own.
+
+<gallery mode="packed" heights="200">
+Cliff melee.png|Cliff's melee attack.
+Cliff death.png|Cliff has been defeated!
+</gallery>
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased (this only applies to the three level 91 versions):
+*** 'Weak' style: 65 → 70
+*** Same style: 55 → 60
+*** 'Strong' style: 45 → 50
+
+* {{UL|type=update|update=Troll Invasion|date=14 June 2011}}
+** Added to game.
+}}
+
+==Trivia==
+* In the knowledge base, where Cliff was listed in the Troll Invasion page, he is said to have "came down from the mountain to drink milk and kick butt...and he's all outta milk". This is a reference to the film "They Live", and a reference to the video game "Duke Nukem", in which the title character has a similar catchphrase.{{NamedRef|jagexwiki}}
+* His examine text is identical to [[Dad]]'s.
+* Cliff resembles three gigantic trolls, [[Anvil (troll)|Anvil]], [[Magic Stick]] and [[Morningstar]] defeated during the members tutorial, [[Troll Warzone]]. Their attacks also resemble Cliff's. Anvil appears to uses the same melee attack as Cliff, Magic Stick uses the lava-boulder magic attack, and the troll general's ranged attack has a similar animation as Cliff's, although it doesn't split into multiple missiles.
+* Upon release, Cliff was much stronger; a number of updates including the [[Evolution of Combat]] has changed his stats and made defeating him trivial.
+
+==References==
+{{Reflist}}
+
+{{Troll Invasion}}
+{{Trolls}}
+[[Category:Bosses]]
+[[Category:Bandosians]]

@@ -1,0 +1,160 @@
+{{Infobox Monster
+|name = Beastmaster's hound
+|image = [[File:Beastmaster's hound.png]]
+|release = [[18 August]] [[2025]]
+|update = Tuska Clean Up - This Week In RuneScape
+|members = Yes
+|options = Attack
+|examine = Those helmets save lives. Charger lives. Goebie lives, not so much.
+|level = 68
+|lifepoints = 7050
+|slaylvl = 43
+|slayxp = 118.8
+|aggressive = No
+|poisonous = No
+|slayercat = Beastmaster's hounds
+|assigned_by = chaeldar, mazchna, sumona
+|max_melee = 860.0
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 48
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 589
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 689
+|defence = 50
+|weakness = crush
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = no
+|immune_to_deflect = no
+|immune_to_stun = no
+|immune_to_drain = no
+|leagueRegion = desert
+|id = 32221
+}}
+[[File:Beastmaster's hound icon.png|left]]
+'''Beastmaster's hounds''' are [[Slayer monsters]] requiring level 43 [[Slayer]] to harm. They can be found south of [[Otot]] and near the [[Graveyard (Mazcab)|Goebie Graveyard]] on [[Mazcab]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=South of [[Otot]]
+|lvls=68
+|mem=yes
+|mapID=682
+|npcid:32221,x:4189,y:888|npcid:32221,x:4184,y:880|npcid:32221,x:4189,y:875
+|npcid:32221,x:4199,y:888|npcid:32221,x:4199,y:880|npcid:32221,x:4199,y:875
+|npcid:32221,x:4194,y:888|npcid:32221,x:4194,y:875|npcid:32221,x:4184,y:875
+|leagueRegion = Desert
+}}
+{{LocLine
+|loc=[[Graveyard (Mazcab)]]
+|lvls=68
+|mem=yes
+|mapID=682
+|npcid:32221,x:4240,y:775|npcid:32221,x:4245,y:770|npcid:32221,x:4250,y:775
+|npcid:32221,x:4255,y:770|npcid:32221,x:4260,y:775|npcid:32221,x:4265,y:770
+|leagueRegion = Desert
+}}
+{{LocTableBottom}}
+
+==Strategies==
+Set up a cannon just south of Otot around the rock. Alternately if at 99 or higher Slayer, collect five souls with [[ushabti]]s and place in the [[Sunken Pyramid]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+===Currency===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=800-1400|rarity=8/487}}
+{{DropsLine|name=Teci|quantity=2-4|rarity=4/487|gemw=no}}
+{{DropsTableBottom}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Adamantite stone spirit|quantity=2|rarity=40/487}}
+{{DropsLine|name=Luminite stone spirit|quantity=3|rarity=40/487}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=40/487}}
+{{DropsLine|name=Small blunt adamant salvage|quantity=1|rarity=40/487}}
+{{DropsLine|name=Small plated adamant salvage|quantity=1|rarity=40/487}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Guam seed|quantity=2|rarity=40/487}}
+{{DropsLine|name=Harralander seed|quantity=1|rarity=40/487}}
+{{DropsLine|name=Ranarr seed|quantity=1|rarity=40/487}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Cooked eeligator|quantity=2|rarity=75/487}}
+{{DropsLine|name=Potato cactus|quantity=1|rarity=40/487}}
+{{DropsLine|name=White berries|quantity=1|rarity=Common}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Tuska's Wrath ability codex|quantity=1|rarity=1/1000|altrarity=1/400|raritynotes={{DropNote|name=taskonly|1/400 during a [[Slayer]] task; 1/1,000 otherwise.}}}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128|gemw=no}}
+{{DropsLine|name=Small goebie burial charm|quantity=1|rarity=3/12000|gemw=no}}
+{{DropsLine|name=Goebie burial charm|quantity=1|rarity=1/12000|gemw=no}}
+{{DropsLine|name=Large goebie burial charm|quantity=1|rarity=1/12000|gemw=no}}
+{{DropsLineWarpriest|god=Tuska}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=68}}
+{{DropsLineMimic|level=68}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 25.478/1000
+|green = 87.34/1000
+|crimson = 545.332/1000
+|blue = 89.296/1000
+}}
+
+==Achievements==
+* {{Achievement|Master of the Universe}}
+** [[Tuska's Wrath ability codex]]
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=The Need for Mead - This Week In RuneScape|date=26 August 2025}}
+** Increased the spawn rate of the Beastmaster's hound NPCs, as they previously took around a minute to respawn. Now, it has been increased to around ~10 seconds.
+
+* {{UL|type=update|update=Tuska Clean Up - This Week In RuneScape|date=18 August 2025}}
+** Added to game.
+}}
+
+==Trivia==
+* Beastmaster's hounds were added as Slayer creatures during the [[Game Jam (April 2025)|April 2025]] [[Game Jam]], as a project by [[Mod Ramen]].{{CiteTwitter|url=https://x.com/JagexRamen/status/1918307894002327620|author=Mod Ramen|date=2 May 2025|quote=No crushed Goebie left unturned with this one! Thank you for all your feedback and interaction whilst we tackled the Tuska removal during this gamejam cycle! See you next time!|archiveurl=https://archive.ph/eJhGF|archivedate=2 May 2025}}
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{Mazcab}}
+[[Category:Game Jam content]]

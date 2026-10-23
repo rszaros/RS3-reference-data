@@ -1,0 +1,81 @@
+{{Infobox Monster
+|version1 = Ancient Awakening
+|version2 = Ungael combat activity (standard)
+|version3 = Ungael combat activity (hard)
+|name = Zombie knight
+|image = [[File:Zombie knight.png|x280px]]
+|release = [[9 October]] [[2023]]
+|update = Ancient Awakening Launches - This Week in RuneScape
+|members = Yes
+|options = Attack, Target, Examine
+|race =
+|examine = The walking dead.
+|level = 97
+|lifepoints1 = 15750
+|lifepoints2 = 22500
+|lifepoints3 = 33750
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 0
+|slayercat = Zombies, Undead
+|max_melee = 1875
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack = 75
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1594
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 1299
+|defence = 65
+|weakness = Fire
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect =
+|immune_to_stun =
+|immune_to_drain =
+|restriction = minigame
+|id = 30531
+|leagueRegion=Fremennik}}
+'''Zombie knight''' is a [[monster]] encountered during [[Ancient Awakening]] and in the standard and hard modes of the [[Ungael combat activity]].
+
+During Ancient Awakening their [[life points]] are reduced to 70% of the value seen in the standard mode of Ungael combat activity. The player fights them with their expedition party in the tower on [[Ungael]], with one of them appearing in the first eleven waves of the fight with the exception of the tenth wave where two appear, along with many other monsters.
+
+In the standard mode of the Ungael combat activity one of them appears in each wave, except for the third and twelfth waves where they don't appear, and in the seventh wave where two appear, along with many other monsters.
+
+In the hard mode of the Ungael combat activity their life points are increased to 150% of the value seen in the standard mode of Ungael combat activity. One of them appears in the first and second waves, two in third, fourth, and fifth, and one in sixth, seventh, eighth, ninth, and twelfth.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Combat Refinement & Off-Duty Outfits! - This Week In RuneScape|date=23 October 2023}}
+** We have updated the Zombies within the Combat Arena of Ancient Awakening to better reflect that they are Zemouegeal's evil Necromantic summons.
+
+* {{UL|type=update|update=Ancient Awakening Launches - This Week in RuneScape|date=9 October 2023}}
+** Added to game.
+}}
+
+{{Ancient Awakening}}
+{{Zemouregal & Vorkath}}
+
+[[Category:NPCs that can move at running speed]]
+[[pt:Cavaleiro zumbi]]

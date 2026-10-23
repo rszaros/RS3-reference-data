@@ -1,0 +1,265 @@
+{{External|os|wp}}
+{{Otheruses|the monster}}
+{{Infobox Monster
+|version1 = Boris
+|version2 = Imre
+|version3 = Yuri/Jeroen
+|version4 = Joseph
+|version5 = Nikolai
+|version6 = Eduard
+|version7 = Lev
+|version8 = Georgy
+|version9 = Svetlana
+|version10 = Irina
+|version11 = Alexis
+|version12 = Milla
+|version13 = Galina
+|version14 = Sofiya
+|version15 = Ksenia
+|version16 = Yadviga
+|version17 = Nikita
+|version18 = Vera
+|version19 = Zoja
+|version20 = Liliya
+|name = Werewolf
+|image1 = [[File:Werewolf (Boris).png|x280px]]
+|image2 = [[File:Werewolf (Imre).png|x280px]]
+|image3 = [[File:Werewolf (Yuri).png|x280px]]
+|image4 = [[File:Werewolf (Joseph).png|x280px]]
+|image5 = [[File:Werewolf (Nikolai).png|x280px]]
+|image6 = [[File:Werewolf (Eduard).png|x280px]]
+|image7 = [[File:Werewolf (Lev).png|x280px]]
+|image8 = [[File:Werewolf (Georgy).png|x280px]]
+|image9 = [[File:Werewolf (Svetlana).png|x280px]]
+|image10 = [[File:Werewolf (Irina).png|x280px]]
+|image11 = [[File:Werewolf (Alexis).png|x280px]]
+|image12 = [[File:Werewolf (Milla).png|x280px]]
+|image13 = [[File:Werewolf (Galina).png|x280px]]
+|image14 = [[File:Werewolf (Sofiya).png|x280px]]
+|image15 = [[File:Werewolf (Ksenia).png|x280px]]
+|image16 = [[File:Werewolf (Yadviga).png|x280px]]
+|image17 = [[File:Werewolf (Nikita).png|x280px]]
+|image18 = [[File:Werewolf (Vera).png|x280px]]
+|image19 = [[File:Werewolf (Zoja).png|x280px]]
+|image20 = [[File:Werewolf (Liliya).png|x280px]]
+|release = [[4 June]] [[2007]]
+|update = Hair of the dog
+|members = Yes
+|options = Attack, Examine
+|race = Werewolf
+|examine = Eek! A werewolf!
+|level = 63
+|lifepoints = 2250
+|experience = 112.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 34.5
+|slayercat = Werewolves
+|max_melee = 225
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack = 45
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 732
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 732
+|defence = 45
+|weakness = Water
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = No
+|leagueRegion = Morytania
+|id1 = 6006
+|id2 = 6007
+|id3 = 6008
+|id4 = 6009
+|id5 = 6010
+|id6 = 6011
+|id7 = 6012
+|id8 = 6013
+|id9 = 6014
+|id10 = 6015
+|id11 = 6016
+|id12 = 6017
+|id13 = 6018
+|id14 = 6019
+|id15 = 6020
+|id16 = 6021
+|id17 = 6022
+|id18 = 6023
+|id19 = 6024
+|id20 = 6025
+}}
+[[File:Werewolf icon.png|left]]
+'''Werewolves''' are bipedal canine monsters found in [[Canifis]]. They have low [[defence]] for what their combat level suggests. Werewolves in Canifis appear as normal humans (level 28 with 1000 life points) until damaged, transforming into level 63 werewolves, unless the player wields [[Wolfbane]], in which case they remain human. It is not possible to kill their human form in one hit to prevent transformation, as the maximum hit against a human werewolf is 1,000, they then gain 1,250 health from transformation. Whether killed in human form or werewolf form, they will always drop [[wolf bones]].
+
+Some [[Werewolf (God Wars Dungeon)|werewolves]] can be found in the [[God Wars Dungeon]]. They also have better defence and accuracy than their Canifis counterparts, and are also aggressive to players not wearing an item of [[Zamorak]]. They are spread out all over the dungeon, are most prevalent in [[Zamorak's Fortress]], but are not found in [[Bandos's Stronghold]]. Werewolves can be killed here for a Slayer assignment, but this is not recommended due to the remoteness and danger.
+
+They only count towards a [[Werewolves (Slayer assignment)|werewolves slayer assignment]] when killed in werewolf form.
+
+==Strategies==
+While Wolfbane can prevent them from transforming (including using wolfbane and another off-hand weapon), its low stats can make kills relatively slow. The [[Sunspear (disambiguation)|reforged Sunspear]] can be used to prevent the transformation and is much stronger, but requires completion of [[River of Blood]].
+
+Food is generally unnecessary in Canifis, as a bank is nearby and can be used to automatically heal. [[Roavar]] in the bar sells [[moonlight mead]] for 5 coins, which heals 440 life points with no negative effects. For low level players, werewolves can also be [[safe spot]]ted with Ranged or Magic over tables in the bar, the general store, or the meat shop.
+
+[[File:Werewolf transform.gif|right|frame|A Werewolf transforming.|250x250px]]
+[[File:Safe spotting a werewolf in Canifis.png|thumb|250x250px|A player using the safe spot in Rufus's food store to kill a werewolf.]]
+
+Canifis can be used as a respawn hub. When the player dies, they can respawn in Canifis and pick up any dropped items quickly.
+
+==Human forms==
+{| class="wikitable"
+|+ Names
+|-
+|{{chatl|Alexis}}||{{chatl|Boris}}||{{chatl|Eduard}}||{{chatl|Galina}}
+|-
+|{{chatl|Georgy}}||{{chatl|Imre}}||{{chatl|Irina}}||{{chatl|Joseph}}
+|-
+|{{chatl|Ksenia}}||{{chatl|Lev}}||{{chatl|Liliya}}||{{chatl|Milla}}
+|-
+|{{chatl|Nikita}}||{{chatl|Nikolai}}||{{chatl|Sofiya}}||{{chatl|Svetlana}}
+|-
+|{{chatl|Vera}}||{{chatl|Yadviga}}||{{chatl|Yuri}}||{{chatl|Zoja}}
+|-
+|{{chatl|Jeroen}}
+|}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|3/512}}
+{{DropsTableHead}}
+{{HerbDropTable|3/512}}
+{{DropsTableBottom}}
+
+===Food===
+{{DropsTableHead}}
+{{DropsLine|name=Jug of wine|quantity=1|rarity=20/512}}
+{{DropsLine|name=Raw chicken|quantity=5|rarity=10/512}}
+{{DropsLine|name=Raw bear meat|quantity=5|rarity=10/512}}
+{{DropsLine|name=Raw beef|quantity=5|rarity=10/512}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Small bladed steel salvage|quantity=1|rarity=32/512}}
+{{DropsLine|name=Tiny bladed steel salvage|quantity=1|rarity=25/512}}
+{{DropsLine|name=Small plated steel salvage|quantity=1|rarity=15/512}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=10/512}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=10/512}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=3/512}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=10|rarity=80/512}}
+{{DropsLine|name=Coins|quantity=120|rarity=20/512}}
+{{DropsLine|name=Coins|quantity=222|rarity=20/512}}
+{{DropsLine|name=Coins|quantity=364|rarity=20/512}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/512|raritynotes={{DropNote|Rolled first, separately.}}}}
+{{DropsLine|name=Grey wolf fur|quantity=1|rarity=100/512}}
+{{DropsLine|name=Fur|quantity=1|rarity=100/512}}
+{{DropsLine|name=Morchella mushroom spore|quantity=2|rarity=4/512}}
+{{DropsLine|name=Nothing|rarity=18/512}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/512}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Werewolf bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLineEffigy|level=63}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=63}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 470.29/1000
+|green = 33.592/1000
+|crimson = 33.592/1000
+|blue = 6.718/1000
+}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Werewolf in museum.png|A werewolf in a display case in the [[Varrock Museum]].
+Werewolf Steam trading card wallpaper.jpg|[[Steam]] trading card wallpaper
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (3 August_2015)|date=3 August 2015}}
+** Werewolves in Canifis are once again using the correct drop table in wolf form.
+
+* {{UL|type=ninja|update=Patch Notes (17 November 2014)|date=17 November 2014}}
+** Villagers in Canifis now have a smoother transition into werewolves, as they will not interrupt combat.
+
+* {{UL|type=patch|update=Patch Notes (27 October 2014)|date=27 October 2014}}
+** Werewolves in Canifis no longer drop [[Warpriest of Zamorak armour]].
+
+* {{UL|type=patch|update=Patch Notes (13 January 2014)|date=13 January 2014}}
+** Werewolves no longer spawn in blocked areas in Canifis.
+
+* {{UL|type=patch|update=Patch Notes (7 June 2011)|date=7 June 2011}}
+** Werewolves no longer disappear briefly when transforming from their human forms.
+
+* {{UL|type=patch|update=Patch Notes (8 March 2011)|date=8 March 2011}}
+** A spike no longer protrudes from this npc when they transform.
+
+* {{UL|type=patch|update=Patch Notes (13 May 2010)|date=13 May 2010}}
+** Fixed the human-to-werewolf transformation animation.
+
+* {{UL|type=update|update=Hair of the dog|date=4 June 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* Werewolves used to drop hard clue scrolls but a hidden update changed this to medium clue scrolls.
+* Werewolves were previously known as "Wolfman" and "Wolfwoman", and simply "Man" and "Woman" before they transformed.
+* Killing a werewolf during transformation causes them to not play a death animation and instead freeze for a few seconds before disappearing.
+* Causing a werewolf to transform and leaving it alone by running away will cause them to eventually change back in their human form, but retaining their werewolf health of 2,250.
+
+==See also==
+* [[Revenant werewolf]]
+
+{{Werewolves}}
+{{Canifis}}

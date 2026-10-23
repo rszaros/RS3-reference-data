@@ -1,0 +1,146 @@
+{{Infobox Monster
+|name = Unspeakable horror (elite)
+|image = [[File:Unspeakable horror (elite).png|200px]]
+|release = [[12 March]] [[2018]]
+|update = The_Horrors_-_Shadow_Sale_-_GameBlast_Highlights
+|members = Yes
+|actions = Attack
+|examine = An extremely horrible, emaciated ape like creature with beady red eyes.
+|leagueRegion = Morytania
+|level = 112
+|lifepoints = 30000
+|experience = 1500
+|aggressive = No
+|poisonous = No
+|slaylvl = 58
+|slayxp = 1241.6
+|slayercat = Cave horrors
+|assigned_by = Chaeldar, Sumona
+|max_melee = 768
+|max_ranged = 0
+|max_magic = 768
+|max_spec = 0
+|style = Melee, Magic
+|primarystyle = melee
+|speed = 5
+|attack = 80
+|magic = 80
+|ranged = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 1924
+|acc_ranged = 0
+|acc_magic = 1924
+|abilities = 
+|armour = 1924
+|defence = 80
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 25287
+}}
+An '''unspeakable horror''' (elite) is an [[elite monster|elite version]] of the [[unspeakable horror]] that has a chance to spawn upon killing an unspeakable horror. Elite spawn rates can be further increased with the use of [[fellstalk incense stick]]s.
+
+Caution should be taken while fighting them in melee range, as their special attack is able to ignore the protection of a [[witchwood icon]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black mask (10)|quantity=1|rarity=1/256|altrarity=1/248|raritynotes={{DropNote|1/248 with tier 2 [[luck]] or higher.}}|rolls=3}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy ranarr|quantity=3 (noted)|rarity=8/128|rolls=3}}
+{{DropsLine|name=Grimy lantadyme|quantity=2 (noted)|rarity=6/128|rolls=3}}
+{{DropsLine|name=Grimy dwarf weed|quantity=2 (noted)|rarity=6/128|rolls=3}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2250-3750|rarity=12/128|rolls=3}}
+{{DropsLine|name=Coins|quantity=3750-6250|rarity=8/128|rolls=3}}
+{{DropsLine|name=Coins|quantity=7500-12500|rarity=4/128|rolls=3}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Teak logs|quantity=7-13 (noted)|rarity=12/128|rolls=3}}
+{{DropsLine|name=Mahogany logs|quantity=3-7 (noted)|rarity=8/128|rolls=3}}
+{{DropsLine|name=Monkey bones|quantity=4 (noted)|rarity=10/128|rolls=3}}
+{{DropsLine|name=Raw swordfish|quantity=8-12 (noted)|rarity=10/128|rolls=3}}
+{{DropsLine|name=Big bones|quantity=22-28 (noted)|rarity=10/128|rolls=3}}
+{{DropsLine|name=Weapon poison+ (3)|quantity=1|rarity=10/128|rolls=3}}
+{{DropsLine|name=Poison ivy berries|quantity=2 (noted)|rarity=6/128|rolls=3}}
+{{DropsLine|name=Ruby ring|quantity=4-6 (noted)|rarity=7/128|rolls=3}}
+{{DropsLine|name=Ruby necklace|quantity=3-5 (noted)|rarity=7/128|rolls=3}}
+{{DropsLine|name=Coconut|quantity=2 (noted)|rarity=4/128|rolls=3}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/200|rolls=3}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Foot bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=No}}
+{{DropsLine|name=Festering journal|quantity=1|rarity=1/64|altrarity=1/32|raritynotes={{DropNote|Only if not already obtained. 1/32 with tier 2 [[luck]] or higher.}}|rolls=3|gemw=No}}
+{{DropsLine|name=Scare Tactics|quantity=1|rarity=1/256|altrarity=1/255|raritynotes={{DropNote|1/255 with tier 2 [[luck]] or higher.}}|rolls=3}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/96|rolls=3}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5000}}
+{{DropsLineEffigy|level=112|rolls=3}}
+{{DropsLineSpiritGems|rolls=3}}
+{{DropsLineMimic|level=112|rolls=3}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|rolls = 3
+|gold = 38.071/1000
+|green = 19.036/1000
+|crimson = 133.249/1000
+|blue = 3.807/1000
+}}
+
+==Achievements==
+* {{Achievement|The Apex Predator}} 
+** [[Black mask]] and [[Scare Tactics]] drop
+* {{Achievement|Lovingly Crafted}} 
+** [[Festering journal]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch_Notes_(28_August_2018)|date=28 August 2018}}
+** Elite Unspeakable Horror can no longer spawn in the cave wall.
+
+* {{UL|type=update|update=The_Horrors_-_Shadow_Sale_-_GameBlast_Highlights|date=12 March 2018}}
+** Added to game.
+}}
+
+{{Horrors}}
+{{Elite monster}}
+{{Slayer monsters}}
+[[Category:Mos Le'Harmless]]

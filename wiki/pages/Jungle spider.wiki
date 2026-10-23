@@ -1,0 +1,399 @@
+{{External|rsc=Jungle Spider|os}}
+{{Infobox Monster
+|version1 = Common
+|version2 = Musa Point
+|version3 = Ape Atoll
+|version4 = Jade Vine (level 42)
+|version5 = Jade Vine (level 49)
+|version6 = Tai Bwo Wannai Cleanup
+|name = Jungle spider
+|image1 = [[File:Jungle spider.png|Jungle spider|250px]]
+|image2 = [[File:Jungle spider.png|Jungle spider|250px]]
+|image3 = [[File:Jungle spider Ape Atoll.png|250px]]
+|image4 = [[File:Jade Vine Jungle Spider.png|Jungle spider|240px]]
+|image5 = [[File:Jade Vine Jungle Spider.png|Jungle spider|240px]]
+|image6 = [[File:Jungle spider.png|Jungle spider|250px]]
+|release1 = [[23 October]] [[2002]]
+|release2 = 
+|release3 = [[6 December]] [[2004]]
+|release4 = [[9 October]] [[2007]]
+|release5 = [[9 October]] [[2007]]
+|release6 = [[9 August]] [[2005]]
+|update1 = Updates galore!
+|update2 = 
+|update3 = Monkey Madness
+|update4 = Back to my Roots
+|update5 = Back to my Roots
+|update6 = Tai Bwo Wannai Clean-Up
+|level1 = 86
+|level2 = 21
+|level3 = 88
+|level4 = 42
+|level5 = 49
+|level6 = 86
+|experience1 = 272.5
+|experience2 = 37.2
+|experience3 = 312.3
+|experience4 = 66.9
+|experience5 = 83.1
+|experience6 = 272.5
+|lifepoints1 = 5450
+|lifepoints2 = 750
+|lifepoints3 = 3150
+|lifepoints4 = 1500
+|lifepoints5 = 1750
+|lifepoints6 = 5450
+|slaylvl = 1
+|slayxp1 = 77
+|slayxp2 = 9
+|slayxp6 = 135.2
+|slayercat = Spiders
+|assigned_by = turael, Vannaka
+|members1 = Yes
+|members2 = No
+|members3 = Yes
+|members4 = Yes
+|members5 = Yes
+|members6 = Yes
+|aggressive = No
+|poisonous1 = No
+|poisonous2 = No
+|poisonous3 = No
+|poisonous4 = 60
+|poisonous5 = 60
+|poisonous6 = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style = ranged
+|primarystyle1 = ranged
+|primarystyle2 = ranged
+|primarystyle3 = ranged
+|primarystyle4 = ranged
+|primarystyle5 = ranged
+|primarystyle6 = ranged
+|speed = 4
+|max_melee1 = 1240
+|max_melee2 = 56
+|max_melee3 = 189
+|max_melee4 = 90
+|max_melee5 = 105
+|max_melee6 = 1240
+|max_ranged1 = 1240
+|max_ranged2 = 56
+|max_ranged3 = 252
+|max_ranged4 = 120
+|max_ranged5 = 140
+|max_ranged6 = 1240
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|weakness = Crush
+|susceptibility = NopeNopeNope
+|options = Attack
+|examine1 = A barely visible, deadly jungle spider.
+|examine2 = A barely visible, deadly jungle spider.
+|examine3 = A very dangerous looking spider, with its fangs unsheathed.
+|examine4 = A barely visible, deadly jungle spider.
+|examine5 = A barely visible, deadly jungle spider.
+|examine6 = A barely visible, deadly jungle spider.
+|leagueRegion1 = Kandarin,Karamja
+|leagueRegion2 = Karamja
+|leagueRegion3 = Kandarin
+|leagueRegion4 = Karamja
+|leagueRegion5 = Karamja
+|leagueRegion6 = Karamja
+|attack1 = 62
+|attack2 = 15
+|attack3 = 47
+|attack4 = 22
+|attack5 = 26
+|attack6 = 62
+|ranged1 = 62
+|ranged2 = 15
+|ranged3 = 63
+|ranged4 = 30
+|ranged5 = 35
+|ranged6 = 62
+|magic1 = 1
+|magic2 = 1
+|magic3 = 0
+|magic4 = 0
+|magic5 = 0
+|magic6 = 1
+|necromancy = 1
+|defence1 = 62
+|defence2 = 15
+|defence3 = 63
+|defence4 = 30
+|defence5 = 35
+|defence6 = 62
+|armour1 = 1197
+|armour2 = 257
+|armour3 = 1230
+|armour4 = 454
+|armour5 = 536
+|armour6 = 1197
+|acc_melee1 = 1097
+|acc_melee2 = 257
+|acc_melee3 = 472
+|acc_melee4 = 225
+|acc_melee5 = 262
+|acc_melee6 = 1097
+|acc_ranged1 = 1097
+|acc_ranged2 = 257
+|acc_ranged3 = 1230
+|acc_ranged4 = 454
+|acc_ranged5 = 536
+|acc_ranged6 = 1097
+|acc_magic = 0
+|acc_necromancy = 0
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|abilities = 
+|restriction6 = minigame
+|dropversion1 = Standard,Level 86
+|dropversion2 = Standard,Level 21
+|dropversion3 = Ape Atoll
+|dropversion4 = Jade vine maze
+|dropversion5 = Jade vine maze
+|dropversion6 = Standard,Level 86
+|id1 = 62
+|id2 = 16883
+|id3 = 1478
+|id4 = 6377
+|id5 = 6376
+|id6 = 2491, 2492
+}}
+'''Jungle spiders''' are monsters that can be found on [[Karamja]] and the archipelago east of [[Yanille]]. They are usually invisible on the [[minimap]] so they can be a threat to low level players who don't notice them. Jungle spiders appear in the [[Tai Bwo Wannai Cleanup]] minigame and in the [[jade vine maze]]. When these appear, they would only attack with melee with a max hit of 1. They would switch to ranged with their normal max hit if they cannot reach their target, or if they lose interest and then were attacked by a player again.
+
+The level 86 jungle spiders are good monsters to train on if players have around level 50 combat skills, and are an excellent alternative to [[deadly red spider]]s. Like most spiders, they are primarily weak against crushing weapons, although other melee weapons will work effectively. If players have level 50 Attack, then dual wield the [[rune warhammer]] and the [[off-hand rune warhammer]]. If players have level 60 Strength, then use the two-handed [[TzHaar-Ket-Om]].
+
+Despite their appearance, they are not [[Poison|venomous]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Hazelmere's island]]
+|lvls=86
+|mem=yes
+|mapID=28
+|npcid:62,x:2665,y:3089|npcid:62,x:2670,y:3088|npcid:62,x:2670,y:3089
+|npcid:62,x:2670,y:3092|npcid:62,x:2672,y:3085|npcid:62,x:2672,y:3088
+|npcid:62,x:2673,y:3091|npcid:62,x:2673,y:3111|npcid:62,x:2675,y:3081
+|npcid:62,x:2678,y:3092|npcid:62,x:2678,y:3094|npcid:62,x:2678,y:3097
+|npcid:62,x:2680,y:3081|npcid:62,x:2680,y:3110|npcid:62,x:2682,y:3092
+|npcid:62,x:2682,y:3113|npcid:62,x:2683,y:3089|npcid:62,x:2684,y:3083
+|npcid:62,x:2685,y:3088
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Ape Atoll]]
+|lvls=88
+|mem=yes
+|mapID=28
+|npcid:1478,x:2716,y:2722|npcid:1478,x:2721,y:2729|npcid:1478,x:2732,y:2714
+|npcid:1478,x:2738,y:2722|npcid:1478,x:2742,y:2704|npcid:1478,x:2742,y:2711
+|npcid:1478,x:2749,y:2710|npcid:1478,x:2700,y:2776|npcid:1478,x:2704,y:2769
+|npcid:1478,x:2705,y:2785|npcid:1478,x:2714,y:2781|npcid:1478,x:2722,y:2790
+|npcid:1478,x:2755,y:2705|npcid:1478,x:2756,y:2716|npcid:1478,x:2768,y:2703
+|npcid:1478,x:2770,y:2709|npcid:1478,x:2779,y:2707|npcid:1478,x:2788,y:2713
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=West of [[Shilo Village]]
+|lvls=86
+|mem=yes
+|mapID=28
+|npcid:62,x:2810,y:2981|npcid:62,x:2810,y:2987|npcid:62,x:2812,y:2999
+|npcid:62,x:2814,y:2996
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=South of [[Tai Bwo Wannai]]
+|lvls=86
+|mem=yes
+|mapID=28
+|npcid:62,x:2780,y:3029
+|npcid:62,x:2780,y:3031
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=North of [[Tai Bwo Wannai]]
+|lvls=86
+|mem=yes
+|mapID=28
+|npcid:62,x:2777,y:3116|npcid:62,x:2796,y:3104|npcid:62,x:2796,y:3116
+|npcid:62,x:2797,y:3112|npcid:62,x:2798,y:3107|npcid:62,x:2799,y:3115
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Brimhaven]]
+|lvls=86
+|mem=yes
+|mapID=28
+|npcid:62,x:2767,y:3204|npcid:62,x:2768,y:3210
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=East of [[Tai Bwo Wannai]]
+|lvls=86
+|mem=yes
+|mapID=28
+|npcid:62,x:2844,y:3061
+|npcid:62,x:2850,y:3063
+|npcid:62,x:2853,y:3054
+|npcid:62,x:2855,y:3085
+|npcid:62,x:2855,y:3089
+|npcid:62,x:2857,y:3085
+|npcid:62,x:2858,y:3083
+|npcid:62,x:2858,y:3092
+|npcid:62,x:2861,y:3082
+|npcid:62,x:2861,y:3088
+|npcid:62,x:2862,y:3081
+|npcid:62,x:2864,y:3084
+|npcid:62,x:2864,y:3088
+|npcid:62,x:2866,y:3081
+|npcid:62,x:2867,y:3086
+|npcid:62,x:2868,y:3084
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Jade vine maze]] {{floornumber|1}}
+|lvls=42, 49
+|mem=yes
+|mapID=28
+|npcid:62,x:2888,y:2946|npcid:62,x:2892,y:2946|npcid:62,x:2893,y:2948
+|npcid:6376,x:2896,y:2983|npcid:6377,x:2896,y:2989|npcid:6376,x:2905,y:2988
+|npcid:6376,x:2909,y:2980|npcid:6377,x:2910,y:2978|npcid:6377,x:2920,y:2976
+|npcid:6377,x:2924,y:2976|npcid:6376,x:2925,y:2973
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Jade vine maze]] {{floornumber|2}}
+|lvls=42, 49
+|mem=yes
+|mapID=28|plane=1
+|npcid:6376,x:2889,y:3004|npcid:6376,x:2895,y:2988|npcid:6377,x:2900,y:2991
+|npcid:6376,x:2904,y:2993|npcid:6376,x:2918,y:2980|npcid:6377,x:2920,y:2982
+|npcid:6376,x:2927,y:2972
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Jade vine maze]] {{floornumber|3}}
+|lvls=42, 49
+|mem=yes
+|mapID=28|plane=2
+|npcid:6376,x:2898,y:3002
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=West of the [[Shipyard]]
+|lvls=86
+|mem=yes
+|mapID=28
+|npcid:62,x:2914,y:3046|npcid:62,x:2915,y:3048|npcid:62,x:2916,y:3043
+|npcid:62,x:2920,y:3046|npcid:62,x:2921,y:3040|npcid:62,x:2923,y:3046
+|npcid:62,x:2927,y:3043|npcid:62,x:2929,y:3047|npcid:62,x:2930,y:3044
+|npcid:62,x:2931,y:3032|npcid:62,x:2932,y:3032|npcid:62,x:2932,y:3054
+|npcid:62,x:2932,y:3057|npcid:62,x:2933,y:3048
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Musa Point]]
+|lvls=21
+|mem=no
+|mapID=28
+|npcid:16883,x:2881,y:3150|npcid:16883,x:2886,y:3163|npcid:16883,x:2887,y:3145
+|npcid:16883,x:2888,y:3165|npcid:16883,x:2889,y:3153|npcid:16883,x:2892,y:3148
+|npcid:16883,x:2896,y:3169
+|leagueRegion = Karamja}}
+{{LocTableBottom}}
+
+==Drops (standard)==
+{{DropLogProject|jagex=yes}}
+Jungle spiders in [[Ape Atoll]] do not drop anything.
+
+{{Average drop value|mob=Jungle spider#Standard}}
+
+===100%===
+{{DropsTableHead|version=Standard}}
+{{DropsLine|name=Spider carcass|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLineSpiderEgg|1197|version=Level 86}}
+{{DropsLineSpiderEgg|257|version=Level 21}}
+{{DropsTableBottom}}
+
+==Drops (Jade vine maze)==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead|version=Jade vine maze}}
+{{DropsLine|name=Spider carcass|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|9/128}}
+{{DropsTableHead|version=Jade vine maze}}
+{{HerbDropTable|9/128}}
+{{DropsTableBottom}}
+
+===Main drops===
+{{DropsTableHead|version=Jade vine maze}}
+{{DropsLine|name=Nothing|quantity=1|rarity=88/128}}
+{{DropsLine|name=Black dagger|quantity=1|rarity=1/128}}
+{{DropsLine|name=Off-hand black dagger|quantity=1|rarity=1/128}}
+{{DropsLine|name=Earth rune|quantity=1-15|rarity=5/128}}
+{{DropsLine|name=Steel bolts|quantity=1-20|rarity=4/128}}
+{{DropsLine|name=Hand (Back to my Roots)|quantity=1|rarity=20/128|gemw=no|raritynotes={{DropNote|name=clarence|Only before and during the [[One Foot in the Grave (miniquest)|One Foot in the Grave]] miniquest. Each received only once, unless destroyed after obtaining. Parts are dropped in order: hand, foot, torso, left arm, right arm, left leg, right leg.}}}}
+{{DropsLine|name=Foot|quantity=1|rarity=20/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Torso (Back to my Roots)|quantity=1|rarity=20/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Left arm|quantity=1|rarity=20/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Right arm|quantity=1|rarity=20/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Left leg|quantity=1|rarity=20/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Right leg|quantity=1|rarity=20/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead|version=Jade vine maze}}
+{{DropsLineSpiderEgg|536|version=Jade Vine (level 49)}}
+{{DropsLineSpiderEgg|454|version=Jade Vine (level 42)}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Common
+|item1 = {{GU|subject=npc
+|{{GUL|date=[[23 October]] [[2002]]|update=Updates galore!|img=Jungle spider (2003).png|name=Jungle Spider}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Jungle spider (2004).png|name=Jungle spider}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Jungle spider (2006).png|name=Jungle spider}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Jungle spider.png|name=Jungle spider}}
+}}
+|text2 = Ape Atoll
+|item2 = {{GU|subject=npc
+|{{GUL|date=[[6 December]] [[2004]]|update=Monkey Madness|img=Jungle spider (Ape Atoll) (2004).png|name=Jungle spider}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Jungle spider (Ape Atoll) (2006).png|name=Jungle spider}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Jungle spider Ape Atoll.png|name=Jungle spider}}
+}}
+|text3 = Tai Bwo Wannai Cleanup
+|item3 = {{GU|subject=npc
+|{{GUL|date=[[9 August]] [[2005]]|update=Tai Bwo Wannai Clean-Up|img=Jungle spider (2004).png|name=Jungle spider}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Jungle spider (2006).png|name=Jungle spider}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Jungle spider.png|name=Jungle spider}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (18 March 2013)|date=18 March 2013}}
+** [[Grotworm]]s, [[moss giant]]s, [[banshee]]s, jungle spiders, [[shadow spider]]s, [[spider]]s, [[giant spider]]s, [[deadly red spider]]s, [[ice spider]]s, [[scorpion]]s, [[poison scorpion]]s and [[pit scorpion]] will no longer hit for 1 hit point worth of damage.
+
+* {{UL|type=update|update=Updates galore!|date=23 October 2002}}
+** Added to game.
+}}
+
+{{Tai Bwo Wannai}}
+{{Tai Bwo Wannai Cleanup}}
+{{Musa Point}}
+{{Spiders}}
+[[Category:NPCs not visible on the minimap]]

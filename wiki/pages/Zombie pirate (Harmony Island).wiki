@@ -1,0 +1,297 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|version6 = 6
+|version7 = 7
+|version8 = 8
+|version9 = 9
+|version10 = 10
+|version11 = 11
+|version12 = 12
+|version13 = 13
+|version14 = 14
+|version15 = 15
+|version16 = 16
+|version17 = 17
+|version18 = 18
+|version19 = 19
+|version20 = 20
+|version21 = 21
+|version22 = 22
+|version23 = 23
+|version24 = 24
+|version25 = 25
+|version26 = 26
+|name = Zombie pirate
+|image1 = <!--[[File:Zombie pirate (Harmony Island, 1).png]]-->
+|image2 = <!--[[File:Zombie pirate (Harmony Island, 2).png]]-->
+|image3 = <!--[[File:Zombie pirate (Harmony Island, 3).png]]-->
+|image4 = <!--[[File:Zombie pirate (Harmony Island, 4).png]]-->
+|image5 = <!--[[File:Zombie pirate (Harmony Island, 5).png]]-->
+|image6 = <!--[[File:Zombie pirate (Harmony Island, 6).png]]-->
+|image7 = <!--[[File:Zombie pirate (Harmony Island, 7).png]]-->
+|image8 = <!--[[File:Zombie pirate (Harmony Island, 8).png]]-->
+|image9 = <!--[[File:Zombie pirate (Harmony Island, 9).png]]-->
+|image10 = <!--[[File:Zombie pirate (Harmony Island, 10).png]]-->
+|image11 = <!--[[File:Zombie pirate (Harmony Island, 11).png]]-->
+|image12 = <!--[[File:Zombie pirate (Harmony Island, 12).png]]-->
+|image13 = <!--[[File:Zombie pirate (Harmony Island, 13).png]]-->
+|image14 = <!--[[File:Zombie pirate (Harmony Island, 14).png]]-->
+|image15 = <!--[[File:Zombie pirate (Harmony Island, 15).png]]-->
+|image16 = <!--[[File:Zombie pirate (Harmony Island, 16).png]]-->
+|image17 = <!--[[File:Zombie pirate (Harmony Island, 17).png]]-->
+|image18 = <!--[[File:Zombie pirate (Harmony Island, 18).png]]-->
+|image19 = <!--[[File:Zombie pirate (Harmony Island, 19).png]]-->
+|image20 = <!--[[File:Zombie pirate (Harmony Island, 20).png]]-->
+|image21 = <!--[[File:Zombie pirate (Harmony Island, 21).png]]-->
+|image22 = <!--[[File:Zombie pirate (Harmony Island, 22).png]]-->
+|image23 = <!--[[File:Zombie pirate (Harmony Island, 23).png]]-->
+|image24 = <!--[[File:Zombie pirate (Harmony Island, 24).png]]-->
+|image25 = <!--[[File:Zombie pirate (Harmony Island, 25).png]]-->
+|image26 = <!--[[File:Zombie pirate (Harmony Island, 26).png]]-->
+|release = [[6 March]] [[2007]]
+|update = Great Brain Robbery
+|members = Yes
+|options = Attack, Examine
+|race = 
+|examine = Aaaarg, me hearty!
+|level = 49
+|lifepoints = 1750
+|experience = 87.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Zombies, Undead
+|assigned_by = 
+|max_melee = 140.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 35
+|ranged = 0
+|magic = 0
+|necromancy = 0
+|acc_melee = 536
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 536
+|defence = 35
+|weakness = Air
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = 
+|id1 = 5629,5630
+|id2 = 5631,5632
+|id3 = 5633
+|id4 = 5634
+|id5 = 5635,5636
+|id6 = 5637
+|id7 = 5638
+|id8 = 5639
+|id9 = 5640
+|id10 = 5641
+|id11 = 5642
+|id12 = 5643
+|id13 = 5644
+|id14 = 5645
+|id15 = 5646
+|id16 = 5647
+|id17 = 5648,5649
+|id18 = 5650,5651
+|id19 = 5652,5653
+|id20 = 5654,5655
+|id21 = 5656,5657
+|id22 = 5658
+|id23 = 5659,5660
+|id24 = 5661,5662
+|id25 = 5663,5664
+|id26 = 5665
+|leagueRegion=Morytania}}
+'''Zombie pirates''' are encountered during [[The Great Brain Robbery]] quest on [[Harmony Island]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Zombie pirate
+|loc = [[Harmony Island]]
+|mem = Yes
+|requirements = {{QuestIcon|The Great Brain Robbery}} (partial)
+|mapID = 28
+|plane = 0
+|lvls = 49
+|npcid:5629,x:3811,y:2826
+|npcid:5631,x:3827,y:2833
+|npcid:5633,x:3815,y:2859
+|npcid:5634,x:3793,y:2851
+|npcid:5635,x:3784,y:2843
+|npcid:5637,x:3803,y:2843
+|npcid:5638,x:3810,y:2833
+|npcid:5639,x:3824,y:2857
+|npcid:5640,x:3817,y:2824
+|npcid:5641,x:3799,y:2855
+|npcid:5642,x:3796,y:2858
+|npcid:5644,x:3795,y:2845
+|npcid:5646,x:3792,y:2830
+|npcid:5650,x:3800,y:2835
+|npcid:5665,x:3803,y:2848
+|leagueRegion = Morytania
+}}
+{{LocLine
+|name = Zombie pirate
+|loc = [[Harmony Island]] ship ({{FloorNumber|uk=0}})
+|mem = Yes
+|requirements = {{QuestIcon|The Great Brain Robbery}} (partial)
+|mapID = 28
+|plane = 0
+|lvls = 49
+|npcid:5656,x:3794,y:2873
+|npcid:5658,x:3804,y:2873
+|leagueRegion = Morytania
+}}
+{{LocLine
+|name = Zombie pirate
+|loc = [[Harmony Island]] ship ({{FloorNumber|uk=1}})
+|mem = Yes
+|requirements = {{QuestIcon|The Great Brain Robbery}} (partial)
+|mapID = 28
+|plane = 1
+|lvls = 49
+|npcid:5647,x:3803,y:2872
+|npcid:5659,x:3805,y:2874
+|leagueRegion = Morytania
+}}
+{{LocLine
+|name = Zombie pirate
+|loc = [[Harmony Island]] ship ({{FloorNumber|uk=2}})
+|mem = Yes
+|requirements = {{QuestIcon|The Great Brain Robbery}} (partial)
+|mapID = 28
+|plane = 2
+|lvls = 49
+|npcid:5661,x:3794,y:2874
+|leagueRegion = Morytania
+}}
+{{LocLine
+|name = Zombie pirate
+|loc = [[Underwater Tunnel]] (beneath [[Harmony Island]])
+|mem = Yes
+|requirements = {{QuestIcon|The Great Brain Robbery}} (partial)
+|mapID = -1
+|plane = 1
+|lvls = 49
+|npcid:5630,x:3797,y:9253
+|npcid:5632,x:3819,y:9253
+|npcid:5636,x:3803,y:9249
+|npcid:5649,x:3792,y:9254
+|npcid:5651,x:3809,y:9253
+|npcid:5653,x:3798,y:9258
+|npcid:5655,x:3799,y:9247
+|npcid:5657,x:3814,y:9250
+|npcid:5660,x:3817,y:9259
+|npcid:5662,x:3805,y:9255
+|npcid:5664,x:3823,y:9254
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Clothing===
+{{DropsTableHead}}
+{{DropsLine|name=Bandana and eyepatch (blue)|quantity=1|rarity=3/128}}
+{{DropsLine|name=Bandana and eyepatch (red)|quantity=1|rarity=5/128}}
+{{DropsLine|name=Eye patch|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Water rune|quantity=23|rarity=1/128}}
+{{DropsLine|name=Body rune|quantity=6|rarity=2/128}}
+{{DropsLine|name=Chaos rune|quantity=7|rarity=1/128}}
+{{DropsLine|name=Cosmic rune|quantity=5|rarity=3/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Steel bolts|quantity=2-12|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|30/128}}
+{{DropsTableHead}}
+{{HerbDropTable|30/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny spiky mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small bladed mithril salvage|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=30|rarity=10/128}}
+{{DropsLine|name=Coins|quantity=38|rarity=21/128}}
+{{DropsLine|name=Coins|quantity=46|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=55|rarity=6/128}}
+{{DropsLine|name=Coins|quantity=60|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Fishing bait|quantity=10|rarity=21/128}}
+{{DropsLine|name=Rusty scimitar|quantity=1|rarity=1/128}}
+{{DropsLine|name=Braindeath 'rum'|quantity=1|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Great Brain Robbery|date=6 March 2007}}
+** Added to game.
+}}
+
+{{The Great Brain Robbery}}
+{{Zombie}}
+{{Pirates}}
+[[Category:Quest monsters]]

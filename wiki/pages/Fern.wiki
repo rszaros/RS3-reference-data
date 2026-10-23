@@ -1,0 +1,140 @@
+{{otheruses|the non-player character}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|name = Fern
+|image = [[File:Fern (centaur).png|200px]]
+|release = [[13 August]] [[2013]]
+|update = The Death of Chivalry
+|members = No
+|options = Attack, Examine
+|race = Centaur, Ghost
+|examine = The spirit of a long-dead centaur.
+|level = N/A
+|lifepoints = 10000
+|experience = 50.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Ghosts
+|max_melee = 0
+|max_ranged = 250
+|max_magic = 0
+|max_necromancy = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 5
+|attack = 1
+|ranged = 50
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 850
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = Yes
+|immune_to_stun = Yes
+|immune_to_drain = No
+|voice = Yes
+|restriction = quest
+|id = 18087
+|leagueRegion =Asgarnia
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = Interactive
+|version2 = Non-interactive
+|name = Fern
+|image = File:Fern (centaur).png
+|release = [[13 August]] [[2013]]
+|update = The Death of Chivalry
+|race = Centaur, Ghost
+|members = Yes
+|quest = [[The Death of Chivalry]]
+|location = [[Tomb of the Fallen]]
+|map = no
+|gender = Female
+|actions1 = Talk to, Examine
+|actions2 = Examine
+|examine = The spirit of a long-dead centaur.
+|id1 = 18086
+|id2 = 18088
+|leagueRegion =Asgarnia
+}}
+}}
+[[File:Fern chathead.png|left|80px]]
+{{Listen
+|title    = Fern's ghostly voice.
+|desc     = 
+|filename = Fern.ogg
+}}
+'''Fern''' was [[Elora the Lifegiver]]'s sister and the mate of [[Bree]]. She acts as the protector of the [[Wand of Resurrection]] during the quest [[The Death of Chivalry]], where she challenges the player in combat before allowing them to attempt a puzzle mechanic to unlock its power.
+
+In combat, Fern will attack with [[Ranged]], and has [[life points]] that scale to the player's combat level. She will occasionally use a special attack where she will have a line of dialogue above her head with a text box saying {{RSFont|Fern prepares to charge!|colour=#EB2F2F|shadow=no}}, and she will run at the player with a magical charge based on their location when she began charging the attack. Players can avoid it by moving away from their initial location.
+
+==History==
+===Early History===
+Fern was Elora's sister. The centaurs sided with Saradomin during the [[God Wars]], but as they fought, their numbers began dwindling to dangerous numbers. Her mate, Bree, suggested they abandon Saradomin and return home, but Fern insisted on continuing the fight.
+
+According to Fern, Elora was born with a special gift: the ability to heal and restore life to the dead or dying through the use of a special horn that had grown due to her acts of kindness.{{CiteNPC |npc=Fern |loc=The Death of Chivalry |quote=Elora embodied virtue. Since the day of her birth, she thought only of others. During her long life, Elora grew a horn in the centre of her forehead...not unlike that of a unicorn. Among my people, the most virtuous are granted a horn with healing powers. This is rare gift. My sister was very special.}} This power, however, came at a cost: whenever Elora used her powers it drained life from her. As Fern continued to ask Elora to heal the wounded, she lost the ability to move, became frail, exhausted, and eventually died.{{CiteNPC |npc=Fern |loc=The Death of Chivalry |quote=Each time I returned to Elora, she appeared more fatigued. Her breathing was laboured, her movements stiff. I tried not to notice. I asked for her aid, and not once did she refuse me. Elora died exhausted, withered and worn. She poured out the last of her life to save others.}}
+
+Fern still needed to heal the wounded, however, and cut the horn from Elora's head, turning it into the [[Wand of Resurrection]].{{CiteNPC |npc=Fern |loc=The Death of Chivalry |quote=My people looked to me, begging me to revive their loved ones. In desperation, I cut the horn from my dead sister's forehead. I used it to raise my people. I was not virtuous like my sister. I did not deserve to wield that great power. The centaurs I raised were soulless undead, corrupt and wicked.}} The corrupted centaurs slaughtered the rest of the herd, saving Fern for last.
+
+===The Guardian of the Wand===
+Instead of dying and passing on, Fern was instead turned into the guardian for the Wand of Resurrection. The wand was kept in a Saradominist burial ground in the far north to bury the loyal followers of Saradomin who died in the wars. Fern had three trials before anyone could claim the wand - they had to best her in combat as the first trial, solve a simple puzzle as the second and to be virtuous enough to give up their blood and breach the barrier.
+{{OccDur|The Death of Chivalry}}
+Around Year 1 of the [[Sixth Age]], [[Lord Daquarius]] sent the witch [[Lensig]] to find and claim the Wand of Resurrection to overcome Saradomin's forces. Lensig did this by killing [[Captain Dulcin]], the overseer of the Black Knight's Fortress, who Daquarius wanted dead as he could no longer tolerate his hostile stances. Masquerading as the former captain, Lensig managed to find the Saradominist burial ground and sent several Black Knights to claim the wand. Fern naturally appeared to defend it, killing a few knights, but was ultimately defeated. Lensig also had some captured Saradominist priests and sisters give up their blood to breach the ward, but because it was given involuntarily, they were rejected and killed. She then opted to wait for someone who could.
+
+This would come in the form of the World Guardian and [[Sir Owen]], who encountered Fern and defeated her. Either one then breached the ward with their own blood, allowing it to be safely claimed. Lensig then confronted them, killing Owen, but was then killed by the World Guardian. Saradomin, sensing his most faithful killed, used the Wand to resurrect him, successfully doing so, but because he acted on impulse, accidentally corrupted him in the process. Depending on the choices made by the World Guardian, Fern ultimately agreed to watch Owen's corruption, stating that she would not hesitate to destroy him if it overwhelmed him. The group then began making plans to head to the centaur burial grounds.
+
+===Passing On===
+{{Incomplete|Needs source of information. Some of it at least seems to come from Sir Owen's dialogue in [[Battle of the Monolith]].{{fact}}}}
+Owen was able to control his corruption and asked Fern about the burial ground. Fern stated that there was no burial ground, as the centaurs used their dead for hides, bones and even food. Instead, the "burial ground" was a location in the northern shores of the Wilderness where the living centaurs had been slain by their undead brethren when Fern used the Wand to resurrect them.
+
+Saradomin teleported himself and Owen there; Fern, being the Wand's guardian, was also in attendance. As soon as Fern appeared, the undead centaurs rose from the ocean and attacked the group. Believing them to be soulless creatures, Saradomin ordered Fern to check their spectral forms and detail them. Fern complied and was surprised to see that the necrotaurs were soul-bound creatures, having accumulated the souls of the living they had killed. The two then realized that the necrotaurs were bound to Fern's regrets and fears, and Saradomin ordered her to destroy their spectral forms to grant them the peace they deserved.
+
+Fern did so, protecting Saradomin and Owen from any necrotaurs that tried to flank the pair. As she destroyed her family's spectral forms with her bow, the necrotaurs began weakening, allowing Saradomin and Owen to finally destroy them. At the end of the battle, Fern thanked Saradomin and Owen for allowing her to face her guilt and peacefully dissipated away to join her family in the afterlife.
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Fern concept artwork.jpg|Concept art for Fern
+Fighting_Fern.png|Fern in combat, using her special attack
+</gallery>
+
+==Dialogue==
+{{Speaksin}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=The Death of Chivalry|date=13 August 2013}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{The Death of Chivalry}}
+[[Category:The Death of Chivalry]]
+[[Category:Saradominists]]
+[[Category:Participants in the God Wars]]
+[[Category:Quest monsters]]
+[[Category:Deceased characters]]
+[[Category:NPCs that can move at running speed]]

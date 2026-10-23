@@ -1,0 +1,222 @@
+{{External|os=Feral Vampyre}}
+{{Otheruses|def=no|the monsters encountered during River of Blood|Feral vampyre (River of Blood)|the historical version|Vampire (historical)}}
+{{Infobox Monster
+|version1 = Standard
+|version2 = Spider
+|name = Feral vampyre
+|image = [[File:Feral vampyre.png|200px]]
+|release = [[14 October]] [[2004]]
+|update = Morytania Expansion
+|members = Yes
+|options = Attack
+|examine1 = It looks really hungry!
+|examine2 = Where did that come from?
+|level = 61
+|lifepoints = 2200
+|experience = 110.0
+|aggressive1 = No
+|aggressive2 = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 32.6
+|slayercat = Vampyres
+|assigned_by = Mazchna
+|max_melee = 176
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 44
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 710
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 710
+|defence = 44
+|weakness = Fire
+|susceptibility = Silver, Blisterwood, Vampyre Slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania
+|id1 = 1223
+|id2 = 1220
+}}
+'''Feral vampyres''' are monsters found in the [[Haunted Woods]] east of [[Canifis]] and near the [[Abandoned Mine]]. They are weaker than other [[Vampyre (race)|vampyres]] and are vulnerable to all weapon types; unlike most vampyres which are only vulnerable to [[Silver bar|silver]] and [[blisterwood]]. Feral vampyres become unaggressive to players who have been given [[Vanescula Drakan|Vanescula]]'s blood mark during [[The Branches of Darkmeyer]].
+
+If the player is wearing a [[holy symbol]] whilst being attacked by a feral vampyre, occasionally the vampyre will be debuffed, reducing their Attack, Strength, Defence, and Magic by 25%.{{CiteTwitter|author=Mod Ash|url=https://twitter.com/JagexAsh/status/650998169736753152|date=5 October 2015|archiveurl=https://reldo.runescape.wiki/i/98468|archivedate=13 May 2023|quote=It reduces the vampire's strength, attack, defence and magic by 25%.}} This is indicated by the chatbox message "The vampyre is weakened by your holy symbol of saradomin", which is hidden by the spam filter. They will occasionally bite players' necks, sometimes [[Strength Stat Reduced|reducing the player's Strength level]] by one and causing the feral vampyre to recover a small amount of life points.
+
+There are some non-attackable [[Spider (Haunted Woods)|spider]]s in the Haunted Woods that would follow players around and spawn a feral vampyre that leaps down from above with a different examine text.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=East of the [[Abandoned Mine]]
+|lvls=61
+|mem=yes
+|mapID=28
+|npcid:1223,x:3458,y:3225|npcid:1223,x:3459,y:3229|npcid:1223,x:3459,y:3234
+|npcid:1223,x:3460,y:3231|npcid:1223,x:3461,y:3236|npcid:1223,x:3462,y:3240
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Haunted Woods]]
+|lvls=61
+|mem=yes
+|mapID=28
+|npcid:1223,x:3585,y:3478|npcid:1223,x:3586,y:3480|npcid:1223,x:3586,y:3496
+|npcid:1223,x:3592,y:3477|npcid:1223,x:3593,y:3458|npcid:1223,x:3593,y:3508
+|npcid:1223,x:3595,y:3491|npcid:1223,x:3597,y:3479|npcid:1223,x:3607,y:3466
+|npcid:1223,x:3617,y:3477|npcid:1223,x:3618,y:3514|npcid:1223,x:3631,y:3471
+|npcid:1223,x:3631,y:3499|npcid:1223,x:3632,y:3459|npcid:1223,x:3632,y:3475
+|npcid:1223,x:3638,y:3472|npcid:1223,x:3646,y:3467
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Vampyre dust|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Black hatchet|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Earth rune|quantity=4|rarity=10/128}}
+{{DropsLine|name=Chaos rune|quantity=3|rarity=8/128}}
+{{DropsLine|name=Death rune|quantity=2|rarity=10/128}}
+{{DropsLine|name=Blood rune|quantity=1|rarity=5/128}}
+{{DropsLine|name=Blood rune|quantity=2|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|10/128}}
+{{DropsTableHead}}
+{{HerbDropTable|10/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|19/128}} ''There is an additional 2/128 chance of rolling morchella mushroom spores.''
+{{DropsTableHead}}
+{{DropsLine|name=Morchella mushroom spore|quantity=2|rarity=2/128}}
+{{UncommonSeedDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=15|rarity=40/128|gemw=No}}
+{{DropsLine|name=Nothing|rarity=14/128}}
+{{DropsLine|name=Earth talisman|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|4/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=2-7|rarity=1/20}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128|gemw=No}}
+{{DropsLineEffigy|level=61}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=61}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 30.195/1000
+|green = 15.098/1000
+|crimson = 37.744/1000
+|blue = 1.51/1000
+}}
+
+==Dialogue==
+{{Hastranscript|npc}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Standard
+|item1 =
+{{GU|subject=npc
+|{{GUL|date=[[14 October]] [[2004]]|update=Myreque Pt III - Darkness of Hallowvale|img=Vampire (level 61) (2004).png|name=Vampire}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Vampire (historical) (level 61).png|name=Vampire}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Feral vampyre.png|name=Feral vampyre}}
+}}
+|text2 = Spider
+|item2 =
+{{GU|subject=npc
+|{{GUL|date=[[14 October]] [[2004]]|update=Myreque Pt III - Darkness of Hallowvale|img=Vampire (level 72) (2004).png|name=Vampire}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Feral Vampire (level 72) (2008).png|name=Vampire}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Feral vampyre.png|name=Feral vampyre}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Part II: Journey into the East!|date=28 September 2026}}
+** Added susceptibility to the [[Vampyre Slayer (ability)|Vampyre Slayer]] ability.
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=This Week In RuneScape - 10/08/20#patch-notes|date=10 August 2020}}
+** Feral vampyres are now a bit less feral and will no longer attack the player as soon as they arrive after using the Fairy Ring network
+
+* {{UL|type=patch|update=Patch Notes (26 February 2018)|date=26 February 2018}}.
+** Feral vampyres are no longer aggressive to players who have been given Vanescula's blood mark.
+
+* {{UL|type=ninja|update=Patch Notes (20 July 2015)|date=20 July 2015}}
+** Vampyres in the Haunted Woods have been renamed to feral vampyres.
+
+* {{UL|type=patch|update=Patch Notes (16 January 2012)|date=16 January 2012}}
+** Vampyres are no longer referred to as "Vampires" in the [[Slayer]] skill.
+
+* {{UL|type=patch|update=Patch Notes (6 September 2011)|date=6 September 2011}}
+** The vampyres east of Burgh de Rott can now count toward Slayer tasks.
+
+* {{UL|type=hidden|update=The Branches of Darkmeyer|date=31 August 2011}}
+** The monsters are renamed to "Vampyre".
+
+* {{UL|type=update|update=Temple Trekking: Revamped|date=17 August 2011}}
+** Along with the revamp of the Temple Trekking minigame, Morytania and many of its inhabitants, from the supernatural to the slimy, have received some major graphical updates.
+*** The monsters are graphically updated.
+
+* {{UL|type=update|update=Morytania Expansion|date=14 October 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* The different levels of vampyre each have different sounds when attacking, but they all have the same sound when attempting to bite you.
+* Vampyres were graphically updated on [[17 August]] [[2011]].
+* They appear to wear a damaged version of a [[Vampyre Juvinate]]'s outfit.
+* Feral vampyres used to be called "vampires", but this was changed to "vampyres" on [[31 August]] [[2011]] in a hidden update. Their name was changed again on [[20 July]] [[2015]] to "feral vampyres" in order to differentiate them from other NPCs.
+* In [[Postbag from the Hedge]] feral vampyres are described as savage beasts that were once [[vampyre juvenile]]s and [[Vampyre Juvinate|juvinates]], but who have become considerably less intelligent, and have much less control over their powers. They are driven by their hunger and a kind of primal rage, unlike most other vampyric beings.{{CitePostbag |issue=19 |letter=Letter 4 |author=Solomon Lamescus}}. [[Mod Ana]] later stated that this lore is still relevant.{{CiteForum|author=Mod Ana|url=http://services.runescape.com/m=forum/forums.ws?16,17,566,62696454,1185,309921220,highlight,|title=^+^ Myreque Future V3 ^+^|forum=Future Game Updates|postdate=3 October 2011|archiveurl=https://archive.ph/0WSCK|archivedate=10 October 2011}}. 
+
+==References==
+{{Reflist}}
+
+{{Vampyres}}
+[[Category:NPCs with multiple Examine options]]

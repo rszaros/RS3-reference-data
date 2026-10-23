@@ -1,0 +1,244 @@
+{{external|wp}}
+{{Otheruses|the regular variant|the elite variant|Edimmu (elite)}}
+{{Dgvariant}}
+{{Otheruses|def=no|the pet dropped by the elite variant|Eddy}}
+{{Infobox Monster
+|name = Edimmu
+|image = [[File:Edimmu.png|150px]]
+|release = [[10 November]] [[2014]]
+|update = Prifddinas - Lost City of the Elves - Part 2
+|members = Yes
+|options = Attack
+|examine = A spiritual zombie that sucks life out of its victims.
+|level = 122
+|lifepoints = 32000
+|experience = 1600
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 90
+|slayxp = 880.2
+|slayercat = Edimmu, Creatures of Daemonheim, Undead, Ghosts, Zombies
+|assigned_by = duradel, kuradal, morvran, lapalok, laniakea, the raptor
+|max_melee = 350
+|max_ranged = 0
+|max_magic = 350
+|max_necromancy = 0
+|max_spec = 0
+|style = magic, melee
+|primarystyle = magic
+|speed = 4
+|attack = 90
+|ranged = 1
+|magic = 90
+|necromancy = 1
+|acc_melee = 2458
+|acc_ranged = 0
+|acc_magic = 2458
+|acc_necromancy = 0
+|armour = 1486
+|defence = 85
+|weakness = Slash
+|susceptibility = Undead, Ghost, ruinous
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Tirannwn
+|id = 20290
+}}
+[[File:Edimmu icon.png|left]]
+'''Edimmu''' are level 90 [[Slayer]] creatures found in the [[Edimmu resource dungeon]] in [[Prifddinas]], which requires 115 [[Dungeoneering]]. They can only be fought while on a Slayer assignment (unless using [[Slayer Wildcard]]s), and players will not receive an edimmu assignment unless they are able to enter the dungeon. [[Edimmu (Slayer assignment)|Edimmu Slayer assignment]] is assigned by [[Duradel]]/[[Lapalok]], [[Kuradal]], [[Morvran]], and [[Laniakea]]. [[Jacquelyn]], [[The Raptor]], and [[Vannaka]] may assign [[Ghosts (Slayer assignment)|Ghosts]] or [[Zombies (Slayer assignment)|Zombies]]. The Raptor and Laniakea may assign [[Undead (Slayer assignment)|Undead]], and Laniakea may assign [[Creatures of Daemonheim]]. All of these cluster tasks can be used to kill edimmu.
+
+The original edimmu in the dungeon are likely to be human victims of [[Vicendithas]]'s [[crystal dragon]]. They would remain untouched for thousands of years until some of [[Meilyr Clan]]'s best explorers discovered the dungeon and fell victim to them. As a result, more edimmu spawned from their corpses, and Clan Meilyr erected a barrier to contain the edimmu, assigning a [[Meilyr Guard|single guard]] outside the barrier to ensure they would not escape.
+
+They will attack with both magic and melee, and occasionally heal 25% of the damage they deal in combat. Their ashes can be collected in an [[infernal urn]]. When killing edimmu, it is possible for an [[edimmu (elite)|elite]] version to spawn (at least one spawn is guaranteed while on a Slayer assignment). This chance can be increased with the use of [[fellstalk incense stick]]s, tier 3 [[luck]], and building and upgrading Fort Forinthry's [[Guardhouse]].
+
+Although considered to be a task-only monster, this is only partially true; edimmu can be killed in the [[Sunken Pyramid]] off-task via indirect damage, such as poison, dreadnips, familiars and reflect damage. Kills achieved this way still count towards the edimmu tracker, and can still spawn elite edimmu.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Edimmu resource dungeon]]
+|lvls=122
+|mem=yes
+|requirements = {{QuestIcon|Plague's End}} and {{Skillreq|Dungeoneering|115}}
+|mapID=675
+|npcid:20290,x:1352,y:4647|npcid:20290,x:1352,y:4651|npcid:20290,x:1355,y:4639
+|npcid:20290,x:1355,y:4658|npcid:20290,x:1356,y:4645|npcid:20290,x:1358,y:4654
+|npcid:20290,x:1358,y:4663|npcid:20290,x:1360,y:4640|npcid:20290,x:1369,y:4665
+|npcid:20290,x:1370,y:4651|npcid:20290,x:1371,y:4645|npcid:20290,x:1371,y:4662
+|npcid:20290,x:1372,y:4639|npcid:20290,x:1372,y:4657|npcid:20290,x:1374,y:4650
+|leagueRegion=Tirannwn}}
+{{LocTableBottom}}
+
+==Strategy==
+Like their Dungeoneering counterparts, an edimmu's attack has a small chance of healing it, recovering 25% of the damage dealt to the player. As undead, they are susceptible to the effects of the [[salve amulet]] and its [[Salve amulet (e)|enchanted version]], the [[Undead Slayer (ability)|Undead Slayer]] [[ability]], and the [[Undead Slayer]] perk. As ghosts, they are susceptible to the effects of the [[ghost hunter equipment]].
+
+The only melee weapons that work effectively against edimmu are [[slash weapons]]; all other melee weapons will have much lower accuracy, due to their 85 Defence and 30 melee affinity. Players can also opt to use ranged or magic, as edimmu are more susceptible to these attacks. This is also beneficial when fighting elite edimmu, as they don't have the slash weakness of their inferior brethren. The [[dragon scimitar]]'s special attack, Sever, increases accuracy against all targets when using slash weapons for one minute and can come in handy against elite edimmu if melee is chosen. Edimmu can be bunched up near the entry barrier by exiting and entering it, and easily taken down in mass with area of effect attacks such as [[halberds|halberd type weapons]] or [[mechanised chinchompas]]. As edimmu use relatively weak attacks, many can be tanked at once using [[magic tank armour]] in conjunction with [[Animate Dead]] and [[Soul Split]]. As edimmu are fought while on a slayer task, frequent use of the empowered [[Tuska's Wrath]] is recommended.
+
+Edimmu are aggressive but fairly spread apart; a [[dwarf multicannon]] or [[oldak coil]] along with [[aggression potion]]s can help group them, but players should be careful as it is very easy to get piled from numerous edimmu attacking at once. [[Edimmu (elite)|Elite edimmu]] are much more dangerous than their normal counterparts, as they attack faster and their maximum hit is three times higher. [[Protect from Magic]] or [[Deflect Magic]] can be used to mitigate their damage, although it is fairly safe to use Soul Split when only a few of them are attacking at once. [[Dominion mines]] can also be used against elite edimmu to take them down quicker.
+
+Edimmu are not as aggressive compared to other monsters, but will attack adjacent players even if they are fighting another edimmu. Edimmu placed in the Sunken Pyramid are not aggressive.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Tortured soul|quantity=1|rarity=Always}}
+{{DropsLine|name=Tortured ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Crystal items===
+''There is a 6/128 (approximately 1/21.3) chance to roll for any crystal weapon, shield, or seed. Once rolled, there is a 12/129 chance to choose a random weapon or shield (1/129 each), and 117/129 one of the three crystal seeds (39/129 each).''
+
+{{DropsTableHead}}
+{{DropsLine|name=Crystal dagger|quantity=1|rarity=6/{{#expr:128*129}}}}
+{{DropsLine|name=Off-hand crystal dagger|quantity=1|rarity=6/{{#expr:128*129}}}}
+{{DropsLine|name=Crystal halberd|quantity=1|rarity=6/{{#expr:128*129}}}}
+{{DropsLine|name=Crystal chakram|quantity=1|rarity=6/{{#expr:128*129}}}}
+{{DropsLine|name=Off-hand crystal chakram|quantity=1|rarity=6/{{#expr:128*129}}}}
+{{DropsLine|name=Crystal bow|quantity=1|rarity=6/{{#expr:128*129}}}}
+{{DropsLine|name=Crystal wand|quantity=1|rarity=6/{{#expr:128*129}}}}
+{{DropsLine|name=Crystal orb|quantity=1|rarity=6/{{#expr:128*129}}}}
+{{DropsLine|name=Crystal staff|quantity=1|rarity=6/{{#expr:128*129}}}}
+{{DropsLine|name=Crystal shield|quantity=1|rarity=6/{{#expr:128*129}}}}
+{{DropsLine|name=Crystal deflector|quantity=1|rarity=6/{{#expr:128*129}}}}
+{{DropsLine|name=Crystal ward|quantity=1|rarity=6/{{#expr:128*129}}}}
+{{DropsLine|name=Crystal armour seed|quantity=1|rarity={{#expr:6*39}}/{{#expr:128*129}}}}
+{{DropsLine|name=Crystal tool seed|quantity=1|rarity={{#expr:6*39}}/{{#expr:128*129}}}}
+{{DropsLine|name=Crystal weapon seed|quantity=1|rarity={{#expr:6*39}}/{{#expr:128*129}}}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy irit|quantity=5 (noted)|rarity=98/2560}}
+{{DropsLine|name=Grimy avantoe|quantity=5 (noted)|rarity=70/2560}}
+{{DropsLine|name=Grimy cadantine|quantity=5 (noted)|rarity=56/2560}}
+{{DropsLine|name=Grimy lantadyme|quantity=5 (noted)|rarity=28/2560}}
+{{DropsLine|name=Grimy dwarf weed|quantity=5 (noted)|rarity=28/2560}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Toadflax seed|quantity=3|rarity=84/2560}}
+{{DropsLine|name=Avantoe seed|quantity=3|rarity=84/2560}}
+{{DropsLine|name=Cadantine seed|quantity=3|rarity=98/2560}}
+{{DropsLine|name=Yew seed|quantity=1|rarity=14/2560}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Medium plated rune salvage|quantity=1|rarity=12/128}}
+{{DropsLine|name=Large bladed rune salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Large plated rune salvage|quantity=1|rarity=18/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Shark|quantity=1|rarity=14/128}}
+{{DropsLine|name=Unicorn horn dust|quantity=6-10 (noted)|rarity=10/128}}
+{{DropsLine|name=Uncut diamond|quantity=3-5 (noted)|rarity=8/128}}
+{{DropsLine|name=Eternal magic wood spirit|quantity=4-7|rarity=8/128}}
+{{DropsLine|name=Primal stone spirit|quantity=3-5|rarity=8/128}}
+{{DropsLine|name=Uncut dragonstone|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Rare drop table|quantity=1|rarity=1/100|altrarity=1/99|raritynotes={{DropNote|1/99 while tier 3 or higher [[luck]] is active.}}}}
+{{DropsLineBoneFragments|slayer_level=90}}
+{{DropsLine|name=Blood necklace shard|quantity=1|rarity=1/512|citations={{CiteTwitter|author=Mod Timbo|url=https://twitter.com/JagexTimbo/status/557600995430371330|quote=Dragon Pickaxe: 1/5,000 {{!}} Blood Necklace Shard: ~1/500 normal Edimmu or ~1/50 from super Edimmu and the big one...|date=20 January 2015|archiveurl=https://reldo.runescape.wiki/i/97310|archivedate=20 December 2018}}|altrarity=1/506|raritynotes={{DropNote|1/506 if tier 3 or higher [[luck]] is active.}}}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=99/12800|raritynotes={{DropNote|name=elite|There is a 1/128 chance to roll for an elite clue scroll. If successful, there's a 1% chance it'll be upgraded to a [[sealed clue scroll (master)]].}}}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=1/12800|raritynotes={{DropNote|name=elite}}}}
+{{DropsLineTriskelion|rarity=1/2000|raritynotes={{DropNote|1/1940 while tier 3 or higher [[luck]] is active.|name=trisk}}}}
+{{DropsLineGhostlyEssence|quantity=7-11, 14-22|rarity=1/256|altrarity=1/96|raritynotes={{DropNote|While on an appropriate [[Slayer assignment]], there is a 1/96 chance to drop 14–22 ghostly essence.}}}}
+{{DropsLineGhosts|ectorarity=400|herbrarity=1024}}
+{{DropsLineEffigy|level=122}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=122}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.579/1000
+|green = 44.79/1000
+|crimson = 313.527/1000
+|blue = 8.958/1000
+}}
+
+===Rare drop table===
+{{Rare drop table|1/100}}
+
+==Money making guide==
+{{Mmgsection|Killing edimmu}}
+
+==Achievements==
+* {{Achievement|61 Shades of Red}} 
+** [[Blood necklace shard]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Mining & Smithing 110 Launching Today! - This Week In RuneScape|date=12 August 2024}}
+** The [[fire talisman]]s drop on the drop table has been replaced by [[primal stone spirit]]s.
+
+* {{UL|type=patch|update=SteelSeries & Patch Week - This Week in RuneScape|date=24 April 2023}}
+** The [[Edimmu resource dungeon]] is now accessible with suitable Slayer Tasks such as ghost, zombie, undead, Creatures of Daemonheim, and Edimmu selected.
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Edimmu will work for Ghost, Zombie and Undead Slayer tasks.
+
+* {{UL|type=patch|update=Patch Notes (1 October 2018)|date=1 October 2018}} 
+** Fixed a typo in the message that appears when super edimmu spawns in co-op slayer task.
+
+* {{UL|type=ninja|update=Patch Notes (16 November 2015)|date=16 November 2015}}
+** The [[Ectoplasmator]] and [[Ghostly essence]] have been added to the Edimmu drop table.
+
+* {{UL|type=patch|update=Patch Notes (18 May 2015)|date=18 May 2015}}
+** Edimmu can now walk and attack at the same time.
+
+* {{UL|type=ninja|update=Patch Notes (20 April 2015)|date=20 April 2015}}
+** Receiving a blood shard drop is now broadcast to friends.
+** Receiving a pet edimmu will now be broadcast to the current world.
+
+* {{UL|type=ninja|update=Patch Notes (5 January 2015)|date=5 January 2015}}
+** Killing edimmu is now more rewarding - the super one even more so.
+
+*{{UL|type=patch|update=Patch_Notes_(24 November 2014)|date=24 November 2014}}
+** Teleporting away from powerful edimmu will no longer grant the player XP and loot when the NPC despawns.
+** Players can no longer attack edimmu after their slayer assignment has finished.
+** The Early Bird bonus for edimmu slayer assignment frequency has ended.
+* {{UL|type=update|update=Prifddinas - Lost City of the Elves - Part 2|date=10 November 2014}}
+** Added to game.
+}}
+
+==Trivia==
+* In Sumerian mythology, {{Wp|edimmu}} were the ghosts of people who were not buried properly.
+* As of [[1 February]] [[2018]], the highest kill count for this monster was 124,261 kills.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=http://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+** This had not increased by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=http://archive.is/Fxc11|archivedate=28 February 2020|notes=|name=}}
+* [[Death]] considers edimmu to be a "ghastly abomination".{{CiteNPC |npc=Death |loc=Remains of the Necrolord |quote=Edimmu are such ghastly abominations. I shall head over there and reap him post-haste.}}
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{Zombie}}
+[[Category:Tier 3 luck]]
+[[pt:Edimmu]]

@@ -1,0 +1,325 @@
+{{External|os|wp}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|version1 = 57 (Stab)
+|version2 = 68 (Stab)
+|version3 = 57 (Slash)
+|version4 = 68 (Slash)
+|version5 = 57 (Crush)
+|version6 = 68 (Crush)
+|name = Cyclops
+|image1 = [[File:Cyclops (57 Stab).png|150px]]
+|image2 = [[File:Cyclops (68 Stab).png|150px]]
+|image3 = [[File:Cyclops (57 Slash).png|150px]]
+|image4 = [[File:Cyclops (68 Slash).png|150px]]
+|image5 = [[File:Cyclops (57 Crush).png|150px]]
+|image6 = [[File:Cyclops (68 Crush).png|150px]]
+|release = [[13 June]] [[2006]]
+|update = Warriors' Guild
+|members = No
+|options = Attack, Examine
+|race = Cyclops
+|examine1 = A one-eyed man eater.
+|examine2 = A one-eyed woman eater.
+|examine3 = A one-eyed man eater.
+|examine4 = A one-eyed woman eater.
+|examine5 = A one-eyed man eater.
+|examine6 = A one-eyed woman eater.
+|level1 = 57
+|level2 = 68
+|level3 = 57
+|level4 = 68
+|level5 = 57
+|level6 = 68
+|lifepoints1 = 4100
+|lifepoints2 = 4900
+|lifepoints3 = 4100
+|lifepoints4 = 4900
+|lifepoints5 = 4100
+|lifepoints6 = 4900
+|experience1 = 205
+|experience2 = 245
+|experience3 = 205
+|experience4 = 245
+|experience5 = 205
+|experience6 = 245
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 71.8
+|slayxp2 = 86.6
+|slayxp3 = 71.8
+|slayxp4 = 86.6
+|slayxp5 = 71.8
+|slayxp6 = 86.6
+|slayercat = Cyclopes
+|max_melee1 = 205
+|max_melee2 = 245
+|max_melee3 = 205
+|max_melee4 = 245
+|max_melee5 = 205
+|max_melee6 = 245
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack1 = 41
+|attack2 = 49
+|attack3 = 41
+|attack4 = 49
+|attack5 = 41
+|attack6 = 49
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 648
+|acc_melee2 = 825
+|acc_melee3 = 648
+|acc_melee4 = 825
+|acc_melee5 = 648
+|acc_melee6 = 825
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour1 = 648
+|armour2 = 825
+|armour3 = 648
+|armour4 = 825
+|armour5 = 648
+|armour6 = 825
+|defence1 = 41
+|defence2 = 49
+|defence3 = 41
+|defence4 = 49
+|defence5 = 41
+|defence6 = 49
+|weakness1 = Stabbing
+|weakness2 = Stabbing
+|weakness3 = Slashing
+|weakness4 = Slashing
+|weakness5 = Crushing
+|weakness6 = Crushing
+|susceptibility =
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|id1 = 4291
+|id2 = 4292
+|id3 = 6078
+|id4 = 6079
+|id5 = 6080
+|id6 = 6081
+|leagueRegion=Asgarnia}}
+[[File:Cyclops icon.png|left]]
+A '''cyclops''' (plural '''cyclopes''') is a monster found on the top floor of the [[Warriors' Guild]]. Those in the Warriors' Guild are native to [[Cyclosis]], an island in the [[Wushanko Isles]]; and were brought to [[Asgarnia]] after an expedition by [[Harrallak Menarous]]. The eastern cyclopes abandoned Bandos when they realised that he would send them to their deaths.
+
+Warriors' Guild cyclopes come in two varieties: level 57 (which are bald) and level 68 (which have hair). They have low defence and a reasonably high number of life points, making them a very good training monster. However, they are completely impervious to [[ranged]], [[magic]], and [[necromancy]]. The level 57 cyclopes are the lowest level monster to drop [[Sealed clue scroll (hard)|hard clue scroll]]s, although they do not drop them often.
+
+[[Luck|Luck-enhancing items]] do not increase the chance of getting a [[defender]]. Players may spend anywhere from very few to thousands of points before getting defender drops.
+
+If a player logs out while fighting cyclopes in the Warriors' Guild, they will be outside of the room upon logging in and must reselect their choice of point payment.
+
+Cyclopes sometimes summon a [[cyclossus]] in the Warriors' Guild. It possesses considerably more life points and hits much harder. Its special attack knocks the player backwards and stuns them, so it is advisable to be stand against a wall, so that, if it does stun, players can still [[melee]] it. A cyclossus will not be [[Aggressiveness|aggressive]] if a player is not equipped with a [[Rune defender|rune]] or dragon defender, and the player will not be able to attack it either, if that is the case. The chance of encountering a cyclossus increases if the option of using points from all activities is chosen.
+
+==Weaknesses==
+In the [[Warriors' Guild]], the cyclopes have varying melee weaknesses. It is advisable to target the ones weak to a player's specific weapon setup (crush, stab, etc) to maximise kill rates.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Warriors' Guild]]
+|lvls=57, 68
+|mem=no
+|requirements = [[Attack]] and [[Strength]] levels must add up to a sum of 130 or greater, or either of these stats can be level 99.
+|mapID=28
+|plane=2
+|npcid:6081,x:2842,y:3546|npcid:4291,x:2848,y:3547|npcid:6080,x:2851,y:3531
+|npcid:6079,x:2851,y:3536|npcid:4292,x:2854,y:3538|npcid:6078,x:2855,y:3531
+|npcid:6078,x:2858,y:3546|npcid:6079,x:2862,y:3546|npcid:4291,x:2866,y:3540
+|npcid:6080,x:2868,y:3548|npcid:6081,x:2870,y:3537|npcid:4292,x:2872,y:3548
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+Only the cyclopes found in the [[Warriors' Guild]] can drop [[defender]]s. In order to enter the cyclops area, located on the {{floornumber|3}}, a player must gain at least 200 [[Warriors' Guild#Second floor|points]]. Each minute spent inside the room costs a number of their chosen points: 20 when using only one type of activity points, and 3 of each when using all types of activity points. The player must leave when the points run out; if they do not leave within a minute, [[Kamfreena]] will teleport them out and chastise them for not leaving immediately.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+There is a 2/100 chance of spawning a [[Cyclossus]] if a [[Rune defender|rune]] or [[dragon defender]] is worn upon killing a cyclops.
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1; 2|quantitynotes={{DropNote|2 noted if using all token types in the Warriors' Guild, 1 unnoted otherwise.}}|rarity=Always}}
+{{DropsTableBottom}} 
+
+===Defenders===
+{{DropsTableHead}}
+{{DropsLine|name=Bronze defender|quantity=1|rarity=2/100|raritynotes={{DropNote|name=defender|Metal type depends on which defender players show Kamfreena upon entrance.}}|gemw=No}}
+{{DropsLine|name=Iron defender|quantity=1|rarity=2/100|raritynotes={{DropNote|name=defender}}|gemw=No}}
+{{DropsLine|name=Steel defender|quantity=1|rarity=2/100|raritynotes={{DropNote|name=defender}}|gemw=No}}
+{{DropsLine|name=Black defender|quantity=1|rarity=2/100|raritynotes={{DropNote|name=defender}}|gemw=No}}
+{{DropsLine|name=Mithril defender|quantity=1|rarity=2/100|raritynotes={{DropNote|name=defender}}|gemw=No}}
+{{DropsLine|name=Adamant defender|quantity=1|rarity=2/100|raritynotes={{DropNote|name=defender}}|gemw=No}}
+{{DropsLine|name=Rune defender|quantity=1|rarity=2/100|raritynotes={{DropNote|name=defender}}|gemw=No}}
+{{DropsLine|name=Dragon defender|quantity=1|rarity=2/100|raritynotes={{DropNote|name=defender}}|gemw=No|members=Yes}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Black knife|quantity=4-13|rarity=8/100}}
+{{DropsLine|name=Off-hand black knife|quantity=4-13|rarity=8/100}}
+{{DropsLine|name=Black 2h sword|quantity=1|quantitynotes={{DropNote|name=arm|In the Warriors' Guild, weapon drops (apart from defenders) will be noted if using all token types, unnoted otherwise.}}|rarity=1/100}}
+{{DropsLine|name=Black sword|quantity=1|quantitynotes={{DropNote|name=arm}}|rarity=1/200}}
+{{DropsLine|name=Off-hand black sword|quantity=1|quantitynotes={{DropNote|name=arm}}|rarity=1/200}}
+{{DropsLine|name=Black longsword|quantity=1|quantitynotes={{DropNote|name=arm}}|rarity=1/200}}
+{{DropsLine|name=Off-hand black longsword|quantity=1|quantitynotes={{DropNote|name=arm}}|rarity=1/200}}
+{{DropsLine|name=Black dagger|quantity=1|quantitynotes={{DropNote|name=arm}}|rarity=1/200}}
+{{DropsLine|name=Off-hand black dagger|quantity=1|quantitynotes={{DropNote|name=arm}}|rarity=1/200}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|3/100}}
+{{DropsTableHead}}
+{{HerbDropTable|3/100|f2p=yes}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|1/100}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|1/100|f2p=yes}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium bladed iron salvage|quantity=1|rarity=2/100}}
+{{DropsLine|name=Medium plated iron salvage|quantity=1|rarity=2/100}}
+{{DropsLine|name=Tiny blunt steel salvage|quantity=1|rarity=2/100}}
+{{DropsLine|name=Tiny plated steel salvage|quantity=1|rarity=2/100}}
+{{DropsLine|name=Tiny spiky steel salvage|quantity=1|rarity=4/100}}
+{{DropsLine|name=Small bladed steel salvage|quantity=1|rarity=2/100}}
+{{DropsLine|name=Medium bladed steel salvage|quantity=1|rarity=4/100}}
+{{DropsLine|name=Medium plated steel salvage|quantity=1|rarity=2/100}}
+{{DropsLine|name=Tiny spiky mithril salvage|quantity=1|rarity=1/100}}
+{{DropsLine|name=Small bladed mithril salvage|quantity=1|rarity=1/100}}
+{{DropsLine|name=Tiny blunt adamant salvage|quantity=1|rarity=1/100}}
+{{DropsLine|name=Medium bladed adamant salvage|quantity=1|rarity=1/100}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=3-102|rarity=31/100|gemw=No}}
+{{DropsLine|name=Coins|quantity=5-204|rarity=10/100|gemw=No}}
+{{DropsLine|name=Nothing|rarity=7/100}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/100}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Shoulder bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=no}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/512}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsLineSpiritGems}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}}
+** [[Bronze defender|Bronze]] through [[dragon defender]] drops
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Warriors' Guild, 1
+|item1 =
+{{GU|subject=npc
+|{{GUL|date=[[13 June]] [[2006]]|update=Warriors' Guild|img=Cyclops (Warriors' Guild, 1) (2006).png|name=Cyclops (Warriors' Guild, 1)}}
+|{{GUL|date=[[18 June]] [[2007]]|update=Game Improvements|img=Cyclops (Warriors' Guild, 1) (2007).png|name=Cyclops (Warriors' Guild, 1)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cyclops (Warriors' Guild, 1) (2008).png|name=Cyclops (Warriors' Guild, 1)}}
+|{{GUL|date=[[6 February]] [[2017]]|update=Skillcape Perks|img=Cyclops (57 Stab).png|name=Cyclops (Warriors' Guild, 1)}}
+}}
+|text2 = Warriors' Guild, 2
+|item2 =
+{{GU|subject=npc
+|{{GUL|date=[[13 June]] [[2006]]|update=Warriors' Guild|img=Cyclops (Warriors' Guild, 2) (2006).png|name=Cyclops (Warriors' Guild, 2)}}
+|{{GUL|date=[[18 June]] [[2007]]|update=Game Improvements|img=Cyclops (Warriors' Guild, 2) (2007).png|name=Cyclops (Warriors' Guild, 2)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cyclops (Warriors' Guild, 2) (2008).png|name=Cyclops (Warriors' Guild, 2)}}
+|{{GUL|date=[[6 February]] [[2017]]|update=Skillcape Perks|img=Cyclops (68 Stab).png|name=Cyclops (Warriors' Guild, 2)}}
+}}
+|text3 = Warriors' Guild, 3
+|item3 =
+{{GU|subject=npc
+|{{GUL|date=[[18 June]] [[2007]]|update=Game Improvements|img=Cyclops (Warriors' Guild, 3) (2007).png|name=Cyclops (Warriors' Guild, 3)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cyclops (Warriors' Guild, 3) (2008).png|name=Cyclops (Warriors' Guild, 3)}}
+|{{GUL|date=[[6 February]] [[2017]]|update=Skillcape Perks|img=Cyclops (57 Slash).png|name=Cyclops (Warriors' Guild, 3)}}
+}}
+|text4 = Warriors' Guild, 4
+|item4 =
+{{GU|subject=npc
+|{{GUL|date=[[18 June]] [[2007]]|update=Game Improvements|img=Cyclops (Warriors' Guild, 4) (2007).png|name=Cyclops, (Warriors' Guild, 4)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cyclops (Warriors' Guild, 4) (2008).png|name=Cyclops (Warriors' Guild, 4)}}
+|{{GUL|date=[[6 February]] [[2017]]|update=Skillcape Perks|img=Cyclops (68 Slash).png|name=Cyclops (Warriors' Guild, 4)}}
+}}
+|text5 = Warriors' Guild, 5
+|item5 =
+{{GU|subject=npc
+|{{GUL|date=[[18 June]] [[2007]]|update=Game Improvements|img=Cyclops (Warriors' Guild, 5) (2007).png|name=Cyclops, (Warriors' Guild, 5)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cyclops (Warriors' Guild, 5) (2008).png|name=Cyclops (Warriors' Guild, 5)}}
+|{{GUL|date=[[6 February]] [[2017]]|update=Skillcape Perks|img=Cyclops (57 Crush).png|name=Cyclops (Warriors' Guild, 5)}}
+}}
+|text6 = Warriors' Guild, 6
+|item6 =
+{{GU|subject=npc
+|{{GUL|date=[[18 June]] [[2007]]|update=Game Improvements|img=Cyclops (Warriors' Guild, 6) (2007).png|name=Cyclops, (Warriors' Guild, 6)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cyclops (Warriors' Guild, 6) (2008).png|name=Cyclops (Warriors' Guild, 6)}}
+|{{GUL|date=[[6 February]] [[2017]]|update=Skillcape Perks|img=Cyclops (68 Crush).png|name=Cyclops (Warriors' Guild, 6)}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (4 December 2017)|date=4 December 2017}}
+** Cyclopes now drop black knives on free worlds.
+
+* {{UL|type=hotfix|update=Patch Notes (16 October 2017)|date=9 October 2017}}
+** Cyclopes in the [[Warriors' Guild]] can no longer drop [[dragon defenders]] on free worlds.
+
+* {{UL|type=patch|update=Patch Notes (20 February 2017)|date=20 February 2017}}
+** Cyclopes in the Warriors' Guild now have the correct weaknesses.
+
+* {{UL|type=patch|update=Patch Notes (6 February 2017)|date=6 February 2017}}
+** Updated the models of the cyclopes (and the cyclossus) in the Warrior's Guild.
+
+* {{UL|type=patch|update=Patch Notes (4 April 2011)|date=4 April 2011}}
+** Cyclopes no longer spawn in the walls in the Warriors’ Guild.
+
+* {{UL|type=update|update=Warriors' Guild|date=13 June 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* On the day of the [[dragon defender]]'s release, the cyclops room in the [[Warriors' Guild]] became ''extremely'' crowded by medium- to high-level players trying to receive one as a drop. Because of the difficulty to find a free cyclops to fight, players threw a [[throwing knives|knife]] at one the moment it spawned to be the one that attacked it first, and switched to a melee weapon to deal damage to it. After an update they can no longer be attacked with ranged, not even to start a fight.
+
+{{Warriors' Guild}}
+{{Cyclopes}}
+[[Category:Races]]
+[[pt:Ciclope]]

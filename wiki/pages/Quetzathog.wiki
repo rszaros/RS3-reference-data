@@ -1,0 +1,112 @@
+{{Infobox Monster
+|name = Quetzathog
+|image = [[File:Quetzathog.png|180px]]
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|members = Yes
+|options = Attack, Mark
+|examine = As if hate could take form and stand before you.
+|level = 133
+|lifepoints = 145500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Jungle horrors
+|assigned_by = 
+|max_melee = 2376
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 108
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 3699
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 2178
+|defence = 85
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|dropversion = Normal mode,Story mode
+|leagueRegion = Wilderness
+|id = 26210
+|voice=Yes
+}}
+'''Quetzathog''' is a miniboss in [[The Shadow Reef]]. It appears to be the unofficial leader of the [[sea horror]]s.
+
+It is the author of one of the [[waterlogged scrap]]s, where it learns of [[Tezcasathla|its god]]'s alternative name of [[Xau-Tak]] after hearing it from [[The Ambassador]]. Quetzathog was perplexed by the god's alternative name, but did not question it further as the Ambassador promised to help the mwanu reclaim their old world.
+
+==Drops (story mode)==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead|version=Story mode}}
+{{DropsLine|name=Dungeoneering token|quantity=500|rarity=Always|gemw=no|alch=no|altvalue=1|altcurrency=Dungeoneering tokens}}
+{{DropsTableBottom}}
+
+==Drops (normal mode)==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Quetzathog#Normal mode}}
+
+===100%===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLine|name=Dungeoneering token|quantity=5000|rarity=Always|gemw=no|alch=no|altvalue=1|altcurrency=Dungeoneering tokens}}
+{{DropsTableBottom}}
+
+===Alchables===
+{{The Shadow Reef alchables drop table|250/1000|tier=3|version=Normal mode}}
+
+===Currency===
+{{The Shadow Reef currency drop table|650/1000|500/1000|tier=3|version=Normal mode}}
+
+===Supplies===
+{{The Shadow Reef supplies drop table|100/1000|tier=2|version=Normal mode}}
+
+===Lucky charm===
+{{Lucky charm (Shadow Reef) drops|150/1000|version=Normal mode}}
+
+===Rare drop table===
+{{Rare drop table|1/150|version=Normal mode}}
+
+===Tertiary===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=133}}
+{{DropsLineMimic|level=133}}
+{{DropsTableBottom}}
+
+====Charms====
+{{EliteDungeonCharmDropTable|version=Normal mode}}
+
+==Achievements==
+* {{Achievement|I've Got Your Face}}
+
+==Dialogue==
+{{Hastranscript|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+==Trivia==
+* Its name is a portmanteau referring to {{WP|Quetzalcoatl}}, an Aztec god, and either {{WP|Tsathoggua}} and/or {{WP|Cthulhu Mythos deities#Table of Great Old Ones|Thog}}, deities from the Cthulhu Mythos.
+
+==References==
+{{Reflist}}
+
+{{The Shadow Reef}}
+{{Horrors}}

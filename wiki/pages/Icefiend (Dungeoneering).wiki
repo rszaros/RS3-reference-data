@@ -1,0 +1,182 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 5
+|version2 = 28
+|version3 = 50
+|version4 = 72
+|version5 = 95
+|version6 = 117
+|version7 = 138
+|name = Icefiend
+|image = [[File:Icefiend (Dungeoneering).png|x280px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|examine = A robust ice demon.
+|level1 = 5
+|level2 = 28
+|level3 = 50
+|level4 = 72
+|level5 = 95
+|level6 = 117
+|level7 = 138
+|lifepoints1 = 400
+|lifepoints2 = 2000
+|lifepoints3 = 3600
+|lifepoints4 = 5200
+|lifepoints5 = 6800
+|lifepoints6 = 8400
+|lifepoints7 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 13.4
+|slayxp2 = 22.8
+|slayxp3 = 45
+|slayxp4 = 94.9
+|slayxp5 = 207.2
+|slayxp6 = 459.4
+|slayxp7 = 970.4
+|slayercat = Icefiends, Creatures of Daemonheim
+|max_melee = 0
+|max_ranged1 = 40
+|max_ranged2 = 100
+|max_ranged3 = 180
+|max_ranged4 = 260
+|max_ranged5 = 340
+|max_ranged6 = 420
+|max_ranged7 = 495
+|max_magic1 = 20
+|max_magic2 = 100
+|max_magic3 = 180
+|max_magic4 = 260
+|max_magic5 = 340
+|max_magic6 = 420
+|max_magic7 = 495
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 5
+|attack = 1
+|ranged1 = 4
+|ranged2 = 20
+|ranged3 = 36
+|ranged4 = 52
+|ranged5 = 68
+|ranged6 = 84
+|ranged7 = 99
+|magic1 = 4
+|magic2 = 20
+|magic3 = 36
+|magic4 = 52
+|magic5 = 68
+|magic6 = 84
+|magic7 = 99
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged1 = 140
+|acc_ranged2 = 316
+|acc_ranged3 = 553
+|acc_ranged4 = 901
+|acc_ranged5 = 1409
+|acc_ranged6 = 2125
+|acc_ranged7 = 3031
+|acc_magic1 = 140
+|acc_magic2 = 316
+|acc_magic3 = 553
+|acc_magic4 = 901
+|acc_magic5 = 1409
+|acc_magic6 = 2125
+|acc_magic7 = 3031
+|acc_necromancy = 0
+|armour1 = 140
+|armour2 = 316
+|armour3 = 553
+|armour4 = 901
+|armour5 = 1132
+|armour6 = 1486
+|armour7 = 1924
+|defence1 = 4
+|defence2 = 20
+|defence3 = 36
+|defence4 = 52
+|defence5 = 68
+|defence6 = 84
+|defence7 = 99
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10212
+|id2 = 10213
+|id3 = 10214
+|id4 = 10215
+|id5 = 10216
+|id6 = 10217
+|id7 = 10218
+|leagueRegion = Wilderness
+}}
+'''Icefiends''' are monsters that may be encountered on the frozen floors while training [[Dungeoneering]]. Unlike normal Icefiends, these attack with both [[magic]] and [[ranged]], making them challenging foes if they are high-levelled. Their magic attack resembles a [[water blast]], and their ranged attack looks like four shards of ice. These monsters count towards an icefiend [[slayer task]].
+
+Due to having a monster-specific drop, icefiends in Daemonheim can be classed as slayer monsters. However, they don't have a Slayer level requirement to be killed. Icefiends are the only Slayer Monster available to free-to-play during Dungeoneering. Despite this, their Slayer drops are members only.
+
+==Drops==
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Monster-specific===
+{{DropsTableHead}}
+{{DropsLine|name=Frostbite dagger|quantity=1|rarity=Uncommon|gemw=no}}
+{{DropsLine|name=Hailstorm dagger|quantity=1|rarity=Rare|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[12 April]] [[2010]]|update=Dungeoneering Skill!|img=Icefiend (Dungeoneering) (2010).png|name=Icefiend (Dungeoneering)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Icefiend (Dungeoneering) (2014).png|name=Icefiend (Dungeoneering) (1)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Icefiend (Dungeoneering, 2) (2014).png|name=Icefiend (Dungeoneering) (2)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Icefiend (Dungeoneering, 3) (2014).png|name=Icefiend (Dungeoneering) (3)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Icefiend (Dungeoneering, 4) (2014).png|name=Icefiend (Dungeoneering) (4)}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Icefiend (Dungeoneering).png|name=Icefiend (Dungeoneering)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=November Graphical Updates & DXP - This Week In RuneScape|date=6 November 2023}}
+** Increased base [[Hit chance|accuracy]] within dungeoneering to be inline with others areas of the game.
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Icefiends have been graphically updated.
+
+* {{UL|type=ninja|update=Patch Notes (26 August 2014)|date=26 August 2014}}
+** [[Pyrefiend]] and icefiend models and animations have been updated to use the God Wars Dungeon models and animations.
+
+* {{UL|type=update|update=Game Update (19 April 2012)|date=19 April 2012}}
+** Increased frequency of Slayer creatures in Dungeoneering.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Slayer monsters}}
+{{Demons}}

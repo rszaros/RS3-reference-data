@@ -1,0 +1,74 @@
+{{External|os}}
+{{Infobox Monster
+|name = Summoned Zombie
+|image = [[File:Summoned zombie.png|130px]]
+|release = [[17 June]] [[2002]]
+|update = Latest RuneScape News (17 June 2002)
+|members = Yes
+|options = Attack
+|examine = The living dead.
+|level = 12
+|lifepoints = 450
+|experience = 22.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 8
+|slayercat = Zombies
+|assigned_by = Mazchna, Turael, Vannaka
+|max_melee = 36
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 9
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 191
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 191
+|defence = 9
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 77
+|leagueRegion = Kandarin
+}}
+'''Summoned Zombies''' are [[monster]]s summoned by [[Invrigar the Necromancer]] and the [[Necromancer (monster)|necromancer]] when they are fought in the [[Necromancer Tower]] south of [[East Ardougne]].
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if access to [[Champions' Guild]] is available and the [[Zombie Champion]] hasn't already been defeated in the [[Champion's Challenge]].}}|gemw=no}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Latest RuneScape News (17 June 2002)|date=17 June 2002}}
+** Added to game.
+}}
+
+{{Zombie}}

@@ -1,0 +1,98 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Fremennik Trials
+|version2 = Dominion Tower
+|name = The Draugen
+|image = [[File:The Draugen.png|200px]]
+|release1 = [[2 November]] [[2004]]
+|release2 = [[1 November]] [[2011]]
+|update1 = The Fremennik Trials
+|update2 = Dominion Tower
+|members = Yes
+|options = Attack
+|examine = A fearful spirit of the drowned.
+|level1 = 96
+|level2 = 56
+|lifepoints1 = 2000
+|lifepoints2 = 4000
+|experience = 100.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ghosts, Undead
+|max_melee1 = 240
+|max_melee2 = 360
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 40
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 628
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction1 = quest
+|restriction2 = minigame
+|id1 = 1279
+|id2 = 18922
+|leagueRegion=Fremennik}}
+'''The Draugen''' is an evil ghost from Fremennik mythology that devours the spirits of the drowned, and stalks the coastlines, invisible to all, and unable to be defeated by normal means. He must be defeated to gain council member [[Sigli the Huntsman|Sigli]]'s vote in [[The Fremennik Trials]] quest. It can only be found by using a special [[Hunters' talisman]] given by [[Sigli the Huntsman]]. This works very much like a [[Runecrafting]] talisman, telling the player in which direction to travel to find the Draugen. The monster appears in a different place for every player.
+
+The Draugen may be fought as a class G boss monster in the [[Dominion Tower]] minigame if the player has completed [[The Fremennik Trials]].
+{{Listen|align=left|filename=Draugen.ogg|title=Taste the wrath of the deadliest ghost on this world!|desc=}}
+
+{{Clear|left}}
+==Habitat==
+The Draugen will stay within Fremennik province near the riverbank of the river that separates the Fremennik Province from the [[Seers' Village]] and Sinclair Mansion area. The Draugen is not visible until you get close to its location. Its exact location varies for each person who adventures on this long quest. Before he is found, he takes the form of a grey [[Butterfly (Draugen)|butterfly]] with the examine text of "Flutter by oh butterfly", although note there are multiple of these butterflies, and only one of which is the The Draugen.
+
+When found, there will be a message: "The Draugen is here! Beware!". When it is defeated, his [[undead]] soul will go into the [[Hunters' talisman]] received from Sigli.
+
+==Recommended Combat Tactics==
+The Draugen cannot be poisoned and is weak to fire spells. It is recommended that when you encounter the Draugen, to lure it near a fence, stand on one side of the fence while it is on the other, and proceed to attack using [[Magic]] attacks.
+
+Just before you defeat the Draugen, it will be absorbed into the talisman.
+
+The talisman seems to indicate that the Draugen appears in the form of one of the [[Butterfly (Draugen)|butterflies]] in the area; where the butterfly moves, the Draugen will follow.
+
+A player will often be able to make the Draugen appear when they are standing near or on a space occupied by a butterfly.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=The Fremennik Trials|date=2 November 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* The name Draugen (literally "The Draug") stems from Old Norse "draugr", originally a generic term referring to almost any kind of living dead-person. In later Norwegian folkore, The Draugen became more narrowly understood as the evil ghost of a drowned man who had not received a proper burial. 
+* In an update on 21 February 2012 the combat level of the former level 99 version (quest version) of the Draugen was decreased to 96. Before that, its combat level in the Dominion Tower was already this high.
+
+{{The Fremennik Trials}}
+{{Dominion Tower}}
+{{Ghost}}
+{{DEFAULTSORT:Draugen, The}}
+[[Category:Quest monsters]]

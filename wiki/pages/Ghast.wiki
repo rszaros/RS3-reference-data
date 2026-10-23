@@ -1,0 +1,363 @@
+{{External|os}}
+{{Otheruses|the NPC residing in the Mort Myre Swamp|the familiar|Ghast (familiar)}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Regular
+|version2 = Temple Trekking (easy route)
+|version3 = Temple Trekking (medium route)
+|version4 = Temple Trekking (hard route)
+|name = Ghast
+|image = [[File:Ghast.png|x280px]]
+|release1 = [[13 July]] [[2004]]
+|release2 = [[28 March]] [[2006]]
+|release3 = [[28 March]] [[2006]]
+|release4 = [[28 March]] [[2006]]
+|update1 = Nature Spirit Quest
+|update2 = Temple Trekking
+|update3 = Temple Trekking
+|update4 = Temple Trekking
+|members = Yes
+|options = Attack, Examine
+|race = Ghosts
+|examine1 = Arrghhh... A Ghast.
+|examine2 = Arrghhh... a ghast!
+|examine3 = Arrghhh... a ghast!
+|examine4 = Arrghhh... a ghast!
+|level1 = 35
+|level2 = 28
+|level3 = 63
+|level4 = 91
+|lifepoints1 = 2500
+|lifepoints2 = 2000
+|lifepoints3 = 2500
+|lifepoints4 = 6500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 28.0
+|slayxp2 = 23.0
+|slayxp3 = 38.0
+|slayxp4 = 179.0
+|slayercat = Ghosts, Undead
+|max_melee1 = 150
+|max_melee2 = 80
+|max_melee3 = 180
+|max_melee4 = 260
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack1 = 25
+|attack2 = 20
+|attack3 = 45
+|attack4 = 65
+|ranged1 = 0
+|ranged2 = 0
+|ranged3 = 0
+|ranged4 = 0
+|magic1 = 0
+|magic2 = 0
+|magic3 = 0
+|magic4 = 0
+|necromancy = 1
+|acc_melee1 = 381
+|acc_melee2 = 316
+|acc_melee3 = 732
+|acc_melee4 = 1299
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour1 = 381
+|armour2 = 316
+|armour3 = 732
+|armour4 = 1299
+|defence1 = 25
+|defence2 = 20
+|defence3 = 45
+|defence4 = 65
+|weakness1 = Fire
+|weakness2 = Earth
+|weakness3 = Earth
+|weakness4 = Earth
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison1 = No
+|immune_to_poison2 = Yes
+|immune_to_poison3 = Yes
+|immune_to_poison4 = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction1 = surface
+|restriction2 = minigame
+|restriction3 = minigame
+|restriction4 = minigame
+|dropversion1 = Normal
+|dropversion2 = Temple Trekking
+|dropversion3 = Temple Trekking
+|dropversion4 = Temple Trekking
+|leagueRegion = Morytania
+|id1 = 1053
+|id2 = 14038
+|id3 = 14039
+|id4 = 14040
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = Regular
+|version2 = Temple Trekking
+|name = Ghast
+|image = File:Ghast.png
+|release1 = [[13 July]] [[2004]]
+|release2 = [[28 March]] [[2006]]
+|update1 = Nature Spirit Quest
+|update2 = Temple Trekking
+|race = Ghost
+|members = Yes
+|quest = No
+|location = [[Mort Myre Swamp]]
+|map = no
+|gender = Not specified
+|actions = Invoke, Examine
+|examine = Arrghhh... A Ghast.
+|leagueRegion = Morytania
+|id1 = 1052
+|id2 = 14035, 14036, 14037
+}}
+}}
+'''Ghasts''' are undead souls of people that starved to death in the [[Mort Myre swamp]].
+
+Ghasts are nearly transparent and will attempt to attack any player travelling through the swamp. If the player is carrying food and the ghast successfully attacks the player, they will turn one piece into [[rotten food]]. If the player does not have any food and the ghast successfully attacks the player, they will drain a small amount of their health instead. Their attacks may miss. With completion of the [[easy Morytania achievements]], ghasts will only attack 50% of the time.
+
+Ghasts can only be attacked once they have been invoked through a charged [[druid pouch]] (requires partial completion of [[Nature Spirit]]) or a [[Ouroboros pouch]] (requires [[In Aid of the Myreque]] quest and [[Jayene Kliyn]] at level 99 in [[Temple Trekking]]), the latter having unlimited charges. Players can invoke the ghast themselves, or let the ghast attack them, as they will be forced to reveal themselves. This does not rot food. When a ghast is killed, its death animation shows a translucent white soul escaping their outer ghast form.
+
+30 [[Prayer]] experience is awarded for every ghast killed.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Mort Myre swamp]]
+|lvls=35
+|mem=yes
+|mapID=28
+|npcid:1052,x:3401,y:3361|npcid:1052,x:3404,y:3371|npcid:1052,x:3406,y:3354
+|npcid:1052,x:3407,y:3379|npcid:1052,x:3408,y:3386|npcid:1052,x:3411,y:3380
+|npcid:1052,x:3412,y:3357|npcid:1052,x:3414,y:3365|npcid:1052,x:3415,y:3372
+|npcid:1052,x:3415,y:3390|npcid:1052,x:3416,y:3345|npcid:1052,x:3417,y:3337
+|npcid:1052,x:3417,y:3385|npcid:1052,x:3418,y:3356|npcid:1052,x:3419,y:3361
+|npcid:1052,x:3420,y:3333|npcid:1052,x:3423,y:3348|npcid:1052,x:3424,y:3337
+|npcid:1052,x:3426,y:3366|npcid:1052,x:3427,y:3379|npcid:1052,x:3427,y:3389
+|npcid:1052,x:3429,y:3330|npcid:1052,x:3429,y:3352|npcid:1052,x:3430,y:3344
+|npcid:1052,x:3431,y:3366|npcid:1052,x:3436,y:3389|npcid:1052,x:3441,y:3364
+|npcid:1052,x:3443,y:3383|npcid:1052,x:3447,y:3391|npcid:1052,x:3449,y:3345
+|npcid:1052,x:3453,y:3357|npcid:1052,x:3453,y:3386|npcid:1052,x:3454,y:3346
+|npcid:1052,x:3454,y:3369|npcid:1052,x:3410,y:3398|npcid:1052,x:3413,y:3423
+|npcid:1052,x:3413,y:3443|npcid:1052,x:3414,y:3418|npcid:1052,x:3415,y:3407
+|npcid:1052,x:3415,y:3432|npcid:1052,x:3419,y:3395|npcid:1052,x:3419,y:3413
+|npcid:1052,x:3420,y:3425|npcid:1052,x:3420,y:3435|npcid:1052,x:3420,y:3440
+|npcid:1052,x:3422,y:3395|npcid:1052,x:3424,y:3403|npcid:1052,x:3425,y:3395
+|npcid:1052,x:3426,y:3419|npcid:1052,x:3427,y:3431|npcid:1052,x:3428,y:3395
+|npcid:1052,x:3428,y:3445|npcid:1052,x:3429,y:3436|npcid:1052,x:3432,y:3419
+|npcid:1052,x:3432,y:3445|npcid:1052,x:3437,y:3401|npcid:1052,x:3437,y:3435
+|npcid:1052,x:3441,y:3415|npcid:1052,x:3441,y:3428|npcid:1052,x:3442,y:3395
+|npcid:1052,x:3443,y:3432|npcid:1052,x:3444,y:3406|npcid:1052,x:3445,y:3394
+|npcid:1052,x:3448,y:3393|npcid:1052,x:3450,y:3423|npcid:1052,x:3450,y:3430
+|npcid:1052,x:3451,y:3396|npcid:1052,x:3453,y:3395|npcid:1052,x:3453,y:3436
+|npcid:1052,x:3454,y:3414|npcid:1052,x:3456,y:3343|npcid:1052,x:3456,y:3366
+|npcid:1052,x:3456,y:3390|npcid:1052,x:3457,y:3351|npcid:1052,x:3457,y:3356
+|npcid:1052,x:3457,y:3370|npcid:1052,x:3457,y:3378|npcid:1052,x:3458,y:3340
+|npcid:1052,x:3460,y:3375|npcid:1052,x:3463,y:3336|npcid:1052,x:3463,y:3341
+|npcid:1052,x:3463,y:3353|npcid:1052,x:3464,y:3372|npcid:1052,x:3464,y:3380
+|npcid:1052,x:3465,y:3359|npcid:1052,x:3466,y:3332|npcid:1052,x:3467,y:3380
+|npcid:1052,x:3468,y:3348|npcid:1052,x:3469,y:3368|npcid:1052,x:3469,y:3390
+|npcid:1052,x:3470,y:3381|npcid:1052,x:3472,y:3362|npcid:1052,x:3473,y:3352
+|npcid:1052,x:3474,y:3380|npcid:1052,x:3474,y:3387|npcid:1052,x:3475,y:3373
+|npcid:1052,x:3477,y:3354|npcid:1052,x:3478,y:3328|npcid:1052,x:3482,y:3343
+|npcid:1052,x:3485,y:3373|npcid:1052,x:3486,y:3329|npcid:1052,x:3486,y:3380
+|npcid:1052,x:3487,y:3368|npcid:1052,x:3488,y:3343|npcid:1052,x:3488,y:3350
+|npcid:1052,x:3488,y:3357|npcid:1052,x:3491,y:3376|npcid:1052,x:3491,y:3381
+|npcid:1052,x:3491,y:3388|npcid:1052,x:3492,y:3360|npcid:1052,x:3492,y:3371
+|npcid:1052,x:3494,y:3328|npcid:1052,x:3494,y:3341|npcid:1052,x:3498,y:3354
+|npcid:1052,x:3500,y:3385|npcid:1052,x:3501,y:3388|npcid:1052,x:3502,y:3328
+|npcid:1052,x:3502,y:3350|npcid:1052,x:3502,y:3363|npcid:1052,x:3503,y:3359
+|npcid:1052,x:3505,y:3379|npcid:1052,x:3507,y:3348|npcid:1052,x:3508,y:3367
+|npcid:1052,x:3510,y:3341|npcid:1052,x:3510,y:3381|npcid:1052,x:3512,y:3328
+|npcid:1052,x:3513,y:3383|npcid:1052,x:3517,y:3329|npcid:1052,x:3517,y:3336
+|npcid:1052,x:3457,y:3411|npcid:1052,x:3458,y:3401|npcid:1052,x:3461,y:3406
+|npcid:1052,x:3462,y:3399|npcid:1052,x:3463,y:3416|npcid:1052,x:3463,y:3448
+|npcid:1052,x:3464,y:3441|npcid:1052,x:3467,y:3415|npcid:1052,x:3469,y:3397
+|npcid:1052,x:3473,y:3394|npcid:1052,x:3473,y:3412|npcid:1052,x:3475,y:3401
+|npcid:1052,x:3481,y:3406|npcid:1052,x:3482,y:3419|npcid:1052,x:3482,y:3431
+|npcid:1052,x:3482,y:3442|npcid:1052,x:3485,y:3436|npcid:1052,x:3485,y:3451
+|npcid:1052,x:3486,y:3399|npcid:1052,x:3486,y:3407|npcid:1052,x:3487,y:3423
+|npcid:1052,x:3490,y:3395|npcid:1052,x:3490,y:3446|npcid:1052,x:3491,y:3430
+|npcid:1052,x:3492,y:3405|npcid:1052,x:3496,y:3395|npcid:1052,x:3497,y:3409
+|npcid:1052,x:3497,y:3417|npcid:1052,x:3498,y:3452|npcid:1052,x:3500,y:3422
+|npcid:1052,x:3501,y:3403|npcid:1052,x:3502,y:3415|npcid:1052,x:3508,y:3393
+|npcid:1052,x:3508,y:3400|npcid:1052,x:3509,y:3421|npcid:1052,x:3511,y:3397
+|npcid:1052,x:3511,y:3408|npcid:1052,x:3514,y:3418|npcid:1052,x:3515,y:3414
+|npcid:1052,x:3516,y:3393|npcid:1052,x:3516,y:3404|npcid:1052,x:3517,y:3452
+|npcid:1052,x:3518,y:3399|npcid:1052,x:3518,y:3417|npcid:1052,x:3518,y:3428
+|npcid:1052,x:3523,y:3436|npcid:1052,x:3526,y:3398|npcid:1052,x:3531,y:3425
+|npcid:1052,x:3548,y:3450|npcid:1052,x:3563,y:3444
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Rotting food==
+Ghasts are notorious for their ability to rot food in the player's backpack. This includes food held in containers, such as baskets or sacks, turning the whole container into one rotten food. It even converts stacks of [[Magnetic minnow]] or [[holy biscuits]] into a singular rotten food. They can also rot certain items that cannot be directly eaten, like [[pineapple]]s and [[coconut]]s ([[cooking apple]]s cannot be rotten, but [[apples]] in a basket can).
+
+Ghasts are always "aggressive" in using their rotting ability to attack players; however, once they are made attackable, they may become tolerant with their regular attacks according to the player's combat level.
+
+Ghasts cannot rot:
+* Most alcoholic drinks, including [[jug of wine]], [[bottle of wine]], [[moonlight mead]], [[beer]], [[poison chalice]], or gnome cocktails like [[Premade Blurberry Special]]
+* [[Cheese wheel]]s, including ones that are partially sliced, but they can rot regular [[cheese]]
+* Raw food that cannot be directly eaten (but they can rot [[raw potato]]es, including in sacks)
+* Healing [[potions]], like [[Saradomin brew]]s, [[Guthix rest]]s, or [[barbarian mix]]es
+
+==Transformation==
+Ghasts are in fact [[human]]s who have been transformed due to a lack of food, as proven during the [[Temple Trekking]] minigame. This explains why ghasts attempt to steal and consume food from players. When one is in the Morytanian environment and does not eat enough, the following will occur:
+
+# At first the human looks hungry, but normal.
+# The hair colour will begin to fade. The victim's skin will turn to a purple-adjacent colour.
+# The hair will become completely grey and might fall out or grow even more, the cheeks and nose begin to "slump" and the skin turns to a more brown colour. The white of the eye will become slightly yellow.
+# If the person still hasn't eaten, their skin turns blue-grey and completely loses elasticity. The white of the eye is now completely yellow.
+# Finally, the person's soul leaves the body in ghast form, at which point the person can no longer be cured.
+{{clear|left}}
+
+<gallery>
+Marv chathead.png|A healthy human
+Marv sick chathead.png|Stage 2
+Marv very sick chathead.png|Stage 3
+Marv ghastly chathead.png|Final stage before turning into a ghast
+Ghast transform.gif|A human turning into a ghast
+</gallery>
+{{clear|left}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Iron stone spirit|quantity=1|rarity=8/128}}
+{{DropsLine|name=Coal stone spirit|quantity=2|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity=12/128}}
+{{DropsLine|name=Grimy marrentill|quantity=1|rarity=12/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Bittercap mushroom spore|quantity=3|rarity=10/128}}
+{{DropsLine|name=Morchella mushroom spore|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=200-399|rarity=24/128}}
+{{DropsLine|name=Raw potato|quantity=1-3|rarity=10/128}}
+{{DropsLine|name=Swamp tar|quantity=4|rarity=8/128}}
+{{DropsLine|name=Mort myre fungus|quantity=1|rarity=6/128}}
+{{DropsLine|name=Lean snail|quantity=1|rarity=6/128}}
+{{DropsLine|name=Thin snail|quantity=1|rarity=6/128}}
+{{DropsLine|name=Fat snail|quantity=1|rarity=6/128}}
+{{DropsLine|name=Prayer potion (1)|quantity=1|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=2-7|rarity=1/10|version=Temple Trekking}}
+{{DropsLine|name=Congealed blood|quantity=2-7|rarity=1/20|version=Normal}}
+{{DropsLineGhostlyEssence|quantity=2-3|rarity=1/256}}
+{{DropsLineGhosts|ectorarity=750|herbrarity=1024}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Hastranscript|npc}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Ghast Artwork.png|Artwork depicting ghasts
+Attacking ghast.gif|A ghast attacking a player
+Ghastvisible.png|Surprise!
+</gallery>
+
+==Graphical updates==
+===Ghast (Mort Myre)===
+{{GU|subject=NPCs
+|{{GUL|date=[[13 July]] [[2004]]|update=Nature Spirit Quest|img=Ghast old.png|name=Ghast}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Ghast.png|name=Ghast}}
+}}
+
+===Ghast (Temple Trekking)===
+{{GU|subject=NPCs
+|{{GUL|date=[[28 March]] [[2006]]|update=Temple Trekking|img=Ghast TT old.png|name=Ghast}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Ghast.png|name=Ghast}}
+}}
+
+===Transformation===
+{{GU|subject=emote
+|{{GUL|date=[[13 March]] [[2007]]|update=Burgh de Rott Ramble|img=Ghast trans old.gif|name=Human transforming into a ghast}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Ghast transform.gif|name=Human transforming into a ghast}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (22 January 2018)|date=22 January 2018}}
+** The opportunity to gain 30 Prayer XP from killing ghasts is now locked behind completion of Nature Spirit.
+
+* {{UL|type=update|update=Temple Trekking: Revamped|date=17 August 2011}}
+** Graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (21 April 2009)|date=21 April 2009}}
+** You will now lose the correct number of druid pouches when attacked by ghasts in the Temple Trekking and Burgh de Rott Ramble minigames.
+
+* {{UL|type=update|update=Nature Spirit Quest|date=13 July 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* If a ghast dies above water, there will be no drop at all. This also applies to the [[Vyrewatch]] in [[Meiyerditch]] near the boat.
+* If you finished [[Deadliest Catch]] you have access to a bank deposit box somewhat north-west from the grotto where you can bank your herbs and other drops.
+* Since their graphical update on 17 August 2011 the ghasts now have the same moving, idle, and death animations as the aberrant spectres.
+* If attacked by a Ghast while using a Home teleport, the animation will be interrupted, although the teleport will not, even if the Ghast does damage to you, only when it is transparent.
+* When a ghast dies, its spirit resembles the way it used to look before their graphical update.
+* With the update to Temple Trekking on 17 August 2011, the ghasts in the events no longer gave Prayer experience. This glitch was fixed on [[Update:Patch Notes (7 February 2012)|7 February 2012]].
+* There is currently a glitch where, if you teleport to the Lunar Isle using the lodestone network, are attacked during the animation, arrive on Lunar Isle, log out, and log back in, there will be a ghast. It does not attack you or follow you, and using a [[druid pouch]] on it will have no effect; it can only be examined.
+* The animation when a druid pouch makes a ghast visible is the old animation for [[Earth Blast]].
+
+==References==
+{{Reflist}}
+
+{{Nature Spirit}}
+{{Ghost}}
+{{Temple Trekking}}
+[[Category:NPCs not visible on the minimap]]
+[[Category:NPCs that can ignore ground blocking]]

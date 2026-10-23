@@ -1,0 +1,117 @@
+{{External|os}}
+{{Infobox Monster
+|name = Shadow Hound
+|image = [[File:Shadow hound.png|140px]]
+|release = [[18 April]] [[2005]]
+|update = Desert Treasure
+|members = Yes
+|actions = Attack
+|examine = Looks hungry!
+|level = 67
+|lifepoints = 2400
+|experience = 120.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 39.4
+|slayercat = Dogs
+|assigned_by = Turael, Mazchna
+|max_melee = 192
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 48
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 801
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 801
+|defence = 48
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1976
+|leagueRegion=Kandarin, Wilderness}}
+'''Shadow Hounds''' are found in the [[Shadow Dungeon]]. They are encountered during the [[Desert Treasure]] quest, and they can be found throughout the [[Chaos Tunnels]].
+
+They tend to interfere when a player is using the poison-technique on Damis. After Desert Treasure, they are difficult to kill in the Shadow Dungeon unless a player is willing to fend off level 84 [[Giant skeleton (Shadow Dungeon)|giant skeletons]]; they respawn fast and are present throughout the dungeon. The easiest place to kill Shadow Hounds is in the small round chamber leading off to the north-west of Damis's chamber. It contains a level 7 [[giant rat]] and one hound, and it provides a reasonably safe place away from the skeletons.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Shadow Dungeon]]
+|lvls=67
+|mem=yes
+|mapID=416
+|npcid:1976,x:2694,y:5067|npcid:1976,x:2717,y:5081|npcid:1976,x:2718,y:5108
+|npcid:1976,x:2721,y:5104|npcid:1976,x:2726,y:5091|npcid:1976,x:2731,y:5060
+|npcid:1976,x:2732,y:5073|npcid:1976,x:2740,y:5083|npcid:1976,x:2742,y:5103
+|npcid:1976,x:2747,y:5094
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=67
+|mem=yes
+|mapID=23
+|npcid:1976,x:3283,y:5510|npcid:1976,x:3286,y:5527|npcid:1976,x:3287,y:5513
+|npcid:1976,x:3287,y:5524|npcid:1976,x:3288,y:5511|npcid:1976,x:3289,y:5514
+|npcid:1976,x:3290,y:5530|npcid:1976,x:3292,y:5530|npcid:1976,x:3293,y:5523
+|npcid:1976,x:3295,y:5517|npcid:1976,x:3297,y:5521|npcid:1976,x:3298,y:5517
+|npcid:1976,x:3300,y:5509|npcid:1976,x:3300,y:5517|npcid:1976,x:3302,y:5510
+|npcid:1976,x:3302,y:5526|npcid:1976,x:3303,y:5534|npcid:1976,x:3305,y:5508
+|npcid:1976,x:3308,y:5525|npcid:1976,x:3308,y:5544|npcid:1976,x:3309,y:5521
+|npcid:1976,x:3309,y:5534|npcid:1976,x:3309,y:5541|npcid:1976,x:3310,y:5510
+|npcid:1976,x:3313,y:5519|npcid:1976,x:3313,y:5525|npcid:1976,x:3313,y:5528
+|npcid:1976,x:3315,y:5510|npcid:1976,x:3315,y:5521|npcid:1976,x:3318,y:5514
+|npcid:1976,x:3318,y:5540|npcid:1976,x:3318,y:5548|npcid:1976,x:3321,y:5508
+|npcid:1976,x:3321,y:5518|npcid:1976,x:3321,y:5535|npcid:1976,x:3322,y:5532
+|npcid:1976,x:3322,y:5536|npcid:1976,x:3322,y:5552|npcid:1976,x:3324,y:5510
+|npcid:1976,x:3324,y:5516
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Shadow Hound}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Rare}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Desert Treasure|date=18 April 2005}}
+** Added to game.
+}}
+
+{{Desert Treasure}}
+{{Dogs}}
+[[Category:Quest monsters]]

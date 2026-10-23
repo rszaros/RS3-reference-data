@@ -1,0 +1,89 @@
+{{Infobox Monster
+|name = Mightiest turoth
+|image = [[File:Mightiest turoth.png|200px]]
+|release = [[5 June]] [[2008]]
+|update = Smoking Kills
+|members = Yes
+|options = Attack, Examine
+|examine = Something tells you it has many minions.
+|level = 83
+|lifepoints = 21000
+|experience = 1050.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 55
+|slayxp = 1000
+|slayercat = Turoth
+|assigned_by = Chaeldar, Sumona
+|max_melee = 1400.0
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 70
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1386
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Air
+|susceptibility = Leaf-bladed
+|derived_susceptibility = No
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = quest
+|id = 7800
+|leagueRegion=Desert}}
+The '''mightiest turoth''' is an especially strong [[Turoth]]. The mightiest turoth can only be fought during the [[Desert Slayer Dungeon (miniquest)|Desert Slayer Dungeon miniquest]], after [[Smoking Kills]].
+
+Killing the mightiest turoth gives the player a reward of 1,000 [[slayer]] experience. If the player kills the mightiest turoth during a task of regular turoths, 391 XP is added to the 1,000 from killing it. However, if the player's current task is turoths, then the 15% combat bonus of the ([[Full slay helm|Full]]) [[Slayer helmet]], [[black mask]], [[hexcrest]], and [[focus sight]] is in effect, as well as the mightiest turoth counting toward the task. It is immune to the effects of stuns.
+
+Like all turoths, the mightiest turoth is immune to all damage not dealt via a [[leaf-bladed spear]], a [[leaf-bladed sword]], [[broad arrows]], [[broad-tipped bolts]], or the [[Slayer Dart]] spell. The recommended strategy for fighting the mightiest turoth is to use [[Slayer Dart]] and [[Protect from Melee]]. It summons some [[swarming turoth]]s (level 60) to aid it.[[File:Player fights Mightiest turoth.png|thumb|left|220px|A player fights the mightiest turoth and a summoned [[swarming turoth]]]]
+
+==Locations==
+* [[Pollnivneach Slayer Dungeon]]
+{{LocTableHead}}
+{{LocLine
+|loc=[[Pollnivneach Slayer Dungeon]]
+|lvls=96
+|mem=yes
+|mapID=22
+|npcid:7800,x:113,y:35
+|leagueRegion = Desert
+}}
+{{LocTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=March Patch Week - This Week In RuneScape|date=11 March 2024}}
+** Rebalanced the minibosses in the Desert Slayer Dungeon miniquest.
+*** They all have more HP, damage, and have been cleaned up in general.
+
+* {{UL|type=update|update=Smoking Kills|date=5 June 2008}}
+** Added to game.
+}}
+
+{{Desert Slayer Dungeon (miniquest)}}
+{{Slayer monsters}}
+
+[[Category:Bosses]]
+[[Category:Unique monsters]]

@@ -1,0 +1,185 @@
+{{Redirect|Goblin raider boss|the spawns in Goblin Village|Goblin raider bosses}}
+{{HasStrategy}}
+{{Infobox Monster
+|name = Hollowtoof
+|image = [[File:Hollowtoof.png|150px]]
+|release = [[17 October]] [[2012]]
+|update = What's Mine is Yours
+|members = No
+|options = Attack
+|examine = {{*}} Overseeing the raid. <br /> {{*}} Oh no, now he's angry!
+|level = 77
+|lifepoints = 50000
+|experience = 2500.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 999.8
+|slayercat = Goblins
+|assigned_by = Turael, Spria
+|max_melee = 1229
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 55
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 983
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 983
+|defence = 55
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = minigame
+|leagueRegion = Misthalin,Asgarnia
+|id = 15958
+}}
+[[File:Hollowtoof chathead.png|left|100px]]
+'''Hollowtoof''' is a [[goblin]] from [[Goblin Village]] and is the leader of the [[Goblin Raids]]. Players may talk to him before all the goblins are killed, with a [[combat level]] of at least 22, he will give the player a [[raider axe]], [[raider chainbody]] and a [[raider shield]]. Once all the other goblins are killed, he can be killed for the items too. He drops some of the best equipment available for free players, the [[gud raider axe]], [[gud raider chainbody]] and the [[gud raider shield]]. To receive a [[raider equipment]] drop and have a chance at receiving a [[Gud raider equipment]] drop, players must either deal the most damage of all players to Hollowtoof or deal damage greater than 10% of his lifepoints (over 5,000 lifepoints) in addition to killing at least one [[Goblin Raider]] by themselves. These mechanics are different for [[Ironman Mode]] accounts. Only the player doing the most damage to Hollowtoof will have their killcount updated.
+
+Hollowtoof is stronger than his level would suggest; despite being only level 77, he can put up a good fight for even high-level players.
+
+Players may [[Quick Chat]] their Hollowtoof killcount. However, the counter caps at 1,000 kills.
+
+==Locations==
+{{Main|Goblin Raids#Locations}}
+{| class="wikitable sortable sticky-header"
+|-
+! Location !! Broadcast !! Type !! Map
+|-
+| [[Burthorpe mine]], under [[White Wolf Mountain]] || "...in the Taverley mine!" || Mine || {{Maplink|mapID=-1|2277,4501|mtype=square|r=6}}
+|-
+| [[Crafting Guild]], north of the guild and south of the [[Makeover Mage]] || "...to the north of the Crafting Guild!" || Forest || {{Maplink|mapID=-1|2923,3308|mtype=square|r=6}}
+|-
+| [[Draynor Village]], west of the [[Draynor lodestone]] || "...to the north of Draynor!"  || Forest || {{Maplink|mapID=-1|3088,3305|mtype=square|r=6}}
+|-
+| [[Draynor Village]], wheat field east of the village || "...in Draynor wheat field!" || Farm || {{Maplink|mapID=-1|x=3120|y=3278|mtype=square|r=6}}
+|-
+| [[Falador farm]], cabbage field || "...at the farm north of Port Sarim!" || Farm || {{Maplink|mapID=-1|x=3054|y=3291|mtype=square|r=6}}
+|-
+| [[Lumbridge]], the potato field north of the cow pen || "...in the Lumbridge farm!" || Farm || {{Maplink|mapID=-1|x=3256|y=3307|mtype=square|r=6}}
+|-
+| [[Lumbridge south-east mine]], south-eastern corner of [[Lumbridge Swamp]] || "...at the Lumbridge Swamp copper mine!" || Mine || {{Maplink|mapID=-1|3228,3149|mtype=square|r=6}}
+|-
+| [[Rimmington mine]], north of Rimmington || "...at the mine west of Port Sarim!" || Mine || {{Maplink|mapID=-1|2974,3237|mtype=square|r=6}}
+|-
+| [[Taverley]], wheat field south-east of the bank || "...in the Taverley wheat field!" || Farm || {{Maplink|mapID=-1|2896,3398|mtype=square|r=6}}
+|-
+| [[Varrock]], east of the stone circle || "...to the south of Varrock!" || Forest || {{Maplink|mapID=-1|x=3250|y=3366|mtype=square|r=6}}
+|-
+| [[Varrock]], south of [[Gertrude]]'s house || "...to the west of Varrock!" || Forest || {{Maplink|mapID=-1|x=3166|y=3400|mtype=square|r=6}}
+|-
+| [[Varrock south-west mine]], west of the [[Varrock lodestone]] || "...to the north of the Champions' Guild!" || Mine || {{Maplink|mapID=-1|x=3179|y=3370|mtype=square|r=6}}
+|}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+===100%===
+One of the three pieces of raider gear is dropped. This piece will always be a piece the player does not currently own (unless they own all three items, where it will be any one of the three), chosen at random. (If the player has [[keepsake key|keepsaked]] their only copy of one of these, it will be considered unowned for this purpose.)
+
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raider chainbody|quantity=1|rarity=Always|raritynotes={{DropNote|name=unique|Only one piece of the set is dropped at a time.}}|gemw=no|alch=no}}
+{{DropsLine|name=Raider axe|quantity=1|rarity=Always|raritynotes={{DropNote|name=unique}}|gemw=no|alch=no}}
+{{DropsLine|name=Raider shield|quantity=1|rarity=Always|raritynotes={{DropNote|name=unique}}|gemw=no|alch=no}}
+{{DropsLine|name=Goblin skull|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest and if not already obtained.}}|members=yes}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=24|rarity=3/128}}
+{{DropsLine|name=Coins|quantity=16|rarity=7/128}}
+{{DropsLine|name=Coins|quantity=5-15|rarity=14/128}}
+{{DropsLine|name=Coins|quantity=5|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=3|rarity=13/128}}
+{{DropsLine|name=Coins|quantity=1|rarity=34/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Earth rune|quantity=4|rarity=3/128}}
+{{DropsLine|name=Body rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Mind rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Nature rune|quantity=1|rarity=1/128}}
+{{DropsLine|name=Chaos rune|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Oak wood spirit|quantity=5|rarity=9/128}}
+{{DropsLine|name=Teak wood spirit|quantity=3|rarity=1/128}}
+{{DropsLine|name=Willow wood spirit|quantity=4|rarity=1/128}}
+{{DropsLine|name=Tin stone spirit|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|2/128|f2p=yes}}
+{{DropsTableHead}}
+{{HerbDropTable|2/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}|members=yes|gemw=no}}
+{{DropsLine|name=Goblin mail|quantity=1|rarity=10/128}}
+{{DropsLine|name=Bronze hatchet|quantity=1|rarity=3/128}}
+{{DropsLine|name=Bronze arrow|quantity=20|rarity=3/128}}
+{{DropsLine|name=Bronze javelin|quantity=5|rarity=2/128}}
+{{DropsLine|name=Goblin book|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small bladed bronze salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Cape (red)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Grapes|quantity=1|rarity=1/128}}
+{{DropsLine|name=Nothing|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Gud raider axe|quantity=1|rarity=1/768|raritynotes={{DropNote|name=uniquegud|1/256 to roll one of the three Gud equipment.}}}}
+{{DropsLine|name=Gud raider chainbody|quantity=1|rarity=1/768|raritynotes={{DropNote|name=uniquegud}}}}
+{{DropsLine|name=Gud raider shield|quantity=1|rarity=1/768|raritynotes={{DropNote|name=uniquegud}}}}
+{{DropsLine|name=Goblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Goblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no|members=yes}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}} 
+** [[Goblin mail]] and [[goblin book]] drops
+
+==Dialogue==
+{{Hastranscript|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[tiny spiky bronze salvage]] drop with [[oak wood spirit]]s.
+** Replaced the [[small plated bronze salvage]] drop with [[willow wood spirit]]s.
+** Replaced the [[small plated iron salvage]] drop with [[teak wood spirit]]s.
+
+* {{UL|type=ninja|update=Patch Notes (12 February 2018)|date=12 February 2018}}
+** Players can now quickchat their Hollowtoof kill count.
+
+* {{UL|type=patch|update=Patch Notes (12 June 2017)|date=12 June 2017}}
+** Missing death audio has now been added to the goblin flashmob NPC, Hollowtoof.
+
+* {{UL|type=update|update=What's Mine is Yours|date=17 October 2012}}
+** Added to game.
+}}
+
+{{Goblin raids}}
+{{Goblins}}
+[[Category:Free-to-play bosses]]
+[[Category:Bandosians]]
+[[pt:Dentoco]]

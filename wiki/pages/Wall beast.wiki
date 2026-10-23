@@ -1,0 +1,184 @@
+{{External|os}}
+{{Infobox Monster
+|name = Wall beast
+|image = [[File:Wall beast.png|180px]]
+|release = [[14 March]] [[2005]]
+|update = Lumbridge Swamp Caves
+|members = Yes
+|actions = Attack
+|examine = A big, scary hand!
+|level = 45
+|lifepoints = 5450
+|experience = 
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 35
+|slayxp = 20.6
+|slayercat = Wall beasts
+|assigned_by = mazchna, Vannaka
+|max_melee = 600
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 30
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 354
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 519
+|defence = 34
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 7823
+|leagueRegion=Misthalin}}
+[[File:Wall beast icon.png|left]]
+A '''Wall beast''' is a [[Slayer]] monster that requires level 35 Slayer to kill. A [[spiny helmet]] or equivalent is '''required''' to start fighting one. Players without 5 [[Defence]] would not be [[Slayer assignment|assigned]] these as 5 Defence is required to wield the helmet. This monster is not very popular, due to the fact that its drops are poor with the exception of the [[mystic hat]]. It is found only in the [[Lumbridge Swamp Caves]].
+
+This creature is infamous for surprising, and often killing, low-level players in the Lumbridge Swamp Caves.
+
+When using [[Ranged]], ammunition will disappear into the wall even when using [[Ava's device]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Lumbridge Swamp Caves]]
+|lvls=45
+|mem=yes
+|mapID=31
+|npcid:2058,x:3161,y:9547
+|npcid:2058,x:3162,y:9574
+|npcid:2058,x:3164,y:9556
+|npcid:2058,x:3198,y:9554
+|npcid:2058,x:3198,y:9572
+|npcid:2058,x:3215,y:9560
+|npcid:2058,x:3216,y:9588
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+{{Map:Lumbridge Swamp Caves|align=left}}
+{{Clear|left}}
+
+==Strategy==
+Players can find wall beasts in [[Lumbridge Swamp Caves]], where [[light sources]] are required. When walking or running past one without wearing a [[spiny helmet]], there is a chance it will grab the player by the head and slam them into the ground, dealing typeless damage equal to about 17.5%-13% of your maximum [[life points]] (higher [[Constitution]] takes less damage percentage-wise).
+
+It is recommended that players only fight the wall beast closest to the main entrance of the [[Lumbridge Swamp Caves]]. When a player climbs down the rope, there will be a wall beast lurking in the pass immediately west of the entrance.
+
+If players wear a spiny helmet, the grabbing attack will fail. A wall beast's maximum hit on a player wearing a spiny helmet is 136.
+A [[spiked helmet]], [[slayer helmet]] or [[full slayer helmet]] may also be used. You can still use a [[black mask]], [[focus sight]] or [[hexcrest]] to fight the wall beasts as long as you ensure you wear one of the aforementioned items while the wall beast initially tries to attack you. As soon as it discovers you with your spiny helmet, you can switch to your preferred headgear. Just be careful to re-equip your spiny helmet after each battle.
+
+Contrary to what the above picture may imply, the wall beast does not count as a large monster and therefore the [[dragon halberd]]'s special attack does not produce two hits on it.
+
+The respawn is triggered every time you enter the Lumbridge Swamp Caves, meaning you can run back and exit to refresh the spawn.
+
+Players may wish to bring an [[antipoison]] potion in case they accidentally attack a [[cave slime]] or a [[cave crawler]], which are poisonous.
+
+If you do not wish to fight them and do not have an appropriate helmet, [[Surge]] and [[Escape]] can be used to dash pass them safely.
+
+==Drops==
+{{DropLogProject|jagex=true}}
+
+{{Average drop value}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Light mystic hat|quantity=1|rarity=1/512}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy marrentill|quantity=1|rarity=16/128}}
+{{DropsLine|name=Grimy tarromin|quantity=1|rarity=18/128}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity=14/128}}
+{{DropsLine|name=Grimy harralander|quantity=1|rarity=8/128}}
+{{DropsLine|name=Grimy ranarr|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Small plated steel salvage|quantity=1|rarity=12/128}}
+{{DropsLine|name=Medium bladed steel salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Tiny plated steel salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=400-600|rarity=15/128}}
+{{DropsLine|name=Iron stone spirit|quantity=1|rarity=10/128}}
+{{DropsLine|name=Silver stone spirit|quantity=5|rarity=8/128}}
+{{DropsLine|name=Swamp tar|quantity=3|rarity=8/128}}
+{{DropsLine|name=Uncut sapphire|quantity=1|rarity=4/128}}
+{{DropsLine|name=Bones|quantity=1|rarity=|raritynotes={{DropNote|Seemingly only received if killed while retreating into wall I.E Damage over time still in effect.}}}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=45}}
+{{DropsLineMimic|level=45}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 155.644/1000
+|green = 77.822/1000
+|crimson = 194.555/1000
+|blue = 7.782/1000
+}}
+
+==Achievement==
+* {{Achievement|The Start of Something New}}
+** [[Light mystic hat]] drop
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[14 March]] [[2005]]|update=Lumbridge Swamp Caves|img=Wall beast (March 2005).png|name=Wall beast}}
+|{{GUL|date=April-June [[2005]]|update=|img=Wall beast (April 2005).png|name=Wall beast}}
+|{{GUL|date=|update=|img=Wall beast old.png|name=Wall beast}}
+|{{GUL|date=|update=|img=Wall beast.png|name=Wall beast}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Patch Notes (8 May 2018)|date=8 May 2018}}
+** Knockback abilities can no longer drag wall beasts out of their dens.
+
+*{{UL|type=patch|update=Patch Notes (13 March 2012)|date=13 March 2012}}
+** Wall beasts are no longer assigned to players with less than 5 Defence.
+
+* {{UL|type=update|update=Lumbridge Swamp Caves|date=14 March 2005}}
+** Added to game.
+}}
+
+==Trivia==
+[[File:Wall beast full body.jpg|thumb|right|Image from postbag from the hedge]]
+* In the [[Update:Postbag from the Hedge 9|July 2006 edition]] of [[Postbag from the Hedge]], a player asked for a picture of the wall beast's whole body.{{CitePostbag|issue=9|author=Jagex|letter=Letter 2}} The reply contained no words, only a picture of a green creature. [[Mod Osborne]] confirmed that Postbag content is treated as canonical where possible.{{CiteVideo|url=505167960|site=Twitch|title=Runescape Gameblast 2014|date=21 February 2014|author=RuneScape|timestamp=12:05:21|archiveurl=https://archive.org/details/runescape-gameblast-2014|archivedate=21 February 2014}}
+* When [[the Grotesque]] and [[the Nexus]] were designed, Mod Osborne conceived of the Grotesque as the creature to which wall beasts belong, with the wall beasts being its limbs reaching through the cave walls.{{CiteVideo|url=505167960|site=Twitch|title=Runescape Gameblast 2014|date=21 February 2014|author=RuneScape|timestamp=12:04:59|archiveurl=https://archive.org/details/runescape-gameblast-2014|archivedate=21 February 2014}} With the subsequent removal of the Nexus and the Grotesque, this connection may no longer be considered current canon.
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}

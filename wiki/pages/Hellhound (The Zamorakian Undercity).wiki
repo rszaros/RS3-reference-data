@@ -1,0 +1,85 @@
+{{Otheruses|the monster in [[The Zamorakian Undercity]]|other uses|Hellhound (disambiguation)}}
+{{Infobox Monster
+|name = Hellhound
+|image = [[File:Hellhound (The Zamorakian Undercity).png|x280px]]
+|release = [[4 July]] [[2022]]
+|update = Zamorak, Lord of Chaos - This Week In RuneScape
+|members = Yes
+|options = Attack, Mark, Examine
+|race = Hellhound
+|examine = Looks like it's on a human-based diet.
+|leagueRegion = Misthalin
+|level = 104
+|lifepoints = 9000
+|experience = 450.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 800
+|slayercat = Hellhounds, Demons
+|max_melee = 1368
+|max_ranged = 14
+|max_magic = 14
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 85
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 2178
+|acc_ranged = 110
+|acc_magic = 110
+|acc_necromancy = 0
+|armour = 1335
+|defence = 66
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 60
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 29263
+}}
+[[File:Hellhound (The Zamorakian Undercity) chathead.png|left]]
+'''Hellhounds''' are monsters found in the second half of [[The Zamorakian Undercity]].
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main===
+{{The Zamorakian Undercity drops}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[4 July]] [[2022]]|update=Zamorak, Lord of Chaos - This Week In RuneScape|img=Hellhound (The Zamorakian Undercity) (2022).png|name=Hellhound (The Zamorakian Undercity)}}
+|{{GUL|date=[[6 February]] [[2023]]|update=Prepping For Fort Forinthry - This Week In RuneScape|img=Hellhound (The Zamorakian Undercity).png|name=Hellhound (The Zamorakian Undercity)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Base hit chances increased:
+*** Magic: 65 → 70
+*** Melee and ranged: 55 → 60
+
+* {{UL|type=patch|update=Prepping For Fort Forinthry - This Week In RuneScape|date=6 February 2023}}
+** Updated the appearance of hellhounds by adjusting their roughness and metal spec values.
+
+* {{UL|type=hotfix|date=4 July 2022}}
+** Fixed an issue causing Hellhounds in [[the Zamorakian Undercity]] to drop [[Clue Scrolls]] at a higher than intended rate.
+
+* {{UL|type=update|update=Zamorak, Lord of Chaos - This Week In RuneScape|date=4 July 2022}}
+** Added to game.
+}}
+
+{{The Zamorakian Undercity}}
+{{Demons}}

@@ -1,0 +1,99 @@
+{{Infobox Monster
+|version1 = Boss
+|version2 = Regular
+|name = Zombie cow
+|image = [[File:Zombie cow.png|200px]]
+|release = [[23 March]] [[2015]]
+|update = Dimension of Disaster – 200th Quest
+|members = Yes
+|examine = A recently deceased bovine.
+|level = 1
+|lifepoints1 = 50
+|lifepoints2 = 200
+|experience1 = 0.0
+|experience2 = 10.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Zombies, Undead
+|max_melee1 = 20
+|max_melee2 = 28
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|acc_melee = 120
+|acc_ranged = 0
+|acc_magic = 0
+|armour1 = 110
+|armour2 = 120
+|defence = 1
+|weakness1 = Slash
+|weakness2 = Air
+|aff_weakness1 = 1000
+|aff_weakness2 = 90
+|aff_melee1 = 1000
+|aff_melee2 = 55
+|aff_ranged1 = 1000
+|aff_ranged2 = 45
+|aff_magic1 = 1000
+|aff_magic2 = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|id1 = 20891
+|id2 = 20928
+}}
+[[File:Zombie cow chathead.png|left]]
+'''Zombie cows''' are [[monster]]s that can be found on the east side of [[New Varrock]]. They are a source of [[zombie cowhide]] and [[raw undead beef]], for [[crafting]] and [[cooking]], respectively.
+
+They also appear in the final fight against [[Zemouregal]]. Here, they will explode if they touch Zemouregal or Arrav, dealing 1,500 damage to them, and they instantly destroy any [[Protection portal]] they make contact with.
+
+They do not count as cows for [[Slayer assignment]]s.
+
+==Locations==
+{{Monster map
+|npcname = Zombie cow
+|mapID = 677
+|npcid:20928,x:3780,y:9043
+|npcid:20928,x:3780,y:9051
+|npcid:20928,x:3780,y:9053
+|npcid:20928,x:3782,y:9043
+|npcid:20928,x:3782,y:9045
+|npcid:20928,x:3782,y:9049
+|npcid:20928,x:3782,y:9051
+|npcid:20928,x:3782,y:9053
+}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===Regular===
+Dropped by zombie cows in New Varrock itself.
+{{DropsTableHead|version=Regular}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always|gemw=No|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Raw undead beef|quantity=1|rarity=Always|gemw=No|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsLine|name=Zombie cowhide|quantity=1|rarity=Always|gemw=No|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsTableBottom}}
+
+===Boss===
+Dropped during the Zemouregal boss fight.
+{{DropsTableHead|version=Boss}}
+{{DropsLine|name=Healing orb (Dimension of Disaster)|quantity=1|rarity=1/2|gemw=No|alch=no}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Dimension of Disaster – 200th Quest|date=23 March 2015}}
+** Added to game.
+}}
+
+{{Zombie}}
+{{New Varrock}}

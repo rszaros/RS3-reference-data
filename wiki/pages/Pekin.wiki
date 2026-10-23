@@ -1,0 +1,93 @@
+{{External|wp=Pekin chicken}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|name = Pekin
+|image = [[File:Pekin.png|200px]]
+|release = [[25 July]] [[2016]]
+|update = The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit
+|members = Yes
+|actions = Attack
+|examine = Yep. Definitely a Wushanko chicken.
+|level = 1
+|lifepoints = 250
+|experience = 12.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6.4
+|slayercat = Birds
+|assigned_by = Turael, Spria
+|max_melee = 15
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = melee
+|speed = 3
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 10
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 23362, 23363, 23364, 23365
+|leagueRegion = Asgarnia
+}}
+'''Pekin''' are a type of [[chicken]] found in the [[Wushanko Isles]]. A group of them can be found on [[Waiko]], to the south of the market. They can also be hatched from eggs on the [[Uncharted Isles]] when a hatch egg contract is obtained from [[Sojobo]]. They periodically lay [[Egg (The Arc)|eggs]]. They also have an [[Undead pekin|undead counterpart]] found on [[Goshima]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[The Arc]]
+|lvls = 1
+|mem = Yes
+|requirements={{QuestIcon|Impressing the Locals}}
+|npcid:23365,x:3804,y:1928
+|npcid:23362,x:3804,y:1929
+|npcid:23363,x:3804,y:1930
+|npcid:23362,x:3805,y:1928
+|npcid:23363,x:3805,y:1929
+|npcid:23365,x:3805,y:1930
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw pekin|quantity=1|rarity=Always|gemw=no|alch=no|altvalue=1|altcurrency=Chimes}}
+{{DropsTableBottom}}
+
+==Update history==
+{{Update history|
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Patch Notes (17 October 2016)|date=17 October 2016}}
+**The chickens on Waiko have been replaced with pekin that drop appropriately poultry-esque Arc resources.
+
+* {{UL|type=update|update=The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit|date=25 July 2016}}
+** Added to game.
+}}
+
+==Trivia==
+* {{WP|Pekin chicken}} is a breed of chicken from China.
+
+{{Waiko}}

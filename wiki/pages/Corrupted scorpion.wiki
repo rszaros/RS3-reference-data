@@ -1,0 +1,161 @@
+{{Otheruses|the Slayer monster|the pet|Ishhara}} 
+{{Infobox Monster
+|name = Corrupted scorpion
+|image = [[File:Corrupted scorpion.png]]
+|release = [[5 June]] [[2017]]
+|update = Menaphos - The Gates are Open
+|members = Yes
+|options = Attack
+|examine = A scorpion under the control of the Devourer.
+|level = 98
+|lifepoints = 9000
+|experience = 450.0
+|aggressive = no
+|poisonous = no
+|slaylvl = 88
+|slayxp = 353.2
+|slayercat = Corrupted creatures, Scorpions
+|max_melee = 672
+|max_ranged = 672
+|max_magic = 672
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 70
+|ranged = 70
+|magic = 70
+|necromancy = 1
+|acc_melee = 1486
+|acc_ranged = 1486
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1486
+|defence = 70
+|weakness = Water
+|susceptibility = Consecrated keris
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 24592
+|leagueRegion=Desert}}
+[[File:Corrupted scorpion icon.png]]
+'''Corrupted scorpions''' are monsters that require level 88 [[Slayer]] to damage. They can be found in the [[Sophanem Slayer Dungeon]]. A [[Feather of Ma'at]] is required to complete each kill. A cat named [[Katarina]] has a chance to spawn upon each successful kill.
+{{clear|left}}
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Sophanem Slayer Dungeon]]
+|lvls=101
+|mem=yes
+|mapID=718
+|npcid:24592,x:3270,y:9113|npcid:24592,x:3271,y:9119|npcid:24592,x:3272,y:9128
+|npcid:24592,x:3277,y:9115|npcid:24592,x:3282,y:9122|npcid:24592,x:3283,y:9128
+|npcid:24592,x:3287,y:9116|npcid:24592,x:3290,y:9126|npcid:24592,x:3291,y:9113
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}} This value assumes you are not on slayer task, have auto-loot settings on, don't have a [[vital spark drop enhancer]] or [[Sophanem slayer dungeon drop enhancer]].
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Adamantite stone spirit|quantity=3|rarity=16/128}}
+{{DropsLine|name=Gold stone spirit|quantity=6|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=2|rarity=10/128}}
+{{DropsLine|name=Medium spiky rune salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1250|rarity=38/128}}
+{{DropsLine|name=Coins|quantity=2000|rarity=22/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Corrupted magic logs|quantity=6 (noted)|rarity=14/128}}
+{{DropsLine|name=Earth talisman|quantity=2 (noted)|rarity=12/128}}
+{{DropsLine|name=Super attack (2)|quantity=1|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/150}}
+
+===Tertiary===
+Regardless of chest auto-loot settings, all tertiary drops, with the exception of [[vital spark]]s, are dropped to the ground.
+
+{{DropsTableHead}}
+{{DropsLineBoneFragments|slayer_level=88}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/256}}
+{{DropsLineSophanemSlayerDungeonTertiary|slayer_level=88}}
+{{DropsLineEffigy|level=98}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=98}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.579/1000
+|green = 44.79/1000
+|crimson = 313.527/1000
+|blue = 8.958/1000
+}}
+
+==Money making guide==
+{{Mmgsection|Killing corrupted scorpions}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Sophanem Slayer Dungeon upper level.png|Corrupted scorpions in the dungeon
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[5 June]] [[2017]]|update=Menaphos - The Gates are Open|img=Corrupted scorpion (2017).png|name=Corrupted scorpion}}
+|{{GUL|date=[[3 June]] [[2024]]|update=Pride Events & Ultra+ Graphics - This Week In RuneScape|img=Corrupted scorpion.png|name=Corrupted scorpion}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Beneath Scabaras' Sands Quest Launch - This Week In RuneScape|date=13 January 2025}}
+** It is now susceptible to consecrated keris.
+
+* {{UL|type=update|update=Pride Events & Ultra+ Graphics - This Week In RuneScape|date=3 June 2024}}
+** Graphically updated all scorpions across Gielinor.
+
+* {{UL|type=patch|update=Patch Notes (10 July 2017)|date=10 July 2017}}
+** Slayer masters now state that corrupted creature tasks have no specific combat weakness.
+
+* {{UL|type=update|update=Menaphos - The Gates are Open|date=5 June 2017}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Sophanem Slayer Dungeon}}
+{{Slayer monsters}}
+{{Scorpions}}
+[[Category:Amascut]]
+[[pt:Escorpião corrompido]]

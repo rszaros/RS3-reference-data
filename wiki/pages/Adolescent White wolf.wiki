@@ -1,0 +1,111 @@
+{{Infobox Monster
+|name = Adolescent White wolf
+|image = [[File:Wolf25.png|150px]]
+|release = [[31 January]] [[2012]]
+|update = Troll Warzone
+|members = No
+|options = Attack
+|examine = A young and inexperienced, but still vicious, mountain wolf.
+|level = 6
+|lifepoints = 1300
+|slaylvl = 1
+|slayxp = 7
+|slayercat = Wolves
+|assigned_by = turael, mazchna, Vannaka
+|aggressive = No
+|poisonous = No
+|max_melee = 120
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 6
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 60
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 140
+|defence = 4
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 96
+|leagueRegion = Asgarnia
+}}
+
+An '''Adolescent White wolf''' is a [[wolf]] found on the east side of [[White Wolf Mountain]].
+
+They are intended for members new to [[Summoning]] and [[Herblore]], as they drop [[gold charm]]s and [[grimy guam]] quite commonly.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[White Wolf Mountain]]
+|lvls=6
+|mem=no
+|mapID=28
+|npcid:96,x:2861,y:3455|npcid:96,x:2868,y:3442|npcid:96,x:2869,y:3452
+|npcid:96,x:2860,y:3486|npcid:96,x:2862,y:3493|npcid:96,x:2863,y:3471
+|npcid:96,x:2867,y:3465
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|kills=100}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw wolf meat|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Adolescent White wolf}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity=4/100|approx=yes|members=yes}}
+{{DropsLine|name=Grimy tarromin|quantity=1|rarity=6/100|approx=yes|members=yes}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Money making guide==
+{{Mmgsection|Killing adolescent white wolves}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Troll Warzone|date=31 January 2012}}
+** Added to game.
+}}
+
+{{Wolves}}
+[[pt:Lobo branco adolescente]]

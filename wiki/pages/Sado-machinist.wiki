@@ -1,0 +1,107 @@
+{{Multi Infobox
+|text1 = Monster
+|item1 = 
+{{Infobox Monster
+|version1 = Grey pants
+|version2 = Red pants
+|name = Sado-machinist
+|image1 = [[File:Sado-machinist (grey pants).png]]
+|image2 = [[File:Sado-machinist.png]]
+|release = [[28 March]] [[2011]]
+|update = A Clockwork Syringe
+|members = Yes
+|race = Zombie
+|options = Attack, Examine
+|examine = You'll have to fight him off now!
+|level = 63
+|lifepoints = 2250
+|aggressive = Yes
+|poisonous = No
+|slayercat = Zombies, Undead
+|max_melee = 225
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 45
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 732
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|max_spec = 0
+|armour = 732
+|defence = 45
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id1 = 13595
+|id2 = 13597
+|leagueRegion = Morytania
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = Grey pants
+|version2 = Red pants
+|name = Sado-machinist
+|image1 = [[File:Sado-machinist (grey pants, NPC).png]]
+|image2 = [[File:Sado-machinist (red pants, NPC).png]]
+|release = [[28 March]] [[2011]]
+|update = A Clockwork Syringe
+|race = Zombie
+|members = Yes
+|quest = [[A Clockwork Syringe]]
+|location = [[Bloodsplatter Isle]]
+|map = no
+|gender = Male
+|options = Examine
+|examine = Blam him before he gets you!
+|id1 = 13594
+|id2 = 13596
+|leagueRegion = Morytania
+}}
+}}
+'''Sado-machinists''' are found on [[Bloodsplatter Isle]] during the [[A Clockwork Syringe]]. They are minions of [[Mi-Gor]], and are called to do his bidding near the end of the quest when the player reaches the room with the conveyor belts and lever.
+
+When they start climbing onto the conveyor belt and walk towards the player, using a [[Bundle o' kegs|keg]] will blast them away, leaving an open space to put down another keg to blast the conveyor belt machine to chase Mi-Gor.
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=A Clockwork Syringe|date=28 March 2011}}
+** Added to game.
+}}
+
+==Trivia==
+* Their name is a pun on {{wp|sadomasochism|sadomasochist}}, a person who enjoys giving and receiving pain.
+
+{{A Clockwork Syringe}}
+{{Zombie}}
+{{Pirates}}
+[[Category:Quest monsters]]

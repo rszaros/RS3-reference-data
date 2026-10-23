@@ -1,0 +1,172 @@
+{{Infobox Monster
+|name = Cockroach drone
+|image = [[File:Cockroach drone.png|200px]]
+|release = [[11 March]] [[2008]]
+|update = Stronghold of Player Safety
+|members = No
+|actions = Attack
+|examine = A household pest.
+|level = 4
+|lifepoints = 1200
+|experience = 60.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6
+|slayercat = Cockroaches
+|assigned_by = Vannaka
+|max_melee = 60
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 3
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 30
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 130
+|defence = 3
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 7158
+|leagueRegion=Misthalin}}
+A '''cockroach drone''' is a low levelled creature residing in the bottom and middle level of the [[Stronghold of Player Safety]]. They are generally good monsters for training for lower level players, due to their low [[life points]] and relatively decent drops for their level. However, cockroach drones are often left alone since the higher levelled cockroaches give more [[experience]] and better drops.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Stronghold of Player Safety]] crevice
+|lvls=4
+|mem=no
+|mapID=28
+|npcid:7158,x:3077,y:3461|npcid:7158,x:3078,y:3464
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Stronghold of Player Safety]] middle level
+|lvls=4
+|mem=no
+|mapID=9
+|npcid:7158,x:6,y:96|npcid:7158,x:7,y:87|npcid:7158,x:7,y:92
+|npcid:7158,x:9,y:97|npcid:7158,x:10,y:86|npcid:7158,x:10,y:91
+|npcid:7158,x:10,y:96|npcid:7158,x:23,y:91|npcid:7158,x:23,y:96
+|npcid:7158,x:24,y:86|npcid:7158,x:27,y:85|npcid:7158,x:27,y:91
+|npcid:7158,x:27,y:96
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Stronghold of Player Safety]] lower level
+|lvls=4
+|mem=no
+|mapID=9
+|npcid:7158,x:77,y:123|npcid:7158,x:77,y:129|npcid:7158,x:77,y:133
+|npcid:7158,x:78,y:114|npcid:7158,x:78,y:119|npcid:7158,x:81,y:115
+|npcid:7158,x:81,y:119|npcid:7158,x:81,y:129|npcid:7158,x:82,y:124
+|npcid:7158,x:83,y:114|npcid:7158,x:83,y:133|npcid:7158,x:84,y:121
+|npcid:7158,x:85,y:118|npcid:7158,x:85,y:124|npcid:7158,x:85,y:129
+|npcid:7158,x:87,y:134|npcid:7158,x:93,y:105|npcid:7158,x:94,y:121
+|npcid:7158,x:94,y:127|npcid:7158,x:94,y:132|npcid:7158,x:97,y:108
+|npcid:7158,x:97,y:114|npcid:7158,x:97,y:119|npcid:7158,x:97,y:129
+|npcid:7158,x:98,y:92|npcid:7158,x:98,y:104|npcid:7158,x:100,y:99
+|npcid:7158,x:100,y:123|npcid:7158,x:101,y:110|npcid:7158,x:101,y:114
+|npcid:7158,x:101,y:119|npcid:7158,x:101,y:130|npcid:7158,x:101,y:133
+|npcid:7158,x:102,y:93|npcid:7158,x:102,y:104|npcid:7158,x:102,y:125
+|npcid:7158,x:107,y:94|npcid:7158,x:116,y:99
+|leagueRegion=Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=1-7|rarity=15/128}}
+{{DropsLine|name=Water rune|quantity=1-7|rarity=15/128}}
+{{DropsLine|name=Fire rune|quantity=1-7|rarity=15/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|20/128}}
+{{DropsTableHead}}
+{{HerbDropTable|20/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+<!--Coins-->
+{{DropsLine|name=Coins|quantity=10-30|rarity=25/128}}
+<!--Salvage-->
+{{DropsLine|name=Tiny spiky bronze salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny plated bronze salvage|quantity=1|rarity=2/128}}
+<!--Skilling-->
+{{DropsLine|name=Coal stone spirit|quantity=2|rarity=10/128}}
+{{DropsLine|name=Limpwurt root|quantity=1|rarity=3/128}}
+{{DropsLine|name=Red spiders' eggs|quantity=1|rarity=2/128}}
+{{DropsLine|name=Nothing|rarity=13/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|6/128|f2p=yes}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Carapace|quantity=1|rarity=1/20}}
+{{DropsLineEffigy|level=4|members=yes}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineMimic|level=4|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|members = yes
+|quantity = 1
+|gold = 12.036/1000
+|green = 6.018/1000
+|crimson = 24.072/1000
+|blue = 0.802/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=This Week In RuneScape: Bug Fixes & More|date=17 May 2021}}
+** Since the [[Cockroach]] Soul can now be added to the Slayer Codex you'll now need to have one for the 'To Be a Master' achievement.
+
+* {{UL|type=hidden|update=This Week In RuneScape: Yak To Basics and Ninja Strike 20!|date=1 March 2021}}
+** Now assignable as a Slayer task by [[Vannaka]], and is now part of the cockroaches Slayer category.
+
+* {{UL|type=ninja|update=Patch Notes (7 August 2017)|date=7 August 2017}}
+** Cockroach drones now drop [[carapace]] in the cavern beneath the [[Stronghold of Player Safety]].
+
+* {{UL|type=patch|update=Patch Notes (9 February 2011)|date=9 February 2011}}
+** Cockroach drones's wings no longer cause their body to become invisible.
+
+* {{UL|type=patch|update=Patch Notes (24 November 2010)|date=24 November 2010}}
+** Cockroach drones now appear correctly on hills.
+
+* {{UL|type=update|update=Stronghold of Player Safety|date=11 March 2008}}
+** Added to game. 
+}}
+
+{{Cockroaches}}
+[[pt:Barata parasita]]

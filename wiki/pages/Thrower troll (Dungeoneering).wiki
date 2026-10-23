@@ -1,0 +1,115 @@
+{{Dgvariant|Thrower Troll}}
+{{Infobox Monster
+|version1 = 30
+|version2 = 51
+|version3 = 72
+|version4 = 95
+|version5 = 116
+|version6 = 138
+|name = Thrower troll
+|image = [[File:Thrower Troll (d).png|120px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|examine = Small for a troll, but mean, ugly and throws rocks.
+|level1 = 30
+|level2 = 51
+|level3 = 72
+|level4 = 95
+|level5 = 116
+|level6 = 138
+|lifepoints1 = 2200
+|lifepoints2 = 3700
+|lifepoints3 = 5200
+|lifepoints4 = 6800
+|lifepoints5 = 8300
+|lifepoints6 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Trolls, Creatures of Daemonheim
+|max_melee = 0
+|max_ranged1 = 132
+|max_ranged2 = 222
+|max_ranged3 = 312
+|max_ranged4 = 408
+|max_ranged5 = 498
+|max_ranged6 = 594
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 6
+|attack = 1
+|ranged1 = 22
+|ranged2 = 37
+|ranged3 = 52
+|ranged4 = 68
+|ranged5 = 83
+|ranged6 = 99
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged1 = 341
+|acc_ranged2 = 571
+|acc_ranged3 = 901
+|acc_ranged4 = 1409
+|acc_ranged5 = 2074
+|acc_ranged6 = 3031
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 341
+|armour2 = 571
+|armour3 = 901
+|armour4 = 1299
+|armour5 = 1486
+|armour6 = 1924
+|defence1 = 22
+|defence2 = 37
+|defence3 = 52
+|defence4 = 68
+|defence5 = 83
+|defence6 = 99
+|weakness = Stab
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10791
+|id2 = 10792
+|id3 = 10793
+|id4 = 10794
+|id5 = 10795
+|id6 = 10796
+|leagueRegion = Wilderness
+}}
+'''Thrower trolls''' are monsters found on the [[frozen floors]] of [[Daemonheim]]. They use [[ranged]], and are thus susceptible to [[melee]] attacks and resistant to [[magic]]. Like all trolls, they are very weak to [[slash]] and [[stab]] attacks, and have a slight resistance to [[crush]] attacks.
+
+==Drops==
+{{Dungeoneering droptable|headings=3}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+==Trivia==
+* These trolls, along with the other creatures in Daemonheim (such as dragons and dogs) use an updated graphical style when compared to their counterparts found elsewhere.
+* Occasionally, during combat, these trolls will exclaim "Urgh!"
+
+{{Dungeoneering monsters}}
+{{trolls}}
+[[Category:Bandosians]]

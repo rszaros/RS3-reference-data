@@ -1,0 +1,176 @@
+{{External|os|rsc=Ogre chieftan}}
+{{Needs image|chatheads for the other variants}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|name = Ogre chieftain
+|image1 = [[File:Ogre Chieftain 1.png|220px]]
+|image2 = [[File:Ogre chieftain (2).png]]
+|image3 = [[File:Ogre chieftain (3).png]]
+|release = [[7 May]] [[2003]]
+|update = New - Watch Tower Quest!
+|level = 81
+|experience = 612.0
+|lifepoints = 11600
+|slaylvl = 1
+|slayxp = 200
+|slayercat = Ogres
+|assigned_by = 
+|members = Yes
+|aggressive = No
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style = melee
+|primarystyle1 = melee
+|primarystyle2 = melee
+|primarystyle3 = melee
+|speed = 4
+|max_melee = 278
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|weakness = Water
+|options = Talk to, Attack
+|examine = Tough-looking.
+|attack = 58
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|defence = 58
+|armour = 1070
+|acc_melee = 1070
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|abilities = 
+|leagueRegion = Kandarin
+|id1 = 852
+|id2 = 5174
+|id3 = 8660
+}}
+[[File:Ogre chieftain chathead.png|left|100px]]
+The '''ogre chieftain''' is an ogre that can be found in the [[Feldip Hills]]. They can also be found guarding and inside the [[Ogre Enclave]]. These have a slow respawn, high life points, hit frequently and have very few drops making them not very good to train on. Killing normal [[ogres]] instead would be recommended.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = Outside of [[Ogre Enclave]]
+|lvls = 81
+|mem = Yes
+|requirements = Partial completion of {{QuestIcon|Watchtower}}
+|mapID = 28
+|plane = 0
+|npcid:852,x:2505,y:3032
+|npcid:852,x:2512,y:3022
+|npcid:852,x:2518,y:3041
+|npcid:852,x:2528,y:3044
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc = [[Feldip Hills]]
+|lvls = 81
+|mem = Yes
+|mapID = 28
+|plane = 0
+|npcid:852,x:2615,y:2987
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc = [[Ogre Enclave]]
+|lvls = 81
+|mem = Yes
+|requirements = Partial completion of {{QuestIcon|Watchtower}}
+|mapID = 572
+|plane = 0
+|npcid:852,x:2568,y:9432
+|npcid:852,x:2573,y:9447
+|npcid:852,x:2579,y:9441
+|npcid:852,x:2580,y:9431
+|npcid:852,x:2611,y:9454
+|npcid:852,x:2616,y:9447
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|19/128}} ''There is an additional 2/128 chance of morchella spores and 2/128 of a fellstalk seed.''
+{{DropsTableHead}}
+{{DropsLine|name=Morchella mushroom spore|quantity=3|rarity=2/128}}
+{{DropsLine|name=Fellstalk seed|quantity=1|rarity=2/128}}
+{{UncommonSeedDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=105/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Ogre concept art.png|thumb|Concept art showing Ogre chieftains with various other ogres.
+</gallery>
+
+==Graphical updates==
+===NPC===
+{{GU|subject=npc
+|{{GUL|beta=yes|img=Ogre chieftain (RS2 beta).png|name=Ogre chieftain}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Ogre chieftain (2004).png|name=Ogre chieftain}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Ogre chieftain (2006).png|name=Ogre chieftain}}
+|{{GUL|date=|update=|img=Ogre Chieftain 1.png|name=Ogre chieftain}}
+}}
+
+===Chatheads===
+{{GU|subject=chatheads
+|{{GUL|beta=yes|img=Ogre chieftain chathead (RS2 beta).png|name=Ogre chieftain}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Ogre chieftain chathead (2004).png|name=Ogre chieftain}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Ogre chieftain chathead (2006).png|name=Ogre chieftain}}
+|{{GUL|date=|update=|img=Ogre chieftain chathead.png|name=Ogre chieftain}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=update|update=New - Watch Tower Quest!|date=7 May 2003}}
+** Added to game.
+}}
+
+==Trivia==
+* On [[17 March]] [[2009]] the ogre chieftain received a graphical rework.
+
+{{Ogres}}
+{{Chiefs}}
+{{Watchtower}}
+[[Category:Bandosians]]

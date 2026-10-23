@@ -1,0 +1,98 @@
+{{External|os|rsc}}
+{{Infobox Monster
+|name = Poison Scorpion
+|image = [[File:Poison Scorpion.png|250px]]
+|release = [[27 February]] [[2002]]
+|update = Latest RuneScape News (27 February 2002)
+|members = Yes
+|options = Attack
+|examine = It has a very vicious-looking tail.
+|level = 49
+|lifepoints = 5650
+|slaylvl = 1
+|slayxp = 21.6
+|experience = 282.5
+|aggressive = No
+|poisonous = 400
+|slayercat = Scorpions
+|assigned_by = Turael, Vannaka
+|max_melee = 700
+|max_ranged = 700
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 35
+|ranged = 35
+|magic = 1
+|necromancy = 1
+|acc_melee = 436
+|acc_ranged = 436
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 536
+|defence = 35
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia,Karamja
+|id = 108
+}}
+'''Poison Scorpions''' are found in [[Taverley Dungeon]] and [[Brimhaven]]. They are poisonous, and their [[poison]] can hit up to 30 life points. Poison Scorpions do not drop any items.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Brimhaven]]
+|lvls=49
+|mem=yes
+|mapID=28
+|npcid:108,x:2715,y:3218|npcid:108,x:2719,y:3223|npcid:108,x:2720,y:3212
+|npcid:108,x:2722,y:3220|npcid:108,x:2724,y:3215|npcid:108,x:2728,y:3223
+|npcid:108,x:2734,y:3220
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Taverley Dungeon]]
+|lvls=49
+|mem=yes
+|mapID=17
+|npcid:108,x:2929,y:9752|npcid:108,x:2934,y:9775|npcid:108,x:2935,y:9758
+|npcid:108,x:2935,y:9769|npcid:108,x:2941,y:9778
+|leagueRegion = Asgarnia}}
+{{LocTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[8 May]] [[2007]]|update=Small spiders, kalphites, scorpions and metal dragons|img=Poison Scorpion old.png|name=Poison Scorpion}}
+|{{GUL|date=[[22 July]] [[2014]]|update=Patch Notes (22 July 2014)|img=Poison Scorpion (July 2014).png|name=Poison Scorpion}}
+|{{GUL|date=[[3 June]] [[2024]]|update=Pride Events & Ultra+ Graphics - This Week In RuneScape|img=Poison Scorpion.png|name=Poison Scorpion}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Pride Events & Ultra+ Graphics - This Week In RuneScape|date=3 June 2024}}
+** Graphically updated all scorpions across Gielinor.
+
+* {{UL|type=patch|update=Patch Notes (18 March 2013)|date=18 March 2013}}
+** [[Grotworm]]s, [[moss giant]]s, [[banshee]]s, [[jungle spider]]s, [[shadow spider]]s, [[spider]]s, [[giant spider]]s, [[deadly red spider]]s, [[ice spider]]s, [[scorpion]]s, poison scorpions and [[pit scorpion]] will no longer hit for 1 hit point worth of damage.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+{{Scorpions}}

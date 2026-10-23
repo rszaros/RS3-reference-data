@@ -1,0 +1,74 @@
+{{Infobox Monster
+|name = Scarab swarm
+|image = [[File:Scarab swarm (Pyramid Plunder).png]]
+|release = [[17 July]] [[2006]]
+|update = Pyramid Plunder
+|members = Yes
+|options = Attack, Examine
+|race = Scabarites
+|examine = I think they're some kind of beetle.
+|level = 112
+|lifepoints = 2500
+|experience = 125
+|aggressive = No
+|poisonous = 40
+|slaylvl = 1
+|slayxp =
+|slayercat = Scabarites
+|max_melee = 100
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 1
+|attack = 90
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1694
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 0
+|defence = 1
+|weakness = Crushing
+|susceptibility = Keris
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|leagueRegion = Desert
+|id = 4500
+}}
+'''Scarab swarm''' is a [[monster]] which occasionally spawns when searching the [[grand gold chest]] in [[Jalsavrah Pyramid]] during [[Pyramid Plunder]]; the frequency is reduced when the [[hard Desert achievements]] have been completed. These scarab swarms are higher level and attack significantly faster, hitting once every [[game tick]] (0.6 seconds), making them much more likely to inflict poison.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (13 May 2010)|date=13 May 2010}}
+** Scarab swarms in Pyramid Plunder have had their stats reduced to bring them back into line with how they were originally.
+
+* {{UL|type=patch|update=Patch Notes (1 February 2010)|date=1 February 2010}}
+** Small scarabs have been given a death animation again.
+
+* {{UL|type=update|update=Desert Month Finale|date=26 April 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The scarab swarms in [[Pyramid Plunder]] were graphically updated on [[5 June]] [[2017]]. The other variants of the monster and [[scarabs]] still use the old model.
+
+{{Pyramid Plunder}}

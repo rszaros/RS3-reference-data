@@ -1,0 +1,369 @@
+{{External|os}}
+{{Otheruses|the killable monster|the NPC|Turoth (Meg's cases)}}
+{{Infobox Monster
+|defver = 2
+|version1 = 60 (Small)
+|version2 = 60 (Large)
+|version3 = 68 (Male)
+|version4 = 68 (Male, lighter)
+|version5 = 68 (Male, darker)
+|version6 = 68 (Female)
+|name = Turoth
+|image1 = [[File:Turoth (young).png|150px]]
+|image2 = [[File:Turoth.png|150px]]
+|image3 = [[File:Turoth (male).png|200px]]
+|image4 = [[File:Turoth (male, 2).png|200px]]
+|image5 = [[File:Turoth (male, 3).png|200px]]
+|image6 = [[File:Turoth (female).png|200px]]
+|release = [[26 January]] [[2005]]
+|update = Slayer Skill
+|members = Yes
+|options = Attack, Examine
+|examine1 = It's one small leg short!
+|examine2 = It's one leg short!
+|examine3 = He's one big leg short!
+|examine4 = He's one big leg short!
+|examine5 = He's one big leg short!
+|examine6 = She's one leg short!
+|level1 = 60
+|level2 = 60
+|level3 = 68
+|level4 = 68
+|level5 = 68
+|level6 = 68
+|lifepoints1 = 3600
+|lifepoints2 = 3600
+|lifepoints3 = 4200
+|lifepoints4 = 4200
+|lifepoints5 = 4200
+|lifepoints6 = 4200
+|aggressive = No
+|poisonous = No
+|slaylvl = 55
+|slayxp1 = 52
+|slayxp2 = 52
+|slayxp3 = 70.8
+|slayxp4 = 70.8
+|slayxp5 = 70.8
+|slayxp6 = 70.8
+|slayercat = Turoth
+|max_melee1 = 840
+|max_melee2 = 840
+|max_melee3 = 960
+|max_melee4 = 960
+|max_melee5 = 960
+|max_melee6 = 960
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 42
+|attack2 = 42
+|attack3 = 48
+|attack4 = 48
+|attack5 = 48
+|attack6 = 48
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 568
+|acc_melee2 = 568
+|acc_melee3 = 701
+|acc_melee4 = 701
+|acc_melee5 = 701
+|acc_melee6 = 701
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 668
+|armour2 = 668
+|armour3 = 850
+|armour4 = 850
+|armour5 = 850
+|armour6 = 850
+|defence1 = 44
+|defence2 = 44
+|defence3 = 50
+|defence4 = 50
+|defence5 = 50
+|defence6 = 50
+|weakness = Air
+|susceptibility = Leaf-bladed
+|derived_susceptibility = No
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 1628
+|id2 = 1627
+|id3 = 1623
+|id4 = 1629
+|id5 = 1630
+|id6 = 1626
+|dropversion1=Level 60
+|dropversion2=Level 60
+|dropversion3=Level 68
+|dropversion4=Level 68
+|dropversion5=Level 68
+|dropversion6=Level 68
+|leagueRegion=Desert, Wilderness, Fremennik}}
+[[File:Turoth icon.png|left]]
+'''Turoths''' are Slayer monsters that require a [[Slayer]] level of 55 to kill. They frequently drop [[herb]]s and [[herb seed]]s. Turoths, like [[Kurasks]], must be killed with specific items for each combat style - [[leaf-bladed sword]] or [[leaf-bladed spear]] for melee; [[broad arrows]], [[broad bolts]], [[royal bolt]]s, or [[ascension bolt]]s for ranged; and a weapon that can cast [[Slayer Dart]] for magic. Necromancy does not affect Turoths.
+
+Killing Turoths with [[seedicide]] set to destroy all seeds is a common method for [[Farming training#Active methods|active Farming training]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Turoth
+|loc = [[Fremennik Slayer Dungeon]]
+|mem = Yes
+|mapID = 5
+|plane = 0
+|lvls = 60, 68
+|npcid:1628,x:2719,y:10011
+|npcid:1628,x:2724,y:10013
+|npcid:1628,x:2725,y:10012
+|npcid:1628,x:2726,y:10010
+|npcid:1628,x:2726,y:10013
+|npcid:1628,x:2727,y:9995
+|npcid:1628,x:2727,y:10011
+|npcid:1628,x:2728,y:9996
+|npcid:1628,x:2728,y:9997
+|npcid:1627,x:2717,y:10007
+|npcid:1627,x:2718,y:10008
+|npcid:1627,x:2720,y:10003
+|npcid:1627,x:2721,y:10009
+|npcid:1627,x:2721,y:10014
+|npcid:1627,x:2723,y:10002
+|npcid:1627,x:2723,y:10010
+|npcid:1627,x:2724,y:9996
+|npcid:1627,x:2725,y:9995
+|npcid:1623,x:2718,y:10006
+|npcid:1626,x:2721,y:10003
+|npcid:1626,x:2722,y:10008
+|npcid:1626,x:2723,y:9994
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|name = Turoth
+|loc = [[Chaos Tunnels]]
+|mem = Yes
+|mapID = 23
+|plane = 0
+|lvls = 60, 68
+|npcid:1628,x:3153,y:5536
+|npcid:1628,x:3159,y:5539
+|npcid:1628,x:3164,y:5537
+|npcid:1628,x:3166,y:5540
+|npcid:1628,x:3167,y:5537
+|npcid:1623,x:3154,y:5538
+|npcid:1626,x:3165,y:5538
+|npcid:1629,x:3157,y:5537
+|npcid:1629,x:3161,y:5539
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|name = Turoth
+|loc = [[Pollnivneach Slayer Dungeon]]
+|mem = Yes
+|mapID = 22
+|plane = 0
+|lvls = 60, 68
+|npcid:1628,x:106,y:34
+|npcid:1628,x:109,y:42
+|npcid:1628,x:118,y:29
+|npcid:1628,x:121,y:36
+|npcid:1627,x:109,y:29
+|npcid:1627,x:109,y:39
+|npcid:1627,x:114,y:33
+|npcid:1627,x:115,y:44
+|npcid:1627,x:120,y:41
+|npcid:1627,x:123,y:34
+|npcid:1623,x:103,y:7
+|npcid:1623,x:112,y:20
+|npcid:1623,x:114,y:25
+|npcid:1623,x:128,y:17
+|npcid:1626,x:106,y:38
+|npcid:1626,x:108,y:3
+|npcid:1626,x:108,y:13
+|npcid:1626,x:117,y:16
+|npcid:1626,x:123,y:23
+|npcid:1629,x:99,y:3
+|npcid:1629,x:99,y:26
+|npcid:1629,x:114,y:38
+|npcid:1629,x:115,y:3
+|npcid:1630,x:100,y:15
+|npcid:1630,x:107,y:18
+|npcid:1630,x:122,y:12
+|leagueRegion = Desert
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always|raritynotes={{DropNote|If a hard clue scroll is dropped, it replaces the bones drop.}}}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+These roll in this order before the rest of the drops and will prevent the rest of the drops if successful (except charms and bones - though clue scrolls prevent bones).
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128|raritynotes={{DropNote|name=limpclue|A hard clue scroll is always dropped alongside an unnoted limpwurt root drop. Prevents bones drop.}}}}
+{{DropsLine|name=Limpwurt root|quantity=1|rarity=1/128|raritynotes={{DropNote|name=limpclue}}}}
+{{DropsLine|name=Light mystic robe bottom|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|1/496 with tier 2 or higher [[luck]] active.}}}}
+{{DropsLine|name=Turoth boots|quantity=1|rarity=1/512|altrarity=1/360|altrarity2=1/496|altrarity3=1/349|raritynotes={{DropNote|While not on an applicable Slayer task: 1/512, 1/496 with tier 2 or higher [[luck]] active. While on-task: 1/360, 1/349 with tier 2 luck.}}}}
+{{DropsLine|name=Leaf-bladed sword|quantity=1|rarity=1/2048|raritynotes={{DropNote|1/1024 to choose one of the two swords. 1/1013 for either sword (1/2026 for specific) if tier 2 or higher luck is active.|name=lbswords}}|altrarity=1/2026}}
+{{DropsLine|name=Off-hand leaf-bladed sword|quantity=1|rarity=1/2048|raritynotes={{DropNote|name=lbswords}}|altrarity=1/2026}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Earth battlestaff|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|22/128}}
+{{DropsTableHead}}
+{{HerbDropTable|22/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|14/128}} ''There is an additional 10/128 chance of rolling morchella mushroom spores.''
+{{DropsTableHead}}
+{{DropsLine|name=Morchella mushroom spore|quantity=3|rarity=10/128}}
+{{RareSeedDropTable|14/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=10/128}}
+{{DropsLine|name=Tiny spiky rune salvage|quantity=1|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1300-1900|rarity=20/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=3000|rarity=8/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=2|rarity=8/128}}
+{{DropsLine|name=Limpwurt root|quantity=1 (noted)|rarity=8/128}}
+{{DropsLine|name=Snape grass|quantity=4 (noted)|rarity=8/128}}
+{{DropsLine|name=Raw potato|quantity=1-5|rarity=1/128}}
+{{DropsLine|name=Spirit weed seed|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|10/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Fibula bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=no}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=68|version=Level 68}}
+{{DropsLineMimic|level=60|version=Level 60}}
+{{DropsLineEffigy|level=68|version=Level 68}}
+{{DropsLineEffigy|level=60|version=Level 60}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity=1
+|gold=73.511/1000
+|green=220.534/1000
+|crimson=55.133/1000
+|blue=11.027/1000
+}}
+
+==Achievements==
+* {{Achievement|The Start of Something New}} 
+** [[Light mystic robe bottom]], [[turoth boots]], and [[Leaf-bladed sword|main]] and [[off-hand leaf-bladed sword]] drops
+
+==Gallery==
+<gallery mode="packed">
+Turoth concept art.png|Concept art for Turoths
+Turoths (Fremennik Slayer Dungeon).png|Turoths in the [[Fremennik Slayer Dungeon]]
+</gallery>
+
+==Graphical updates==
+{{Switch infobox
+|text1 = 60 (Small)
+|item1 = {{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Turoth (young) (2005).png|name=Turoth}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Turoth (young) (June 2008).png|name=Turoth}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Turoth (young).png|name=Turoth}}
+}}
+|text2 = 60 (Large)
+|item2 = {{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Turoth (2005).png|name=Turoth}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Turoth (June 2008).png|name=Turoth}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Turoth.png|name=Turoth}}
+}}
+|text3 = 68 (Male)
+|item3 ={{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Turoth (male) (2005).png|name=Turoth}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Turoth (male) (June 2008).png|name=Turoth}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Turoth (male).png|name=Turoth}}
+}}
+|text4 = 68 (Female)
+|item4 = {{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Turoth (female) (2005).png|name=Turoth}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Turoth (female) (June 2008).png|name=Turoth}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Turoth (female).png|name=Turoth}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=July Quest Qol and Game Health Update - This Week In RuneScape|date=14 July 2025}}
+** Added new sources for [[spirit weed seed|Spirit Weed Seeds]], [[inert adrenaline crystal|Inert Adrenaline Crystals]] and [[sirenic scale|Sirenic Scales]] across various [[Slayer]] monsters:
+*** Spirit Weed seeds - [[Automaton (monster)|Automatons]], [[Strykewyrm]]s, Turoths, [[gemstone dragon|Gemstone Dragons]] (on task), [[brutisch dinosaur|Brutish Dinosaurs]], [[Grotworm]]s, [[moss giant|Moss Giants]], [[flesh crawler|Flesh Crawlers]], [[Cockatrice]]s, [[Kurask]] and [[seed drop table|Rare Seed Drop Table]].
+
+* {{UL|type=patch|update=March Patch Week - This Week In RuneScape|date=11 March 2024}}
+** Small Turoths had 42 Ranged instead of Attack, this has been corrected.
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended, for example:
+*** Turoths have been changed from ranged to melee monsters.
+**** Life points decreased from 9,850 to 4,200.
+**** Maximum hit decreased from 1,140 to 960.
+
+* {{UL|type=patch|update=Patch Notes (4 March 2013)|date=4 March 2013}}
+** An issue with generic weapons causing damage to Turoths and [[Kurask]]s who should otherwise be immune has been fixed.
+
+* {{UL|type=patch|update=Patch Notes (11 December 2012)|date=11 December 2012}}
+** Turoths no longer have incorrect stats.
+
+* {{UL|type=patch|update=Patch Notes (23 September 2009)|date=23 September 2009}}
+** Fixed some ground near the turoths in the [[Fremennik Slayer Dungeon]].
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Turoths seem to have different ages which represents their combat level. The two lower-levelled turoths are pale white, while the remaining two have darker-coloured skin. These latter two also appear to have genders, as their examine texts refer to them as "he" and "she" rather than "it".
+
+{{Slayer monsters}}
+[[Category:Tier 2 luck]]
+[[pt:Turoth]]

@@ -1,0 +1,115 @@
+{{External|os=Bear Cub}}
+{{See also|Grizzly bear cub}}
+{{Infobox Monster
+|name = Bear cub
+|image = [[File:Bear cub.png]]
+|release = [[2 November]] [[2004]]
+|update = The Fremennik Trials
+|members = No
+|options = Attack, Examine
+|examine = Cute. But deadly.
+|level = 21
+|lifepoints = 1300
+|slaylvl = 1
+|slayxp = 7.6
+|experience = 65.0
+|aggressive = No
+|poisonous = No
+|slayercat = Bears
+|assigned_by = turael, mazchna, Vannaka
+|max_melee = 300
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 15
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 157
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 257
+|defence = 15
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1326, 1327
+|leagueRegion=Havenhythe, Fremennik}}
+[[File:Bear icon.png|left]]
+A '''bear cub''' is a smaller version of a [[bear]]. They are found near larger bears (likely their mother) that are a higher level than the cub itself.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Highweald Forest]]
+|lvls=21
+|mem=No
+|requirements={{QuestIcon|Visions of Havenhythe}} (partial)
+|mapID=28
+|npcid:1326,x:4305,y:3459
+|leagueRegion=Havenhythe
+}}
+{{LocLine
+|loc=Southeast of [[Rellekka]]
+|lvls=21
+|mem=yes
+|mapID=28
+|npcid:1326,x:2689,y:3612|npcid:1327,x:2691,y:3610|npcid:1326,x:2691,y:3614
+|npcid:1327,x:2693,y:3612|npcid:1326,x:2719,y:3643|npcid:1327,x:2721,y:3641
+|npcid:1327,x:2721,y:3646|npcid:1326,x:2723,y:3643
+|leagueRegion=Fremennik
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|kills=460}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npcs
+|{{GUL|date=|update=|img=Bear Cub old.png|name=Bear Cub}}
+|{{GUL|date=|update=|img=Bear cub.png|name=Bear Cub}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Out Now|date=23 March 2026}}
+** Added to [[Highweald Forest]].
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Community Hitlist and Necromancy Embargo - This Week In RuneScape|date=22 January 2024}}
+** Black bears and grizzly bears, including their cubs, have been graphically updated.
+
+* {{UL|type=hidden|update=Community Hitlist and Necromancy Embargo - This Week In RuneScape|date=22 January 2024}}
+** Renamed from Bear Cub to Bear cub.
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the Personal Slayer Dungeon.
+*** This includes bears.
+
+* {{UL|type=update|update=The Fremennik Trials|date=2 November 2004}}
+** Added to game.
+}}
+
+{{Bears}}
+{{Highweald Forest}}

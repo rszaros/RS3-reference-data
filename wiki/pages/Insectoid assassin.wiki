@@ -1,0 +1,72 @@
+{{Infobox Monster
+|name = Insectoid assassin
+|image = [[File:Insectoid Assassin.png|Insectoid Assassin|200px]]
+|release = [[5 June]] [[2008]]
+|update = Smoking Kills
+|members = Yes
+|actions = Attack
+|examine = It's not so passive now.
+|level = 81
+|lifepoints = 2900
+|experience = 145.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Scabarites
+|assigned_by = sumona, duradel
+|max_melee = 174
+|max_ranged = 232
+|max_magic = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 43
+|ranged = 58
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 735
+|acc_ranged = 1070
+|acc_magic = 0
+|armour = 1070
+|defence = 58
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|restriction = quest
+|id = 7795
+|leagueRegion = Desert
+}}
+[[File:Insectoid assassin chathead.png|left|80px]]
+'''Insectoid assassins''' are [[Scabarites]] encountered during the [[Smoking Kills]] [[quest]]. Turned from the true path of [[Scabaras]], they now serve [[Amascut]], the Devourer.
+
+Four Assassins are encountered during the quest's final battle, alongside the [[Banshee Mistress]]. When the Mistress reaches half health, the Assassins will begin to attack the players with rapid [[Ranged]] attacks from the corner of the room.
+
+==Habitat==
+* [[Pollnivneach Slayer Dungeon]] (during [[Smoking Kills]] only)
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Smoking Kills|date=5 June 2008}}
+** Added to game.
+}}
+
+{{Smoking Kills}}
+[[Category:Quest monsters]]
+[[Category:Amascut]]

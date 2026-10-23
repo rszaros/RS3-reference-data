@@ -1,0 +1,105 @@
+{{Deleted content}}
+{{Infobox Monster
+|version1 = Standard
+|version2 = Taverley/Burthorpe
+|name = Vanilla cow
+|image = [[File:Vanilla cow (monster).png|300px]]
+|release = [[28 August]] [[2018]]
+|update = Double XP Weekend, Balthazar's Big Raffle and Patches Galore!
+|removal = [[3 September]] [[2018]]
+|removalupdate = Player Owned Farm
+|level1 = 4
+|level2 = 1
+|experience1 = 25.5
+|experience2 = 5
+|lifepoints1 = 150
+|lifepoints2 = 25
+|slaylvl = 1
+|slayxp1 = 6.6
+|slayxp2 = 6.4
+|slayercat = Cows
+|assigned_by = Turael, Spria
+|members = No
+|aggressive = No
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style = melee
+|speed = 4
+|max_melee1 = 12
+|max_melee2 = 1
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|weakness1 = Earth
+|weakness2 = Air
+|actions = Attack
+|examine = Beefy.
+|attack1 = 3
+|attack2 = 1
+|ranged = 1
+|magic = 1
+|defence1 = 3
+|defence2 = 1
+|armour1 = 1130
+|armour2 = 110
+|acc_melee1 = 130
+|acc_melee2 = 110
+|acc_ranged = 0
+|acc_magic = 0
+|aff_weakness1 = 80
+|aff_weakness2 = 90
+|aff_melee1 = 60
+|aff_melee2 = 55
+|aff_ranged1 = 50
+|aff_ranged2 = 45
+|aff_magic1 = 70
+|aff_magic2 = 65
+|restriction = removed
+|histid1 = 397
+|leagueRegion=N/A}}
+'''Vanilla cows''' could be found instead of regular [[cow]]s in all areas (except Zanaris) as a [[teaser]] for the [[player-owned farm]] a week prior to its release.
+
+==Locations==
+* [[Lumbridge]] farm
+* North of the windmill north-west of [[Lumbridge]] (around [[Beefy Bill]])
+* [[Yanille]]
+* [[Sinclair Mansion]]
+* Around the west and south sides of the [[Crafting Guild]]
+* South of [[Falador]], north-west of the cabbage patch
+* West of [[Legends' Guild]], north of Ardougne
+* [[Taverley]] cow pens
+** West of the [[Stone Circle]]
+** West of the [[Pet Shop]]
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Cowhide|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw beef|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Cow}}
+
+===Main drops===
+{{DropsTableHead}}
+{{DropsLine|name=Chargebow|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Staff of air|quantity=1|rarity=Rare}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Double XP Weekend, Balthazar's Big Raffle and Patches Galore!|date=28 August 2018}}
+** Added to game.
+}}
+
+{{Player-owned farm}}

@@ -1,0 +1,206 @@
+{{Otheruses|level 98 Grotworms|other types of Grotworms|Grotworm (disambiguation)}}
+{{Incomplete|Spirit weed seeds added to Grotworms drop table(s) [[https://secure.runescape.com/m=news/july-quest-qol-and-game-health-update---this-week-in-runescape|July Quest Qol and Game Health Update - This Week In RuneScape]]}}
+{{Infobox Monster
+|name = Mature grotworm
+|image = [[File:Mature Grotworm.png|250px]]
+|release = [[22 May]] [[2012]]
+|update = Song from the Depths
+|members = Yes
+|options = Attack
+|examine = The final stage of a grotworm before its metamorphosis.
+|level = 98
+|lifepoints = 12800
+|experience = 640.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 343.6
+|slayercat = Grotworms
+|assigned_by = Turael, Mazchna, Vannaka, Chaeldar, Sumona, Duradel, Kuradal, Morvran
+|max_melee = 1400
+|max_ranged = 0
+|max_magic = 1400
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 70
+|ranged = 1
+|magic = 70
+|necromancy = 1
+|acc_melee = 1386
+|acc_ranged = 0
+|acc_magic = 1386
+|acc_necromancy = 0
+|armour = 1486
+|defence = 70
+|weakness = Bolts
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia,Tirannwn
+|id = 15463
+}}
+[[File:Grotworm icon.png|left]]
+'''Mature grotworms''' are monsters that can be found on the bottom level of the [[Grotworm Lair]]. They have slow, but accurate and hard-hitting magic and melee attacks. However, they only use magic at a distance and only melee up close (they do not move closer to use melee), similar to monsters such as [[metal dragons]].
+
+The magic attack has a range of 7, so is possible to [[safe spot]] them using the pillars with [[Ranged]] or [[Magic]] if you stand far enough away. Lower-level players are recommended to bring high healing food such as [[monkfish]] or [[shark]]s.
+
+Using high level ranged gear such as [[Armadyl equipment]] and using a [[bunyip]] will reduce the need for prayer potions/flasks. The occasional Shark drops will reduce the need for food, and ranged gear will mean little damage from the mature grotworms' magic attack while ranging.
+
+If a player tries to set up a [[cannon]] within the [[Grotworm Lair]], they will receive a message saying: "The damp air would prevent your cannon operating." This does not prevent [[hand cannons]] from working, however.
+
+Some players may find it useful to bring runes to cast [[High Level Alchemy]] on the items dropped by the grotworms, as adamant and rune salvage are common drops. The profit of using this spell on some of these items is greater than banking and selling them. Alternatively, players could disassemble the drops for [[Invention]] experience and materials.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Grotworm Lair]]
+|lvls=98
+|mem=yes
+|mapID=43
+|npcid:15463,x:1097,y:6242|npcid:15463,x:1100,y:6253|npcid:15463,x:1101,y:6225
+|npcid:15463,x:1104,y:6240|npcid:15463,x:1105,y:6232|npcid:15463,x:1109,y:6221
+|npcid:15463,x:1111,y:6250|npcid:15463,x:1117,y:6221|npcid:15463,x:1123,y:6217
+|npcid:15463,x:1123,y:6231|npcid:15463,x:1130,y:6228|npcid:15463,x:1132,y:6239
+|npcid:15463,x:1137,y:6232|npcid:15463,x:1139,y:6243|npcid:15463,x:1141,y:6252
+|npcid:15463,x:1155,y:6251|npcid:15463,x:1156,y:6236|npcid:15463,x:1159,y:6246
+|npcid:15463,x:1164,y:6234|npcid:15463,x:1168,y:6242|npcid:15463,x:1169,y:6252
+|npcid:15463,x:1179,y:6235|npcid:15463,x:1179,y:6249|npcid:15463,x:1182,y:6242
+|npcid:15463,x:1187,y:6251|npcid:15463,x:1190,y:6240|npcid:15463,x:1197,y:6234
+|npcid:15463,x:1199,y:6250
+|leagueRegion=Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+''These drops roll before the main drops (after charms) and become the main drop. Royal capes may be accompanied by the rare drop table, but clues cannot be.''
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/120}}
+{{DropsLine|name=Royal cape|quantity=1|rarity=1/2048|altrarity=1/1987|raritynotes={{DropNote|1/1987 with tier 2 or higher [[luck]] active.}}}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|8/87}}
+{{DropsTableHead}}
+{{HerbDropTable|8/87}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|2/87}} ''There is an additional 2/87 chance to roll for fellstalk seeds.''
+{{DropsTableHead}}
+{{DropsLine|name=Fellstalk seed|quantity=2|rarity=2/87}}
+{{RareSeedDropTable|2/87}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Shark|quantity=2|rarity=6/87}}
+{{DropsLine|name=Saradomin brew (2)|quantity=1|rarity=4/87}}
+{{DropsLine|name=Super restore (2)|quantity=1|rarity=12/87}}
+{{DropsTableBottom}}
+
+===Spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Adamantite stone spirit|quantity=3|rarity=4/87}}
+{{DropsLine|name=Runite stone spirit|quantity=1|rarity=6/87}}
+{{DropsLine|name=Magic wood spirit|quantity=2|rarity=7/87}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=4/87}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=5/87}}
+{{DropsLine|name=Tiny blunt rune salvage|quantity=1|rarity=4/87}}
+{{DropsLine|name=Tiny spiky rune salvage|quantity=1|rarity=4/87}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=4/87}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=5000|rarity=7/87}}
+{{DropsLine|name=Flax|quantity=50 (noted)|rarity=5/87}}
+{{DropsLine|name=Royal dragonhide|quantity=1|rarity=3/87}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Rare drop table|quantity=1|rarity=1/250|altrarity=1/247|raritynotes={{DropNote|1/247 with tier 2 or higher [[luck]] active.}}}}
+{{DropsLineBoneFragments|slayer_level=1}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5}}
+{{DropsLineEffigy|level=98}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=98}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 27.993/1000
+|green = 13.997/1000
+|crimson = 89.579/1000
+|blue = 5.599/1000
+}}
+
+===Rare drop table===
+{{Rare drop table|1/250}}
+
+==Money making guide==
+{{Mmgsection|Killing mature grotworms}}
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}} 
+** [[Royal cape]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=July Quest Qol and Game Health Update - This Week In RuneScape|date=14 July 2025}}
+** Added new sources for [[spirit weed seed|Spirit Weed Seeds]], [[inert adrenaline crystal|Inert Adrenaline Crystals]] and [[sirenic scale|Sirenic Scales]] across various [[Slayer]] monsters:
+*** Spirit Weed seeds - [[Automaton (monster)|Automatons]], [[Strykewyrm]]s, [[Turoth]]s, [[gemstone dragon|Gemstone Dragons]] (on task), [[brutisch dinosaur|Brutish Dinosaurs]], [[Grotworm]]s, [[moss giant|Moss Giants]], [[flesh crawler|Flesh Crawlers]], [[Cockatrice]]s, [[Kurask]] and [[seed drop table|Rare Seed Drop Table]].
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[small plated adamant salvage]] drop with [[magic wood spirit]]s.
+
+* {{UL|type=patch|update=Patch Notes (19 August 2019)|date=19 August 2019}}
+** Grotworms are able to damage the player once again.
+
+* {{UL|type=patch|update=Patch Notes (8 May 2018)|date=8 May 2018}}
+** Corrected an error in mature grotworm's drop table which meant [[super restore]]s never dropped and [[Saradomin brew]]s dropped too often.
+
+* {{UL|type=update|update=Song from the Depths|date=22 May 2012}}
+** Added to game.
+}}
+
+==Trivia==
+* When these creatures were first released, they did not drop items from the rare drop table, but did after the [[Queen Black Dragon]] update.
+* The word 'grotworm' means caveworm in Dutch.
+* Their examine text hints towards the possibility of the existence of a stronger grotworm based creature, although likely not an actual worm as "metamorphosis" implies, but none were released with them.
+* On [[17 June]] [[2013]], these monsters received a massive power increase. Their life points more than tripled, their accuracy was increased greatly, and their damage output was made substantially higher. This considerably decreased the amount of botting and people in general coming to the grotworms for money. They were level 120 with 3000 life points before this update.
+* On the same 17 June 2013 update, the slayer experience rewarded increased from 73 to 360.5, to compensate for their increased strength.
+* Due to excessive botting, an update on [[7 August]] [[2012]] removed several rune armour drops from the drop table of mature grotworms, replacing them with their adamant counterparts, making it less effective to earn money. The same update also removed [[royal bolts]] and [[Super restore|super restore potions]] from their drop tables.
+
+{{QBD}}
+[[Category:NPCs that can move at crawling speed]]

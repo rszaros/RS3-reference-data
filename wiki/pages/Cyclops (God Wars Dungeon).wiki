@@ -1,0 +1,206 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|name = Cyclops
+|image1 = [[File:Cyclops GWD.png|150px]]
+|image2 = [[File:Cyclops GWD2.png|150px]]
+|release = [[28 August]] [[2007]]
+|update = God Wars Dungeon
+|members = Yes
+|options = Attack, Examine
+|race = Cyclops
+|examine1 = A one-eyed man-eater.
+|examine2 = A one-eyed man-eater.
+|level = 91
+|lifepoints = 9750
+|experience = 487.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 281.8
+|slayercat = Cyclopes
+|max_melee = 325
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack = 65
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1299
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 1299
+|defence = 65
+|weakness = Earth
+|susceptibility =
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|id1 = 6269
+|id2 = 6270
+|leagueRegion=Asgarnia}}
+'''Cyclopes''' are monsters found in the [[God Wars Dungeon]], where they fight for [[Bandos]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[God Wars Dungeon]]
+|lvls=91
+|mem=yes
+|requirements = {{Skillreq|Strength|70}}
+|mapID=15
+|npcid:6269,x:2832,y:5325|npcid:6270,x:2832,y:5352|npcid:6270,x:2834,y:5321
+|npcid:6269,x:2836,y:5346|npcid:6269,x:2840,y:5325|npcid:6270,x:2843,y:5322
+|npcid:6270,x:2843,y:5345|npcid:6269,x:2843,y:5356|npcid:6269,x:2844,y:5339
+|npcid:6269,x:2846,y:5347|npcid:6270,x:2849,y:5343|npcid:6270,x:2849,y:5356|Requirements={{Skillreq|Dungeoneering|70}}
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}} 
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black knife|quantity=4-13|rarity=8/100}}
+{{DropsLine|name=Off-hand black knife|quantity=4-13|rarity=8/100}}
+{{DropsLine|name=Black 2h sword|quantity=1|rarity=1/100}}
+{{DropsLine|name=Black sword|quantity=1|rarity=1/200}}
+{{DropsLine|name=Off-hand black sword|quantity=1|rarity=1/200}}
+{{DropsLine|name=Black longsword|quantity=1|rarity=1/200}}
+{{DropsLine|name=Off-hand black longsword|quantity=1|rarity=1/200}}
+{{DropsLine|name=Black dagger|quantity=1|rarity=1/200}}
+{{DropsLine|name=Off-hand black dagger|quantity=1|rarity=1/200}}
+{{DropsLine|name=Steel chainbody|quantity=1|rarity=2/100}}
+{{DropsLine|name=Iron 2h sword|quantity=1|rarity=2/100}}
+{{DropsLine|name=Iron chainbody|quantity=1|rarity=2/100}}
+{{DropsLine|name=Steel dagger|quantity=1|rarity=2/200}}
+{{DropsLine|name=Steel off hand dagger|quantity=1|rarity=2/200}}
+{{DropsLine|name=Steel mace|quantity=1|rarity=2/200}}
+{{DropsLine|name=Steel off hand mace|quantity=1|rarity=2/200}}
+{{DropsLine|name=Steel sword|quantity=1|rarity=2/200}}
+{{DropsLine|name=Steel off hand sword|quantity=1|rarity=2/200}}
+{{DropsLine|name=Steel battleaxe|quantity=1|rarity=2/200}}
+{{DropsLine|name=Steel off hand battleaxe|quantity=1|rarity=2/200}}
+{{DropsLine|name=Steel 2h sword|quantity=1|rarity=2/100}}
+{{DropsLine|name=Steel longsword|quantity=1|rarity=2/200}}
+{{DropsLine|name=Steel off hand longsword|quantity=1|rarity=2/200}}
+{{DropsLine|name=Steel med helm|quantity=1|rarity=2/100}}
+{{DropsLine|name=Mithril dagger|quantity=1|rarity=1/200}}
+{{DropsLine|name=Mithril off hand dagger|quantity=1|rarity=1/200}}
+{{DropsLine|name=Mithril longsword|quantity=1|rarity=1/200}}
+{{DropsLine|name=Mithril off hand longsword|quantity=1|rarity=1/200}}
+{{DropsLine|name=Adamant mace|quantity=1|rarity=1/200}}
+{{DropsLine|name=Adamant off hand mace|quantity=1|rarity=1/200}}
+{{DropsLine|name=Adamant 2h sword|quantity=1|rarity=1/100}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|3/100}}
+{{DropsTableHead}}
+{{HerbDropTable|3/100}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|1/100}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|1/100}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=3-102|rarity=40/100|gemw=No}}
+{{DropsLine|name=Coins|quantity=5-204|rarity=10/100|gemw=No}}
+{{DropsTableBottom}}
+
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Bandos rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Bandos altar|quantity=1|rarity=Unknown}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/100}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Shoulder bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=no}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/512}}
+{{DropsLine|name=Frozen key piece (Bandos)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Bandos's Stronghold]].}}|gemw=No}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsLineWarpriest|god=bandos}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = 1
+|item1 =
+{{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Cyclops (God Wars Dungeon, 1) (2007).png|name=Cyclops (God Wars Dungeon, 1)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cyclops (God Wars Dungeon, 1) (2008).png|name=Cyclops (God Wars Dungeon, 1)}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Cyclops GWD.png|name=Cyclops (God Wars Dungeon, 1)}}
+}}
+|text2 = 2
+|item2 =
+{{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Cyclops (God Wars Dungeon, 2) (2007).png|name=Cyclops (God Wars Dungeon, 2)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cyclops (God Wars Dungeon, 2) (2008).png|name=Cyclops (God Wars Dungeon, 2)}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Cyclops GWD2.png|name=Cyclops (God Wars Dungeon, 2)}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Medium bladed iron salvage → Iron 2h sword
+*** Medium plated iron salvage → Iron chainbody
+*** Tiny blunt steel salvage → Steel mace/Steel off hand mace
+*** Tiny plated steel salvage → Steel med helm
+*** Tiny spiky steel salvage → Steel dagger/Steel off hand dagger, Steel sword/Steel off hand sword
+*** Small bladed steel salvage → Steel longsword/Steel off hand longsword
+*** Medium bladed steel salvage → Steel 2h sword, Steel battleaxe/Steel off hand battleaxe
+*** Medium plated steel salvage → Steel chainbody
+*** Tiny spiky mithril salvage → Mithril dagger/Mithril off hand dagger
+*** Small bladed mithril salvage → Mithril longsword/Mithril off hand longsword
+*** Tiny blunt adamant salvage → Adamant mace/Adamant off hand mace
+*** Medium bladed adamant salvage → Adamant 2h sword
+
+* {{UL|type=update|update=Tuska Clean Up - This Week In RuneScape|date=18 August 2025}}
+** The Sacrifice, Devotion, and Transfigure abilities have been removed from the God Wars Dungeon I loot table, and are now obtained by completing the One Piercing Note quest.
+
+* {{UL|type=update|update=God Wars Dungeon|date=28 August 2007}}
+** Added to game.
+}}
+
+{{God Wars Dungeon}}
+{{Cyclopes}}
+[[Category:Participants in the God Wars]]
+[[Category:Bandosians]]

@@ -1,0 +1,63 @@
+{{Deleted content}}
+{{Infobox Monster
+|name = Troll shaman
+|image = [[File:Troll shaman (Davendale).png]]
+|release = [[22 February]] [[2021]]
+|update = This Week In RuneScape: Azzanadra's Quest
+|removal = [[24 May]] [[2021]]
+|removalupdate = This Week In RuneScape: Battle of the Monolith & Guardian's Gift
+|level = 1
+|experience = 20
+|lifepoints = 
+|slaylvl = 
+|slayxp = 
+|slayercat = Trolls
+|assigned_by =
+|members = No
+|aggressive = No
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect =
+|immune_to_drain =
+|style = magic
+|primarystyle = magic
+|speed = 4
+|max_melee = 0.0
+|max_ranged = 0.0
+|max_magic = 72
+|max_spec =
+|weakness = 
+|actions = Attack
+|examine = 
+|attack = 
+|ranged = 
+|magic = 
+|defence = 
+|armour = 110
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 202
+|aff_weakness = 
+|aff_melee = 
+|aff_ranged = 
+|aff_magic = 
+|abilities = 
+|histid = 27713
+|leagueRegion=N/A}}
+'''Troll shamans''' were monsters that were fought during the [[Davendale Tutorial]].
+
+==Update history==
+{{UH|
+* {{UL|type=hidden|update=This Week In RuneScape: Battle of the Monolith & Guardian's Gift|date=24 May 2021}}
+** Removed from game.
+
+* {{UL|type=hidden|update=This Week In RuneScape: Dailies & Distractions & Diversions Week Begins!|date=26 April 2021}}
+** Its maximum magic hit has been changed from 100 to 72.
+
+* {{UL|type=hidden|update=This Week In RuneScape: Azzanadra's Quest|date=22 February 2021}}
+** Added to game.
+}}
+
+{{Davendale}}
+{{Trolls}}

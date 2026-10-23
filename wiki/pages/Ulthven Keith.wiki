@@ -1,0 +1,110 @@
+{{Infobox Monster
+|name = Ulthven Keith
+|image = [[File:Ulthven_Keith.png|180px]]
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|members = Yes
+|examine = The 'terror' of the seas apparently.
+|level = 117
+|lifepoints = 180000
+|experience = 9000.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 0
+|slayercat = Zombies
+|assigned_by = Vannaka
+|max_melee = 1966
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = Melee
+|speed = 6
+|attack = 98
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 2962
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = Slice,Sever,Backhand,Slaughter,Overpower,Dismember,Punish,Assault,Berserk,Freedom,Reflect,Siphon
+|armour = 1566
+|defence = 72
+|weakness = Nothing
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|voice = Yes
+|dropversion = Normal mode,Story mode
+|leagueRegion = Wilderness
+|id = 26205
+}}
+'''Ulthven Keith''' is a miniboss in [[The Shadow Reef]]. He spawns on the first stage. He appears to wear the [[Privateer Pack|Privateer Pack outfit]] with the Privateer cutlass equipped, as well as an off-hand variant of a [[Brutal Claw]].
+
+==Drops (story mode)==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead|version=Story mode}}
+{{DropsLine|name=Dungeoneering token|quantity=500|rarity=Always|gemw=no|alch=no|altvalue=1|altcurrency=Dungeoneering tokens}}
+{{DropsTableBottom}}
+
+==Drops (normal mode)==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Ulthven Keith#Normal mode}}
+
+===100%===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLine|name=Dungeoneering token|quantity=5000|rarity=Always|gemw=no|alch=no|altvalue=1|altcurrency=Dungeoneering tokens}}
+{{DropsLine|name=Ghostly essence|quantity=20-29|rarity=Always}}
+{{DropsTableBottom}}
+
+===Alchables===
+{{The Shadow Reef alchables drop table|250/1000|tier=3|version=Normal mode}}
+
+===Currency===
+{{The Shadow Reef currency drop table|650/1000|500/1000|tier=3|version=Normal mode}}
+
+===Supplies===
+{{The Shadow Reef supplies drop table|100/1000|tier=2|version=Normal mode}}
+
+===Lucky charm===
+{{Lucky charm (Shadow Reef) drops|150/1000|version=Normal mode}}
+
+===Rare drop table===
+{{Rare drop table|1/150|version=Normal mode}}
+
+===Tertiary===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=117}}
+{{DropsLineMimic|level=117}}
+{{DropsTableBottom}}
+
+====Charms====
+{{EliteDungeonCharmDropTable|version=Normal mode}}
+
+==Dialogue==
+{{Hastranscript|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+==Trivia==
+* His name is a reference to the Shadow Reef, also known as Ulthven Kreath.
+
+==References==
+{{Reflist}}
+
+{{The Shadow Reef}}

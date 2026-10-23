@@ -1,0 +1,192 @@
+{{Otheruses|def=no|the equipment set|Akrisae the Doomed's equipment}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Barrows
+|version2 = Gregorovic
+|name = Akrisae the Doomed
+|image = [[File:Akrisae the Doomed.png]]
+|release1 = [[14 September]] [[2011]]
+|release2 = [[29 March]] [[2016]]
+|update1 = Ritual of the Mahjarrat
+|update2 = God Wars Dungeon 2
+|members = Yes
+|options = Attack, Examine
+|race = Ghost
+|examine = A vengeful spirit, corrupted by dark magic.
+|level1 = 115
+|level2 = 1000
+|lifepoints1 = 12000
+|lifepoints2 = 1000000
+|aggressive1 = Yes
+|aggressive2 = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 343.6
+|slayxp2 = N/A
+|slayercat1 = Ghosts, Undead
+|slayercat2 = No
+|max_melee = 0
+|max_ranged = 0
+|max_magic1 = 2167.2
+|max_magic2 = 0
+|max_necromancy = 0
+|max_spec = 
+|style1 = Magic
+|style2 = Melee
+|primarystyle1 = Magic
+|primarystyle2 = Melee
+|speed = 6
+|attack = 1
+|ranged = 1
+|magic1 = 70
+|magic2 = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic1 = 1486
+|acc_magic2 = 0
+|acc_necromancy = 0
+|abilities = 
+|prayers1 = Protect from Melee, Protect from Ranged, Protect from Magic
+|prayers2 = None
+|armour = 1486
+|defence1 = 70
+|defence2 = 1
+|weakness = Bolt
+|susceptibility1 = Undead slayer
+|susceptibility2 = No
+|aff_weakness = 90
+|aff_melee1 = 50
+|aff_melee2 = 60
+|aff_ranged1 = 70
+|aff_ranged2 = 50
+|aff_magic1 = 60
+|aff_magic2 = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|leagueRegion = Morytania
+|id1 = 14297, 14298, 14299, 14300
+|id2 = 22445
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = Ritual of the Mahjarrat
+|version2 = Missing, Presumed Death
+|version3 = Sliske's Endgame
+|name = Akrisae the Doomed
+|image1 = <!--[[File:Akrisae the Doomed (2).png]]-->
+|image2 = [[File:Akrisae the Doomed.png]]
+|image3 = [[File:Akrisae the Doomed.png]]
+|release1 = [[14 September]] [[2011]]
+|release2 = [[15 October]] [[2013]]
+|release3 = [[19 December]] [[2016]]
+|update1 = Ritual of the Mahjarrat
+|update2 = Missing, Presumed Death
+|update3 = Sliske's Endgame - Frostworld Part 2
+|level1 = 140
+|level2 = N/A
+|level3 = 650
+|members1 = Yes
+|members2 = No
+|members3 = Yes
+|race = Ghost
+|quest1 = [[Ritual of the Mahjarrat]]
+|quest2 = [[Missing, Presumed Death]]
+|quest3 = [[Sliske's Endgame]]
+|location1 = [[Mahjarrat Ritual Site]]
+|location2 = [[Empyrean Citadel]]
+|location3 = [[Sliske's Labyrinth]]
+|gender = Male
+|options1 = Examine
+|options2 = Talk to, Examine
+|options3 = Examine
+|examine = 
+|map1 = 
+|map2 = {{NPC map|npcname=Akrisae the Doomed|npcid:18481,x:3785,y:4518|plane=1|mapID=-1|group=18481}}
+|map3 = 
+|leagueRegion = Morytania
+|id1 = 14295
+|id2 = 18481
+|id3 = 25136
+}}
+}}
+[[File:Akrisae the Doomed chathead.png|left]]
+'''Akrisae the Doomed''' is a member of the [[Barrows brothers]] accessible after completion of [[Ritual of the Mahjarrat]]. He is the wight of [[Akrisae Kolluym]], who was turned by [[Sliske]] during Ritual of the Mahjarrat, jumping in the way of Sliske's spell to save the player. Akrisae shares his crypt with [[Verac the Defiled]] in the north-west of the [[Barrows]] area, only accessible after completing the quest. Both tombs are in separate rooms of the crypt.  Akrisae attacks with [[Magic]] using his [[Akrisae's war mace|war mace]]. He is stronger than the brothers as he also uses [[protection prayers]] in a similar manner to that of [[tormented demon]]s.
+
+Akrisae's set effect, ''Akrisae's Doom'', gives him the chance to drain the player's prayer in a similar manner to that of a player wearing an entire set of [[Guthan the Infested's equipment]]. When a player not using prayer attacks him and the effect activates, he will say "''Ahh, more prayers.''". Akrisae attacks using magic and is very accurate, so [[Protect from Magic]]/[[Deflect Magic]] is advised. When he takes 1,500 or more damage from melee, ranged or magic, he will activate the corresponding protection prayer against it, making him immune to damage from that combat style, requiring the use of two styles. Players can use [[Sacrifice]] to disable his protection prayers briefly. Alternatively, players can simply use [[Necromancy]], as he will not activate [[Protect from Necromancy]].
+
+==Drops==
+Akrisae does not drop his main rewards directly; instead, his [[Akrisae the Doomed's equipment|equipment]] is added as possible rewards from the Barrows chest. ''See [[The Barrows Brothers#Rewards]] for more information.'' However, Akrisae can directly drop the following items.
+
+{{DropsTableHead}}
+{{DropsLineGhosts}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+AkrisaePrayerDrain.png|Akrisae draining a player's prayer.
+Akrisae the Doomed (Christmas).png|Akrisae wearing a Santa hat during Christmas.
+</gallery>
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[14 September]] [[2011]]|update=Ritual of the Mahjarrat|img=Akrisae the Doomed (2011).png|name=Akrisae the Doomed}}
+|{{GUL|date=[[4 January]] [[2012]]|update=A Very Barrows New Year!|img=Akrisae the Doomed.png|name=Akrisae the Doomed}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** 'Weak' style: 65 → 70
+*** Same style: 55 → 60
+*** 'Strong' style: 45 → 50
+
+* {{UL|type=hidden|update=Necromancy Patch Week - This Week In RuneScape|date=11 September 2023}}
+** The 50% combat experience reduction on bosses has been removed. Bosses now give 50 combat experience per 1,000 life points, like most other monsters in the game.
+
+* {{UL|type=patch|update=FSOA/AD Beta & Spring Survey - This Week In RuneScape|date=2 May 2023}}
+** [[Demon Flash Mob]]s, [[Linza the Disgraced]], Akrisae the Doomed and the [[WildyWyrm]] are no longer affected by the [[Guardhouse]] instakill buff.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+** An old restriction preventing the use of the Salve Amulet at Barrows has been removed. It also works in Rise of the Six.
+
+* {{UL|type=patch|update=This Week In RuneScape: Combat Cleanup Strike|date=14 March 2022}}
+** [[Havoc]], [[Snipe]] and [[Dragon Breath]] can now disable Akrisae's protection prayer. Previously, only [[Smash]] would work.
+
+* {{UL|type=patch|update=Patch Notes (23 October 2017)|date=23 October 2017}}
+** The right-click options on Barrows brothers spawned by other players have been removed.
+
+* {{UL|type=update|update=A Very Barrows New Year!|date=4 January 2012}}
+** Akrisae the Doomed is graphically updated.
+
+* {{UL|type=update|update=Ritual of the Mahjarrat|date=14 September 2011}}
+** Added to game.
+}}
+
+==Trivia==
+* As Akrisae shares his tomb with Verac, players who completed Ritual of the Mahjarrat will be in a special instance of Verac's tomb. However, he can still be seen by players who haven't completed the quest in the catacombs.
+* At Barrows, Akrisae has a lower combat level than the rest of the group.
+* Should Akrisae spawn when the player attempts to open the chest and isn't killed yet, he will appear and yell {{RSFont|You dare steal from us?}}, ending with a question mark; the remaining brothers who spawn in this manner instead yell {{RSFont|You dare steal from us!}}
+* He may rarely appear during the fight with [[Gregorovic]], although the conditions required for him to appear are not known. When he appears he will be level 1000 and have 1,000,000 life points; killing him will immediately end the fight with Gregorovic.
+* Until the [[Update:Sliske's Endgame Replayability|update]] that made [[Sliske's Endgame]] replayable on 29 January 2018, he was the only Barrows brother not to appear in the quest as the developers had forgotten that he existed.{{CiteVideo|url = https://clips.twitch.tv/CoyYawningCiderSuperVinlin|site=Twitch|title = <nowiki>[</nowiki>RS3<nowiki>]</nowiki> Sliske's Endgame dev playthrough (SPOILERS!)|author = Jagex|date = 20 December 2016|accessdate = 23 February 2023|quote=Why was Akrisae not here?" "I think Mod Ash just forgot him}}
+
+==References==
+{{Reflist}}
+
+{{Barrows}}
+{{Heart of Gielinor}}
+{{Missing, Presumed Death}}
+{{Ritual of the Mahjarrat}}
+{{Sliske's Endgame}}
+{{Wights}}
+[[Category:Sliskeans]]
+[[Category:Bosses]]
+[[pt:Akrisae, o condenado]]

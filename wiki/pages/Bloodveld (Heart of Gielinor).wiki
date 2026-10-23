@@ -1,0 +1,159 @@
+{{Otheruses|the enemy in the Heart of Gielinor|other Bloodveld|Bloodveld (disambiguation)}}
+{{Infobox Monster
+|name = Bloodveld
+|image = [[File:Bloodveld (Heart of Gielinor).png|150px]]
+|release = [[29 March]] [[2016]]
+|update = God Wars Dungeon 2
+|members = Yes
+|race = Bloodveld
+|actions = Attack
+|examine = The tongue of evil.
+|level = 81
+|lifepoints = 14550
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 50
+|slayxp = 215.0
+|slayercat = Bloodveld
+|assigned_by = Chaeldar, Sumona, Duradel, Kuradal
+|max_melee = 1000
+|max_ranged = 0
+|max_magic = 0
+|max_spec = N/A
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 50
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 750
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 1299
+|defence = 65
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Desert
+|id = 22486
+}}
+'''Bloodveld''' can be found in the [[Heart of Gielinor]], requiring level 50 [[Slayer]]. They can be fought for killcount for the [[Zamorak]] faction.
+
+Equipping a [[Zamorak insignia]] or [[shard of Mah]] makes them non-aggressive.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Heart of Gielinor]]
+|lvls=108
+|mem=yes
+|mapID=693
+|npcid:22486,x:3157,y:6987|npcid:22486,x:3178,y:7009|npcid:22486,x:3184,y:7023
+|npcid:22486,x:3187,y:7020|npcid:22486,x:3151,y:7036|npcid:22486,x:3151,y:7036
+|npcid:22486,x:3151,y:7036|npcid:22486,x:3151,y:7036
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{Obsolete|6 May 2025 update}}
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Ingression fragment|quantity=5-9|rarity=Always|gemw=No}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Acadia shortbow|quantity=1|rarity=9/126}}
+{{DropsLine|name=Acadia longbow|quantity=1|rarity=8/126}}
+{{DropsLine|name=Water battlestaff|quantity=1|rarity=2/126}}
+{{DropsLine|name=Fire battlestaff|quantity=1|rarity=2/126}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril arrow|quantity=40-60|rarity=9/126}}
+{{DropsLine|name=Adamant arrow|quantity=50-100|rarity=4/126}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|5/126}}
+{{DropsTableHead}}
+{{HerbDropTable|5/126}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|4/126}}
+{{DropsTableHead}}
+{{RareSeedDropTable|4/126}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Super strength (1)|quantity=1|rarity=4/126}}
+{{DropsLine|name=Super ranging potion (1)|quantity=1|rarity=4/126}}
+{{DropsLine|name=Super magic potion (1)|quantity=1|rarity=4/126}}
+{{DropsLine|name=Chocolate cake|quantity=2|rarity=9/126}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny blunt mithril salvage|quantity=1|rarity=9/126}}
+{{DropsLine|name=Tiny blunt adamant salvage|quantity=1|rarity=8/126}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=12/126}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=800-1200|rarity=9/126}}
+{{DropsLine|name=Coins|quantity=2500-3500|rarity=4/126}}
+{{DropsTableBottom}}
+
+===Furniture plans===
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Zamorak altar|quantity=1|rarity=}}
+{{DropsLine|name=Furniture plans: Zamorak rug|quantity=1|rarity=}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=15/126}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/126}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Game Jam Farming Strike - This Week In RuneScape|date=6 May 2025}}
+** Bloodveld in the Heart of Gielinor now require Slayer 50 to attack.
+** Changed the Slayer XP of bloodveld.
+** Updated the drop tables of regular and mutated bloodveld.
+*** They're now more likely to drop congealed blood.
+
+* {{UL|type=update|update=God Wars Dungeon 2|date=29 March 2016}}
+** Added to game.
+}}
+
+{{Heart of Gielinor}}
+[[Category:Heart of Gielinor dropping monsters]]
+[[Category:Zamorakians]]

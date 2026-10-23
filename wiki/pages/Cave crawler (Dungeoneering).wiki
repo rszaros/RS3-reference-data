@@ -1,0 +1,82 @@
+{{Dgvariant}}
+{{Infobox Monster
+|name = Cave crawler
+|image = [[File:Cave crawler (Dungeoneering).png|250px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark
+|examine = A spiky crawling critter.
+|level = 29
+|lifepoints = 4400
+|experience = 220.0
+|aggressive = Yes
+|poisonous = Yes
+|slaylvl = 10
+|slayxp = 24.8
+|slayercat = Cave crawlers, Creatures of Daemonheim
+|max_melee = 84
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 20
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 316
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 341
+|defence = 22
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id = 10695
+|leagueRegion = Wilderness
+}}
+'''Cave crawlers''' are [[Slayer]] monsters that require level 10 slayer to kill. They are, however, poisonous, making them slightly more dangerous than their [[combat level]] suggests. They appear in all floors, but are extremely rare on the Frozen floors, and drop the special [[Sunstriker boots]] and [[Marksman boots]].
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Monster-specific===
+{{DropsTableHead}}
+{{DropsLine|name=Sunstriker boots|quantity=1||gemw=no|rarity = Uncommon}}
+{{DropsLine|name=Marksman boots|quantity=1||gemw=no|rarity = Very Rare}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Game Update (19 April 2012)|date=19 April 2012}}
+** Increased frequency of Slayer creatures in Dungeoneering.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Slayer monsters}}

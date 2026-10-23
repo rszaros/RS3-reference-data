@@ -1,0 +1,231 @@
+{{External|os}}
+{{Otheruses|the Fight Cave boss|the pet|TzRek-Jad|the achievement|TzTok-Jad (achievement)}}
+{{Otheruses|def=no|the Fight Kiln boss|TokHaar-Jad|the TzekHaar Front boss|TzekHaar-Jad}}
+{{HasStrategy|page1=TzHaar_Fight_Cave/Strategies#TzTok-Jad}}
+{{Infobox Monster
+|name = TzTok-Jad
+|image = [[File:TzTok-Jad.png|201px]]
+|release = [[4 October]] [[2005]]
+|update = TzHaar Fight Caves
+|members = Yes
+|examine = This is going to hurt...
+|options = Attack
+|size = 5
+|level = 702
+|lifepoints = 40,000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 1309
+|slayercat = Volcanic creatures
+|assigned_by = kuradal
+|max_melee = 8,000
+|max_ranged = 8,000
+|max_magic = 8,000
+|max_spec = 0
+|style = melee,magic,ranged
+|speed = 8
+|attack = 70
+|ranged = 70
+|magic = 70
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 1486
+|acc_ranged = 1486
+|acc_magic = 1486
+|armour = 1486
+|defence = 70
+|weakness = Nothing
+|aff_weakness = 55
+|aff_melee = 55
+|aff_ranged = 55
+|aff_magic = 55
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = minigame
+|leagueRegion = Karamja
+|id = 2745
+}}
+[[File:TzTok-Jad chathead.png|left]]
+'''TzTok-Jad''' is the final and most powerful TzHaar creature in the [[TzHaar Fight Cave]], appearing at wave 63. TzTok-Jad was the strongest monster in the game for almost three years. Its name can be roughly [[TzHaar language|translated]] to "Obsidian fire elemental".
+
+Players must fight TzTok-Jad on their own, without the use of [[Summoning]] creatures or a [[dwarf multicannon]] for assistance. Players must defeat 271 other monsters before fighting Jad, resulting in a high usage of food, potions, ammunition, prayer, etc.
+
+TzTok-Jad is strong enough to pose a danger to any inexperienced or unprepared player, regardless of their [[skills|skill]] levels or equipment.
+
+A player may receive a task of TzHaar monsters from [[Kuradal]], with the challenge to "Upgrade" your task. Doing so will result in a task of Volcanic Creatures. With this, you can opt to kill through the Fight Cave all the way to TzTok-Jad for a special reward of 25,000 [[Slayer]] experience (not including its base reward of 1,309 experience), in addition to any experience gained during the Caves.
+
+Likewise, a player may be assigned to kill TzTok-Jad as a [[Soul Reaper]] task. Only the Fight Cave variant will work, as Jad variants within the [[Fight Kiln]] or the [[TzekHaar Front]] will not progress the task. 
+
+Surviving and killing TzTok-Jad is required to get a [[fire cape]] to access the [[Fight Kiln]]. Killing TzTok-Jad is also required as part of [[Kili's Knowledge VII]] achievement, as the player has to make a [[Pulsating onyx]], which can only be done by completing the Fight Caves with an [[Inert necromantic crystal]] in the player's inventory; its other variants will not count.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[TzHaar Fight Cave]]
+|lvls=702
+|mem=yes
+|leagueRegion = Karamja
+}}
+{{LocTableBottom}}
+
+== Strategy ==
+{{Main|TzHaar Fight Cave/Strategies#TzTok-Jad}}
+TzTok-Jad uses all types of combat, except for [[Necromancy]] to engage the player, all of which can be blocked completely by switching to the correct [[protection prayers]] before the attack connects. It is critical that players know the warning signs for these attacks and switch between the protection prayers accordingly before the attack lands.
+
+{| class="wikitable" style="text-align:center"
+! Attack || Type || Prayer required || Description
+|-
+| [[File:TzTok-Jad Melee attack.gif|250px]]||Melee attack||{{plink|Deflect Melee|size=30}} <br> {{plink|Protect from Melee|size=30}} 
+|Jad swipes at the player without warning using his right claw.<br>This attack is only used if the player is within melee range,<br>and Jad will not move closer to the player if they attack from outside of his melee range.
+|-
+|[[File:TzTok-Jad Ranged attack.gif|250px]]|| Ranged attack||{{plink|Deflect Ranged|size=30}} <br> {{plink|Protect from Ranged|size=30}}
+|Jad slams down his front legs onto the ground, causing large cracks to appear in the floor,<br>and a boulder will fall from the ceiling onto the player. This cannot be avoided by moving.
+|-
+|[[File:TzTok-Jad Magic attack.gif|250px]]||Magic attack||{{plink|Deflect Magic|size=30}} <br> {{plink|Protect from Magic|size=30}} 
+|Jad breathes fire shortly and lowers his head before raising his front feet<br>and emitting a fireball that deals Magic damage upon hitting the player.
+|}
+
+All styles of TzTok-Jad's attacks deal 50–95% of the player's maximum life points as damage. [[Monster Examine]] reports his max standard hit as 2,240.
+
+Once TzTok-Jad is reduced to 50% health, he will summon four [[Yt-HurKot]]; who heal him repeatedly. If they successfully heal him to full health, then TzTok-Jad will call on them again—even if the previous group of healers were subsequently killed off.
+
+==Rewards==
+[[File:TzTok-Jad's death.png|thumb|TzTok-Jad's death.]]
+Although TzTok-Jad does not drop any items directly, defeating it rewards the player with several items, as they will have successfully completed the [[TzHaar Fight Cave]].
+
+===100% drops===
+It is possible to not receive the fire cape if the player dies before Jad's death animation finishes. Players will still be awarded killcount unless a [[deathtouched dart]] is used, and counts towards [[Soul Reaper]] tasks.
+{{DropsTableHead}}
+{{DropsLine|name=Tokkul|quantity=16064|rarity=Always|gemw=no|alch=no|altvalue=1|altcurrency=Tokkul}}
+{{DropsLine|name=Fire cape|quantity=1|rarity=Always|raritynotes={{DropNote|Drops on the ground under the player if their backpack is full.}}|gemw=no}}
+{{DropsTableBottom}}
+
+===Secondary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Tzhaar egg|quantity=1|rarity=|gemw=no|alch=no|raritynotes=}}
+{{DropsLine|name=TzTok-Jad's head|quantity=1|rarity=1/10|alch=no}}
+{{DropsTableBottom}}
+
+==Achievements==
+===TzTok-Jad achievements===
+{{Main|TzTok-Jad achievements}}
+* {{Achievement|TzTok-Jad (achievement)}}
+* Living On a Prayer Switch:
+** {{Achievement|Living On a Prayer Switch I}}
+** {{Achievement|Living On a Prayer Switch II}}
+** {{Achievement|Living On a Prayer Switch III}}
+** {{Achievement|Living On a Prayer Switch IV}}
+** {{Achievement|Living On a Prayer Switch V}}
+** {{Achievement|Living On a Prayer Switch VI}}
+* TzTok-Jad Speed Killer:
+** {{Achievement|TzTok-Jad Beginner Speed Killer}}
+** {{Achievement|TzTok-Jad Competent Speed Killer}}
+* {{Achievement|Seeing Lava}}
+* {{Achievement|I Say a Little Prayer}}
+* {{Achievement|Heal or No Heal}}
+
+===Boss Log===
+{{Main|Boss Logs achievements}}
+* {{Achievement|First Rule of Fight Caves}}
+** [[Fire cape]]
+
+==Gallery==
+<gallery mode="packed" heights="200">
+TzTok-Jad and Ket-Zek concept art.png|Concept art for TzTok-Jad and Ket-Zek's 2008 graphical updates
+Tztok-Jad concept art.png|Concept art of TzTok-Jad's 2012 graphical update
+Jad 1920x1200.jpg|A wallpaper depicting TzTok-Jad
+TzTok-Jad (Postbag from the Hedge).png|TzTok-Jad from Postbag 29
+Duels - TzTok-Jad.png|Jad in the Runescape Duel Cards
+Jad vs Roosters.jpg|Jad vs Roosters
+TzTok-Jad (Christmas).png|TzTok-Jad wearing a Santa hat during Christmas
+TzTok-Jad miniature.png|TzTok-Jad miniature from [[RuneScape Kingdoms]]
+</gallery>
+
+==Graphical updates==
+===NPCs===
+{{GU|subject=NPCs
+|{{GUL|date=[[4 October]] [[2005]]|update=TzHaar Fight Caves|img=TzTok-Jad (2005).png|name=TzTok-Jad}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=TzTok-Jad (2008).png|name=TzTok-Jad}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=TzTok-Jad.png|name=TzTok-Jad}}
+}}
+{{GU|subject=npc
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=TzTok Jad statue old.png|name=TzTok-Jad statue}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=Basic TzTok-Jad statue.png|name=TzTok-Jad statue}}
+}}
+
+===Animation===
+{{GU|subject=emote
+|{{GUL|date=[[4 October]] [[2005]]|update=TzHaar Fight Caves|img=TzTok-Jad animations (2005).gif|name=TzTok-Jad}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=TzTok-Jad animations (2008).gif|name=TzTok-Jad}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Jad holds a milestone place due to the value of the fire cape (and by extension the Tokhaar-Kal capes from the Fight Kiln and the Igneous capes from TzKal-Zuk), but accuracy can feel a little unfriendly due to his low affinities.
+*** All affinities 40 → 55
+
+* {{UL|type=hidden|update=Necromancy Patch Week - This Week In RuneScape|date=11 September 2023}}
+** The 50% combat experience reduction on bosses has been removed. Bosses now give 50 combat experience per 1,000 life points, like most other monsters in the game.
+
+* {{UL|type=patch|update=This Week In RuneScape: Celebration of Combat#Patch Notes|date=11 January 2021}}
+** Various bosses around RuneScape have taken their Santa Hats off for another year.
+
+* {{UL|type=patch|update=Patch Notes (19 December 2012)|date=19 December 2012}}
+** Speaking to [[Cyrisus]] via the [[NPC Contact]] spell no longer mentions [[Jad]] being a level 702.
+
+* {{UL|type=patch|update=Patch Notes (13 March 2012)|date=13 March 2012}}
+** It is now possible to hear TzTok Jad's attacks when he is out of draw distance range.
+
+* {{UL|type=patch|update=Patch Notes (25 October 2011)|date=25 October 2011}}
+** TzTok Jad's melee sound has been delayed by one cycle, and his Magic attack sound effect has been quietened slightly. He also now has a sound effect attached when he rears up to perform a Ranged attack.
+
+* {{UL|type=patch|update=Patch Notes (9 August 2011)|date=9 August 2011}}
+** Gaining Slayer XP when killing TzTok Jad now works more consistently.
+
+* {{UL|type=patch|update=Patch Notes (14 June 2011)|date=14 June 2011}}
+** TzTok Jad's attack sounds have been updated to give a magic charging sound, and ensuring the sounds can be heard from maximum attack distance.
+
+* {{UL|type=patch|update=Patch Notes (25 May 2011)|date=25 May 2011}}
+** TzTok Jad's ranged attack sound effect now begins as soon as the projectile is launched.
+** TzTok Jad's stomping attack sound effect is now louder.
+
+* {{UL|type=patch|update=Patch Notes (9 November 2010)|date=9 November 2010}}
+** The healing animation on TzTok Jad has been updated to stop it from interrupting his other animations.
+
+* {{UL|type=patch|update=Shattered Heart|date=3 March 2010}}
+** TzTok-Jad now has a second animation played on him when he's being healed.
+
+* {{UL|type=patch|update=Patch_Notes_(20 October 2009)|date=20 October 2009}}
+** Adjustment to the positioning of Jad's attack graphics, though his timing should not have changed.
+
+* {{UL|type=update|update=TzHaar Fight Caves|date=4 October 2005}}
+** Added to game.
+}}
+
+==Trivia==
+*In the 38th [[Postbag from the Hedge]], the [[Wise Old Man]] calculated the approximate number of [[Rooster]]s required to complete the [[TzHaar Fight Cave]] and kill TzTok-Jad at 5,308. In addition, the Wise Old Man mentions TzTok-Jad is allergic to chicken.{{CitePostbag |issue= 38|author= D*|letter= Letter 6}}
+* When the player has killed TzTok-Jad, their [[Adventurer's Log]] will state "I killed TzTok-Jad, and can now claim my fire cape."
+* In line with the original logic of the monsters in the Fight Caves (combat levels and life points doubled every time), TzTok-Jad should have had a combat level of 720 (Ket-Zek has a combat level of 360). However, because the hitpoint limit was 255 when TzTok-Jad was introduced, he could not have 320 hitpoints (the double of Ket-Zek's 160 hitpoints). Therefore his hitpoints were set at 250, which resulted in a combat level of 702, instead of 720. With the Evolution of Combat update, the life points of monsters in Fight Caves have since been changed; however, original combat levels remain.
+* As of [[1 February]] [[2018]], the highest kill count for this boss was 7,614 kills, shared between this boss and [[TokHaar-Jad]].{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqej0/top_10_killers_per_boss/|title=Top 10 killers per Boss|quote=Here are the top 10 kills for each Boss in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=https://reldo.runescape.wiki/i/102945|archivedate=25 January 2019|notes=|name=}}
+** This had increased to 7,789 by [[13 December]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/adugze/top_20_boss_killers_by_monster_data_13th_december/|title=Top 20 Boss Killers by Monster (Data: 13th December 2018)|quote=[link to a spreadsheet]|date=8 January 2019|archiveurl=http://archive.is/ycOt4|archivedate=28 February 2020|notes=|name=}}
+* According to the ''Monsters of Gielinor'' infographic and [[RuneScape Top Trumps]], TzTok-Jad is 11 metres tall. However, the same infographic shows the player character standing at nearly a third of TzTok-Jad's height (an average person is less than two metres tall, less than a fifth of TzTok-Jad's stated height), making the accuracy of the statement dubious.
+* Between itself, [[TokHaar-Jad]] and [[TzekHaar-Jad]], TzTok-Jad is the only version of Jad that:
+** Summons [[Yt-HurKot]] at half lifepoints to heal itself.
+** Is not susceptible to the passive effect of the [[hexhunter bow]] or any other weapon.
+
+==References==
+{{Reflist}}
+
+{{Elementals}}
+{{Top trumps}}
+{{Soul Reaper}}
+{{RuneScape Duel Cards}}
+{{TzHaar Fight Cave}}
+[[Category:Unique monsters]]
+[[Category:Bosses]]
+[[pt:TzTok-Jad]]

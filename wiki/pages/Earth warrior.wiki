@@ -1,0 +1,206 @@
+{{External|rsc|os}}
+{{Dgvariant}}
+{{Otheruses|def=no|the elite version|Earth warrior (elite)|the champion|Earth Warrior Champion}}
+{{Infobox Monster
+|name = Earth warrior
+|image = [[File:Earth warrior.png|150px]]
+|release = [[12 December]] [[2002]]
+|update = Agility skill online
+|members = Yes
+|actions = Attack
+|examine = A strange, inhuman, elemental warrior.
+|level = 61
+|lifepoints = 9650
+|experience = 482.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 57.5
+|slayercat = Earth warriors
+|max_melee = 600
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 30
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 354
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1011
+|defence = 56
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 124
+|leagueRegion=Wilderness}}
+[[File:Earth warrior icon.png|left]]
+An '''earth warrior''' is a monster made of earth that fights using [[melee]]. It is weak against [[water spells]].
+
+Earth warriors were once commonly used by players for training, as they have a good amount of [[life points]] and do not commonly hit very high on players; nowadays there are better methods of training. Some players attack the warriors in hopes of gaining the very rare [[Earth Warrior Champion's scroll]], for the [[Champion's Challenge]]. Otherwise, they are a decent source of various [[seeds]] and [[grimy herbs]].
+
+When killing earth warriors, an [[Earth warrior (elite)|elite]] version may spawn (guaranteed while on a [[Slayer assignment]]), which can be further increased with the use of [[fellstalk incense stick]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=61
+|mem=yes
+|mapID=23
+|npcid:124,x:3139,y:5529|npcid:124,x:3141,y:5526|npcid:124,x:3141,y:5531
+|npcid:124,x:3143,y:5524|npcid:124,x:3145,y:5534|npcid:124,x:3149,y:5531
+|npcid:124,x:3150,y:5520|npcid:124,x:3150,y:5526
+|leagueRegion=Wilderness
+}}
+{{LocLine
+|loc=[[Edgeville Dungeon]]
+|lvls=61
+|mem=yes
+|mapID=31
+|npcid:124,x:3118,y:9974|npcid:124,x:3119,y:9971|npcid:124,x:3120,y:9976
+|npcid:124,x:3124,y:9974|npcid:124,x:3116,y:9992|npcid:124,x:3118,y:9989
+|npcid:124,x:3121,y:9992|npcid:124,x:3122,y:9996|npcid:124,x:3123,y:9988
+|npcid:124,x:3124,y:9994|npcid:124,x:3126,y:9992
+|leagueRegion=Wilderness}}
+{{LocTableBottom}}
+
+In the Edgeville Dungeon, level 12 [[Agility]] is required to cross the [[Stepping Stone (Edgeville Dungeon)|stepping stones]] over an abyss. They reside in the [[members]]-only, level 7–10 [[Wilderness]] section of the dungeon.
+
+The [[Chaos Tunnels]] are not in the Wilderness. Players can get there:
+* By crossing low-level Wilderness to reach the rifts entering the tunnels.
+* Teleporting to the [[Chaos Tunnels resource dungeon]] using a [[hoardstalker ring]] or a [[Dungeoneering cape]] and then using the nearby western portal.
+* Teleporting to [[dust devil]]s or [[gargoyle]]s using a [[Mask of Dust]]/[[Helm of Devilry]] or a [[Mask of Granite]]/[[Helm of Grotesquery]], respectively, and [[Chaos Tunnels#Map|following the route]] to the earth warriors.
+* Using the route opened during [[What Lies Below]].
+
+Players planning to fight earth warriors in Edgeville Dungeon and Chaos Tunnels will find that, after a period of time, they no longer are [[Aggressiveness|aggressive]]. However, it is possible to make them aggressive again by leaving their area and coming back (or by using an [[aggression potion]]). In the case of the Edgeville Dungeon, this means running south, crossing back over the stepping stones (gives 7.5 Agility experience) and running all the way to the south wall of the [[deadly red spider]] area and then running back. This method is used by players who do not <!--pay much attention while killing these creatures who do not--> want to pay for aggression potions.
+
+Players planning to fight the earth warriors in the Chaos Tunnels need to beware the [[bronze dragon]]s in the southern half of the chamber: a few earth warriors occasionally wander in this area, and careless use of area of effect abilities might prove dangerous to players without dragonfire protection.
+
+==Tactics==
+Use the highest level water spell you can. At low levels, a [[tome of frost]] may help offset some cost, especially if using [[Ancient Magicks]]. If you're a high-level player grinding for the Champion Scroll, however, consider bringing an [[augmented staff of limitless air]], aggression potions, and using [[Air Surge]] at the Chaos Tunnels location instead. 
+
+In [[Daemonheim]], earth warriors are weak to various elemental spells, rather than water spells alone.
+
+==Champion's Challenge==
+Earth warriors are one of the 'races' who have lesser champions in the [[Champion's Challenge]] [[Distraction and Diversion]]. To fight the [[Earth Warrior Champion]], the player must kill earth warriors until one drops a [[Earth Warrior Champion's scroll|Champion's scroll]], a very rare drop.
+
+Players with access to a [[Sunken Pyramid|player-owned dungeon]] may find it more efficient to farm earth warriors there rather than in Edgeville or the Chaos Tunnels.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Staff of earth|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Nature rune|quantity=3|rarity=9/128}}
+{{DropsLine|name=Chaos rune|quantity=3|rarity=7/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=6/128}}
+{{DropsLine|name=Death rune|quantity=2|rarity=4/128}}
+{{DropsLine|name=Blood rune|quantity=2|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|14/128}}
+{{DropsTableHead}}
+{{HerbDropTable|14/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|18/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|18/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=12|rarity=18/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=80|rarity=13/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=28/128}}
+{{DropsLine|name=Tiny spiky steel salvage|quantity=1|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Earth Warrior Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Earth Warrior Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineEffigy|level=61}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=61}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 88.233/1000
+|green = 44.117/1000
+|crimson = 110.292/1000
+|blue = 4.412/1000
+}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Earth warrior concept art.jpg|thumb|Concept art of earth warriors
+</gallery>
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Earth warrior (2004).png|name=Earth warrior}}
+|{{GUL|date=|update=|img=Earth warrior old2.png|name=Earth warrior}}
+|{{GUL|date=[[23 June]] [[2014]]|update=Patch Notes (23 June 2014)|img=Earth warrior.png|name=Earth warrior}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Rune Value Improvements|date=15 September 2014}}
+** Many monster types have had their rune drop rates reduced or removed, in order to increase the value of altar runecrafting.
+*** Earth warriors have had their [[earth rune]] drops removed.
+
+* {{UL|type=ninja|update=Patch Notes (23 June 2014)|date=23 June 2014}}
+** The graphics and animations for the following NPCs have been revised:
+*** Earth warriors
+
+* {{UL|type=patch|update= Patch Notes (20 December 2010)|date=20 December 2010}}
+** Earth warriors now play their death animation as soon as they die.
+
+* {{UL|type=update|update=Latest RuneScape News (18 March 2002)|date=18 March 2002}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Elementals}}

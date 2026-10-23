@@ -1,0 +1,177 @@
+{{Infobox Monster
+|name = Cockroach worker
+|image = [[File:Cockroach worker.png|200px]]
+|release = [[11 March]] [[2008]]
+|update = Stronghold of Player Safety
+|members = No
+|actions = Attack
+|examine = Eurgh! A big bug.
+|level = 30
+|lifepoints = 3600
+|experience = 180.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 38
+|slayercat = Cockroaches
+|assigned_by = Vannaka
+|max_melee = 440
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 22
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 241
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 341
+|defence = 22
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = no
+|immune_to_drain = No
+|id = 7159
+|leagueRegion=Misthalin}}
+'''Cockroach workers''' are found in the [[Stronghold of Player Safety]]. They are good [[non-member]] monsters for mid-levelled players to train on. They also drop [[Crimson charm]]s quite often, making the Stronghold a popular place to obtain charms for training [[Summoning]].
+
+They can hit 50s and 60s very often if [[Rune equipment|Rune armour]] or better is not worn. As they occupy 2 {{x}} 2 areas, rangers and mages may fight them in safe spots in Level 5 of the Stronghold. Two cockroach workers have their spawn points enclosed in a small room with an exit only one tile wide so they cannot attack a player fighting them with a Range or Magic attack style from outside of the room. However, workers' defences are rather high, making it harder for low and mid-level players to deal damage to it. For [[members]], a [[halberd]] can be used for safe [[Melee]] training, as it can attack up to two spaces away from the player, allowing you to strike melee attacks without getting hit.
+
+Many players take free food from the [[Gunnarsgrunn|nearby fishing spot]] when training on cockroaches.
+
+Also the Monastery is nearby for healing or using the altar (level 31 prayer needed).
+
+Medium-levelled players will sometimes kill this monster for their decent stackable drops on free worlds, and for their relatively good crimson charm drop rate for their level. If you have a decent combat level +70s, you can gain up to 40 Crimson charm per hour. +90s would produce roughly 60 charms per hour.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Stronghold of Player Safety]] lower level
+|lvls=30
+|mem=no
+|mapID=9
+|npcid:7159,x:7,y:102|npcid:7159,x:8,y:115|npcid:7159,x:8,y:120
+|npcid:7159,x:8,y:126|npcid:7159,x:9,y:131|npcid:7159,x:14,y:127
+|npcid:7159,x:15,y:86|npcid:7159,x:15,y:101|npcid:7159,x:15,y:113
+|npcid:7159,x:16,y:121|npcid:7159,x:18,y:92|npcid:7159,x:18,y:107
+|npcid:7159,x:23,y:120|npcid:7159,x:24,y:115|npcid:7159,x:26,y:102
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Stronghold of Player Safety]] middle level
+|lvls=30
+|mem=no
+|mapID=9
+|npcid:7159,x:109,y:98|npcid:7159,x:112,y:104|npcid:7159,x:125,y:95
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Stronghold of Player Safety]] upper level
+|lvls=30
+|mem=no
+|mapID=9
+|npcid:7159,x:169,y:103|npcid:7159,x:170,y:127|npcid:7159,x:173,y:121
+|npcid:7159,x:174,y:97|npcid:7159,x:176,y:109|npcid:7159,x:177,y:89
+|npcid:7159,x:178,y:115|npcid:7159,x:184,y:81|npcid:7159,x:191,y:109
+|npcid:7159,x:191,y:117|npcid:7159,x:192,y:88|npcid:7159,x:195,y:97
+|npcid:7159,x:197,y:127|npcid:7159,x:199,y:105
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Herbs===
+{{HerbDropTableIntro|13/128}}
+{{DropsTableHead}}
+{{HerbDropTable|13/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Cosmic rune|quantity=1-2|rarity=10/128}}
+{{DropsLine|name=Earth rune|quantity=1-22|rarity=10/128}}
+{{DropsLine|name=Nature rune|quantity=1-2|rarity=10/128}}
+{{DropsLine|name=Chaos rune|quantity=1-18|rarity=10/128}}
+{{DropsTableBottom}}
+
+===Salvage and spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=1-2|rarity=10/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=2|rarity=8/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Huge plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}|members=yes}}
+{{DropsLine|name=Coins|quantity=30-130|rarity=47/128}}
+{{DropsLine|name=Black full helm|quantity=1|rarity=2/128|altrarity=3/128|raritynotes={{DropNote|3/128 in free-to-play, replacing battlestaff.}}}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=1/128|members=yes|raritynotes={{DropNote|Replaced by a greater chance to roll a black full helm in free-to-play.}}}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128|f2p=yes}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Carapace|quantity=1|rarity=1/10}}
+{{DropsLineEffigy|level=30|members = yes}}
+{{DropsLineSpiritGems|members = yes}}
+{{DropsLineMimic|level=30|members = yes}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDropTable
+|members = yes
+|quantity = 1
+|gold = 65.756/1000
+|green = 32.878/1000
+|crimson = 131.511/1000
+|blue = 4.384/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=This Week In RuneScape: Bug Fixes & More|date=17 May 2021}}
+** Since the [[Cockroach]] Soul can now be added to the Slayer Codex you'll now need to have one for the 'To Be a Master' achievement.
+
+* {{UL|type=hidden|update=This Week In RuneScape: Yak To Basics and Ninja Strike 20!|date=1 March 2021}}
+** Now assignable as a Slayer task by [[Vannaka]], and is now part of the cockroaches Slayer category.
+
+* {{UL|type=ninja|update=Patch Notes (7 August 2017)|date=7 August 2017}}
+** Cockroaches will now drop [[carapace]] in the cavern beneath the [[Stronghold of Player Safety]].
+
+* {{UL|type=patch|update=Patch Notes (9 February 2011)|date=9 February 2011}}
+** Cockroach workers' wings no longer cause their body to become invisible.
+
+* {{UL|type=patch|update=Patch Notes (24 November 2010)|date=24 November 2010}}
+** Cockroaches now appear correctly on hills.
+
+* {{UL|type=update|update=Stronghold of Player Safety|date=11 March 2008}}
+** Added to game. 
+}}
+
+{{Cockroaches}}
+[[pt:Barata trabalhadora]]

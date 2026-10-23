@@ -1,0 +1,182 @@
+{{External|os}}
+{{Otheruses|def=no|the equipment set|Torag the Corrupted's equipment}}
+{{Otheruses|def=no|the pet version|Torag the Bobbled}}
+{{Infobox Monster
+|version1 = Normal
+|version2 = Rise of the Six
+|name = Torag the Corrupted
+|image1 = [[File:Torag the Corrupted.png|150px]]
+|image2 = [[File:Torag the Corrupted (Shadow).png|150px]]
+|release1 = [[9 May]] [[2005]]
+|release2 = [[13 November]] [[2013]]
+|update1 = Barrows
+|update2 = Barrows - Rise of the Six
+|members = Yes
+|options = Attack
+|examine = A vengeful spirit corrupted by dark magic.
+|level1 = 150
+|level2 = 650
+|lifepoints1 = 12000
+|lifepoints2 = 50000
+|slayxp1 = 343.6
+|slayxp2 = 
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ghosts, Undead
+|max_melee1 = 1260
+|max_melee2 = 1296
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 3000
+|style = melee
+|primarystyle = melee
+|speed1 = 6
+|speed2 = 5
+|attack1 = 70
+|attack2 = 90
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 1566
+|acc_melee2 = 2458
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 1299
+|armour2 = 1924
+|defence1 = 70
+|defence2 = 90
+|weakness1 = Water
+|weakness2 = Nothing
+|susceptibility = Salve, Ghost
+|aff_weakness1 = 90
+|aff_weakness2 = 40
+|aff_melee1 = 60
+|aff_melee2 = 40
+|aff_ranged1 = 50
+|aff_ranged2 = 40
+|aff_magic1 = 70
+|aff_magic2 = 40
+|immune_to_poison1 = No
+|immune_to_poison2 = Yes
+|immune_to_deflect1 = No
+|immune_to_deflect2 = Yes
+|immune_to_stun1 = No
+|immune_to_stun2 = Yes
+|immune_to_drain1 = No
+|immune_to_drain2 = Yes
+|leagueRegion = Morytania
+|id1 = 2029
+|id2 = 18544
+}}
+{{Synced switch
+|version1=[[File:Torag the Corrupted chathead.png|left|80px]]
+|version2=[[File:Torag the Corrupted (Rise of the Six) chathead.png|left]]
+}}
+'''Torag the Corrupted''' is the second youngest of the six [[Barrows brothers]]. Torag attacks with [[melee]] and his regular form utilises dual wielded hammers and his shadow form uses a single two-handed hammer. As with all other Barrows Brothers, he should not be taken lightly.
+
+Torag's set effect; ''Torag's Corruption'', causes his attacks to occasionally drain a small amount of [[adrenaline]] from a player. This effect is identical to the set effect gained by a player wearing a full set of [[Torag's equipment]]. This effect is also accompanied by an animation when activated - a set of purple claws will rise from the floor and clench the player, before sinking back into the ground again within a matter of seconds. This effect is considered more of a nuisance than a lethal effect, as the amount of adrenaline drained is roughly 10% of a full bar and the effect does not occur very often.
+
+==History==
+===Early History===
+Torag, along with his brothers, maintained a small farm. Eventually, [[Guthan the Infested|Guthan]] convinced him and the others to join the crusade.
+
+===Kindred Spirits===
+Torag and his brothers made an appearance in [[Kindred Spirits]], where he was chained with [[Karil the Tainted|Karil]], with Guthan attempting to keep balance between the pair and [[Commander Jaycliff]]. Torag had intended to join the crusades, being the only one of the six willing to fight. [[Sliske]] had set up the games to reveal the secrets of the brothers, but what Torag had kept hidden from his brothers is unknown, as the game was interrupted when [[Meg]] failed to impersonate the World Guardian.
+
+===2016 Easter event===
+During the [[2016 Easter event]], Torag the Corrupted and his brothers play a role as the workers (bobble-numbskulls) of Sliske's chocolate factory. They resembled their bobble-head versions.
+
+===Sliske's Endgame===
+Torag, along with his brothers, appeared in [[Sliske's Endgame]], being the second intended wave in Sliske's attempts to destroy the World Guardian. However, the Barrows Brothers had managed to regain a modicum of control over their own actions, and chose to aid the World Guardian, attacking Sliske's wights and champions.
+
+==Drops==
+Torag does not drop his main rewards directly; instead, his [[Torag the Corrupted's equipment|equipment]] is added as possible rewards from the Barrows chest. ''See [[The Barrows Brothers#Rewards]] for more information.'' However, Torag can directly drop the following items.
+
+{{DropsTableHead}}
+{{DropsLineGhosts}}
+{{DropsTableBottom}}
+
+==Mentioned==
+{{MentionedIn}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Torag the Corrupted official art.png|Torag The Corrupted
+Torags RuneFest concept.png|The new model for Torag's armour revealed at RuneFest 2011
+Torag the Corrupted (Christmas).png|Torag wearing a Santa hat during Christmas.
+Torag the Corrupted (Shadow, Christmas).png|Shadow Torag wearing a Santa hat during Christmas.
+</gallery>
+
+==Graphical updates==
+===NPCs===
+{{GU|subject=NPCs
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Torag the Corrupted (2005).png|name=Torag the Corrupted}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Torag the Corrupted (2008).png|name=Torag the Corrupted}}
+|{{GUL|date=[[4 January]] [[2012]]|update=A Very Barrows New Year!|img=Torag the Corrupted.png|name=Torag the Corrupted}}
+}}
+===Chatheads===
+{{GU|subject=Chatheads
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Torag the Corrupted (2005) chathead.png|name=Torag the Corrupted's chathead}}
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Torag the Corrupted (2008) chathead.png|name=Torag the Corrupted's chathead}}
+|{{GUL|date=[[3 December]] [[2009]]|update=The Temple at Senntisten|img=Torag the Corrupted (2009) chathead.png|name=Torag the Corrupted's chathead}}
+|{{GUL|date=[[4 January]] [[2012]]|update=A Very Barrows New Year!|img=Torag the Corrupted chathead.png|name=Torag the Corrupted's chathead}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased (only applies to barrows version):
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=Necromancy Patch Week - This Week In RuneScape|date=11 September 2023}}
+** The 50% combat experience reduction on bosses has been removed. Bosses now give 50 combat experience per 1,000 life points, like most other monsters in the game.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+** An old restriction preventing the use of the Salve Amulet at Barrows has been removed. It also works in Rise of the Six.
+
+* {{UL|type=patch|update=This Week In RuneScape: Celebration of Combat#Patch Notes|date=11 January 2021}}
+** Various bosses around RuneScape have taken their Santa Hats off for another year.
+
+* {{UL|type=patch|update=Patch Notes (23 October 2017)|date=23 October 2017}}
+** The right-click options on Barrows brothers spawned by other players have been removed.
+
+* {{UL|type=update|update=A Very Barrows New Year!|date=4 January 2012}}
+** Torag the Corrupted is graphically updated.
+
+* {{UL|type=update|update=Barrows|date=9 May 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Along with the graphical update on 4 January 2012, his combat level was increased from 115 to 146. Since the release of the Evolution of Combat, his combat level has been raised to 150.
+* While all the other Barrows Brothers have their weapon illustrated twice on their coffin Torag only has his weapon illustrated once in the series.
+* In the ''Pathfinder'' universe Torag is the deity in the earth domain that rules over the forge. Torag's favoured weapon is also the warhammer.
+* Torag's regular form still uses dual wielded hammers, rather than the new Torag's hammer. This may be an oversight by Jagex, as all the brothers still use pre-Evolution of Combat animations when attacking and defending.
+* Prior to an update, Torag drained run energy rather than adrenaline when his set effect was activated.
+
+==References==
+{{Reflist}}
+
+{{Barrows}}
+{{Barrows: Rise of the Six}}
+{{The Temple at Senntisten}}
+{{Ritual of the Mahjarrat}}
+{{Missing, Presumed Death}}
+{{Kindred Spirits}}
+{{Sliske's Endgame}}
+{{2016 Easter event}}
+{{Wights}}
+{{The Fall of Six}}
+[[Category:Saradominists]]
+[[Category:Participants in the God Wars]]
+[[Category:Sliskeans]]
+[[Category:Bosses]]
+[[Category:Familiar-immune monsters]]
+[[Category:NPCs that can move at running speed]]
+[[pt:Torag, o corrompido]]

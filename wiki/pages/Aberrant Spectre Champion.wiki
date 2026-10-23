@@ -1,0 +1,85 @@
+{{Infobox Monster
+|name = Aberrant Spectre Champion
+|image = [[File:Aberrant Spectre Champion.png|240px]]
+|release = [[9 November]] [[2009]]
+|update = Champions' Challenge Update and Hairstyles
+|members = Yes
+|actions = Attack, Examine
+|examine = Champion of the aberrant spectres.
+|level = 84
+|lifepoints = 5500
+|slaylvl = 60
+|slayxp = 45.4
+|experience = 275.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Aberrant spectres, Ghosts, Undead
+|max_melee = 551
+|max_ranged = 0
+|max_magic = 1102
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 5
+|attack = 30
+|ranged = 1
+|magic = 60
+|necromancy = 1
+|acc_melee = 454
+|acc_ranged = 0
+|acc_magic = 1132
+|acc_necromancy = 0
+|armour = 1132
+|defence = 60
+|weakness = Arrows
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = minigame
+|leagueRegion = Misthalin&Desert,Misthalin&Morytania
+|id = 8987
+}}
+[[File:Aberrant spectre banner detail.png|left]] 
+The '''Aberrant Spectre Champion''' is one of the 16 champions fought as part of the [[Champion's Challenge]] Distraction and Diversion. Like the other champions, he may be fought beneath the [[Champions' Guild]], but only after a player finds an [[Aberrant spectre champion scroll]], which is a very rare drop from [[Aberrant spectre]]s. After being defeated the first time, he may be fought again weekly for additional slayer and constitution experience.
+
+Like the other champions, there is a special restriction during the fight with him; in his case, only two-handed weapons such as a [[spear]], [[bow]], [[two-handed sword]], or [[Staff (weapon type)|staff]] are allowed. As he is an Aberrant spectre, bringing a [[nose peg]] or [[slayer helmet]] is highly recommended, otherwise his stench will damage you greatly and reduce your combat stats and agility.
+
+[[File:Banner carrier (aberrant spectre).png|left|80px]]
+The Aberrant Spectre Champion is one of the more difficult champions, although is still relatively easy. His attacks are relatively powerful, but as he only attacks with magic, all of his attacks can be cut in half by the [[Protect from Magic]] prayer. He is weak to arrows, so using ranged may be helpful. Wearing a [[salve amulet]] or [[salve amulet (e)]] may also be useful.
+
+==Rewards==
+[[File:Aberrant Spectre Champion reward.png|375px]]
+*{{Skill XP|Slayer|3232}} [[Slayer XP lamp (Aberrant Spectre)|lamp]]
+*{{Skill XP|Constitution|3232}} [[Constitution XP lamp (Aberrant Spectre)|lamp]]
+*A new banner hung under the [[Champions' Guild]] to celebrate victory
+
+==Works==
+{{Worksby}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Champions' Challenge Update and Hairstyles|date=9 November 2009}}
+** Added to game.
+}}
+
+{{Champions}}
+{{Ghost}}

@@ -1,0 +1,65 @@
+{{Infobox Monster
+|name = Ravenous ghoul
+|image = [[File:Ravenous ghoul (Mazchna).png]]
+|release = [[21 April]] [[2010]]
+|update = Slayer Challenges
+|members = Yes
+|examine = It's totally savage.
+|level = 70
+|lifepoints = 9500
+|experience = 475.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 440.0
+|slayercat = Ghouls
+|assigned_by = Mazchna
+|max_melee = 480
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 50
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania
+|id = 11265
+}}
+A '''ravenous ghoul''' appears at [[fairy ring]] {{fairycode|CKS}} near the [[mushroom patch]] west of [[Canifis]] when the player is on a [[Slayer/Challenges|Slayer challenge]] assigned by [[Mazchna]] or [[Achtryn]]. For the challenge, the player must be near the ring and must contact Mazchna or Achtryn using an [[enchanted gem]]. The monster will then appear near the ring and attack the player.
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Slayer Challenges|date=21 April 2010}}
+** Added to game.
+}}

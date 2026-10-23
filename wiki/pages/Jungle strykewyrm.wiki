@@ -1,0 +1,252 @@
+{{Infobox Monster
+|name = Jungle strykewyrm
+|image = [[File:Jungle strykewyrm.png|200px|A Jungle strykewyrm]]
+|release = [[8 February]] [[2010]]
+|update = Strykewyrms
+|members = Yes
+|options = Investigate, Attack
+|examine = Who said worms were small and harmless?
+|level = 93
+|lifepoints = 8500
+|experience = 425.0
+|aggressive = No
+|poisonous = 42
+|slaylvl = 73
+|slayxp = 249.8
+|slayercat = Jungle strykewyrms, Strykewyrms
+|assigned_by = Chaeldar, Sumona, Duradel, Kuradal
+|max_melee = 643
+|max_ranged = 643
+|max_magic = 643
+|max_necromancy = 0
+|max_spec = 1800
+|style = magic, melee
+|primarystyle = ranged
+|speed = 4
+|attack = 67
+|ranged = 67
+|magic = 67
+|necromancy = 1
+|acc_melee = 1486
+|acc_ranged = 1486
+|acc_magic = 1486
+|acc_necromancy = 0
+|armour = 1372
+|defence = 67
+|weakness = Stab
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 9467
+|leagueRegion = kandarin
+}}
+[[File:Jungle strykewyrm icon.png|left]]
+'''Jungle strykewyrms''' are [[Slayer]] monsters that are located south of Feldip Hills and north-west of [[Oo'glog]], north-east of the [[Warforge Dig Site]]. They are accessible at 73 Slayer and can be attacked off task. In order to fight them, players must click one to "Investigate" the mound, which will cause them to stomp on the ground. Only once this is done will the strykewyrm come to the surface to fight. They are assigned by [[Chaeldar]], [[Sumona]], [[Duradel]], and [[Kuradal]], or by [[Laniakea]] as part of the [[Strykewyrms]] cluster task.
+
+The quickest ways to reach Jungle strykewyrms are by using the [[South Feldip Hills Teleport]] spell, a [[ring of duelling]]'s Warforge teleport option, the Warforge option from the archaeological map at the Archaeology Guild, the [[Mask of the Green Wyrm]] teleport option, the [[Oo'glog lodestone]], or using a [[Spirit Tree]] to get to the South Feldip Hills.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=Southwest of [[Feldip Hills]]
+|lvls=93
+|mem=yes
+|mapID=28
+|npcid:9466,x:2445,y:2896|npcid:9466,x:2450,y:2902|npcid:9466,x:2451,y:2894
+|npcid:9466,x:2451,y:2915|npcid:9466,x:2453,y:2908|npcid:9466,x:2457,y:2913
+|npcid:9466,x:2458,y:2919|npcid:9466,x:2459,y:2902|npcid:9466,x:2460,y:2906
+|npcid:9466,x:2465,y:2911|npcid:9466,x:2466,y:2921
+|leagueRegion=Kandarin
+}}
+{{LocTableBottom}}
+
+==Attacks==
+Jungle strykewyrms have three attack types:
+* A fairly weak and inaccurate melee attack which can hit diagonally.
+* A fairly weak magic attack that looks like a large purple ball which explodes upon impact.
+* A special attack when the wyrm tunnels down into the ground and then bursts out beneath the spot where the player was standing with tremendous force, hitting 900-2000. This attack can be avoided by running away. (This attack can be prevented by standing with your back or side to an obstacle, such as rocks. This is highly recommended.)
+
+It is highly recommended to bring [[antipoison]] unless you are high level with access to the [[Soul Split]] curse or other self healing.  If [[As a First Resort]] has been completed, the thermal bath at [[Oo'glog]], a short distance away, will provide a 10 minute anti-poison effect. The tier 3 [[Spa (Anachronia base camp)|Anachronia base camp Spa]] upgrade extend the poison immunity to 20 minutes, via every spa location.
+
+==Healing on site==
+There are [[lobster]], [[tuna]]/[[swordfish]], [[shark]] and [[big net]] fishing spots along the coastline, near the strykewyrms. Jungle vegetation can also be cut nearby. Since the [[tool belt]] update, the player has access to an unlimited food supply by utilising this. Alternatively to fire, a bunyip familiar and [[Bunyip scroll (Swallow Whole)]]s make for a good healing strategy. The wyrms also drop a modest amount of food, which combined with Soul Split, [[Vampyrism]] spell or scrimshaws, or healing weapons and armour can be sufficient.
+
+==Weaknesses==
+Jungle strykewyrms are weak against stab attacks. They are poison-immune, rendering poison-related effects such as [[weapon poison]], [[cinderbane gloves]], and the [[wyvern crossbow]]'s passive useless.
+
+Once the strykewyrms spawn to the surface, whether after a special attack or an inspection, the wyrm will not attack for a few seconds. This gives you the opportunity to attack it without retaliation. When asked for tips, [[Slayer Master]]s note that they are inherently passive creatures, who become aggressive upon sensing the slayer's own ill intent.
+
+As with all strykewyrms, the Jungle strykewyrm will only perform its tunnelling attack if the 3 {{x}} 3 square area around the attacking player is free from obstructions. As the jungle area is littered with rocks and trees, players are likely to be able to move into a position where they can attack without fear of such a retaliation. If abilities are used properly, it is rare that they will have a chance to tunnel. This attack is easily dodged by moving out of the area immediately around the player when the strykewyrm begins to tunnel.
+
+Since they attack with melee most of the time, melee armour is suggested for killing them. Using [[Attack potion|attack]] and [[strength potion]]s can increase your stay times and make the tasks and kill go faster, eliminating extra damage that may occur from slower kills. There is no need to bring [[super defence]] potions because they drop them quite frequently.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Unique===
+{{DropsTableHead}}
+{{DropsLine|name=Hexcrest|quantity=1|rarity=1/512|altrarity=1/253|altraritydash=y|raritynotes={{DropNote|1/256 when on a [[Slayer assignment]] and 1/512 otherwise. Both rates are improved by 1% with tier 2 or higher [[luck]].}}|citations={{CiteReddit|url=https://www.reddit.com/r/runescape/comments/1gk4qby/comment/lw3h5na/|date=8 November 2024|title=AMA with Mod Sponge: Dive into the New Slayer Update & Combat Q&A tomorrow on stream!|author=Mod Sponge|quote=they are both 1/512 off task 1/256 on task|archiveurl=https://archive.ph/0OSuP|archivedate=8 November 2024}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Death rune|quantity=10|rarity=3/101}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|12/101}} ''There is a 6/101 chance of dropping one herb, a 5/101 chance of dropping two herbs and a 1/101 chance of dropping four herbs, averaging 1.67 herbs per roll. There is an additional 2/101 chance of dropping a grimy cadantine.''
+{{DropsTableHead}}
+{{DropsLine|name=Grimy cadantine|quantity=1 (noted)|rarity=2/101}}
+{{HerbDropTable|12/101|1, 2, 4|noted=yes}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|8/101}} ''There is an additional 2/101 chance of rolling a toadflax seed.''
+{{TreeSeedDropTableIntro|1/101}}
+{{DropsTableHead}}
+{{DropsLine|name=Toadflax seed|quantity=1|rarity=2/101}}
+{{RareSeedDropTable|8/101}}
+{{TreeSeedDropTable|1/101|2500}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Super defence (1)|quantity=1|rarity=13/101}}
+{{DropsLine|name=Lobster|quantity=1|rarity=13/101}}
+{{DropsLine|name=Lobster|quantity=2|rarity=1/101}}
+{{DropsTableBottom}}
+
+===Talismans===
+{{TalismanDropTableIntro|1/101}}
+{{DropsTableHead}}
+{{TalismanDropTable|1/101}}
+{{DropsTableBottom}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril stone spirit|quantity=2|rarity=5/101|raritynotes={{DropNote|When two mithril stone spirits are dropped, they drop alongside a seed.}}}}
+{{DropsLine|name=Mithril stone spirit|quantity=5|rarity=4/101}}
+{{DropsLine|name=Teak wood spirit|quantity=8|rarity=6/101|raritynotes={{DropNote|Teak wood spirits are always dropped alongside 200 coins.}}}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=200|rarity=11/101}}
+{{DropsLine|name=Coins|quantity=220|rarity=13/101}}
+{{DropsLine|name=Coins|quantity=1000-2499|rarity=3/101}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Papaya fruit|quantity=5-9 (noted)|rarity=6/101}}
+{{DropsLine|name=Tiny bladed adamant salvage|quantity=1|rarity=2/101}}
+{{DropsLine|name=Spirit weed seed|quantity=1|rarity=2/101}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|4/101}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=10/1280|gemw=No}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=297/128000|raritynotes={{DropNote|name=elite|There's a 1% chance an elite clue scroll will be upgraded to a master clue scroll.}}|gemw=No}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=3/128000|raritynotes={{DropNote|name=elite}}|gemw=No}}
+{{DropsLineEffigy|level=93}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=93}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 55.987/1000
+|green = 139.968/1000
+|crimson = 22.394/1000
+|blue = 11.197/1000
+}}
+
+==Products==
+{{Uses facility list|Jungle strykewyrm}}
+
+==Achievements==
+* {{Achievement|Let It Go, Legio}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=July Quest Qol and Game Health Update - This Week In RuneScape|date=14 July 2025}}
+** Added new sources for Spirit Weed Seeds, Inert Adrenaline Crystals and Sirenic Scales across various Slayer monsters:
+*** Spirit Weed seeds - Automatons, Strykewyrms, Turoths, Gemstone Dragons (on task), Brutish Dinosaurs, Grotworms, Moss Giants, Flesh Crawlers, Cockatrices, Kurask and Rare Seed Drop Table.
+
+* {{UL|type=patch|update=110 Crafting Patch Week- This Week In RuneScape|date=23 June 2025}}
+** Fixed an issue with the spring cleaner in rare cases not alchemising salvage at various Strykewyrms.
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[teak logs]] drop with [[teak wood spirit]]s.
+
+* {{UL|type=patch|update=QoL Mini Strike & Advent Calendar - This Week In RuneScape|date=28 November 2022}}
+** Desert, Ice and Jungle Strykewyrms no longer require a Slayer task to attack.
+
+* {{UL|type=patch|update=Patch Notes (10 September 2018)|date=10 September 2018}}
+** The Jungle Strykewyrms information in the [[Slayer Creature kills tab]] will no longer be out of the alphabetical order.
+
+* {{UL|type=ninja|update=Patch Notes (1 August 2016)|date=1 August 2016}}
+** Jungle Strykewyrms now have 8,500 lifepoints (up from 6,000), a max hit of 643 (up from 268) and greater accuracy.
+** Players can now investigate Strykewyrm mounds from a distance, allowing players to stomp a mound when using ranged and magic combat styles.
+** The delay in switching from mound to Strykewyrm has been reduced.
+
+* {{UL|type=patch|update= Patch Notes (13 August 2013)|date=13 August 2013}}
+** Strykewyrms no longer show two combat overlays.
+
+* {{UL|type=patch|update=Patch Notes (24 October 2012)|date=24 October 2012}}
+** Players can no longer stand underneath a strykewyrm for so long before it decides to knock the player back. 
+
+* {{UL|type=patch|update=Patch Notes (7 September 2010)|date=7 September 2010}}
+** Strikewyrms would not perform their special attack if they thought you had a pet cat.
+
+* {{UL|type=patch|update=Patch Notes (25 May 2010)|date=25 May 2010}}
+** Strykewyrms can still be damaged even if you've recently been in combat with ogres.
+
+* {{UL|type=patch|update=Shattered Heart|date=3 March 2010}}
+** Strykewyrms can no longer lose focus on the player they were attacking.
+
+* {{UL|type=patch|update=Patch Notes (22 February 2010)|date=22 February 2010}}
+** Moved a strykewyrm further away from a tree.
+** Corrected the jungle strykewyrm hint info from Kuradal.
+
+* {{UL|type=coldfix|update=|date=11 February 2010}}{{CiteForum|author=Mod Nexus|url=http://services.runescape.com/m=forum/forums.ws?15,16,94,60365817|title=System Update...|forum=Recent Updates|postdate=11 February 2010|archiveurl=https://reldo.runescape.wiki/i/5770848|archivedate=14 February 2010}}
+** As promised, [[Kuradal]] can now hand out jungle strykewyrm tasks.
+** Fixed a problem where random events would interfere with fighting strykewyrms.
+** Added a few more styrkewyrms to the various areas.
+** Drop tables for the strykewyrms were intended to give slightly random amounts of items, this is now the case and the drops are still very generous.
+
+* {{UL|type=update|update=Strykewyrms|date=8 February 2010}}
+** Added to game.
+}}
+
+==Trivia==
+* Jungle strykewyrms, along with the other strykewyrms, were the first monsters in ''RuneScape'' that made use of [[Particles|particle]] effects.
+* The release of strykewyrms was hinted at by the Chaos Elemental in the Postbag a few weeks earlier and by the Twitter Clue "Three strykes and they're out" which is a pun on the baseball term ''Three strikes and you're out!''. The Twitter Clue was also posted on Facebook.
+* As of [[1 February]] [[2018]], the highest kill count for this monster was 33,614 kills.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=http://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+** This had increased to 37,249 by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=http://archive.is/Fxc11|archivedate=28 February 2020|notes=|name=}}
+* Prior to the update on [[28 November]] [[2022]], the players were required to be on a slayer task to damage this creature.
+
+==References==
+{{Reflist}}
+
+{{Strykewyrms}}
+{{Slayer monsters}}
+[[Category:Tier 2 luck]]
+[[pt:Vermetanque da selva]]

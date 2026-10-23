@@ -1,0 +1,56 @@
+{{Infobox Monster
+|version1 = Regular
+|version2 = Hydra
+|name1 = Fabricated rock patriarch
+|name2 = Fabricated rock patriarch (hydra)
+|image1 = [[File:Fabricated rock patriarch.png|200px]]
+|image2 = [[File:Fabricated rock patriarch (hydra).png|200px]]
+|release = [[2 May]] [[2017]]
+|update = Shattered Worlds
+|members = Yes
+|options = Attack
+|examine = A being of ore and minerals.
+|level = 1
+|lifepoints = 200
+|experience = 10.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat1 = Living rock creatures
+|max_melee = 9
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 110
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Nothing
+|aff_weakness = 65
+|aff_melee = 65
+|aff_ranged = 65
+|aff_magic = 65
+|immune_to_poison = No
+|restriction = minigame
+|leagueRegion = Asgarnia
+|id1 = 24255
+|id2 = 24256
+}}
+'''Fabricated rock patriarchs''' can be found while playing [[Shattered Worlds]]. Their levels and stats scale to the world the player finds them on. They count as [[living rock creature]]s for [[Slayer task]]s. 
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Shattered Worlds|date=2 May 2017}}
+** Added to game.
+}}
+
+{{Shattered Worlds}}

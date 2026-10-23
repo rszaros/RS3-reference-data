@@ -1,0 +1,178 @@
+{{Confuse|Ravenous ghoul (Mazchna)}}
+{{Infobox Monster
+|name = Ravenous ghoul
+|image = [[File:Ravenous ghoul.png|175px]]
+|release = [[11 April]] [[2016]]
+|update = Morytania Madness - Plushies - Myreque Memorial
+|race = ghoul
+|members = Yes
+|actions = Attack
+|examine = It's totally savage.
+|level = 105
+|lifepoints = 14500
+|experience = 725.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 440.0
+|slayercat = Ghouls
+|assigned_by = mazchna
+|max_melee = 595
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = melee
+|speed = 4
+|attack = 75
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 1694
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 1694
+|defence = 75
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania
+|id = 22544
+}}
+[[File:Ravenous ghoul icon.png|left]]
+The '''ravenous ghoul''' is a monster found in the [[Slayer Tower Mausoleum|mausoleum]] below the graveyard north of [[Canifis]].
+
+The crypt can be entered via a [[Mausoleum entrance (Slayer Tower)|trapdoor]] in the south east corner of the [[Slayer Tower]], as well as [[Mausoleum (Slayer Tower)|another entrance]] to the east of the [[lustrous wisp]] colony.
+
+It is not recommended to slay these for the [[Ghoul Champion's scroll]] as they have significantly higher life points with the same drop rate as normal [[ghoul]]s and they cannot be cannoned, as their crypts do not allow setting up a [[dwarf multicannon]]. If the player has a [[blood essence]] equipped, all ghouls in the crypt will become aggressive. This also works for ravenous ghouls placed in the [[Sunken Pyramid]]. The blood essence does not need charges for their aggressiveness.
+
+They are considered ghouls for the [[Ghouls (Slayer assignment)|regular ghoul Slayer assignment]].
+
+{{Map|mtype=pin|x:3445,y:3544,title:To Slayer Tower|x:3491,y:3544,title:To Canifis cemetery|caption=Entrances to the ghoul mausoleum.|align=right}}
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Slayer Tower Mausoleum]]
+|lvls=105
+|mem=yes
+|mapID=-1
+|npcid:22544,x:4431,y:7898|npcid:22544,x:4432,y:7909|npcid:22544,x:4435,y:7893
+|npcid:22544,x:4435,y:7904|npcid:22544,x:4436,y:7912|npcid:22544,x:4437,y:7899
+|npcid:22544,x:4440,y:7894|npcid:22544,x:4440,y:7908|npcid:22544,x:4442,y:7899
+|npcid:22544,x:4445,y:7905|npcid:22544,x:4447,y:7909|npcid:22544,x:4448,y:7899
+|npcid:22544,x:4450,y:7895|npcid:22544,x:4453,y:7902
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Splitbark wand|quantity=1|rarity=3/128}}
+{{DropsLine|name=Splitbark orb|quantity=1|rarity=3/128}}
+{{DropsLine|name=Splitbark helm|quantity=1|rarity=6/128}}
+{{DropsLine|name=Splitbark body|quantity=1|rarity=3/128}}
+{{DropsLine|name=Splitbark legs|quantity=1|rarity=3/128}}
+{{DropsLine|name=Splitbark gauntlets|quantity=1|rarity=8/128}}
+{{DropsLine|name=Splitbark boots|quantity=1|rarity=8/128}}
+{{DropsLine|name=Bruise blue snelm (pointed)|quantity=1|rarity=2/128}}
+{{DropsLine|name=Bruise blue snelm (round)|quantity=1|rarity=2/128}}
+{{DropsLine|name=Ochre snelm (pointed)|quantity=1|rarity=4/128}}
+{{DropsLine|name=Ochre snelm (round)|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|8/128}}
+{{DropsTableHead}}
+{{HerbDropTable|8/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|8/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|8/128}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Super attack (2)|quantity=1|rarity=6/128}}
+{{DropsLine|name=Super strength (2)|quantity=1|rarity=6/128}}
+{{DropsLine|name=Super defence (2)|quantity=1|rarity=6/128}}
+{{DropsLine|name=Shark|quantity=1|rarity=14/128}}
+{{DropsLine|name=Monkfish|quantity=1|rarity=10/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=2-10|rarity=10/128}}
+{{DropsLine|name=Coins|quantity=403-1000|rarity=8/128}}
+{{DropsLine|name=Mort myre fungus|quantity=2 (noted)|rarity=6/128}}
+{{DropsLine|name=Nature talisman|quantity=1|rarity=}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-14|rarity=1/20}}
+{{DropsLine|name=Ghoul Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Ghoul Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 698.086/1000
+|green = 49.863/1000
+|crimson = 49.863/1000
+|blue = 9.973/1000
+}}
+
+==Money making guide==
+{{Mmgsection|Killing ravenous ghouls}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Ravenous ghoul concept art.png|Concept art
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Double XP & Amascut next steps - This Week In RuneScape|date=11 August 2025}}
+** Ravenous ghoul's soul can now be captured with a Ushabti by defeating Ravenous ghouls.
+
+* {{UL|type=patch|update=Patch Notes (26 May 2020)|date=26 May 2020}}
+** Players are no longer able to attack through a wall in the ravenous ghoul area.
+
+* {{UL|type=update|update=Morytania Madness - Plushies - Myreque Memorial|date=11 April 2016}}
+** Added to game.
+}}
+
+{{Slayer monsters}}
+{{Slayer Tower}}

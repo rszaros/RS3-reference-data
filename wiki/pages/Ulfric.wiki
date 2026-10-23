@@ -1,0 +1,84 @@
+{{External|os}}
+{{Infobox Monster
+|name = Ulfric
+|image = [[File:Ulfric.png|200px]]
+|release = [[10 April]] [[2007]]
+|update = Olaf's Quest
+|members = Yes
+|examine = What could be worse than an angry, undead fremennik?
+|options = Attack
+|level = 49
+|lifepoints = 3500
+|experience = 175.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 43
+|slayercat = Skeletons, Undead
+|max_melee = 210
+|max_ranged = 210
+|max_magic = 210
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|speed = 6
+|attack = 35
+|ranged = 35
+|magic = 35
+|necromancy = 1
+|acc_melee = 536
+|acc_ranged = 536
+|acc_magic = 536
+|acc_necromancy = 0
+|armour = 536
+|defence = 35
+|weakness = Nothing
+|aff_weakness = 40
+|aff_melee = 40
+|aff_ranged = 40
+|aff_magic = 40
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 3706
+|leagueRegion=Fremennik}}
+'''Ulfric Longbeard''' is an undead [[Fremennik]] sailor. His vessel was one of several that transported treasure. However, some of the treasure was cursed, causing the ships to crash. Ulfric's ship crashed into a [[Brine Rat Cavern|cavern]], and he and his [[Skeleton fremennik|crew]] perished there.
+
+[[Sven the Helmsman]], one of Ulfric's crew, drew a [[Sven's last map|map]], which eventually made its way to his grandson [[Olaf Hradson]]. Olaf failed to find the treasure and, believing the map to be cursed, gave it to an adventurer who helped him. The adventurer found the cavern and located the treasure. When they tried to take it, Ulfric rose from the dead to defend it.
+
+He acts as the final [[boss]] during [[Olaf's Quest]]. He is fairly easy to defeat due to his low and inaccurate hits. [[Protect from Melee]] can be used to reduce the damage from his attacks, or he can be safespotted by using his gravestone as a barrier.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Works==
+{{Worksby}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Ulfric old.png|name=Ulfric}}
+|{{GUL|date=|update=|img=Ulfric.png|name=Ulfric}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Olaf's Quest|date=10 April 2007}}
+** Added to game.
+}}
+
+{{Olaf's Quest}}
+{{Skeleton}}
+{{Fremennik}}
+[[Category:Quest monsters]]
+[[Category:Bosses]]
+[[Category:Deceased characters]]

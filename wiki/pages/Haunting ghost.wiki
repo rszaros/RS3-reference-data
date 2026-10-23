@@ -1,0 +1,66 @@
+{{Infobox Monster
+|version1 = Story mode
+|version2 = Normal mode
+|name = Haunting ghost
+|image = Haunting ghost.png
+|release = [[20 November]] [[2023]]
+|update = Vorkath, Battle for Forinthry - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|race = Ghost
+|examine = Coming for you.
+|level = 97
+|lifepoints1 = 9000
+|lifepoints2 = 18000
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp =
+|slayercat = Ghosts, Undead
+|max_melee = 0
+|max_ranged = 0
+|max_magic1 = 375
+|max_magic2 = 1256
+|max_necromancy = 
+|max_spec = 0
+|style = Magic
+|primarystyle = Magic
+|speed = 5
+|attack = 1
+|ranged = 1
+|magic = 75
+|necromancy = 0
+|acc_melee = 
+|acc_ranged = 
+|acc_magic = 
+|acc_necromancy = 
+|abilities =
+|armour = 1299
+|defence = 65
+|weakness = Arrow
+|susceptibility = undead
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain =
+|restriction = 
+|leagueRegion = Misthalin
+|id = 30663, 30670
+}}
+The '''haunting ghosts''' are [[monster]]s fought during the [[Zemouregal & Vorkath]] battle in the [[Zemouregal & Vorkath#Siege phase|siege phase]].
+
+Two of them guard the northern [[place of power]]. While normally unaggressive, they attack the player when the [[Undead giant (Battle of Forinthry)|undead giant]] at the place of power is engaged and the player is in their range.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Vorkath, Battle for Forinthry - This Week In RuneScape|date=20 November 2023}}
+** Added to game.
+}}
+
+{{Zemouregal & Vorkath}}
+{{Battle of Forinthry}}
+[[Category:NPCs that can move at running speed]]

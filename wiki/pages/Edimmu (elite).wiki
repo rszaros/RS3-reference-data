@@ -1,0 +1,178 @@
+{{Infobox Monster
+|name = Edimmu
+|image = [[File:Edimmu (elite).png|150px]]
+|release = [[10 November]] [[2014]]
+|update = Prifddinas - Lost City of the Elves - Part 2
+|members = Yes
+|options = Attack
+|examine = A highly powerful spiritual zombie that sucks life out of its victims.
+|level = 125
+|lifepoints = 96000
+|experience = 4800.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 90
+|slayxp = 2044.6
+|slayercat = Edimmu, Creatures of Daemonheim, Undead, Ghosts, Zombies
+|max_melee = 1050
+|max_ranged = 0
+|max_magic = 1050
+|max_necromancy = 0
+|max_spec = 0
+|style = melee,magic
+|primarystyle = magic
+|speed = 3
+|attack = 95
+|ranged = 1
+|magic = 95
+|necromancy = 1
+|acc_melee = 2765
+|acc_ranged = 0
+|acc_magic = 2765
+|acc_necromancy = 0
+|armour = 2458
+|defence = 85
+|weakness = Nothing
+|susceptibility = Undead, Ghost, ruinous
+|aff_weakness = 90
+|aff_melee = 45
+|aff_ranged = 65
+|aff_magic = 55
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Tirannwn
+|id = 20291
+}}
+[[File:Edimmu icon.png|left]]
+'''Elite Edimmu''' are level 90 [[Slayer]] creatures found in the [[Edimmu resource dungeon]] in [[Prifddinas]]. They can only be fought while on a [[slayer assignment]] (unless using [[Slayer Wildcard]]s), and will randomly spawn while fighting [[Edimmu|normal edimmu]]. In addition, it can only be attacked by the player it is after, and nobody else, for three minutes. Edimmu are assigned by [[Duradel]]/[[Lapalok]], [[Kuradal]], [[Morvran]] and [[Laniakea]]. They can also be killed under several cluster assignments, such as [[Undead (Slayer assignment)|undead]], [[Ghosts (Slayer assignment)|ghosts]], [[Zombies (Slayer assignment)|zombies]], and [[Creatures of Daemonheim]], effectively adding [[Jacquelyn]] and [[The Raptor]] as slayer masters that can assign edimmu. They attack with both magic and melee, and will heal for 25% of the damage they deal. Their ashes can be collected in an [[infernal urn]].
+
+Elite spawn rates can be further increased with the use of [[fellstalk incense stick]]s and tier 3 [[luck]]. Elite edimmu are larger than normal edimmu (being a 2x2 monster compared to 1x1), deal more damage and attack a tick faster than them. Elite edimmu have a greater chance of dropping [[blood necklace shard]]s and are the only monsters to drop an [[Edimmu (item)|edimmu pet]].
+
+As only elite edimmu can drop the edimmu pet, which is an item in the [[Slayer collection log]], players can use [[Jacquelyn]]'s short tasks to fight many elite edimmu under the ghosts and zombies cluster tasks. [[Slayer Introspection]] can be used to lower the assignment count to 15 and the [[Slayer master cape]] perk can be used alongside slayer points to skip tasks until a ghosts or zombies tasks is assigned. At least one elite monster is guaranteed to spawn in a slayer task, this effectively lets the player fight at least 1 elite edimmu every 15 edimmu kills. [[NPC Contact]] can be used to minimise travel and teleport time. 
+Jacquelyn only has 12 different kinds of Slayer tasks, and players can block up to 8 of them, which greatly increases the chance of receiving the same tasks multiple times in a row, [[Slayer VIP ticket]]s giving an increased chance to get either of the cluster tasks.
+
+Unlike their weaker brethren, elite edimmu do not have any weaknesses but still share the same affinities as them, making ranged the strongest, magic moderate, and melee the weakest against them.
+
+During combat, other normal edimmu have a higher chance of aggroing to the player, which can often cause the player to become overwhelmed, especially at melee distance.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+Elite edimmu use the same drop table as regular edimmu, but a number of drops are removed, leaving just crystal items, salvage, and tertiaries. They have an additional roll for attuned crystal seeds.
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Tortured soul|quantity=1|rarity=Always}}
+{{DropsLine|name=Tortured ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Attuned crystal seeds===
+''There is a 1/50 chance to roll an attuned seed, which is chosen randomly. This replaces any other drop (except tertiaries).''
+{{DropsTableHead}}
+{{DropsLine|name=Attuned crystal weapon seed|quantity=1|rarity=1/100}}
+{{DropsLine|name=Attuned crystal armour seed|quantity=1|rarity=1/100}}
+{{DropsTableBottom}}
+
+===Crystal items===
+''There is a 6/40 (approximately 1/6.6) chance to roll for any crystal weapon, shield, or seed. Once rolled, there is a 12/129 chance to choose a random weapon or shield (1/129 each), and 117/129 one of the three crystal seeds (39/129 each).''
+
+{{DropsTableHead}}
+{{DropsLine|name=Crystal dagger|quantity=1|rarity=6/{{#expr:40*129}}}}
+{{DropsLine|name=Off-hand crystal dagger|quantity=1|rarity=6/{{#expr:40*129}}}}
+{{DropsLine|name=Crystal halberd|quantity=1|rarity=6/{{#expr:40*129}}}}
+{{DropsLine|name=Crystal chakram|quantity=1|rarity=6/{{#expr:40*129}}}}
+{{DropsLine|name=Off-hand crystal chakram|quantity=1|rarity=6/{{#expr:40*129}}}}
+{{DropsLine|name=Crystal bow|quantity=1|rarity=6/{{#expr:40*129}}}}
+{{DropsLine|name=Crystal wand|quantity=1|rarity=6/{{#expr:40*129}}}}
+{{DropsLine|name=Crystal orb|quantity=1|rarity=6/{{#expr:40*129}}}}
+{{DropsLine|name=Crystal staff|quantity=1|rarity=6/{{#expr:40*129}}}}
+{{DropsLine|name=Crystal shield|quantity=1|rarity=6/{{#expr:40*129}}}}
+{{DropsLine|name=Crystal deflector|quantity=1|rarity=6/{{#expr:40*129}}}}
+{{DropsLine|name=Crystal ward|quantity=1|rarity=6/{{#expr:40*129}}}}
+{{DropsLine|name=Crystal armour seed|quantity=1|rarity={{#expr:6*39}}/{{#expr:40*129}}}}
+{{DropsLine|name=Crystal tool seed|quantity=1|rarity={{#expr:6*39}}/{{#expr:40*129}}}}
+{{DropsLine|name=Crystal weapon seed|quantity=1|rarity={{#expr:6*39}}/{{#expr:40*129}}}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Medium plated rune salvage|quantity=1|rarity=12/128}}
+{{DropsLine|name=Large bladed rune salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Large plated rune salvage|quantity=1|rarity=18/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Edimmu (item)|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|1/496 with tier 3 luck or higher active.}}|citations={{CiteTwitter|author=Mod Timbo|url=https://twitter.com/JagexTimbo/status/1133316381049532421|quote=It's the same for the pet, it's 1/512 base or 1/496 with a T3 ring or better.|date=28 June 2019|archiveurl=http://archive.is/xjJko|archivedate=30 October 2019}}{{CiteTwitter|author=Mod Hunter|url=https://twitter.com/JagexHunter/status/535077003960262657|quote=Ed's 1/512, only dropped by large to give more of a reason to kill them and keep the pet rare! ;) @JagexRowley for dark cores!|date=19 November 2014|archiveurl=https://reldo.runescape.wiki/i/99599|archivedate=27 January 2019|notes=In response to the question: "What are the drop rates on the Eddie pet and the dark core pieces for Penny. Also why is Eddie only dropped by the big ones :("}}|gemw=no}}
+{{DropsLine|name=Rare drop table|quantity=1|rarity=1/100|altrarity=1/99|raritynotes={{DropNote|1/99 while tier 3 or higher [[luck]] is active.}}}}
+{{DropsLineBoneFragments|slayer_level=90}}
+{{DropsLine|name=Blood necklace shard|quantity=1|rarity=1/128|altrarity=1/126|raritynotes={{DropNote|1/126 if tier 3 or higher [[luck]] is active.}}}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=99/12800|raritynotes={{DropNote|name=elite|There is a 1/128 chance to roll for an elite clue scroll. If successful, there's a 1% chance it'll be upgraded to a [[sealed clue scroll (master)]].}}}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=1/12800|raritynotes={{DropNote|name=elite}}}}
+{{DropsLineTriskelion|rarity=1/2000|raritynotes={{DropNote|1/1940 while tier 3 or higher [[luck]] is active.|name=trisk}}}}
+{{DropsLineGhostlyEssence|quantity=7-11, 14-22|rarity=1/256|altrarity=1/96|raritynotes={{DropNote|While on an appropriate [[Slayer assignment]], there is a 1/96 chance to drop 14–22 ghostly essence.}}}}
+{{DropsLineGhosts|ectorarity=400|herbrarity=1024}}
+{{DropsLineEffigy|level=125}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=125}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.579/1000
+|green = 44.79/1000
+|crimson = 313.527/1000
+|blue = 8.958/1000
+}}
+
+===Rare drop table===
+{{Rare drop table|1/100}}
+
+==Gallery==
+<gallery mode="packed" heights="300">
+Elite monster spawned.png|An Edimmu (elite) spawned
+</gallery>
+
+==Achievements==
+* {{Achievement|61 Shades of Red}} 
+** [[Blood necklace shard]] and [[Edimmu (item)|edimmu pet]] drops
+*{{Achievement|Master of the Universe}}
+**[[Attuned crystal armour seed]] and [[attuned crystal weapon seed]] drops
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Mining & Smithing 110 Launching Today! - This Week In RuneScape|date=12 August 2024}}
+** The [[fire talisman]]s drop on the drop table has been replaced by [[primal stone spirit]]s.
+
+* {{UL|type=patch|update=Ongoing Um-provements - This Week In RuneScape|date=29 August 2023}}
+** Fixed an issue with Elite Edimmu not playing their death animation.
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Edimmu will work for Ghost, Zombie and Undead Slayer tasks.
+
+* {{UL|type=patch|update=Patch Notes (3 August 2015)|date=3 August 2015}}
+** Powerful edimmu will now occasionally drop attuned crystal weapon and armour seeds.
+
+* {{UL|type=patch|update=Patch Notes (18 May 2015)|date=18 May 2015}}
+** Edimmu can now walk and attack at the same time.
+
+* {{UL|type=update|update=Prifddinas - Lost City of the Elves - Part 2|date=10 November 2014}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{Elite monster}}
+{{Zombie}}
+[[pt:Edimmu (elite)]]

@@ -1,0 +1,99 @@
+{{Infobox Monster
+|version1 = 2
+|version2 = 19
+|version3 = 36
+|version4 = 53
+|name = Bat
+|image = [[File:Bat.png|250px]]
+|release = [[5 February]] [[2013]]
+|update = Sinkholes
+|members = Yes
+|options = Attack
+|examine = A winged pig-mouse.
+|leagueRegion = Morytania,Fremennik,Kandarin,Karamja,Misthalin,Asgarnia,Desert,Havenhythe
+|level1 = 2
+|level2 = 19
+|level3 = 36
+|level4 = 53
+|lifepoints1 = 200
+|lifepoints2 = 600
+|lifepoints3 = 600
+|lifepoints4 = 600
+|slaylvl = 1
+|slayxp1 = 12.8
+|slayxp2 = 3.2
+|slayxp3 = 4.4
+|slayxp4 = 7.8
+|experience1 = 10.0
+|experience2 = 30.0
+|experience3 = 30.0
+|experience4 = 30.0
+|aggressive = No
+|poisonous = No
+|slayercat = Bats
+|assigned_by = Turael, Spria, Mazchna, Vannaka, Jacquelyn
+|max_melee1 = 8
+|max_melee2 = 152
+|max_melee3 = 152
+|max_melee4 = 152
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 2
+|attack2 = 38
+|attack3 = 38
+|attack4 = 38
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 20
+|acc_melee2 = 380
+|acc_melee3 = 380
+|acc_melee4 = 380
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 20
+|armour2 = 380
+|armour3 = 380
+|armour4 = 380
+|defence1 = 2
+|defence2 = 38
+|defence3 = 38
+|defence4 = 38
+|weakness = Nothing
+|aff_weakness = 80
+|aff_melee = 80
+|aff_ranged = 80
+|aff_magic = 80
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|restriction = minigame
+|id1 = 16759
+|id2 = 16762
+|id3 = 16762
+|id4 = 16762
+}}
+'''Bats''' are monsters found in [[Sinkholes]]. They are generally low-levelled, and don't hit very high.
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Combat totem|quantity=1|rarity=Always|gemw=no|alch=no|leagueRegion=Morytania,Fremennik,Kandarin,Karamja,Misthalin,Asgarnia,Desert,Havenhythe}}
+{{DropsTableBottom}}
+
+===Cards===
+{{DropsTableSinkholesCards|showlv85=n}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Sinkholes|date=5 February 2013}}
+** Added to game.
+}}
+
+{{Sinkholes}}

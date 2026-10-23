@@ -1,0 +1,108 @@
+{{Cache}}
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 33
+|version2 = 58
+|version3 = 85
+|version4 = 112
+|version5 = 138
+|name = Gorak
+|image = Gorak.png
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|options = Attack, Mark
+|examine = Gorak by name, Gorak by nature.
+|level1 = 33
+|level2 = 58
+|level3 = 85
+|level4 = 112
+|level5 = 138
+|lifepoints1 = 2400
+|lifepoints2 = 4200
+|lifepoints3 = 6100
+|lifepoints4 = 8000
+|lifepoints5 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Goraks
+|max_melee1 = 96
+|max_melee2 = 168
+|max_melee3 = 244
+|max_melee4 = 320
+|max_melee5 = 396
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack1 = 24
+|attack2 = 42
+|attack3 = 61
+|attack4 = 80
+|attack5 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 368
+|acc_melee2 = 668
+|acc_melee3 = 1164
+|acc_melee4 = 1924
+|acc_melee5 = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 368
+|armour2 = 668
+|armour3 = 1164
+|armour4 = 1924
+|armour5 = 3031
+|defence1 = 24
+|defence2 = 42
+|defence3 = 61
+|defence4 = 80
+|defence5 = 99
+|weakness1 = Air
+|weakness2 = Water
+|weakness3 = Earth
+|weakness4 = Fire
+|weakness5 = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = removed
+|id1 = 10207
+|id2 = 10208
+|id3 = 10209
+|id4 = 10210
+|id5 = 10211
+|leagueRegion = Wilderness
+}}
+'''[[Gorak]]s''' were intended to be found in [[Daemonheim]] while training the [[Dungeoneering]] skill, but they were scrapped before release for unknown reasons. It is unknown which set of floors they would have been found on, or if they would have possessed the stat-draining attacks of standard goraks.
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[12 April]] [[2010]]|update=Dungeoneering Skill!|img=Gorak (2008).png|name=Gorak}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God_Wars:_Remastered|img=Gorak.png|name=Gorak}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering}}

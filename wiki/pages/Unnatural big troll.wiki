@@ -1,0 +1,59 @@
+{{Infobox Monster
+|version1 = Regular
+|version2 = Hydra
+|name1 = Unnatural big troll
+|name2 = Unnatural big troll (hydra)
+|image1 = [[File:Unnatural big troll.png]]
+|image2 = [[File:Unnatural big troll (hydra).png]]
+|release = [[2 May]] [[2017]]
+|update = Shattered Worlds
+|members = Yes
+|options = Attack
+|race = Troll
+|examine = Ate an 'unnatural', whatever that is.
+|level = 1
+|lifepoints = 200
+|experience = 10.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 25.8
+|slayxp2 = 0
+|slayercat1 = Trolls
+|slayercat2 = None
+|max_melee = 9
+|max_ranged = 9
+|max_magic = 0.0
+|max_necromancy = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 110
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Nothing
+|aff_weakness = 65
+|aff_melee = 65
+|aff_ranged = 65
+|aff_magic = 65
+|immune_to_poison = No
+|restriction = minigame
+|id1 = 24251
+|id2 = 24252
+|leagueRegion=asgarnia}}
+'''Unnatural big trolls''' can be found while playing [[Shattered Worlds]]. Their levels and stats scale to the world the player finds them on. 
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Shattered Worlds|date=2 May 2017}}
+** Added to game.
+}}
+
+{{Shattered Worlds}}

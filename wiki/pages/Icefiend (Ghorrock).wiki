@@ -1,0 +1,156 @@
+{{Infobox Monster
+|name = Icefiend
+|image = [[File:Icefiend (Ghorrock).png|x280px]]
+|release = [[3 December]] [[2009]]
+|update = The Temple at Senntisten
+|members = Yes
+|examine = A robust ice demon.
+|leagueRegion = Fremennik
+|level = 107
+|lifepoints = 7250
+|experience = 362.5
+|aggressive = Yes
+|poisonous = No
+|actions = Attack
+|slaylvl = 1
+|slayxp = 335
+|slayercat = Icefiends
+|assigned_by = turael, Vannaka
+|max_melee = 1540
+|max_ranged = 1540
+|max_magic = 1540
+|max_necromancy = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 77
+|ranged = 77
+|magic = 77
+|necromancy = 1
+|acc_melee = 1683
+|acc_ranged = 1683
+|acc_magic = 1683
+|acc_necromancy = 0
+|armour = 1783
+|defence = 77
+|weakness = Thrown
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 9066
+}}
+'''Icefiends''' are elemental monsters made entirely out of ice, which can be located in [[Ghorrock]] fortress during and after the completion of [[The Temple at Senntisten]]. They are notable for being significantly stronger than their [[Ice Mountain]] counterparts. Additionally, they are aggressive monsters, whereas their counterparts are not. They are also completely immune to water spells.
+
+During the quest, they appear when a [[Waterfiend (Ghorrock)|waterfiend]] is unfrozen from a block of ice by a [[heat globe]] being placed nearby, and then subsequently removed. They will become waterfiends once again if the heat globe is placed back.
+
+After the quest, they can be found on the dungeon's upper floor.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ghorrock]]
+|lvls=107
+|requirements = Partial completion of {{QuestIcon|The Temple at Senntisten}}
+|mem=yes
+|mapID=-1|plane=1
+|npcid:9066,x:2893,y:10385|npcid:9066,x:2895,y:10381|npcid:9066,x:2895,y:10408
+|npcid:9066,x:2896,y:10391|npcid:9066,x:2896,y:10400|npcid:9066,x:2896,y:10414
+|npcid:9066,x:2897,y:10417|npcid:9066,x:2899,y:10385|npcid:9066,x:2904,y:10414
+|npcid:9066,x:2907,y:10416|npcid:9066,x:2908,y:10401|npcid:9066,x:2909,y:10385
+|npcid:9066,x:2910,y:10381|npcid:9066,x:2911,y:10405|npcid:9066,x:2912,y:10416
+|npcid:9066,x:2915,y:10383|npcid:9066,x:2915,y:10399|npcid:9066,x:2923,y:10383
+|npcid:9066,x:2925,y:10385|npcid:9066,x:2925,y:10416|npcid:9066,x:2927,y:10408
+|npcid:9066,x:2928,y:10386|npcid:9066,x:2928,y:10392|npcid:9066,x:2930,y:10415
+|leagueRegion = Fremennik
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|kills=142}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Icefiend (Ghorrock)|2|version=Ghorrock}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril stone spirit|quantity=2|rarity=10/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=4|rarity=12/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Seaweed|quantity=6 (noted)|rarity=18/128}}
+{{DropsLine|name=Coins|quantity=1200|rarity=16/128}}
+{{DropsLine|name=Snape grass|quantity=6 (noted)|rarity=14/128}}
+{{DropsLine|name=Raw lobster|quantity=4 (noted)|rarity=10/128}}
+{{DropsLine|name=Mithril arrowheads|quantity=25|rarity=8/128}}
+{{DropsLine|name=Water orb|quantity=2 (noted)|rarity=8/128}}
+{{DropsLine|name=Raw shark|quantity=2 (noted)|rarity=6/128}}
+{{DropsLine|name=Fishbowl|quantity=1|rarity=4/128}}
+{{DropsLine|name=Water talisman|quantity=1|rarity=2/128}}
+{{DropsLine|name=Casket|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|4/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128}}
+{{DropsLineEffigy|level=107}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[3 December]] [[2009]]|update=The Temple at Senntisten|img=Icefiend (Ghorrock) (2009).png|name=Icefiend (Ghorrock)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Icefiend (Ghorrock) (2014).png|name=Icefiend (Ghorrock)}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Icefiend (Ghorrock).png|name=Icefiend (Ghorrock)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Icefiends have been graphically updated.
+
+* {{UL|type=ninja|update=Patch Notes (26 August 2014)|date=26 August 2014}}
+** [[Pyrefiend]] and icefiend models and animations have been updated to use the God Wars Dungeon models and animations.
+
+* {{UL|type=patch|update=Patch Notes (17 June 2013)|date=17 June 2013}}
+** An icefiend that was pretending to be a pillar in Ghorrock fortress has been moved.
+
+* {{UL|type=update|update=The Temple at Senntisten|date=3 December 2009}}
+** Added to game.
+}}
+
+{{Demons}}
+{{Elementals}}

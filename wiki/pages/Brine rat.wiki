@@ -1,0 +1,170 @@
+{{External|os}}
+{{Infobox Monster
+|name = Brine rat
+|image = [[File:Brine rat.png|230px|A brine rat.]]
+|release = [[10 April]] [[2007]]
+|update = Olaf's Quest
+|members = Yes
+|options = Attack
+|examine = Eww, a bald rat!
+|level = 43
+|lifepoints = 4800
+|experience = 
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 47
+|slayxp = 43.2
+|slayercat = Rats, Brine rats
+|max_melee = 640
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 32
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 386
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 454
+|defence = 30
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Fremennik
+|id = 3707
+}}
+[[File:Brine rat icon.png|left]]
+'''Brine rats''' are creatures found within the [[Brine Rat Cavern]], which requires partial completion of [[Olaf's Quest]] and a [[spade]] ([[tool belt]] works) to access. They require level 47 [[Slayer]] to damage.
+
+Multiple [[safe spot]]s exist, one of them involving the use of the light coloured skeleton in the room. [[Ranged]], [[Magic]], and [[Necromancy]] can be used attack across these bones, trapping the monsters on the other side of the pile.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Brine Rat Cavern]]
+|leagueRegion = Fremennik
+|lvls=43
+|mem=yes
+|mapID=560
+|npcid:3707,x:2702,y:10135|npcid:3707,x:2704,y:10131|npcid:3707,x:2705,y:10133
+|npcid:3707,x:2707,y:10137|npcid:3707,x:2708,y:10131|npcid:3707,x:2710,y:10134
+|npcid:3707,x:2712,y:10132}}
+{{LocTableBottom}}
+
+==Tips==
+'''Access tips:'''
+#Use the [[Fremennik Province lodestone]]
+#Use the [[fairy ring]]s {{Fairy code|DKS}} and dig the area just west of the tree
+#Use a [[ring of slaying]] Teleport to the [[Rellekka Slayer Dungeon]] and then run north
+#Use the [[lyre]] teleport run east
+
+Food such as [[swordfish]] or using [[Bones to Peaches]] spell would be helpful for staying longer.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw rat meat|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDropTable|quantity=1|gold=219.469/1000|green=15.676/1000|crimson=15.676/1000|blue=3.135/1000}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Brine sabre|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|Drop rate is increased to 1/496 with at least tier 1 luck}}|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Brine sabre: 1/512|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Death rune|quantity=7|rarity=18/128}}
+{{DropsLine|name=Earth rune|quantity=10|rarity=6/128}}
+{{DropsLine|name=Water rune|quantity=10|rarity=3/128}}
+{{DropsLine|name=Earth rune|quantity=18|rarity=2/128}}
+{{DropsLine|name=Water rune|quantity=18|rarity=2/128}}
+{{DropsLine|name=Air rune|quantity=18|rarity=2/128}}
+{{DropsLine|name=Blood rune|quantity=4|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Materials===
+{{DropsTableHead}}
+{{DropsLine|name=Raw lobster|quantity=10 (noted)|rarity=6/128}}
+{{DropsLine|name=Raw shark|quantity=3 (noted)|rarity=6/128}}
+{{DropsLine|name=Raw rat meat|quantity=18 (noted)|rarity=2/128}}
+{{DropsLine|name=Raw pike|quantity=18 (noted)|rarity=2/128}}
+{{DropsLine|name=Raw swordfish|quantity=9 (noted)|rarity=2/128}}
+{{DropsLine|name=Raw shark|quantity=8 (noted)|rarity=2/128}}
+{{DropsLine|name=Raw shark|quantity=1|rarity=1/128|raritynotes={{DropNote|One raw shark and black gauntlets are dropped together}}}}
+{{DropsLine|name=Black gauntlets|quantity=1|rarity=1/128|raritynotes={{DropNote|Black gauntlets and one raw shark are dropped together}}}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1|rarity=21/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=2|rarity=16/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=4|rarity=9/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=29|rarity=7/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=16/128}}
+{{DropsLine|name=Water talisman|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|The Start of Something New}} 
+** [[Brine sabre]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for Brine Rats.
+
+* {{UL|type=update|update=Rune Value Improvements|date=15 September 2014}}
+** Many monster types have had their rune drop rates reduced or removed, in order to increase the value of altar runecrafting.
+*** Brine rats have had their 36 [[earth rune]] drop removed. To compensate, the 29 [[Coins|coin]] drop rate has been increased from 3/128 to 7/128.
+
+* {{UL|type=patch|update=Patch Notes (11 April 2012)|date=11 April 2012}}
+** Brine rats now drop 9 noted [[raw swordfish]] instead of the unnoted version.
+
+* {{UL|type=update|update=Olaf's Quest|date=10 April 2007}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{Rats}}
+{{Olaf's Quest}}

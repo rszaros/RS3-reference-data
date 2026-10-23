@@ -1,0 +1,83 @@
+{{Otheruses|def=no}}
+{{Infobox Monster
+|name = Night spider
+|image = [[File:Night spider.png|250px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark
+|examine = A dark spider with red eyes.
+|level = 73
+|lifepoints = 8000
+|aggressive = Yes
+|poisonous = 22
+|slaylvl = 41
+|slayercat = Creatures of Daemonheim, Spiders
+|max_melee = 214
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 67
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1372
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|weakness = Fire
+|susceptibility = NopeNopeNope
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id = 10698
+|leagueRegion = Wilderness
+}}
+[[File:Night spider icon.png|left]]
+A '''night spider''' is a [[poison]]ous [[Slayer]] monster found in [[Daemonheim]] on any floor. It requires level 41 Slayer to harm. It is possible to find up to four of these spiders in one room, but this is very rare. They are usually found in "bonus" rooms of a dungeon (rooms not required to complete a floor). They are capable of [[poison]] damage of up to at least 168.
+
+This spider has a unique drop, the [[shadow silk hood]], which makes the wearer invisible to many humanoid non-mage enemies until attacked. It can only be picked up by the player who did the most damage to the spider for 30 seconds after dropping, after which it can be picked up by anybody. Due to the rarity and usefulness of the hood, it is recommended to bind it if obtained.
+
+The spider's spawn rate is affected by the Slayer level(s) of the party member(s), being more likely to appear with higher Slayer levels. It is also more likely to spawn on the [[Dungeoneering floors#Abandoned 2 floors|second set of abandoned floors]] (floors 30-35), as well as larger floors due to the greater number of rooms. Hood seekers should therefore try floors 30-35 large with high-levelled slayers to maximise their chances of spawning a night spider.
+
+It does not count as a spider for [[Slayer assignment]]s.
+
+==Drops==
+===Special===
+{{DropsTableHead}}
+{{DropsLine|name=Shadow silk hood|gemw=no|quantity=1|rarity=Rare}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable|headings=4}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Game Update (19 April 2012)|date=19 April 2012}}
+** Increased frequency of Slayer creatures in Dungeoneering.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Slayer monsters}}
+{{Spiders}}

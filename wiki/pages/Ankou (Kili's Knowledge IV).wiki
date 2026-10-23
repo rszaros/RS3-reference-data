@@ -1,0 +1,77 @@
+{{Infobox Monster
+|name = Ankou
+|image = [[File:Ankou (Kili&#39;s Knowledge IV).png]]
+|release = [[7 August]] [[2023]]
+|update = New Skill: Necromancy - This Week In RuneScape
+|members = Yes
+|actions = Attack, Examine
+|race = 
+|examine = A bony ghost. They don't look very happy to see you.
+|level = 72
+|lifepoints = 31000
+|experience = 0
+|aggressive = No
+|poisonous = 
+|slaylvl = 1
+|slayxp = 313.6
+|slayercat = Ankou
+|max_melee = 624.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 3
+|attack = 
+|ranged = 
+|magic = 
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 1299
+|defence = 
+|weakness = Earth
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = 
+|id = 30427
+|leagueRegion = Misthalin, Wilderness
+}}
+The '''ankou''' is a [[monster]] that drops [[ankou residue]]. It can be spawned by using the [[ankou agitator]] on ten [[ankou]] that are out of [[combat]]. Ankou residue is required to complete a [[Kili's Knowledge IV]] task.
+
+Ankou can be found in the [[Stronghold of Security]] and [[Wilderness Crater]].
+
+Despite regular ankous counting towards [[Ankou (Slayer assignment)|ankou]], [[Ghosts (Slayer assignment)|ghosts]], [[Skeletons (Slayer assignment)|skeletons]], and [[Undead (Slayer assignment)|undead Slayer assignments]], this ankou only counts as an ankou.
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Ankou residue|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hotfix|update=The Journey Continues with Necromancy - This Week In RuneScape|date=Unknown}}
+** Changed to yield an unknown amount of combat [[experience]] to not yield combat experience at all.
+
+* {{UL|type=update|update=New Skill: Necromancy - This Week In RuneScape|date=7 August 2023}}
+** Added to game.
+}}
+
+{{Kili's Knowledge}}

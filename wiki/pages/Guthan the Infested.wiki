@@ -1,0 +1,241 @@
+{{External|os}}
+{{Otheruses|def=no|the equipment set|Guthan the Infested's equipment}}
+{{Otheruses|def=no|the pet version|Guthan the Bobbled}}
+{{Infobox Monster
+|version1 = Normal
+|version2 = Ritual of the Mahjarrat
+|version3 = Rise of the Six (with spear)
+|version4 = Rise of the Six (without spear)
+|name = Guthan the Infested
+|image1 = [[File:Guthan the Infested.png|Guthan the Infested|100px]]
+|image2 = [[File:Guthan the Infested.png|Guthan the Infested|100px]]
+|image3 = [[File:Guthan the Infested (Shadow).png|200px]]
+|image4 = 
+|release1 = [[9 May]] [[2005]]
+|release2 = [[14 September]] [[2011]]
+|release3 = [[13 November]] [[2013]]
+|release4 = [[13 November]] [[2013]]
+|update1 = Barrows
+|update2 = Ritual of the Mahjarrat
+|update3 = Barrows - Rise of the Six
+|update4 = Barrows - Rise of the Six
+|level1 = 150
+|level2 = 105
+|level3 = 650
+|level4 = 650
+|experience2 = 0
+|lifepoints1 = 12000
+|lifepoints2 = 3750
+|lifepoints3 = 50000
+|lifepoints4 = 50000
+|slaylvl = 1
+|slayxp1 = 343.6
+|slayxp3 =
+|slayxp4 =
+|slayercat = Ghosts, Undead
+|members = Yes
+|aggressive = Yes
+|poisonous = No
+|immune_to_poison1 = No
+|immune_to_poison2 = No
+|immune_to_poison3 = Yes
+|immune_to_poison4 = Yes
+|immune_to_stun1 = No
+|immune_to_stun2 = No
+|immune_to_stun3 = Yes
+|immune_to_stun4 = Yes
+|immune_to_deflect1 = No
+|immune_to_deflect2 = No
+|immune_to_deflect3 = Yes
+|immune_to_deflect4 = Yes
+|immune_to_drain1 = No
+|immune_to_drain2 = No
+|immune_to_drain3 = Yes
+|immune_to_drain4 = Yes
+|style = melee
+|primarystyle1 = melee
+|primarystyle2 = melee
+|primarystyle3 = melee
+|primarystyle4 = melee
+|speed1 = 6
+|speed2 = 4
+|speed3 = 5
+|speed4 = 5
+|max_melee1 = 1260
+|max_melee2 = 600
+|max_melee3 = 1296
+|max_melee4 = 1296
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|weakness1 = Air
+|weakness2 = Nothing
+|weakness3 = Nothing
+|weakness4 = Nothing
+|susceptibility = Salve, Ghost
+|options = Attack
+|examine = A vengeful spirit corrupted by dark magic.
+|attack1 = 70
+|attack2 = 75
+|attack3 = 90
+|attack4 = 90
+|defence1 = 70
+|defence2 = 75
+|defence3 = 90
+|defence4 = 90
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|armour1 = 1486
+|armour2 = 1694
+|armour3 = 1924
+|armour4 = 1924
+|acc_melee1 = 1486
+|acc_melee2 = 1694
+|acc_melee3 = 2458
+|acc_melee4 = 2458
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|aff_weakness1 = 90
+|aff_weakness2 = 40
+|aff_weakness3 = 40
+|aff_weakness4 = 40
+|aff_melee1 = 60
+|aff_melee2 = 40
+|aff_melee3 = 40
+|aff_melee4 = 40
+|aff_ranged1 = 50
+|aff_ranged2 = 40
+|aff_ranged3 = 40
+|aff_ranged4 = 40
+|aff_magic1 = 70
+|aff_magic2 = 40
+|aff_magic3 = 40
+|aff_magic4 = 40
+|restriction2 = quest
+|leagueRegion = Morytania
+|id1 = 2027
+|id2 = 14265
+|id3 = 18541
+|id4 = 18542
+}}
+{{Synced switch
+|version1=[[File:Guthan the Infested chathead.png|left|80px]]
+|version2=[[File:Guthan the Infested chathead.png|left|80px]]
+|version3=[[File:Guthan the Infested (Rise of the Six) chathead.png|left]]
+|version4=
+}}
+'''Guthan the Infested''' is the third oldest of the six [[Barrows brothers]]. He attacks with [[melee]] using his [[Guthan's warspear|warspear]]. He attacks at a fairly average/slow speed, but despite this, he can still deal around 1000 damage per hit and should not be taken lightly, despite being regarded as one of the weaker Barrows brothers.
+
+Guthan has a unique ability; ''Guthan's Infestation,'' which allows him to heal himself at a 1:1 ratio, so if he deals 500 life points of damage and the effect occurs, he would recover 500 life points. His effect is accompanied by an animation when activated; three ghostly entities surround Guthan's opponents then circle around them in an upwards motion.
+
+He is also fought in [[Barrows: Rise of the Six]].
+
+==Barrows==
+Guthan's crypt is located at the south-east of the [[Barrows]] area, and he is weak to [[Air Spells]]. Strong magic spells such as [[Air Surge]], [[Polypore Strike]] and [[Smoke Barrage]] are recommended when fighting him, however he can be taken down just as easily with strong melee weapons such as the [[Chaotic Maul]]. Guthan does not pose as much of a threat as his brothers do, with his set effect healing him instead of dealing extra damage or draining stats/[[adrenaline]], but players should still be cautious and well-prepared when fighting him.
+
+===Drops===
+Guthan does not drop his main rewards directly; instead, his [[Guthan the Infested's equipment|equipment]] is added as possible rewards from the Barrows chest. ''See [[The Barrows Brothers#Rewards]] for more information.'' However, Guthan can directly drop the following items.
+
+{{DropsTableHead}}
+{{DropsLineGhosts}}
+{{DropsTableBottom}}
+
+==History==
+===Early history===
+Along with his brothers, Guthan lived on a farm and had a relationship with [[Isolde]], a druidess. However, [[Ahrim the Blighted|Ahrim]] killed Isolde out of envy and mourning her supposed abandonment, Guthan went to the tavern and got drunk. He then got into a fight with [[Commander Jaycliff]], killing him in the process. Fearful of the impending investigation and subsequent hanging, he went to the [[Mahjarrat]] [[Sliske]] and struck a deal with him - if all six brothers joined, Sliske would spare him. Guthan successfully persuaded his brothers to join, and as a result, was spared.
+
+===The God Wars===
+Guthan and his brothers led a campaign into [[Morytania]] under the banner of [[Saradomin]], with Sliske accompanying them and providing them with power, weapons and armour. Eventually the crusade came to the walls of [[Darkmeyer]], where they all fell ill to a "sickness" and died, which in truth was Sliske removing their gifted powers, leaving them vulnerable. The brothers were buried in barrows, after which the surviving members of the campaign retreated. Sliske then came and bound the six dead brothers to his service. Sometime after their deaths, [[Azzanadra]] had Sliske protect an [[barrows icon|icon]], which he had Guthan and his brothers do. The icon was eventually taken by an adventurer who Azzanadra tasked with reclaiming it.
+
+===2016 Easter event===
+Guthan and his brothers appear as bobblehead workers in Sliske's chocolate factory.
+
+===Kindred Spirits===
+Guthan takes part in Sliske's game, where his relationship with Isolde is revealed. Sliske has Ahrim navigate a maze of "righteousness", and Guthan appears before him with his love Isolde. If Ahrim was bathed in most of the flames, Ahrim asks the two for forgiveness; if not, Ahrim kills Isolde again and Sliske wipes Guthan of the memories he had with her. He also reveals to his brothers why he had them join the crusades (though [[Torag the Corrupted|Torag]] was planning to sign up anyways).
+
+===Sliske's Endgame===
+Guthan makes an appearance in [[Sliske's Endgame]] where he and his brothers rebel against Sliske due to the adventurer's actions in Kindred Spirits. They return to their crypts after Sliske is defeated by the adventurer.
+
+==Mentioned==
+{{MentionedIn}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Guthan the Infested wallpaper.png|Guthan the Infested
+Guthan lore.png|Guthan depicted in artwork
+Guthans RuneFest concept.png|The new model for Guthan's armour which was revealed at RuneFest 2011
+Guthan the Infested (Christmas).png|Guthan wearing a Santa hat during Christmas.
+Guthan the Infested (Shadow, Christmas).png|Shadow Guthan wearing a Santa hat during Christmas.
+</gallery>
+
+==Graphical updates==
+===NPCs===
+{{GU|subject=NPCs
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Guthan the Infested (2005).png|name=Guthan the Infested}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Guthan the Infested (2008).png|name=Guthan the Infested}}
+|{{GUL|date=[[4 January]] [[2012]]|update=A Very Barrows New Year!|img=Guthan the Infested.png|name=Guthan the Infested}}
+}}
+===Chatheads===
+{{GU|subject=Chatheads
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Guthan the Infested (2005) chathead.png|name=Guthan the Infested's chathead}}
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Guthan the Infested (2008) chathead.png|name=Guthan the Infested's chathead}}
+|{{GUL|date=[[3 December]] [[2009]]|update=The Temple at Senntisten|img=Guthan the Infested (2009) chathead.png|name=Guthan the Infested's chathead}}
+|{{GUL|date=[[4 January]] [[2012]]|update=A Very Barrows New Year!|img=Guthan the Infested chathead.png|name=Guthan the Infested's chathead}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased (only applies to regular barrows version):
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=Necromancy Patch Week - This Week In RuneScape|date=11 September 2023}}
+** The 50% combat experience reduction on bosses has been removed. Bosses now give 50 combat experience per 1,000 life points, like most other monsters in the game.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+** An old restriction preventing the use of the Salve Amulet at Barrows has been removed. It also works in Rise of the Six.
+
+* {{UL|type=patch|update=This Week In RuneScape: Celebration of Combat#Patch Notes|date=11 January 2021}}
+** Various bosses around RuneScape have taken their Santa Hats off for another year.
+
+* {{UL|type=patch|update=Patch Notes (23 October 2017)|date=23 October 2017}}
+** The right-click options on Barrows brothers spawned by other players have been removed.
+
+* {{UL|type=update|update=A Very Barrows New Year!|date=4 January 2012}}
+** Guthan the Infected is graphically updated.
+
+* {{UL|type=update|update=Barrows|date=9 May 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Along with the graphical update on 4 January 2012, his combat level was increased from 115 to 147. Due to the [[Evolution of Combat]] his combat level has once again increased to 150.
+* When Guthan's face disappears, most of the face will disappear, but after a tick, a small black shape will appear, and disappear in the next tick. It is possible for the shape to stay for a very long time, and therefore Guthan's face will appear constantly until the shape disappears.
+* Guthan, along with the other Barrows Brothers, have ''not'' received any animation updates since the Evolution of Combat - leaving them to have old (Legacy) attacking and defending animations. This is not the case in the Rise of the Six encounter, where they use updated animations.
+
+==References==
+{{Reflist}}
+
+{{Barrows}}
+{{Barrows: Rise of the Six}}
+{{The Temple at Senntisten}}
+{{Ritual of the Mahjarrat}}
+{{Missing, Presumed Death}}
+{{Kindred Spirits}}
+{{Sliske's Endgame}}
+{{2016 Easter event}}
+{{Wights}}
+{{The Fall of Six}}
+[[Category:Saradominists]]
+[[Category:Participants in the God Wars]]
+[[Category:Sliskeans]]
+[[Category:Bosses]]
+[[Category:Familiar-immune monsters]]
+[[Category:NPCs that can move at running speed]]
+[[pt:Guthan, o assolado]]

@@ -1,0 +1,2236 @@
+{{External|os}}
+{{ToC|right|limit=2}}
+[[File:Slayer.png|left]]
+[[Slayer]] experience is typically gained when players kill varying amounts of monsters that are [[Slayer assignment|assigned]] to them by a [[Slayer Masters|Slayer Master]].
+
+It can also be trained in other ways, such as completing [[Soul Reaper]] assignments from [[Death]] or [[#Quests for Slayer experience|questing]].
+
+==General information==
+===Slayer masters===
+To gain the most [[Slayer points]], though not necessarily the best Slayer experience per hour, you should obtain [[Slayer assignment|assignments]] from the highest level [[Slayer Masters|Slayer master]] that your [[combat level]] and Slayer level allow. The majority of Slayer masters give the same amount of points for completing an assignment regardless of what their assignment and your levels are, but a special case is [[The Raptor]] in [[Fort Forinthry]], who scales with your level. Once your combat level is around 90, it is a good strategy to obtain assignments exclusively from The Raptor (you would otherwise use [[Sumona]]) until you unlock [[Kuradal]] (do not use The Raptor at very low levels as the points are poor). Switching to Kuradal at 110 combat level and 75 Slayer makes it more likely that you will receive assignments that can be completed in the nearby [[Kuradal's Dungeon|dungeon]] and therefore obtain drops like the [[ferocious ring]], which will aid your training.
+
+Slaying the monsters assigned by a higher-level Slayer master usually gives more Slayer experience, although this is not always the case, depending on what assignment is given. The experience is received for each monster killed while on an assignment; no extra experience is provided for completing a Slayer task. Different Slayer masters have their own set of monsters that they can give assignments for. These assignments are weighted, which determines the likelihood that a player will get a specific assignment. Some Slayer assignments are shared among multiple Slayer masters, but they may have different quantity ranges or task weights. If players have a preference for the monsters they'd like to slay for experience, it is reasonable to select a Slayer master that is more likely to assign those monsters.
+
+Some players train Slayer using only one master. However, it is a common strategy to train Slayer by switching between two masters; one specific Slayer master that is appropriate for (or lower than) your level, and a higher-levelled Slayer master in order to take advantage of completion milestones. Every 10th and 50th task, players earn 5 and 15 times the Slayer master's standard amount of [[Slayer points]]. It is possible to complete the first 9 assignments with a low-level master and then switch to a higher-level master for the comparatively larger bonus. Higher-level masters will assign more difficult tasks than the typical Slayer Master would, either in monster assigned or quantity given, but the reward is a greater bonus of Slayer points.
+
+Tasks assigned by [[Turael]]/[[Spria]] do not award Slayer points nor do they count towards the Slayer task count. Changing a task with Turael or Spria resets the task count to zero and, therefore, requires the player to complete another four assignments to start receiving points again.
+
+Upon completing tasks assigned by [[Mandrith]], the player will be awarded a [[Wilderness slayer chest]]. Without [[Death (mechanic)|dying]], killing outside the [[Wilderness]], or skipping tasks, the player will also be awarded one [[reaper points|Reaper point]].
+
+Requirements or quests for accessing different Slayer masters and areas include: 
+{| class="wikitable"
+! rowspan="2" | Master
+! rowspan="2" | Location
+! colspan="2" | Requirement
+! colspan="3" | Slayer points
+|-
+! Skills
+! Quest
+! Per task
+! 10th
+! 50th
+|-
+| [[Turael]] / [[Spria]]<ref group="m" name="wgsmaster">[[Spria]] and [[Lapalok]] replace [[Turael]] and [[Duradel]] upon completion of [[While Guthix Sleeps]].</ref>
+| [[Burthorpe]]
+| {{NA}}
+| {{NA}}
+| 0
+| 0
+| 0
+|-
+| [[Jacquelyn]]
+| [[Lumbridge]]
+| {{NA}}
+| {{NA}}
+| 1
+| 5
+| 15
+|-
+| [[Vannaka]]
+| [[Edgeville]]
+| {{Scm|Combat|30}}
+| {{NA}}
+| 2
+| 10
+| 30
+|-
+| [[The Raptor]]
+| [[Fort Forinthry]]
+| {{Scm|Combat|35}}
+| [[Unwelcome Guests]]
+| {{Edit button|text=?}}–21
+| {{Edit button|text=?}}–105<ref group="m">Multiples of 5.</ref>
+| {{Edit button|text=?}}–315<ref group="m">Multiples of 15.</ref>
+|-
+| [[Mazchna]]
+| [[Canifis]]
+| {{Scm|Combat|50}}
+| {{NA}}
+| 4
+| 20
+| 60
+|-
+| [[Chaeldar]]
+| [[Zanaris]]
+| {{Scm|Combat|75}}
+| [[Lost City]]
+| 10
+| 50
+| 150
+|-
+| [[Sumona]]
+| [[Pollnivneach]]
+| {{Scm|Combat|90}}, {{Scm|Slayer|35}}
+| [[Smoking Kills]]
+| 12
+| 60
+| 180
+|-
+| [[Duradel]] / [[Lapalok]]<ref group="m" name="wgsmaster" />
+| [[Shilo Village (location)|Shilo Village]]
+| {{Scm|Combat|100}}, {{Scm|Slayer|50}}
+| [[Shilo Village]]
+| 15
+| 75 or 80<ref group="m">80 after [[Elite Karamja achievements]].</ref>
+| 225
+|-
+| [[Kuradal]]
+| [[Ancient Cavern]]
+| {{Scm|Combat|110}}, {{Scm|Slayer|75}}
+| [[Barbarian Firemaking]]<ref group="m">Barbarian Firemaking requirement can be bypassed using [[NPC Contact]].</ref>
+| 18
+| 90
+| 270
+|-
+| [[Morvran]]
+| [[Prifddinas]]
+| {{Scm|Combat|120}}, {{Scm|Slayer|85}}
+| [[Plague's End]]
+| 20
+| 100
+| 300
+|-
+| [[Laniakea]]
+| [[Anachronia]]
+| {{Scm|Combat|120}}, {{Scm|Slayer|90}}
+| {{NA}}
+| 22
+| 110
+| 330
+|-
+| [[Mandrith]]<ref group="m">Mandrith's assignments must be completed in the [[Wilderness]].</ref>
+| Deep [[Wilderness]]
+| {{Scm|Combat|120}}, {{Scm|Slayer|95}}
+| {{NA}}
+| 22
+| 110
+| 330
+|}
+;Notes
+<references group="m"/>
+
+===Access to Slayer assignments===
+{| class="wikitable qc-active"
+! Slayer assignment
+! Quest requirement
+! Slayer requirement
+|-
+| [[Mithril dragons (Slayer assignment)|Mithril dragons]]
+| [[Barbarian Firemaking]]
+| 1
+|-
+| [[Chaos giants (Slayer assignment)|Chaos giants]]
+| [[Birthright of the Dwarves]]
+| 1
+|-
+| [[Jungle horrors (Slayer assignment)|Jungle horrors]] and [[Cave horrors (Slayer assignment)|Cave horrors]]
+| [[Cabin Fever]]
+| 1, 58
+|-
+| [[Nightmare creatures (Slayer assignment)|Nightmare creatures]]
+| [[Children of Mah]]
+| 80
+|-
+| [[Killerwatts (Slayer assignment)|Killerwatts]]
+| [[Ernest the Chicken]]
+| 37
+|-
+| [[Nihil (Slayer assignment)|Nihil]], [[Muspah (Slayer assignment)|Muspahs]]
+| [[Fate of the Gods]]
+| 1, 76
+|-
+| [[Dagannoth (Slayer assignment)|Dagannoth]]
+| [[Horror from the Deep]]
+| 1
+|-
+| [[Suqahs (Slayer assignment)|Suqahs]]
+| Partial completion of [[Lunar Diplomacy]]
+| 1
+|-
+| [[Mogres (Slayer assignment)|Mogres]]
+| [[Mogre (lore activity)]]
+| 32
+|-
+| [[Celestial dragons (Slayer assignment)|Celestial dragons]]
+| [[One of a Kind]]
+| 1
+|-
+| [[Warped tortoises (Slayer assignment)|Warped tortoises]]s and [[Warped terrorbirds (Slayer assignment)|warped terrorbirds]]
+| [[The Path of Glouphrie]]
+| 56
+|-
+| [[Glacors (Slayer assignment)|Glacors]]
+| [[Ritual of the Mahjarrat]]
+| 1
+|-
+| [[Fever spiders (Slayer assignment)|Fever spiders]]
+| Partial completion of [[Rum Deal]]
+| 42
+|-
+| [[Tormented demons (Slayer assignment)|Tormented demons]]
+| [[While Guthix Sleeps]]
+| 1
+|-
+| [[Cres's creations (Slayer assignment)|Cres's creations]]
+| Full completion of [[The World Wakes]]
+| 67
+|-
+| [[Stalker creatures (Slayer assignment)|Stalker creatures]]
+| [[Dishonour among Thieves]]
+| 71
+|-
+| [[Crystal shapeshifters (Slayer assignment)|Crystal shapeshifters]]
+| [[The Light Within]]
+| 75
+|-
+| [[Gemstone dragons (Slayer assignment)|Gemstone dragons]]
+| [[Shilo Village]] and [[hard Karamja achievements]]
+| 95
+|-
+| [[Corrupted creatures (Slayer assignment)|Corrupted creatures]]
+| Partial completion of [[Icthlarin's Little Helper]]
+| 88
+|-
+| [[Soul devourers (Slayer assignment)|Soul devourers]]
+| Partial completion of [[Icthlarin's Little Helper]]
+| 105
+|-
+| [[Rune dragons (Slayer assignment)|Rune dragons]]
+| [[Fate of the Gods]], [[Ritual of the Mahjarrat]]
+| 1, 76
+|-
+| [[Vyrewatch (Slayer assignment)|Vyrewatch]]
+| [[The Branches of Darkmeyer]]
+| 1
+|-
+| [[Terror dogs (Slayer assignment)|Terror dogs]]
+| [[Haunted Mine]]
+| 40
+|-
+| [[Skeletal wyverns (Slayer assignment)|Skeletal wyverns]]
+| [[Elemental Workshop I]]
+| 72
+|}
+
+===Quest unlocks===
+For every 50 [[quest points]] the player has, they will be able to prefer or block an additional task; therefore, having a high number of quest points is generally recommended.
+
+Addition to unlock Slayer assignments and Slayer Masters, completing quests unlocks several other Slayer benefits.
+
+{| class="wikitable qc-active"
+! Quest
+! Benefit
+|-
+| [[Smoking Kills]]
+| Gains full Slayer points and unlocks the ability to craft [[slayer helmet]]s and [[ensouled spectral lens]].
+|-
+| [[Ritual of the Mahjarrat]]
+| Unlocks [[bane ammunition]] and allows access to [[Glacor Cave]].
+|-
+| [[Lair of Tarn Razorlor (miniquest)]]
+| Unlocks the ability to craft [[salve amulet (e)]].
+|-
+| [[Necromancy!]]
+| Unlocks [[Necromancy]] and the ability to craft [[ensouled spectral lens]].
+|-
+| [[Animal Magnetism]]
+| Unlocks the ability to craft [[Ava's attractor]] and [[Ava's accumulator]].
+|-
+| [[Do No Evil]] (partial completion)
+| Unlocks the ability to craft [[Ava's alerter]].
+|-
+| [[Dwarf Cannon]]
+| Access to [[dwarf multicannon]].
+|-
+| [[Desert Treasure]]
+| Unlocks [[Ancient Magicks]].
+|-
+| [[King's Ransom]] and [[Knight Waves training ground]]
+| Unlocks [[Piety]], [[Rigour]] [[Augury]], and [[Sanctity]] prayers.
+|-
+| [[A Fairy Tale I - Growing Pains]]
+| Access to [[fairy ring]]s.
+|-
+| [[Legacy of Seergaze]]
+| Access to [[mutated bloodveld]], [[skeletal hand]]s, [[zombie hand]]s.
+|-
+| [[The Jack of Spades]]
+| Access to bursting [[Corrupted Scarab (Menaphos)|Corrupted Scarab]]s and allows players with 99 Slayer to access the [[Slayer Codex]] and [[Sunken Pyramid|personal slayer dungeon]].
+|-
+| [[The Hunt for Surok (miniquest)]]
+| Access to [[Bork]].
+|-
+| [[Fur 'n Seek]],<br>[[Rag and Bone Man/Wish list|Rag and Bone Man wish list]], and [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]]
+| Access to [[skeletal horror]].
+|-
+| [[Back to my Roots]]
+| Access to [[wild jade vine]].
+|-
+| [[In Pyre Need]]
+| Access to [[Phoenix Lair]].
+|}
+
+==Using Slayer points==
+[[Slayer points]] are used to purchase various [[Slayer Rewards|rewards]] from any of the Slayer Masters. It is highly recommended to complete the [[Smoking Kills]] quest as soon as possible to receive full Slayer points from assignments and [[Slayer challenge|challenges]]. Players who have not completed the quest will only receive half of the Slayer points per task.
+
+When training Slayer for better experience rate, this is generally an optimal order for spending Slayer reward points:
+* Blocking assignments
+* Slayer helmet unlocking and upgrades
+* Preferring or extending assignments
+* Extra unlocks (such as [[Ring of slaying|rings of slaying]])
+* Enabling the assignments of certain Slayer monsters
+
+===Cancelling and blocking assignments===
+Slayer assignments can be blocked at any Slayer Master for 100 slayer points; this requires the player's current assignment be the creatures they wish to block. Up to eight assigned monsters, or group of monsters such as [[grotworms]] or [[mutated jadinkos]], can be blocked in this manner, with one block allowed every 50 quest points.
+
+Cancelling the assignment costs 30 points. The monster must be the currently assigned task for it to be cancelled. In order to maximise efficiency, players should cancel tasks which are commonly assigned yet offer slow rates of Slayer experience, often due to issues such as the inability to use a cannon and/or a titan, low life points, or other factors, such as long animations or specialised killing methods. Please see the [[#Assignment summary|assignment summary]] section below to determine which tasks should be considered for the use of a block.
+
+Players are recommended to use the cancel option as often as it can be used while maintaining a stable level of Slayer points. This will ensure that the player spends as much time as possible doing tasks which offer fast Slayer experience.
+
+The task summary section of this guide will tell you which tasks to block, which to skip, and which to complete if you are running low on Slayer points. For example, a player who is running low on points may do a greater demon task even though these tasks are usually cancelled. These tasks also give out more [[ferocious ring]]s if done in [[Kuradal's Dungeon]].
+
+If a toggleable task is on that the player does not wish to do, toggle the task off, as it is essentially a pseudo-block.
+
+===Extending assignments===
+Some assignments can be extended for Slayer points, which will greatly increase the number that you can slay if they give you that creature for a task. Only extend tasks that you generally do; it is a waste of points if you extend a task that you skip frequently or do not like.
+
+===Notable rewards===
+{| class="wikitable"
+! Reward
+! Cost
+! Reason
+|-
+| Learn how to craft [[Ring of slaying|rings of slaying]]
+| 300
+| Various teleport locations reduce downtime between tasks.
+|-
+| Learn how to deliver killing blows quicker
+| 400
+| Tasks such as [[gargoyle]]s will not be slowed down from need to manually kill each gargoyle when they are at low health.<br>A [[legendary pet]] with the [[Pet#Abilities|Slayer Finisher]] ability may be used until this is unlocked.
+|-
+| Learn how to craft [[Slayer helmet]]s
+| 400
+| Slayer helmet is the most important piece of equipment.
+|-
+| Learn how to fuse rings to [[full slayer helmet]]s
+| 500
+| [[Ferocious ring]]s fused into helmets work at [[Kuradal's Dungeon]], allowing a player to wear a ring whilst still benefiting from the damage boost of the ferocious ring.
+|-
+| [[Full slayer helmet]] upgrades
+| 2,100
+| Increases the effectiveness of Slayer helmet. 4 upgrades.
+|-
+| Learn to move the souls in your personal slayer dungeon
+| 1,000
+| [[Sunken Pyramid|Personal slayer dungeon]] would be one of the best source of Slayer monsters
+|-
+| [[Ushabti]]
+| 20
+| Consumable, used to fill the [[Slayer Codex]] or take to the [[Sunken Pyramid|personal slayer dungeon]]
+|}
+Other rewards are either quality of life improvements, unnecessary task unlocks or general consumables.
+
+===Tool belt===
+Players can add many Slayer items to their tool belt, such as a [[rock hammer]] and some special items ([[charming imp]], [[bonecrusher]], [[herbicide]], [[seedicide]], [[advanced gold accumulator]]). The latter items require 500 slayer points each to be able to be added to the tool belt. 
+
+==Combat equipment==
+===General equipment===
+In general, use the best equipment available for the fastest rates. Additionally, power armour is more useful than tank armour. If available, always wear augmented gear when training Slayer.
+
+[[Full slayer helmet]] variants are best-in-slot for any assignments. In order to make the slayer helmet, the player must have a myriad of slayer equipment; most can be bought from a Slayer Master, but the three core components - the [[black mask]], [[hexcrest]] and [[focus sight]], are instead acquired by killing [[cave horror]]s, [[Jungle strykewyrm|jungle]] and [[desert strykewyrm]]s respectively, requiring 73 Slayer. The necromancy equivalent, the [[spectral lens]], is instead acquired from [[Profane Scabarite]]s, requiring 87 Slayer. Unlike the other components, in order to add the spectral lens to the helmet, the player must additionally undergo an ensoul ritual requiring 80 [[Necromancy]]. If the player cannot make the helm for any reason, using the base component is instead recommended, but it is important to prioritise this upgrade immediately.
+
+[[Cinderbane gloves]] are best-in-slot hand slot equipment for poisonable monsters. Most of the Slayer monsters are not immune to poison. The gloves can used with any [[weapon poison]] variants to amplify the poison damage. Otherwise, any power armour should be a replacement.
+
+A [[demon horn necklace]] and its lesser variants in combination with a [[bonecrusher]] are best-in-slot neck slot equipment for slaying monsters that drop bones. The necklace restores [[prayer points]] when burying certain bones. In conjunction with an [[attuned ectoplasmator]] instead of bonecrusher, which monsters drop [[demonic ashes]] or are ghosts, the combination can quickly restore prayer points also, so that the players can keep [[prayers]] much longer without extra prayer restoration. After completing the quest [[Pieces of Hate]], the [[holy wrench]] in the backpack or being worn boosts the amount of prayer points restored, but it occupies a backpack space or pocket slot.
+
+A [[blood amulet of fury]] is great for recovering [[life points]] when slaying the monsters which do not drop bones and demonic ashes, or are not ghosts. If the player has access to [[Soul Split]], the amulet is made more redundant since it can cover everything with proper flicking and improve damage output by slotting in a stronger amulet.
+
+[[Luck]] rings are generally the best to use, as they offer bonuses to all combat styles, and increase the chance of getting a [[rare drop table]] drop or unique slayer monster drops.
+
+The [[Vampyrism]] and [[Penance]] spells are ideal to use for low-intensity Slayer, by restoring life points and prayer points, respectively.
+
+====Recommended equipment list====
+Players should always use the style that their slayer assignment is weak to, with some exceptions which will be detailed in the slayer table.
+
+Always use the highest level [[Slayer helmet]] that you have. If the [[slayer helmet stand]] is available, put the slayer helmet there. The benefits from the slayer helm become global once it is mounted there, allowing players to use better helmets with higher stats and/or set effects.
+
+For all combat styles, two-handed weapons are preferred, as almost all area-of-effect abilities can be cast with two-handed weapons. For melee, [[halberd]]-type weapons are particularly effective for its AoE capabilities. For ranged, [[Chinchompa (weapon)|chinchompas]], especially [[mechanised chinchompa]], are particularly effective for its area-of-effect mechanics, when used in combat, it deals damage to all opponents in a 3x3 area around your target.
+
+Some monsters are also susceptible to various weapons for additional damage and accuracy:
+* For melee-classed enemies, use the [[Inquisitor staff]] as it switches to tier 94–97 damage along with tier 89–92 accuracy
+* For magic-classed enemies, use the [[hexhunter bow]] as it switches to tier 94–97 damage along with tier 89–92 accuracy
+* For ranged-classed enemies, use the [[terrasaur maul]] as it switches to tier 94–97 damage along with tier 89–92 accuracy
+* Having the [[enchantment of affliction]], [[enchantment of dispelling]] and [[enchantment of savagery]] increases the damage boost of above weapons from 12.5% to 17.5%.
+* For fighting any type of [[Abyssal demons (Slayer assignment)|abyssal demon]], use the [[abyssal bane 2h sword]] as its stats equivalent to a weapon with tier 100 damage and tier 79 accuracy.
+* For fighting [[Darklight#Demons|certain demons]], use the upgraded [[Darklight]] (using 5 [[Silver penny|silver pennies]] in [[Aris' Reward Shop]] after completion of the quest [[Dimension of Disaster]]), as its passive effects and special attacks greatly increase damage output against the demons.
+
+Items that are not available in the section below should be replaced by lower-level items, preferring damage bonuses over tank bonuses.
+{{anchor|Necromancy}}{{anchor|Melee}}{{anchor|Magic}}{{anchor|Animate Dead}}{{anchor|Ranged}}
+<tabber>
+|-|
+Necromancy= 
+{{Recommended equipment
+|style = Necromancy
+|helm1 = {{plink|Corrupted slayer helmet|txt=Full slayer helmet variants}} (consumed [[ensouled spectral lens]])
+|helm2 = {{plink|Crown of the First Necromancer}}
+|helm3 = {{plink|Deathdealer hood (tier 90)|txt=Highest tier deathdealer hood}}
+|helm4 = {{plink|Deathwarden hood (tier 90)|txt=Highest tier deathwarden hood}}
+|neck1 = {{plink|Essence of Finality amulet}}<sup>[[Essence of Finality amulet (or)|(or)]]</sup> /<br>{{plink|Reaper necklace}}<sup>[[Reaper necklace (or)|(or)]]</sup>
+|neck2 = {{plink|Amulet of souls}}<sup>[[Amulet of souls (or)|(or)]]</sup>
+|neck3 = {{plink|Blood amulet of fury}} /<br> {{plink|Demon horn necklace}}
+|neck4 = {{plink|Amulet of zealots}}
+|neck5 = {{plink|Conjurer's raising amulet}}
+|cape1 = {{plink|Igneous Kal-Zuk}} /<br> {{plink|Igneous Kal-Mor}}
+|cape2 = {{plink|TokHaar-Kal-Mor}}
+|cape3 = {{plink|Cape of Accomplishment|pic=Necromancy cape}}
+|cape4 = {{plink|Obsidian cape}} /<br> {{plink|Cape of legends}}
+|cape5 = {{plink|Jerrod's cape}}
+|body1 = {{plink|Robe top of the First Necromancer}}
+|body2 = {{plink|Deathdealer robe top (tier 90)|txt=Highest tier deathdealer robe top}}
+|body3 = {{plink|Deathwarden robe top (tier 90)|txt=Highest tier deathwarden robe top}}
+|legs1 = {{plink|Robe bottom of the First Necromancer}}
+|legs2 = {{plink|Deathdealer robe bottom (tier 90)|txt=Highest tier deathdealer robe bottom}}
+|legs3 = {{plink|Deathwarden robe bottom (tier 90)|txt=Highest tier deathwarden robe bottom}}
+|weapon1 = {{plink|Devourer's Guard}}
+|weapon2 = {{plink|Omni guard}}
+|weapon3 = {{plink|Death guard (tier 90)|txt=Highest tier death guard}}
+|off1 = {{plink|Soulbound lantern}}
+|off2 = {{plink|Skull lantern (tier 90)|txt=Highest tier skull lantern}}
+|gloves1 = {{plink|Cinderbane gloves}} (if poisonable) /<br> {{plink|Hand wrap of the First Necromancer}}
+|gloves2 = {{plink|Deathdealer gloves (tier 90)|txt=Highest tier deathdealer gloves}}
+|gloves3 = {{plink|Deathwarden gloves (tier 90)|txt=Highest tier deathwarden gloves}}
+|boots1 = {{plink|Foot wraps of the First Necromancer}}
+|boots2 = {{plink|Deathdealer boots (tier 90)|txt=Highest tier deathdealer boots}}
+|boots3 = {{plink|Deathwarden boots (tier 90)|txt=Highest tier deathwarden boots}}
+|ammo1 = {{plink|The Devourer's Nexus}} /<br> {{plink|Zemouregal's nexus}}
+|ammo2 = {{plink|Deathwarden nexus}}
+|ammo3 = {{plink|Grasping rune pouch}} /<br> {{plink|Pernix's quiver}} /<br> {{plink|Tirannwn quiver|pic=Tirannwn quiver 4}} (for prayer bonus)
+|ring1 = {{plink|Ring of death}}<sup>[[Ring of death (i)(o)|(i)(o)]]</sup>
+|ring2 = {{plink|Zorgoth's soul ring}}
+|ring3 = {{plink|Reaver's ring}}
+|ring4 = {{plink|Occultist's ring}}
+|ring5 = {{plink|Luck|pic=Luck of the Dwarves|txt=Any luck ring}}
+|pocket1 = {{plink|Scripture of Ful}} /<br> {{plink|Scripture of Wen}}
+|pocket2 = {{plink|Illuminated Book of Chaos}} /<br> {{plink|Zamorak's Book of Chaos}}
+|pocket3 = {{plink|Underworld Grimoire|pic=Underworld Grimoire 4}}
+|pocket4 = {{plink|Sign of life}}
+}}
+|-|
+Melee= 
+{{Recommended equipment
+|style = Melee
+|helm1 = {{plink|Corrupted slayer helmet|txt=Full slayer helmet variants}}
+|helm2 = {{plink|Vestments of havoc hood}}
+|helm3 = {{plink|Jaws of the Abyss}}
+|helm4 = {{plink|Malevolent helm}} /<br> {{plink|Masterwork melee helm}}<sup>([[Trimmed masterwork melee helm|Trimmed]])</sup>
+|helm5 = {{plink|Superior Statius's full helm}}  /<br> {{plink|Refined anima core helm of Zaros}}
+|neck1 = {{plink|Essence of Finality amulet}}<sup>[[Essence of Finality amulet (or)|(or)]]</sup> /<br>{{plink|Reaper necklace}}<sup>[[Reaper necklace (or)|(or)]]</sup>
+|neck2 = {{plink|Amulet of souls}}<sup>[[Amulet of souls (or)|(or)]]</sup>
+|neck3 = {{plink|Brawler's blood necklace}} /<br> {{plink|Demon horn necklace}}
+|neck4 = {{plink|Blood amulet of fury}}
+|neck5 = {{plink|Amulet of zealots}}
+|cape1 = {{plink|Igneous Kal-Zuk}} /<br> {{plink|Igneous Kal-Ket}}
+|cape2 = {{plink|TokHaar-Kal-Ket}}
+|cape3 = {{plink|Completionist cape}} /<br> {{plink|Max cape}} 
+|cape4 = {{plink|Fire cape}} /<br> {{plink|Strength cape}} /<br> {{plink|Defence cape}}
+|cape5 = {{plink|Obsidian cape}} /<br> {{plink|Cape of legends}}
+|body1 = {{plink|Vestments of havoc robe top}}
+|body2 = {{plink|Malevolent cuirass}} /<br> {{plink|Masterwork melee platebody}}<sup>([[Trimmed masterwork melee platebody|Trimmed]])</sup>
+|body3 = {{plink|Superior Vesta's Chainbody}} /<br> {{plink|Refined anima core body of Zaros}}
+|body4 = {{plink|Anima core body of Zaros}} /<br> {{plink|Bandos chestplate}}
+|body5 = {{plink|Rock-shell plate}}
+|legs1 = {{plink|Vestments of havoc robe bottom}}
+|legs2 = {{plink|Malevolent greaves}} /<br> {{plink|Masterwork melee platelegs}}<sup>([[Trimmed masterwork melee platelegs|Trimmed]])</sup>
+|legs3 = {{plink|Superior Vesta's plateskirt}}  /<br> {{plink|Refined anima core legs of Zaros}}
+|legs4 = {{plink|Anima core legs of Zaros}} /<br> {{plink|Bandos tassets}}
+|legs5 = {{plink|Rock-shell legs}}
+|weapon1 = {{plink|Dark Shard of Leng}}
+|weapon2 = {{plink|Abyssal scourge}}
+|weapon3 = {{plink|Khopesh of Tumeken}}
+|weapon4 = {{plink|Drygore weaponry|pic=Drygore longsword}} /<br> {{plink|Primal warhammer + 5}}
+|weapon5 = {{plink|Dark ice shard}} /<br> {{plink|Elite tetsu katana}}
+|2hweapon1 = {{plink|Tumeken's Light}}
+|2hweapon2 = {{plink|Noxious scythe}}
+|2hweapon3 = {{plink|Laniakea's spear}}
+|2hweapon4 = {{plink|Dragon Rider lance}} /<br> {{plink|Masuta's warspear}} /<br> {{plink|Attuned crystal halberd}}
+|2hweapon5 = {{plink|Crystal halberd}} /<br> {{plink|Thalassia's Revenge}}
+|off1 = {{plink|Dark Sliver of Leng}}
+|off2 = {{plink|Khopesh of Elidinis}}
+|off3 = {{plink|Drygore weaponry|pic=Off-hand drygore longsword}} /<br> {{plink|Primal off hand warhammer + 5}}
+|off4 = {{plink|Dark ice sliver}} /<br> {{plink|Elite tetsu wakizashi}}
+|off5 = {{plink|Blade of Avaryss}} /<br> {{plink|Tetsu wakizashi}} /<br> {{plink|Elder rune off hand longsword + 5}}
+|gloves1 = {{plink|Cinderbane gloves}} (if poisonable) /<br> {{plink|Gloves of passage}}<sup>([[Enhanced gloves of passage|enhanced]])</sup>
+|gloves2 = {{plink|Deathtouch bracelet}}
+|gloves3 = {{plink|Goliath gloves|pic=Goliath gloves (black)}}
+|gloves4 = {{plink|Razorback gauntlets}} /<br> {{plink|Masterwork melee gloves}}<sup>([[Trimmed masterwork melee gloves|Trimmed]])</sup>
+|gloves5 = {{plink|Torva gloves}} /<br> {{plink|Bandos gloves}}
+|boots1 = {{plink|Vestments of havoc boots}}
+|boots2 = {{plink|Laceration boots}}<sup>([[Enhanced laceration boots|enhanced]])</sup>
+|boots3 = {{plink|Emberkeen boots}} /<br> {{plink|Masterwork melee boots}}<sup>([[Trimmed masterwork melee boots|Trimmed]])</sup>
+|boots4 = {{plink|Torva boots}} /<br> {{plink|Bandos boots}}
+|boots5 = {{plink|Rock-shell boots}}
+|ammo1 = {{plink|Abyssal armour spikes}}<sup>[[Abyssal armour spikes (alloy)|(alloy)]]</sup>
+|ammo2 = {{plink|Armour spikes}}<sup>[[Armour spikes (alloy)|(alloy)]]</sup>
+|ammo3 = {{plink|Pernix's quiver}} /<br> {{plink|Tirannwn quiver|pic=Tirannwn quiver 4}} /<br> {{plink|Grasping rune pouch}} (for prayer bonus)
+|ring1 = {{plink|Ring of death}}<sup>[[Ring of death (i)(o)|(i)(o)]]</sup>
+|ring2 = {{plink|Reaver's ring}}
+|ring3 = {{plink|Champion's ring}}
+|ring4 = {{plink|Luck|pic=Luck of the Dwarves|txt=Any luck ring}}
+|ring5 = {{plink|Asylum surgeon's ring (i)}} /<br> {{plink|Sixth-Age circuit}}
+|pocket1 = {{plink|Scrimshaw of vampyrism}}<sup>([[Superior scrimshaw of vampyrism|Superior]])</sup>
+|pocket2 = {{plink|Scripture of Wen}}
+|pocket3 = {{plink|Underworld Grimoire|pic=Underworld Grimoire 4}}
+|pocket4 = {{plink|Illuminated god book|pic=Illuminated Book of Wisdom}}
+|pocket5 = {{plink|Sign of life}}
+}}
+|-|
+Magic= 
+{{Recommended equipment
+|style = Magic
+|helm1 = {{plink|Corrupted slayer helmet|txt=Full slayer helmet variants}}
+|helm2 = {{plink|Mask of Tumeken's resplendence}}
+|helm3 = {{plink|Elite tectonic mask}} /<br> {{plink|Tectonic mask}}
+|helm4 = {{plink|Superior Zuriel's hood}} /<br> {{plink|Refined anima core helm of Seren}}
+|helm5 = {{plink|Virtus mask}} /<br> {{plink|Anima core helm of Seren}} /<br> {{plink|Hood of subjugation}}
+|neck1 = {{plink|Essence of Finality amulet}}<sup>[[Essence of Finality amulet (or)|(or)]]</sup> /<br>{{plink|Reaper necklace}}<sup>[[Reaper necklace (or)|(or)]]</sup>
+|neck2 = {{plink|Amulet of souls}}<sup>[[Amulet of souls (or)|(or)]]</sup>
+|neck3 = {{plink|Arcane blood necklace}} /<br> {{plink|Demon horn necklace}}
+|neck4 = {{plink|Blood amulet of fury}}
+|neck5 = {{plink|Amulet of zealots}}
+|cape1 = {{plink|Igneous Kal-Zuk}} /<br> {{plink|Igneous Kal-Mej}}
+|cape2 = {{plink|TokHaar-Kal-Mej}}
+|cape3 = {{plink|God capes|txt=God cape|pic=Saradomin cape}}
+|cape4 = {{plink|Completionist cape}} /<br> {{plink|Max cape}}
+|cape5 = {{plink|Defence cape}} /<br> {{plink|Obsidian cape}} /<br> {{plink|Cape of legends}}
+|body1 = {{plink|Robe top of Tumeken's resplendence}}
+|body2 = {{plink|Elite tectonic robe top}} /<br> {{plink|Tectonic robe top}}
+|body3 = {{plink|Superior Zuriel's robe top}} /<br> {{plink|Refined anima core body of Seren}}
+|body4 = {{plink|Virtus robe top}} /<br> {{plink|Anima core body of Seren}}
+|body5 = {{plink|Garb of subjugation}} /<br> {{plink|Lunar torso}}
+|legs1 = {{plink|Robe bottom of Tumeken's resplendence}}
+|legs2 = {{plink|Elite tectonic robe bottom}} /<br> {{plink|Tectonic robe bottom}}
+|legs3 = {{plink|Superior Zuriel's robe bottom}} /<br> {{plink|Refined anima core legs of Seren}}
+|legs4 = {{plink|Virtus robe legs}} /<br> {{plink|Anima core legs of Seren}}
+|legs5 = {{plink|Gown of subjugation}} /<br> {{plink|Lunar legs}}
+|weapon1 = {{plink|Roar of Awakening}}
+|weapon2 = {{plink|Wand of the praesul}} /<br> {{plink|Seismic wand}}
+|weapon3 = {{plink|Elite seasinger kiba}}
+|weapon4 = {{plink|Wand of the Cywir elders}} /<br> {{plink|Seasinger kiba}} /<br> {{plink|Attuned crystal wand}} /<br> {{plink|Virtus wand}}
+|weapon5 = {{plink|Abyssal wand}} /<br> {{plink|Crystal wand}}
+|2hweapon1 = {{plink|Fractured Staff of Armadyl}}
+|2hweapon2 = {{plink|Staff of Sliske}}
+|2hweapon3 = {{plink|Noxious staff}}
+|2hweapon4 = {{plink|Superior Zuriel's staff}} /<br> {{plink|Obliteration}}
+|2hweapon5 = {{plink|Staff of darkness}} /<br> {{plink|Camel staff}}
+|off1 = {{plink|Ode to Deceit}}
+|off2 = {{plink|Imperium core}} /<br> {{plink|Seismic singularity}} 
+|off3 = {{plink|Elite seasinger makigai}}
+|off4 = {{plink|Orb of the Cywir elders}} /<br> {{plink|Seasinger makigai}} /<br> {{plink|Attuned crystal orb}} /<br> {{plink|Virtus book}}
+|off5 = {{plink|Abyssal orb}} /<br> {{plink|Crystal orb}}
+|ammo1 = {{plink|Grasping rune pouch}}
+|ammo2 = {{plink|Large rune pouch}}
+|ammo3 = {{plink|Small rune pouch}}
+|ammo4 = {{plink|Tirannwn quiver 4}} (for prayer bonus)
+|gloves1 = {{plink|Cinderbane gloves}} (if poisonable) /<br> {{plink|Gloves of Tumeken's resplendence}} (for set bonus)
+|gloves2 = {{plink|Kerapac's wrist wraps}}<sup>([[Enhanced Kerapac's wrist wraps|enhanced]])</sup> /<br> {{plink|Deathtouch bracelet}}
+|gloves3 = {{plink|Spellcaster gloves}}
+|gloves4 = {{plink|Celestial handwraps}}
+|gloves5 = {{plink|Virtus gloves}} /<br> {{plink|Gloves of subjugation}}
+|boots1 = {{plink|Boots of Tumeken's resplendence}} (for set bonus)
+|boots2 = {{plink|Blast diffusion boots}}<sup>([[Enhanced blast diffusion boots|enhanced]])</sup>
+|boots3 = {{plink|Hailfire boots}}
+|boots4 = {{plink|Virtus boots}}
+|boots5 = {{plink|Boots of subjugation}} /<br> {{plink|Lunar boots}}
+|ring1 = {{plink|Ring of death}}<sup>[[Ring of death (i)(o)|(i)(o)]]</sup>
+|ring2 = {{plink|Reaver's ring}}
+|ring3 = {{plink|Channeller's ring}}
+|ring4 = {{plink|Luck|pic=Luck of the Dwarves|txt=Any luck ring}}
+|ring5 = {{plink|Asylum surgeon's ring (i)}} /<br> {{plink|Sixth-Age circuit}}
+|pocket1 = {{plink|Scripture of Amascut}} /<br> {{plink|Scripture of Ful}}
+|pocket2 = {{plink|Scripture of Wen}}
+|pocket3 = {{plink|Underworld Grimoire|pic=Underworld Grimoire 4}}
+|pocket4 = {{plink|Illuminated god book|pic=Illuminated Book of Law}}
+|pocket5 = {{plink|Sign of life}}
+}}
+|-|
+Animate Dead= 
+{{Recommended equipment
+|style = [[Animate Dead]]
+|helm1 = {{plink|Corrupted slayer helmet|txt=Full slayer helmet variants}}
+|helm2 = {{plink|Cryptbloom helm}}
+|helm3 = {{plink|Achto Primeval mask}} /<br> {{plink|Primeval mask}}
+|helm4 = {{plink|Superior seasinger's hood}} /<br> {{plink|Seasinger's hood}}
+|helm5 = {{plink|Ganodermic visor}}
+|body1 = {{plink|Cryptbloom top}}
+|body2 = {{plink|Achto Primeval robe top}} /<br> {{plink|Primeval robe top}}
+|body3 = {{plink|Superior seasinger's robe top}} /<br> {{plink|Seasinger's robe top}}
+|body4 = {{plink|Ganodermic poncho}}
+|legs1 = {{plink|Cryptbloom bottoms}}
+|legs2 = {{plink|Achto Primeval robe legs}} /<br> {{plink|Primeval robe legs}}
+|legs3 = {{plink|Superior seasinger's robe bottom}} /<br> {{plink|Seasinger's robe bottom}}
+|legs4 = {{plink|Ganodermic leggings}}
+|gloves1 = {{plink|Cinderbane gloves}} (if poisonable) /<br> {{plink|Cryptbloom gloves}}
+|gloves2 = {{plink|Achto Primeval gloves}} /<br> {{plink|Primeval gloves}}
+|gloves3 = {{plink|Superior seasinger aonori}}
+|gloves4 = {{plink|Ganodermic gloves}}
+|boots1 = {{plink|Cryptbloom boots}}
+|boots2 = {{plink|Achto Primeval boots}} /<br> {{plink|Primeval boots}}
+|boots3 = {{plink|Superior seasinger asari}}
+|boots4 = {{plink|Ganodermic boots}}
+}}
+|-|
+Ranged= 
+{{Recommended equipment
+|style = Ranged
+|helm1 = {{plink|Corrupted slayer helmet|txt=Full slayer helmet variants}}
+|helm2 = {{plink|Elite Dracolich coif}} /<br> {{plink|Dracolich coif}}
+|helm3 = {{plink|Elite sirenic mask}} /<br> {{plink|Sirenic mask}}
+|helm4 = {{plink|Superior Morrigan's coif}}/<br> {{plink|Refined anima core helm of Zamorak}}
+|helm5 = {{plink|Elite Robin Hood hat}}  /<br> {{plink|Pernix cowl}} /<br> {{plink|Anima core helm of Zamorak}}
+|neck1 = {{plink|Essence of Finality amulet}}<sup>[[Essence of Finality amulet (or)|(or)]]</sup> /<br>{{plink|Reaper necklace}}<sup>[[Reaper necklace (or)|(or)]]</sup>
+|neck2 = {{plink|Amulet of souls}}<sup>[[Amulet of souls (or)|(or)]]</sup>
+|neck3 = {{plink|Arcane blood necklace}} /<br> {{plink|Demon horn necklace}}
+|neck4 = {{plink|Blood amulet of fury}}
+|neck5 = {{plink|Amulet of zealots}}
+|cape1 = {{plink|Igneous Kal-Zuk}} /<br> {{plink|Igneous Kal-Xil}}
+|cape2 = {{plink|TokHaar-Kal-Xil}} 
+|cape3 = {{plink|Completionist cape}} /<br> {{plink|Max cape}}
+|cape4 = {{plink|Ava's alerter}}
+|cape5 = {{plink|Ranged cape}} /<br> {{plink|Defence cape}}
+|body1 = {{plink|Elite Dracolich hauberk}} /<br> {{plink|Dracolich hauberk}}
+|body2 = {{plink|Elite sirenic hauberk}} /<br> {{plink|Sirenic hauberk}}
+|body3 = {{plink|Superior Morrigan's leather body}} /<br> {{plink|Refined anima core body of Zamorak}}
+|body4 = {{plink|Elite Robin Hood tunic}} /<br> {{plink|Pernix body}} /<br> {{plink|Anima core body of Zamorak}}
+|body5 = {{plink|Armadyl chestplate}}
+|legs1 = {{plink|Elite Dracolich chaps}} /<br> {{plink|Dracolich chaps}}
+|legs2 = {{plink|Elite sirenic chaps}} /<br> {{plink|Sirenic chaps}}
+|legs3 = {{plink|Superior Morrigan's leather chaps}} /<br> {{plink|Refined anima core legs of Zamorak}}
+|legs4 = {{plink|Elite Robin Hood tights}} /<br> {{plink|Pernix chaps}} /<br> {{plink|Anima core legs of Zamorak}}
+|legs5 = {{plink|Armadyl chainskirt}}
+|weapon1 = {{plink|Malachi's tooth}} /<br> {{plink|Blightbound crossbow}}
+|weapon2 = {{plink|Mechanised chinchompa}}
+|weapon3 = {{plink|Ascension crossbow}} /<br> {{plink|Elite Death Lotus dart}} /<br> {{plink|Primal crossbow Mk. 5}} (non-augmentable)
+|weapon4 = {{plink|Shadow glaive}} /<br> {{plink|Attuned crystal chakram}} /<br> {{plink|Chaotic crossbow}}
+|weapon5 = {{plink|Armadyl crossbow}} /<br> {{plink|Crystal chakram}} /<br> {{plink|Karil's pistol crossbow}}
+|2hweapon1 = {{plink|Bow of the Last Guardian}} /<br> {{plink|Masterwork bow}}
+|2hweapon2 = {{plink|Seren godbow}}
+|2hweapon3 = {{plink|Eldritch crossbow}}
+|2hweapon4 = {{plink|Noxious longbow}} /<br> {{plink|Wyvern crossbow}} /<br> {{plink|Eternal magic shortbow Mk. 5}} (non-augmentable)
+|2hweapon5 = {{plink|Decimation}}
+|off1 = {{plink|Malachi's claw}} /<br> {{plink|Off-hand Blightbound crossbow}}
+|off2 = {{plink|Off-hand ascension crossbow}} /<br> {{plink|Off-hand primal crossbow Mk. 5}} (non-augmentable)
+|off3 = {{plink|Off-hand Elite Death Lotus dart}}
+|off4 = {{plink|Off-hand shadow glaive}} /<br> {{plink|Off-hand attuned crystal chakram}} /<br> {{plink|Off-hand chaotic crossbow}}
+|off5 = {{plink|Off-hand chaotic crossbow}} /<br> {{plink|Crystal chakram}} /<br> {{plink|Karil's off-hand pistol crossbow}}
+|ammo1 = {{plink|Emerald bakriminel bolts (e)}} <br> {{plink|Deathspore arrows|txt=Deathspore}} / {{plink|Splintering arrows|txt=Splintering}}
+|ammo2 = {{plink|Primal bolts}} /<br> {{plink|Blight bolts}} /<br> {{plink|Primal arrow}}
+|ammo3 = {{plink|Ascension bolts}} /<br> {{plink|Araxyte arrow}}
+|ammo4 = {{plink|Wyvern spines}} /<br> {{plink|Wild arrow}}
+|ammo5 = {{plink|Royal bolts}}
+|gloves1 = {{plink|Cinderbane gloves}} (if poisonable) /<br> {{plink|Elite Dracolich vambraces}} /<br> {{plink|Dracolich vambraces}}
+|gloves2 = {{plink|Deathtouch bracelet}}
+|gloves3 = {{plink|Nightmare gauntlets}}<sup>([[Enhanced nightmare gauntlets|enhanced]])</sup> /<br> {{plink|Swift gloves|pic=Swift gloves (white)}}
+|gloves4 = {{plink|Ascension grips}}
+|gloves5 = {{plink|Pernix gloves}}
+|boots1 = {{plink|Fleeting boots}}<sup>([[Enhanced fleeting boots|enhanced]])</sup>
+|boots2 = {{plink|Elite Dracolich boots}} /<br> {{plink|Dracolich boots}}
+|boots3 = {{plink|Flarefrost boots}} /<br> {{plink|Elite ranger boots}}
+|boots4 = {{plink|Pernix boots}}
+|boots5 = {{plink|Armadyl boots}}
+|ring1 = {{plink|Ring of death}}<sup>[[Ring of death (i)(o)|(i)(o)]]</sup>
+|ring2 = {{plink|Reaver's ring}}
+|ring3 = {{plink|Stalker's ring}}
+|ring4 = {{plink|Luck|pic=Luck of the Dwarves|txt=Any luck ring}}
+|ring5 = {{plink|Asylum surgeon's ring (i)}} /<br> {{plink|Sixth-Age circuit}}
+|pocket1 = {{plink|Scripture of Amascut}} /<br> {{plink|Scripture of Ful}}
+|pocket2 = {{plink|Scripture of Wen}}
+|pocket3 = {{plink|Underworld Grimoire|pic=Underworld Grimoire 4}}
+|pocket4 = {{plink|Illuminated god book|pic=Illuminated Book of Law}}
+|pocket5 = {{plink|Sign of life}}
+}}
+</tabber>
+
+;Notes:
+* Players should use the best weapons they can for damage, and their best power armour.
+* The [[noxious scythe]], [[Masuta's warspear]] and [[Dragon Rider lance]] are far superior to other melee options due to their increased attack range and synergy with area of effect abilities.
+** [[Laniakea's spear]] is an alternative option on tasks where its accuracy is not a hindrance due to its unique passive effect, which can pair with cinderbane gloves and [[weapon poison+++]], and its increased attack range.
+* [[Cinderbane gloves]] are extremely useful against monsters that are not immune to [[poison]], as they apply a poisonous effect to all monsters the player is in combat with.
+* [[Ring of vigour]] is not needed to be equipped after combined with [[warped gem]], a reward from completion of [[Extinction]] quest.
+
+===Slayer helmet===
+[[File:Corrupted slayer helmet chathead.png|left|50px]]
+The most essential piece of gear is the [[slayer helmet]] and its variants. It provides a 7.5-9.5% increase to damage and 12.5-14.5% increase to accuracy when slaying monsters on-task and incorporates all slayer headgear effects, including [[spiny helmet]], [[face mask]], [[earmuffs]], [[nose peg]].
+
+Maximum of 5 fully charged [[ring of slaying]] and 6 fully charged [[ferocious ring]]s can be stored in the slayer helmets with 60 [[Crafting]] and unlocking the ability for 500 [[Slayer point]]s.
+
+All slayer helmets can be stored on the [[slayer helmet stand]] in [[Anachronia base camp]], granting its on-task damage and accuracy boost as a passive effect, allowing players to wear any style specific helmet. Ring of slaying and ferocious ring effects do not work with the helmet on the stand.
+{{Slayer helmet upgrades}}
+
+===Cannons===
+A [[cannons|cannon]] is another incredibly useful piece of equipment, which is often used to speed up tasks. The "Restocking Cannon" perk purchased from the [[Artisans' Workshop Reward Shop]] with 100 [[Respect (Artisans' Workshop)|respect]] (with 150 extra in the upgrade progress) is quite essential to reduce the effort to maintain the cannons. The [[dwarf multicannon]] and [[kinetic cyclone]] are the [[Ranged]] and [[Melee]] variant of the cannons respectively. The [[Oldak coil]] is a [[Magic]] variant which is further recommended to be used instead of the dwarf multicannon, if possible.
+
+Unlocking the [[dwarf multicannon upgrade kit|dwarf multicannon]], [[kinetic cyclone upgrade kit|kinetic cyclone]], and [[Oldak coil upgrade kit]]s can permanently increase their damage output by 100%, 50%, and 50% respectively.
+
+These are incredibly useful for [[Dark beasts (Slayer assignment)|dark beast]] and [[Edimmu (Slayer assignment)|edimmu assignment]]s, as they constantly cycle aggression towards the player whenever they are hit. Most tasks can generally be completed within the duration of the cannon (25 minutes), and even then maintenance is fairly low if it runs out of [[cannonballs]], with a simple click to get it back up and running again. Some areas will prohibit the use of these cannons, so [[aggression potion]]s should be used in their place if necessary.
+
+===Perks===
+{{See also|Optimal PvM perk setup}}
+Any [[perks]] that increase damage output is beneficial while slaying monsters. The perks shown in the table below are specifically useful for Slayer. [[Scavenging]] is arguably the best perk for Slayer and should be prioritised.
+{| class="wikitable"
+! Perk
+! Effect
+|-
+| {{Perk link|Scavenging}}
+| Scavenging gives a 1% chance per rank to get an uncommon Invention component as a drop.
+|-
+| {{Perk link|Demon Slayer}}
+| 
+Demon Slayer increases damage dealt to [[Demon Slayer (perk)#Demons|demons]] by 7%. Demon Slayer is useful if players prefer [[Demons (Slayer assignment)|demon slayer assignment]].
+|-
+| {{Perk link|Dragon Slayer}}
+| 
+Dragon Slayer increases damage dealt to [[Dragon (race)|dragons]] and [[Dragon Slayer (perk)#Effect on Dragon bosses|dragon bosses]] by 7%. Dragon Slayer is useful if players prefer [[Dragons (Slayer assignment)|dragon slayer assignment]].
+|-
+| {{Perk link|Undead Slayer}}
+| 
+Undead Slayer allows you to deal 7% additional damage to [[undead]] monsters. Undead Slayer is useful if players prefer [[Undead (Slayer assignment)|undead slayer assignment]].
+|-
+| {{Perk link|Genocidal}}
+| Genocidal allows you to deal up to 5% extra damage with their weapon, depending how far through their Slayer task you are.
+|}
+
+Specific combination for Slayer include:
+
+{| class="wikitable sortable"
+! Slot
+! Perk 1
+! Perk 2
+! Perk calculator
+! Expected cost
+|-
+| rowspan="20" | [[File:Torso slot.png]] [[File:Legs slot.png]] Armour
+| colspan="2" | {{Perk link|Scavenging|4}}
+| [https://runescape.wiki/w/Calculator:Perks?ancient=1&bottom=Precious+components&bottom-left=Precious+components&bottom-right=Precious+components&left=Precious+components&middle=Precious+components&right=Precious+components&top=Precious+components&top-left=Precious+components&top-right=Precious+components&type=Armour#a%3D1%26l%3D120%26g%3D2%26m%3D35%252C35%252C35%252C35%252C35%252C35%252C35%252C35%252C35 Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient armour gizmo shell}}+{{Matcost|Precise components|raw}}*9/(1/15.4)) round 0}}
+|-
+| {{Perk link|Demon Slayer}}
+| {{Perk link|Dragon Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#l%3D40%26g%3D2%26m%3D23%252C23%252C23%252C54%252C54 Armour gizmo]
+| {{Coins|({{CVP|Armour gizmo shell}}+{{Matcost|Dextrous components|raw}}*3+{{Matcost|Dragonfire components|raw}}*2)/(1/1.26) round 0}}
+|-
+| {{Perk link|Dragon Slayer}}
+| {{Perk link|Undead Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#l%3D71%26g%3D2%26m%3D54%252C32%252C1%252C25%252C73 Armour gizmo]
+| {{Coins|{{CVP|Armour gizmo shell}}+{{Matcost|Base parts|raw}}+{{Matcost|Dragonfire components|raw}}+{{Matcost|Living components|raw}}+{{Matcost|Enhancing components|raw}}+{{Matcost|Undead components|raw}}}}
+|-
+| {{Perk link|Demon Slayer}}
+| {{Perk link|Undead Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#l%3D71%26g%3D2%26m%3D23%252C73%252C23%252C23%252C23 Armour gizmo]
+| {{Coins|({{CVP|Armour gizmo shell}}+{{Matcost|Dextrous components|raw}}*4+{{Matcost|Undead components|raw}})/(1/1.67) round 0}}
+|-
+| {{Perk link|Genocidal}}
+| {{Perk link|Dragon Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#l%3D86%26g%3D2%26m%3D34%252C54%252C48%252C54%252C0 Armour gizmo]
+| {{Coins|({{CVP|Armour gizmo shell}}+{{Matcost|Bandos components|raw}}+{{Matcost|Powerful components|raw}}+{{Matcost|Dragonfire components|raw}}*2)/(1/1.34) round 0}}
+|-
+| {{Perk link|Genocidal}}
+| {{Perk link|Demon Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#l%3D86%26g%3D2%26m%3D34%252C23%252C48%252C23%252C3 Armour gizmo]
+| {{Coins|({{CVP|Armour gizmo shell}}+{{Matcost|Bandos components|raw}}+{{Matcost|Powerful components|raw}}+{{Matcost|Dextrous components|raw}}*2+{{Matcost|Clear parts|raw}})/(1/1.71) round 0}}
+|-
+| rowspan="2" | {{Perk link|Genocidal}}
+| rowspan="2" | {{Perk link|Undead Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#l%3D86%26g%3D2%26m%3D48%252C73%252C34%252C32%252C0 Armour gizmo] (combo 1)
+| {{Coins|({{CVP|Armour gizmo shell}}+{{Matcost|Powerful components|raw}}+{{Matcost|Bandos components|raw}}+{{Matcost|Undead components|raw}}*2+{{Matcost|Living components|raw}})/(1/1.04) round 0}}
+|-
+| [https://runescape.wiki/w/Calculator:Perks#l%3D86%26g%3D2%26m%3D48%252C73%252C34%252C7%252C0 Armour gizmo] (combo 2)
+| {{Coins|({{CVP|Armour gizmo shell}}+{{Matcost|Powerful components|raw}}+{{Matcost|Bandos components|raw}}+{{Matcost|Undead components|raw}}*2+{{Matcost|Crystal parts|raw}})/(1/1.03) round 0}}
+|-
+| {{Perk link|Biting|4}}
+| {{Perk link|Dragon Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks?ancient=1&bottom=Noxious+components&bottom-left=Dragonfire+components&bottom-right=Dragonfire+components&left=Noxious+components&middle=Noxious+components&right=Noxious+components&top=Noxious+components&top-left=Noxious+components&top-right=Noxious+components&type=Weapon#a%3D1%26l%3D120%26g%3D2%26m%3D62%252C62%252C62%252C62%252C62%252C62%252C62%252C54%252C54 Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient armour gizmo shell}}+{{Matcost|Noxious components|raw}}*7+{{Matcost|Dragonfire components|raw}}*2)/(1/1.76) round 0}}
+|-
+| {{Perk link|Biting|4}}
+| {{Perk link|Undead Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks?ancient=1&bottom=Noxious+components&bottom-left=Dragonfire+components&bottom-right=Dragonfire+components&left=Noxious+components&middle=Noxious+components&right=Noxious+components&top=Noxious+components&top-left=Noxious+components&top-right=Noxious+components&type=Weapon#a%3D1%26l%3D120%26g%3D2%26m%3D62%252C62%252C62%252C62%252C62%252C62%252C62%252C73%252C32 Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient armour gizmo shell}}+{{Matcost|Noxious components|raw}}*7+{{Matcost|Undead components|raw}}+{{Matcost|Living components|raw}})/(1/2.02) round 0}}
+|-
+| {{Perk link|Biting|4}}
+| {{Perk link|Demon Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks?ancient=1&bottom=Noxious+components&bottom-left=Dragonfire+components&bottom-right=Dragonfire+components&left=Noxious+components&middle=Noxious+components&right=Noxious+components&top=Noxious+components&top-left=Noxious+components&top-right=Noxious+components&type=Weapon#a%3D1%26l%3D120%26g%3D2%26m%3D62%252C62%252C62%252C62%252C62%252C62%252C62%252C72%252C72 Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient armour gizmo shell}}+{{Matcost|Noxious components|raw}}*7+{{Matcost|Third-age components|raw}}*2)/(1/1.76) round 0}}
+|-
+| {{Perk link|Biting|4}}
+| {{Perk link|Genocidal}}
+| [https://runescape.wiki/w/Calculator:Perks?ancient=1&bottom=Noxious+components&bottom-left=Dragonfire+components&bottom-right=Dragonfire+components&left=Noxious+components&middle=Noxious+components&right=Noxious+components&top=Noxious+components&top-left=Noxious+components&top-right=Noxious+components&type=Weapon#a%3D1%26l%3D120%26g%3D2%26m%3D62%252C62%252C62%252C62%252C62%252C62%252C62%252C48%252C48 Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient armour gizmo shell}}+{{Matcost|Noxious components|raw}}*7+{{Matcost|Bandos components|raw}}*2)/(1/1.9) round 0}}
+|-
+| {{Perk link|Crackling|4}}
+| {{Perk link|Demon Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks?ancient=1&bottom=Noxious+components&bottom-left=Dragonfire+components&bottom-right=Dragonfire+components&left=Noxious+components&middle=Noxious+components&right=Noxious+components&top=Noxious+components&top-left=Noxious+components&top-right=Noxious+components&type=Weapon#a%3D1%26l%3D120%26g%3D2%26m%3D23%252C79%252C79%252C79%252C79%252C23%252C23%252C55%252C55 Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient armour gizmo shell}}+{{Matcost|Vintage components|raw}}*4+{{Matcost|Dextrous components|raw}}*3+{{Matcost|Explosive components|raw}}*2)/(1/3.52) round 0}}
+|-
+| {{Perk link|Crackling|4}}
+| {{Perk link|Dragon Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks?ancient=1&bottom=Noxious+components&bottom-left=Dragonfire+components&bottom-right=Dragonfire+components&left=Noxious+components&middle=Noxious+components&right=Noxious+components&top=Noxious+components&top-left=Noxious+components&top-right=Noxious+components&type=Weapon#a%3D1%26l%3D120%26g%3D2%26m%3D55%252C55%252C55%252C55%252C55%252C55%252C55%252C54%252C54 Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient armour gizmo shell}}+{{Matcost|Explosive components|raw}}*7+{{Matcost|Dragonfire components|raw}}*2)/(1/1.76) round 0}}
+|-
+| {{Perk link|Crackling|4}}
+| {{Perk link|Undead Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks?ancient=1&bottom=Noxious+components&bottom-left=Dragonfire+components&bottom-right=Dragonfire+components&left=Noxious+components&middle=Noxious+components&right=Noxious+components&top=Noxious+components&top-left=Noxious+components&top-right=Noxious+components&type=Weapon#a%3D1%26l%3D120%26g%3D2%26m%3D55%252C55%252C55%252C55%252C55%252C55%252C55%252C73%252C32 Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient armour gizmo shell}}+{{Matcost|Explosive components|raw}}*7+{{Matcost|Undead components|raw}}+{{Matcost|Living components|raw}})/(1/1.67) round 0}}
+|-
+| {{Perk link|Crackling|4}}
+| {{Perk link|Genocidal}}
+| [https://runescape.wiki/w/Calculator:Perks?ancient=1&bottom=Noxious+components&bottom-left=Dragonfire+components&bottom-right=Dragonfire+components&left=Noxious+components&middle=Noxious+components&right=Noxious+components&top=Noxious+components&top-left=Noxious+components&top-right=Noxious+components&type=Weapon#a%3D1%26l%3D120%26g%3D2%26m%3D55%252C55%252C55%252C55%252C55%252C55%252C55%252C73%252C32 Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient armour gizmo shell}}+{{Matcost|Explosive components|raw}}*7+{{Matcost|Bandos components|raw}}*2)/(1/1.67) round 0}}
+|-
+| {{Perk link|Impatient|4}}
+| {{Perk link|Dragon Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#a%3D1%26l%3D110%26g%3D2%26m%3D75%252C75%252C75%252C75%252C74%252C75%252C75%252C54%252C54 Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient armour gizmo shell}}+{{Matcost|Zaros components|raw}}*6+{{Matcost|Zamorak components|raw}}+{{Matcost|Dragonfire components|raw}}*2)/(1/1.82) round 0}}
+|-
+| {{Perk link|Impatient|4}}
+| {{Perk link|Demon Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#a%3D1%26l%3D110%26g%3D2%26m%3D75%252C75%252C75%252C75%252C74%252C75%252C75%252C72%252C23 Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient armour gizmo shell}}+{{Matcost|Zaros components|raw}}*6+{{Matcost|Zamorak components|raw}}+{{Matcost|Third-age components|raw}}+{{Matcost|Dextrous components|raw}})/(1/2.29) round 0}}
+|-
+| {{Perk link|Impatient|4}}
+| {{Perk link|Undead Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks?ancient=1&bottom=Noxious+components&bottom-left=Dragonfire+components&bottom-right=Dragonfire+components&left=Noxious+components&middle=Noxious+components&right=Noxious+components&top=Noxious+components&top-left=Noxious+components&top-right=Noxious+components&type=Weapon#a%3D1%26l%3D112%26g%3D2%26m%3D75%252C75%252C74%252C75%252C75%252C75%252C75%252C73%252C32 Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient armour gizmo shell}}+{{Matcost|Zaros components|raw}}*6+{{Matcost|Zamorak components|raw}}+{{Matcost|Undead components|raw}}+{{Matcost|Living components|raw}})/(1/2.09) round 0}}
+|-
+| {{Perk link|Impatient|4}}
+| {{Perk link|Genocidal}}
+| [https://runescape.wiki/w/Calculator:Perks?ancient=1&bottom=Noxious+components&bottom-left=Dragonfire+components&bottom-right=Dragonfire+components&left=Noxious+components&middle=Noxious+components&right=Noxious+components&top=Noxious+components&top-left=Noxious+components&top-right=Noxious+components&type=Weapon#a%3D1%26l%3D120%26g%3D2%26m%3D75%252C75%252C74%252C75%252C75%252C75%252C75%252C48%252C48 Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient armour gizmo shell}}+{{Matcost|Zaros components|raw}}*6+{{Matcost|Zamorak components|raw}}+{{Matcost|Bandos components|raw}}*2)/(1/2.21) round 0}}
+|-
+| rowspan="19" | [[File:Main hand slot.png]] [[File:Off-hand weapon slot.png]] Weapon
+| {{Perk link|Eruptive|4}}
+| {{Perk link|Dragon Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#a%3D1%26l%3D120%26g%3D1%26m%3D78%252C78%252C78%252C78%252C78%252C78%252C78%252C54%252C54%26potion%3DExtreme Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient weapon gizmo shell}}+{{Matcost|Timeworn components|raw}}*7+{{Matcost|Dragonfire components|raw}}*2)/(1/2.01) round 0}}
+|-
+| {{Perk link|Eruptive|4}}
+| {{Perk link|Demon Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#a%3D1%26l%3D120%26g%3D1%26m%3D78%252C78%252C78%252C78%252C78%252C78%252C78%252C48%252C48%26potion%3DExtreme Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient weapon gizmo shell}}+{{Matcost|Timeworn components|raw}}*7+{{Matcost|Third-age components|raw}}+{{Matcost|Dextrous components|raw}})/(1/2.69) round 0}}
+|-
+| {{Perk link|Eruptive|4}}
+| {{Perk link|Undead Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#a%3D1%26l%3D120%26g%3D1%26m%3D78%252C78%252C78%252C78%252C78%252C78%252C78%252C48%252C48%26potion%3DExtreme Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient weapon gizmo shell}}+{{Matcost|Timeworn components|raw}}*7+{{Matcost|Undead components|raw}}+{{Matcost|Living components|raw}})/(1/2.3) round 0}}
+|-
+| {{Perk link|Eruptive|4}}
+| {{Perk link|Genocidal}}
+| [https://runescape.wiki/w/Calculator:Perks#a%3D1%26l%3D120%26g%3D1%26m%3D78%252C78%252C78%252C78%252C78%252C78%252C78%252C48%252C48%26potion%3DExtreme Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient weapon gizmo shell}}+{{Matcost|Timeworn components|raw}}*7+{{Matcost|Bandos components|raw}}*2)/(1/2.36) round 0}}
+|-
+| {{Perk link|Precise|6}}
+| {{Perk link|Dragon Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#a%3D1%26l%3D120%26g%3D1%26m%3D45%252C45%252C45%252C45%252C45%252C45%252C45%252C54%252C54%26potion%3DExtreme Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient weapon gizmo shell}}+{{Matcost|Armadyl components|raw}}*7+{{Matcost|Dragonfire components|raw}}*2)/(1/1.59) round 0}}
+|-
+| {{Perk link|Precise|6}}
+| {{Perk link|Demon Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#a%3D1%26l%3D120%26g%3D1%26m%3D45%252C45%252C45%252C45%252C45%252C45%252C45%252C72%252C23%26potion%3DExtreme Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient weapon gizmo shell}}+{{Matcost|Armadyl components|raw}}*7+{{Matcost|Third-age components|raw}}+{{Matcost|Dextrous components|raw}})/(1/1.94) round 0}}
+|-
+| {{Perk link|Precise|6}}
+| {{Perk link|Undead Slayer}}
+| [https://runescape.wiki/w/Calculator:Perks#a%3D1%26l%3D120%26g%3D1%26m%3D45%252C45%252C45%252C45%252C45%252C45%252C45%252C73%252C32%26potion%3DExtreme Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient weapon gizmo shell}}+{{Matcost|Armadyl components|raw}}*7+{{Matcost|Undead components|raw}}+{{Matcost|Living components|raw}})/(1/1.8) round 0}}
+|-
+| {{Perk link|Precise|6}}
+| {{Perk link|Genocidal}}
+| [https://runescape.wiki/w/Calculator:Perks#a%3D1%26l%3D120%26g%3D1%26m%3D77%252C77%252C77%252C77%252C77%252C77%252C77%252C77%252C77%26potion%3DExtreme Ancient armour gizmo]
+| {{Coins|({{CVP|Ancient weapon gizmo shell}}+{{Matcost|Historic components|raw}}*9)/(1/5.27) round 0}}
+|}
+
+Other useful perks:
+{{PvM perks}}
+
+===Miscellaneous equipment===
+{| class="wikitable align-center-1"
+! colspan="2" | Item
+! Effect
+! Requirements to obtain
+|-
+| {{plinkt|Enhanced Excalibur}}
+| It may help sustain harder tasks as its healing ability which can be activated by the "Activate" option while it is in backpack or equipped. Completion of [[elite Seers' Village achievements]] increases the healing effect.
+| [[Hard Seers' Village achievements]]
+|-
+| {{plinkt|Infernal Puzzle Box}}<br>(tier 3)
+| Your adrenaline will not drain outside of combat. Works everywhere provided the puzzle box is in the backpack or tool belt. Completion of [[Succession]] quest unlocks the ability to add it to the tool belt.
+| {{QuestIcon|Daughter of Chaos}} and {{QuestIcon|Civil War I (miniquest)}}
+|-
+| {{plinkt|Dreadnip}}s 
+| It may help speed up killing higher-level monsters.
+| After achieving 450 kills and spectating another player's match in the [[Dominion Tower]]
+|-
+| {{plinkt|Dominion mine}}s 
+| It may help speed up killing the monsters having combat level of 138 or lower as well as a large life point pool.
+| After achieving 400 kills and fighting all special matches in the [[Dominion Tower]]
+|-
+| {{plinkt|Armour spikes (alloy)}}
+| They should be used when possible; alternatively [[armour spikes]] for a cheaper option. 
+| {{skillreq|Smithing|99}}
+|-
+| {{plinkt|Scrimshaw of sacrifice}}
+| If the player choose to not care about the drops but rather get more experience, they may minimise the cost by activating the scrimshaw the last few seconds of the kill.
+| Defeating the [[Giant Mimic]], or reaching inside the [[Motherlode Maw]] ({{skillreq|Dungeoneering|115}} and 95 in all [[skills]])
+|-
+| {{plinkp|Mask of Broken Fingers}}{{plinkp|Mask of Mourning}}{{plinkp|Mask of Crimson}}{{plinkp|Mask of the Dagannoth}}
+| [[Slayer mask]]s
+| When the mask is worn, it will allow the player to force a slayer assignment and gain additional Slayer XP and enhanced drops for the corresponding monsters. It also grants the player 12.5% damage and accuracy if the player is on the Slayer assignment for the corresponding monsters.
+| Purchased from the [[Shattered Worlds Reward Shop]]
+|-
+| {{plinkt|Tirannwn quiver 2}} or<br>[[Tirannwn quiver 3|quiver 3]] or<br>[[Tirannwn quiver 4|quiver 4]]
+| They provide a 5% damage boost against [[Shadow creatures (Slayer assignment)|shadow creatures]] and [[Elves (Slayer assignment)|elves]] in [[Prifddinas]], and [[Dark beasts (Slayer assignment)|dark beasts]], depending on the tier. No need to wear it to activate effects.
+| [[Medium Tirannwn achievements|Medium]], [[hard Tirannwn achievements]], and [[elite Tirannwn achievements]]
+|-
+| {{plinkt|Morytania legs 4}}
+| They provide a 10% increase to Slayer experience gained in the [[Slayer Tower]] when worn while on task.
+| [[Elite Morytania achievements]]
+|-
+| {{plinkt|Dragon slayer gloves}}
+| They give 15% more Slayer experience and a 10% [[Hit chance|accuracy]] boost when slaying [[Dragons (Slayer assignment)|dragons]] assigned by Slayer Masters
+| Purchased from the [[Fist of Guthix Reward Shop]], from the [[Stanley Limelight Traders]]
+|-
+| {{plinkt|Ring of vigour}} and passive effect conversion
+| The ring of vigour refunds 10% [[adrenaline]] on use of an ultimate ability. A [[warped gem]] that can be combined with the ring of vigour after the completion of the quest [[Extinction]], converting the ring to a passive effect permanently.
+| {{scm|Attack|62}}, {{scm|Dungeoneering|62}}, 50,000 {{plink|Dungeoneering token}}s
+|-
+| {{plinkt|Ferocious ring}}
+| Wearing a ferocious ring increases damage dealt to monsters in [[Kuradal's Dungeon]] by 4%. The ability to fuse ferocious rings to [[slayer helmet]]s can be unlocked for 500 [[Slayer points]]; the 4% damage boost is also transferred to the helm. It can be used to teleport to [[Kuradal]] or [[Morvran]] up to five times.
+| Access to Kuradal's Dungeon (partial completion of [[Barbarian Firemaking]], as well as {{skillreq|Slayer|75}} and {{skillreq|Combat|110}}, or [[Slayer Wildcard]])
+|-
+| {{plinkt|Kethsi ring}} 
+| It provides a 4% damage boost against [[metal dragons]]. In [[Kuradal's Dungeon]], this is increased to 8%.
+| Varies
+|-
+| {{plinkt|TokKul-Zo}} 
+| The charged Tokkul-Zo increases damage dealt to TzHaar monsters by 10%, using one charge per hit. It provides unlimited teleports to several locations inside [[TzHaar City]]. There is a [[fairy ring]] {{Fairycode|BLP}} and a bank immediately next to the ring's teleport to the [[TzHaar Fight Cave]]. 
+| {{QuestIcon|The Elder Kiln}}
+|-
+| {{plinkp|Enchanted gem}}{{plinkp|Ring of slaying}}
+| [[Enchanted gem]] or<br>[[ring of slaying]]
+| These items are used for checking how many kills left in your assignment. The ring of slaying also provides teleport to several locations. However, the "Slayer counter" in the Gameplay settings (under subsections "Skills & Experience", "Slayer", desktop only) shows the remaining number of kills more conveniently.
+| {{Coins|1}} for the gem,<br>{{skillreq|Crafting|75}} or 75 {{plink|Slayer points}} for the ring
+|}
+
+===Miscellaneous spells===
+[[NPC Contact]] (requires 67 [[Magic]] and the completion of [[Lunar Diplomacy]]) allows players to ask their [[Slayer Master]] for a new assignment remotely. This is only useful if you aren't planning on using [[Magic]] for a Slayer task, or have the [[Magic cape]], as the cape provides the holder to switch their spellbook an unlimited number of times.
+
+==Abilities==
+{{See also|PvM unlock guide#Upgrade order}}
+
+===Damage boosting abilities===
+====Melee abilities====
+{| class="wikitable align-center-1"
+! colspan="2" | Item
+! Effect
+! Requirements to obtain
+|-
+| {{plinkt|Bladed Dive|size=30}}
+| Bladed Dive is a basic [[Attack]] ability. It requires level 65 Attack and dual-wielding melee weapons to use. The ability causes the player to leap towards the specified location, dealing 75%-95% ability damage to enemies within a 3x3 area of the selected tile. Equipping [[laceration boots]] or [[enhanced laceration boots|their enhanced variant]] allows you use with two-handed melee weapon.
+| 63,000,000 {{plink|shattered anima|size=x30}} from [[Shattered Worlds Reward Shop]]
+|-
+| {{plinkt|Chaos Roar|size=30}}
+| Chaos Roar is a basic [[Strength]] ability. It requires level 92 Attack. It does 85%-105% ability damage and doubles the base damage of the next melee ability used.
+| Tradeable [[Chaos Roar ability codex]]
+|}
+
+====Magic abilities====
+{| class="wikitable align-center-1"
+! colspan="2" | Item
+! Effect
+! Requirements to obtain
+|-
+| {{plinkt|Greater Concentrated Blast|size=30}}
+| Greater Concentrated Blast is a basic [[Magic]] ability, which is an upgraded version of [[Concentrated Blast]]. This ability improves both the total damage and speed over the lesser version.
+| Tradeable [[Greater Concentrated blast ability codex]]
+|-
+| {{plinkt|Greater Chain|size=30}}
+| Greater Chain is a basic [[Magic]] ability, which is an upgraded version of [[Chain]]. The [[Caroming]] perk will increase the number of targets Chain can hit. This ability copies magic attacks to affected enemies within 6 seconds for 50% reduced damage.
+| Tradeable [[Greater Chain ability codex]]
+|-
+| {{plinkt|Corruption Blast|size=30}}
+| Corruption Blast is a basic [[Magic]] ability. It requires level 70 Magic. It is one of the [[Abilities#Damage over Time abilities|damage over time]] abilities for the Magic skill. Each hit of the [[Corruption Blast (status)|debuff]] will spread to all adjacent targets in a 5x5 area centred around the target with the debuff.
+| Untradeable [[Corruption Blast ability codex]] or tradeable [[Mazcab ability codex]]
+|-
+| {{plinkt|Smoke Tendrils|size=30}}
+| Smoke Tendrils is an enhanced [[Magic]] ability. It requires level 75 Magic. It is best used with [[Soul Split]] against weaker monsters with many life points.
+| Completion of the quest [[The Dig Site]] and reading the [[Codex Ultimatus]]
+|-
+| {{plinkt|Greater Sonic Wave|size=30}}
+| Greater Sonic Wave is a basic [[Magic]] ability, which is an upgraded version of [[Sonic Wave]]. It requires level 75 Magic. This can stack with up to 7 targets using [[Greater Chain]] (with [[Caroming]] 4) to massively increase the hit chance and damage of another ability.
+| Tradeable [[Greater Sonic Wave ability codex]]
+|-
+| {{plinkt|Sunshine|size=30}}
+| Sunshine is an ultimate [[Magic]] ability. It requires level 85 Magic. It creates a circle of light covering a 7x7 area, granting the player an increase of 50% to their magic damage while they are within the beam.
+| {{QuestIcon|The World Wakes}}
+|-
+| {{plinkt|Greater Sunshine|size=30}}
+| Greater Sunshine is a longer version of [[Sunshine]].
+| Tradeable [[Greater Sunshine ability codex]] or [[Greater Sunshine ability codex (untradeable)|untradeable version]]
+|}
+
+====Ranged abilities====
+{| class="wikitable align-center-1"
+! colspan="2" | Item
+! Effect
+! Requirements to obtain
+|-
+| {{plinkt|Corruption Shot|size=30}}
+| Corruption Shot is an enhanced [[Ranged]] ability. It requires level 70 Ranged. It is one of the [[Abilities#Damage over Time abilities|damage over time]] abilities for the Ranged skill. Each hit of the [[Corruption Shot (status)|debuff]] will spread to all adjacent targets in a 5x5 area centred around the target with the debuff.
+| Untradeable [[Corruption Blast ability codex]] or tradeable [[Mazcab ability codex]]
+|-
+| {{plinkt|Shadow Tendrils|size=30}}
+| Shadow Tendrils is an enhanced [[Ranged]] ability. It requires level 75 Ranged. It is best used with [[Soul Split]] against weaker monsters with many life points.
+| Completion of the quest [[The Dig Site]] and reading the [[Codex Ultimatus]]
+|-
+| {{plinkt|Death's Swiftness|size=30}}
+| Death's Swiftness is an ultimate [[Ranged]] ability. It requires level 85 Ranged. It creates a shroud of death covering a 7x7 area, granting the player an increase of 50% to their ranged damage while they are within the shroud.
+| {{QuestIcon|The World Wakes}}
+|-
+| {{plinkt|Greater Death's Swiftness|size=30}}
+| Greater Death's Swiftness is a longer version of [[Death's Swiftness]].
+| Tradeable [[Greater Death's Swiftness ability codex]] or [[Greater Death's Swiftness ability codex (untradeable)|untradeable version]]
+|}
+
+====Necromancy talents====
+{| class="wikitable align-center-1"
+! colspan="2" | Item
+! Effect
+|-
+| {{plinkt|Conjuration|pic=Conjure Undead Army|size=30}}
+| All conjuration talents must be unlocked as it is an important part of damage output.
+|-
+| {{plinkt|Spirit Pact I|size=30}} and all upgrades
+| [[Spirit Pact I]], [[Spirit Pact II]], and [[Spirit Pact III]] are necessary, which increase the duration of spirits [[Conjuration|conjured]].
+|-
+| {{plinkt|Spectral Scythe|pic=Spectral Scythe 3|size=30}} and all upgrades
+| Spectral Scythe is a Necromancy area ability. It requires level 62 Necromancy to unlock and activate. It deal 72%–88% necromancy damage to the target and up to nine additional enemies in an area.
+|}
+
+===Defensive abilities===
+{| class="wikitable align-center-1"
+! colspan="2" | Item
+! Effect
+! Requirements to obtain
+|-
+| {{plinkt|Sacrifice|size=30}}
+| Sacrifice is a basic [[Constitution]] ability. When used, the player deals 65-75% ability damage to their target regardless of protection prayers, and is healed by 25% of the damage dealt, or 100% if the ability kills the target.
+| [[One Piercing Note]]
+|-
+| {{plinkt|Devotion|size=30}}
+| Devotion is a basic [[Defence]] ability. When activated, [[protection prayers]] and [[deflect curses]] reduce the damage of the styles they defend against to 1 for 9.6 seconds. The effect can be extended by 4.8 seconds per opponent killed, capped at a maximum total duration of 19.2 seconds by killing two opponents.
+| [[One Piercing Note]]
+|}
+
+===Utility abilities===
+{| class="wikitable align-center-1"
+! colspan="2" | Item
+! Effect
+! Requirements to obtain
+|-
+| {{plinkt|Tuska's Wrath|size=30}}
+| Tuska's Wrath is a basic [[Constitution]] ability. It requires level 50 Constitution to use. The ability deals damage equal to 10,000% of (or 100×) the player's [[Slayer]] level (including any stat changes) against their current [[Slayer assignment]]. It will use this calculation even if that number would be less than 110% weapon damage. The ability has a two minute cooldown period upon being used. It retains its normal cooldown against specific enemies however, such as most bosses.
+| [[Tuska's Wrath ability codex (untradeable)|Untradeable]] or tradeable [[Tuska's Wrath ability codex]]
+|-
+| {{plinkt|Slayer's Insight|size=30}}
+| Slayer's Insight is a utility [[Constitution]] ability. When used, all Slayer experience is increased by 10% for 30 seconds. It has a 120-second cooldown.
+| 90,000,000 {{plink|shattered anima|size=x30}} from [[Shattered Worlds Reward Shop]]
+|-
+| {{plinkt|Aggression|size=30}}
+| Aggression is a utility [[Defence]] ability. When activated, it causes up to eight monsters within a five [[game square|tile]] radius of the player to become [[aggressive]] and begin attacking them. It has a 90-second cooldown.
+| 90,000,000 {{plink|shattered anima|size=x30}} from [[Shattered Worlds Reward Shop]]
+|-
+| {{plinkt|Kuradal's Favour|size=30}}
+| Kuradal's Favour is a utility [[Constitution]] ability. When activated, for 30 seconds, all monsters killed by the player inside [[Kuradal's Dungeon]] will instantly respawn, including [[elite monster]]s. Monsters respawned by this ability do not drop any loot. It has a 60-second cooldown.
+| 90,000,000 {{plink|shattered anima|size=x30}} from [[Shattered Worlds Reward Shop]]
+|-
+| {{plinkt|Vampyre Slayer (ability)|txt=Vampyre Slayer|size=30}}
+| Vampyre Slayer is a utility [[Constitution]] ability. It requires level 82 Constitution to use. When activated, for {{Ticks|17}}, all damage against [[Vampyre (race)|vampyres]] is increased by 15%. It has a 60-second cooldown.
+| [[Vampyric slayer ability codex]]
+|}
+
+==Summoning familiars==
+There are 3 categories for [[Summoning familiars]] that would assist in high-level slayer tasks—Combat, [[Beasts of Burden]], and Healers.
+
+Use of combat familiars like [[Nihil familiar|nihil]] ({{scm|Summoning|87}}) or [[steel titan]]s ({{scm|Summoning|99}}) can increase your experience rates. Nihils are only needed for particularly troublesome tasks such as airut and Kal'gerion demons, who possess high defence and low affinity values, as even the best equipment can still miss relatively often. Otherwise, steel titans should be used, as most monsters don't possess fairly high defence levels or low affinity values that would make it troublesome for their accuracy.
+
+[[Beast of Burden]] familiars may be used at tasks where the additional inventory can prove helpful, such as ripper demons and camel warriors. Otherwise, [[magic notepaper]] should be used to cert drops from monsters such as [[airut]]. [[Pack yak]]s are incredibly useful for most slayer tasks due to their ability to bank up to 240 items per hour, and adding 30 spaces to the player's inventory to fill with extra supplies and carry loot.
+
+{| class="wikitable"
+|+ Commonly used Beasts of Burden
+! colspan="2" | Familiar
+! {{Skill clickpic|Summoning}} requirement
+! Inventory slots
+! Duration (mins)
+|-
+| {{plinkt|Spirit terrorbird pouch|txt=Spirit terrorbird}}
+| 52
+| 12
+| 36
+|-
+| {{plinkt|War tortoise pouch|txt=War tortoise}}
+| 67
+| 18
+| 43
+|-
+| {{plinkt|Pack yak pouch|txt=Pack yak}}
+| 96
+| 30
+| 64
+|}
+
+[[Legendary pets]] are by far the best option for those who want to make some money off of slayer without hindering their experience rates much. These pets have 3 incredibly useful [[Legendary pet#Abilities|abilities]]: Scavenge, Beast of Burden, and Slayer Finisher. The Scavenge ability picks up items after killing enemies with a 10-15 second cooldown. The second ability makes it act as a Beast of Burden when a pouch is used on the familiar. The third ability is for [[Nechryael]] tasks for automatic kills if [[Slayer points#Rewards|quick kills]] is not unlocked.
+
+For most assignments, it is the most beneficial to use a [[Beasts of Burden]], for its ability to store valuable loot, and withdraw food and prayer potions, effectively extending trips before needing to restock. Higher level Beasts of Burden last longer and have more inventory slots. 
+
+When extra inventory slots are not needed, healing familiars, e.g. [[bunyip]] ({{scm|Summoning|68}}) and [[unicorn stallion]] ({{scm|Summoning|88}}) or combat familiars, e.g. [[Ripper Demon (familiar)|Ripper Demon]] ({{scm|Summoning|96}}) and [[steel titan]] ({{scm|Summoning|99}}) can be used instead.
+
+Quick ways of recharging [[summoning point]]s include the [[tribute stone]] near the [[Falador lodestone]], and the [[Altar of War]] in [[War's Retreat]].
+
+==Prayers==
+You should always use [[Turmoil]]/[[Anguish]]/[[Torment]] to increase your kills per hour. If you can afford them, [[Malevolence]]/[[Desolation]]/[[Affliction]] should be used as they provide greater bonuses. [[Soul Split]], whether constantly active or via [[Prayer#Prayer flicking|prayer flicking]], will serve as the "food" for a majority of tasks, negating the need to bring actual food, though a few should be taken for emergencies. 
+
+For some tasks, notably dragons, you can use a [[bonecrusher]] in conjunction with [[demon horn necklace]]. This method negates the need for prayer potions during task. This can also be used with monsters that drop ashes via the use of the [[attuned ectoplasmator]]; though it will eat considerable profit due to the cost of [[ghostly essence]].
+
+[[Holy wrench]] passively increases the prayer points restored from potions. This includes [[super prayer]], [[prayer renewal]], and [[super restore]] potions. The wrench can be worn in the pocket slot to save backpack space.
+
+==Relic powers==
+{{See also|Optimal PvM Relic Power Setup#Slayer}}
+All [[relic powers]] that increase dealt damage are useful for Slayer. The following relic powers are particularly useful for training Slayer:
+{| class="wikitable 
+! colspan="2" | Relic power
+! Effect
+! {{Skill clickpic|Archaeology}} requirement
+! [[File:Monolith energy icon.png]] energy
+|-
+| {{plinkt|Font of Life|size=32}}
+| Increases maximum [[life points]] by 500.
+| 5
+| 50
+|-
+| {{plinkt|Berserker's Fury|size=32}}
+| Deal up to +5.5% damage the lower your [[life points]] are below max.
+| 56
+| 250
+|-
+| {{plinkt|Blessing of Het|size=32}}
+| [[Life points]] healed from consuming most [[food]] and [[potions]] increase by 10%.
+| 74
+| 100
+|-
+| {{plinkt|Death Ward|size=32}}
+| 5% damage reduction when your [[life points]] are below 50%; 10% damage reduction when they are below 25%.
+| 81
+| 150
+|-
+| {{plinkt|Luck of the Dwarves (relic power)|txt=Luck of the Dwarves|size=32}}
+| You will always gain the effect of tier 4 [[luck]].
+| 83
+| 200
+|-
+| {{plinkt|Fury of the Small|size=32}}
+| All adrenaline generating basic abilities generate +1% [[adrenaline]].
+| 97
+| 150
+|-
+| {{plinkt|Persistent Rage|size=32}}
+| You will generate [[adrenaline]] outside of combat.
+| 98
+| 150
+|-
+| {{plinkt|Death Note|size=32}}
+| Makes all bone and ash drops noted. The effects of the [[attuned ectoplasmator]], [[bonecrusher]], and [[prayer urn]]s take precedence over Death Note. If the [[Bonecrusher#Bonecrusher upgrade|bonecrusher upgrade]] is active, any bones noted by the relic will automatically be placed in the backpack.
+| 108
+| 150
+|-
+| {{plinkt|Conservation of Energy|size=32}}
+| You will regain 10% [[adrenaline]] after using an ultimate ability.
+| 118
+| 350
+|-
+| {{plinkt|Slayer Introspection|size=32}}
+| When requesting a new slayer assignment, you will have a choice between the minimum and maximum assignment amounts.
+| 119
+| 200
+|}
+
+==Combat consumables==
+===Potions===
+{{See also|Calculator:Herblore/Combination potions}}
+[[Potion]]s are indispensable for training Slayers, as it speeds up kills and extends resupply time. A [[potion reservoir]] can automatically consume potions with a timer, thus helping to reduce the effort of Slayer training.
+
+{| class="wikitable align-center-1"
+! colspan="2" | Item
+! Usage
+|-
+| {{plinkt|Overload}}
+| Overloads boost your kills per hour significantly and should be used at all times. Either [[holy overload]]s or [[aggroverload]]/[[elder overload]]s with [[super prayer renewal potion]]. It is not necessary to use [[elder overload]]s, though a player may choose to if they have a surplus or wish to increase their kill speed.
+|-
+| {{plinkp|Super antifire}}{{plinkp|Searing overload potion}}{{plinkp|overload salve}}
+| [[Super antifire]] or<br>[[searing overload potion]] or<br>[[overload salve]] variants
+|Super antifire or searing overload potions are necessary for [[Dragons (Slayer assignment)|dragon assignments]] as using a [[dragonfire shield]] or its variants would reduce kills per hour.
+|-
+| {{plinkp|Wyrmfire potion}}{{plinkp|overload salve}}
+| [[Wyrmfire potion]] or<br>[[overload salve]] variants
+| Wyrmfire potion which is also included in any salve [[combination potion]]s is needed for [[Living wyverns (Slayer assignment)|living wyvern assignment]].
+|-
+| {{plinkp|Weapon poison}}{{plinkp|Weapon poison+}}{{plinkp|Weapon poison++}}{{plinkp|Weapon poison+++}}
+| [[Weapon poison]] {{Nowrap|<sup>[[Weapon poison+|(+)]] [[Weapon poison++|(++)]] [[Weapon poison+++|(+++)]]</sup>}}
+| Weapon poison+++ can be used to great effect on most slayer monsters and should be used in conjunction with [[cinderbane gloves]] and [[kwuarm incense sticks]] if the player has them.
+|-
+| {{plinkp|Aggression potion}}{{plinkp|aggroverload}}
+| [[Aggression potion]] or<br>[[aggroverload]] variants
+| Aggression potion can be used if not using aggroverload to gather up monsters faster and use area of effect [[abilities]] in places where monsters are not aggressive or when the player intends to stay for a long period of time. This is recommended for [[Corrupted creatures (Slayer assignment)|corrupted creatures]] and [[Soul devourers (Slayer assignment)|soul devourers]], who are found in large numbers and can be easily stacked.
+|-
+| {{plinkp|Prayer potion}}{{plinkp|Super prayer renewal potion}}
+| [[Prayer points#Prayer-restoring potions|Prayer restoring potions]]
+| Potions such as [[super restore]] or [[super prayer renewal]] are relatively easy to obtain. Therefore [[Prayer#Prayers|standard prayers]] or [[Ancient Curses]] should always be used while maintaining prayer points.
+|}
+
+===Cost and time saving combat consumables===
+{| class="wikitable align-center-1"
+! colspan="2" | Item
+! Usage
+|-
+| {{plinkt|Fellstalk incense sticks}}
+| Each potency level of fellstalk incense sticks provides a x1.01 spawn chance to [[elite monster]]s, up to a maximum increased chance of approximately 4%, for example [[Slasher Demon]]s, [[Edimmu (elite)|elite edimmu]], and [[elite rune dragon]].
+|-
+|-
+| {{plinkt|Lantadyme incense sticks}}
+| They extend potion timers up to 2 minutes increase at max potency. Applies to potions with a duration of 6 minutes or more. Therefore it can reduce the doses of [[overload]] and [[aggression potion]] used.
+|-
+| {{plinkt|Powder of penance}}
+| An alternative to the [[Penance]] spell for prayer points upkeep.
+|-
+| {{plinkt|Seeker's charm}}
+| It is used to offer to the portal in the northern part of the [[stalker dungeon]] to increase the chance of [[Soulgazer (elite)|elite soulgazer]]s appearing from 1/50 to 1/10.
+|-
+| {{plinkp|Most Wanted card|pic=Most Wanted card (glacors)}}
+| [[Most Wanted card]]
+| It increases unique drop chance for their respective monsters. Each card contains 100 charges, each kill of the monsters depletes 1 charge. It is untradeable and obtained weekly from the platinum tier of [[Rush of Blood]]. Only one card of each type may be owned at once.
+|}
+
+==Useful items==
+===Drop cleaners===
+[[Drop cleaner]]s are useful and, arguably, essential items to bring when training Slayer. Drop cleaners automatically convert specific monster drops into experience, or automatically add specific monster drops to the backpack. All drop cleaners work when either worn, in the backpack or in the [[tool belt]], and have the option to customise its settings.
+
+====Non-degradable drop cleaners====
+Apart from the [[spring cleaner]] and [[Underworld Grimoire]], all non-degradable drop cleaners in the table below can be added to the tool belt, effectively turning their effects into permanent passives. Learning how to add each to the tool belt costs 500 [[Slayer point]]s per item.
+
+{| class="wikitable"
+! colspan="2" | Item
+! Effect
+! Requirements to obtain
+|-
+| {{plinkt|Bonecrusher}}
+| Bones dropped by monsters are automatically converted into [[Prayer]] experience. 
+| {{scm|Dungeoneering|41}}, {{scm|Prayer|21}}, 50,000 {{plink|Dungeoneering token}}s
+|-
+| {{plinkt|Bonecrusher|txt=Upgraded bonecrusher}}
+| Adds the option to the [[bonecrusher]] to automatically collect bones.
+| 25,000 {{plink|chimes}} and 25 {{plink|taijitu}}
+|-
+| {{plinkt|Herbicide}}
+| Unnoted herbs dropped by monsters are automatically converted into [[Herblore]] experience.
+| {{scm|Dungeoneering|41}}, {{scm|Herblore|21}}, 50,000 {{plink|Dungeoneering token}}s
+|-
+| {{plinkt|Herbicide|txt=Upgraded herbicide}}
+| Adds the option to the [[herbicide]] to automatically collect unnoted herbs.
+| 25,000 {{plink|beans}}
+|-
+| {{plinkt|Charming imp}}
+| [[Charm]]s and [[Spirit gem]]s are collected or converted into [[Summoning]] experience.
+| {{scm|Dungeoneering|41}}, {{scm|Summoning|21}}, 50,000 {{plink|Dungeoneering token}}s
+|-
+| {{plinkt|Seedicide}}
+| Seeds dropped by monsters are automatically converted into [[Farming]] experience.
+| 2,200 {{plink|renown}} '''or''' 10,000 {{plink|beans}} '''or''' 360 {{plink|thaler}}
+|-
+| {{plinkt|Seedicide|txt=Upgraded seedicide}}
+| Adds option to the [[seedicide]] to automatically collect seeds that are not converted into experience.
+| 25,000 {{plink|beans}}
+|-
+| {{plinkt|Advanced gold accumulator}}
+| Similar to the [[gold accumulator]], but destroys 10% of the coins it gathers instead of degrading.
+| 1,500,000 {{plink|Dungeoneering token}}s
+|-
+| {{plinkt|Spring cleaner}} and its variants<br>(disassembly mode)
+| Disassembles metal [[salvage]] into corresponding Invention materials. Does not consume a [[spring]] on activation.
+| {{skillreq|Invention|43}}
+|-
+| {{plinkt|Underworld Grimoire|pic=Underworld Grimoire 4}}
+| Automatically collects bones and sends them to the [[focus storage]] (toggleable). Each version can collect higher level bones. Takes priority over the [[bonecrusher]].
+| [[Underworld achievements]]
+|}
+
+====Degradable drop cleaners====
+Degradable drop cleaners are enabled for the player so long as the item is in the backpack and has sufficient charges to function. 
+
+{| class="wikitable"
+! colspan="2" |Item
+! Effect
+! Requirements to obtain
+! Cost
+|-
+| {{plinkt|Attuned ectoplasmator}}
+| Destroys [[demonic ashes]], giving the normal [[Prayer]] experience for scattering them.
+Initially created with 1,000 charges, uses one charge per ghost/ash absorbed and can be recharged to a maximum of 5,009 charges.
+| {{plink|Ectoplasmator}} and 100 {{plink|ghostly essence}}
+| 0.1 {{plinkp|ghostly essence}} per charge
+|-
+| {{plinkt|Gold accumulator}}
+| Coins dropped by monsters are automatically added to the player's [[money pouch]]. The accumulator can collect a total of 1 million coins before it is destroyed.
+| 20,000 - 60,000 {{plink|Dungeoneering token}}s, 250,000 {{plinkp|Dungeoneering token}} for an overcharge.
+| No recharge
+|-
+| {{plinkt|Spring cleaner}} and its variants<br>(research, dismantle and high alch modes)
+| Uses a [[spring]] to clean the drop.
+* Research mode: breaks down the item for bonus experience.
+* Dismantle mode: dismantles the item into its base [[Materials|components]] and sends them to the bank.
+* High alch mode: uses a spring to [[High Level Alchemy|high alchemise]] the salvage item.
+| {{skillreq|Invention|43}}
+| 1 {{plinkp|Spring}} per charge
+|}
+
+===Container bags===
+{| class="wikitable"
+! colspan="2" | Item
+! Effect
+! Requirements to obtain
+|-
+| {{plinkt|Gem bag}}
+| It can hold up to a total of 100 (total not each) of [[uncut sapphire]], [[uncut emerald]], [[uncut ruby]], and [[uncut diamond]].
+| {{scm|Dungeoneering|25}}, {{scm|Crafting|25}}, 2,000 {{plink|Dungeoneering token}}s
+|-
+| {{plinkt|Gem bag (upgraded)|txt=Upgraded gem bag}}
+| It can hold up to a total of 60 of each [[uncut sapphire]], [[uncut emerald]], [[uncut ruby]], [[uncut diamond]], and [[uncut dragonstone]].
+| {{scm|Dungeoneering|40}}, {{scm|Crafting|45}}, 20,000 {{plink|Dungeoneering token}}s
+|-
+| {{plinkt|Artificer's measure}}
+| It can hold up to a total of 100 of each unnoted [[uncut sapphire]], [[uncut emerald]], [[uncut ruby]], [[uncut diamond]], and [[uncut dragonstone]].
+| {{scm|Dungeoneering|40}}, {{scm|Crafting|99}}, {{scm|Archaeology|102}}, and other materials
+|-
+| {{plinkt|Herb bag}}
+| It can store 50 of each normal grimy [[Herbs|herb]].
+| 200 [[spirit points]]
+|-
+| {{plinkt|Herb bag|txt=Upgraded herb bag}}
+| It can store 100 of each regular grimy [[Herbs|herb]].
+| 200 [[spirit points]]
+|-
+| {{plinkt|Spirit gem bag}}
+| It can store 60 of each [[spirit gems]].
+| 360 {{plink|thaler}}
+|-
+| {{plinkt|Seed bag}}
+| It can hold up to 40 types of [[seeds]]. Seeds that are picked up by the player or by an upgraded [[seedicide]] are not automatically placed into the seed bag.
+| {{scm|Crafting|85}}
+|}
+
+===Notepapers===
+When an item from backpack is used on [[magic notepaper]] or [[enchanted notepaper]], it will instantly convert that item (and any identical items) into [[note]]s, thus allowing the items to stack.
+
+===Items modifying Slayer assignments===
+Some items or effects modify your current [[Slayer assignments]] while activated. Some monsters can only be damaged while having them assigned as a Slayer assignment, and when players are hunting for their unique drops they may use one or more of these items to get more kills from one assignment. However, when players do not like their current assignment they may want to shorten and use an item to end the assignment sooner.
+
+{| class="wikitable"
+|-
+! colspan=2 | Modifier
+! Effect
+! Duration
+! style="min-width:200px" | Cost
+|-
+| {{plinkt|Headhunter's sacrifice}}
+| While wearing the bracelet, there is a chance that a kill on a Slayer task will count as two kills, granting no additional experience. 
+Using this on a Slayer task will not reduce the Slayer points earned upon completion of the task.
+| It holds 25 charges, and charges are used only when the effect occurs.
+| {{coins|{{GEP|Headhunter's sacrifice (new)}}}}
+|-
+| {{plinkt|Headhunter's thrill}}
+| While wearing the bracelet, there is a chance that killing a monster on a Slayer assignment will not count towards the Slayer counter, but experience is granted.
+| It contains 25 charges, and charges are used only when the effect occurs. 
+| {{coins|{{GEP|Headhunter's thrill (new)}}}}
+|-
+| {{plinkt|Trophy-taker's}}
+| 3% chance per rank a slain creature will add zero kills to its Slayer assignment; 2% chance per rank it will add two kills. (Rank 1-5 possible)
+| Infinite while [[charge pack]] is not empty
+| Varies
+|-
+| {{plinkt|Slayer Introspection|size=30}}
+| When requesting a new slayer assignment, you will have a choice between the minimum and maximum assignment amounts. It uses 200 monolith energy. [[Amascut's Enchanted Gem]] from completing the [[Knowledge is Power]] collection is required to unlock the relic power.
+| Infinite
+| 4,000 {{plink|chronotes}}
+|-
+| {{plinkt|Slayer Trophy (Skeleton)}}
+| Players mounting the trophy will be able to select between receiving default, short, or long tasks from [[the Raptor]] by talking to him, after which any new Slayer assignments from him will use the selected task length. The default option uses the usual limits for task length, the short option decreases the lower bound by 25%, rounded down, and the long option increases the upper bound by 25%, rounded down.
+| Infinite
+| {{QuestIcon|Unwelcome Guests}}
+|-
+| {{plinkt|Slayer VIP ticket}}
+| It allow players a choice between two different assignments, allowing players to avoid tasks they do not wish to do.
+| 1 per use
+| {{NA}}
+|}
+
+===Slayer wildcards===
+[[Slayer Wildcard]]s were a possible reward from [[Treasure Hunter]]. While carried, the next [[monster]] killed that qualifies for some [[Slayer assignment]] (while not your current Slayer assignment) will grant its normal [[Slayer]] experience, and count as being on-task for any [[Drops|drop]] chance increases. Each applicable monster killed consumes a wildcard.
+
+===Generic experience boosts===
+Most experience-boosting effects that apply to all skills also apply to Slayer. This includes but is not limited to the following boosts:
+{{Generic experience boosts|inspire=love}}
+
+===Temporary boosts===
+All [[temporary skill boost]]s do not enable players to receive a Slayer assignment from a [[Slayer Masters|Slayer Master]] above their level. Despite this limitation, you can still kill the monsters requiring higher Slayer level by boosting while you are on an assignment requiring lower Slayer level, for example killing [[abyssal savage]]s on an [[Abyssal demons (Slayer assignment)|abyssal demon Slayer assignment]] or [[Demons (Slayer assignment)|demon Slayer assignment]], or killing [[dragonstone dragon]]s on a [[Dragons (Slayer assignment)|dragon Slayer assignment]].
+
+{| class="wikitable sortable sticky-header"
+! colspan="2" | Item
+! {{scm|Slayer}} boost
+! {{scm|Cooking}} level to obtain
+! Notes
+|-
+| {{plinkt|Slayer's respite}}
+| 2
+| 59
+| Stat changes are diminished by 1 point per minute.
+|-
+| {{plinkt|Slayer's respite (m)}}
+| 4
+| 59
+| Stat changes are diminished by 1 point per minute.
+|-
+| {{plinkt|Wild pie}}
+| 5
+| 85
+| Stat changes are diminished by 1 point per minute.
+|-
+| {{plinkt|Wilder pie}}
+| 6
+| 90
+| Boosts Slayer by 6 levels for 6 minutes without diminishing.
+|-
+|}
+
+===Ushabti===
+[[Ushabti]] are used to trap the souls of Slayer monsters. They are available after achieving 99 Slayer. The filled ushabti can be taken to the [[Sunken Pyramid]] in [[Menaphos]] and placed in either the [[Chest of Souls]] or in a dungeon hotspot. As a result, a variety of benefits are available, including an additional 5% Slayer experience when wearing the [[slayer helmet]], and the ability to teleport to the pyramid via the [[Slayer Codex]].
+
+==Player-owned farm perks==
+Some [[Perks (player-owned farm)|perks]] received from the [[player-owned farm]] are particularly useful for training Slayer. In order to activate these perks:
+* Tier 1 perks: Players need one animal pen with at least one elder animal, with the [[farm totem]] placed on the pen, or have completed the breeding log for a category of animal.
+* Tier 2 perks: Players need two animal pens with at least one elder animal in each, with the farm totem placed on both the pens.
+
+{| class="wikitable"
+|-
+! Farm
+! {{scm|Farming}} level
+! colspan="2" | Animal
+! Perk
+! Tier 1 (and Tier 2) effects
+|-
+| Manor Farm
+| 28
+| {{plinkt|Chicken (player-owned farm)|pic=Rooster (player-owned farm)|txt=Rooster (Chicken{{nbsp}}♂)}}
+| As the Rooster Crows
+| A 7% (10%) drop chance increase to receive [[ghostly essence]] while fighting enemies that drop it, for a number of kills after hearing a rooster's crow.
+|-
+| Manor Farm
+| 64
+| {{plinkt|Spider (player-owned farm)|pic=Spirit spider (player-owned farm)|txt=Spider}}
+| NopeNopeNope
+| Increases damage against all spiders by 2% (3%) (including [[Araxxor|Araxxor/Araxxi]]).
+|-
+| Anachronia Dinosaur Farm
+| 106
+| {{plinkt|Bagrada rex (player-owned farm)|txt=Bagrada rex}}
+| King of Beasts
+| 5% (10%) chance to conserve a [[Bomb (Herblore)|bomb]] when thrown.
+|-
+| Anachronia Dinosaur Farm
+| 112
+| {{plinkt|Corbicula rex (player-owned farm)|txt=Corbicula rex}}
+| No Fear
+| Increases the [[critical hit]] chance of [[Meteor Strike]] by 20% (40%).
+|}
+
+==Transportation options==
+===Travelling===
+{| class="wikitable align-center-1"
+! colspan="2" | Teleports
+! Usage
+|-
+| {{plinkt|Slayer cape}}
+| The Slayer cape's perk allows for fast transport to [[Lanikeia]] or [[Morvran]] (for Morvran, upgraded [[ferocious ring]]s also work) and is the fastest and best option when obtaining a new task. Players can use the same item to quickly get to [[Kuradal's Dungeon]].
+|-
+| {{plinkp|Dungeoneering cape}}{{plinkp|hoardstalker ring}}
+| [[Dungeoneering cape]] or<br>[[hoardstalker ring]]
+| The Dungeoneering cape's perk can be used which has a teleport option to any [[Resource dungeons|resource dungeon]] and can be convenient for reaching some otherwise remote slayer monsters, such as the [[Dragontooth Island resource dungeon]]. A charged [[hoardstalker ring]] has the same teleport options. The ring comes with 8 charges and can be recharged for 10,000 [[Dungeoneering tokens]], while the cape has unlimited use.
+
+This is very useful for tasks such as [[Edgeville Dungeon hill giant resource dungeon|hill giants]], [[Varrock Sewers resource dungeon|moss giants]], [[Baxtorian Falls resource dungeon|fire giants]], [[Taverley blue dragon resource dungeon|blue dragons]], [[Brimhaven Dungeon resource dungeon|iron dragons]], [[Brimhaven Dungeon resource dungeon|steel dragons]], [[Brimhaven Dungeon resource dungeon|mithril dragons]], [[Dragontooth Island resource dungeon|celestial dragons]], [[Taverley hellhound resource dungeon|hellhounds]], [[Karamja Volcano resource dungeon|lesser demons]], [[Chaos Tunnels resource dungeon|black demons]], [[Kal'gerion dungeon|Kal'gerion demons]], [[Polypore Dungeon resource dungeon|polypore creatures]], and [[Edimmu resource dungeon|edimmu]].
+|-
+| {{plinkt|Sixth-Age circuit}}
+| After completion of the [[Fate of the Gods]] and all optional quests for [[The World Wakes]], [[Juna]] will give you the Sixth-Age circuit, a fast transportation method to the [[World Gate]], from which you can reach [[Muspah]], [[Nihil]], [[Nightmare]]s, [[Crystal Shapeshifter]]s, and [[rune dragon]]s.
+|-
+| {{plinkt|Ring of slaying}}
+| A [[ring of slaying]] provides one of the fastest means of transportation to the [[Slayer Tower]], where creatures like [[abyssal demon]]s reside. [[Slayer mask]]s also provide a daily number of teleports to their relevant creature's locations. Obtained from a Slayer Master for Slayer points.
+|-
+| {{plinkt|Fairy ring|pic=Portable fairy ring}}s
+| Grants quick access to many high-level Slayer tasks. Players must have started [[A Fairy Tale II - Cure a Queen]] to use the rings with a [[Lunar staff|Lunar]]/[[Dramen staff]]. However, the staff is no longer required after completing [[A Fairy Tale III - Battle at Ork's Rift]].
+|-
+| {{plinkt|Ferocious ring}}s
+| Can be used to teleport to [[Kuradal's Dungeon]] and is obtained by killing monsters in said dungeon.
+|-
+| {{ilinkp|House Teleport}}<br>{{plinkp|Teleport to house}}<br>{{plinkp|Teleport to house#Modify|pic=Teleport to house (chipped)}}
+| [[House Teleport]] or<br>[[Teleport to house]] or<br>[[Teleport to house#Modify|chipped variants]]
+| You can strategically move your [[player-owned house]] to where there are no other handy means of teleportation. Completing [[Love Story]] allows players to teleport to any house portal by chipping teleport tablets. House Teleport and Teleport to house can be used as [[emergency teleport]] if you set the arrival point inside the player-owned house, because deaths inside the house are safe.
+|-
+| {{plinkt|Karamja gloves 3}} or [[Karamja gloves 4|gloves 4]]
+| Provides a teleport to [[Shilo Village (location)|Shilo Village]], allowing quick access to Duradel/Lapalok; requires completion of the [[hard Karamja achievements]]
+|-
+| {{plinkt|Enchanted lyre}}
+| It can teleport to the [[Waterbirth Island]] after completion of the [[hard Fremennik achievements]]. There are dagannoths where you can complete [[Dagannoth (Slayer assignment)|dagannoth assignment]]s.
+|-
+| {{plinkp|Juju teleport spiritbag}}<br>{{plinkp|witchdoctor mask}}
+| [[Juju teleport spiritbag]] or<br>[[witchdoctor mask]]
+| Both can be used to teleport to the [[Herblore Habitat]], directly east of Shilo Village.
+|-
+| {{plinkp|Obelisk shard}}<br>{{plinkp|portable obelisk}}
+| [[Obelisk shard]] or<br>[[portable obelisk]]
+| Teleports the player to a random [[Wilderness obelisk]]. If the player has completed the [[hard Wilderness achievements]], they will be able to select which obelisk to teleport to. It is convenient to reach [[lava strykewyrm]], [[hydrix dragon]]s, [[abyssal demon]]s, [[greater demon ash lord]]s and [[Greater demon berserker|berserker]]s, and [[Kal'gerion demons]].
+|-
+| {{plinkt|Wilderness sword 1}} or [[Wilderness sword 2|sword 2]] and above
+| Teleports the player to the [[Herb patch (Wilderness)|Wilderness herb patch]] (tier 1) and [[Forinthry dungeon]] (tier 2).
+|-
+| {{plinkt|Drakan's medallion}}
+| It can teleport to the [[Darkmeyer]] and [[Meiyerditch tunnels#Meiyerditch laboratory|Meiyerditch laboratory]] after completion of [[The Branches of Darkmeyer]]. There are [[vyrewatch]]es in Darkmeyer for [[Vyrewatch (Slayer assignment)|vyrewatch assignment]]. There are also [[zombie hand]]s and [[skeletal hand]]s in the laboratory to complete [[Crawling hands (Slayer assignment)|crawling hand assignment]]s.
+|-
+| {{plinkp|Crystal teleport seed}}<br>{{plinkp|Attuned crystal teleport seed}}
+| [[Crystal teleport seed]] or<br>[[Attuned crystal teleport seed|attuned variant]]
+| It can teleport to the [[Temple of Light]] after completion of [[Within The Light]]. There are [[dark beast]]s in the [[Mourner tunnels]].
+|-
+| {{plinkt|Passage of the abyss}}
+| It can teleport to the locations for up to six different types of teleportation jewellery. It can store [[ferocious ring]]s and [[Ring of slaying|rings of slaying]].
+|}
+
+[[Lunar spells]] - [[NPC Contact]] allows the player to talk to any Slayer Master without travelling to them. [[Spellbook Swap]] grants access to non-tablet teleports like [[Trollheim Teleport]] and [[Ghorrock Teleport]] from the [[Ancient Magicks]] book. [[Lunar Diplomacy]] is required to use Lunar spells, and [[Desert Treasure]] to use Ancient Magicks.
+
+===Emergency teleport===
+{| class="wikitable align-center-1"
+! colspan="2" | Teleports
+! Usage
+|-
+| {{ilinkp|War's Retreat Teleport}}
+| [[War's Retreat Teleport]]
+| It can teleport to [[War's Retreat]], which deaths inside are safe. It is free to use infinitely also, therefore, it is a good [[emergency teleport]]. However, it requires combat level 60 and at least 10 boss kills.
+|-
+| {{ilinkp|Kandarin monastery Teleport}}
+| [[Kandarin monastery Teleport]]
+| It is used as an [[emergency teleport]]. It can teleport to [[Ardougne Monastery]] in a single click that can be used without any items. 
+|-
+| {{plinkt|Ectophial}}
+| It is used as an [[emergency teleport]]. It can teleport to [[Ectofuntus]] in a single click and free to use infinitely. It is always kept on death outside [[Skull (status)|dangerous area]]. 
+|}
+
+==Backpack setup==
+;Essential
+* {{plink|Food|pic=Shark}}
+* {{plink|Prayer points#Recharging|txt=Prayer points restoration|pic=Prayer Renew Active (self status)}}
+* {{plink|Overload|txt=Combat-boosting potions|pic=Overloaded (self status)}}
+* {{plink|Aggression potion}}
+* {{plink|Weapon poison}} <sup>[[Weapon poison+|(+)]] [[Weapon poison++|(++)]] [[Weapon poison+++|(+++)]]</sup>
+
+;General
+* {{plink|Spring cleaner}} variant
+* {{plink|Enhanced Excalibur}}
+* {{plink|Ancient elven ritual shard}}
+* {{plink|Dwarf cannon set|txt=Dwarf multicannon}} / {{plink|Oldak coil}} and [[cannonballs]]
+* {{plink|Pouch|txt=Summoning pouches}} and scrolls
+* {{plink|Herb bag}}
+* {{plink|Seed bag}}
+* {{plink|Gem bag}} <sup>[[Gem bag (upgraded)|(upgrade)]]</sup> or {{plink|Artificer's measure}}
+* {{plink|Spirit gem bag}}
+* {{plink|Large rune pouch}}
+
+;Situational
+* {{plink|Dreadnip}}s may help speed up kills on higher-level monsters.
+* {{plink|Armour spikes}} <sup>[[Armour spikes (alloy)|(alloy)]]</sup> may help speed up melee tasks.
+* {{plink|Ring of slaying}} can be used to teleport to [[Sumona]], [[Slayer Tower]], [[Fremennik Slayer Dungeon]] or [[terror dogs]].
+* {{plink|Ferocious ring}}s can be used to teleport to [[Kuradal]] or [[Morvran]] up to five times. When worn, they also increase damage dealt to monsters in [[Kuradal's Dungeon]] by 4%. 
+* {{plink|Headhunter's sacrifice}}s, to speed up tasks, if prioritising [[Slayer point]]s over experience.
+* {{plink|Headhunter's thrill}}s, to extend tasks, if prioritising experience over [[Slayer point]]s.
+* {{plink|Torstol incense sticks}}
+
+==Assignment summary==
+This table is not indicative of a monster's weakness or other irrelevant data. This table instead serves as a reference point for optimal task completion. Slayer rates are calculated using recommended equipment and Revolution++.
+
+This table is purely based on maximal xp/hr rate. The actual xp/hr rates will vary based on skill/equipment and how active one is when doing these tasks. Players are suggested to make an informed decision based on which tasks they prefer based on their pros and cons. Some of the faster tasks may be done to get slayer points quickly.
+{| class="wikitable sticky-header sortable"
+! Task
+! Slayer XP/hr
+! Use
+! Slayer lvl
+! style="width:60ch" | Notes
+! style="width:60ch" | Pros
+! style="width:60ch" | Cons
+! Priority
+|-
+| [[Gemstone dragons (Slayer assignment)|Gemstone dragons]]
+| 1400k [[Hydrix dragon|Hydrix]]
+| Ranged
+| 95-101
+| Kill hydrix dragons at the [[Gemstone cavern]], or place one in the Sunken Pyramid for AFK training.
+| Use [[Magic notepaper|notepaper]] + [[enhanced bonecrusher]] to collect bones, or [[demon horn necklace]] and [[bonecrusher]] combo for prayer restore, or [[Scrimshaw of sacrifice]] for amazing experience
+| Expensive to use [[mechanised chins]]. Dangerous specs if not avoided, Hydrix dragons impair adrenaline, slowing down kills. Need [[antifire potions]].
+| class="table-bg-yellow" | Prefer
+|-
+| [[Ripper demons (Slayer assignment)|Ripper demons]]
+| 700k w/ Darklight
+| Melee
+| 96
+| Use upgraded [[Darklight]] and have low ping to dodge instant-kill attack.
+| Extremely high experience per hour, especially when killed in the Wilderness. Chance of receiving [[cursed Amascut sand]], which is quite valuable, along with other valuable drops. [[Miner's journal]] drops for the [[master quest cape]].  Good money when using [[Binding contract]]s.
+| Potentially difficult and lethal task for beginners, requiring players to stay focused to avoid death. Players can be swarmed in the Wilderness.
+| class="table-bg-yellow" | Prefer
+|-
+| [[Soul devourers (Slayer assignment)|Soul devourers]]
+| 680k
+| Melee<br>Magic if killing [[imperial guard akh]] or [[The Magister|Magister]]
+| 105-117
+| Use halberd either [[Salawa akh|salawa]], [[feline akh|feline]], [[scarab akh|scarab]] or [[crocodile akh]]s. [[Gorilla akh]]s are not recommended due to having high health, less experience and lucrative drops compared to the other akhs below it. The latter three may be more difficult to AFK due to various mechanics (felines and crocodiles have high-hitting special attacks while scarabs apply [[Vulnerability]] but are almost always guaranteed to be empty. Imperial guard akhs are discouraged as they cannot be AFK'ed due to being able to use highly damaging abilities. The Magister may be killed for more experience but players must account for the price of keys and short-term profit loss.
+| Extremely high experience per hour. Use of an aggression potion and AoE abilities can ensure high kills per hour. Has a [[Sophanem Slayer Dungeon#mechanics|different loot mechanic]] than most other monsters, making it slightly more laid back. Potentially good drops including [[Key to the Crossing]] , [[vital spark]] , [[Corrupted gem]]. Bring [[vital spark drop enhancer]]s when doing this task.
+| Require a [[Feather of ma'at]] to be killed (if not killing the Magister). When using aggression potions, the player may get overwhelmed. The [[Sophanem Slayer Dungeon#Corruption|corruption]] mechanic.
+| class="table-bg-yellow" | Prefer
+|-
+| [[Shadow creatures (Slayer assignment)|Shadow creatures]]
+| 680k [[Manifest shadow|Manifest]]
+| Melee
+| 1
+| Use 5 [[Manifest shadow]]s in personal slayer dungeon [[Sunken Pyramid]] with an aggression potion or in the [[Amlodd district]] in [[Prifddinas]].
+| Extremely high experience rates per hour.
+Chance to get part of the [[Penny]] pet
+| Drops not as good as most other monsters, and players can be overwhelmed with use of an aggression potion.
+| class="table-bg-yellow" | Prefer
+|-
+| [[Nightmare creatures (Slayer assignment)|Nightmare creatures]]
+| 650k
+| Melee/Mage
+| 80
+| Use [[Halberd|halberd ranged weapon]] in [[Sunken Pyramid]], aggression potion increases experience rates but also increases the danger from their ball attack.
+| Extremely high experience rates per hour. Frequently drop [[Muspah spine]] which may be used to create the [[Nightmare muspah pouch]] for profit. Valuable alchable drops.
+| Special attack that may kill an inattentive player. Difficult to fight multiple at once due to significant risk of getting overwhelmed.
+| class="table-bg-yellow" | Prefer
+|-
+| [[Creatures of the Lost Grove (Slayer assignment)|Creatures of the Lost Grove]]
+| 1324k w/ Legacy<br/>610k [[Moss golem|Golem]]
+| Mage/Melee
+| 104-108
+| Kill golems or [[bulbous crawler]]s for higher experience rates. [[Enhanced devoted]] perk is highly recommended.
+
+Legacy [[Blood Barrage|blood barrage]] [[moss golem]]s with a [[Dwarf multicannon|cannon]] and [[Aggression potion|aggro pots]] to get fast afk experience.
+| Profit/experience rates are reversed - [[vinecrawler]]s provide the least experience but most valuable drops, while golems provide the most experience but least valuable drops. Bulbous crawlers are a mix of the two, with fairly equal experience and profit rates. All monsters in this category can drop [[cinderbane gloves]], the [[ancient elven ritual shard]] and a [[torn grimoire page]].
+| May require a significant amount of food as all monsters in this category can hit extremely high (over 3,500 damage in a single hit).
+| class="table-bg-yellow" | Prefer
+|-
+| [[Acheron mammoths (Slayer assignment)|Acheron mammoths]]
+| 600k
+| Melee
+| 96
+| Extremely fast and profitable task. Use [[Soul Split]] and [[stab weapon]]s. Dodge ranged and charge attacks ([[Devotion]]/[[Debilitate]] helps).
+| High experience rates and profitable task due to drops of [[mammoth tusk]] and [[cursed Amascut sand]].
+| Potentially difficult and lethal task for beginners, as players can be easily killed by charges and ranged attacks which can deal very high damage.
+| class="table-bg-yellow" | Prefer
+|-
+| [[Corrupted creatures (Slayer assignment)|Corrupted creatures]]
+| 580k [[Corrupted worker|Worker]]
+| Melee
+| 88-103
+| Extremely fast task. Use a [[unicorn stallion]] or a [[scrimshaw of vampyrism]] with Soul Split flicking to restore any lost health. Players may choose between [[Corrupted scorpion|scorpions]], [[Corrupted scarab|scarabs]] or [[Corrupted worker|workers]] as all of these use melee and can be drawn in with aggression potions. Other corrupted mobs cannot be easily AFK'ed as ranged or magic is present, preventing clumping.
+| Extremely high experience rates per hour. Use of an [[aggression potion]] and AoE abilities can ensure high kills per hour. Has a [[Sophanem Slayer Dungeon#mechanics|different loot mechanic]] than most other monsters, making it slightly more laid back. Potentially good drops including [[Key to the Crossing]] , [[vital spark]] , [[Corrupted gem]]. Bring [[vital spark drop enhancer]]s when doing this task.
+| Require a [[Feather of ma'at]] to be killed. When using aggression potions, the player may get overwhelmed. [[Sophanem Slayer Dungeon#Mechanics|corruption]] mechanic
+| class="table-bg-yellow" | Prefer
+|-
+| [[Elves (Slayer assignment)|Elves]]
+| 1200k w/ [[Mechanised chinchompa]]<br>560k
+| Melee
+| 1
+| Use halberd to fight [[Iorwerth scout]]s and [[Iorwerth guard|guards]] for elf tasks. Killing them while [[Voice of Seren]] is active adds extra experience.
+
+Properly lure Cadarn elves using [[Demoralise|Demoralize]] and [[Rout]] chin with a [[Combat training dummy|combat dummy]] for fast afk experience.
+|
+| Both scouts and guards can use bleeds and stuns and can disable [[protection prayers]]/[[deflect curses]].
+| class="table-bg-yellow" | Prefer
+|-
+| [[Living wyverns (Slayer assignment)|Living wyverns]]
+| 530k
+| Melee
+| 96
+| Extremely fast and moderately profitable task. Use melee with a [[Blood nihil (familiar)|blood nihil]] and [[scrimshaw of vampyrism]] as ranged/magic is significantly slower and players take more damage. It is highly recommended to fight them in melee distance regardless of equipment used, because the wyvern's melee attack is weaker and easier to predict, whereas the magic and ranged attacks are nearly impossible to predict and the attack immediately deals damage before the projectiles even hit the player. Kill wyverns until 90% freeze then return to a fire to warm up. 
+|
+| Heavy damage inflicted by both the monsters, can often be overwhelmed. Stay in melee range as they deal considerably less damage.
+| class="table-bg-yellow" | Prefer
+|-
+| [[Crystal shapeshifters (Slayer assignment)|Crystal shapeshifters]]
+| 500k
+| Melee/Ranged
+| 80
+| Best done with 5 in Sunken Pyramid using aggression potions and a halberd. Watch out for bleeds.
+| High experience task, fairly valuable drops. Drop [[Tarddian crystal]]s, which are used to make [[crystal armour]], which provides a damage boost against them.
+| Hybrid monsters that adapt to the player's combat style, attacking with what the player is weakest against along with a mildly annoying roll attack that deals moderately high damage. See [[Crystal Shapeshifter/Strategies|here]] for additional information.
+| class="table-bg-yellow" | Prefer
+|-
+| [[Greater demons (Slayer assignment)|Greater demons]]
+| 1000k [[Greater demon berserker|Berserkers]]<br>180k K'ril
+| Ranged/Mage
+| 1
+| Skip if not killing [[K'ril Tsutsaroth]] or [[Greater demon berserker|Berserkers]]/[[Greater demon ash lord|Ash Lords]]
+| Killing Berserkers or Ashlord is recommended.
+| Although kills are often slow, the very high experience per kill makes up for it. It is possible to safespot Berserkers using the slope just North of the path leading to the entrance to the Dragonkin Laboratory. When killing K'ril, only K'ril and one of his minions count as greater demons, resulting in a slow task. Recommended to have an active [[Totem of Intimidation]] before fighting K'ril.
+| class="table-bg-yellow" | Prefer
+|-
+| [[Airut (Slayer assignment)|Airut]]
+| 470k
+| Melee
+| 92
+| Extremely fast and profitable task with tier 90+ melee, scrimshaw of vampyrism and a blood nihil.
+| High experience and profit task. Task can be forced via the [[Mask of airut]]. Use of a [[bonecrusher]] and a [[demon horn necklace]], along with [[auto-sanctifier]], also yields significant prayer experience. The [[Spring cleaner]] is highly recommended for [[salvage]] drops. Frequent drops of [[shark]]s which may be used if food is needed.
+| Special attacks dealing rapid and high damage, which can overwhelm players using aggression potions. Can also increase their defence as their health lowers which makes them harder to hit without tier 90+ weapons and a nihil.
+| class="table-bg-green" | Do
+|-
+| [[Nodon dragonkin (Slayer assignment)|Nodon dragonkin]]
+| 600k Legacy<br>450k [[Nodon artificer]]/[[Nodon guard]]
+| Ranged (Use [[dragonbane arrows]])<br>Mage (Use air spells)
+| 1,92
+| Nodon artificers recommended as their spawns are closer allowing for easier use of AOE abilities and mechanised chinchompas.
+
+Legacy [[Blood Barrage]] is 600k phr and AFK
+| Nearby [[siege engine]]s can be repaired and used for faster kills. Can use bonecrusher + demon horn necklace for unlimited prayer. [[Extra action button#Elder God Wars Dungeon|Battlefield abilities]] can make kills easier.
+| Has special attacks although they can easily be avoided or tanked and healed off via soul split.
+| class="table-bg-green" | Do
+|-
+| [[Kal'gerion demons (Slayer assignment)|Kal'gerion demons]]
+| 440k
+| Melee
+| 90
+| Recommended to use upgraded [[Darklight]] for fast kill rates. Can be killed at [[The Shadow Reef]] as there are four respawnable demons in fairly close proximity.
+|
+| Very high defence even with best-in-slot gear.
+| class="table-bg-green" | Do
+|-
+| [[Abyssal demons (Slayer assignment)|Abyssal demons]]
+| 1800k Lords<br>400k demons
+| Melee (halberd)<br>Ranged ([[mechanised chinchompas|chinchompas]])<br>Melee (beasts)<br>Magic (lords)
+| 85
+| Extremely fast task at demons and savages, although at the cost of less experience. Beasts and lords provide more experience and better drops. 
+| Can be forced via [[Mask of the abyss]]. Very fast task with minimal effort when killing demons, savages or beasts. Any monster can be afk'ed.
+| Beasts and lords require semi-afk as they can deal high damage and overwhelm the player. When killing lords in the Wilderness, players must also deal with a beast (thus lowering overall rates) at the cannon spot to fight 5 lords.
+| class="table-bg-green" | Do
+|-
+| [[Camel warriors (Slayer assignment)|Camel warriors]]
+| 390k
+| Melee
+| 96
+| [[Camel Warrior#Mechanics|Mirages]] slow down kill time but can be dealt with easily.
+| Can drop [[cursed Amascut sand]].
+| [[Desert heat]] if not killing in the Sunken Pyramid (unless [[Crocodile Tears]] is completed) and fairly spread out spawns. Also considerably tedious compared to the other raptor mobs, with very slow kills and lots of food generally being needed.
+| class="table-bg-green" | Do
+|-
+| [[Stalker creatures (Slayer assignment)|Stalker creatures]]
+| 682k Magic<br>370k [[Soulgazer]]
+| Ranged
+| 71,99
+|
+Fairly slow task.
+
+350k/phr using [[Animate Dead]], [[Cryptbloom armour|cryptbloom]], dual wield with [[Greater Chain]] and [[Greater Concentrated Blast]] fairly afk, use [[essence of Finality amulet]] with [[guthix staff]] to lower the defence and affinity of elite soulgazers. Don't forget [[Fellstalk incense sticks|fellstalk]] and [[dwarf weed incense sticks]].
+| Chance for [[Veil-ripper Ozharakha]], which has guaranteed drop of [[hexhunter bow]].
+| Relatively high health and damage. [[Soulgazer (elite)|Elite soulgazers]] use considerably more food compared to normal ones.
+| class="table-bg-green" | Do
+|-
+| [[Edimmu (Slayer assignment)|Edimmu]]
+| 360k
+| Melee
+| 90
+| Extremely fast and profitable task, use a halberd to kill edimmu faster. <br>Requires 115 [[Dungeoneering]] to enter [[Edimmu Resource Dungeon]].
+| Very profitable task. Affected by the [[Salve amulet]] and its [[Salve amulet (e)|enhanced version]]. Use of [[Spring cleaner]], [[Attuned ectoplasmator]], and [[Auto-sanctifier]] recommended. [[Edimmu (elite)|Elite edimmu]] has chance of dropping [[Eddy (pet)|Eddy]]. Use a Statius warhammer eof for elites.
+| Use of cannon over aggression potions is preferred. Cost of cannonballs can add up. Players may be overwhelmed by numerous edimmu if using a cannon.
+| class="table-bg-green" | Do
+|-
+| [[Ganodermic creatures (Slayer assignment)|Ganodermic creatures]]
+| 360K [[Ganodermic beast]]s
+| Mage (use fire spells)
+| 95
+| Very fast task with an [[oldak coil]] in the bottom level of east part of the dungeon through agility shortcut (resource/main dungeon has too many [[ganodermic runt]]s).
+|Can be forced via the [[Mask of the Ganodermic]] once every three days. Drops [[big bones]] which allow the use of a bonecrusher and demon horn necklace to replace prayer potions.
+| Clustered with ganodermic runts who have less valauble drops.
+| class="table-bg-green" | Do
+|-
+| [[Chaos giants (Slayer assignment)|Chaos giants]]
+| 350k
+| Melee
+| 1
+| Decent drops, fast and AFK task if a cannon is used with a halberd.
+| Use of a [[bonecrusher]] + [[demon horn necklace]] provides unlimited prayer for healing and curses.
+| Cost of [[cannonballs]] can add up quickly.
+| class="table-bg-green" | Do
+|-
+| [[Dark beasts (Slayer assignment)|Dark beasts]]
+| 340k
+| Mage/Ranged
+| 90
+|
+Extremely fast and profitable task.
+Can use cannon within for a faster task at all locations except Kuradal's Dungeon. Stronger dark beasts in the [[Wilderness (level 35) hobgoblin mine|hobgoblin mine]] for slightly better experience.
+| Can be forced via the [[Mask of gloom]]. Drops big bones which allow the use of [[bonecrusher]] + [[demon horn necklace]] for unlimited prayer.
+| Use of aggression potions discouraged as damage taken is often too high.
+| class="table-bg-green" | Do
+|-
+| [[Cres's creations (Slayer assignment)|Cres's creations]] (Automatons)
+| 320k
+| Ranged
+| 67
+| Any combat style can be used but magic or ranged are recommended to stay out of range of random special attacks.
+| Can be forced via the [[Mask of the Automatons]] once every three days.
+| Special attack may happen randomly for any automaton within the area and hit very hard. This can be avoided by taking off AOE abilities (including [[Corruption shot]]/[[Corruption blast|blast]]) as any automaton that has been targeted immediately sets off their special attack timer, even if they haven't been hit.
+| class="table-bg-green" | Do
+|-
+| [[Ice strykewyrms (Slayer assignment)|Ice strykewyrms]]
+| 310k
+| Mage (use fire spells)
+| 93
+| Use fire spells and a [[Fire cape|fire]]/[[kiln cape|kiln]]/[[igneous cape]] for increased damage output
+| Can be forced via the [[Mask of white wyrm]]. Extremely fast to kill due to the increased damage output from capes and fire spells.
+| Require a [[fire cape]], [[Kiln cape]], or [[Igneous cape]] to do any damage, if the perk to damage them without either cape has not been bought. Elemental spells other than fire deal reduced damage.
+| class="table-bg-green" | Do
+|-
+| [[Dinosaurs (Slayer assignment)|Dinosaurs]] (cluster task)
+| 360k [[Feral Dinosaur]]
+| Melee
+| 90 - 114
+| Use halberd with a cannon and aggression pot. Pray [[protect from melee]] and use [[Turmoil]]/[[Malevolence]] and use a scrimshaw of vampyrism. Kill feral or [[Venomous dinosaur]]s for fast task completion; do not kill [[brutish dinosaur|brutish]] or [[ripper dinosaur]]s for experience rates.
+| Extremely profitable task around 14M gp/h.
+| Potentially difficult and lethal task for beginners. When using aggression potions and cannon, the player may get overwhelmed.
+| class="table-bg-green" | Do
+|-
+| [[Dragons (Slayer assignment)|Dragons]] (cluster task)
+| 1400k [[Hydrix dragon|Hydrix]]
+| Mage/Ranged 
+| 1, 95 - 101
+| Prefer if going for [[hydrix dragon]]s, refer to gemstone dragons task for method. Only when going for the [[Gemstone dragons]], [[King Black Dragon|King]]/[[Queen Black Dragon]], or [[Dragonkin Laboratory]] solo runs
+| Can use [[bonecrusher]] + [[demon horn necklace]] for unlimited prayer. 
+| Dangerous specs if not avoided, Hydrix dragons impair adrenaline, slowing down kills. Need antifire potions.
+| class="table-bg-green" | Do
+|-
+| [[Vile blooms (Slayer assignment)|Vile blooms]] (cluster task)
+| 320k [[Lampenflora]]
+| Magic (fire spells)
+| 102
+|
+Ensure you can kill them before they spawn healers (6 auto attacks, or 21.6 seconds)
+
+Stand in a spot where you can target 3, while avoiding the dinosaur pathing as best as possible.
+
+Pray [[protect from magic]] and use [[Torment]].
+
+[[Enhanced Devoted]] recommended on gear.
+| Has a chance to drop [[dinosaur tooth]] for base camp upgrade.
+| Will require more food than usual if not using devoted or [[Vampyrism]]/scrimshaw of vampyrism as the accuracy/damage is high.
+| class="table-bg-green" | Do
+|-
+| [[Strykewyrms (Slayer assignment)|Strykewyrms]] (cluster task)
+| ?
+| Magic
+| 73 - 94
+| Fast task if [[Ice strykewyrms]] are killed. Use fire Spells with [[Fire cape|Fire Cape]], [[TokHaar-Kal|Kiln Cape,]] or [[Igneous Capes|Igneous capes]] for double damage.
+|
+|
+| class="table-bg-green" | Do
+|-
+| [[Creatures of Daemonheim]] (cluster task)
+| 440k (Kal'gerion demons)<br>360k (Edimmu)
+| Melee/Ranged
+| 1
+| Should only be blocked if not fighting Edimmu or Kal'gerion demons, since both of these count towards these task. [[Frost dragon]]s also count towards the task.
+|
+|
+| class="table-bg-green" | Do
+|-
+| [[Demons (Slayer assignment)|Demons]] (cluster task)
+| 700k
+| Melee
+| 85 - 96
+| Can kill any demon, however, should only be done if fighting ripper, abyssal (all slayer requirement) or Kal'gerion demons. At 96+ Slayer, preferring this task is recommended since it is effectively an additional chance at rolling a Ripper Demon task.
+|
+|
+| class="table-bg-green" | Do
+|-
+| [[Vyrewatch (Slayer assignment)|Vyrewatch]]
+| 280k
+| Mage
+| 67
+| Relatively fast task with the [[Sunspear (magic)|Sunspear]], which also provides decent [[Firemaking]] and Prayer experience.
+| Endlessly aggressive, allowing for continuous kills.
+| [[Ivandis flail]], [[Blisterwood weapons]] or the [[Sunspear (disambiguation)|Sunspear]] is mandatory. May be overwhelmed if not paying attention, tends to be crowded.
+| class="table-bg-orange" | Skip
+|-
+| [[Celestial dragons (Slayer assignment)|Celestial dragons]]
+| 270k
+| Ranged
+| 1
+| Fairly slow task. Only attacks using dragonfire special when outside melee distance, so super antifire potions provide complete protection and are recommended.
+| Fairly fast to kill. Drops are always noted as well as often valuable. Can use [[bonecrusher]] + [[demon horn necklace]] for unlimited prayer.
+| Often scattered far apart. Timestop mechanic discourages attacking multiple dragons at a time, do not use aggression potions.
+| class="table-bg-orange" | Skip
+|-
+| [[Muspah (Slayer assignment)|Muspah]]
+| 270k
+| Mage (use [[blood barrage]])
+| 76
+| Very fast task as Muspah take double damage from [[ancient spells]].
+| Fast and profitable task.
+| Usually done on ancients, which disallows use of [[High level alchemy]]. [[Explorer's ring]] allows 15 rune-free [[High Level Alchemy]] casts per day. Magic notepaper may be taken instead.
+| class="table-bg-orange" | Skip
+|-
+| [[Rune dragons (Slayer assignment)|Rune dragons]]
+| 200k
+| Ranged (use dragonbane ammunition)
+| 1
+| Somewhat slow task.
+| Very profitable, with [[reinforced dragon bones]] and [[small plated rune salvage]] guaranteed per every kill. They have reasonably valuable drops.
+Can use [[bonecrusher]] + [[demon horn necklace]] for unlimited prayer.
+| Slow task, use of [[dragonbane]] ammunition is mandatory.
+| class="table-bg-orange" | Skip
+|-
+| [[Black dragons (Slayer assignment)|Black dragons]]
+| 180k
+| Ranged
+| 1
+| Skip if not killing [[King Black Dragon|King]]/[[Queen Black Dragon]]
+| Killing Queen Black Dragon is recommended
+| Slow task
+| class="table-bg-orange" | Skip
+|-
+| [[Gargoyles (Slayer assignment)|Gargoyles]]
+| 180k
+| Mage (use water spells)
+| 75
+| Very fast task to complete, use aggression potions to guarantee continuous combat.
+| Can be forced with [[Helm of Grotesquery]]. Very fast and easy task, drops plenty of [[rune salvage]]s so spring cleaner is recommended.
+| A [[rock hammer]], upgraded [[Darklight]] or [[Legendary pets]] with [[Pet#Abilities|Slayer Finisher]] is required to kill if [[Slayer points#Rewards|quick kills]] is not unlocked.
+| class="table-bg-orange" | Skip
+|-
+| [[Waterfiends (Slayer assignment)|Waterfiends]]
+| 160k
+| Ranged
+| 1
+| Skip
+| Extremely good source of [[Crimson charm]]s and extra Slayer experience can be applied when killing in the [[Wilderness]].
+| Can deal somewhat high damage.
+| class="table-bg-orange" | Skip
+|-
+| [[Steel dragons (Slayer assignment)|Steel dragons]]
+| 160k
+| Mage (use water spells)
+| 1
+| Skip
+|
+Very fast, afk, and easy task using aggression potions.
+
+Can use [[bonecrusher]] + [[demon horn necklace]] for unlimited prayer.
+|
+| class="table-bg-orange" | Skip
+|-
+| [[Iron dragons (Slayer assignment)|Iron dragons]]
+| 140k
+| Mage (use water spells)
+| 1
+| Skip
+|
+Very fast, afk, and easy task using aggression potions.
+
+Can use [[bonecrusher]] + [[demon horn necklace]] for unlimited prayer.
+|
+| class="table-bg-orange" | Skip
+|-
+| [[Mithril dragons (Slayer assignment)|Mithril dragons]]
+| 140k
+| Mage
+(Use earth spells)
+| 1
+| Skip
+| Very fast, afk, and easy task. Dragons are always aggressive so potions not required. Can use [[bonecrusher]] + [[demon horn necklace]] for unlimited prayer. Fast task, may be done for slayer points
+|
+| class="table-bg-orange" | Skip
+|-
+| [[Kalphite (Slayer assignment)|Kalphite]]
+| 130k
+| Mage (use water spells)
+| 1
+| Skip if not killing the [[Kalphite King]]/[[Kalphite Queen|Queen]] or corrupted variants
+| Reasonably profitable when killing the King or Queen. Fairly fast task when fighting [[exiled kalphite]]s.
+| Kalphite King requires a group (which can disrupt experience rates if the slayer doesn't deal enough damage) or solo, both requiring high-level gear. Kalphite Queen is fairly slow in task progression. [[Feather of Ma'at]] and 100 Slayer required for [[corrupted kalphite]]s.
+| class="table-bg-orange" | Skip
+|-
+| [[Ascension members (Slayer assignment)|Ascension members]]
+| 100k
+| Ranged
+| 81, 95
+| Skip if not killing [[rorarius]], [[capsarius]] or [[legiones]] (this option having a high input/low output)
+| Very fast, afk, and easy task using aggression potions. Additionally can be profitable task.
+| Slow if fighting [[gladius]] or [[scutarius]], although they provide more profit in common drops. Somewhat poor experience if AFKing rorarius (80-100k)
+| class="table-bg-orange" | Skip
+|-
+| [[Adamant dragons (Slayer assignment)|Adamant dragons]]
+| 100k
+| Mage (use air spells)
+| 1
+| Skip
+|
+Fast, afk, and easy task. Dragons are always aggressive so potions not required.
+
+Can use [[bonecrusher]] + [[demon horn necklace]] for unlimited prayer.
+| Fairly slow task.
+| class="table-bg-orange" | Skip
+|-
+| [[Dagannoth (Slayer assignment)|Dagannoth]]
+| 70k
+| Melee
+| 1
+| Skip if not killing the [[Dagannoth Kings]].
+| Killing Dagannoth kings is recommended due to decent experience and drops of [[dagannoth bones]] and [[dagannoth hide]].
+| Slow task if killing Dagannoth kings
+| class="table-bg-orange" | Skip
+|-
+| [[Aviansies (Slayer assignment)|Aviansies]]
+| 250k Kree<br>50k
+| Ranged
+| 1
+| Skip if not killing [[Kree'arra]].
+| Killing Kree'arra is recommended.
+| Kree and all of his minions count as aviansie. Moderately fast task. Recommended to have an active [[Totem of Intimidation]] before fighting Kree'arra.
+| class="table-bg-orange" | Skip
+|-
+| [[Nechryael (Slayer assignment)|Nechryael]]
+| 240k
+| Melee
+| 80
+| Poor drops and spawn amount but is a fast task, you may want to save your points and skip instead of blocking as [[Laniakea]] does not assign them.
+| Fast task if using aggression potions.
+|
+| class="table-bg-orange" | Block / Skip
+|-
+| [[Grotworms (Slayer assignment)|Grotworms]]
+| 200k
+| Ranged
+| 1
+| Poor experience rates, you may want to save your points and skip instead of blocking as Laniakea does not assign them.
+| Can use [[bonecrusher]] and [[demon horn necklace]] to keep prayers up.
+| Mediocre drops and low experience rates.
+| class="table-bg-orange" | Block / Skip
+|-
+| [[Lava strykewyrms (Slayer assignment)|Lava strykewyrms]]
+| 200k
+| Ranged
+| 94
+| Highly profitable task but reside only in the [[Wilderness]] and [[Dragonkin Laboratory]]. Can be slow however.
+|
+|
+| class="table-bg-orange" | Block / Skip
+|-
+| [[Black demons (Slayer assignment)|Black demons]]
+| 180k
+| Ranged
+| 1
+| Poor experience rates and drops, should always be blocked.
+|
+|
+| class="table-bg-orange" | Block / Skip
+|-
+| [[Mutated jadinkos (Slayer assignment)|Mutated jadinkos]]
+| 130k
+| Mage
+| 80,86,91
+| Somewhat lacklustre experience rates but is a fast task.
+|
+|
+| class="table-bg-orange" | Block / Skip
+|-
+| [[TzHaar (Slayer assignment)|TzHaar]]
+| 90k
+| Mage
+| 1
+| Fast but spawns are spread apart from each other, you may want to save your points and skip instead of blocking as Laniakea does not assign them.
+|
+|
+| class="table-bg-orange" | Block / Skip
+|-
+| [[Desert strykewyrms (Slayer assignment)|Desert strykewyrms]]
+| 80k
+| Mage/Ranged
+| 77
+| You may want to save your points and skip instead of blocking as Laniakea does not assign them.
+|
+|
+| class="table-bg-orange" | Block / Skip
+|-
+| [[Glacors (Slayer assignment)|Glacors]]
+| 300k
+| Mage
+| 1
+| Poor drops and experience rates due to [[glacyte]] mechanic despite taking double damage from fire spells. Can be AFKed at the [[Glacor Front]] for slightly more profit. [[Arch-Glacor]] can be killed as a substitute, but only for normal mode. Fairly fast task at the Arch-Glacor if glacytes are enabled.
+| Good for [[crimson charm]]s drop. Profitable task due to boots ([[Steadfast boots]], [[Ragefire boots]], [[Glaiven boots]]) and [[Shards of Armadyl]].
+| Long and slow kills due to mechanics. Special attack can deal a lot of damage.
+| class="table-bg-orange" | Block / Skip
+|-
+| [[Tormented demons (Slayer assignment)|Tormented demons]]
+| 130k
+| Melee
+| 1
+| Requires switches and significantly more effort compared to other tasks if not using the Legacy Mode strategy.
+| Profitable task due to [[dragon limbs]] drop. [[Tormented demon/Strategies#Legacy methods|Can be AFKed in the Sunken Pyramid on Legacy Mode.]]
+| Slow kills due to the demons' prayer switching.
+| class="table-bg-orange" | Block / Skip
+|-
+| [[Nihil (Slayer assignment)|Nihil]]
+| 327k chin<br>100k
+| Ranged
+| 76
+|
+Good drops but somewhat lacklustre experience rates if not chinning; if chinning, do task.
+
+Fast experience rates, and 580 kphr if you aggro all and chin them properly
+| Profitable task due to nihil parts, especially when chinning
+| Dangerous to aggro more than one at a time.
+| class="table-bg-orange" | Block / Skip
+|-
+| [[Aquanites (Slayer assignment)|Aquanites]]
+| 50k
+| Melee
+| 78
+| Bad task.
+| If combined with the use of [[seedicide]], a good amount of [[farming]] experience can be gained.
+| Generally poor drops and very low experience per hour.
+| class="table-bg-orange" | Block / Skip
+|}
+
+==Slayer Codex and Sunken Pyramid==
+Players with at least level 99 Slayer can fill their [[Slayer Codex]]. It is advised to invest [[slayer points]] and time to collect at least 100 different monster souls. For every 20 souls collected, [[slayer helmet]]s grant a +1% gain (up to 5% at 100 souls) to Slayer experience, effectively being an [[Experience-boosting set#Regular experience-boosting items|experience boosting item]].
+
+In addition to the Slayer Codex, players with at least 99 Slayer have access to a [[Sunken Pyramid]]. The following slayer assignments are recommended to fill the three rooms available, or a player can access another player's dungeon if they have a needed room setup.
+
+{| class="wikitable"
+! Assignment
+! Reason
+! Recommended amount of spawns
+|-
+| [[Muspah]]
+| Two additional spawns (the Cradle only possesses three somewhat slow spawns). Place in the small room.
+| 5
+|-
+| [[Ripper Demon]]s
+| With only 1 Ripper Demon, it removes the <35% player's life points [[aggression]] mechanic, meaning that no other demons will become aggressive towards the player when health drops below 35%. This also allows for safe use of [[Aoe abilities|AoE abilities]]. A lone ripper demon can also be found just south of the Mage Arena and is quite safe.
+| 1
+|-
+| [[Crystal Shapeshifter]]s
+| Easier grouping and use of AoE abilities. Place in the small room.
+| 5
+|-
+| [[Shadow creature]]s
+| Easier time attacking multiple shadows at once and use of AoE. Best to put Manifest Shadows in your dungeon as they are greater experience/kill than other shadow creatures. Place in the small room.
+| 5
+|-
+| [[Hydrix dragon]]s
+| Easily AFKable by standing under the spawn point, as the dragon uses relatively weak melee and magic attacks that can be easily healed off of via Soul Split.
+| 1
+|}
+
+In addition to the slayer monsters, some Sunken Pyramid rooms benefit from prayer restoring monsters via the use of a [[Bonecrusher]] and [[Demon horn necklace]].
+{| class="wikitable"
+! Monster
+! Reason
+! Recommended amount of spawns
+|-
+| [[Mogre]]
+| 1950 LP, has the least life points but does not aggro even with [[aggression potion]], not good for AFK
+| 2 - 4
+|-
+| [[Suqah]]
+| 2650 LP, least life points among aggro options
+| 2 - 4
+|-
+| [[Crocodile#Crocodiles east of Sophanem|Sophanem Crocodile]]
+| 2900 LP, drops only big bones, great for area looting
+| 2 - 4
+|-
+| [[Hill Giant]]
+| 3200 LP, good for Champion's Challenge
+| 2 - 4
+|-
+|}
+
+==Alternative methods of gaining experience==
+Apart from general bonuses, such as [[Treasure Hunter]] lamps and stars, [[special event]] experience rewards, and [[Tears of Guthix]], the following methods award Slayer XP:
+
+{| class="wikitable sortable"
+! Methods
+! Notes
+|-
+| [[Phoenix Lair]]
+| 250 (5,000 for the first completion)
+|-
+| [[Wild jade vine]]
+| 2,500 experience every 19 hours.
+|-
+| [[Challenge System#Daily challenges|Daily slayer challenge]]
+| Equal experience to that of a [[large XP lamp]].
+|-
+| [[Corrupted Scarab (Menaphos)|Corrupted scarabs]] 
+| Squashing these grants experience equivalent to a [[small XP lamp]] divided by five, with the experience per scarab dropping as you proceed. Bursting corrupted scarabs on a daily basis can give significant Slayer experience which adds up over time. The experience and reputation gained from the scarabs scales with the player's level but decreases with the amount of scarabs squished. This decrease resets at 00:00 UTC.
+|-
+| [[God Statues]]
+| Each statue grants experience equivalent to a [[medium XP lamp]] provided the Slayer experience option is chosen and the fanatic is killed.
+|-
+| Killing the [[Skeletal horror]]
+| The Skeletal horror may be killed weekly after completing the [[Rag and Bone Man/Wish list|Rag and Bone Man]] and [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]]. Killing it grants 10,000 experience the first time, and 9,125-15,125 afterwards, depending on your Slayer level.
+|-
+| [[Player-owned port]]
+| Complete special experience voyages with [[the Assassin]], [[Player-owned port/Special voyages#Honing her Craft|Honing her Craft]], granting 10,000-35,000 Slayer experience depending upon distances travelled, unlocked regions and how often the Assassin visits the port.
+|-
+| [[The Arc]]
+| After unlocking [[the Assassin]] in your [[player-owned port]], you can speak to her (Ling) in [[Aminishi]] after completing the [[Impressing the Locals]] quest to receive contracts. When spoken to, she will give the player Slayer contracts to kill the [[Acolytes of Seiryu]] on the island. She can hand out three contracts per day (shared with [[The Tengu#Waiko|Sojobo]] and [[The Whaler#Whale's Maw|Hubbub]]), but this can be increased to up to seven by buying "Contracts per day increase" from [[Waiko Reward Shop]]. If you have main island contracts disabled on the board by Sojobo, the game will claim you do not have the requirements for any of Ling's contracts. The Acolytes of Seiryu in the [[Temple of Aminishi]] also count towards the contract so it's best if you complete it within there. You can also get Dungeoneering experience and the Elite Dungeon rewards along with the Slayer experience.
+|-
+| [[Big Game Hunter]]
+| Successfully hunting a dinosaur on [[Anachronia]] will give some Slayer experience depending on the tier of the dinosaur. It also requires at least 75 [[Hunter]].
+|}
+
+==Quests for Slayer experience==
+{{Main|Quests/Experience rewards#Slayer}}
+<!-- Edit at Template:Slayer Experience Rewards table -->
+{{Slayer Experience Rewards table}}
+
+{{Training guides}}

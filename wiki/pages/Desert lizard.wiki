@@ -1,0 +1,203 @@
+{{External|os=Desert Lizard}}
+{{Infobox Monster
+|version1 = Green
+|version2 = Yellow
+|version3 = Orange
+|name = Desert lizard
+|image1 = [[File:Desert lizard (green).png|250px]]
+|image2 = [[File:Desert lizard (yellow).png|250px]]
+|image3 = [[File:Desert lizard (orange).png|250px]]
+|release = [[24 October]] [[2005]]
+|update = Mogres, Lizards, Pet Fish, Potions and Potatoes!
+|members = Yes
+|options = Attack, Cool off
+|examine = A cold-blooded creature, partial to warmth.
+|level = 30
+|lifepoints = 3600
+|experience = 
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 22
+|slayxp = 21.6
+|slayercat = Desert lizards
+|assigned_by = Turael, Achtryn, Sumona
+|max_melee = 440
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 22
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 241
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 341
+|defence = 22
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 2804
+|id2 = 2805
+|id3 = 2806
+|leagueRegion=Desert}}
+[[File:Desert lizard icon.png|left]]
+'''Desert lizards''' are big [[Slayer]] monsters found in the [[Kharidian Desert]], and are mainly around the east where it says ''lizards'' on the map. They require level 22 [[Slayer]] to kill, and can be aggressive to lower level players. [[Ice cooler]]s are required to finish them, which can be bought from any [[Slayer Masters|Slayer Master]]. Or an [[ice shaker]], bought from any Slayer Master and placed on the tool belt, can be used in place of an ice cooler. The ice cooler will be destroyed when used, so multiple coolers are necessary for slayer trips. If the ice shaker is on the toolbelt, it can be utilised by right-clicking the lizard and selecting the 'Cool off' option. 
+
+The lizards are found in areas affected by [[desert heat]], so players are advised to bring a [[water source]] to avoid the negative effects of the heat.
+
+Desert lizards can be assigned as a Slayer task by [[Vannaka]], [[Mazchna]], [[Turael]]/[[Spria]] and [[Sumona]]. Level 21 [[small lizard]]s and level 40 [[lizard]]s may also be killed for a desert lizard task, and all are found in the [[Kharidian Desert]]. The larger lizards will provide more experience on a task, so may be preferable.
+
+If you are looking for special bones of the [[Rag and Bone Man/Wish list|Rag and Bone Man's Wish List]], you should attack the regular [[lizard]]s (the big ones) and not the desert lizard.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=North of [[Nardah]]
+|lvls=30
+|mem=yes
+|mapID=28
+|npcid:2804,x:3384,y:3015
+|npcid:2805,x:3386,y:3065
+|npcid:2805,x:3405,y:3059
+|npcid:2805,x:3411,y:3034
+|npcid:2806,x:3414,y:3032
+|npcid:2804,x:3438,y:3060
+|npcid:2805,x:3445,y:3031
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+===Getting There===
+The [[fairy ring]] code {{Fairycode|DLQ}} is the best way to reach them. There are some just north-west of the ring (along with snakes).
+
+Another way to get to them is to go through the [[Shantay Pass]], head south-east and cross the river at the first bridge.
+
+==Slayer strategy==
+[[Ice cooler]]s must be used on them when they reach 1-30 [[Constitution|life points]] in order to kill them. If an [[ice cooler]] is accidentally used when there is more than 30 life points, it will still be used up but have no effect. Players would be wise to bring a few extra because of this. [[Waterskin]]s (and a means of filling them, such as a knife for cutting cactus or [[Humidify]]) or an [[enchanted water tiara]] should be brought to avoid dying in the desert due to the heat. [[Desert clothing]] may be useful if you can afford to fight without decent armour. Magic attacks appear to be effective, particularly water spells, although melee works well enough; stabbing weapons are most effective.
+
+If on a task, level 40 [[lizard]]s should be killed for the most experience, as they have more life points. These can be found near the small lizards. These drop [[big bones]], so more [[experience]] in Slayer, [[combat]], and [[Prayer]] is gained than with the smaller lizards. Killing small lizards will allow you to complete the task more quickly, however.
+
+Lower level players can kill them without taking much damage by using cacti to safespot them.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Light mystic gloves|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|1/496 with tier 1 [[luck]] or higher.}}|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Light mystic gloves: 1/512|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Fire rune|quantity=5|rarity=20/128}}
+{{DropsLine|name=Fire rune|quantity=42|rarity=4/128}}
+{{DropsLine|name=Nature rune|quantity=5|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|10/128}}
+{{DropsTableHead}}
+{{HerbDropTable|10/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{GeneralSeedDropTableIntro|9/128}}
+{{DropsTableHead}}
+{{GeneralSeedDropTable|9/128|level=30}}
+{{DropsTableBottom}}
+
+===Ores and bars===
+{{DropsTableHead}}
+{{DropsLine|name=Copper ore|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tin ore|quantity=1|rarity=1/128}}
+{{DropsLine|name=Iron ore|quantity=1-2 (noted)|rarity=22/128}}
+{{DropsLine|name=Coal|quantity=1-2 (noted)|rarity=13/128}}
+{{DropsLine|name=Silver ore|quantity=1|rarity=3/128}}
+{{DropsLine|name=Silver bar|quantity=1|rarity=2/128}}
+{{DropsLine|name=Mithril ore|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Waterskins===
+{{DropsTableHead}}
+{{DropsLine|name=Waterskin (1)|quantity=2|rarity=4/128|gemw=No}}
+{{DropsLine|name=Waterskin (2)|quantity=2|rarity=1/128|gemw=No}}
+{{DropsLine|name=Waterskin (3)|quantity=2|rarity=1/128|gemw=No}}
+{{DropsLine|name=Waterskin (4)|quantity=2|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Kebab|quantity=1|rarity=13/128}}
+{{DropsLine|name=Knife|quantity=1|rarity=10/128}}
+{{DropsLine|name=Iron gauntlets|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128|override=There is a 4/128 chance of rolling once on the gem drop table, and a 1/128 chance of rolling twice.}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Desert lizard safespot.png|right|thumb|334px|Safe spotting a desert lizard, one space away and safe from the lizard's melee attacks.
+</gallery>
+
+==Achievements==
+* {{Achievement|The Start of Something New}} 
+** [[Light mystic gloves]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Copper stone spirit → Copper ore
+*** Tin stone spirit → Tin ore
+*** Iron stone spirit → Iron ore (noted)
+*** Coal stone spirit → Coal (noted)
+*** Mithril stone spirit → Mithril ore
+*** Silver stone spirit → Silver ore, Silver bar
+*** Tiny plated iron salvage → Iron gauntlets
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes desert lizards.
+
+* {{UL|type=hidden|update=Patch Notes (26 February 2018)|date=26 February 2018}}
+** Renamed from "Desert Lizard" to "Desert lizard".
+
+* {{UL|type=patch|update=Patch Notes (26 February 2018)|date=26 February 2018}}
+** Desert lizards are no longer aggressive to players who have completed [[Crocodile Tears|Crondis' quest]].
+
+* {{UL|type=update|update=Mogres, Lizards, Pet Fish, Potions and Potatoes!|date=24 October 2005}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}

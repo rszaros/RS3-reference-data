@@ -1,0 +1,112 @@
+{{Infobox Monster
+|name = Harpie Bug Swarm
+|image = [[File:Harpie Bugs Swarm.png|250px]]
+|release = [[27 July]] [[2015]]
+|update = Elite Monster Spawns
+|members = Yes
+|options = Attack
+|examine = A particularly nasty swarm of bugs.
+|leagueRegion = Karamja
+|level = 72
+|lifepoints = 9000
+|experience = 450.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 33
+|slayxp = 313
+|slayercat = Harpie bug swarms
+|assigned_by = Chaeldar
+|max_melee = 0
+|max_ranged = 540
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 60
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 850
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1299
+|defence = 45
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 21505
+}}
+A '''Harpie Bug Swarm (elite)''' is an [[elite monster|elite version]] of the [[Harpie Bug Swarm]]. If on a [[Slayer assignment]], an elite Harpie Bug Swarm is guaranteed to spawn; otherwise, elite monsters have a spawn rate of 1 in 1,000. Elite spawn rates can be further increased with the use of [[fellstalk incense sticks]].
+
+==Names==
+The elite versions have varying names, with a randomly generated prefix and suffix.
+{{Elite names|name=Harpie Bug Swarm}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mobname=elite Harpie Bug Swarm}}
+
+===Charms===
+{{CharmDataTable|Harpie Bug Swarm}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Staff of fire|quantity=1|rarity=5/42|rolls=3}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Death rune|quantity=3|rarity=5/42|rolls=3}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated steel salvage|quantity=1|rarity=5/42|rolls=3}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=2/42|rolls=3}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=2/42|rolls=3}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=30|rarity=1/72|rolls=3|gemw=No}}
+{{DropsLine|name=Coins|quantity=1000|rarity=10/42|rolls=3|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Gold stone spirit|quantity=3|rarity=7/42|rolls=3}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|6/42|rolls=3}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/72|rolls=3}}
+{{DropsLineSpiritGems}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Elite Monster Spawns|date=27 July 2015}}
+** Added to game.
+}}
+
+{{Elite monster}}
+{{Slayer monsters}}

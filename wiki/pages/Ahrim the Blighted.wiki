@@ -1,0 +1,249 @@
+{{External|os}}
+{{Otheruses|def=no|the equipment set|Ahrim the Blighted's equipment}}
+{{Otheruses|def=no|the pet version|Ahrim the Bobbled}}
+{{Infobox Monster
+|version1 = Normal
+|version2 = Ritual of the Mahjarrat
+|version3 = Rise of the Six (on ground)
+|version4 = Rise of the Six (in air)
+|name = Ahrim the Blighted
+|image1 = [[File:Ahrim the Blighted.png|Ahrim the Blighted|150px]]
+|image2 = [[File:Ahrim the Blighted.png|Ahrim the Blighted|150px]]
+|image3 = [[File:Ahrim the Blighted (Shadow).png|250px]]
+|image4 = [[File:Ahrim the Blighted (ROTS-Flying).png|250px]]
+|release1 = [[9 May]] [[2005]]
+|release2 = [[14 September]] [[2011]]
+|release3 = [[13 November]] [[2013]]
+|release4 = [[13 November]] [[2013]]
+|update1 = Barrows
+|update2 = Ritual of the Mahjarrat
+|update3 = Barrows - Rise of the Six
+|update4 = Barrows - Rise of the Six
+|members = Yes
+|actions = Attack
+|examine = A vengeful spirit corrupted by dark magic.
+|level1 = 150
+|level2 = 105
+|level3 = 650
+|level4 = 650
+|lifepoints1 = 12000
+|lifepoints2 = 3750
+|lifepoints3 = 50000
+|lifepoints4 = 50000
+|slaylvl = 1
+|slayxp1 = 343.6
+|slayxp2 = 395
+|slayxp3 = 
+|slayxp4 = 
+|aggressive = Yes
+|poisonous = No
+|slayercat = Ghosts, Undead
+|max_melee = 0
+|max_ranged = 0
+|max_magic1 = 1260
+|max_magic2 = 864
+|max_magic3 = 864
+|max_magic4 = 864
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed1 = 6
+|speed2 = 4
+|speed3 = 2
+|speed4 = 2
+|attack = 1
+|ranged = 1
+|magic1 = 70
+|magic2 = 90
+|magic3 = 90
+|magic4 = 90
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic1 = 1486
+|acc_magic2 = 1694
+|acc_magic3 = 2458
+|acc_magic4 = 2458
+|acc_necromancy = 0
+|armour1 = 1299
+|armour2 = 1924
+|armour3 = 1924
+|armour4 = 1924
+|defence1 = 70
+|defence2 = 90
+|defence3 = 90
+|defence4 = 90
+|weakness1 = Arrows
+|weakness2 = Nothing
+|weakness3 = Nothing
+|weakness4 = Nothing
+|susceptibility = Salve, Ghost
+|aff_weakness1 = 90
+|aff_weakness2 = 40
+|aff_weakness3 = 40
+|aff_weakness4 = 40
+|aff_melee1 = 50
+|aff_melee2 = 40
+|aff_melee3 = 40
+|aff_melee4 = 40
+|aff_ranged1 = 70
+|aff_ranged2 = 40
+|aff_ranged3 = 40
+|aff_ranged4 = 40
+|aff_magic1 = 60
+|aff_magic2 = 40
+|aff_magic3 = 40
+|aff_magic4 = 40
+|immune_to_poison1 = No
+|immune_to_poison2 = No
+|immune_to_poison3 = Yes
+|immune_to_poison4 = Yes
+|immune_to_deflect1 = No
+|immune_to_deflect2 = No
+|immune_to_deflect3 = Yes
+|immune_to_deflect4 = Yes
+|immune_to_stun1 = No
+|immune_to_stun2 = No
+|immune_to_stun3 = Yes
+|immune_to_stun4 = Yes
+|immune_to_drain1 = No
+|immune_to_drain2 = No
+|immune_to_drain3 = Yes
+|immune_to_drain4 = Yes
+|restriction2 = quest
+|leagueRegion = Morytania
+|id1 = 2025
+|id2 = 14263	
+|id3 = 18538
+|id4 = 18539
+}}
+{{Synced switch
+|version1=[[File:Ahrim the Blighted chathead.png|left|80px|class=rs-title-bg-on-light]]
+|version2=[[File:Ahrim the Blighted chathead.png|left|80px|class=rs-title-bg-on-light]]
+|version3=[[File:Ahrim the Blighted (Rise of the Six) chathead.png|left]]
+|version4=
+}}
+'''Ahrim the Blighted''' is the oldest and leader of the six [[Barrows brothers]]. Ahrim was the only magic-based brother until the release of [[Akrisae the Doomed]] with the [[Ritual of the Mahjarrat]] grandmaster quest (though is the only one available to players who have not completed the quest). Ahrim also casts [[Curse]] spells on the player that reduce [[Attack]], [[Strength]] and [[Defence]] levels with each successful hit.
+
+Ahrim's set effect, Ahrim's Blight, gives each successful attack cast by Ahrim a chance to lower a player's Strength level. Although the damage from the attack itself can be partially blocked by [[protection prayers]]/[[Ancient Curses|curses]], the set effect cannot. Therefore it is advisable for a player to bring something to restore a player's Strength level back to normal if using [[melee]], such as a [[restore potion]] or greater. This effect is accompanied by an animation as well as a sound effect.
+
+==Drops==
+Ahrim does not drop his main rewards directly; instead, his [[Ahrim the Blighted's equipment|equipment]] is added as possible rewards from the Barrows chest. ''See [[The Barrows Brothers#Rewards]] for more information.'' However, Ahrim can directly drop the following items.
+
+{{DropsTableHead}}
+{{DropsLineGhosts}}
+{{DropsTableBottom}}
+
+==History==
+===Early history===
+Ahrim, along with his brothers, maintained a small farm. Eventually, [[Guthan the Infested|Guthan]] convinced him and the others to join the crusade.
+
+===2016 Easter event===
+During the [[2016 Easter event]], Ahrim the Blighted and his brothers play a role as the workers (bobble-numbskulls) of Sliske's chocolate factory. They resembled their bobble-head versions.
+
+===Kindred Spirits===
+Ahrim, along with his brothers, makes an appearance in [[Kindred Spirits]]. Sliske puts him through a "game" of righteousness where he navigates through the maze and makes decisions (either by himself or the adventurer) to reach the centre of the maze.
+
+When Ahrim arrived at the centre of the maze, Sliske dropped a druidess named [[Isolde]], the adventurer and Guthan inside. It is shown that Ahrim had killed Isolde to "protect" Guthan from her "godless" faith; however, the true reason was that he killed her out of envy, because she did not reciprocate her feelings to him. If Ahrim was bathed in most of the blue flames, Ahrim realises that he had been arrogant the whole time and asks for forgiveness from both Isolde and Guthan. If Ahrim was not bathed in most of the blue flames, he kills Isolde again.
+
+===Sliske's Endgame===
+Ahrim, along with his brothers, appeared in [[Sliske's Endgame]], being the second intended wave in Sliske's attempts to destroy the World Guardian. However, the Barrows Brothers had managed to regain a modicum of control over their own actions, and chose to aid the World Guardian, attacking Sliske's wights and champions.
+
+==Mentioned==
+{{MentionedIn}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Ahrim the Blighted official art.png|Ahrim the Blighted concept art
+Ahrims RuneFest concept.png|The new model for Ahrim's armour revealed at RuneFest 2011
+Ahrim the Blighted (Christmas).png|Ahrim wearing a [[Santa hat]] during Christmas.
+Ahrim the Blighted (Shadow, Christmas).png|Shadow Ahrim wearing a [[Santa hat]] during Christmas.
+Ahrim the Blighted Steam trading card wallpaper.jpg|[[Steam]] trading card wallpaper
+</gallery>
+
+==Graphical updates==
+===NPCs===
+{{GU|subject=NPCs
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Ahrim the Blighted (2005).png|name=Ahrim the Blighted}}
+|{{GUL|date=[[1 September]] [[2010]]|update=Court Cases: Back in Session|img=Ahrim the Blighted (2010).png|name=Ahrim the Blighted}}
+|{{GUL|date=[[4 January]] [[2012]]|update=A Very Barrows New Year!|img=Ahrim the Blighted.png|name=Ahrim the Blighted}}
+}}
+===Chatheads===
+{{GU|subject=chatheads
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Ahrim the Blighted (2005) chathead.png|name=Ahrim the Blighted's chathead}}
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Ahrim the Blighted (2008) chathead.png|name=Ahrim the Blighted's chathead}}
+|{{GUL|date=[[3 December]] [[2009]]|update=The Temple at Senntisten|img=Ahrim the Blighted (2009) chathead.png|name=Ahrim the Blighted's chathead}}
+|{{GUL|date=[[4 January]] [[2012]]|update=A Very Barrows New Year!|img=Ahrim the Blighted chathead.png|name=Ahrim the Blighted's chathead}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=April Patch Week|date=7 April 2026}}
+** The 'Rise of the Six (in air)' variant's clickboxes have been adjusted.
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased (does not apply to Rise of the Six):
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=Necromancy Patch Week - This Week In RuneScape|date=11 September 2023}}
+** The 50% combat experience reduction on bosses has been removed. Bosses now give 50 combat experience per 1,000 life points, like most other monsters in the game.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+** An old restriction preventing the use of the Salve Amulet at Barrows has been removed. It also works in Rise of the Six.
+
+* {{UL|type=patch|update=This Week In RuneScape: Celebration of Combat#Patch Notes|date=11 January 2021}}
+** Various bosses around RuneScape have taken their Santa Hats off for another year.
+
+* {{UL|type=patch|update=Patch Notes (23 October 2017)|date=23 October 2017}}
+** The right-click options on Barrows brothers spawned by other players have been removed.
+
+* {{UL|type=patch|update=Patch Notes (8 August 2016)|date=8 August 2016}}
+** There is no longer a delay between Ahrim's fire wave spell visibly hitting the player and damage being dealt.
+
+* {{UL|type=patch|update=Patch Notes (2 February 2015)|date=2 February 2015}}
+** An issue with Ahrim stretching when casting fire spells has been fixed.
+
+* {{UL|type=patch|update=Patch Notes (3 March 2014)|date=3 March 2014}}
+** An issue has been resolved in which Ahrim or [[Karil]] could get stuck on the ledge while the brothers enrage in [[Rise of the Six]].
+
+* {{UL|type=update|update=A Very Barrows New Year!|date=4 January 2012}}
+** Ahrim the Blighted is graphically updated.
+
+* {{UL|type=update|update=Barrows|date=9 May 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Along with the graphical update on 4 January 2012, his combat level was raised from 98 to 130. It was changed again to 150 after the release of the [[Evolution of Combat]].
+* Ahrim is the only Barrows brother to retain his pre-EoC attack speed (6 ticks/3.6 seconds) during the transition to the [[Evolution of Combat]]. All of the other brothers had their attack speeds changed to match his.
+* If an empty [[bucket]] is used on the well next to the Barrows, Ahrim will pop up in a combat stance and then disappear. Your game box will then say "For some reason, Ahrim pops up and fills your bucket with water."
+* Ahrim has access to all spellbooks. In the original Barrows, he uses Fire Wave and curses, in Rise of the Six he uses Blood spells, and when filling the bucket with water he uses [[Humidify]].
+* There is currently a graphical glitch where Ahrim uses a water spell animation when casting [[Fire Wave]] in the normal Barrows encounter, making it seem like orange-coloured water forms around his hands.
+* Like [[Karil the Tainted]], in the Rise of the Six encounter, Ahrim wields his staff as if it was a wand.
+
+==References==
+{{Reflist}}
+
+{{Barrows}}
+{{Barrows: Rise of the Six}}
+{{The Temple at Senntisten}}
+{{Ritual of the Mahjarrat}}
+{{Missing, Presumed Death}}
+{{Kindred Spirits}}
+{{Sliske's Endgame}}
+{{2016 Easter event}}
+{{Wights}}
+{{The Fall of Six}}
+{{Characters in Armies of Gielinor}}
+[[pt:Ahrim, o arruinado]]
+[[Category:Participants in the God Wars]]
+[[Category:Wizards]]
+[[Category:Saradominists]]
+[[Category:Sliskeans]]
+[[Category:Bosses]]
+[[Category:Familiar-immune monsters]]
+[[Category:NPCs that can move at running speed]]

@@ -1,0 +1,128 @@
+{{Infobox Monster
+|name = Ghostly warrior
+|image = [[File:Ghostly warrior.png|140px]]
+|release = [[29 July]] [[2008]]
+|update = Spirit of Summer
+|members = Yes
+|options = Attack
+|examine = A spectral warrior with no axe.
+|level = 61
+|lifepoints = 2200
+|experience = 110.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 32.6
+|slayercat = Ghosts
+|assigned_by = turael, mazchna, Vannaka
+|max_melee = 176
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 44
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 710
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 710
+|defence = 44
+|weakness = Earth
+|susceptibility = Salve, Ghost
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 7994
+|leagueRegion=Wilderness}}
+'''Ghostly warriors''' can be accessed after completing the [[Spirit of Summer]] quest. These monsters are a variation of [[ghost]]s, so they count towards such on a [[Slayer]] task. Also, since ghostly warriors are undead, they are affected by the [[salve amulet]] and the [[salve amulet (e)]]. If a player plans to fight them, it is recommended to bring [[High Level Alchemy]] runes, because of their common steel salvage drops, which alchemy for more than the runes are worth. They are also good droppers of [[Cosmic rune|cosmic]], [[Mind rune|mind]], and [[chaos rune]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Spirit Realm]]
+|lvls=61
+|mem=yes
+|requirements = {{AchievementIcon|Spirit of Summer}}
+|mapID=429
+|npcid:7994,x:2782,y:4387|npcid:7994,x:2783,y:4389|npcid:7994,x:2784,y:4388
+|npcid:7994,x:2785,y:4387|npcid:7994,x:2786,y:4387|npcid:7994,x:2786,y:4389
+|npcid:7994,x:2787,y:4388|npcid:7994,x:2788,y:4386|npcid:7994,x:2789,y:4388
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Getting there==
+To access them, the player must have completed the Spirit of Summer quest. In the [[magic axe hut]] in deep [[Wilderness]], the player must wear [[Jennica's ring]] and operate it when standing right next to the portal to be taken to the [[Spirit Realm]], where there will now be ghostly warriors in place of the [[magic axe]]s.
+
+The best way to access the portal is by using [[Lever|Wilderness levers]] in either [[Ardougne]] or [[Edgeville]]. The player will need a [[lockpick]] to access the hut. To leave, the player should just step into the portal and operate the ring again, or run away from the building.
+
+As the Spirit Realm is classed as outside the Wilderness, all methods of teleportation can be used. However, entering the Spirit Realm via the portal is considered a teleport, so players cannot enter if a [[Player killing|PKer]] has [[Teleport Block|teleblocked]] them. It is also recommended that the player brings some food if planning to stay for a long period of time. Bringing extra food may be desirable because the location is in level 55 Wilderness; however, it is a short distance from the Wilderness lever teleport to the portal, although PKer attack is always possible.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Spirit shield|quantity=1|rarity=1/10000}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Mind rune|quantity=10-40|rarity=28/128}}
+{{DropsLine|name=Cosmic rune|quantity=10-20|rarity=15/128}}
+{{DropsLine|name=Chaos rune|quantity=10-20|rarity=15/128}}
+{{DropsLine|name=Soul rune|quantity=1-5|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Small plated steel salvage|quantity=1|rarity=10/128}}
+{{DropsLine|name=Medium plated steel salvage|quantity=1|rarity=10/128}}
+{{DropsLine|name=Huge plated steel salvage|quantity=1|rarity=10/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=20-80|rarity=25/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|10/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineGhosts|ectorarity=750|herbrarity=1024}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Spirit of Summer|date=29 July 2008}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine of the warrior, "A spectral warrior with no axe", implies that their non-spiritual counterparts are [[magic axe]]s.
+* Soon after the release of Spirit of Summer, it was possible to enter the hut without a lockpick; this has since been fixed.
+* Ghostly warriors appear to be a ghostly version of the old [[Varrock guard]]s.
+
+{{Spirit of Summer}}
+{{Ghost}}

@@ -1,0 +1,109 @@
+{{External|os}}
+{{Infobox Monster
+|name = Revenant hellhound
+|image = [[File:Revenant hellhound.png|250px]]
+|release = [[10 December]] [[2007]]
+|update = Wilderness Changes, Bounty Hunter and Clan Wars!
+|members = No
+|actions = Attack
+|examine = The essence of a hellhound slain during the god wars.
+|level = 70
+|lifepoints = 7050
+|experience = 352.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 122.2
+|slayercat = Revenants, Ghosts, Hellhounds, Undead
+|max_melee = 1057
+|max_ranged = 1057
+|max_magic = 1057
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 50
+|ranged = 50
+|magic = 50
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 850
+|acc_ranged = 850
+|acc_magic = 850
+|armour = 850
+|defence = 50
+|weakness = Nothing
+|susceptibility = undead slayer, ghost hunter, revenant bane, salve
+|aff_weakness = 40
+|aff_melee = 40
+|aff_ranged = 40
+|aff_magic = 40
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 13476
+|leagueRegion = Wilderness
+}}
+'''Revenant hellhounds''' are a type of monster, that inhabits the [[Forinthry Dungeon]], along with all other [[revenants]].
+The Forinthry Dungeon is a part of the [[Wilderness]] so it is possible to be attacked by other players here if opted into [[PvP]].
+
+Like all revenants, they can restore lifepoints quickly, can cure themselves of poison and react quickly to a player's protection prayers. When below 50% health, revenant hellhound will "eat" to heal 1175 lifepoints from their limited supply of food. For a full description of the healing mechanic see the [[Revenants#Overview|revenants]] page.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Forinthry Dungeon]]
+|lvls=70
+|mem=no
+|mapID=6
+|npcid:13476,x:3102,y:10165
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+Revenant drops are not affected by [[luck]]. There are only two ways to increase the drop rate of revenant items: completion of the [[elite Wilderness achievements]] which gives a 5% increased chance for revenant drops, and [[revenant drop enhancer]]s, which give a 10% increased chance. Both boosts can be in effect at the same time.
+
+===Main===
+{{Revenant main drops|level=70}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{Revenant tertiary drops|level=70}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/96|altrarity=1/56|raritynotes={{DropNote|1/56 while wearing [[Jennica's ring]].}}}}
+{{DropsLineGhosts|ectorarity=750|herbrarity=1024}}
+{{DropsTableBottom}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=70}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Wilderness Changes, Bounty Hunter and Clan Wars!|date=10 December 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* These revenants can be used for either Ghost or Hellhound Slayer tasks.
+* Revenant hellhounds share the same death sound as [[Revenant werewolf|revenant werewolves]].
+* Despite the fact they are slain [[hellhound]]s from the [[God Wars]], revenant hellhounds have a lower combat level compared to regular and [[God Wars Dungeon]] hellhounds, but hit much higher than them.
+* The examine for a revenant hellhound is slightly different from most other revenants (excluding revenant [[Revenant pyrefiend|pyrefiends]], [[Revenant icefiend|icefiends]], [[Revenant imp|imps]], and [[Revenant demon|demons]]). Its examine says that it is the ''essence'' of an hellhound slain during the God Wars, as opposed to the ''ghost'' of an hellhound slain during the God Wars. These five revenants are similar in that they are all demonic, although hellhounds leave behind [[bones]], not ashes.
+
+==References==
+{{Reflist}}
+
+{{Revenants}}
+{{Ghost}}
+{{Demons}}
+
+[[Category:Participants in the God Wars]]
+[[Category:Zamorakians]]

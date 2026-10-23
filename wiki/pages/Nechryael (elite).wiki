@@ -1,0 +1,156 @@
+{{external|os=Nechryarch}}
+{{Infobox Monster
+|name = Nechryael
+|image = [[File:Nechryael.png|250px]]
+|release = [[27 July]] [[2015]]
+|update = Elite Monster Spawns
+|members = Yes
+|examine = An especially evil death demon.
+|level = 106
+|lifepoints = 32000
+|experience = 1600.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 80
+|slayxp = 1120
+|slayercat = Nechryael
+|assigned_by = Sumona, Lapalok, Kuradal, Morvran
+|max_melee = 828
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = melee
+|primarystyle = ranged
+|speed = 4
+|attack = 84
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1650
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 2400
+|defence = 69
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania,Wilderness
+|id = 21501
+}}
+A '''Nechryael (elite)''' is an [[elite monster|elite version]] of the [[nechryael]]. If on a [[Slayer assignment]], an elite Nechryael is guaranteed to spawn; otherwise, elite monsters have a spawn rate of 1 in 1,000. Elite spawn rates can be further increased with the use of [[fellstalk incense stick]]s and tier 2 [[luck]]. 
+
+==Names==
+The elite versions have varying names, with a randomly generated prefix and suffix.
+{{Elite names|name=Nechryael}}
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Slayer Tower]] {{FloorNumber|3}}
+|lvls=96
+|mem=yes
+|mapID=28|plane=2
+|npcid:1613,x:3402,y:3567|npcid:1613,x:3403,y:3571|npcid:1613,x:3407,y:3569
+|npcid:1613,x:3409,y:3574|npcid:1613,x:3410,y:3563|npcid:1613,x:3410,y:3571
+|leagueRegion = Morytania}}
+{{LocLine
+|loc=[[Slayer Tower]] {{FloorNumber|4}}
+|lvls=96
+|mem=yes
+|requirements = {{Skillreq|Agility|71}}
+|mapID=28|plane=3
+|npcid:1613,x:3402,y:3560|npcid:1613,x:3404,y:3567|npcid:1613,x:3404,y:3573
+|npcid:1613,x:3408,y:3563|npcid:1613,x:3409,y:3571
+|leagueRegion = Morytania}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=96
+|mem=yes
+|mapID=23
+|npcid:1613,x:3165,y:5557|npcid:1613,x:3167,y:5554|npcid:1613,x:3168,y:5557
+|npcid:1613,x:3171,y:5558|npcid:1613,x:3171,y:5561|npcid:1613,x:3173,y:5556
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Infernal ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Chaos rune|quantity=50|rarity=10/72|rolls=3}}
+{{DropsLine|name=Death rune|quantity=50|rarity=20/72|rolls=3}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|18/72}}
+{{DropsTableHead}}
+{{RareSeedDropTable|18/72|rolls=3}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=9/72|rolls=3}}
+{{DropsLine|name=Medium plated rune salvage|quantity=1|rarity=5/72|rolls=3}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/96|rolls=3|raritynotes={{DropNote|Rolls separately, first.}}|gemw=no}}
+{{DropsLine|name=Coins|quantity=5000|rarity=5/72|rolls=3}}
+{{DropsTableBottom}}
+
+===Gem and Rare drop table===
+{{GemDropTable|5/72|rdt=1/100|rolls=3}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-14|rarity=1/10}}
+{{DropsLineEffigy|level=106|rolls = 3}}
+{{DropsLineSpiritGems|rolls = 3}}
+{{DropsLineMimic|level=106|rolls = 3}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|rolls = 3
+|gold = 85.1/1000
+|green = 42.55/1000
+|crimson = 297.85/1000
+|blue = 8.51/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (3 August 2015)|date=3 August 2015}} 
+** Nechryael no longer appear slightly before they play their spawn animation.
+
+* {{UL|type=update|update=Elite Monster Spawns|date=27 July 2015}}
+** Added to game.
+}}
+
+{{Elite monster}}
+{{Slayer monsters}}
+{{Demons}}
+{{Slayer Tower}}

@@ -1,0 +1,84 @@
+{{External|os|rsc=Viyeldi}}
+{{Infobox Monster
+|name = Viyeldi
+|image = [[File:Viyeldi.png|200px]]
+|release = [[20 August]] [[2003]]
+|update = New - Legends Quest!
+|level = 70
+|experience = 
+|lifepoints = 3750
+|members = Yes
+|leagueRegion = Karamja
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Skeletons, Undead
+|immune_to_poison = No
+|immune_to_stun = 
+|immune_to_deflect = No
+|immune_to_drain = No
+|style = magic
+|speed = 4
+|max_melee = 225
+|max_ranged = 0
+|max_magic = 300
+|max_spec = 0
+|weakness = Thrown
+|actions = Attack, Talk-to	
+|examine = The spirit of a long-dead wizard.
+|armour = 850
+|acc_melee = 375
+|acc_ranged = 0
+|acc_magic = 850
+|aff_weakness = 90
+|aff_melee = 45
+|aff_ranged = 65
+|aff_magic = 55
+|restriction = quest
+|id = 935
+}}
+[[File:Viyeldi chathead.png|left|110px]]
+'''Viyeldi''' is a spirit of a sorcerer who guards the [[Viyeldi caves]]. He was the first person to die while searching for the source of the pure spring water in the [[Kharazi jungle]], and thus was cursed to act as its guardian. He controls the spirits of the three heroes who later died while searching for the source - [[San Tojalon]], [[Irvig Senay]] and [[Ranalph Devere]], and ensures that they protect the caves.
+
+He is encountered during the [[Legends' Quest]], when [[Nezikchened]] disguised as [[Echned Zekin]] asks you to kill him. When you first enter his room, Viyeldi pretends to be a [[Blue hat (Legends' Quest)|hat]] on the ground until picked up. Upon beginning a conversation with him, he informs you how to get to the source of the holy water spring, by killing the warriors for the fragments of the [[Heart crystal]] to progress.
+
+Later in the quest, [[Echned Zekin]] requests that players kill Viyeldi using a [[dark dagger]], claiming that he is an evil wizard who is tormenting him. If you choose to kill Viyeldi, while it is quicker, it results in a more difficult final fight, as you will have to defeat the three warriors San Tojalon, Irvig Senay, and Ranalph Devere alongside Nezikchened in the fight, as they are no longer under his control. You can avoid this if you listen to Viyeldi and give the dagger to [[Ungadulu]] instead. Ungadulu will also give you a [[Holy force]] card to use against Nezikchened and weaken him in the next two fights. If you do kill Viyeldi with the dagger, you may still give the charged dagger to Ungadulu to receive the Holy Force card. Just remember that this route results in the three warriors appearing in the final battle.
+
+==Dialogue==
+{{speaksin}}
+
+==Graphical updates==
+===NPC=== 
+{{GU|subject=npc
+|{{GUL|beta=yes|img=Viyeldi (RS2 beta).png|name=Viyeldi}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Viyeldi (2004).png|name=Viyeldi}}
+|{{GUL|date=|update=|img=Viyeldi.png|name=Viyeldi}}
+}}
+===Chathead=== 
+{{GU|subject=chatheads
+|{{GUL|beta=yes|img=Viyeldi chathead (RS2 beta).png|name=Viyeldi}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Viyeldi chathead (2004).png|name=Viyeldi}}
+|{{GUL|date=|update=|img=Viyeldi chathead old.png|name=Viyeldi}}
+|{{GUL|date=|update=|img=Viyeldi chathead.png|name=Viyeldi}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (13 May 2010)|date=13 May 2010}}
+** Viyeldi's staff is now held at the correct position.
+
+* {{UL|type=update|update=New - Legends Quest!|date=20 August 2003}}
+** Added to game.
+}}
+
+==Trivia==
+*It was possible, up to approximately 2005, to [[telegrab]] Viyeldi's hat. Dropping and picking it up caused the player to [[Teleportation|teleport]] back to the Viyeldi's cave (starting an animation sequence), even if the player was in the [[wilderness]] or the [[Duel Arena]]. Jagex fixed this problem approximately 2 weeks after it was discovered, resulting in the first un-telegrabable item.
+
+{{Legends' Quest}}
+{{Skeleton}}
+[[Category:Conditional status characters]]
+[[Category:Quest monsters]]

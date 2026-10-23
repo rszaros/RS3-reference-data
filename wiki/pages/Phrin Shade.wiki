@@ -1,0 +1,116 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Shade
+|version2 = Shadow
+|name1 = Phrin Shade
+|name2 = Phrin Shadow
+|image1 = [[File:Phrin Shade.png|120px]]
+|image2 = [[File:Phrin Shadow.png|200px]]
+|release = [[18 October]] [[2004]]
+|update = Mortton Shades and Mage Armour
+|level = 67
+|experience = 227.7
+|lifepoints = 4800
+|slaylvl = 1
+|slayxp = 78
+|slayercat = Shades, Ghosts, Undead
+|assigned_by = Mazchna
+|members = Yes
+|aggressive = Yes
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style = melee
+|primarystyle1 = melee
+|primarystyle2 = 
+|speed = 4
+|max_melee = 416
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|weakness = Water
+|susceptibility = Salve, Gadderhammer, Ghost
+|options = Attack
+|examine1 = The shadowy remains of a long departed soul.
+|examine2 = A shadowy sort of entity, kind of creepy looking.
+|attack = 48
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|defence = 48
+|armour = 801
+|acc_melee = 801
+|acc_ranged = 0
+|acc_magic = 801
+|acc_necromancy = 0
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|restriction = minigame
+|leagueRegion = Morytania
+|id1 = 1244
+|id2 = 1243
+}}
+'''Phrin Shades''' lurk behind the first door of the [[Shade Catacombs]] in [[Mort'ton]]. They initially appear as dark moving shadows, known as '''Phrin Shadows''', on the ground and then rise from the depths to attack or retaliate. Their remains can be cremated with any [[pyre logs]]. The [[salve amulet]] and [[salve amulet (e)]] work well on this shade, which is very useful if shades are assigned for a [[Slayer assignment]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Shade Catacombs]]
+|lvls=67
+|mem=yes
+|requirements = {{AchievementIcon|Shades of Mort'ton}} and any {{Ilink|shade key|pic=Bronze key crimson}}
+|mapID=41
+|npcid:1243,x:3469,y:9701|npcid:1243,x:3474,y:9698|npcid:1243,x:3481,y:9700
+|npcid:1243,x:3485,y:9697|npcid:1243,x:3486,y:9700|npcid:1243,x:3491,y:9700
+|npcid:1243,x:3494,y:9698|npcid:1243,x:3499,y:9698|npcid:1243,x:3499,y:9699
+|npcid:1243,x:3502,y:9699|npcid:1243,x:3508,y:9701|npcid:1243,x:3512,y:9697
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Phrin remains|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-11|rarity=1/20}}
+{{DropsLineGhosts|ectorarity=1000|herbrarity=1024}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (13 May 2013)|date=13 May 2013}}
+** Two lines of text concerning burning shades have been added to the [[game filter]].
+
+* {{UL|type=update|update=Mortton Shades and Mage Armour|date=18 October 2004}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Shades of Mort'ton (minigame)}}
+{{Mort'ton}}
+{{Ghost}}

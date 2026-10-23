@@ -1,0 +1,165 @@
+{{External|os}}
+{{Redirect3|Bug swarm|For the discontinued random event, see [[Swarm (insects)]]}}
+{{Otheruses|def=no|the elite version|Harpie Bug Swarm (elite)}}
+{{Infobox Monster
+|name = Harpie Bug Swarm
+|image = [[File:Harpie Bugs Swarm.png|100px]]
+|release = [[30 January]] [[2006]]
+|update = Runesquares, Harpie Bugs and new potato recipes!
+|members = Yes
+|options = Attack
+|examine = A swarm of bugs.
+|level = 63
+|lifepoints = 2250
+|experience = 112.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 33
+|slayxp = 34
+|slayercat = Harpie bug swarms
+|assigned_by = Chaeldar
+|max_melee = 0
+|max_ranged = 180
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 45
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 732
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 3153
+|leagueRegion = Karamja
+}}
+[[File:Harpie Bug Swarm icon.png|left]]
+'''Harpie Bug Swarms''' are insectoid monsters that require level 33 [[Slayer]] to kill. They can only be damaged while a [[lit bug lantern]] is worn, which requires level 33 [[Firemaking]] to light. When killing harpie bug swarms, an [[Harpie Bug Swarm (elite)|elite]] version may spawn (guaranteed while on a [[Slayer assignment]]), which can be further increased with the use of [[fellstalk incense sticks]].
+
+[[Player character|Players]] kill harpie bug swarms as a source of [[Clue scroll (medium)|medium clue scrolls]] and they have low [[defence]].
+
+They're found east of the [[Pothole Dungeon]]. Since Harpie Bug Swarms are located close to the [[Karamja]] [[Jiminua's Jungle Store|general store]], it is possible to buy food there as well as sell drops. However, if one wishes to use a bank, there is one in the [[TzHaar City]], found beneath the [[Karamja Volcano]], and the route is made shorter with the [[mithril grapple]] shortcut (53 [[Agility]], 42 [[Ranged]] and 21 [[Strength]] required) on a peninsula just east of the cliff. Players who do not or cannot use the shortcut can also bank in [[Shilo Village (location)|Shilo Village]] after completion of the [[Shilo Village]] quest. Also, [[Rionasta]] in [[Tai Bwo Wannai]] Village can send items to the bank for 10 [[trading sticks]] per item, although he cannot take items out of the bank. The bank in [[Zanaris]] is also close for players who can access fairy rings {{fairycode|DKP}} as the bank is just north-west of the main fairy ring in Zanaris.
+
+Players can still be assigned harpie bug swarms as [[Slayer assignment]]s, even if they do not have the 33 [[Firemaking]] level required to light an [[unlit bug lantern]]. Players cannot use assistance from other players to light an unlit bug lantern, therefore 33 Firemaking is a necessary requirement to enable players to kill harpie bug swarms.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=North [[Karamja]]
+|lvls=63
+|mem=yes
+|mapID=28
+|npcid:3153,x:2854,y:3106|npcid:3153,x:2859,y:3106|npcid:3153,x:2863,y:3109
+|npcid:3153,x:2863,y:3115|npcid:3153,x:2867,y:3105|npcid:3153,x:2870,y:3112
+|npcid:3153,x:2872,y:3117|npcid:3153,x:2873,y:3108|npcid:3153,x:2878,y:3114
+|npcid:3153,x:2880,y:3112|npcid:3153,x:2882,y:3115|npcid:3153,x:2886,y:3116
+|npcid:3153,x:2889,y:3113
+|leagueRegion = Karamja}}
+{{LocTableBottom}}
+
+==Strengths and weaknesses==
+Harpie bug swarms use rapid [[Ranged]] attacks and do quite a bit of damage for their combat level. If a [[lit bug lantern]] is not equipped, any attacks on them will not hit. They are weakest to crush attacks. Due to their weakness to crush and quick range attacks, it is recommended to equip good melee armour and a [[dragon mace]] as its special attacks can deal massive damage on them.
+
+Alternatively, players can use [[Magic]] or [[Ranged]] on harpie bug swarms from the eastern side of the stream at the eastern end of their habitat to avoid taking any damage from them, although this does mean expenditure in terms of [[runes]] or ammo for ranged weapons, and using magic is not recommended due to their natural resistance to magical attacks. [[Ava's device]] does not work across the stream to retrieve [[bolts]].
+
+Another place to mage or range them is north of the brown ridge. They will not come too far in between it and the sea.
+
+A [[dwarf multicannon]] can be used to take down multiple swarms easily.
+
+Another viable strategy, for those that have finished the [[Tai Bwo Wannai Trio]] quest, is to use [[Protect from Ranged]] prayer and refill prayer points at the [[Tribal Statue]] in the village, a short run away.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Staff of fire|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Death rune|quantity=3|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny bladed steel salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Tiny plated steel salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small plated steel salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=30|rarity=13/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=40|rarity=45/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=160|rarity=20/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=230|rarity=18/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=490|rarity=2/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=8/128}}
+{{DropsLine|name=Jug of wine|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|3/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128}}
+{{DropsLineEffigy|level=63}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=63}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 14.93/1000
+|green = 59.719/1000
+|crimson = 3.732/1000
+|blue = 0.746/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Rune Value Improvements|date=15 September 2014}}
+** Many monster types have had their rune drop rates reduced or removed, in order to increase the value of altar runecrafting.
+*** Harpie Bug Swarms have had their [[Fire rune|fire]] and [[chaos rune]] drops removed. To compensate, the [[coins]] drop rate has been increased.
+
+* {{UL|type=update|update=Runesquares, Harpie Bugs and new potato recipes!|date=30 January 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* During the [[25 October]] [[2011]] triple Slayer experience event, these monsters did not give triple Slayer experience, unlike all other tasks.
+
+{{Slayer monsters}}
+[[Category:Karamja]]

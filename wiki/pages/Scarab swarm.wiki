@@ -1,0 +1,97 @@
+{{External|os=Scarab Swarm}}
+{{confuse|Scarabs}}
+{{Infobox Monster
+|name = Scarab swarm
+|image = [[File:Scarab swarm.png|90px]]
+|release = [[26 April]] [[2005]]
+|update = Desert Month Finale
+|members = Yes
+|options = Attack
+|examine = I think they're some kind of beetle.
+|level = 12
+|lifepoints = 900
+|aggressive = Yes
+|poisonous = 38
+|slaylvl = 1
+|slayxp = 37.5
+|slayercat = Scabarites
+|max_melee = 45
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 9
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 191
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 191
+|defence = 9
+|weakness = Air
+|susceptibility = Keris
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 2001
+|leagueRegion=Desert}}
+'''Scarab swarms''' are low levelled bug swarms that can poison, up to about 44 life points. They do not spawn on their own, and will only appear when a player fulfils certain conditions such as triggering a trap. They can also be summoned by a [[scabaras mage]] that is attacking a player. They will despawn shortly after leaving combat.
+
+During [[Contact!]], three swarms appear from the ground and unite to become a [[giant scarab]]. After it has been defeated, they split again and disappear.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Sophanem Dungeon]]
+|lvls=12
+|mem=yes
+|mapID = 
+|leagueRegion = Desert
+}}
+{{LocLine
+|loc=[[Klenter's Pyramid]]
+|lvls=12
+|mem=yes
+|mapID = 
+|leagueRegion = Desert
+}}
+{{LocLine
+|loc=[[Scabaras Dungeon]]
+|lvls=12
+|mem=yes
+|leagueRegion = Desert
+}}
+{{LocTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (8 April 2019)|date=8 April 2019}}
+** Scarab Swarms can no longer spawn outside the Pyramid.
+
+* {{UL|type=patch|update=Patch Notes (1 February 2010)|date=1 February 2010}}
+** Small scarabs have been given a death animation again.
+
+* {{UL|type=update|update=Desert Month Finale|date=26 April 2005}}
+** Added to game.
+}}
+
+{{Desert Treasure}}
+{{Contact!}}
+[[pt:Enxame de escaravelhos]]

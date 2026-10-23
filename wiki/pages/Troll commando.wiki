@@ -1,0 +1,105 @@
+{{Deleted content}}
+{{Infobox Monster
+|name = Troll commando
+|image = [[File:Troll commando.png|150px]]
+|release = [[31 January]] [[2012]]
+|update = Troll Warzone
+|members = No
+|examine = Shh! He's sneakin'.
+|level = 5
+|lifepoints = 200
+|experience = 30.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6.8
+|slayercat = Trolls
+|assigned_by = Turael, Chaeldar, Sumona
+|max_melee = 16
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 4
+|acc_melee = 140
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 140
+|defence = 4
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_drain = No
+|restriction = removed
+|id = 14926
+|leagueRegion = No
+}}
+A '''Troll commando''' was a type of troll wandering around [[Burthorpe]] and [[Taverley]]. It used melee and appeared to be disguised as or wearing a wolf skin. It was smaller than most human NPCs and was sometimes found with the [[Troll ranger commando]] and [[Troll mage commando]]. It droped the [[Bladestorm drape]]. They were often seen fighting with [[Patrolling Guards]].
+
+They were replaced with [[White wolf (Burthorpe)|White wolves]], which have the same stats and drops.
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Troll commando}}
+
+===Armour/Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated bronze salvage|quantity=1|rarity=Common}}
+{{DropsLine|name=Staff of air|quantity=1|rarity=Common}}
+{{DropsLine|name=Medium spiky bronze salvage|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Bladestorm drape|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Keenblade|quantity=1|rarity=Rare|gemw=no|altvalue=150}}
+{{DropsLine|name=Medium bladed bronze salvage|quantity=1|rarity=}}
+{{DropsLine|name=Mindspike (air)|quantity=1|rarity=|gemw=no}}
+{{DropsTableBottom}}
+
+===Food===
+{{DropsTableHead}}
+{{DropsLine|name=Cooked meat|quantity=1|rarity=Common}}
+{{DropsLine|name=Bread|quantity=1|rarity=Common}}
+{{DropsLine|name=Crayfish|quantity=1|rarity=Common}}
+{{DropsLine|name=Baked potato|quantity=1|rarity=Common}}
+{{DropsLine|name=Poorly-cooked bird meat|quantity=1|rarity=Common}}
+{{DropsLine|name=Poorly-cooked beast meat|quantity=1|rarity=Common}}
+{{DropsLine|name=Cooked chicken|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Cooked rabbit|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Rabbit sandwich|quantity=1|rarity=Uncommon}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1-5|rarity=Common}}
+{{DropsLine|name=Raw potato|quantity=1|rarity=Common}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity=Common}}
+{{DropsLine|name=Cowhide|quantity=1|rarity=Uncommon}}
+{{DropsLineSpiritGems}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Troll Warzone|date=31 January 2012}}
+** Added to game.
+}}
+
+==Trivia==
+*As with other troll commandos, Trolls in the minigame, Troll Warzone and native trolls are even stronger than them. They also seem to lose a fight against a Patrolling guard.
+
+{{trolls}}
+[[Category:Troll Warzone]]
+[[Category:Bandosians]]

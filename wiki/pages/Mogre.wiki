@@ -1,0 +1,182 @@
+{{External|os}}
+{{Infobox Monster
+|name = Mogre
+|image = [[File:Mogre.png|185px]]
+|release = [[24 October]] [[2005]]
+|update = Mogres, Lizards, Pet Fish, Potions and Potatoes!
+|members = Yes
+|options = Attack, Examine
+|race = Mogre
+|examine = An angry Ogre in a funny hat.
+|level = 45
+|lifepoints = 6300
+|experience = 315.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 32
+|slayxp = 27
+|slayercat = Mogres, Ogres
+|assigned_by = Vannaka, Mazchna
+|max_melee = 625
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 25
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 281
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 609
+|defence = 39
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 114
+|leagueRegion=Asgarnia}} 
+[[File:Mogre icon.png|left]]
+'''Mogres''' are [[Slayer]] monsters that require completion of the [[Mogre (lore activity)|mogre lore activity]] and a Slayer level of 32 to kill. They reside in the waters of [[Mudskipper Point]] and must be lured out of the [[Ominous Fishing Spot|ominous fishing spots]] using [[fishing explosive]]s, their [[explosive shaker|shaker version]], [[super fishing explosive]]s or their [[super explosive shaker|shaker version]] (the latter two can be made after completing [[Kennith's Concerns]]).
+
+Mogres are often killed by players searching for their unique drops of [[flippers]] and [[mudskipper hat]]s.
+
+Mogres hit quite hard for their level; for lower-levelled players, there are numerous [[safe spot]]s around Mudskipper Point to attack the mogres at range with little risk. Mogres drop logs and raw fish fairly often, presenting opportunities for extra healing without needing to [[bank]]; including with the use of the [[Bunyip]]'s [[Swallow Whole]] ability.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Mudskipper Point]], south of [[Port Sarim]] (Fairy ring: {{Fairycode|AIQ}})
+|lvls = 45
+|mem = yes
+|requirements = [[Mogre (lore activity)|Mogre lore activity]]
+|x:3005,y:3117|x:2982,y:3113|x:2996,y:3106
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Water rune|quantity=5-15|rarity=10/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{AllotmentSeedDropTableIntro|13/128}}
+{{UncommonSeedDropTableIntro|15/128}}
+
+{{DropsTableHead}}
+{{AllotmentSeedDropTable|13/128}}
+{{UncommonSeedDropTable|15/128}}
+{{DropsTableBottom}}
+
+===Fish===
+{{DropsTableHead}}
+{{DropsLine|name=Raw swordfish|quantity=1|rarity=20/128}}
+{{DropsLine|name=Raw swordfish|quantity=2-3 (noted)|rarity=10/128}}
+{{DropsLine|name=Raw tuna|quantity=1|rarity=9/128}}
+{{DropsLine|name=Raw tuna|quantity=2-3 (noted)|rarity=5/128}}
+{{DropsLine|name=Raw herring|quantity=1|rarity=8/128}}
+{{DropsLine|name=Raw sardine|quantity=1|rarity=9/128}}
+{{DropsLine|name=Raw shark|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Fishing bait|quantity=15|rarity=2/128}}
+{{DropsLine|name=Mudskipper hat|quantity=1|rarity=4/128|gemw=No}}
+{{DropsLine|name=Oyster|quantity=1|rarity=3/128}}
+{{DropsLine|name=Flippers|quantity=1|rarity=2/128|gemw=No}}
+{{DropsLine|name=Seaweed|quantity=4-8 (noted)|rarity=2/128}}
+{{DropsLine|name=Staff of water|quantity=1|rarity=1/128}}
+{{DropsLine|name=Fishbowl (water)|quantity=1|rarity=1/128|gemw=No}}
+{{DropsLine|name=Logs|quantity=1|rarity=7/128}}
+{{DropsLine|name=Fishing explosive|quantity=2-6|rarity=3/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Mogre bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during [[Rag and Bone Man/Wish list]].}}|gemw=No}}
+{{DropsLine|name=Necromancer's flippers|quantity=1|rarity=1/5|raritynotes={{DropNote|Only dropped during [[Kili's Knowledge III]].}}|gemw=No}}
+{{DropsLine|name=Crunchy claw token|quantity=1|rarity=6/150|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsTableBottom}}
+
+==History==
+The mogres are most likely descendants of [[Bandos]]' army, which he used during the [[God Wars]]. As the [[jogres]] were [[ogre]]s bred in tropical areas, it is likely that the mogres were bred underwater, or modified to be able to breathe underwater. It is possible that their sub-race was created to fight some underwater enemy of Bandos.
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}} 
+** [[Crunchy claw token]], [[Mudskipper hat]], and [[flippers]] drops
+* '''[[Falador achievements]]'''
+** ''[[Falador achievements#Hard|Hard]]'' - {{Achievement|The Mogre Mash}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Ogre concept art.png|Concept art of a Mogre, with various other ogre variants
+</gallery>
+
+==Transcript==
+{{Hastranscript|npc}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[24 October]] [[2005]]|update=Mogres, Lizards, Pet Fish, Potions and Potatoes!|img=Mogre (2005).png|name=Mogre}}
+|{{GUL|date=[[17 March]] [[2009]]|update=The Chosen Commander|img=Mogre.png|name=Mogre}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Patch Notes (26 June 2017)|date=26 June 2017}}
+** Mogres will no longer instantly despawn in your [[Sunken Pyramid|player-owned slayer dungeon]].
+
+* {{UL|type=patch|update=Patch Notes (9 November 2009)|date=9 November 2009}}
+** Updated various mogre animations.
+
+* {{UL|type=patch|update=Patch Notes (20 January 2009)|date=20 January 2009}}
+** The mogre [[Fishing spot]]'s clickable area has been increased as it was a bit smaller than we'd like.
+
+* {{UL|type=update|update=Mogres, Lizards, Pet Fish, Potions and Potatoes!|date=24 October 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Mogre is a portmanteau of marine and ogre.
+* Mogres, and all other types of [[ogre]], received a graphical rework on [[17 March]] [[2009]], with the release of [[The Chosen Commander]] quest.
+* Mogres have various sayings when they come out of the water, including "Da boom-boom kill all da fishies!", "I smack you good!", "Smash stupid human!", "Tasty human!", "Human hit me on the head!", "I get you!", "Human scare all da fishies!", and a few others.
+* If players stand too close the [[Ominous Fishing Spot|ominous fishing spot]] while trying to lure a mogre out, they'll receive an interface showing, "If this thing explodes, I think I should stand a liiiiitle further away...".
+* Until an unknown update, [[Conjuration|conjured spirits]] will immediately expire when a player spawns a mogre.
+
+{{Mogre (lore activity)}}
+{{Ogres}}
+{{Slayer monsters}}
+[[Category:Bandosians]]

@@ -1,0 +1,207 @@
+{{external|os}}
+{{Infobox Monster
+|version1 = Immune
+|version2 = Vulnerable
+|name = Warped tortoise
+|image1 = Warped tortoise.png
+|image2 = Warped tortoise (vulnerable).png
+|release = [[3 September]] [[2007]]
+|update = The Path of Glouphrie
+|members = Yes
+|options = Attack
+|examine = You don't think you can harm this creature.
+|examine2 = This tortoise looks a little more vulnerable now.
+|level = 72
+|lifepoints = 5200
+|experience = 260.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 56
+|slayxp = 95
+|slayercat = Warped tortoises
+|max_melee = 156
+|max_ranged = 0
+|max_magic = 208
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 39
+|ranged = 0
+|magic = 52
+|acc_melee = 609
+|acc_ranged = 0
+|acc_magic = 901
+|armour = 901
+|defence = 52
+|weakness = Bolts
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 6296
+|id2 = 6297
+|leagueRegion=Tirannwn}}
+[[File:Warped tortoise icon.png|left]]
+'''Warped tortoises''' are [[Slayer monsters]] which require level 56 [[Slayer]] to damage. They can be found in the [[Poison Waste Slayer Dungeon]] during the quest [[The Path of Glouphrie]] and can be fought there during and after the quest. Players must have the [[crystal chime]] in their backpack to fight them.
+
+The dungeon may be reached by using [[spirit tree]]s. Using [[fairy ring]] {{fairycode|BKP}} or by walking from [[Castle Wars]] will take players to an area with a grapple crossing requiring any [[Crossbows|crossbow]] and a [[mithril grapple]] to cross the river to the dungeon. Additionally, players who have completed the [[medium Tirannwn achievements]] can use the [[Tirannwn quiver 2]] teleport to the [[Poison Waste Slayer Dungeon]] to arrive within the first room of the dungeon.
+
+Players cannot receive the [[Warped tortoises (Slayer assignment)|Slayer assignment for warped tortoises]] unless they have completed the quest.
+
+The tortoises are known for their higher drop rate of [[tortoise shell|normal]] and [[perfect shell]]s over their uncorrupted counterparts, the former used for [[war tortoise pouch]]es and the latter to given to [[Barlak]] for coins and small [[Crafting]] experience.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Poison Waste Slayer Dungeon]]
+|lvls=72
+|mem=yes
+|mapID=200
+|npcid:6296,x:2039,y:4178
+|npcid:6296,x:1996,y:4169
+|npcid:6296,x:1996,y:4176
+|npcid:6296,x:2000,y:4198
+|npcid:6296,x:2002,y:4188
+|npcid:6296,x:2011,y:4188
+|npcid:6296,x:2015,y:4199
+|npcid:6296,x:2017,y:4168
+|npcid:6296,x:2018,y:4216
+|npcid:6296,x:2021,y:4165
+|npcid:6296,x:2026,y:4189
+|npcid:6296,x:2031,y:4198
+|npcid:6296,x:2006,y:4259
+|npcid:6296,x:2011,y:4254
+|leagueRegion = Tirannwn
+}}
+{{LocTableBottom}}
+
+==Strategy==
+{{cquote2|The last Warped tortoise I killed I found a crossbow with bolts took them down effectively.
+
+Warped tortoises are creatures tainted by magical waste. They are vulnerable to an elven chime.|[[Chaeldar]]}}
+
+Warped tortoises are completely immune to any attack, unless players have a [[crystal chime]] in their inventory or on their [[tool belt]]. They mainly attack with [[magic]], which can deal moderate damage. They are weak against [[ranged]], particularly crossbows. A [[dragon crossbow]] or better is sufficient.
+
+There are relatively few areas where these foes may be killed without any interference from nearby level 82 [[warped terrorbird]]s, which are aggressive and attack with ranged and melee. One is at the entrance, where there are two quick tortoise spawns. A second is at the end of dungeon where there is a room with two warped tortoises alone. This could prove useful for those on a [[Slayer]] task, particularly if players have 96 [[Summoning]] for a [[Pack yak]].
+
+Warped tortoises are unaffected by [[aggression potion]]s and must be clicked to cleanse and attack.
+
+==Drops==
+{{DropLogProject|kills=13748}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Shells===
+{{DropsTableHead}}
+{{DropsLine|name=Tortoise shell|quantity=1-3|quantitynotes={{DropNote|5% chance to be noted if a [[Tirannwn quiver]] is equipped}}|rarity=10/128}}
+{{DropsLine|name=Perfect shell|quantity=1-3|rarity=2/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium blunt mithril salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny bladed adamant salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Huge plated mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium spiky rune salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium blunt rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril stone spirit|quantity=3-6|rarity=12/128}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=9/128}}
+{{DropsLine|name=Coal stone spirit|quantity=6-14|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=30-180|rarity=45/128|gemw=No}}
+{{DropsLine|name=Swamp tar|quantity=10-32|rarity=12/128}}
+{{DropsLine|name=Law rune|quantity=3-6|rarity=6/128}}
+{{DropsLine|name=Tangled toads' legs|quantity=1-3|rarity=5/128}}
+{{DropsLine|name=Cabbage|quantity=2-52 (noted)|rarity=3/128}}
+{{DropsLine|name=Law talisman|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Humerus bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=No}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5000}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsLine|name=Rare drop table|quantity=1|rarity=Rare}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDropTable|quantity=1|gold=80.621/1000|green=40.311/1000|crimson=26.874/1000|blue=32.248/1000}}
+
+==Money making guide==
+{{Mmgsection|Killing warped tortoises}}
+
+==Achievements==
+* {{Achievement|La Petite Mort}} 
+** [[Tortoise shell|Regular]] and [[Perfect shell|perfect]] tortoise shell drops
+
+==Graphical updates==
+{{Switch infobox
+|text1=Immune
+|item1=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped tortoise (2007).png|name=Warped tortoise}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped tortoise.png|name=Warped tortoise}}
+}}
+|text2=Vulnerable
+|item2=
+{{GU|subject=NPCs
+|{{GUL|date=[[3 September]] [[2007]]|update=The Path of Glouphrie|img=Warped tortoise (vulnerable) (2007).png|name=Warped tortoise}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Warped tortoise (vulnerable).png|name=Warped tortoise}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (4 November 2019)|date=4 November 2019}}
+** Lessened the harshness of [[warped terrorbird]] and tortoise in the [[Poison Waste Slayer Dungeon|poison waste dungeon]] as well as toned down the chime sound a little.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for Warped tortoises.
+
+* {{UL|type=patch|update=Patch Notes (29 July 2013)|date=29 July 2013}} 
+** Discontinued [[weapon poison]]s are now untradeable, and Warped Tortoises & [[warped terrorbird|Terrorbirds]] no longer drop them.
+
+* {{UL|type=update|update=The Path of Glouphrie|date=3 September 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* At one time it was possible to heal using [[Guthan's set]] even when the tortoises were not made vulnerable by the crystal chimes. This was because at one point Guthan's set counted potential damage inflicted on foes even when actual damage was not possible due to prayer or other invulnerability. An update on [[9 June]] [[2009]] fixed this bug.
+* Warped tortoises were originally the highest leveled monsters to drop [[cabbage]]s, with the record being broken with the release of the [[cabbagemancer]] on [[26 February]] [[2018]].
+* There seems to be a glitch where warped tortoises are immune to stuns; if stunned with [[Impact]] they will be unaffected, while if [[Asphyxiate]] is used the first hit will not stun while the remaining hits will.
+* As of [[1 February]] [[2018]], the highest kill count for these monsters was 60,811 kills.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=http://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+** This had not increased by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=http://archive.is/Fxc11|archivedate=28 February 2020|notes=|name=}}
+
+==References==
+{{Reflist}}
+
+{{The Path of Glouphrie}}
+{{Slayer monsters}}

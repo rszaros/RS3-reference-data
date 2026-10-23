@@ -1,0 +1,305 @@
+{{External|os|rsc=Blue Dragon|dw=Blue Dragon}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|name = Blue dragon
+|image1 = [[File:Blue dragon.png]]
+|image2 = [[File:Blue dragon (2).png]]
+|image3 = [[File:Blue dragon (3).png]]
+|image4 = [[File:Blue dragon (4).png]]
+|image5 = [[File:Blue dragon (5).png]]
+|release1 = [[27 February]] [[2002]]
+|release2 = [[29 August]] [[2006]]
+|release3 = [[29 August]] [[2006]]
+|release4 = [[29 August]] [[2006]]
+|release5 = [[29 August]] [[2006]]
+|update1 = Latest RuneScape News (27 February 2002)
+|update2 = Demons, Dragons and Giants
+|update3 = Demons, Dragons and Giants
+|update4 = Demons, Dragons and Giants
+|update5 = Demons, Dragons and Giants
+|members = No
+|options = Attack, Examine
+|size = 4
+|examine = A mother dragon.
+|level = 74
+|lifepoints = 5000
+|slaylvl = 1
+|slayxp = 93.8
+|experience = 250.0
+|aggressive = no
+|poisonous = no
+|slayercat = Blue dragons, dragons
+|max_melee = 349
+|max_ranged = n/a
+|max_magic = 349
+|max_necromancy = 0
+|max_spec = n/a
+|style = magic,dragonfire,melee
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 53
+|necromancy = 1
+|acc_melee = 928
+|acc_ranged = 0
+|acc_magic = 928
+|acc_necromancy = 0
+|armour = 928
+|defence = 53
+|weakness = bolt
+|susceptibility = dragon bane, dragon slayer
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = no
+|immune_to_deflect = no
+|immune_to_stun = no
+|immune_to_drain = no
+|leagueRegion = Asgarnia,Kandarin,Wilderness
+|id1 = 55
+|id2 = 4684
+|id3 = 4684
+|id4 = 4684
+|id5 = 4684
+}}
+[[File:Blue dragon icon.png|left]]
+'''Blue dragons''' are the second weakest of the [[chromatic dragons]] but are still fairly powerful magic-class monsters. They primarily attack with [[magic]], by shooting a [[Fire Bolt]] spell at the player, as well as both close-range and long-distance dragon breath. [[Dragonfire#Protection|Protection against dragonfire]] is advisable, as they can hit well over 1,000 with their breath otherwise ([[Resonance]] does work against their breath). They also use [[melee]] if the player is standing next to them. They are a very popular monster to kill because the [[blue dragonhide]] and [[dragon bone]]s that they drop may be sold for a combined value of {{NoCoins|{{GEP|Blue dragonhide}}+{{GEP|Dragon bones}}|c}}. Blue dragons do ''not'' drop the [[draconic visage]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Taverley Dungeon]]
+|lvls=74
+|mem=yes
+|mapID=17
+|npcid:4682,x:2897,y:9797|npcid:55,x:2899,y:9802|npcid:4683,x:2904,y:9802
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=[[Taverley blue dragon resource dungeon]]
+|lvls=74
+|mem=yes
+|mapID=379
+|requirements = {{Skillreq|Dungeoneering|60}}
+|npcid:4682,x:967,y:4498|npcid:4683,x:975,y:4494|npcid:55,x:979,y:4506
+|npcid:4684,x:987,y:4489|npcid:4683,x:994,y:4494|npcid:4682,x:995,y:4503
+|npcid:55,x:1009,y:4531|npcid:4681,x:1013,y:4518
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=[[Kuradal's Dungeon]] ([[Ancient Cavern]])
+|lvls=74
+|mem=yes
+|mapID=36
+|npcid:4682,x:67,y:76|npcid:4684,x:68,y:68|npcid:55,x:69,y:83
+|npcid:4683,x:76,y:73|npcid:4681,x:76,y:81
+|leagueRegion=Kandarin
+}}
+{{LocLine
+|loc=[[Ogre Enclave]]
+|lvls=74
+|mem=yes
+|mapID=572
+|npcid:4684,x:2568,y:9437|npcid:4683,x:2579,y:9445|npcid:55,x:2590,y:9461
+|npcid:55,x:2592,y:9431|npcid:4681,x:2604,y:9443|npcid:4682,x:2609,y:9459
+|leagueRegion=Kandarin
+}}
+{{LocLine
+|loc=[[Heroes' Guild Dungeon]]
+|lvls=74
+|mem=yes
+|requirements={{QuestIcon|Heroes' Quest}}
+|mapID=719
+|npcid:4681,x:220,y:177
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=West of the [[Black Knights' Fortress]] (level 5 Wilderness)
+|lvls=74
+|mem=No
+|mapID=28
+|npcid:55,x:2967,y:3535|npcid:55,x:2963,y:3539|npcid:55,x:2958,y:3538
+|npcid:55,x:2955,y:3544|npcid:55,x:2955,y:3549|npcid:55,x:2955,y:3554
+|npcid:55,x:2972,y:3544|npcid:55,x:2977,y:3548|npcid:55,x:2965,y:3548|npcid:55,x:2970,y:3553|npcid:55,x:2975,y:3563|npcid:55,x:2956,y:3559|npcid:55,x:2962,y:3565
+|leagueRegion=Wilderness
+}}
+{{LocTableBottom}}
+
+==Strategy==
+As with all dragons, protection from their [[dragonfire]] is required. The following can be combined to provide full dragonfire protection:
+* An [[anti-dragon shield]] or [[dragonfire shield]] (Melee), [[dragonfire deflector|deflector]] (Ranged), [[dragonfire ward|ward]] (Magic), or [[Dragonfire shroud|shroud]] (Necromancy) with an [[antifire]] potion
+* An anti-dragon equipment with the [[Protect from Magic]] prayer or [[Deflect Magic]] curse
+* Protect from/Deflect Magic and antifire potion
+
+Alternatively, a [[super antifire]] potion provides complete immunity to dragonfire.
+
+The dragons are weakest to bolts, so Ranged is the most effective style. Melee is not recommended without at least level 70 combat stats and a tier 70 or greater weapon. If melee is preferred, a combat potion such as a [[super warmaster's potion]] may be necessary to maintain accuracy.
+
+Blue dragons in the [[Wilderness]] north of [[Goblin Village]] are a great source of Ranged or Defence training for [[free-to-play]] players. With the [[Bandos's remains]] nearby, players can indefinitely maintain Protect from Magic to defend against their dragonfire attack to free up both hands for dual-wielded or 2H weapons. Tier 50 weapons are recommended ([[rune 2h crossbow]] or [[rune crossbow]] with [[Emerald bolts|emerald]], [[Ruby bolts|ruby]], [[Diamond bolts|diamond]], or [[rune bolts]]) with [[Green dragonhide armour|green]] or [[blue dragonhide armour]], or even [[carapace armour]]. With [[magic notepaper]] and enough food, players can remain fighting them nearly indefinitely. They occasionally drop lobsters which can supplement players' own food.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Dragon bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Blue dragonhide|quantity=1|rarity=Always}}
+{{DropsLine|name=Perfect blue dragon scale|members=Yes|quantity=1|rarity=Always|raritynotes={{DropNote|Only dropped until obtained while on a [[Slayer/Challenges|Slayer challenge]] from [[Vannaka]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDropTable|members=Yes|quantity=1|gold=112.633/1000|green=281.581/1000|crimson=112.633/1000|blue=22.527/1000}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Fire rune|quantity=37|rarity=1/128}}
+{{DropsLine|name=Law rune|quantity=3|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|15/128}}
+{{DropsTableHead}}
+{{HerbDropTable|15/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated steel salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Medium bladed steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny bladed mithril salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny spiky mithril salvage|members=Yes|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny spiky rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=11|rarity=5/128|altrarity=7/128|raritynotes={{DropNote|5/128 in members' worlds; 7/128 in free-to-play worlds.}}|gemw=No}}
+{{DropsLine|name=Coins|quantity=44|rarity=29/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=132|rarity=25/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=200|rarity=18/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=440|rarity=1/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=900|rarity=5/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=3/128}}
+{{DropsLine|name=Bass|members=Yes|quantity=1|rarity=3/128}}
+{{DropsLine|name=Lobster|quantity=1|rarity=3/128|raritynotes={{DropNote|Only in free-to-play worlds.}}}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Perfect blue dragon scale (God Emissaries)|members=Yes|quantity=1|rarity=1/2|raritynotes={{DropNote|Only while on combat task 5 of [[God Emissaries]].}}|gemw=No}}
+{{DropsLine|name=Blue dragon tail-bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=no|alch=yes}}
+{{DropsLine|name=Blue dragon egg|members=Yes|quantity=1|rarity=1/200|raritynotes={{DropNote|Requires level 99 [[Summoning]] and not having the [[Baby dragon (pet)#Blue|Baby Dragon (Blue)]] pet already unlocked.}}|gemw=No}}
+{{DropsLine|name=Blue dragon egg (unchecked)|members=Yes|quantity=1|rarity=1/2000|altrarity=1/1600|raritynotes={{DropNote|Only after completing the [[player-owned farm tutorial]]. 1/1,600 with the [[Farming reputation#Ranks and rewards|Apprentice Farmer]] rank unlocked.}}}}
+{{DropsLine|name=Ferocious ring (5)|quantity=1|rarity=1/200|raritynotes={{DropNote|Only in [[Kuradal's Dungeon]].}}|gemw=No}}
+{{DropsLine|name=Sealed clue scroll (hard)|members=Yes|quantity=1|rarity=1/128|gemw=No}}
+{{DropsLineSpiritGems|members=Yes}}
+{{DropsLineEffigy|members=Yes|level=74}}
+{{DropsLineMimic|members=Yes|level=74}}
+{{DropsTableBottom}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=74}}
+
+==Money making guide==
+{{Mmgsection|Killing blue dragons}}
+
+==Works==
+{{Worksby}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = 1
+|item1 = {{GU|subject=npc
+|{{GUL|date=[[27 February]] [[2002]]|update=Latest RuneScape News (27 February 2002)|img=Blue dragon (2002).png|name=Blue dragon}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Blue dragon (2004).png|name=Blue dragon}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Blue dragon (2006).png|name=Blue dragon (1)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Blue dragon (2008).png|name=Blue dragon (1)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Blue dragon.png|name=Blue dragon (1)}}
+}}
+|text2 = 2
+|item2 = {{GU|subject=npc
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Blue dragon (2) (2006).png|name=Blue dragon (2)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Blue dragon (2) (2008).png|name=Blue dragon (2)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Blue dragon (2).png|name=Blue dragon (2)}}
+}}
+|text3 = 3
+|item3 = {{GU|subject=npc
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Blue dragon (3) (2006).png|name=Blue dragon (3)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Blue dragon (3) (2008).png|name=Blue dragon (3)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Blue dragon (3).png|name=Blue dragon (3)}}
+}}
+|text4 = 4
+|item4 = {{GU|subject=npc
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Blue dragon (4) (2006).png|name=Blue dragon (4)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Blue dragon (4) (2008).png|name=Blue dragon (4)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Blue dragon (4).png|name=Blue dragon (4)}}
+}}
+|text5 = 5
+|item5 = {{GU|subject=npc
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Blue dragon (5) (2006).png|name=Blue dragon (5)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Blue dragon (5) (2008).png|name=Blue dragon (5)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Blue dragon (5).png|name=Blue dragon (5)}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+*{{UL|type=update|update=Update:New Foundations & DXP! - This Week In RuneScape|date=13 February 2023}}
+** Moved the blue dragons from the area north of the Lumber Yard to west of the [[Black Knights' Fortress]] with the release of [[Fort Forinthry]].
+
+*{{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** 8 blue dragons were removed from an area north of the Forgotten Cemetery. Instead, 13 new blue dragons were added north of [[Lumber Yard]].
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes blue dragons
+
+* {{UL|type=ninja|update=Patch Notes (9 October 2017)|date=9 October 2017}}
+** Blue dragons have been added to the [[Wilderness]] north of the [[Forgotten Cemetery]] to provide a source of [[blue dragonhide|blue dragon hide]] for free players.
+** Blue dragons now drop [[lobster]] instead of [[bass]] in free to play worlds.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for Blue Dragons.
+
+* {{UL|type=update|update=Love_Story|date=5 July 2010}}
+** Graphical overhaul to chromatics, including baby variants.
+
+* {{UL|type=patch|update=Patch Notes (9 September 2009)|date=9 September 2009}}
+** Improved various dragons’ fire-breath code behaviour to match the [[KBD]]'s existing behaviour. The actual animation has not changed.
+
+* {{UL|type=update|update=Demons, Dragons and Giants|date=29 August 2006}}
+** Graphically updated.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+==Trivia==
+* Like [[red dragon]]s, blue dragons were exclusively members' monsters. This was changed with the 9 October 2017 update.
+
+{{Dragon (race)}}
+[[pt:Dragão azul]]

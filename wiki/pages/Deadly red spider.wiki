@@ -1,0 +1,190 @@
+{{External|os|rsc=Deadly Red spider}}
+{{Infobox Monster
+|name = Deadly red spider
+|image = [[File:Deadly red spider.png|250px]]
+|release = [[5 February]] [[2001]]
+|update = New section of sewer opened
+|members = No
+|options = Attack
+|examine = I think this spider has been magically modified.
+|level = 95
+|lifepoints = 6150
+|experience = 307.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 103.6
+|slayercat = Spiders
+|assigned_by = Turael, Vannaka, Jacquelyn
+|max_melee = 0
+|max_ranged = 1360
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 68
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 1309
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1409
+|defence = 68
+|weakness = Crush
+|susceptibility = NopeNopeNope
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 63
+|leagueRegion=Tirannwn, Karamja, Wilderness, Misthalin, Morytania}}
+'''Deadly red spiders''' are [[spiders]] found in several locations in ''[[RuneScape]]'', especially in the [[Wilderness]], [[Varrock sewers]], and [[Karamja]]. Their ranged attacks hit hard with a speed of 4 game ticks (equivalent to [[scimitar]]/[[mace]]/[[dagger]] speed). Deadly red spiders count towards a [[Slayer]] task of spiders.
+
+Deadly red spiders are a very effective training method, giving around 200,000 experience per hour, with high combat members getting over 300,000 experience per hour. As a result, deadly red spiders are usually crowded in free-to-play worlds.
+
+As far as training in [[free-to-play]] areas is concerned, a free player who is not concerned with raising [[Prayer]] through monster [[drops]] and has at least 40 [[Fishing]] and [[Cooking]] would do well to train [[melee]] in the [[Karamja Dungeon]] due west of the Karamja volcano entrance. This particular training spot is almost never crowded, and there is relatively close fishing spot to catch [[lobsters]] at [[Musa Point]], located on the northern end of the island's surface. Players may obtain logs from the tree near the end of the docks or via dead trees on the volcano to make fires and subsequently cook the fish they catch. These possibilities mean a self-sufficient player could potentially remain on [[Karamja]] and train on the spiders indefinitely.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Arandar]]
+|lvls=95
+|mem=yes
+|mapID=28
+|npcid:63,x:2338,y:3310|npcid:63,x:2341,y:3309|npcid:63,x:2343,y:3309
+|npcid:63,x:2344,y:3318|npcid:63,x:2345,y:3310|npcid:63,x:2345,y:3312
+|npcid:63,x:2350,y:3310
+|leagueRegion = Tirannwn}}
+{{LocLine
+|loc=[[Crandor and Karamja Dungeon]]
+|lvls=95
+|mem=no
+|mapID=13
+|npcid:63,x:274,y:172|npcid:63,x:274,y:176|npcid:63,x:276,y:168
+|npcid:63,x:278,y:174|npcid:63,x:282,y:175
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Spirit Realm]]
+|lvls=95
+|mem=yes
+|mapID=429
+|npcid:63,x:2924,y:4284|npcid:63,x:2926,y:4278|npcid:63,x:2927,y:4288
+|npcid:63,x:2928,y:4298|npcid:63,x:2931,y:4296|npcid:63,x:2939,y:4300
+|npcid:63,x:2958,y:4287|npcid:63,x:2952,y:4299|npcid:63,x:2957,y:4293
+|npcid:63,x:2960,y:4298|npcid:63,x:2961,y:4296
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Edgeville Dungeon]] (level 4-6 [[Wilderness]])
+|lvls=95
+|mem=yes
+|mapID=31
+|npcid:63,x:3118,y:9950|npcid:63,x:3118,y:9956|npcid:63,x:3120,y:9952
+|npcid:63,x:3122,y:9955|npcid:63,x:3124,y:9951|npcid:63,x:3125,y:9958
+|npcid:63,x:3126,y:9948|npcid:63,x:3127,y:9956|npcid:63,x:3128,y:9954
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Varrock Sewers]]
+|lvls=95
+|mem=no
+|mapID=31
+|npcid:63,x:3170,y:9884|npcid:63,x:3179,y:9891|npcid:63,x:3175,y:9881
+|npcid:63,x:3176,y:9883|npcid:63,x:3178,y:9880|npcid:63,x:3178,y:9888
+|npcid:63,x:3180,y:9883|npcid:63,x:3183,y:9885|npcid:63,x:3186,y:9892
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Ruins (east)|Abandoned Farm]] (level 35-38 [[Wilderness]])
+|lvls=95
+|mem=no
+|mapID=28
+|npcid:63,x:3211,y:3734|npcid:63,x:3213,y:3728|npcid:63,x:3214,y:3738
+|npcid:63,x:3215,y:3748|npcid:63,x:3218,y:3746|npcid:63,x:3226,y:3750
+|npcid:63,x:3239,y:3749|npcid:63,x:3244,y:3743|npcid:63,x:3245,y:3737
+|npcid:63,x:3247,y:3748|npcid:63,x:3248,y:3746
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=95
+|mem=yes
+|mapID=23
+|npcid:63,x:3257,y:5551|npcid:63,x:3257,y:5555|npcid:63,x:3257,y:5561
+|npcid:63,x:3258,y:5558|npcid:63,x:3258,y:5559|npcid:63,x:3259,y:5551
+|npcid:63,x:3259,y:5554|npcid:63,x:3259,y:5556|npcid:63,x:3259,y:5561
+|npcid:63,x:3261,y:5560
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Myreque Hideout]]
+|lvls=95
+|mem=yes
+|mapID=593
+|npcid:63,x:3466,y:9815|npcid:63,x:3471,y:9806
+|leagueRegion = Morytania}}
+{{LocTableBottom}}
+
+==Drops {{(m)}}==
+{{DropLogProject|kills=2896}}
+
+===Charms===
+{{CharmDataTable|Deadly_red_spider}}
+
+===Main drops===
+{{RuneMetrics}}
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsLine|name=Spider egg (unchecked)|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Deadly red spider nest.png|thumb|Deadly red spiders in the Chaos Tunnels
+</gallery> 
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[5 February]] [[2001]]|update=New section of sewer opened|img=Deadly red spider (5 February 2001).png|name=Deadly red spider}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Deadly red spider (29 March 2004).png|name=Deadly red spider}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Deadly red spider (5 December 2006).png|name=Deadly red spider}}
+|{{GUL|date=|update=|img=Deadly red spider old.png|name=Deadly red spider}}
+|{{GUL|date=[[12 May]] [[2014]]|update=Patch Notes (12 May 2014)|img=Deadly red spider (12 May 2014).png|name=Deadly red spider}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (13 August 2013)|date=13 August 2013}}
+** The combat overlay on deadly red spiders no longer obscures the hitsplats.
+
+* {{UL|type=patch|update=Patch Notes (18 March 2013)|date=18 March 2013}}
+** [[Grotworm]]s, [[moss giant]]s, [[banshee]]s, [[jungle spider]]s, [[shadow spider]]s, [[spider]]s, [[giant spider]]s, deadly red spiders, [[ice spider]]s, [[scorpion]]s, [[poison scorpion]]s and [[pit scorpion]] will no longer hit for 1 hit point worth of damage.
+** Deadly red spiders now have ranged accuracy.
+
+* {{UL|type=update|update=Treasure Trails, spiders and sheep|date=5 December 2006}}
+** New, shiny, woolly and scuttley versions of sheep and spiders have appeared today with the aim of brightening up the landscape. 
+
+* {{UL|type=update|update=RS2 Launched!|date=29 March 2004}}
+** Visually updated.
+
+* {{UL|update=New section of sewer opened|date=5 February 2001}}
+** Added to game. 
+*** A new area at the end of the [[Varrock sewers]] was opened, filled with [[deadly red spiders]] to obtain [[red spider eggs]].
+}}
+
+==Trivia==
+* The examine used to say, "I think this spider has been ''genetically'' modified."
+* Some Deadly red spiders in the [[Wilderness]] use melee instead of ranged.
+* After the [[2023 changes to monster combat stats]], their max hit was massively increased and they may now have the highest max hit in free-to-play from regular attacks.
+
+{{Spiders}}

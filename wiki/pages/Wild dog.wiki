@@ -1,0 +1,137 @@
+{{External|os}}
+{{Infobox Monster
+|name = Wild dog
+|image = [[File:Wild dog.png|160px]]
+|release = [[17 January]] [[2005]]
+|update = Karamja Dungeon
+|members = Yes
+|actions = Attack
+|examine = Looks like it's got rabies!
+|level = 35
+|lifepoints = 1250
+|experience = 62.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 14
+|slayercat = Dogs
+|assigned_by = Turael, Mazchna
+|max_melee = 100
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|speed = 4
+|attack = 25
+|ranged = 1
+|magic = 1
+|acc_melee = 381
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 381
+|defence = 25
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1593
+|leagueRegion=Karamja}}
+[[File:Wild dog icon.png|left]]
+'''Wild dogs''' are a vicious, aggressive form of the domesticated dog that can be found in the [[Brimhaven Dungeon]], except in the [[Iron dragon|iron]] and [[steel dragon]] areas. They are generally considered a pest by low-levelled players due to their tendency to attack and pile them while they are fighting other monsters, but are of minimal threat to higher-levelled players. They are [[aggressiveness|aggressive]] to players below combat level 75, though their aggression is usually not an issue, since most players capable of accessing the dungeon will generally have sufficient combat experience to make them tolerant.
+
+They can also be killed for a dog slayer task.
+
+With [[Karamja gloves 4]], players can deal double damage against Wild dogs. However, this perk is essentially useless given the elite task set's requirements.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Brimhaven Dungeon]]
+|lvls=35
+|mem=yes
+|mapID=13
+|npcid:1594,x:81,y:80
+|npcid:1594,x:84,y:108
+|npcid:1593,x:89,y:121
+|npcid:1593,x:93,y:95
+|npcid:1593,x:97,y:107
+|npcid:1594,x:99,y:85
+|npcid:1593,x:102,y:107
+|npcid:1593,x:102,y:109
+|npcid:1593,x:102,y:114
+|npcid:1593,x:106,y:115
+|npcid:1593,x:107,y:82
+|npcid:1594,x:110,y:73
+|npcid:1593,x:111,y:111
+|npcid:1593,x:112,y:107
+|npcid:1593,x:118,y:94
+|npcid:1593,x:119,y:70
+|npcid:1594,x:34,y:104
+|npcid:1594,x:35,y:65
+|npcid:1593,x:36,y:74
+|npcid:1593,x:36,y:98
+|npcid:1594,x:37,y:102
+|npcid:1594,x:41,y:98
+|npcid:1594,x:57,y:66
+|npcid:1593,x:82,y:168
+|npcid:1593,x:85,y:129
+|npcid:1593,x:88,y:180
+|npcid:1593,x:99,y:138
+|npcid:1593,x:112,y:161
+|npcid:1593,x:119,y:180
+|npcid:1593,x:122,y:155
+|npcid:1593,x:31,y:175
+|npcid:1594,x:32,y:133
+|npcid:1593,x:34,y:147
+|npcid:1594,x:38,y:167
+|npcid:1594,x:39,y:184
+|npcid:1594,x:41,y:151
+|npcid:1593,x:44,y:159
+|npcid:1594,x:136,y:84
+|npcid:1593,x:136,y:106
+|npcid:1594,x:137,y:83
+|npcid:1593,x:137,y:84
+|npcid:1594,x:139,y:91
+|npcid:1593,x:140,y:75
+|npcid:1593,x:142,y:109
+|npcid:1593,x:150,y:76
+|npcid:1593,x:153,y:114
+|npcid:1594,x:155,y:70
+|npcid:1594,x:157,y:72
+|npcid:1593,x:158,y:71
+|npcid:1593,x:160,y:94
+|npcid:1593,x:177,y:76
+|npcid:1593,x:180,y:94
+|npcid:1593,x:180,y:100
+|npcid:1593,x:183,y:95
+|npcid:1594,x:184,y:77
+|npcid:1594,x:189,y:79
+|leagueRegion = Karamja}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy |quantity=1|rarity=Rare}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Karamja Dungeon|date=17 January 2005}}
+** Added to game.
+}}
+===Trivia===
+* Prior to an unknown update in [[2021]] wild dogs dropped [[Summoning]] charms, with a relatively high [[green charm]] drop rate. Following that update wild dogs drop no charms and are classified as a free-to-play monster despite only appearing in a pay-to-play area.
+{{Brimhaven Dungeon}}
+{{Dogs}}

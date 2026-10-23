@@ -1,0 +1,186 @@
+{{Infobox Monster
+|version1 = 1
+|version2 = 14
+|version3 = 28
+|version4 = 42
+|version5 = 56
+|version6 = 70
+|version7 = 82
+|version8 = 96
+|version9 = 110
+|version10 = 124
+|name = Zombie
+|image1 = [[File:Zombie (Dungeoneering, melee, 1).png|150px]]
+|image2 = [[File:Zombie (Dungeoneering, ranged).png|150px]]
+|image3 = [[File:Zombie (Dungeoneering, melee, 1).png|150px]]
+|image4 = [[File:Zombie (Dungeoneering, melee, 1).png|150px]]
+|image5 = [[File:Zombie (Dungeoneering, ranged).png|150px]]
+|image6 = [[File:Zombie (Dungeoneering, ranged).png|150px]]
+|image7 = [[File:Zombie (Dungeoneering, melee, 1).png|150px]]
+|image8 = [[File:Zombie (Dungeoneering, ranged).png|150px]]
+|image9 = [[File:Zombie (Dungeoneering, melee, 1).png|150px]]
+|image10 = [[File:Zombie (Dungeoneering, melee, 1).png|150px]]
+|release = [[5 February]] [[2013]]
+|update = Sinkholes
+|members = Yes
+|actions = Attack
+|examine1 = A walking, rotten corpse.
+|examine2 = * A walking, rotten corpse.<br />* Smells almost as bad as Marm's socks.
+|examine3 = * A walking, rotten corpse.<br />* Smells almost as bad as Marm's socks.
+|examine4 = * A walking, rotten corpse.<br />* Smells almost as bad as Marm's socks.
+|examine5 = * A walking, rotten corpse.<br />* Smells almost as bad as Marm's socks.
+|examine6 = * A walking, rotten corpse.<br />* Smells almost as bad as Marm's socks.
+|examine7 = * A walking, rotten corpse.<br />* Smells almost as bad as Marm's socks.
+|examine8 = * A walking, rotten corpse.<br />* Smells almost as bad as Marm's socks.
+|examine9 = * A walking, rotten corpse.<br />* Smells almost as bad as Marm's socks.
+|examine10 = * A walking, rotten corpse.<br />* Smells almost as bad as Marm's socks.
+|level1 = 1
+|level2 = 14
+|level3 = 28
+|level4 = 42
+|level5 = 56
+|level6 = 70
+|level7 = 82
+|level8 = 96
+|level9 = 110
+|level10 = 124
+|lifepoints1 = 100
+|lifepoints2 = 3000
+|lifepoints3 = 3000
+|lifepoints4 = 3000
+|lifepoints5 = 3000
+|lifepoints6 = 3000
+|lifepoints7 = 3000
+|lifepoints8 = 3000
+|lifepoints9 = 3000
+|lifepoints10 = 3000
+|experience1 = 5.0
+|experience2 = 150.0
+|experience3 = 150.0
+|experience4 = 150.0
+|experience5 = 150.0
+|experience6 = 150.0
+|experience7 = 150.0
+|experience8 = 150.0
+|experience9 = 150.0
+|experience10 = 150.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 12.8
+|slayxp2 = 12.8
+|slayercat = Zombies
+|assigned_by = Spria, Mazchna, Vannaka
+|max_melee1 = 5
+|max_melee2 = 220
+|max_melee3 = 220
+|max_melee4 = 220
+|max_melee5 = 220
+|max_melee6 = 220
+|max_melee7 = 220
+|max_melee8 = 220
+|max_melee9 = 220
+|max_melee10 = 220
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style1 = melee
+|style2 = ranged
+|style3 = melee
+|style4 = melee
+|style5 = ranged
+|style6 = ranged
+|style7 = melee
+|style8 = ranged
+|style9 = melee
+|style10 = melee
+|speed = 5
+|attack1 = 1
+|attack2 = 89
+|attack3 = 89
+|attack4 = 89
+|attack5 = 89
+|attack6 = 89
+|attack7 = 89
+|attack8 = 89
+|attack9 = 89
+|attack10 = 89
+|ranged = 1
+|magic = 1
+|acc_melee1 = 10
+|acc_melee2 = 890
+|acc_melee3 = 890
+|acc_melee4 = 890
+|acc_melee5 = 890
+|acc_melee6 = 890
+|acc_melee7 = 890
+|acc_melee8 = 890
+|acc_melee9 = 890
+|acc_melee10 = 890
+|acc_ranged = 0
+|acc_magic = 0
+|armour1 = 10
+|armour2 = 890
+|armour3 = 890
+|armour4 = 890
+|armour5 = 890
+|armour6 = 890
+|armour7 = 890
+|armour8 = 890
+|armour9 = 890
+|armour10 = 890
+|defence1 = 1
+|defence2 = 89
+|defence3 = 89
+|defence4 = 89
+|defence5 = 89
+|defence6 = 89
+|defence7 = 89
+|defence8 = 89
+|defence9 = 89
+|defence10 = 89
+|weakness = Nothing
+|aff_weakness = 80
+|aff_melee = 80
+|aff_ranged = 80
+|aff_magic = 80
+|immune_to_poison = No
+|immune_to_stun = No
+|restriction = minigame
+|id1 = 16749
+|id2 = 16758
+|id3 = 16758
+|id4 = 16758
+|id5 = 16758
+|id6 = 16758
+|id7 = 16758
+|id8 = 16758
+|id9 = 16758
+|id10 = 16758
+|leagueRegion=Fremennik, Kandarin, Karamja, Morytania, Asgarnia, Misthalin, Havenhythe, Desert}}
+The term '''Zombie''' in [[Sinkholes]] is used as a collective term describing two types of zombies using 2 different attack styles. It consists of a warrior and ranger. They have high constitution while having a rather poor defence.
+
+==Overview==
+===Ranger===
+Possibly the most commonly seen variant, they wield two hatchets and they attack by throwing axes at players. They're rather inaccurate but powerful. They are weak to melee.
+
+===Warrior===
+Similar to the ranger variants they have high constitution but very poor defence, and their attacks are somewhat accurate. They can be seen using hatchets, and are weak to magic.
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Combat totem|quantity=1|rarity=Always|gemw=no|alch=no}}
+{{DropsTableBottom}}
+
+===Cards===
+{{DropsTableSinkholesCards|showlv85=y}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Sinkholes|date=5 February 2013}}
+** Added to game.
+}}
+
+{{Sinkholes}}
+{{Zombie}}

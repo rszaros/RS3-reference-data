@@ -1,0 +1,186 @@
+{{External|os|rsc=Poison Spider}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|version1 = Common
+|version2 = Observatory
+|name = Poison spider
+|image1 = [[File:Poison spider.png|230px]]
+|image2 = [[File:Poison spider (Observatory).png|230px]]
+|release1 = [[27 February]] [[2002]]
+|release2 = [[17 March]] [[2003]]
+|update1 = Latest RuneScape News (27 February 2002)
+|update2 = Observatory Quest online!
+|members1 = No
+|members2 = Yes
+|options = Attack
+|examine1 = I think this spider has been magically modified.
+|examine2 = A nasty, poisonous arachnid.
+|level1 = 53
+|level2 = 15
+|lifepoints1 = 3700
+|lifepoints2 = 550
+|experience1 = 185.0
+|experience2 = 27.5
+|aggressive = Yes
+|poisonous1 = Yes
+|poisonous2 = No
+|slaylvl = 1
+|slayxp1 = 34.2
+|slayxp2 = 8.8
+|slayercat = Spiders
+|assigned_by = Turael, Vannaka
+|max_melee1 = 0
+|max_melee2 = 33
+|max_ranged1 = 600
+|max_ranged2 = 44
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack1 = 1
+|attack2 = 8
+|ranged1 = 30
+|ranged2 = 11
+|magic1 = 1
+|magic2 = 0
+|necromancy = 1
+|acc_melee1 = 0
+|acc_melee2 = 82
+|acc_ranged1 = 354
+|acc_ranged2 = 213
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 732
+|armour2 = 213
+|defence1 = 45
+|defence2 = 11
+|weakness = Crush
+|susceptibility = NopeNopeNope
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 134
+|id2 = 1009
+|leagueRegion=Asgarnia, Kandarin, Wilderness, Morytania}}
+
+'''Poison spiders''' are monsters which can be found in many locations, including the [[Wilderness]]. There is a chance to find one when opening a chest in the [[Observatory Dungeon]].
+
+They have little to no [[drops]] (other than [[charms]]), aggressively attack with ranged and are fairly accurately able to [[poison]]. They can poison for up to around 300 per hit, lasting for 3 minutes. Therefore, they are generally considered nuisances, such as in the [[Edgeville Dungeon]], while killing [[black demon]]s or in battle against [[Chronozon]] during [[Family Crest]].
+
+Their attacks cause poison only if they inflict damage. They usually land a successful hit in the first 2 attacks if the player is not wearing good armour or has a low [[Defence]] level. The presence of these creatures generally forces players to bring anti-poison methods, wasting a slot which could have been used for other useful supplies. These monsters are not aggressive to players with a combat level of 107 or greater, except in the [[Wilderness]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Yanille Agility dungeon]]
+|lvls=53
+|mem=yes
+|mapID=3
+|npcid:134,x:34,y:63|npcid:134,x:39,y:74|npcid:134,x:41,y:76
+|npcid:134,x:42,y:79|npcid:134,x:43,y:73|npcid:134,x:43,y:79
+|npcid:134,x:45,y:79|npcid:134,x:46,y:73|npcid:134,x:48,y:71
+|npcid:134,x:54,y:70|npcid:134,x:58,y:65|npcid:134,x:60,y:52
+|npcid:134,x:62,y:66|npcid:134,x:63,y:51|npcid:134,x:63,y:61
+|npcid:134,x:64,y:48|npcid:134,x:65,y:55|npcid:134,x:67,y:54
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Taverley Dungeon]]
+|lvls=53
+|mem=yes
+|mapID=17
+|npcid:134,x:2850,y:9808|npcid:134,x:2857,y:9822|npcid:134,x:2859,y:9802
+|npcid:134,x:2859,y:9814|npcid:134,x:2864,y:9819|npcid:134,x:2870,y:9799
+|npcid:134,x:2871,y:9792|npcid:134,x:2876,y:9806
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Lava Maze Dungeon]]
+|lvls=53
+|mem=no
+|mapID=6
+|npcid:134,x:3067,y:10255|npcid:134,x:3067,y:10257
+|npcid:134,x:3068,y:10253|npcid:134,x:3069,y:10257|npcid:134,x:3069,y:10259
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Edgeville Dungeon]]
+|lvls=53
+|mem=no
+|mapID=31
+|npcid:134,x:3082,y:9916|npcid:134,x:3083,y:9917|npcid:134,x:3084,y:9915
+|npcid:134,x:3088,y:9945|npcid:134,x:3089,y:9943|npcid:134,x:3090,y:9944
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=53
+|mem=yes
+|mapID=23
+|npcid:134,x:3268,y:5450|npcid:134,x:3268,y:5462|npcid:134,x:3270,y:5464
+|npcid:134,x:3271,y:5472|npcid:134,x:3272,y:5462|npcid:134,x:3272,y:5475
+|npcid:134,x:3276,y:5476|npcid:134,x:3277,y:5453|npcid:134,x:3278,y:5445
+|npcid:134,x:3279,y:5474|npcid:134,x:3274,y:5517|npcid:134,x:3275,y:5537
+|npcid:134,x:3279,y:5526|npcid:134,x:3281,y:5532
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Meiyerditch Laboratories]] (caves in [[The Hollows]])
+|lvls=53
+|mem=yes
+|requirements={{QuestIcon|Legacy of Seergaze}} (partial)
+|mapID=593
+|npcid:134,x:3467,y:9797|npcid:134,x:3471,y:9796
+|leagueRegion = Morytania}}
+{{LocTableBottom}}
+
+==Drops==
+===Charms===
+{{CharmDataTable|Poison spider}}
+
+===Main drops===
+{{DropsTableHead}}
+{{DropsLine|name=Spider egg (unchecked)|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Common
+|item1 = {{GU|subject=npc
+|{{GUL|date=[[27 February]] [[2002]]|update=Latest RuneScape News (27 February 2002)|img=Poison spider (2002).png|name=Poison Spider}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Poison spider (2004).png|name=Poison spider}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Poison spider (2006).png|name=Poison spider}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Poison spider (2008).png|name=Poison spider}}
+|{{GUL|date=[[12 May]] [[2014]]|update=Patch Notes (12 May 2014)|img=Poison spider.png|name=Poison spider}}
+}}
+|text2 = Observatory
+|item2 = {{GU|subject=npc
+|{{GUL|date=[[17 March]] [[2003]]|update=Observatory Quest online!|img=Poison spider (2002).png|name=Poison spider}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Poison spider (2004).png|name=Poison spider}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Poison spider (Observatory) (2006).png|name=Poison spider}}
+|{{GUL|date=[[12 May]] [[2014]]|update=Patch Notes (12 May 2014)|img=Poison spider.png|name=Poison spider}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+{{Observatory Quest}}
+{{Spiders}}

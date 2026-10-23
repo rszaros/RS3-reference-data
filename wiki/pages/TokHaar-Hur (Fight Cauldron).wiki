@@ -1,0 +1,93 @@
+{{Infobox Monster
+|name = TokHaar-Hur
+|image = [[File:TokHaar-Hur.png|250px]]
+|release = [[4 December]] [[2012]]
+|update = The Brink of Extinction - Grandmaster Quest
+|members = Yes
+|options = Attack, Examine
+|race = TokHaar
+|examine = A sleek obsidian craftsman, but ready for battle.
+|level = 112
+|lifepoints = 4000
+|experience = 200.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 198
+|slayercat = TzHaar
+|assigned_by = Kuradal,Morvran
+|max_melee = 400
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 80
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1486
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1924
+|defence = 80
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id = 17117
+|leagueRegion = Karamja
+}}
+'''TokHaar-Hur''' is a [[TokHaar]] creature that can be fought during the [[Fight Cauldron]] minigame. It can be killed for [[TzHaar]] slayer assignments.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Obsidian shard|quantity=1|rarity=Always|gemw=no|alch=no|raritynotes={{DropNote|Shards are automatically picked up after every kill. They appear in the player's backpack upon leaving the Fight Cauldron. If the player dies, they instead only receive '''half''' of the shards they obtained.}}}}
+{{DropsTableBottom}}
+
+===Main===
+{{DropsTableHead}}
+{{DropsLine|name=Gold stone spirit|quantity=5|rarity=1/8}}
+{{DropsLine|name=Soft clay|quantity=5 (noted)|rarity=1/8}}
+{{DropsLine|name=Nothing|rarity=6/8}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Onyx bolt tips|quantity=1|rarity=1/100}}
+{{DropsLine|name=Obsidian cape|quantity=1|rarity=1/150}}
+{{DropsLine|name=Uncut onyx|quantity=1|rarity=1/5000}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Jungle Predator}}
+** [[Obsidian cape]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=The Brink of Extinction - Grandmaster Quest|date=4 December 2012}}
+** Added to game.
+}}
+
+{{Fight Cauldron}}
+[[Category:TokHaar]]

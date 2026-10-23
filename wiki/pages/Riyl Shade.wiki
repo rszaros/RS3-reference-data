@@ -1,0 +1,120 @@
+{{External|os}}
+{{Otheruses|def=no|the Temple Trekking variant|Riyl shadow (Temple Trekking)}}
+{{Infobox Monster
+|version1 = Shade
+|version2 = Shadow
+|name1 = Riyl Shade
+|name2 = Riyl Shadow
+|image1 = [[File:Riyl Shade.png|120px]]
+|image2 = [[File:Riyl Shadow.png|200px]]
+|release = [[18 October]] [[2004]]
+|update = Mortton Shades and Mage Armour
+|members = Yes
+|options = Attack
+|examine1 = The shadowy remains of a long-departed soul.
+|examine2 = A shadowy sort of entity, kind of creepy looking.
+|level = 75
+|lifepoints = 5400
+|experience = 270.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 36
+|slayercat = Shades, Ghosts, Undead
+|assigned_by = Mazchna
+|max_melee = 518
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 54
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 955
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 955
+|defence = 54
+|weakness = Water
+|susceptibility = Salve, Gadderhammer, Ghost
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|leagueRegion = Morytania
+|id1 = 1246
+|id2 = 1245
+}}
+'''Riyl Shades''' lurk behind the steel door in the [[Shade Catacombs]] in [[Mort'ton]]. They initially appear as dark reddish moving shadows, known as Riyl Shadows, on the ground and then rise from the depths to attack or retaliate. Their [[Riyl remains|remains]] can be cremated with [[Willow pyre logs|willow]] or higher tier [[pyre logs]]. The [[salve amulet]] and [[salve amulet (e)]] work well on this shade which is very useful if shades are assigned for a [[slayer assignment]].
+
+In the [[Temple Trekking]] minigame, these shades are called Riyl shadows, despite already being in their shade form when encountered.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Shade Catacombs]]
+|lvls=75
+|mem=yes
+|requirements = {{AchievementIcon|Shades of Mort'ton}} and any {{Ilink|steel key|pic=Steel key crimson|txt=steel shade key}}
+|mapID=41
+|npcid:1245,x:3470,y:9681|npcid:1245,x:3471,y:9693|npcid:1245,x:3474,y:9690
+|npcid:1245,x:3478,y:9682|npcid:1245,x:3482,y:9692|npcid:1245,x:3484,y:9683
+|npcid:1245,x:3486,y:9689|npcid:1245,x:3488,y:9680|npcid:1245,x:3494,y:9683
+|npcid:1245,x:3498,y:9691|npcid:1245,x:3500,y:9682|npcid:1245,x:3505,y:9690
+|npcid:1245,x:3507,y:9681|npcid:1245,x:3511,y:9690|npcid:1245,x:3515,y:9682
+|npcid:1245,x:3517,y:9690
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Riyl remains|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-11|rarity=1/20}}
+{{DropsLineGhosts|ectorarity=1000|herbrarity=1024}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (13 May 2013)|date=13 May 2013}}
+** Two lines of text concerning burning shades have been added to the [[game filter]].
+
+* {{UL|type=update|update=Mortton Shades and Mage Armour|date=18 October 2004}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Shades of Mort'ton (minigame)}}
+{{Mort'ton}}
+{{Ghost}}

@@ -1,0 +1,61 @@
+{{Infobox Monster
+|version1 = Regular
+|version2 = Hydra
+|name1 = Fabricated Skeleton Archer
+|name2 = Fabricated Skeleton Archer (hydra)
+|image = [[File:Skeleton Archer.png|150px]]
+|release = [[2 May]] [[2017]]
+|update = Shattered Worlds
+|members = Yes
+|options = Attack
+|examine = Could do with gaining a few pounds.
+|level = 1
+|lifepoints = 200
+|experience = 10.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Skeletons, Undead
+|max_melee = 9
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|style = Ranged
+|primarystyle = Ranged
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 110
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Nothing
+|aff_weakness = 65
+|aff_melee = 65
+|aff_ranged = 65
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|leagueRegion = Asgarnia
+|id1 = 24231
+|id2 = 24232
+}}
+'''Fabricated skeleton archer''' can be found while playing [[Shattered Worlds]]. Their levels and stats scale to the world the player finds them on. Their normal counterparts is most commonly found in the third section of [[The Shadow Reef]].
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Shattered Worlds|date=2 May 2017}}
+** Added to game.
+}}
+
+{{Shattered Worlds}}

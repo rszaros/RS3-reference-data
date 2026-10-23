@@ -1,0 +1,262 @@
+{{external|os}}
+{{Otheruses|the dragon|the boss encounter|Zemouregal & Vorkath}}
+{{HasStrategy|page1=Zemouregal & Vorkath/Strategies}}
+{{Multi Infobox
+|text1 = Combat
+|item1 = {{Infobox Monster
+|version1 = Normal mode
+|version2 = Hard mode
+|version3 = Story mode
+|version4 = Requiem for a Dragon
+|name = Vorkath
+|image = [[File:Vorkath.png]]
+|release = [[20 November]] [[2023]]
+|update = Vorkath, Battle for Forinthry - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|size = 5
+|size4 = 7
+|race = Undead, Dragon
+|examine = Once a long-dead dragon of awe-inspiring stature; now an existential threat of awe-inspiring stature.
+|examine4 = A reanimated dragon of awe-inspiring stature.
+|level = 789
+|lifepoints1 = 750000
+|lifepoints2 = 1500000
+|lifepoints3 = 375000
+|lifepoints4 = 75001
+|experience1 = 18750
+|experience2 = 37500
+|experience3 = 9375
+|experience4 = 0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 31,340.5
+|slayercat = Blue dragons, Dragons, Undead
+|max_melee = 1224
+|max_ranged = 1224
+|max_magic = 1224
+|max_spec1 =
+|max_spec2 = 8500
+|max_spec3 = 11000 
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 90
+|ranged = 90
+|magic = 90
+|acc_melee = 2178
+|acc_ranged = 2178
+|acc_magic = 2178
+|abilities = 
+|armour = 1299
+|defence = 65
+|weakness = Nothing
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 55
+|aff_magic = 55
+|immune_to_poison = Yes
+|immune_to_deflect = no
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = No
+|restriction4 = quest
+|leagueRegion = Misthalin
+|id = 30690
+|id4 = 30897
+}}
+|text2 = NPC
+|item2 = {{Infobox NPC
+|version1 = Ancient Awakening (1)
+|version2 = Ancient Awakening (2)
+|version3 = Ungael Ritual Site (approach)
+|version4 = Ungael Ritual Site (only examine)
+|version5 = Ungael Ritual Site (inspect)
+|version6 = City of Um (during quest)
+|version7 = City of Um (after quest)
+|version8 = Eclipse of the Heart
+|name = Vorkath
+|image1 = [[File:Vorkath (Ancient Awakening).png]]
+|image2 = [[File:Vorkath (Ancient Awakening, 2).png]]
+|image3 = [[File:Vorkath.png]]
+|image4 = [[File:Vorkath.png]]
+|image5 = [[File:Vorkath (Ancient Awakening, 2).png]]
+|image6 = [[File:Vorkath (ghost).png]]
+|image7 = [[File:Vorkath (ghost).png]]
+|image8 = [[File:Vorkath (Eclipse of the Heart).png]]
+|release1 = [[9 October]] [[2023]]
+|release2 = [[9 October]] [[2023]]
+|release3 = [[22 April]] [[2024]]
+|release4 = [[22 April]] [[2024]]
+|release5 = [[22 April]] [[2024]]
+|release6 = [[22 April]] [[2024]]
+|release7 = [[22 April]] [[2024]]
+|release8 = [[28 July]] [[2025]]
+|update1 = Ancient Awakening Launches - This Week in RuneScape
+|update2 = Ancient Awakening Launches - This Week in RuneScape
+|update3 = Requiem For a Dragon Launch - This Week In RuneScape
+|update4 = Requiem For a Dragon Launch - This Week In RuneScape
+|update5 = Requiem For a Dragon Launch - This Week In RuneScape
+|update6 = Requiem For a Dragon Launch - This Week In RuneScape
+|update7 = Requiem For a Dragon Launch - This Week In RuneScape
+|update8 = Eclipse of the Heart Launches Today - This Week In RuneScape
+|members = Yes
+|race = [[Undead]], [[Dragon]]
+|quest1 = [[Ancient Awakening]]
+|quest2 = [[Ancient Awakening]]
+|quest3 = [[Requiem for a Dragon]]
+|quest4 = [[Requiem for a Dragon]]
+|quest5 = [[Requiem for a Dragon]]
+|quest6 = [[Requiem for a Dragon]]
+|quest7 = None
+|quest8 = [[Eclipse of the Heart]]
+|location1 = [[Ungael]]
+|location2 = [[Ungael]]
+|location3 = [[Ungael ritual site]]
+|location4 = [[Ungael ritual site]]
+|location5 = [[Ungael ritual site]]
+|location6 = [[City of Um]]
+|location7 = [[City of Um]]
+|location8 = [[Um ritual site]]
+|gender = Male
+|options = Examine
+|options3 = Approach, Examine
+|options5 = Inspect, Examine
+|options6 = Approach, Examine
+|options7 = Approach, Pet, Examine
+|options8 = Talk to, Examine
+|examine1 = A long-dead dragon of awe-inspiring stature.
+|examine2 = A long-dead dragon of awe-inspiring stature.
+|examine3 = A reanimated dragon of awe-inspiring stature.
+|examine4 = A reanimated dragon of awe-inspiring stature.
+|examine5 = A reanimated dragon of awe-inspiring stature.
+|examine6 = The ghost of a long-suffering dragon, now at peace.
+|examine7 = The ghost of a long-suffering dragon, now at peace.
+|examine8 = The ghost of a long-suffering dragon, now defending his home.
+|map7 = {{NPC map|mapID=-1|npcname:Vorkath, npcid:30900,x:1138,y:1716|type=pins|plane=1}}
+|map8 = 
+|leagueRegion = Misthalin&Fremennik
+|id1 = 30588
+|id2 = 30589
+|id3 = 30888
+|id4 = 30895
+|id5 = 30896
+|id6 = 30899
+|id7 = 30900
+|id8 = 32103
+}}
+}}
+{{Synced switch
+|version1=[[File:Vorkath chathead.png|left]]
+|text1=Story mode¦Normal mode¦Hard mode¦Ancient Awakening (1)¦Ancient Awakening (2)
+|version2=[[File:Vorkath (ghost) chathead.png|left|120px]]
+|text2=City of Um (during quest)¦City of Um (after quest)¦Eclipse of the Heart
+}}
+'''Vorkath''' is an undead blue dragon featured in the [[Fort Forinthry quest series]], first found lying dead beneath the ice of [[Ungael]].{{CiteNPC|npc=Overseer Siv|quote=The Fremennik call it Ungael. We steer well clear of that island. It's rumoured to be guarded by a ferocious dragon. More powerful even than Elvarg of Crandor.|loc=Dead and Buried}}{{CiteNPC|npc=Player character|quote=It doesn't look like a dragon I've ever seen before. I imagine, based on the age of this tomb, that this dragon could have been killed by now, or at least died of old age.|loc=Dead and Buried}} First mentioned in the [[Dead and Buried]] quest, his corpse appears in the subsequent [[Ancient Awakening]] quest where the [[Mahjarrat]] [[Zemouregal]] raises it from the dead into his servitude.{{CiteNPC|npc=The Raptor|quote=Dead or not. Let's not forget Zemouregal uses necromancy. Might be his intent. To raise it.|loc=Dead and Buried}} 
+
+On [[20 November]] [[2023]] Vorkath was released as part of the [[Zemouregal & Vorkath]] boss encounter with the [[Battle of Forinthry]] quest.
+
+==Instance information==
+{{Infobox instance
+|boss = [[Zemouregal & Vorkath]]
+|access = [[Commemorative statue (Zemouregal & Vorkath)|Commemorative statue]] ({{Maplink|x:3310,y:3564|text=Fort Forinthry|mtype=pin}})
+|grave = 
+|timer = 
+|notes = Can choose between 3 different modes when starting instance. Story, Normal and Hard mode.
+}}
+
+==History==
+===Creation===
+Ages ago, the dragon later known as Vorkath was created by the [[Dragonkin]] [[Zorgoth]] with the intention of unleashing him upon the human population of [[Gielinor]]. Although he was considered one of the finest dragons ever created and intended as the ultimate weapon against humanity, Zorgoth was dismayed to discover that Vorkath was far too tame and docile, playing with humans and protecting them. Various attempts to punish Vorkath for his disobedience with various methods were generally met with failure due to his strength and willpower. Eventually, Zorgoth killed Vorkath in a rage, believing that it was better off dead than alive to him. After calming down and reading Kerapac's notes, Zorgoth discovered that a mysterious black stone could enforce compliance in the dead and decided to use it on Vorkath.
+
+Zorgoth proceeded to cut out Vorkath's heart and replace it with a [[black stone heart]], which revived Vorkath. This caused Vorkath's soul to remain in his now-decaying husk, unable to move on to the afterlife. At the same time, to ensure that Vorkath would follow his will, Zorgoth focused on making Vorkath hate humanity, which he deemed mildly successful after killing a human in front of the dragon. Despite this, he had already given up with Vorkath, and as he was too large to be moved to the [[Crypt (Wilderness)|Dragonkin Tomb]] underneath [[Forinthry]], he put it on display in one of Ungael's towers instead.
+
+At some point, the Fremennik were aware of Vorkath, calling him more ferocious than [[Elvarg]], and they refused to approach the island out of fear for his considerable reputation, even though the dragon was mostly dead by this time. 
+
+===Age of Chaos===
+After the [[Zamorakian Civil War]] ended, [[Zemouregal]] began to make plans to re-attempt conquering the [[Misthalin|Kingdom of Misthalin]]. The kingdom, with the help of the [[Player character|adventurer]], managed to reclaim a vale north-east of Varrock and establish [[Fort Forinthry]]. Zemouregal then began searching for a power to destroy the fort and, eventually, learned of Ungael and Vorkath in the tomb. He immediately set off to the island to claim Vorkath before Moia could do so, still holding a grudge against her for taking a chunk of his power away. After delaying the adventurer with his undead army, he managed to raise Vorkath from the dead and together they started to fly back to the mainland. Vorkath attempted to resist Zemouregal's control but was unsuccessful in doing so.{{CiteNPC|npc=Vorki|quote=I refuse to be a puppet aga-}}
+
+Vorkath would later accompany his master to [[Battle of Forinthry|besiege Fort Forinthry]]. He used his dragon breath to raze the entire western section of the fort before confronting the adventurer. During the battle, as the adventurer and the Raptor damaged Vorkath, he periodically turned on Zemouregal, a sign that his grip over the dragon was weakening. Eventually, after taking too much damage, Vorkath fled, abandoning his master, and he was not spotted again during the battle.
+
+====Finding peace====
+{{OccDur|Requiem for a Dragon}}
+Following Vorkath's departure from the mainland, he returned to Ungael to rest. Aster, worried that Vorkath could return, told the adventurer to figure out where he was and possibly put an end to him if necessary. The adventurer returned to Ungael and found that Moia had sent Zamorakian scouts to explore the area, and soon discovered Vorkath. Despite their previous fight, the adventurer knew that Vorkath had been forced to do so, and slowly gained his trust. They then tried to bring his soul to Um, but found themselves unable to. After investigating everything they could, they returned to Zemouregal, believing that he had warped his soul. However, Zemouregal himself stated that he was not responsible, and had likewise sensed the "rot" in Vorkath, claiming that if he had known how deep it was, he would have not bothered to enthrall him.
+
+The adventurer then went to Death, who revealed that [[Rasial, the First Necromancer|Rasial]] might have had an ancient artefact which could fulfil the purpose of restoring Vorkath's soul. As Rasial was busy reforming his body following his defeat to the adventurer, they sought out the [[Tree of Balance]], who knew of a damaged artefact at the [[Memorial to Guthix]]. Once they restored the artefact, they set up a soulfarer ritual in both Um and Ungael to properly send Vorkath's soul to the afterlife.
+
+During the ritual, [[The Forgotten Warrior|Vengeance]] and a reanimated [[Bilrach]] arrived with a mysterious artefact to drain the dark power in Vorkath's soul. The adventurer attempted to intercept with their ritual, but Bilrach successfully completed his first, seemingly killing Vorkath's soul for good. The adventurer dejectedly returned to Um and told Death of the battle. Luckily, Vorkath's soul had just barely survived Bilrach's assault, and the adventurer's ritual successfully allowed him to arrive in Um in the form of a [[ghost]], finally being at peace after thousands of years. Vorkath decided to remain in the city, unwilling to move on and taking a rest that it rightfully deserved.
+
+====Defending Um====
+{{OccDur|Eclipse of the Heart}}
+When Amascut's soul devourers and corrupted creatures surged from the [[Sanctum of Rebirth]] to attack Um, Vorkath assisted Death and Icthlarin in repelling the attackers.{{CiteNPC |npc=Icthlarin |loc=Eclipse of the Heart |quote= Amascut's war does not stop with the realm of the living. A swarm of akhs descended from Jalamenti, the Sanctum of Rebirth, and attacked the City of Um. [...] The spirit of a mighty dragon protects the denizens of the City of Um. I understand that his soul was once afflicted by a darkness of similar origin. And that through your actions, he was cleansed.<br>'''Player:''' Vorkath? Yes, his soul was corrupted by a shadowy force that prevented him from passing on.}} Vorkath later assisted Icthlarin in protecting the adventurer while they performed a ritual to sever Amascut's soul devourers for good, killing those that attempted to interrupt them. The adventurer thanked Vorkath for their assistance, which made the dragon happy.
+
+==Money making guide==
+{{Mmgsection|Killing Zemouregal & Vorkath}}
+
+==Dialogue==
+{{hastranscript|NPC}}
+
+==Mentioned==
+{{MentionedIn}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Mural (crypt) Current2.png|A mural of Vorkath located in the [[Crypt (Wilderness)|dragonkin crypt]]
+Zemouregal resurrecting Vorkath.png|Zemouregal performing a ritual to raise Vorkath from the dead.
+Battle of Forinthry.png|Vorkath attacks the fort
+Battle of Forinthry - the battle with Zemouregal and Vorkath.png|The battle
+Vorkath concept art 1.jpg|Final concept art
+Vorkath concept art 2.jpg|Variant exploration concept art
+Vorkath concept art 3.jpg|Angles and materials concept art
+Vorkath concept art 4.jpg|Animations and attacks concept art
+Fort Forinthry - Zemouregal & Vorkath login screen.png|Login screen
+Vorkath at peace.png|Vorkath finds peace at last in Um
+Vorkath (Christmas).png|Vorkath wearing a Santa hat during Christmas
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Eclipse of the Heart Launches Today - This Week In RuneScape|date=28 July 2025}}
+** Added variant for [[Eclipse of the Heart]].
+
+* {{UL|type=patch|update=July Quest Qol and Game Health Update - This Week In RuneScape|date=14 July 2025}}
+** Normal Mode
+*** Increased the chance to obtain a Invoke Lord of Bones Incantation Codex by 17%.
+*** Increased the chance to obtain Vorkath's Spike by 10%.
+**** Increase the drop quantity from 4-6 to 5-7.
+** Hard mode
+*** Increased the chance to obtain a Invoke Lord of Bones Incantation Codex by 40%.
+*** Increased the chance to obtain Vorkath's Scale by 40%
+
+* {{UL|type=update|update=Vorkath, Battle for Forinthry - This Week In RuneScape|date=20 November 2023}}
+** Added to the game as part of the [[Zemouregal & Vorkath]] boss encounter.
+
+* {{UL|type=update|update=Ancient Awakening Launches - This Week in RuneScape|date=9 October 2023}}
+** Added to game.
+}}
+
+==Trivia==
+[[File:Behold, dog!.gif|Hearts appear over Vorkath as he is petted.|thumb]]
+* In ''[[Old School RuneScape]]'', [[osrsw:Vorkath|Vorkath]] was first introduced in 2018 as the boss monster of [[osrsw:Dragon Slayer II|Dragon Slayer II]]. There, Vorkath is missing his front left leg, whereas his ''RuneScape'' counterpart is not. Technical and time constraints meant existing four-legged dragon animations from [[Astellarn]] were reused, instead of creating new animations for a three-legged dragon.{{CiteVideo|url=UirfMJ5ePog|title=Vorkath: Battle of Forinthry, the latest update in the Season of Necromancy!|author=Mod Dragon|date=15 November 2023}}{{CiteReddit|url=https://www.reddit.com/r/runescape/comments/1cjdvtw/did_jagex_forget_that_vorkath_only_has_3_legs/l2fbdg7/|title=Did Jagex forget that Vorkath only has 3 legs?|author=Mod Doom|date=3 May 2024|archiveurl=https://archive.ph/37guK|archivedate=3 May 2024}}
+* When fought in hard mode with a group of 10, Vorkath has the highest lifepoint count of any monster currently in the game at 15,000,000.
+** The historical [[Party Demon]] still holds the record for the highest lifepoint count altogether at 200,000,000, but it hasn't reappeared since the [[200 million accounts celebration]] in 2012, and it wasn't a conventional fight since the [[boogie bow]] could deal up to 1,000,000 damage to it per shot.
+* "Vorkath" in the [[dragonkin language]] translates to "failure".{{CiteNPC|npc=Archivist (Ungael)|quote=He was our greatest 'Vorkath'. Our greatest failure.|loc=Ancient Awakening}} Other rough translations include "pathetic failure/weakling/runt".
+* Vorkath is the first dragon in ''RuneScape'' whose [[dragonfire]] does not have 100% accuracy and is additionally affected by most defensive abilities.
+* When petting Vorkath in the [[City of Um]] after completing the [[Requiem for a Dragon]] quest, it is possible to receive the message "Behold, dog!", accompanied by an animation of hearts floating over Vorkath. This is possibly a reference to a meme surrounding the game ''Elden Ring''.{{CiteGeneral|url=https://www.thegamer.com/elden-ring-players-debate-dog-meme-origins|author=Issy van der Velde|publisher=TheGamer|date=12 November 2022|title=Elden Ring Players Debate Dog Meme Origins|quote=Behold, dog! Every Elden Ring player has seen dozens of these messages, especially those of us who were around right when the game first launched.|archivedate=23 April 2024|archiveurl=https://archive.ph/AGeFi}}
+
+==References==
+{{Reflist}}
+
+{{Ancient Awakening}}
+{{Battle of Forinthry}}
+{{Dead and Buried}}
+{{Dragon (race)}}
+{{Eclipse of the Heart}}
+{{Requiem for a Dragon}}
+{{Soul Reaper}}
+{{Ungael}}
+{{Zemouregal & Vorkath}}
+[[Category:Undead]]
+[[pt:Vorkath]]

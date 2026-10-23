@@ -1,0 +1,110 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = A Soul's Bane
+|version2 = Post-quest (1)
+|version3 = Post-quest (2)
+|name = Angry giant rat
+|image1 = [[File:Angry giant rat (A Soul's Bane).png|180px]]
+|image2 = [[File:Angry giant rat (1).png|180px]]
+|image3 = [[File:Angry giant rat (2).png|180px]]
+|release = [[3 April]] [[2006]]
+|update = A Soul's Bane
+|members = No
+|actions = Attack
+|examine = He looks a little on the cross side!
+|level1 = 45
+|level2 = 35
+|level3 = 35
+|lifepoints = 1250
+|slaylvl = 1
+|slayxp2 = 14
+|slayxp3 = 14
+|experience = 62.5
+|aggressive = Yes
+|poisonous = No
+|slayercat = Rats
+|assigned_by = None
+|max_melee = 100
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 25
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 381
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 381
+|defence = 25
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect2 = No
+|immune_to_deflect3 = No
+|immune_to_stun = No
+|immune_to_drain2 = No
+|immune_to_drain3 = No
+|restriction1 = quest
+|id1 = 3662
+|id2 = 3662
+|id3 = 4940
+|leagueRegion = Misthalin
+}}
+'''Angry giant rats''' are [[monster]]s that appear during and after [[A Soul's Bane]] in [[Tolna's rift]]. The rat near the entrance is the only monster in Tolna's rift that drops an item when killed.
+
+During the quest, they can only be killed with the [[anger maul]]. Angry giant rats can be fought with any weapon after the quest. Angry giant rats do count toward a [[Rats (Slayer assignment)|Rats slayer assignment]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Tolna's rift]]
+|lvls=35, 45
+|mem=no
+|requirements={{QuestIcon|A Soul's Bane}} (partial)
+|mapID=4
+|npcid:3662,x:3280,y:9849
+|npcid:4940,x:3286,y:9830
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always|raritynotes={{DropNote|Only the rat nearest the entrance drops bones.}}}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[3 April]] [[2006]]|update=A Soul's Bane|img=Angry giant rat (April 2006).png|name=Angry giant rat}}
+|{{GUL|date=[[18 October]] [[2006]]|update=Player-Owned House Costume Room|img=Angry giant rat (October 2006).png|name=Angry giant rat}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Angry giant rat (2008).png|name=Angry giant rat}}
+|{{GUL|date=[[22 January]] [[2024]]|update=Community Hitlist and Necromancy Embargo - This Week In RuneScape|img=Angry giant rat (A Soul's Bane).png|name=Angry giant rat}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Community Hitlist and Necromancy Embargo - This Week In RuneScape|date=22 January 2024}}
+** Updated the Angry Unicorn, Bear and Giant Rat in Tolna's Rift to use newer models.
+
+* {{UL|type=update|update=A Soul's Bane|date=3 April 2006}}
+** Added to game.
+}}
+
+{{A Soul's Bane}}
+{{Rats}}
+[[Category:Quest monsters]]

@@ -1,0 +1,260 @@
+{{Otheruses|the boss|the quest|Osseous Rex|the restorable skeleton|Rex skeleton}}
+{{Redirect|Ossy|the collection log achievement|Ossy Ossy Ossy!}}
+{{HasStrategy}}
+{{Multi infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|name = Osseous
+|image = [[File:Osseous.png]]
+|release = [[28 May]] [[2024]]
+|update = Osseous Launch - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|size = 5
+|gender = Female
+|examine = This boss fight needs fleshing out a bit.
+|level = 888
+|lifepoints = 350000
+|aggressive = Yes 
+|poisonous = No
+|slaylvl = 1
+|slayxp = 7000
+|slayercat = Dinosaurs, Skeletons, Undead
+|max_melee = 3129
+|max_ranged = 3129
+|max_magic = 3129
+|max_necromancy = 3129
+|max_spec = 5100
+|style = Necromancy
+|primarystyle = necromancy
+|speed = 6
+|attack = 140
+|ranged = 140
+|magic = 140
+|necromancy = 140
+|acc_melee = 3862
+|acc_ranged = 3862
+|acc_magic = 3862
+|acc_necromancy = 3862
+|abilities = 
+|armour = 2458
+|defence = 90
+|weakness = Necromancy
+|susceptibility = salamancy, undead
+|aff_weakness = 100
+|aff_melee = 10
+|aff_ranged = 10
+|aff_magic = 10
+|immune_to_poison = Yes
+|immune_to_stun = Yes
+|immune_to_deflect = No
+|immune_to_drain = No
+|restriction = No
+|id = 30629, 30996
+|leagueRegion = Anachronia
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = Remains
+|version2 = Alive
+|name = Osseous
+|image1 = [[File:Osseous (remains).png]]
+|image2 = [[File:Osseous.png]]
+|release = [[28 May]] [[2024]]
+|update = Osseous Launch - This Week In RuneScape
+|members = Yes
+|level = 888
+|race = Dinosaur
+|quest = [[Osseous Rex]]
+|location = [[Rex Matriarch lair]]
+|gender = Female
+|options = Examine
+|size = 5
+|examine = You don't want to pick this bone.
+|map = 
+|id1 = 30961
+|id2 = 30962
+|leagueRegion = Anachronia
+}}
+}}
+'''Osseous''' is the skeletal rex matriarch, one of the four [[Rex Matriarchs]]. Osseous is weak to [[necromancy]] and highly resistant to all remaining styles.
+
+Unlike the other Rex Matriarchs, the quest [[Osseous Rex]] must be completed to fight Osseous inside the Rex Matriarch lair, requiring levels 70 Necromancy and 30 [[Archaeology]]. Osseous is also stronger than the other matriarchs, having nearly double their health, and has more damaging attacks and abilities. Her section of the arena is additionally cut off from the rest of the matriarchs; rather than entering the main arena from the [[Crumbled wall (Rex Matriarch lair)|crumbled wall]], players utilise a teleport crystal in the "lobby" to reach her.
+
+Osseous' [[collection log]] is separate from that of the other matriarchs; while she retains all of the [[savage spear]] component drops, she does not have a corresponding combat heart, instead dropping the whole [[occultist's ring]]. She also drops [[jail cell key]]s used to unlock pet versions of three rex dinosaur variants.
+
+Obtaining all of the drops from this encounter completes the achievement [[Ossy Ossy Ossy!]], unlocking the title {{TitleAnchor|the Skeletal}}.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Anachronia]]
+|lvls=888
+|mem=yes
+|leagueRegion = Anachronia
+}}
+{{LocTableBottom}}
+
+===Getting there===
+[[File:Rex Matriarchs Path.png|right|thumb|Directions to the Rex Matriarchs arena entrance from the [[Anachronia lodestone]]]]
+[[File:Rex Matriarchs entrance teleportation device.png|thumb|Activating the device teleports the player to the dungeon beneath Anachronia, containing the matriarchs.]]
+
+* By activating the [[Orthen teleportation device]] in the [[Spirit grove]], directly east from the [[Anachronia base camp]], then running all the way east until arriving at the [[Matriarch lair]] door.
+* By using a War's retreat attuned [[Boss portal (War's Retreat)|boss portal]], being teleported right in front of the Rex Matriarch lair door.
+* By using the [[Combat portal]] in the [[Max Guild]] and attuning it to the [[Rex Matriarchs]].
+
+Activate the [[Osseous teleportation device]] inside the [[Rex Matriarch lair]], just west of the [[crumbled wall (Rex Matriarch lair)|crumbled wall]], to reach Osseous.
+
+==Instance information==
+{{Infobox instance
+|name = Matriarch lair
+|boss = Osseous
+|access = [[Matriarch lair]] ({{Maplink|mapID=-1|x:3931,y:9866|text=Rex Matriarch lair|mtype=pin}})
+|grave = Outside the lair
+|timer = 1
+|notes = [[Osseous teleportation device]] needs to be used next to access the boss arena
+}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Dinosaur bones|quantity=2|rarity=Always}}
+{{DropsLine|name=Damaged dinosaur bones|quantity=4-6|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-rolls===
+Tier 2 [[luck]] or higher will improve the following drop rates.{{CiteNews|url=https://secure.runescape.com/m=news/drop-rates-revealed-sanctum-of-rebirth-osseous-and-daemonheim-archaeology|title=Drop Rates Revealed: Sanctum of Rebirth, Osseous, and Daemonheim Archaeology!|newsdate=23 August 2024 |notes=The drop rate given for Heart of the Berserker is an approximation. |name=aug24rates}}
+
+{{DropsTableHead}}
+{{DropsLine|name=Occultist's ring|quantity=1|rarity=2/399|altrarity=2/393|raritynotes={{DropNote|Occultist's ring dropped as a result of 1/133 roll on the drop table followed by a 2/3 roll for this item. Increased to 2/393 with tier 2 [[luck]] or higher.}}|citations={{NamedRef|aug24rates}}}}
+{{DropsLine|name=Jail cell key|quantity=1|rarity=1/399|altrarity=1/393|raritynotes={{DropNote|Jail cell key dropped as a result of 1/133 roll on the drop table followed by a 1/3 roll for this item. Increased to 1/393 with tier 2 [[luck]] or higher.}}|citations={{NamedRef|aug24rates}}}}
+{{DropsLine|name=Skeka's hypnowand focus|quantity=1|rarity=7/5000|altrarity=7/4850|altraritydash=yes|raritynotes={{DropNote|name=wand|To receive pieces of Skeka's hypnowand, the [[Aged journal]] must have been read previously. There is a 1/500 chance to roll for a hypnowand piece; however, there is a 70% chance that this will be a focus piece and a 10% chance for each of the other three pieces, respectively. [[Luck]] increases this drop rate: tier 2 multiplies it by 100/99, tier 3 by 100/98, and tier 4 by 100/97.}}|citations={{NamedRef|aug24rates}}}}
+{{DropsLine|name=Skeka's hypnowand projector|quantity=1|rarity=1/5000|altrarity=1/4850|altraritydash=yes|raritynotes={{DropNote|name=wand}}|citations={{NamedRef|aug24rates}}}}
+{{DropsLine|name=Skeka's hypnowand handle|quantity=1|rarity=1/5000|altrarity=1/4850|altraritydash=yes|raritynotes={{DropNote|name=wand}}|citations={{NamedRef|aug24rates}}}}
+{{DropsLine|name=Skeka's hypnowand base|quantity=1|rarity=1/5000|altrarity=1/4850|altraritydash=yes|raritynotes={{DropNote|name=wand}}|citations={{NamedRef|aug24rates}}}}
+{{DropsLine|name=Savage spear tip|quantity=1|rarity=1/450|altrarity=1/444|raritynotes={{DropNote|name=t2luckspear|Increased to 1/444 with tier 2 [[luck]] or higher.}}}}
+{{DropsLine|name=Savage spear cap|quantity=1|rarity=1/450|altrarity=1/444|raritynotes={{DropNote|name=t2luckspear}}}}
+{{DropsLine|name=Savage plume|quantity=1|rarity=1/450|altrarity=1/444|raritynotes={{DropNote|name=t2luckspear}}}}
+{{DropsLine|name=Savage spear shaft|quantity=1|rarity=1/450|altrarity=1/444|raritynotes={{DropNote|name=t2luckspear}}}}
+{{DropsLine|name=Heart of the Berserker|quantity=1|rarity=1/225|altrarity=1/222|raritynotes={{DropNote|Increased to 1/222 with tier 2 [[luck]] or higher.}}|citations={{NamedRef|aug24rates}}}}
+{{DropsTableBottom}}
+
+===Armour upgrade materials===
+{{DropsTableHead}}
+{{DropsLine|name=Sirenic scale|quantity=1|rarity=50/10000}}
+{{DropsLine|name=Ancient scale|quantity=1|rarity=50/10000}}
+{{DropsLine|name=Draconic energy|quantity=1|rarity=50/10000}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Watermelon seed|quantity=20-30|rarity=1000/10000}}
+{{DropsLine|name=Arbuck seed|quantity=2|rarity=1130/10000}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium blunt rune salvage|quantity=4-8 (noted)|rarity=1035/10000}}
+{{DropsLine|name=Large spiky rune salvage|quantity=4-6 (noted)|rarity=1035/10000}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=75000-125000|rarity=1000/10000}}
+{{DropsLine|name=Coins|quantity=500000-700000|rarity=150/10000}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Damaged dinosaur bones|quantity=40-60 (noted)|rarity=150/10000}}
+{{DropsLine|name=Onyx bolt tips|quantity=17-23|rarity=1000/10000}}
+{{DropsLine|name=Uncut dragonstone|quantity=8-12 (noted)|rarity=1000/10000}}
+{{DropsLine|name=White berries|quantity=5 (noted)|rarity=1000/10000}}
+{{DropsLine|name=Dinosaur bones|quantity=5 (noted)|rarity=350/10000}}
+{{DropsLine|name=Super necromancy (3)|quantity=5 (noted)|rarity=1000/10000}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/150}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=10/1280}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=495/128000|raritynotes={{DropNote|This drop will only roll if you failed to roll for a hard clue.}}}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=5/128000}}
+{{DropsLine|name=Calcified heart|quantity=1|rarity=1/2000|altrarity=10/2000|altraritydash=yes|raritynotes={{DropNote|Calcified heart has a base drop rate of 1/2,000 with a [[Boss pets#Mechanics|threshold of 1,000]].}}|citations={{CiteTwitter|author=Mod Ramen|date=31 May 2024|url=https://x.com/JagexRamen/status/1796486930009596090|quote=Same as the others, yes|archiveurl=https://archive.is/CeNDn|archivedate=31 May 2024}}}}
+{{DropsLine|name=Osseous' skull|quantity=1|rarity=1/500|alch=no}}
+{{DropsTableBottom}}
+
+==Money making guide==
+{{Mmgsection|Killing Osseous}}
+
+==Achievements==
+===Rex Matriarchs achievements===
+{{Main|Rex Matriarchs achievements}}
+* {{Achievement|Rex Matriarchs (achievement)}}
+* I Came In Like a Rex-ing Ball:
+** {{Achievement|I Came In Like a Rex-ing Ball I}}
+** {{Achievement|I Came In Like a Rex-ing Ball II}}
+** {{Achievement|I Came In Like a Rex-ing Ball III}}
+** {{Achievement|I Came In Like a Rex-ing Ball IV}}
+** {{Achievement|I Came In Like a Rex-ing Ball V}}
+** {{Achievement|I Came In Like a Rex-ing Ball VI}}
+* {{Achievement|Did You Say Something?}}
+* {{Achievement|Too Many Bones to Pick From}}
+* {{Achievement|Jail break}}
+
+===Boss Pet===
+{{Main|Boss Pets achievements}}
+* {{Achievement|Baby Osseous (achievement)}}
+
+===Boss Log===
+{{Main|Boss Logs achievements}}
+* {{Achievement|Ossy Ossy Ossy!}}
+** [[Occultist's ring]]
+** [[Jail cell key]]
+** [[Baby Osseous]]
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Ossebones.png|Osseous' lair
+Ossebone2.png|Osseous' lair
+BoneOsseous.png|Osseous' lair
+Osseous (Christmas).png|Osseous wearing a Santa hat during the Christmas period
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Weapon Improvements & Necromancy Soundtrack - This Week In RuneScape|date=27 May 2025}}
+** Minor update to the Salve amulet, Salve amulet (e) and the Necklace of Salamancy to provide their respective damage bonuses to Osseous.
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** [[Slayer]] experience increased from 394 to 7,000.
+
+* {{UL|type=patch|update=The Beach Is Here! - This Week In RuneScape|date=24 June 2024}}
+** Reduced Osseous' cutscene combat level to match Osseous' boss combat level.
+
+* {{UL|type=update|update=Osseous Launch - This Week In RuneScape|date=28 May 2024}}
+** Added to game.
+}}
+
+==Trivia==
+* The name 'Osseous' refers to consisting of bones or turning into bone.
+* The [[RuneMetrics]] Event Log incorrectly states drops that are received as {{RSFont|After killing a{{sic}} Osseous, it dropped a[n] [item].}}. Additionally, if the item is an [[occultist's ring]], the 's' at the end of 'occultist's' is clipped.
+* Osseous was originally conceived during the [[Game Jam (June 2023)|June 2023]] [[Game Jam]] by a team consisting of [[Mod Camel]], [[Mod Abe]] and [[Mod Rain]], with other Moderators joining to provide support during subsequent Game Jams.
+
+==References==
+{{Reflist}}
+
+{{Rex Matriarchs}}
+{{Osseous Rex}}
+{{Soul Reaper}}
+{{Anachronia}}
+[[Category:Game Jam content]]
+[[pt:Ossaura]]

@@ -1,0 +1,110 @@
+{{Infobox Monster
+|version1 = 70
+|version2 = 86
+|version3 = 103
+|version4 = 120
+|version5 = 138
+|name = Giant bat
+|image = [[File:Giant bat (Sinkholes).png]]
+|release = [[5 February]] [[2013]]
+|update = Sinkholes
+|members = Yes
+|options = Attack
+|examine = A big, winged pig-mouse.
+|level1 = 70
+|level2 = 86
+|level3 = 103
+|level4 = 120
+|level5 = 138
+|lifepoints1 = 1300
+|lifepoints2 = 2500
+|lifepoints3 = 2500
+|lifepoints4 = 2500
+|lifepoints5 = 2500
+|experience1 = 65.0
+|experience2 = 125.0
+|experience3 = 125.0
+|experience4 = 125.0
+|experience5 = 125.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 22.4
+|slayxp2 = 37.2
+|slayxp3 = 75.4
+|slayxp4 = 132.8
+|slayxp5 = 245
+|slayercat = Bats
+|assigned_by = Turael, Spria, Mazchna, Vannaka, Jacquelyn
+|max_melee1 = 200
+|max_melee2 = 396
+|max_melee3 = 396
+|max_melee4 = 396
+|max_melee5 = 396
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 50
+|attack2 = 99
+|attack3 = 99
+|attack4 = 99
+|attack5 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 500
+|acc_melee2 = 990
+|acc_melee3 = 990
+|acc_melee4 = 990
+|acc_melee5 = 990
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 500
+|armour2 = 990
+|armour3 = 990
+|armour4 = 990
+|armour5 = 990
+|defence1 = 50
+|defence2 = 99
+|defence3 = 99
+|defence4 = 99
+|defence5 = 99
+|weakness = Nothing
+|aff_weakness = 80
+|aff_melee = 80
+|aff_ranged = 80
+|aff_magic = 80
+|immune_to_poison = No
+|immune_to_stun = No
+|restriction = minigame
+|leagueRegion = Morytania,Fremennik,Kandarin,Karamja,Misthalin,Asgarnia,Desert,Havenhythe
+|id1 = 16763
+|id2 = 16767
+|id3 = 16767
+|id4 = 16767
+|id5 = 16767
+}}
+
+A '''giant bat''' that is found in [[Sinkholes]] is an animal that looks like a bat, but is, as expected, bigger. It doesn't hit particularly hard for its level, but it is very accurate.
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Combat totem|quantity=1|rarity=Always|gemw=no|alch=no}}
+{{DropsTableBottom}}
+
+===Cards===
+{{DropsTableSinkholesCards|showlv85=y}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Sinkholes|date=5 February 2013}}
+** Added to game.
+}}
+
+{{Sinkholes}}

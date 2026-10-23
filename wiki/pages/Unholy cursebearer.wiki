@@ -1,0 +1,391 @@
+{{Otheruses|def=no|the music track|Unholy Cursebearer (music track)}}
+{{Infobox Monster
+|version1 = 47
+|version2 = 53
+|version3 = 58
+|version4 = 64
+|version5 = 70
+|version6 = 75
+|version7 = 81
+|version8 = 86
+|version9 = 92
+|version10 = 98
+|version11 = 103
+|version12 = 109
+|version13 = 114
+|version14 = 120
+|version15 = 126
+|version16 = 131
+|version17 = 138
+|name = Unholy cursebearer
+|image = [[File:Unholy cursebearer.png|200px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|examine = This mage died a long time ago.
+|level1 = 47
+|level2 = 53
+|level3 = 58
+|level4 = 64
+|level5 = 70
+|level6 = 75
+|level7 = 81
+|level8 = 86
+|level9 = 92
+|level10 = 98
+|level11 = 103
+|level12 = 109
+|level13 = 114
+|level14 = 120
+|level15 = 126
+|level16 = 131
+|level17 = 138
+|lifepoints1 = 10000
+|lifepoints2 = 12000
+|lifepoints3 = 14000
+|lifepoints4 = 16000
+|lifepoints5 = 18000
+|lifepoints6 = 20000
+|lifepoints7 = 22000
+|lifepoints8 = 24000
+|lifepoints9 = 26000
+|lifepoints10 = 29000
+|lifepoints11 = 32000
+|lifepoints12 = 35000
+|lifepoints13 = 38000
+|lifepoints14 = 40500
+|lifepoints15 = 43500
+|lifepoints16 = 46500
+|lifepoints17 = 49500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 
+|slayxp2 =
+|slayxp3 = 
+|slayxp4 =
+|slayxp5 = 
+|slayxp6 =
+|slayxp7 = 
+|slayxp8 =
+|slayxp9 = 
+|slayxp10 =
+|slayxp11 = 
+|slayxp12 =
+|slayxp13 =
+|slayxp14 =
+|slayxp15 =
+|slayxp16 =
+|slayxp17 =
+|slayercat = Skeletons, Creatures of Daemonheim
+|max_melee1 = 40
+|max_melee2 = 88
+|max_melee3 = 136
+|max_melee4 = 184
+|max_melee5 = 232
+|max_melee6 = 272
+|max_melee7 = 320
+|max_melee8 = 368
+|max_melee9 = 416
+|max_melee10 = 464
+|max_melee11 = 512
+|max_melee12 = 560
+|max_melee13 = 608
+|max_melee14 = 648
+|max_melee15 = 696
+|max_melee16 = 744
+|max_melee17 = 792
+|max_ranged1 = 40
+|max_ranged2 = 88
+|max_ranged3 = 136
+|max_ranged4 = 184
+|max_ranged5 = 232
+|max_ranged6 = 272
+|max_ranged7 = 320
+|max_ranged8 = 368
+|max_ranged9 = 416
+|max_ranged10 = 464
+|max_ranged11 = 512
+|max_ranged12 = 560
+|max_ranged13 = 608
+|max_ranged14 = 648
+|max_ranged15 = 696
+|max_ranged16 = 744
+|max_ranged17 = 792
+|max_magic1 = 40
+|max_magic2 = 88
+|max_magic3 = 136
+|max_magic4 = 184
+|max_magic5 = 232
+|max_magic6 = 272
+|max_magic7 = 320
+|max_magic8 = 368
+|max_magic9 = 416
+|max_magic10 = 464
+|max_magic11 = 512
+|max_magic12 = 560
+|max_magic13 = 608
+|max_magic14 = 648
+|max_magic15 = 696
+|max_magic16 = 744
+|max_magic17 = 792
+|max_necromancy = 0
+|style = melee, magic
+|speed = 4
+|attack1 = 34
+|attack2 = 38
+|attack3 = 42
+|attack4 = 46
+|attack5 = 50
+|attack6 = 54
+|attack7 = 58
+|attack8 = 62
+|attack9 = 66
+|attack10 = 70
+|attack11 = 74
+|attack12 = 78
+|attack13 = 82
+|attack14 = 86
+|attack15 = 90
+|attack16 = 94
+|attack17 = 99
+|ranged1 = 34
+|ranged2 = 38
+|ranged3 = 42
+|ranged4 = 46
+|ranged5 = 50
+|ranged6 = 54
+|ranged7 = 58
+|ranged8 = 62
+|ranged9 = 66
+|ranged10 = 70
+|ranged11 = 74
+|ranged12 = 78
+|ranged13 = 82
+|ranged14 = 86
+|ranged15 = 90
+|ranged16 = 94
+|ranged17 = 99
+|magic1 = 34
+|magic2 = 38
+|magic3 = 42
+|magic4 = 46
+|magic5 = 50
+|magic6 = 54
+|magic7 = 58
+|magic8 = 62
+|magic9 = 66
+|magic10 = 70
+|magic11 = 74
+|magic12 = 78
+|magic13 = 82
+|magic14 = 86
+|magic15 = 90
+|magic16 = 94
+|magic17 = 99
+|necromancy = 1
+|acc_melee1 = 519
+|acc_melee2 = 590
+|acc_melee3 = 668
+|acc_melee4 = 755
+|acc_melee5 = 850
+|acc_melee6 = 955
+|acc_melee7 = 1070
+|acc_melee8 = 1197
+|acc_melee9 = 1335
+|acc_melee10 = 1486
+|acc_melee11 = 1650
+|acc_melee12 = 1829
+|acc_melee13 = 2023
+|acc_melee14 = 2232
+|acc_melee15 = 2458
+|acc_melee16 = 2701
+|acc_melee17 = 3031
+|acc_ranged1 = 519
+|acc_ranged2 = 590
+|acc_ranged3 = 668
+|acc_ranged4 = 755
+|acc_ranged5 = 850
+|acc_ranged6 = 955
+|acc_ranged7 = 1070
+|acc_ranged8 = 1197
+|acc_ranged9 = 1335
+|acc_ranged10 = 1486
+|acc_ranged11 = 1650
+|acc_ranged12 = 1829
+|acc_ranged13 = 2023
+|acc_ranged14 = 2232
+|acc_ranged15 = 2458
+|acc_ranged16 = 2701
+|acc_ranged17 = 3031
+|acc_magic1 = 519
+|acc_magic2 = 590
+|acc_magic3 = 668
+|acc_magic4 = 755
+|acc_magic5 = 850
+|acc_magic6 = 955
+|acc_magic7 = 1070
+|acc_magic8 = 1197
+|acc_magic9 = 1335
+|acc_magic10 = 1486
+|acc_magic11 = 1650
+|acc_magic12 = 1829
+|acc_magic13 = 2023
+|acc_magic14 = 2232
+|acc_magic15 = 2458
+|acc_magic16 = 2701
+|acc_magic17 = 3031
+|acc_necromancy = 0
+|armour1 = 519
+|armour2 = 590
+|armour3 = 668
+|armour4 = 755
+|armour5 = 850
+|armour6 = 955
+|armour7 = 1070
+|armour8 = 1197
+|armour9 = 1335
+|armour10 = 1486
+|armour11 = 1650
+|armour12 = 1829
+|armour13 = 2023
+|armour14 = 2232
+|armour15 = 2458
+|armour16 = 2701
+|armour17 = 3031
+|defence1 = 34
+|defence2 = 38
+|defence3 = 42
+|defence4 = 46
+|defence5 = 50
+|defence6 = 54
+|defence7 = 58
+|defence8 = 62
+|defence9 = 66
+|defence10 = 70
+|defence11 = 74
+|defence12 = 78
+|defence13 = 82
+|defence14 = 86
+|defence15 = 90
+|defence16 = 94
+|defence17 = 99
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10111
+|id2 = 10112
+|id3 = 10113
+|id4 = 10114
+|id5 = 10115
+|id6 = 10116
+|id7 = 10117
+|id8 = 10118
+|id9 = 10119
+|id10 = 10120
+|id11 = 10121
+|id12 = 10122
+|id13 = 10123
+|id14 = 10124
+|id15 = 10125
+|id16 = 10126
+|id17 = 10127
+|leagueRegion=Wilderness}}
+[[File:Unholy cursebearer icon.png|left]]
+[[File:Unholy cursebearer chathead.png|left]]
+The '''unholy cursebearer''' is a boss in [[Daemonheim]], requiring 29 [[Dungeoneering]]. He can be encountered on floors 15-17 and 30-35, all of which are [[abandoned floors]].
+
+[[Thok]] encounters one he calls [[Bone Face]] during the [[Thok Your Block Off (saga)|Thok Your Block Off]] [[Fremennik Saga]].
+
+==The fight==
+[[FIle:Unholy cursebearer fight.png|thumb|The cursebearer's skull attack.]]
+The unholy cursebearer afflicts the player with undead rot that will constantly drain their combat stats every few seconds and deals minor typeless damage. There are two unholy fonts on the wall opposite the entrance which allow for restoring one's stats from the undead rot. However, either may not be used until notified by the chatbox, after the undead rot works through the player for some time. Using the unholy fonts will also heal the unholy cursebearer by 1/8th of his maximum [[life points]]. Therefore, it is strongly advised use them only when needed. There is no minimum limit for the stat draining, he will eventually drain all of a player's combat stat to zero if the fight is long enough. The stat drain '''will''' prevent the use of abilities or teleports if a player's stats drop below the level requirements.
+
+This boss uses a standard melee attack and a magic attack in which red energy appears on top of his staff and spell that looks very much like [[Iban Blast]] is fired at the target. The magic attack can either be single-targeted or multi-targeted.
+
+There are various tactics that can slow or negate the stat drain of the rot, such as stat-boosting potions. Turning on the [[Rapid Restore]] prayer will cause your stats to regain some points in the duration of the fight. However, this prayer's effect is relatively slow, compared to the drain rate of the undead rot. Bringing a shield and using the ability [[Rejuvenate]] may be helpful as long as the player's [[Defence]] level does not drop below 52.
+
+A slower strategy to avoid the stat drain and any damage is to use a gatestone. Place a gatestone outside the boss room and enter just long enough to hit him twice before teleporting out. If done right, no combat stats are lost. Keep in mind that regular gatestones can only be used once, so utilising a group gatestone works better.
+
+It is worth noting that the Unholy Cursebearer is not immune to damage-over-time attacks. This is especially useful when paired with the 'Gatestone strategy', as he will be hurt even when the player is outside of the boss room.
+
+==Drops==
+The Unholy cursebearer always drops one item from the magic staves list and one item from the necromancy armguards list.
+
+===Magic staves===
+{{DropsTableHead}}
+{{DropsLine|name=Air staff (Dungeoneering)|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Empowered air staff|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Water staff (Dungeoneering)|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Empowered water staff|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Earth staff (Dungeoneering)|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Empowered earth staff|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Fire staff (Dungeoneering)|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Empowered fire staff|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Catalytic staff|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Empowered catalytic staff|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Celestial catalytic staff|quantity=1|rarity=Random|gemw=no}}
+{{DropsTableBottom}}
+
+===Necromancy armguards===
+{{DropsTableHead}}
+{{DropsLine|name=Novite guard|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Bathus guard|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Marmaros guard|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Kratonite guard|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Fractite guard|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Zephyrium guard|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Argonite guard|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Katagon guard|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Gorgonite guard|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Promethium guard|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Entropic guard|quantity=1|rarity=Random|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Mysterious chronicle|quantity=1|rarity=Common|gemw=no}}
+{{DropsLine|name=The price of betrayal|quantity=1|rarity=Common|gemw=no}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Dungeoneering Remastered|date=11 May 2026}}
+** Added necromancy armguards as potential drops.
+** Base hit chances (affinities) increased:
+*** Magic ('weak'): 40 → 70
+*** Melee ('same'): 40 → 60
+*** Ranged ('strong'): 40 → 50
+*** Weakness: 40 → 90
+
+* {{UL|type=patch|update=Patch Notes (2 November 2015)|date=2 November 2015}}
+** The scaling of the Unholy Cursebearer boss in Daemonheim has been tweaked.
+
+* {{UL|type=patch|update=Patch Notes (28_January_2013)|date=28 January 2013}}
+** Fixed an issue with inconsistent life point values on some versions of the Unholy cursebearer Dungeoneering boss.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+==Trivia==
+* He is called a skeletal archmage by the message given when a player restores their stats while fighting him.
+* The Unholy cursebearer is one of the few Dungeoneering bosses not immune to poison, along with [[Sagittare]] and [[Skeletal Horde]].
+* He appears to have an irregular attack speed, similar to [[Cave horror]]s. Most of the time he attacks with a 4 tick delay between his attacks, randomly increasing or decreasing by one tick. This is probably intentional to thwart prayer flashing.
+* The unholy cursebearer shares the same walking and death animations as Rammernaut, as well as the same walking sounds.
+* There was a glitch in which the level 150, level 138, and level 134 versions would have over 200,000 life points, making him very difficult to defeat. If killed, the glitched cursebearer would give large amounts of experience, often over 20,000 per kill. This glitch was fixed with the release of [[Demon Flash Mob]]s on [[28 January]] [[2013]].
+* Upon the release of the [[Evolution of Combat]], the Unholy Cursebearer would not be healed with the use of the unholy font; otherwise it would be healed an inconsequential amount.
+* According to [[The price of betrayal]], the Unholy Cursebearer once betrayed [[Bilrach]] who then cursed the cursebearer to make him undead.
+* Despite only requiring 29 Dungeoneering, his minimum combat level is higher than any boss until [[Shadow-Forger Ihlakhizan]] (59 Dungeoneering).
+
+{{Dungeoneeringbosses}}
+{{Skeletons}}
+[[Category:Free-to-play bosses]]
+[[pt:Portapraga Profano]]

@@ -1,0 +1,90 @@
+{{Multi Infobox
+|text1 = NPC
+|item1 =
+{{Infobox NPC
+|name = Ghost
+|image = [[File:Ghost (Shattered Worlds).png|x280px]]
+|release = [[2 May]] [[2017]]
+|update = Shattered Worlds
+|members = Yes
+|race = Ghost
+|quest = No
+|location = [[Shattered Worlds]]
+|gender = No
+|options = Examine
+|examine =
+|map =
+|leagueRegion = Asgarnia
+|id = 24368
+}}
+|text2 = Monster
+|item2 =
+{{Infobox Monster
+|name = Ghost
+|image = [[File:Ghost (Shattered Worlds).png|x280px]]
+|release = [[2 May]] [[2017]]
+|update = Shattered Worlds
+|members = Yes
+|options = Attack, Examine
+|race = Ghost
+|examine =
+|level =
+|lifepoints =
+|experience =
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp =
+|slayercat = Ghosts, Undead
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 14.4
+|max_necromancy = 0
+|max_spec = 0
+|style = Magic
+|primarystyle = Magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic =
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 110
+|acc_necromancy = 0
+|abilities = No
+|armour = 110
+|defence =
+|weakness = Thrown
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|leagueRegion = Asgarnia
+|id = 24369
+}}
+}}
+'''Ghosts''' are [[non-player character]]s who may appear in [[Shattered Worlds]].
+
+[[File:Shattered Worlds ghosts side objective.png|thumb|The fountain and ghosts]]
+Eight ghosts may be found together around a [[mysterious fountain]] in the shattered world. When the fountain activates, a timer will start and the ghosts become attackable. When the timer expires, anima is awarded based on how many ghosts were killed. The ghosts remain after the timer expires and continue to attack the player. Ghosts count towards completion of the main objective on the shattered world and can drop repair kits if the main objective is to repair the exit portal.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Shattered Worlds|date=2 May 2017}}
+** Added to game.
+}}
+
+{{Shattered Worlds}}

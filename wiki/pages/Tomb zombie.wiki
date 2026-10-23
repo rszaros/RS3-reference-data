@@ -1,0 +1,69 @@
+{{Infobox Monster
+|name = Tomb zombie
+|image = [[File:Tomb zombie.png]]
+|release = [[9 October]] [[2023]]
+|update = Ancient Awakening Launches - This Week in RuneScape
+|members = Yes
+|actions = Attack, Examine
+|race = Zombie
+|examine = The walking dead.
+|level = 40
+|lifepoints = 1
+|experience = 0.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 8.2
+|slayercat = Zombies, Undead
+|max_melee = 480.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 10
+|ranged = 10
+|magic = 10
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 732
+|defence = 10
+|weakness = Nothing
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = quest
+|id = 30565
+|leagueRegion=Wilderness}}
+'''Tomb zombies''' are enemies that can be found in the [[Crypt (Wilderness)|Wilderness crypt]] during [[Ancient Awakening]]. They drop three [[dragonkin artefact]]s when killed.
+
+Their [[life points]] scale with the player's [[combat level]].
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Dragonkin artefact|quantity=3|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=hidden|update=Combat Refinement & Off-Duty Outfits! - This Week In RuneScape|date=23 October 2023}}
+** These zombies were graphically updated alongside those within the Combat Arena of Ancient Awakening to better reflect that they are Zemouegeal's evil Necromantic summons.
+
+* {{UL|type=update|update=Ancient Awakening Launches - This Week in RuneScape|date=9 October 2023}}
+** Added to game.
+}}
+
+{{Ancient Awakening}}
+[[pt:Zumbi da tumba]]

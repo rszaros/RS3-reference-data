@@ -1,0 +1,228 @@
+{{Infobox Monster
+|version1 = Warhammer
+|version2 = Axe
+|version3 = Round shield
+|version4 = Square shield
+|version5 = Mace
+|name = Skeleton
+|image1 = [[File:Skeleton (Ullek, warhammer).png|150px]]
+|image2 = [[File:Skeleton (Ullek, axe).png|150px]]
+|image3 = [[File:Skeleton (Ullek, round shield).png|150px]]
+|image4 = [[File:Skeleton (Ullek, square shield).png|150px]]
+|image5 = [[File:Skeleton (Ullek, mace).png|150px]]
+|release = [[2 January]] [[2008]]
+|update = Dealing with Scabaras
+|members = Yes
+|options = Attack, Examine
+|examine1 = {{sic|It's}} bones have been bleached by the sun.
+|examine2 = A reminder of mortality.
+|examine3 = Anatomically correct.
+|examine4 = Gutless...but fearless.
+|examine5 = Heartless, in every sense of the word.
+|level = 70
+|lifepoints = 2500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 43.2
+|slayercat = Skeletons, Undead
+|max_melee = 200
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 50
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Earth
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Desert
+|id1 = 6764
+|id2 = 6768
+|id3 = 6768
+|id4 = 6768
+|id5 = 6768
+}}
+'''Skeletons''' in [[Ullek]] play a small role in the [[Dealing with Scabaras]] quest. They are located in the raised area near [[Lead archaeologist Abigail]], along with [[dried zombie]]s and [[mummy|mummies]]. Their location is affected by [[desert heat]]. These skeletons can be killed for [[Scabarite notes]] to complete the [[Scabarites Notes]] miniquest.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ullek]]
+|lvls=70
+|mem=yes
+|mapID=28
+|plane=1
+|npcid:6766,x:3406,y:2837|npcid:6767,x:3409,y:2844|npcid:6768,x:3414,y:2844
+|npcid:6764,x:3415,y:2840|npcid:6765,x:3418,y:2851|npcid:6767,x:3421,y:2855
+|npcid:6764,x:3426,y:2852|npcid:6765,x:3432,y:2854|npcid:6766,x:3434,y:2848
+|npcid:6768,x:3439,y:2851|npcid:6764,x:3439,y:2857
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=106|rarity=20/128}}
+{{DropsLine|name=Coins|quantity=142|rarity=13/128}}
+{{DropsLine|name=Coins|quantity=323|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Salvage and stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Small bladed bronze salvage|quantity=1|rarity=13/128}}
+{{DropsLine|name=Small bladed iron salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Tiny spiky steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Small bladed steel salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small bladed mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium bladed adamant salvage|quantity=1|rarity=1/28}}
+{{DropsLine|name=Coal stone spirit|quantity=3|rarity=5/128}}
+{{DropsLine|name=Silver stone spirit|quantity=1|rarity=2/128}}
+{{DropsLine|name=Silver stone spirit|quantity=3|rarity=5/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=2/128}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Maple shortbow|quantity=1|rarity=3/128}}
+{{DropsLine|name=Steel arrow|quantity=1-25|rarity=3/128}}
+{{DropsLine|name=Adamant arrow|quantity=1-15|rarity=2/128}}
+{{DropsLine|name=Mithril bolts|quantity=1-15|rarity=3/128}}
+{{DropsLine|name=Steel dart|quantity=1-15|rarity=1/256}}
+{{DropsLine|name=Off-hand steel dart|quantity=1-15|rarity=1/256}}
+{{DropsLine|name=Steel dart|quantity=1-25|rarity=3/256}}
+{{DropsLine|name=Off-hand steel dart|quantity=1-25|rarity=3/256}}
+{{DropsLine|name=Mithril grapple|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Desert shirt|quantity=1|rarity=2/128}}
+{{DropsLine|name=Desert robe|quantity=1|rarity=5/128}}
+{{DropsLine|name=Desert top (overcoat)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Ruby ring|quantity=1|rarity=2/128}}
+{{DropsLine|name=Combat potion (1)|quantity=1|rarity=2/128}}
+{{DropsLine|name=Super strength (1)|quantity=1|rarity=2/128}}
+{{DropsLine|name=Knife|quantity=1|rarity=6/128}}
+{{DropsLine|name=Rope|quantity=3|rarity=1/128}}
+{{DropsLine|name=Goat horn dust|quantity=3 (noted)|rarity=1/128}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolled first, separately.}}|gemw=no}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|5/128}}
+{{DropsTableHead}}
+{{HerbDropTable|5/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4,000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000}}
+{{DropsLine|name=Scabarite notes|quantity=1|rarity=1.5/10|raritynotes={{DropNote|Dropped during the [[Scabarites Notes]] miniquest. Skeletons and zombies can only drop notes [[scabarite notes (1)|1]], [[scabarite notes (2)|2]], [[scabarite notes (3)|3]], or [[scabarite notes (4)|4]] at a 1.5/10 chance each (6/10 for any note). If a note has already been copied to the [[scabaras research]], nothing is dropped.}}|gemw=no|image=Scabarite notes (1).png}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=70}} 
+{{DropsLineMimic|level=70}}
+{{DropsTableBottom}}
+
+===Charms===
+Each skeleton has slightly different charm drop chances.
+
+====Warhammer====
+{{CharmDropTable
+|version=Warhammer
+|quantity=1
+|gold=74.516/1000
+|green=37.258/1000
+|crimson=37.258/1000
+|blue=52.161/1000
+}}
+
+====Axe====
+{{CharmDropTable
+|version=Axe
+|quantity=1
+|gold=84.925/1000
+|green=42.462/1000
+|crimson=42.462/1000
+|blue=59.447/1000
+}}
+
+====Round shield====
+{{CharmDropTable
+|version=Round shield
+|quantity=1
+|gold=95.155/1000
+|green=47.578/1000
+|crimson=47.578/1000
+|blue=66.609/1000
+}}
+
+====Square shield====
+{{CharmDropTable
+|version=Square shield
+|quantity=1
+|gold=84.41/1000
+|green=42.205/1000
+|crimson=42.205/1000
+|blue=59.087/1000
+}}
+
+====Mace====
+{{CharmDropTable
+|version=Mace
+|quantity=1
+|gold=108.825/1000
+|green=54.412/1000
+|crimson=54.412/1000
+|blue=76.177/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Mid-Game Rebalance|date=20 July 2026}}
+** Retiered existing Shortbows, Longbows, Crossbows and 2h Crossbows. Drop tables and shop inventory containing items that have been retiered, where appropriate, are replaced with the new item for that range level instead.
+*** Yew shortbow → Maple shortbow
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dealing with Scabaras|date=2 January 2008}}
+** Added to game.
+}}
+
+{{Dealing with Scabaras}}
+{{Scabarites Notes}}

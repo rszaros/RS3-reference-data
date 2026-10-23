@@ -1,0 +1,144 @@
+{{External|os}}
+{{otheruses|the minigame monster|other meanings|Lava monster}}
+{{Infobox Monster
+|version1 = Fight Cave - Large
+|version2 = Fight Cave - Small
+|version3 = Fight Pit
+|version4 = TBOE - Large
+|version5 = TBOE - Small
+|name = Tz-Kek
+|image1 = [[File:Tz-Kek (large).png|200px]]
+|image2 = [[File:Tz-Kek (small).png|200px]]
+|image3 = [[File:Tz-Kek (large).png|200px]]
+|image4 = [[File:Tz-Kek (large).png|200px]]
+|image5 = [[File:Tz-Kek (small).png|200px]]
+|release1 = [[4 October]] [[2005]]
+|release2 = [[4 October]] [[2005]]
+|release3 = [[19 September]] [[2005]]
+|release4 = [[4 December]] [[2012]]
+|release5 = [[4 December]] [[2012]]
+|update1 = TzHaar Fight Caves
+|update2 = TzHaar Fight Caves
+|update3 = Massive minigame - Fight Pits
+|update4 = The Brink of Extinction - Grandmaster Quest
+|update5 = The Brink of Extinction - Grandmaster Quest
+|members = Yes
+|options = Attack
+|examine = The Tz-Kek will collapse in on itself if it remains out of lava for too long.
+|level1 = 45
+|level2 = 22
+|level3 = 98
+|level4 = 98
+|level5 = 86
+|lifepoints1 = 6200
+|lifepoints2 = 1550
+|lifepoints3 = 1550
+|lifepoints4 = 1550
+|lifepoints5 = 1550
+|experience1 = 310.0
+|experience2 = 77.5
+|experience3 = 77.5
+|experience4 = 77.5
+|experience5 = 77.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Volcanic creatures
+|assigned_by = Kuradal
+|max_melee = 248
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|speed = 4
+|attack = 62
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1197
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1197
+|defence = 62
+|weakness1 = Water
+|weakness2 = Water
+|weakness3 = Nothing
+|weakness4 = Nothing
+|weakness5 = Water
+|aff_weakness1 = 90
+|aff_weakness2 = 90
+|aff_weakness3 = 40
+|aff_weakness4 = 40
+|aff_weakness5 = 90
+|aff_melee1 = 55
+|aff_melee2 = 55
+|aff_melee3 = 40
+|aff_melee4 = 40
+|aff_melee5 = 55
+|aff_ranged1 = 45
+|aff_ranged2 = 45
+|aff_ranged3 = 40
+|aff_ranged4 = 40
+|aff_ranged5 = 45
+|aff_magic1 = 65
+|aff_magic2 = 65
+|aff_magic3 = 40
+|aff_magic4 = 40
+|aff_magic5 = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction1 = minigame
+|restriction2 = minigame
+|restriction3 = minigame
+|restriction4 = quest
+|restriction5 = quest
+|id1 = 2736
+|id2 = 16267
+|id3 = 16267
+|id4 = 16267
+|id5 = 16267
+|leagueRegion=Karamja}}
+The '''Tz-Kek''' (pronounced ''skek'') is a level 45 monster found in the [[TzHaar Fight Cave]], [[TzHaar Fight Pit]] and [[the Brink of Extinction]]. It appears first (in the Fight Cave) in Wave 3. It resembles a roughly man-high, primate-shaped creature of stone and lava. When attacked with [[melee]], it will hit the player for 10 life points of recoil damage in a similar way to the [[ring of recoil]]. This recoil effect hits through [[prayer]]. In the Fight Cave and the Brink of Extinction, when defeated it splits into two smaller, visually different Tz-Keks, who have no recoil effects. The ones in the Fight Pit do not split and do not have the recoil effect.
+
+It is suggested that one ranges the larger Tz-Kek from a distance and heals from the smaller variants with [[Guthan the Infested's equipment|Guthan's]] or [[Soul Split]] if using this method in the Fight Cave.
+
+==Gallery==
+<gallery mode="packed" heights="200">
+File:TzHaar monsters concept art.png|Concept art for the 2008 designs of Tz-Kek, [[Tok-Xil]] and a TzHaar.
+</gallery>
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Large
+|item1 = {{GU|subject=NPCs
+|{{GUL|date=[[19 September]] [[2005]]|update=Massive minigame - Fight Pits|img=Tz-Kek (large) (2005).png|name=Tz-Kek}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=Tz-Kek (large) (2008).png|name=Tz-Kek}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=Tz-Kek (large).png|name=Tz-Kek}}
+}}
+|text2 = Small
+|item2 = {{GU|subject=NPCs
+|{{GUL|date=[[19 September]] [[2005]]|update=Massive minigame - Fight Pits|img=Tz-Kek (small) (2005).png|name=Tz-Kek)}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=Tz-Kek (small) (2008).png|name=Tz-Kek}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=Tz-Kek (small).png|name=Tz-Kek}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Patch Notes (14 August 2012)|date=14 August 2012}}
+** Tz-Kek now use the improved Tok-Kek sound effects.
+
+* {{UL|type=update|update=Massive minigame - Fight Pits|date=19 September 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Prior to their graphical update , their examine text was: "Looks like living lava..."
+* The Tz-Kek is the only monster in the TzHaar Fight Cave that does not have a [[TokHaar]] or [[TzekHaar]] variant. 
+** The [[Tz-Kih]] used to share this distinction until the release of the [[TzekHaar Front]], where [[TzekHaar-Kih]] were introduced.
+
+{{The Brink of Extinction}}
+{{TzHaar Fight Cave}}

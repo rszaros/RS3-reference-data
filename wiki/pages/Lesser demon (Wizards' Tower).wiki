@@ -1,0 +1,247 @@
+{{Redirect|Timmy|the goebie villager|Goebie}}
+{{Switch infobox
+|text1 = Monster
+|item1 = 
+{{Infobox Monster
+|name = Lesser demon
+|image = [[File:Lesser demon (Wizards' Tower).png]]
+|aka = Azacorax, Lemmy, Timmy
+|release = [[28 November]] [[2012]]
+|update = Ariane Quest Double Bill
+|members = No
+|options = Talk to, Attack, Taunt
+|race = [[Avernic]]
+|examine = Lesser, but still pretty big.
+|level = 70
+|lifepoints = 5000
+|experience = 250.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 86.6
+|slayercat = Lesser demons, Demons
+|max_melee = 0.0
+|max_ranged = 0.0
+|max_magic = 200
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|magic = 50
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 850
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Bolts
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Misthalin
+|id = 16207
+}}
+|text2 = Cutscene
+|item2 = 
+{{Infobox NPC
+|name = Lesser demon
+|image = Lesser demon (Wizards' Tower).png
+|release = [[28 November]] [[2012]]
+|update = Ariane Quest Double Bill
+|aka = Azacorax, Timmy, Lemmy
+|members = No
+|race = [[Avernic]]
+|quest = [[Rune Memories]]
+|location = [[Wizards' Tower]]
+|gender = Male
+|options = Examine
+|examine = 
+|voice = Yes
+|map = no
+|leagueRegion = Misthalin
+|id = 16140
+}}
+|text3 = A Towering Feast
+|item3 =
+{{Infobox NPC
+|version1 = Standing
+|version2 = Sitting
+|name = Timmy
+|image1 = Timmy (2011 Christmas event, standing).png
+|image2 = Timmy (2011 Christmas event, sitting).png
+|release = [[20 December]] [[2011]]
+|update = Christmas 2011: A Towering Feast
+|aka = Azacorax, Lemmy
+|race = Avernic
+|members = No
+|quest = [[2011 Christmas event]]
+|location = [[Wizards' Tower]]
+|gender = Male
+|options = Talk to
+|examine = Timmy, the pet lesser demon.
+|map1 = {{NPC map|npcname=Timmy|npcid=14711|mapID=-1|plane=2|x=1381|y=4373|type=pins}}
+|map2 = {{NPC map|npcname=Timmy|npcid=14758|mapID=221|plane=0|x=1185|y=4319|type=pins}}
+|leagueRegion = no
+|id1 = 14711
+|id2 = 14758
+}}
+}}
+[[File:Lesser demon (Wizards' Tower) chathead.png|left|120px]]
+'''Azacorax, Keeper of the Key to the Abyss''', named '''Timmy''' by the wizards, is the [[Wizards' Tower]]'s pet [[lesser demon]], kept by [[Melville Grayzag]] and [[Wizard Taloram]] (or [[Wizard Whitezag]] during [[2011 Christmas event|A Towering Feast]]). He was summoned many years ago and caused damage to the earlier Wizards' Tower. The tower wizards kept destroying him, but he would respawn on the same spot each time they did so. As such, a protective barrier was placed around that spot, making the demon unable to escape. Azacorax is featured in ''[[RuneScape - The Gift of Guthix|RuneScape: The Gift of Guthix]]''.
+
+Throughout the years, different wizards have been assigned to guard the demon. Wizard Grayzag treated him like a pet, while his successor Taloram is more prohibitive when it comes to having contact with the demon. Despite his fearsome appearance and aggressiveness, he can be a sweet pet, according to Grayzag. He particularly enjoys his teddy bear.
+
+He can be attacked and does not retaliate. Any drops could only be retrieved with [[Telekinetic Grab]], although an [[accursed urn]] or [[Infernal urn]] can be filled by his [[accursed ashes]] drops.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Wizards' Tower]] ({{FloorNumber|2}})
+|lvls=70
+|mem=no
+|mapID=28|plane=1
+|npcid:16207,x:3113,y:3155
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Accursed ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=800-1200|rarity=14/128}}
+{{DropsLine|name=Coins|quantity=1120-1680|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black 2h sword|quantity=1|rarity=8/128}}
+{{DropsLine|name=Black hatchet|quantity=1|rarity=8/128}}
+{{DropsLine|name=Black kiteshield|quantity=1|rarity=6/128}}
+{{DropsLine|name=Black longsword|quantity=1|rarity=4/128}}
+{{DropsLine|name=Off-hand black longsword|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Fire rune|quantity=27-33|rarity=10/128}}
+{{DropsLine|name=Death rune|quantity=10|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|10/128}}
+{{DropsTableHead}}
+{{HerbDropTable|10/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Medium bladed mithril salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Gold stone spirit|quantity=2|rarity=8/128}}
+{{DropsLine|name=Lobster|quantity=1|rarity=10/128}}
+{{DropsLine|name=Grapes|quantity=1 (noted)|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|12/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineCourtSummons}}
+{{DropsLine|name=Lesser Demon Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Lesser Demon Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLine|name=Bone fragments|quantity=1|rarity=1/150|raritynotes={{DropNote|Only dropped during a [[Slayer assignment]] given by [[the Raptor]].}}}}
+{{DropsTableBottom}}
+
+==History==
+===Rune Memories===
+{{Main|Rune Memories}}
+Azacorax played a role in the creation of teleportation magic. The problem with teleportation was that the wizards could not figure out how to evade obstacles, until [[Kelavan the Red]] accidentally discovered that a second plane could be used for teleportation. Using this idea, [[Zanmaron the Red]] made a deal with a lesser demon from the abyss, called the Keeper of the Key of the Abyss, so that the [[Abyss|abyssal plane]] could be used for teleportation. A ritual commenced, with the demon hiding behind Zanmaron. The ritual was successful and opened a permanent connection between [[Gielinor]]'s plane and the abyssal plane; however, the Wizards' Tower was destroyed in the process. The demon survived and has since then been a pet of the new Wizards' Tower.
+
+If you talk to the lesser demon after doing [[Rune Memories]] with 50 [[Prayer]] and 50 [[Magic]], you can get 10,000 Magic or Prayer experience, depending on if you decide to give him a drop of your blood or refuse, the same deal that he gave [[Ariane]].
+
+===Imp Catcher===
+In [[Imp Catcher]], Grayzag ordered [[imp]]s to bring [[Mizgog]]'s beads to various runic altars and then return them, but, when they brought them to the altars, the beads were charged with energy, and the imps felt compelled to eat them. The imps later reveal that Azacorax has actually been manipulating Grayzag and that the beads play a role in a mysterious plan of his. They characterise Azacorax as a demon far worse than themselves and look down on Grayzag for dealing with him. They also reveal that it was Azacorax who taught Grayzag how to summon imps in the first place.
+
+===A Towering Feast===
+In the [[2011 Christmas event]], you are trying to help [[Kris]] and [[Kringle]] make a pudding and one of the ingredients needed is lesser demon claws. Those then are obtained from Timmy in the event. Talk to him once to obtain the first set of [[Lesser demon claw]]. Talk to him again. An anger meter appears at the top of the screen. In order to fill the meter, you could:
+
+# Simply attempt to talk to him.
+# Go into [[Timmy's Toy Chest]] and take out items to use on Timmy. [[Toy doll]]s, [[snowballs]], or [[christmas pudding]]s increase his anger level but all others decrease it. You could [[destroy]] his [[Timmys christmas present|christmas present]], leading to a short conversation and his anger level rising.
+# Do certain [[emotes]]. Among the emotes, [[Laugh]], [[Jump For Joy]], [[Think]], [[Jig]], [[Blow Kiss]], [[Raspberry]], [[Flap]] and [[Stomp (emote)|Stomp]] increase Timmy’s anger level, while [[Dance]], [[Yawn]], [[Bow]], [[Curtsy]], [[Shrug]], [[Headbang]], [[Cry]], [[Panic]], [[Slap Head]], and [[Scared]] lower it. Most, if not all, other emotes have no effect.
+
+If you annoy him with the same action repeatedly, he would start ignoring you. Switch to another action when this happens. When his anger meter fills fully, he will be so mad that you will be able to obtain the second set of claws. Sometimes the anger meter would appear to be fully filled but you don't get the claws. Simply do another option to actually complete the process. Logging out would reset your process in angering him.
+
+==Achievements==
+* '''[[Lumbridge achievements]]'''
+** ''[[Lumbridge achievements#Easy achievements|Easy]]'' - {{Achievement|Come In Here and Say That}}
+* {{Achievement|Azacorax's Rewards}}
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+==Mentioned==
+{{MentionedIn}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Lemmy trapped.png|The demon trapped in its barrier.
+Timmy at banquet.png|Timmy sitting at the banquet.
+Azacorax arrives.png|Azacorax summoned by Zanmaron the Red.
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' NPC options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=update|update=Ariane Quest Double Bill|date=28 November 2012}}
+** Added to game (unique attackable demon).
+
+* {{UL|type=update|update=Christmas 2011: A Towering Feast|date=20 December 2011}}
+** Added to game (Timmy).
+}}
+
+==Trivia==
+{{Listen|filename=Lemmy.ogg|align=right|title=The demon speaks|desc=}}
+* Previously to the addition of [[lesser demon]]s in [[1 June|June]] [[2001]], the demon was just called "Demon" and was [[combat level]] 26.
+* In the [[God Letters]], [[Saradomin]] said that the name of the lesser demon in the Wizards' Tower was "Lemmy."{{CiteGodLetter|issue=20|letter=3}} [[Mod Pi]], the developer of [[2011 Christmas event|A Towering Feast]], said that he didn't realise that he had already been named.{{CiteForum |author=Mod Pi |url=http://services.runescape.com/m=forum/forums.ws?15,16,425,63462847|archivedate=22 December 2011|archiveurl=https://archive.ph/iPSA1 |title=Game Update FAQ - 20/12/11|forum=Recent Updates |postdate=21 December 2011 |notes= |name= }}
+* Performing the [[Headbang]] emote would decrease Timmy's anger. The chatbox informs you that Timmy is pleased with your appreciation of good music, implying that Timmy is a metal-head.
+* Before the [[graphical updates]] to the Tower, he used to look like an average demon, locked in a cage beside Grayzag. Now, he has a protective barrier around him, as well as a backstory.
+
+==References==
+{{Reflist}}
+
+{{Rune Mysteries}}
+{{Rune Memories}}
+{{Demons}}
+{{2011 Christmas event}}
+{{2016 Christmas event}}
+{{Wizards' Tower}}
+{{The Burning Tower - Ariane's Tale}}
+{{The Gift of Guthix}}

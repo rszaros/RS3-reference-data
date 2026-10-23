@@ -1,0 +1,207 @@
+{{External|os}}
+{{Multi Infobox
+|text1 = Monster
+|item1=
+{{Infobox Monster
+|version1 = Coat
+|version2 = Apron
+|name = Sorebones
+|image1 = [[File:Sorebones.png|140px]]
+|image2 = [[File:Sorebones 2.png|120px]]
+|release = [[6 March]] [[2007]]
+|update = Great Brain Robbery
+|members = Yes
+|options = Attack, Examine
+|examine1 = Bedside manner is a little lacking, I think.
+|examine2 = I hope his hands don't shake.
+|level = 49
+|lifepoints = 1750
+|experience = 87.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 21.6
+|slayercat = Zombies, Undead
+|assigned_by = Turael, Achtryn, Vannaka
+|max_melee = 140
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 35
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 536
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 536
+|defence = 35
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|leagueRegion = Morytania
+|id1 = 5627
+|id2 = 5628
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|name = Sorebones (hard farm requester)
+|image = [[File:Sorebones 2.png]]
+|release = [[25 November]] [[2019]]
+|update = Game Update: The Ranch Out of Time, Farming 120, Herblore 120 & Yak Track
+|members = Yes
+|quest = No
+|location = [[Manor Farm]]
+|options = Help, Hand in hard request, Examine
+|examine = A farmer in need (hard)
+|race = Human
+|gender = Male
+|map = {{NPC map|npcname=Sorebones|npcid=26748|mapID=28|x=2649|y=3350|type=pins}}
+|leagueRegion = Kandarin
+|id = 26748
+}}}}
+[[File:Sorebones chathead.png|left|60px]]
+'''Sorebones''' are the surgical [[Zombie pirate]]s under the command of the evil and short surgeon [[Mi-Gor]]. After the player defeats [[Barrelchest]], the monks inform the player that they have escaped with Mi-Gor back into the ocean. Their name seems to be a parody of the term "sawbones", a slang name for a surgeon (or more generally a doctor) - the Sorebones are depicted wielding a saw.
+
+Sorebones can be found in the church on [[Harmony Island]]. They must be fought during [[The Great Brain Robbery]] [[quest]] in order to collect the components needed for [[Dr Fenkenstrain]]. The Sorebones get replaced with [[Barrelchest]] by the end of the quest, but they reappear after the quest is completed.
+
+Sorebones can occasionally be found at [[Manor Farm]], asking for help with a hard Farming Guild request.
+
+They also drop the [[Zombie bone]] used in the [[Rag and Bone Man wish list]].
+
+==Habitat==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Harmony Island]] church {{FloorNumber|1}}
+|lvls=49
+|mem=yes
+|mapID=28
+|plane=0
+|npcid:5627,x:3808,y:2845|npcid:5628,x:3810,y:2843|npcid:5627,x:3812,y:2846
+|npcid:5628,x:3813,y:2844|npcid:5627,x:3815,y:2844|npcid:5627,x:3819,y:2839
+|npcid:5627,x:3819,y:2851|npcid:5628,x:3821,y:2837
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Harmony Island]] church {{FloorNumber|2}}
+|lvls=49
+|mem=yes
+|mapID=28
+|plane=1
+|npcid:5627,x:3819,y:2838|npcid:5628,x:3820,y:2840|npcid:5628,x:3820,y:2851
+|npcid:5627,x:3823,y:2836|npcid:5628,x:3823,y:2839|npcid:5627,x:3823,y:2846
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Brain tongs|quantity=1|rarity=Always|raritynotes={{DropNote|name=GBR|Brain tongs, cranial clamps, bell jars, and skull staples are only dropped during [[The Great Brain Robbery]] quest. They are dropped in this order.}}|gemw=No}}
+{{DropsLine|name=Cranial clamp|quantity=1|rarity=Always|raritynotes={{DropNote|name=GBR}}|gemw=No}}
+{{DropsLine|name=Bell jar|quantity=3|rarity=Always|raritynotes={{DropNote|name=GBR}}|gemw=No}}
+{{DropsLine|name=Skull staple|quantity=30|rarity=Always|raritynotes={{DropNote|name=GBR}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Clothing===
+{{DropsTableHead}}
+{{DropsLine|name=Bandana and eyepatch (blue)|quantity=1|rarity=3/128}}
+{{DropsLine|name=Bandana and eyepatch (red)|quantity=1|rarity=5/128}}
+{{DropsLine|name=Eye patch|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Water rune|quantity=23|rarity=1/128}}
+{{DropsLine|name=Body rune|quantity=6|rarity=2/128}}
+{{DropsLine|name=Chaos rune|quantity=7|rarity=1/128}}
+{{DropsLine|name=Cosmic rune|quantity=5|rarity=3/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Steel bolts|quantity=2-12|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|30/128}}
+{{DropsTableHead}}
+{{HerbDropTable|30/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny spiky mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small bladed mithril salvage|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=30|rarity=10/128}}
+{{DropsLine|name=Coins|quantity=38|rarity=21/128}}
+{{DropsLine|name=Coins|quantity=46|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=55|rarity=6/128}}
+{{DropsLine|name=Coins|quantity=60|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Fishing bait|quantity=10|rarity=21/128}}
+{{DropsLine|name=Rusty scimitar|quantity=1|rarity=1/128}}
+{{DropsLine|name=Braindeath 'rum'|quantity=1|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|gemw=No}}
+{{DropsTableBottom}}
+
+==Farming request reward==
+{{Main|Farming requests}}
+
+{{DropsTableHead|version=Manor Farm}}
+{{DropsLineReward|name=The Stuff|quantity=2|rarity=Always}}
+{{DropsTableBottom}}
+
+==Transcript==
+{{Hastranscript}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Great Brain Robbery|date=6 March 2007}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{The Great Brain Robbery}}
+{{Zombie}}
+{{Pirates}}
+{{Farming Guild}}
+[[Category:Quest monsters]]

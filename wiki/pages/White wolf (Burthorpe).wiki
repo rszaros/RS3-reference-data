@@ -1,0 +1,111 @@
+{{gone|update=September Mobile Update}}
+{{Infobox Monster
+|name = White wolf
+|image = [[File:Wolf25.png|150px]]
+|update = Heist - New Minigame
+|release = [[17 February]] [[2014]]
+|removal = [[2 September]] [[2019]]
+|removalupdate = September Mobile Update
+|level = 5
+|experience = 30
+|lifepoints = 200
+|slaylvl = 1
+|slayxp = 6.6
+|slayercat = Wolves
+|assigned_by = turael, mazchna
+|members = Yes
+|aggressive = Yes
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style = melee
+|speed = 4
+|max_melee = 16
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|weakness = Air
+|attack = 4
+|ranged = 1
+|magic = 1
+|defence = 4
+|armour = 140
+|acc_melee = 140
+|acc_ranged = 0
+|acc_magic = 0
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|id = 19088
+|examine = A wild mountain wolf.
+|restriction = removed
+|leagueRegion=Asgarnia}}
+'''White wolves''' were found in the [[Burthorpe]] and [[Taverley]] area. They replaced the [[troll commando|Troll melee]], [[Troll mage commando|mage]] and [[Troll range commando|range commando]]s that used to be found there, and were later replaced with [[rabbit (Burthorpe)|rabbits]].
+
+They have a number of low level drops designed to help new players, including [[mindspike]]s, [[quickbow]]s and [[keenblade]]s. These wolves do not count towards [[wolf]] [[Slayer]] tasks.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour/Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Black wizard robe top|quantity=1|rarity=Common}}
+{{DropsLine|name=Black wizard robe skirt|quantity=1|rarity=Common}}
+{{DropsLine|name=Medium bladed bronze salvage|quantity=1|rarity=Common}}
+{{DropsLine|name=Medium plated bronze salvage|quantity=1|rarity=Common}}
+{{DropsLine|name=Chargebow|quantity=1|rarity=Common}}
+{{DropsLine|name=Leather body|quantity=1|rarity=Common}}
+{{DropsLine|name=Leather chaps|quantity=1|rarity=Common}}
+{{DropsLine|name=Staff of air|quantity=1|rarity=Common}}
+{{DropsLine|name=Wizard robe top|quantity=1|rarity=Common}}
+{{DropsLine|name=Wizard robe skirt|quantity=1|rarity=Common}}
+{{DropsLine|name=Arrowstorm drape|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Bladestorm drape|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Spellstorm drape|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Keenblade|quantity=1|rarity=Rare|gemw=no|altvalue=150}}
+{{DropsLine|name=Mindspike (air)|quantity=1|rarity=Rare|gemw=no}}
+{{DropsLine|name=Quickbow|quantity=1|rarity=Rare|gemw=no}}
+{{DropsTableBottom}}
+
+===Food===
+{{DropsTableHead}}
+{{DropsLine|name=Baked potato|quantity=1|rarity=Common}}
+{{DropsLine|name=Bread|quantity=1|rarity=Common}}
+{{DropsLine|name=Cooked rabbit|quantity=1|rarity=Common}}
+{{DropsLine|name=Crayfish|quantity=1|rarity=Common}}
+{{DropsLine|name=Rabbit sandwich|quantity=1|rarity=Common}}
+{{DropsLine|name=Cooked chicken|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Cooked meat|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Poorly-cooked beast meat|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Poorly-cooked bird meat|quantity=1|rarity=Uncommon}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1-5|rarity=Common}}
+{{DropsLine|name=Cowhide|quantity=1|rarity=Common}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity=Common}}
+{{DropsLine|name=Raw potato|quantity=1|rarity=Common}}
+{{DropsLine|name=Cabbage seed|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Grimy marrentill|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Grimy tarromin|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Onion seed|quantity=1-3|rarity=Uncommon}}
+{{DropsLine|name=Potato seed|quantity=2-4|rarity=Uncommon}}
+{{DropsLine|name=Strawberry seed|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Tomato seed|quantity=1|rarity=Uncommon}}
+{{DropsLineSpiritGems}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Heist - New Minigame|date=17 February 2014}}
+** Added to game.
+}}
+
+{{Wolves}}

@@ -1,0 +1,136 @@
+{{External|os}}
+{{Multi Infobox
+|text1 = Monster
+|item1 = 
+{{Infobox Monster
+|name = Jubbly bird
+|image = [[File:Jubbly bird.png|200px]]
+|release = [[15 March]] [[2006]]
+|update = Hundredth Quest - Recipe for Disaster!
+|members = Yes
+|options = Attack
+|examine = A large boisterous bird, a delicacy for ogres.
+|level = 11
+|lifepoints = 400
+|experience = 20.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 7.6
+|slayercat = Birds
+|assigned_by = Turael
+|max_melee = 24
+|max_ranged = 32
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 6
+|ranged = 8
+|magic = 0
+|necromancy = 1
+|acc_melee = 160
+|acc_ranged = 181
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 181
+|defence = 8
+|weakness = Stab
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Kandarin
+|id = 3476
+}}
+|text2 = Dead
+|item2 = 
+{{Infobox NPC
+|name = Jubbly bird
+|image = Dead Jubbly.png
+|release = [[15 March]] [[2006]]
+|update = Hundredth Quest - Recipe for Disaster!
+|race = Bird
+|members = Yes
+|quest = [[Recipe for Disaster: Freeing Skrach Uglogwee]]
+|location = The swamps in [[Feldip Hills]] and south-east of [[Castle Wars]].
+|gender = N/A
+|options = Pluck
+|examine = A once boisterous bird, closer to being an ogre delicacy.
+|map = No
+|leagueRegion = Kandarin
+|id = 3477}}
+}}
+A '''jubbly''' is a large purplish version of a [[Chompy bird]] found during the [[Recipe for Disaster: Freeing Skrach Uglogwee|Skrach Uglogwee subquest]] of the [[Recipe for Disaster]] quest. Jubblies are used in [[Creature Creation]]. They can also be hunted for several achievements, including the [[Chompy Massacre]] as each jubbly will count as one chompy in the kill count. They can only be killed using [[ogre bow]]s or [[ogre composite bow]]s. Having [[ogre bellows]] and  one [[ball of wool]] is a requirement for hunting and killing jubblies.
+
+==Hunting jubblies==
+Jubblies are not particularly hard to hunt. A good spot to hunt them is just to the east of the [[Gnome glider]], south east of the [[Castle Wars]] arena, in the [[Feldip Hills]].
+
+# Use the [[ogre bellows]] which has been loaded with gas from [[swamp bubbles]] on a [[swamp toad]]. This creates a [[bloated toad]].
+# Mine the [[Feldip swamp rock]]s nearby to obtain [[rock (ore)|rock ores]]. The rock ores will be used up during baiting.
+# Use the gas-loaded ogre bellows again on an already bloated toad, with the rock ores and a ball of wool in the inventory. This creates a [[balloon toad]].  
+#* Only three balloon toads can be in the inventory at a time. Attempting to create three balloon toads and then make more bloated toads converts a balloon toad into a bloated toad. However, more than one balloon toad may be placed in the hunting area.
+#* More than one ball of wool will be required for long term hunting as one ball of wool will be used up after 15 balloon toads are made.
+# Place the balloon toad on the ground nearby as bait, and wait for the jubbly to appear.
+
+Once the balloon toad has been placed, the jubblies have a chance to appear nearby. They may not appear at all, and this causes the balloon toad to deflate and disappear from the ground. If this happens, try again. They do not actually attack and can be killed safely using an [[ogre bow]] or a [[ogre composite bow]]. Once they are killed, they must be plucked to receive the drops, however plucking is not required to count towards the [[Chompy Massacre]] achievement. The feathers go into the backpack automatically, while the other drops appear on the ground. Cooking the [[raw jubbly]] on the [[ogre spit-roast]] north of [[Rantz]] results in a [[cooked jubbly]].
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw jubbly|quantity=1|rarity=Always}}
+{{DropsLine|name=Feather|quantity=15-32|rarity=Always}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Chompy Massacre}}
+* {{Achievement|Nice to Meat You}}
+** [[Cooked jubbly]]
+* {{Achievement|Guardian of the Realm}} 
+** [[Cornucopia]] drop
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[15 March]] [[2006]]|update=Hundredth Quest - Recipe for Disaster!|img=Jubbly bird (2006).png|name=Jubbly bird}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Jubbly bird.png|name=Jubbly bird}}
+}}
+{{GU|subject=npc
+|{{GUL|date=[[15 March]] [[2006]]|update=Hundredth Quest - Recipe for Disaster!|img=Jubbly bird (dead, 2006).png|name=Jubbly bird}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Dead Jubbly.png|name=Jubbly bird}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=ninja|update=Patch Notes (18 July 2016)|date=18 July 2016}}
+** Allowed use of abilities on chompy and jubbly birds.
+
+* {{UL|type=patch|update=Patch Notes (22 November 2012)|date=22 November 2012}}
+** It is once again possible to attack Jubbly birds.
+
+* {{UL|type=patch|update=Patch Notes (16 June 2009)|date=16 June 2009}}
+** Prevented certain bubbles in the Feldip Hills from blocking Ranged attacks when hunting chompies and jubbly chompies.
+
+* {{UL|type=update|update=Hundredth Quest - Recipe for Disaster!|date=15 March 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* It is possible to use [[Monster Examine]] on this monster, which states that it has a max hit of 32. Despite this, it is unable to attack the player.
+* Its weakness is stab, however, it is impossible to use melee attacks on this monster.
+* If a balloon toad is placed correctly, a jubbly bird may appear and land inside the Castle Wars wall, near the ivy on the southern wall.
+
+{{Recipe for Disaster: Freeing Skrach Uglogwee}}
+[[Category:Birds]]

@@ -1,0 +1,123 @@
+{{Infobox Monster
+|version1 = Normal mode
+|version2 = Story mode
+|name = Sea horror
+|image = [[File:Sea horror.png]]
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|members = Yes
+|actions = Attack, Mark
+|examine = Centuries of hate pent up in its savage heart.
+|level = 104
+|lifepoints1 = 35500
+|lifepoints2 = 17750
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 1388
+|slayercat = Jungle horrors
+|assigned_by = 
+|max_melee = 2376
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 85
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 2178
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 1299
+|defence = 65
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|dropversion1 = Normal mode,Normal mode (Section 1),Normal mode (Section 2)
+|dropversion2 = Story mode
+|leagueRegion = Wilderness
+|id = 26158, 26159, 26160, 26161
+}}
+'''Sea horrors''' are monsters found in [[The Shadow Reef]].
+
+These monsters attack with very strong melee attacks, and they also possess a special attack where they scream at the player and cause very high soft typeless damage to players within seven spaces of their target. A [[Witchwood icon]] can be worn to reduce the damage this attack does.
+
+Unlike other monsters in elite dungeons (with the exception of [[Kal'gerion demon (The Shadow Reef)|Kal'gerion demons]]), sea horrors do not pursue players outside their initial location. 
+
+Three sea horrors on the second section of the Shadow Reef continually respawn. They are located behind the barrier where the miniboss [[Quetzathog]] spawns, allowing the player to kill sea horrors for a slayer task. Leaving the dungeon after unlocking the barrier where they are located may cause them to despawn. Players wishing to complete the slayer task here should fill inventory with combat supplies before opening the barrier. There is also a [[safe spot]] on the stairs leading to the area.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+In story mode, only bones are dropped.
+
+The average sea horror kill in normal mode is worth:
+* Section 1: {{NoCoins|{{#expr:{{#vardefineecho:avg_drop_val|{{Average drop value|mob=Sea horror#Normal mode|raw=y}}}}+{{Average drop value|mob=Sea horror#Normal mode (Section 1)|raw=y}}}}}} coins.
+* Section 2: {{NoCoins|{{#expr:{{#var:avg_drop_val}}+{{Average drop value|mob=Sea horror#Normal mode (Section 2)|raw=y}}}}}} coins.
+
+===100%===
+{{DropsTableHead|version=Story mode,Normal mode}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLine|name=Black mask|quantity=1|rarity=1/10000}}
+{{DropsTableBottom}}
+
+===Section 1===
+====Alchables====
+{{The Shadow Reef alchables drop table|5000/10000|tier=1|version=Normal mode (Section 1)}}
+
+====Currency====
+{{The Shadow Reef currency drop table|3500/10000|3300/10000|tier=1|version=Normal mode (Section 1)}}
+
+====Supplies====
+{{The Shadow Reef supplies drop table|1499/10000|tier=1|version=Normal mode (Section 1)}}
+
+===Section 2===
+====Alchables====
+{{The Shadow Reef alchables drop table|5000/10000|tier=2|version=Normal mode (Section 2)}}
+
+====Currency====
+{{The Shadow Reef currency drop table|3500/10000|3300/10000|tier=2|version=Normal mode (Section 2)}}
+
+====Supplies====
+{{The Shadow Reef supplies drop table|1499/10000|tier=2|version=Normal mode (Section 2)}}
+
+===Lucky charm===
+{{Lucky charm (Shadow Reef) drops|200/10000|version=Normal mode}}
+
+===Rare drop table===
+{{Rare drop table|1/150|version=Normal mode}}
+
+===Tertiary===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=104}}
+{{DropsLineMimic|level=104}}
+{{DropsTableBottom}}
+
+====Charms====
+{{EliteDungeonCharmDropTable|version=Normal mode}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+{{The Shadow Reef}}
+{{Horrors}}

@@ -1,0 +1,130 @@
+{{External|os}}
+{{Infobox Monster
+|name = Enclave guard
+|image = [[File:Ogre enclave guard.png|Enclave guard|220px]]
+|release = [[7 May]] [[2003]]
+|update = New - Watch Tower Quest!
+|members = Yes
+|actions = Talk to, Attack
+|examine = Big and ugly looking.
+|level = 81
+|lifepoints = 11600
+|experience = 580.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 190
+|slayercat = Ogres
+|max_melee = 278
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 58
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 1070
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1070
+|defence = 58
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Kandarin
+|id = 870
+}}
+[[File:Ogre guard chathead.png|left|80px]]
+An '''enclave guard''' guards the [[Ogre Enclave]] dungeon in the heart of [[Gu'Tanoth]]. During the [[Watchtower]] quest, players must use a [[nightshade]] on the enclave guard, which will start a short dialogue and then allow players to get through. After the quest a nightshade does not have to be used to enter the cave, but instead entering the cave will grant players the following message: ''A nearby guard looks at you suspiciously... You run past while they are thinking.''
+
+Enclave guards are an alternative to regular [[ogre]]s for [[slayer task]]s, as they give 20 more slayer experience than a regular ogre, but hit harder and attack much faster, as well as having many more life points.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Gu'Tanoth]]
+|lvls=81
+|mem=yes
+|mapID=28
+|npcid:870,x:2507,y:3036
+|npcid:870,x:2507,y:3040
+|leagueRegion=Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|kills=82}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|19/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=109/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Ogre ribs|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+===NPC=== 
+{{GU|subject=NPCs
+|{{GUL|beta=yes|img=Enclave guard (2003).png|name=Enclave guard}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Enclave guard (2004).png|name=Enclave guard}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Enclave guard (2006).png|name=Enclave guard}}
+|{{GUL|date=[[17 March]] [[2009]]|update=The Chosen Commander|img=Ogre enclave guard.png|name=Enclave guard}}
+}}
+
+===Chathead=== 
+{{GU|subject=chatheads
+|{{GUL|beta=yes|img=Enclave guard chathead (2003).png|name=Enclave guard chathead}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Enclave guard chathead (2004).png|name=Enclave guard chathead}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Enclave guard chathead (2006).png|name=Enclave guard chathead}}
+|{{GUL|date=[[17 March]] [[2009]]|update=The Chosen Commander|img=Ogre guard chathead.png|name=Enclave guard chathead}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=update|update=New - Watch Tower Quest!|date=7 May 2003}}
+** Added to game.
+}}
+
+{{Ogres}}
+{{Watchtower}}
+[[Category:Gu'Tanoth]]
+[[Category:Guards]]
+[[Category:Bandosians]]

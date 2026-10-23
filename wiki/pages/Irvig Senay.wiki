@@ -1,0 +1,115 @@
+{{External|os|rsc=Irvig Senay}}
+{{Infobox Monster
+|name = Irvig Senay
+|image = [[File:Irvig Senay.png|Irvig Seney|200px]]
+|imagebackground = yes
+|release = [[20 August]] [[2003]]
+|update = New - Legends Quest!
+|members = Yes
+|options = Talk to, Attack
+|examine = The spirit of a long-dead warrior.
+|level = 70
+|lifepoints = 3750
+|experience = 187.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Skeletons, Undead
+|max_melee = 300
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 50
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 937
+|leagueRegion = Karamja
+}}
+[[File:Irvig Senay chathead.png|left|75px]]
+'''Irvig Senay''' is a spectral skeleton and an enemy encountered during the [[Legends' Quest]]. He is required to be killed to collect a piece of the [[heart crystal]]. He attacks with [[melee]] and may only be fought once, unless the player kills [[Viyeldi]], then Irvig along with [[San Tojalon]] and [[Ranalph Devere]] are summoned by [[Nezikchened]] during the final fight as backup.
+
+He and the other two warriors had apparently perished while searching for the pure water source of the [[Kharazi Jungle]] spring, and haunt the [[Viyeldi caves]] where they died.
+{{clear|left}}
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Viyeldi caves]]
+|lvls=70
+|mem=yes
+|mapID=437
+|npcid:937,x:2405,y:4712
+|leagueRegion=Karamja}}
+{{LocTableBottom}}
+
+==Dialogue==
+{{speaksin}}
+
+==Graphical updates==
+===NPC===
+{{GU|subject=npc
+|{{GUL|beta=yes|img=Irvig Senay (RS2 beta).png|name=Irvig Senay}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Irvig Senay (2004).png|name=Irvig Senay}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Irvig Senay (2007).png|name=Irvig Senay}}
+|{{GUL|date=|update=|img=Irvig Senay old.png|name=Irvig Senay}}
+|{{GUL|date=|update=|img=Irvig Senay.png|name=Irvig Senay}}
+}}
+
+===Chathead===
+{{GU|subject=chatheads
+|{{GUL|beta=yes|img=Irvig Senay chathead (RS2 beta).png|name=Irvig Senay}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Irvig Senay chathead (2004).png|name=Irvig Senay}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Irvig Senay chathead (2007).png|name=Irvig Senay}}
+|{{GUL|date=|update=|img=Irvig Senay chathead old.png|name=Irvig Senay}}
+|{{GUL|date=|update=|img=Irvig Senay chathead.png|name=Irvig Senay}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=ninja|update=Patch Notes (12 October 2015)|date=12 October 2015}}
+** Duplicate NPCs have been removed from the [[Legends' Quest]], only one Irvig will spawn now.
+
+* {{UL|type=update|update=New - Legends Quest!|date=20 August 2003}}
+** Added to game.
+}}
+
+==Trivia==
+* He, along with San Tojalon and Ranalph Devere, are references to the conquistator expeditions into the jungles of Central America, where Ponce de Leon searched for the mythical Fountain of Youth. The pure water source of the Kharazi jungle parallels this legendary fountain.
+
+{{Legends' Quest}}
+{{Skeletons}}
+[[Category:Quest monsters]]
+[[Category:Unique monsters]]

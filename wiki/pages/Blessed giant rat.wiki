@@ -1,0 +1,104 @@
+{{External|os|rsc=Blessed Vermen}}
+{{Infobox Monster
+|version1 = Orange
+|version2 = Green
+|name = Blessed giant rat
+|image1 = [[File:Blessed giant rat (orange).png|100px]]
+|image2 = [[File:Blessed giant rat (green).png|100px]]
+|release1 = [[3 March]] [[2003]]
+|release2 = [[18 October]] [[2006]]
+|update1 = New Quest Online - Part Three
+|update2 = Player-Owned House Costume Room
+|members = Yes
+|options = Attack
+|examine = It's one of Iban's pet vermin.
+|level = 16
+|lifepoints = 600
+|slaylvl = 1
+|slayxp = 9.2
+|experience = 30.0
+|aggressive = No
+|poisonous = No
+|slayercat = Rats
+|assigned_by = jacquelyn
+|max_melee = 48
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 12
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 223
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 223
+|defence = 12
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|leagueRegion = Tirannwn
+|id1 = 978
+|id2 = 4941
+}}
+The '''Blessed giant rat''' is a type of [[giant rat]] on the second level of the [[Underground Pass (dungeon)|Underground Pass]].
+
+Due to its 600 [[life points]] and low [[Defence]], the blessed giant rat can be good for training combat on. However, it has no drops other than [[bones]] and its location is not ideal.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Underground Pass]]
+|lvls=16
+|mem=yes
+|requirements = Partial completion of {{QuestIcon|Underground Pass}}
+|mapID=579
+|npcid:978,x:2370,y:9642|npcid:4941,x:2372,y:9640|npcid:978,x:2391,y:9618
+|npcid:978,x:2397,y:9619
+|leagueRegion = Tirannwn}}
+{{LocTableBottom}}
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Rat's tail|rarity=Always|quantity=1|gemw=no|raritynotes={{DropNote|Only during [[Witch's Potion (miniquest)]].}}}}
+{{DropsLine|name=Giant rat bone|rarity=Always|quantity=1|gemw=no|raritynotes={{DropNote|Only during [[Rag and Bone Man]].}}}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=|update=|img=Blessed giant rat old.png|name=Blessed giant rat}}
+|{{GUL|date=|update=|img=Blessed giant rat (orange).png|name=Blessed giant rat}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=New Quest Online - Part Three|date=3 March 2003}}
+** Added to game.
+}}
+
+{{Underground Pass}}
+{{Rats}}

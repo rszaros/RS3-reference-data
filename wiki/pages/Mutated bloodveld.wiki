@@ -1,0 +1,204 @@
+{{External|os=Mutated Bloodveld}}
+{{Otheruses|the mutated version of a normal bloodveld|other bloodveld|Bloodveld (disambiguation)}}
+{{Infobox Monster
+|version1 = A
+|version2 = B
+|name = Mutated bloodveld
+|image1 = [[File:Mutated bloodveld.png|150px]]
+|image2 = [[File:Mutated bloodveld 146.png|150px]]
+|release = [[22 April]] [[2008]]
+|update = Myreque Part IV - Legacy of Seergaze
+|members = Yes
+|race = bloodveld
+|actions = Attack
+|examine = A bloodveld with a very mixed heritage.
+|level = 81
+|lifepoints = 14,550
+|experience = 727.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 50
+|slayxp = 215.0
+|slayercat = Bloodveld
+|assigned_by = Chaeldar, Sumona, Lapalok, Kuradal
+|max_melee = 1000
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 50
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 750
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1299
+|defence = 65
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania
+|id1 = 7642
+|id2 = 7643
+}}
+[[File:Mutated bloodveld icon.png]]
+'''Mutated bloodveld''' are [[Slayer monsters]] found in the [[Meiyerditch tunnels]]. They are stronger variants of [[bloodveld]] that require level 50 [[Slayer]] to kill. The players can reach them during and after the completion of the quest [[Legacy of Seergaze]]. This monster can be killed instead of regular [[bloodveld]] for [[bloodveld (Slayer assignment)|Slayer assignment]]s, as it gives more Slayer experience. [[Safe spots]] when using non-melee attack can also be used.
+
+Little is known about this monster's origins. They may have been created by the [[Vampyre (race)|vampyres]] as part of their research on [[Haemalchemy]], but were sealed with the laboratories when it was discovered that vampyres could survive without the consumption of blood.
+
+At a glance, one version of the mutated bloodveld may be distinguished from their brethren by their more blunt tongues, the bolts on their face and legs, and the lack of fur on their head.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Meiyerditch tunnels]]
+|lvls = 81
+|mem = Yes
+|mapID = 41
+|requirements = Partial completion of {{AchievementIcon|Legacy of Seergaze}}
+|plane = 0
+|npcid:7643,x:3587,y:9737
+|npcid:7643,x:3592,y:9746
+|npcid:7642,x:3595,y:9742
+|npcid:7642,x:3597,y:9751
+|npcid:7642,x:3598,y:9736
+|npcid:7643,x:3600,y:9740
+|npcid:7642,x:3604,y:9746
+|npcid:7643,x:3605,y:9738
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Getting there==
+Mutated bloodveld may be found in the [[Meiyerditch tunnels]], accessible during the [[Legacy of Seergaze]] quest. Refer to the map for directions through the passage. It can be accessed in six ways, roughly on order of 'fastest to slowest':
+
+* The [[mask of broken fingers]] or the [[mask of crimson]] from [[Shattered Worlds]] allow for teleportation directly to the bloodveld chamber twice daily.
+* Otherwise, the fastest method is to use a [[blood altar teleport]] tablet teleports to outside the [[blood altar]] (marked on the map by a red circle).
+* The only other fast method is to use [[Drakan's medallion]] (one of the rewards from [[The Branches of Darkmeyer]] quest) and teleport to [[Meiyerditch laboratory]] then follow the path to the south. Banking can be done easily by using the medallion to travel to [[Burgh de Rott]] and back (which also does not use up a charge).
+* A slower way is to reach the blood altar as above but via the [[Abyss]]. However, this is dangerous (and will also result in the loss of all [[prayer points]] unless an [[abyssal parasite]] is used).
+* Slower still is the long, winding hidden passage (marked on the map by a pale blue dot) behind the [[Hair of the Dog]] pub in [[Canifis]]. This passage runs though [[Ivandis Seergaze]]'s tomb and past the blood altar to the bloodveld cavern. This route is safer than through the Abyss, but requires level 65 [[Agility]] (obstacle on the way) and starts from Canifis.
+* The last method of accessing the mutated bloodveld is from the [[Meiyerditch]] end of the Meiyerditch tunnels, through the [[Meiyerditch laboratory|laboratory]]. This method is not recommended, unless the player is ''unable'' to use the suggested methods above. This takes far longer than any of the methods listed above, since the player would need to go though the whole of [[Burgh de Rott]] and Meiyerditch. On the map: Green square, at the bottom (though the starting point would have to be Burgh de Rott).
+
+==Strategies==
+They regenerate life points relatively quickly. Bring [[Summoning familiars]] and a [[cannon]] for maximum effectiveness. Mutated bloodveld are weak to Magic, and can be quickly and efficiently slain with a [[polypore staff]]. The [[greater runic staff]] is also effective, as it can be charged with runes for spells, allowing players to exploit their weakness to [[fire spells]] without wasting any inventory space.
+
+===Safe spots===
+Mutated bloodveld can be [[Magic|maged]], [[ranged]], or [[halberd]]ed safely by employing one of several [[safe spot]]s located in the cavern. The various tables located throughout the cavern provide a barrier that serve as cover. A [[Cannons|cannon]] may be used here.
+
+[[File:Mutated bloodveld safespot.png|thumb|centre|A location suitable for ranging mutated bloodveld safely.]]
+
+===Slayer===
+Players assigned to kill [[Bloodveld (Slayer assignment)|bloodveld]] may kill mutated bloodveld as an alternative. The advantages of killing the mutated variety are that the dungeon allows a [[Cannons|cannon]] to be set up, so that multiple mutated bloodveld can be killed at the same time (therefore making the assignment quicker), and, of course, they are higher levelled and have more life points so, as a result, give more Slayer experience per kill (there are two separate levels of mutated bloodveld, each giving different experience). If a player has any [[Ardougne cloak]] and [[Drakan's medallion]] the player can use the cloak to teleport to the [[Ardougne Monastery]], recharge [[prayer points]] and teleport back to the [[Meiyerditch laboratory]] with the medallion.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+{{Obsolete|6 May 2025 loot table update - initial testing suggests ~1/2 rate for 3-14 blood}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black boots|quantity=1|rarity=12/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy kwuarm|quantity=2|rarity=Common}}
+{{DropsTableBottom}}
+
+===Stone and wood spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Gold stone spirit|quantity=5|rarity=8/128}}
+{{DropsLine|name=Runite stone spirit|quantity=5|rarity=Common}}
+{{DropsLine|name=Luminite stone spirit|quantity=5|rarity=Common}}
+{{DropsLine|name=Mahogany wood spirit|quantity=2|rarity=Common}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2500-3500|rarity=14/128}}
+{{DropsLine|name=Coins|quantity=4000-6000|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=6000-10000|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Anchovy pizza|quantity=1|rarity=12/128}}
+{{DropsLine|name=Wergali seed|quantity=2|rarity=Common}}
+{{DropsLine|name=Maple seed|quantity=1|rarity=Common}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|10/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-14|rarity=1/10}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5}}
+{{DropsLineEffigy|level=81}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=81}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 447.895/1000
+|green = 55.987/1000
+|crimson = 37.325/1000
+|blue = 11.197/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Starbloom Seeds have landed - This Week In RuneScape|date=9 June 2025}}
+** Fixed an issue where black boots were unable to be dropped from bloodveld.
+
+* {{UL|type=patch|update=Game Jam Farming Strike - This Week In RuneScape|date=6 May 2025}}
+** Updated the drop tables of regular and mutated bloodveld.
+*** They're now more likely to drop [[congealed blood]].
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low-level monsters that were harder to kill than intended.
+
+* {{UL|type=patch|update=Patch Notes (27 May 2014)|date=27 May 2014}}
+** Certain drops from mutated bloodveld are now noted.
+
+* {{UL|type=update|update=Myreque Part IV - Legacy of Seergaze|date=22 April 2008}}
+** Added to game.
+}}
+
+==Trivia==
+* Given the mutated bloodveld's examine text, "A bloodveld with a very mixed heritage", and the presence of what appears to be a human face and hair on their bodies, they were likely created by fusing humans and bloodveld together.
+
+{{Slayer monsters}}

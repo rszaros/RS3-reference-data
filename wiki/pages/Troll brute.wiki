@@ -1,0 +1,153 @@
+{{Otheruses|the standard monster}}
+{{Infobox Monster
+|name = Troll brute
+|image = [[File:Troll brute.png|125px]]
+|release = [[31 January]] [[2012]]
+|update = Troll Warzone
+|members = No
+|actions = Attack
+|examine = Gets up close and personal.
+|level = 7
+|lifepoints = 700
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19.4
+|slayercat = Trolls
+|max_melee = 100
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 5
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 50
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 14980
+|leagueRegion = Asgarnia
+}}
+'''Troll brutes''' are low level trolls in the [[Burthorpe Troll Cave]]. They were first introduced during the [[Burthorpe]] tutorial and afterwards can be fought along with [[troll shaman]]s and [[troll chucker]]s. They appear to be, along with the troll chuckers and troll shamans, some of the only [[gold charm]] droppers for [[free-to-play]] players. They can be found in the western section of the Burthorpe Troll Cave, north of Burthorpe.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Burthorpe Troll Cave]]
+|lvls = 7
+|mem = No
+|mapID = 719
+|plane = 0
+|npcid:14980,x:135,y:283
+|npcid:14980,x:136,y:276
+|npcid:14980,x:137,y:279
+|npcid:14980,x:137,y:285
+|npcid:14980,x:139,y:282
+|npcid:14980,x:140,y:274
+|npcid:14980,x:140,y:277
+|npcid:14980,x:141,y:271
+|npcid:14980,x:145,y:266
+|npcid:14980,x:145,y:272
+|npcid:14980,x:145,y:276
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Troll brute}}
+
+===Main===
+{{DropsTableHead}}
+<!--Coins-->
+{{DropsLine|name=Coins|quantity=1-10|rarity=Common}}
+<!--Food-->
+{{DropsLine|name=Cabbage|quantity=1|rarity=Common}}
+{{DropsLine|name=Cooked chicken|quantity=1|rarity=Common}}
+{{DropsLine|name=Cooked meat|quantity=1|rarity=Common}}
+{{DropsLine|name=Cooked rabbit|quantity=1|rarity=Common}}
+{{DropsLine|name=Rabbit sandwich|quantity=1|rarity=Common}}
+{{DropsLine|name=Onion|quantity=1|rarity=Common }}
+{{DropsLine|name=Tomato|quantity=1|rarity=Common}}
+<!--Skilling-->
+{{DropsLine|name=Raw chicken|quantity=1|rarity=Common}}
+{{DropsLine|name=Raw beef|quantity=1|rarity=Common}}
+{{DropsLine|name=Raw potato|quantity=1|rarity=Common}}
+{{DropsLine|name=Raw rabbit|quantity=1|rarity=Common}}
+<!--Seeds-->
+{{DropsLine|name=Potato seed|quantity=1-4|rarity=Common}}
+{{DropsLine|name=Onion seed|quantity=1-3|rarity=Common}}
+{{DropsLine|name=Cabbage seed|quantity=1-3|rarity=Common}}
+{{DropsLine|name=Tomato seed|quantity=1-3|rarity=Common}}
+{{DropsLine|name=Sweetcorn seed|quantity=1-3|rarity=Common}}
+{{DropsLine|name=Strawberry seed|quantity=1-2|rarity=Rare}}
+{{DropsLine|name=Watermelon seed|quantity=1-2|rarity=Rare}}
+{{DropsLine|name=Evil turnip seed|quantity=1-4|rarity=Rare}}
+<!--Herbs-->
+{{DropsLine|name=Grimy guam|quantity=1|rarity=Common}}
+{{DropsLine|name=Grimy tarromin|quantity=1|rarity=Common}}
+{{DropsLine|name=Grimy marrentill|quantity=1|rarity=Common}}
+{{DropsLine|name=Grimy harralander|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Grimy ranarr|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Grimy irit|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Grimy avantoe|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Grimy kwuarm|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Grimy cadantine|quantity=1|rarity=Rare}}
+{{DropsLine|name=Grimy lantadyme|quantity=1|rarity=Rare}}
+{{DropsLine|name=Grimy dwarf weed|quantity=1|rarity=Rare}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Spellstorm drape|quantity=1|rarity=Common|raritynotes={{DropNote|Will drop commonly until one is owned.}}}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Going Home to Lumbridge & Amascut 4k Enrage - This Week In RuneScape|date=17 November 2025}}
+** Buffed the lifepoints and damage of Burthorpe trolls that even for Burthorpe path players were underbalanced (troll chuckers, shamans, brutes, Morningstar, Magic Stick and The Map in the Death Plateau quest).
+
+* {{UL|type=patch|update=Patch Notes (4 November 2019)|date=4 November 2019}}
+** Troll chuckers, shamans and brutes in the Burthorpe troll cave now all give golden rocks.
+
+* {{UL|type=patch|update=Patch Notes (16 September 2019)|date=16 September 2019}}
+** [[Troll chucker]]s, [[Troll shaman|shamans]] and brutes in the [[Burthorpe Troll Cave|Burthorpe troll cave]] all now have an equal chance to drop [[charm]]s, and therefore [[strange rock|strange]]/[[gold rock]]s (but only when you have unlocked the Taverley path book, or have a skill level total of 250 or greater).
+
+* {{UL|type=update|update=Troll Warzone|date=31 January 2012}}
+** Added to game.
+}}
+
+{{trolls}}
+[[pt:Troll brutamontes]]
+[[Category:Troll Warzone]]
+[[Category:Bandosians]]

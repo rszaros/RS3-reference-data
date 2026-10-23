@@ -1,0 +1,137 @@
+{{External|os=Ogress Warrior}}
+{{Infobox Monster
+|version1 = Club
+|version2 = Spear
+|name = Ogress warrior
+|image1 = [[File:Ogress warrior (1).png]]
+|image2 = [[File:Ogress warrior.png|200px]]
+|release = [[28 January]] [[2008]]
+|update = As a First Resort...
+|members = Yes
+|options = Attack
+|examine = Irascible, belligerent and stupefyingly impolite.
+|leagueRegion = Kandarin
+|level = 63
+|lifepoints = 2250
+|experience = 112.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 38.2
+|slayercat = Ogres
+|max_melee = 180
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|attack = 45
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee=732
+|acc_ranged=0
+|acc_magic=0
+|acc_necromancy=0
+|armour = 732
+|defence = 45
+|weakness=Air
+|susceptibility=
+|aff_weakness=90
+|aff_melee=60
+|aff_ranged=50
+|aff_magic=70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Club
+|dropversion2 = Spear
+|id1 = 7079
+|id2 = 7080
+}}
+'''Ogress warriors''' are the moderate ranked fighters of the [[ogress]] society. They hit moderate damage and can be good summoning training to moderate level summoners (mainly drop gold).
+
+Ogress Women were released along with the major graphical update to ogres and the Feldip Hills area.
+
+==Habitat==
+{{LocTableHead}}
+{{LocLine
+|loc = West of [[Oo'glog]]
+|lvls = 63
+|mem = Yes
+|mapID = 28
+|plane = 0
+|npcid:7079,x:2451,y:2849
+|npcid:7080,x:2456,y:2867
+|npcid:7080,x:2457,y:2836
+|npcid:7079,x:2463,y:2872
+|npcid:7079,x:2470,y:2853
+|npcid:7080,x:2484,y:2873
+|npcid:7079,x:2487,y:2837
+|npcid:7080,x:2487,y:2856
+|npcid:7079,x:2477,y:2903
+|npcid:7079,x:2478,y:2907
+|npcid:7080,x:2480,y:2916
+|npcid:7080,x:2492,y:2888
+|npcid:7079,x:2501,y:2851
+|npcid:7080,x:2508,y:2853
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+The average ogress warrior with club kill is worth {{nocoins|{{GEP|Big bones}}+{{GEP|Ogre club|3/9}} round 0}} coins, and the average ogress warrior with spear kill is worth {{nocoins|{{GEP|Big bones}}+{{GEP|Tiny spiky iron salvage|3/9}} round 0}} coins. 
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Ogre club|quantity=1|rarity=3/9|version=Club}}
+{{DropsLine|name=Tiny spiky iron salvage|quantity=1|rarity=3/9|version=Spear}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Ogre ribs|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during [[Rag and Bone Man/Wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=63}}
+{{DropsLineEffigy|level=63}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity=1
+|gold=389.392/1000
+|green=27.814/1000
+|crimson=27.814/1000
+|blue=5.563/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=As a First Resort...|date=28 January 2008}}
+** Added to game.
+}}
+
+==See also==
+* [[Ogress]]
+* [[Ogress champion]]
+
+{{Ogres}}
+[[Category:Oo'glog]]
+[[Category:Bandosians]]

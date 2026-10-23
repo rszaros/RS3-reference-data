@@ -1,0 +1,173 @@
+{{External|os=Zombie pirate (Braindeath Island)}}
+{{Otheruses|the Braindeath Island variant|the Harmony Island variant|Zombie pirate (Harmony Island)}}
+{{Infobox Monster
+|version1 = Level 50
+|version2 = Pieces of Hate
+|name = Zombie pirate
+|image1 = [[File:Zombie pirate 6.png|150px]]
+|image2 = [[File:Zombie pirate.png|150px]]
+|release1 = [[31 October]] [[2005]]
+|release2 = [[19 March]] [[2018]]
+|update1 = Rum Deal
+|update2 = Pieces of Hate - Player Gallery
+|level1 = 50
+|level2 = 35
+|experience1 = 86.7
+|experience2 = 54.0
+|lifepoints1 = 1800
+|lifepoints2 = 1250
+|slaylvl = 1
+|slayxp1 = 11.2
+|slayxp2 = 0
+|slayercat = Zombies, Undead
+|members = Yes
+|options = Attack, Examine
+|aggressive = Yes
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style = melee
+|speed = 4
+|max_melee1 = 144
+|max_melee2 = 120
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|weakness1 = Air, Crush
+|weakness2 = Air
+|susceptibility = Salve
+|examine1 = An undead sea scoundrel.
+|examine2 = Zombie pirate invaders!
+|attack1 = 36
+|attack2 = 25
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|defence1 = 36
+|defence2 = 25
+|armour1 = 553
+|armour2 = 536
+|acc_melee1 = 553
+|acc_melee2 = 536
+|acc_ranged = 0
+|acc_magic = 0
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|abilities = 
+|id1 = 2837, 2838, 2839, 2840, 2841, 2842, 25291, 25292, 25293, 25294, 25295, 25296
+|id2 = 25321, 25322, 25323
+|leagueRegion=Morytania}}
+'''Zombie pirates''' are encountered during [[Rum Deal]] on [[Braindeath Island]] (level 50) and during [[Pieces of Hate]] on [[Mos Le'Harmless]] (Level 35). They are aggressive. These are one of the only creatures to regularly drop [[bandana and eyepatch]]es.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Braindeath Island]]
+|lvls=50
+|mem=yes
+|requirements={{QuestIcon|Rum Deal}} (partial)
+|mapID=19
+|npcid:2837,x:2141,y:5083|npcid:2838,x:2142,y:5081|npcid:2842,x:2143,y:5078
+|npcid:2839,x:2145,y:5080|npcid:2841,x:2148,y:5078|npcid:2840,x:2148,y:5080
+|npcid:2837,x:2155,y:5080|npcid:2838,x:2156,y:5078|npcid:2842,x:2158,y:5076
+|npcid:2839,x:2158,y:5079|npcid:2840,x:2160,y:5078|npcid:2841,x:2162,y:5079
+|leagueRegion=Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=3|rarity=3/128}}
+{{DropsLine|name=Water rune|quantity=17|rarity=1/128}}
+{{DropsLine|name=Body rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Chaos rune|quantity=4|rarity=1/128}}
+{{DropsLine|name=Bronze bolts|quantity=2-12|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|30/128}}
+{{DropsTableHead}}
+{{HerbDropTable|30/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny spiky iron salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small bladed steel salvage|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=10|rarity=10/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=18|rarity=21/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=26|rarity=8/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=35|rarity=6/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=40|rarity=2/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Fishing bait|quantity=7|rarity=21/128}}
+{{DropsLine|name=Fishing bait|quantity=10|rarity=5/128}}
+{{DropsLine|name=Karamthulhu|quantity=1|rarity=3/128|gemw=No}}
+{{DropsLine|name=Iron stone spirit|quantity=1|rarity=1/128}}
+{{DropsLine|name=Eye patch|quantity=1|rarity=1/128}}
+{{DropsLine|name=Rusty scimitar|quantity=1|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Zombie pirate 2.png|A zombie pirate with a bottle of rum and an eyepatch.
+Zombie pirate 3.png|A zombie pirate with a cutlass embedded in her back.
+Zombie pirate 4.png|A zombie pirate with a broken bottle and a hook.
+Zombie pirate 5.png|A zombie pirate with a straight cutlass and a hook.
+Zombie pirate 6.png|A zombie pirate wearing a large coat.
+Zombie pirate 7.png|A zombie pirate with a cannonball embedded in its abdomen.
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Rum Deal|date=31 October 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Zombie Pirates were also seen in one of the scenes from the [[RuneScape HD]] login screen.
+
+{{Rum Deal}}
+{{The Great Brain Robbery}}
+{{Rocking Out}}
+{{Pieces of Hate}}
+{{Zombie}}
+{{Pirates}}
+{{Top trumps}}
+[[Category:Quest monsters]]

@@ -1,0 +1,76 @@
+{{Infobox Monster
+|name = Hellhound Hunter (summoned)
+|image = [[File:Hellhound Hunter (summoned).png|x280px]]
+|release = [[4 July]] [[2022]]
+|update = Zamorak, Lord of Chaos - This Week In RuneScape
+|members = Yes
+|options = Attack, Mark, Examine
+|race = Hellhound
+|examine = Looks hungry, like a...hellhound.
+|level = 111
+|lifepoints = 12000
+|experience = 600.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Hellhounds
+|assigned_by = Sumona,Lapalok,Kuradal,Mandrith
+|max_melee = 1512
+|max_ranged = 14
+|max_magic = 14
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 95
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 2765
+|acc_ranged = 110
+|acc_magic = 110
+|acc_necromancy = 0
+|armour = 1335
+|defence = 66
+|weakness = Earth
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 60
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Misthalin
+|id = 29267
+}}
+'''Hellhound Hunters''' are monsters that can be encountered in [[The Zamorakian Undercity]]. These can be summoned by [[Zamorakian hound master]]s and the miniboss [[Desha, Guardian of the Hounds]].
+
+Their attacks can inflict the [[Savage Wounds]] bleed.
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[4 July]] [[2022]]|update=Zamorak, Lord of Chaos - This Week In RuneScape|img=Hellhound Hunter (summoned) (2022).png|name=Hellhound Hunter (summoned)}}
+|{{GUL|date=[[6 February]] [[2023]]|update=Prepping For Fort Forinthry - This Week In RuneScape|img=Hellhound Hunter (summoned).png|name=Hellhound Hunter (summoned)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Base hit chances increased:
+*** Magic: 65 → 70
+*** Melee and ranged: 55 → 60
+
+* {{UL|type=patch|update=Prepping For Fort Forinthry - This Week In RuneScape|date=6 February 2023}}
+** Updated the appearance of hellhounds by adjusting their roughness and metal spec values.
+
+* {{UL|type=ninja|update=Scattershot Ninja Strike - This Week In RuneScape|date=18 July 2022}}
+** Any summoned monster found in [[The Zamorakian Undercity]] Elite Dungeon will now show '(summoned)' on their name, to differentiate between summoned monsters and standard monsters.
+
+* {{UL|type=update|update=Zamorak, Lord of Chaos - This Week In RuneScape|date=4 July 2022}}
+** Added to game.
+}}
+
+{{The Zamorakian Undercity}}
+{{Demons}}

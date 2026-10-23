@@ -1,0 +1,110 @@
+{{External|os}}
+{{Otheruses|def=no|the farm animal|Fever spider (player-owned farm)}}
+{{Infobox Monster
+|name = Fever spider
+|image = [[File:Fever spider.png|230px]]
+|release = [[31 October]] [[2005]]
+|update = Rum Deal
+|members = Yes
+|options = Attack
+|examine = A bunch of legs, eyes and teeth.
+|leagueRegion = Morytania
+|level = 70
+|lifepoints = 4200
+|experience = 210.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 42
+|slayxp = 86.6
+|slayercat = Fever spiders, spiders
+|assigned_by = Chaeldar, Turael, Vannaka
+|max_melee = 740
+|max_ranged = 840
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 37
+|ranged = 50
+|magic = 1
+|necromancy = 1
+|acc_melee = 471
+|acc_ranged = 568
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Crush
+|susceptibility = NopeNopeNope
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = no
+|immune_to_drain = No
+|id = 2850
+}}
+[[File:Fever spider icon.png|left]]
+'''Fever spiders''' are monsters that require level 42 [[Slayer]] to kill. They are found in the brewery basement on [[Braindeath Island]] and can be accessed by going down the ladder in the northwest corner. Players must wear [[Slayer gloves]] while fighting them, or face being hit 12.5% of their maximum life points repeatedly. Fever spiders are a relatively fast task due to the large quantity of spiders, their low defence and lack of drops.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Braindeath Island]]
+|lvls=70
+|mem=yes
+|mapID=19
+|npcid:2850,x:2140,y:5093|npcid:2850,x:2142,y:5097|npcid:2850,x:2142,y:5103
+|npcid:2850,x:2143,y:5094|npcid:2850,x:2146,y:5098|npcid:2850,x:2148,y:5103
+|npcid:2850,x:2151,y:5094|npcid:2850,x:2154,y:5101|npcid:2850,x:2157,y:5098
+|npcid:2850,x:2159,y:5104|npcid:2850,x:2160,y:5094
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Fever spider body|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Rum Deal]] quest.}}|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy kwuarm|quantity=1|rarity=6/100}}
+{{DropsLineSpiderEgg|850}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPC
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Fever spider (2005).png|name=Fever spider}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Fever spider (2006).png|name=Fever spider}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Fever spider.png|name=Fever spider}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament &amp; Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Rum Deal|date=31 October 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Before the [[Evolution of Combat]] update, fighting Fever spiders without having Slayer gloves equipped would result in becoming [[Disease (historical)|diseased]].
+
+{{Rum Deal}}
+{{Slayer monsters}}
+{{Spiders}}

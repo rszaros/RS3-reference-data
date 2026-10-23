@@ -1,0 +1,215 @@
+{{External|os=Goblin_guard|rsc=Goblin guard}}
+{{Multi Infobox
+|text1 = Sleeping
+|item1 ={{Infobox NPC
+|name = Sleeping guard
+|image = Sleeping guard.png
+|release = [[24 April]] [[2007]]
+|update = Another Slice of H.A.M.
+|quest = [[Observatory Quest]]
+|location = [[Observatory Dungeon]]
+|race = Goblin
+|members = Yes
+|options = Prod
+|gender = Male
+|examine = Sleeping like an ugly baby.
+|map = {{NPC map|npcid=6122|mapID=545|x=2327|y=9394}}
+|id = 6122
+|leagueRegion = Kandarin
+}}
+|text2 = Awake
+|item2 = {{Infobox Monster
+|name = Goblin guard
+|image = Goblin guard (Observatory).png
+|release = [[17 March]] [[2003]]
+|update = Observatory Quest online!
+|level = 28
+|experience = 165
+|lifepoints = 3300
+|slaylvl = 1
+|slayxp = 11.4
+|slayercat = Goblins
+|assigned_by = turael
+|members = Yes
+|aggressive = No
+|poisonous = No
+|immune_to_poison = Yes
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style = melee
+|primarystyle = melee
+|speed = 4
+|max_melee = 400
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|weakness = Water
+|options = Attack
+|examine = He doesn't look like he'd trust his own mother.
+|attack = 20
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|defence = 20
+|armour = 316
+|acc_melee = 216
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|restriction = quest
+|leagueRegion = Kandarin
+|id = 489
+}}
+}}
+The '''Goblin guard''' (known as '''Sleeping guard''' before being woken up) is a level 28 [[goblin]] who is guarding the kitchen gate in the [[Observatory Dungeon|dungeon]] near the [[Observatory]]. During the [[Observatory Quest]] players must "prod" him to wake him up, he then attacks the player while saying "Oi, how dare you wake me up!". He can be fought after the quest is complete as he respawns in the same place.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Observatory Dungeon]]
+|lvls=28
+|mem=yes
+|mapID=545
+|npcid:489,x:2327,y:9394
+|leagueRegion = Kandarin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=2-7|rarity=3/128}}
+{{DropsLine|name=Mind rune|quantity=13-19|rarity=3/128}}
+{{DropsLine|name=Water rune|quantity=6|rarity=6/128}}
+{{DropsLine|name=Earth rune|quantity=4|rarity=3/128}}
+{{DropsLine|name=Body rune|quantity=7|rarity=5/128}}
+{{DropsLine|name=Bronze bolts|quantity=8|rarity=3/128}}
+{{DropsLine|name=Bronze arrow|quantity=16|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Bronze med helm|quantity=1|rarity=9/128}}
+{{DropsLine|name=Bronze spear|quantity=1|rarity=4/128}}
+{{DropsLine|name=Bronze square shield|quantity=1|rarity=3/128}}
+{{DropsLine|name=Bronze kiteshield|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1|rarity=1/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=5|rarity=28/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=5-10|rarity=11/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=15|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=20|rarity=2/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Cabbage|quantity=1|rarity=14/128}}
+{{DropsLine|name=Bread dough|quantity=1|rarity=10/128}}
+{{DropsLine|name=Goblin mail|quantity=1|rarity=5/128}}
+{{DropsLine|name=Grapes|quantity=3|rarity=3/128}}
+{{DropsLine|name=Chef's hat|quantity=1|rarity=3/128}}
+{{DropsLine|name=Goblin book|quantity=1|rarity=2/128|gemw=No}}
+{{DropsLine|name=Beer|quantity=1|rarity=2/128}}
+{{DropsLine|name=Brass necklace|quantity=1|rarity=1/128}}
+{{DropsLine|name=Air talisman|quantity=1|rarity=1/128}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Cave goblin skull|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Undercooked mystery meat|quantity=1|rarity=1/20|raritynotes={{DropNote|Only when wearing the [[Asylum doctor's ring]].}}|gemw=No}}
+{{DropsLine|name=Bronze gauntlets|quantity=1|rarity=1/128}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|gemw=No}}
+{{BeginnerWeaponsDropLines}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Goblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Goblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineMimic|level=28}}
+{{DropsLineEffigy|level=28}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable|quantity=1|gold=85.996/1000|green=2.687/1000|crimson=5.375/1000|blue=0.537/1000}}
+
+==Dialogue==
+{{speaksin}}
+
+==Graphical updates==
+===NPCs===
+{{Switch infobox
+|text1=Sleeping|text2=Awake
+|item1={{GU|subject=NPCs
+|{{GUL|date=[[24 April]] [[2007]]|update=Another Slice of H.A.M.|img=Sleeping guard (2007).png|name=Sleeping guard}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Sleeping guard (2008).png|name=Sleeping guard}}
+|{{GUL|date=[[17 October]] [[2012]]|update=What's Mine is Yours|img=Sleeping guard.png|name=Sleeping guard}}
+}}
+|item2={{GU|subject=NPCs
+|{{GUL|date=[[17 March]] [[2003]]|update=Observatory Quest online!|img=Goblin guard (Observatory) (2003).png|name=Goblin guard}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Goblin guard (Observatory) (2004).png|name=Goblin guard}}
+|{{GUL|date=[[24 April]] [[2007]]|update=Another Slice of H.A.M.|img=Goblin guard (Observatory) (April 2007).png|name=Goblin guard}}
+|{{GUL|date=[[17 July]] [[2007]]|update=Game Improvements (July 2007)|img=Goblin guard (Observatory) (2007).png|name=Goblin guard}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Goblin guard (Observatory) (2008).png|name=Goblin guard}}
+|{{GUL|date=[[17 October]] [[2012]]|update=What's Mine is Yours|img=Goblin guard (Observatory).png|name=Goblin guard}}
+}}
+}}
+===Chathead=== 
+{{GU|subject=chatheads
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Goblin guard (Observatory) chathead (2004).png|name=Goblin guard}}
+|{{GUL|date=[[24 April]] [[2007]]|update=Another Slice of H.A.M.|img=Goblin guard (Observatory) chathead (April 2007).png|name=Goblin guard}}
+|{{GUL|date=[[17 July]] [[2007]]|update=Game Improvements (July 2007)|img=Goblin guard (Observatory) chathead (July 2007).png|name=Goblin guard}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Tiny plated bronze salvage → Bronze med helm, Bronze gauntlets
+*** Tiny spiky bronze salvage → Bronze spear
+*** Small plated bronze salvage → Bronze square shield
+*** Medium plated bronze salvage → Bronze kiteshield
+
+* {{UL|type=update|update=What's Mine is Yours|date=17 October 2012}}
+** Received a graphical update along side goblin raids.
+
+* {{UL|type=update|update=Another Slice of H.A.M.|date=24 April 2007}}
+** Sleeping guard added to game.
+
+* {{UL|type=update|update=Observatory Quest online!|date=17 March 2003}}
+** Goblin guard added to game.
+}}
+
+{{Observatory Quest}}
+{{Goblins}}
+[[Category:Guards]]
+[[Category:Bandosians]]
+[[Category:Quest monsters]]
+
+
+{{Observatory Quest}}
+{{Goblins}}
+[[Category:Guards]]
+[[Category:Bandosians]]
+[[Category:Quest monsters]]

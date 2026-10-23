@@ -1,0 +1,92 @@
+{{Infobox Monster
+|name = Undead chicken
+|image = [[File:Undead chicken.png|200px]]
+|release = [[23 March]] [[2015]]
+|update = Dimension of Disaster – 200th Quest
+|members = Yes
+|options = Attack, Examine
+|race = Zombie chicken
+|examine = Yep, definitely a chicken...an undead chicken.
+|level = 7
+|lifepoints = 700
+|experience = 
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6.8
+|slayercat = Birds, Zombies, Undead
+|max_melee = 75
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 3
+|attack = 5
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 50
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Fire
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|id = 20929
+}}
+'''Undead chickens''' are the reanimated remains of the [[chicken]]s found in [[New Varrock]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[New Varrock]]
+|lvls=7
+|mem=yes
+|mapID=677
+|npcid:20929,x:3738,y:9016|npcid:20929,x:3738,y:9019|npcid:20929,x:3740,y:9015
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always|gemw=no|alch=no}}
+{{DropsLine|name=Raw undead chicken|quantity=1|rarity=Always|gemw=no|alch=no}}
+{{DropsLine|name=Feather|quantity=5-15|rarity=Always|gemw=no|alch=no|altvalue=1|altcurrency=Zemomark}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[23 March]] [[2015]]|update=Dimension of Disaster – 200th Quest|img=Undead chicken (2015).png|name=Undead chicken}}
+|{{GUL|date=[[3 September]] [[2018]]|update=Player Owned Farm|img=Undead chicken.png|name=Undead chicken}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Dimension of Disaster – 200th Quest|date=23 March 2015}}
+** Added to game.
+}}
+
+{{Zombie}}
+{{Chickens}}
+{{New Varrock}}

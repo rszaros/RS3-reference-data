@@ -1,0 +1,71 @@
+{{Otheruses|def=no|the summoned version|Seething Pyrefiend (summoned)}}
+{{Infobox Monster
+|name = Seething Pyrefiend
+|image = [[File:Seething Pyrefiend.png|x280px]]
+|release = [[4 July]] [[2022]]
+|update = Zamorak, Lord of Chaos - This Week In RuneScape
+|members = Yes
+|options = Attack, Mark, Examine
+|race = Fiend
+|examine = More than a bit hot headed.
+|leagueRegion = Misthalin
+|level = 119
+|lifepoints = 16000
+|experience = 800.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 30
+|slayercat = Pyrefiends
+|max_melee = 576
+|max_ranged = 576
+|max_magic = 1411
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 40
+|ranged = 40
+|magic = 98
+|necromancy = 1
+|acc_melee = 628
+|acc_ranged = 628
+|acc_magic = 2,962
+|acc_necromancy = 0
+|armour = 1694
+|defence = 75
+|weakness = Bolts
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 29274
+}}
+
+'''Seething Pyrefiend''' is a [[monster]] released with [[The Zamorakian Undercity]].
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes|quantity=1|rarity=Always}}
+{{DropsLine|name=Fire rune|quantity=|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Base hit chances increased:
+*** Ranged: 65 → 70
+*** Magic and melee: 55 → 60
+
+* {{UL|type=update|update=Zamorak, Lord of Chaos - This Week In RuneScape|date=4 July 2022}}
+** Added to game.
+}}
+
+{{The Zamorakian Undercity}}
+{{Demons}}

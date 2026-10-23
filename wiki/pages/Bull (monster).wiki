@@ -1,0 +1,83 @@
+{{Infobox Monster
+|name = Bull
+|image = Bull (monster).png
+|release = [[23 March]] [[2026]]
+|update = Havenhythe Out Now
+|members = No
+|options = Attack, Examine
+|race = Cow
+|examine = Enjoys grazing on grass.
+|leagueRegion = Havenhythe
+|level = 5
+|lifepoints = 1300
+|experience = 65.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 
+|slayxp = 20
+|slayercat = Cows
+|assigned_by = 
+|max_melee = 60.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 3
+|attack = 4
+|ranged = 1
+|magic = 1
+|necromancy = 
+|acc_melee = 40
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 140
+|defence = 4
+|weakness = Earth
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = 
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = 
+|id = 30873
+}}
+The '''bull''' is a [[monster]] found at [[Marigold Farm]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Marigold Farm]]
+|lvls=5
+|mem=no
+|npcid:30873,x:4234,y:3288
+|requirements={{QuestIcon|Visions of Havenhythe}} (partial)
+|leagueRegion = Havenhythe
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Cowhide|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw beef|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Out Now|date=23 March 2026}}
+** Added to [[Marigold Farm]].
+
+* {{UL|type=update|update=Hop into the Blooming Burrow - This Week In RuneScape|date=18 March 2024}}
+** Added to game cache.
+}}
+
+{{Blooming Burrow}}
+{{Marigold Farm}}

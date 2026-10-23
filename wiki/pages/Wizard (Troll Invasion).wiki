@@ -1,0 +1,154 @@
+{{Infobox Monster
+|version1 = 2
+|version2 = 11
+|version3 = 21
+|version4 = 30
+|version5 = 40
+|version6 = 50
+|version7 = 60
+|version8 = 70
+|name = Wizard
+|image = [[File:Wizard (Troll Invasion).png]]
+|release = [[14 June]] [[2011]]
+|update = Troll Invasion
+|members = Yes
+|actions = Attack, Information
+|examine = His name would suggest he ate a mage.
+|leagueRegion = Asgarnia
+|level1 = 2
+|level2 = 11
+|level3 = 21
+|level4 = 30
+|level5 = 40
+|level6 = 50
+|level7 = 60
+|level8 = 70
+|lifepoints1 = 100
+|lifepoints2 = 400
+|lifepoints3 = 750
+|lifepoints4 = 1100
+|lifepoints5 = 1450
+|lifepoints6 = 1800
+|lifepoints7 = 2150
+|lifepoints8 = 2500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Trolls
+|assigned_by = sumona, chaeldar, turael
+|max_melee1 = 6
+|max_melee2 = 30
+|max_melee3 = 56
+|max_melee4 = 82.5
+|max_melee5 = 108.7
+|max_melee6 = 135
+|max_melee7 = 161.2
+|max_melee8 = 187.5
+|max_ranged = 0
+|max_magic1 = 8
+|max_magic2 = 40
+|max_magic3 = 75
+|max_magic4 = 110
+|max_magic5 = 145
+|max_magic6 = 180
+|max_magic7 = 215
+|max_magic8 = 250
+|max_necromancy = 0
+|style = magic
+|speed = 5
+|speed1 = 4
+|attack1 = 1
+|attack2 = 6
+|attack3 = 11
+|attack4 = 16
+|attack5 = 21
+|attack6 = 27
+|attack7 = 32
+|attack8 = 37
+|ranged = 0
+|magic1 = 2
+|magic2 = 8
+|magic3 = 15
+|magic4 = 22
+|magic5 = 29
+|magic6 = 36
+|magic7 = 43
+|magic8 = 50
+|necromancy = 1
+|acc_melee1 = 15
+|acc_melee2 = 160
+|acc_melee3 = 112
+|acc_melee4 = 165
+|acc_melee5 = 217
+|acc_melee6 = 409
+|acc_melee7 = 322
+|acc_melee8 = 375
+|acc_ranged = 0
+|acc_magic1 = 120
+|acc_magic2 = 181
+|acc_magic3 = 257
+|acc_magic4 = 341
+|acc_magic5 = 439
+|acc_magic6 = 553
+|acc_magic7 = 689
+|acc_magic8 = 850
+|acc_necromancy = 0
+|armour1 = 120
+|armour2 = 181
+|armour3 = 257
+|armour4 = 341
+|armour5 = 439
+|armour6 = 553
+|armour7 = 689
+|armour8 = 850
+|defence1 = 2
+|defence2 = 8
+|defence3 = 15
+|defence4 = 22
+|defence5 = 29
+|defence6 = 36
+|defence7 = 43
+|defence8 = 50
+|weakness = Bolts
+|aff_weakness = 90
+|aff_melee = 45
+|aff_ranged = 65
+|aff_magic = 55
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id1 = 12299
+|id2 = 12305
+|id3 = 12309
+|id4 = 12316
+|id5 = 12374
+|id6 = 12418
+|id7 = 12434
+|id8 = 12435
+}}
+'''Wizards''' are one of the monsters fought during the combat portion of [[Troll Invasion]]. These are some of the more dangerous trolls due to their special attacks, and should be killed right after [[Dynamite]]s. They attack with [[magic]], using the spell [[Earth Bolt]], and are weak to crossbow bolts.
+
+In addition to their normal attacks, they have two special attacks. They use their first special attack when they first appear, creating a 3 {{x}} 3 area of vines that will damage you rapidly for up to ~1300 per hit. Then, after using their normal attacks a few times, they will teleport you around the battlefield causing you to be stunned for a few seconds. They use their normal attacks a few times again, and the cycle repeats. On rare occasions, they may create multiple patches.
+
+The vines they summon deals typeless damage and cannot be prayed against or healed from using [[Resonance]].
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Troll Invasion|date=14 June 2011}}
+** Added to game.
+}}
+
+==Trivia==
+* The vines they summon would remain if the Wizard is killed, but would no long deal damage to players on it. This might be a [[glitch]]. They are also visually similar with [[evil roots]].
+
+{{Troll Invasion}}
+{{Trolls}}
+[[Category:Bandosians]]

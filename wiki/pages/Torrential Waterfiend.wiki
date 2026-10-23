@@ -1,0 +1,70 @@
+{{Otheruses|def=no|the summoned version|Torrential Waterfiend (summoned)}}
+{{Infobox Monster
+|name = Torrential Waterfiend
+|image = [[File:Torrential Waterfiend.png|x280px]]
+|release = [[4 July]] [[2022]]
+|update = Zamorak, Lord of Chaos - This Week In RuneScape
+|members = Yes
+|options = Attack, Mark, Examine
+|race = Fiend
+|examine = A volatile embodiment of water.
+|leagueRegion = Misthalin
+|level = 118
+|lifepoints = 18000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 1200.0
+|slayercat = Waterfiends, Demons
+|max_melee = 1414
+|max_ranged = 1727
+|max_magic = 1727
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 5
+|attack = 77
+|ranged = 94
+|magic = 94
+|necromancy = 1
+|acc_melee = 1783
+|acc_ranged = 2701
+|acc_magic = 2701
+|acc_necromancy = 0
+|armour = 1783
+|defence = 77
+|weakness = Bolts
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 29269
+}}
+'''Torrential Waterfiends''' are monsters released with [[The Zamorakian Undercity]].
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes|quantity=1|rarity=Always}}
+{{DropsLine|name=Water rune|quantity=|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Base hit chances increased:
+*** Ranged: 65 → 70
+*** Magic and melee: 55 → 60
+
+* {{UL|type=update|update=Zamorak, Lord of Chaos - This Week In RuneScape|date=4 July 2022}}
+** Added to game.
+}}
+
+{{The Zamorakian Undercity}}
+{{Demons}}

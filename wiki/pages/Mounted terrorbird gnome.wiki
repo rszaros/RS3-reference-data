@@ -1,0 +1,233 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Level 46
+|version2 = Level 53 (1)
+|version3 = Level 53 (2)
+|version4 = Level 53 (3)
+|name = Mounted terrorbird gnome
+|image1 = [[File:Mounted terrorbird gnome.png|200px]]
+|image2 = [[File:Mounted terrorbird gnome (spear).png|200px]]
+|image3 = [[File:Mounted terrorbird gnome (spear, 2).png|200px]]
+|image4 = [[File:Mounted terrorbird gnome (spear, 3).png|200px]]
+|release = [[29 March]] [[2004]]
+|update = RS2 Launched!
+|members = Yes
+|options = Attack
+|examine = These gnomes know how to get around!
+|level1 = 46
+|level = 53
+|lifepoints1 = 5300
+|lifepoints = 6150
+|experience1 = 265.0
+|experience = 307.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 19.6
+|slayxp = 24.8
+|slayercat = Birds
+|assigned_by = Turael
+|max_melee1 = 660
+|max_melee = 950
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed1 = 4
+|speed = 5
+|attack1 = 33
+|attack = 38
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 402
+|acc_melee = 490
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 502
+|armour = 590
+|defence1 = 33
+|defence = 38
+|weakness1 = Air
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Level 46
+|dropversion2 = Level 53
+|leagueRegion = Kandarin
+|id1 = 1752
+|id2 = 6109
+|id3 = 6110
+|id4 = 6111
+}}
+'''Mounted terrorbird gnomes''' are [[gnomes]] riding [[terrorbird]]s. They are stronger than regular unmounted terrorbirds. They are found spread around and to the south of the [[Tree Gnome Stronghold]] and the [[Battlefield]]. They may be killed for the [[bird (disambiguation)|bird]] [[slayer assignment]]. They attack with melee and are weak for their level, and consequently aren't very hard to kill.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Tree Gnome Stronghold]] 
+|lvls = 46
+|mem = Yes
+|mapID = 28
+|plane = 0
+|npcid:1752,x:2381,y:3428
+|npcid:1752,x:2392,y:3405
+|npcid:1752,x:2413,y:3397
+|npcid:1752,x:2415,y:3408
+|npcid:1752,x:2432,y:3387
+|npcid:1752,x:2442,y:3388
+|npcid:1752,x:2453,y:3363
+|npcid:1752,x:2463,y:3375
+|npcid:1752,x:2437,y:3442
+|npcid:1752,x:2449,y:3421
+|npcid:1752,x:2457,y:3394
+|npcid:1752,x:2464,y:3394
+|npcid:1752,x:2480,y:3406
+|npcid:1752,x:2463,y:3456
+|npcid:1752,x:2468,y:3456
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc = [[Battlefield]]
+|lvls = 53
+|mem = Yes
+|mapID = 28
+|plane = 0
+|npcid:6109,x:2500,y:3226
+|npcid:6110,x:2524,y:3234
+|npcid:6111,x:2530,y:3217
+|npcid:6109,x:2532,y:3217
+|npcid:6110,x:2534,y:3217
+|npcid:6111,x:2537,y:3236
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Level 46 drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Mounted terrorbird gnome#Level 46}}
+
+===100%===
+{{DropsTableHead|version=Level 46}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Ingredients===
+{{DropsTableHead}}
+{{DropsLine|name=Equa leaves|quantity=1|rarity=24/100}}
+{{DropsLine|name=Gianne dough|quantity=1|rarity=20/100}}
+{{DropsLine|name=Lemon|quantity=1|rarity=12/100}}
+{{DropsLine|name=Lime|quantity=1|rarity=12/100}}
+{{DropsLine|name=Gnome spice|quantity=1|rarity=12/100}}
+{{DropsTableBottom}}
+
+===Kitchenware===
+{{DropsTableHead}}
+{{DropsLine|name=Batta tin|quantity=1|rarity=5/100|gemw=No}}
+{{DropsLine|name=Crunchy tray|quantity=1|rarity=5/100|gemw=No}}
+{{DropsLine|name=Gnomebowl mould|quantity=1|rarity=5/100|gemw=No}}
+{{DropsLine|name=Cocktail glass|quantity=1|rarity=2/100|gemw=No}}
+{{DropsLine|name=Cocktail shaker|quantity=1|rarity=1/100|gemw=No}}
+{{DropsTableBottom}}
+
+===Books===
+{{DropsTableHead}}
+{{DropsLine|name=Cocktail guide|quantity=1|rarity=1/100|gemw=No}}
+{{DropsLine|name=Gianne's cook book|quantity=1|rarity=1/100|gemw=No}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead|version=Level 46}}
+{{DropsLine|name=Terrorbird wing|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Level 53 drops==
+{{DropLogProject|kills=183}}
+
+===100%===
+{{DropsTableHead|version=Level 53}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Mounted terrorbird gnome}}
+
+===Tertiary===
+{{DropsTableHead|version=Level 53}}
+{{DropsLine|name=Terrorbird wing|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLineSpiritGems}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Dukes of Khazard}}
+
+==Graphical updates==
+{{Needs historical image|the 1 July 2008 and 9 February 2011 npc models}}
+{{Switch infobox
+|text1 = Level 46
+|item1 =
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Mounted terrorbird gnome (2004).png|name=Mounted terrorbird gnome}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Mounted terrorbird gnome (2007).png|name=Mounted terrorbird gnome}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Mounted terrorbird gnome (2008).png|name=Mounted terrorbird gnome}}
+|{{GUL|date=[[9 February]] [[2011]]|update=Prisoner of Glouphrie and Gnome Graphical Rework|img=Mounted terrorbird gnome (2011).png|name=Mounted terrorbird gnome}}
+|{{GUL|date=[[6 March]] [[2012]]|update=Player Armour, Gnomes and Clan Fealty|img=Mounted terrorbird gnome.png|name=Mounted terrorbird gnome}}
+}}
+|text2 = Level 53 (1)
+|item2 =
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Mounted terrorbird gnome (spear) (2004).png|name=Mounted terrorbird gnome}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Mounted terrorbird gnome (spear) (2007).png|name=Mounted terrorbird gnome}}
+<!-- |{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Mounted terrorbird gnome (spear) (2008).png|name=Mounted terrorbird gnome}} -->
+<!-- |{{GUL|date=[[9 February]] [[2011]]|update=Prisoner of Glouphrie and Gnome Graphical Rework|img=Mounted terrorbird gnome (spear) (2011).png|name=Mounted terrorbird gnome}} -->
+|{{GUL|date=[[6 March]] [[2012]]|update=Player Armour, Gnomes and Clan Fealty|img=Mounted terrorbird gnome (spear).png|name=Mounted terrorbird gnome}}
+}}
+|text3 = Level 53 (2)
+|item3 =
+{{GU|subject=npc
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Mounted terrorbird gnome (spear, 2) (2007).png|name=Mounted terrorbird gnome}}
+<!-- |{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Mounted terrorbird gnome (spear, 2) (2008).png|name=Mounted terrorbird gnome}} -->
+<!-- |{{GUL|date=[[9 February]] [[2011]]|update=Prisoner of Glouphrie and Gnome Graphical Rework|img=Mounted terrorbird gnome (spear, 2) (2011).png|name=Mounted terrorbird gnome}} -->
+|{{GUL|date=[[6 March]] [[2012]]|update=Player Armour, Gnomes and Clan Fealty|img=Mounted terrorbird gnome (spear, 2).png|name=Mounted terrorbird gnome}}
+}}
+|text4 = Level 53 (3)
+|item4 =
+{{GU|subject=npc
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Mounted terrorbird gnome (spear, 3) (2007).png|name=Mounted terrorbird gnome}}
+<!-- |{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Mounted terrorbird gnome (spear, 3) (2008).png|name=Mounted terrorbird gnome}} -->
+<!-- |{{GUL|date=[[9 February]] [[2011]]|update=Prisoner of Glouphrie and Gnome Graphical Rework|img=Mounted terrorbird gnome (spear, 3) (2011).png|name=Mounted terrorbird gnome}} -->
+|{{GUL|date=[[6 March]] [[2012]]|update=Player Armour, Gnomes and Clan Fealty|img=Mounted terrorbird gnome (spear, 3).png|name=Mounted terrorbird gnome}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=RS2 Launched!|date=29 March 2004}}
+** Added to game.
+}}
+
+==See also==
+* [[Terrorbird]]
+* [[Gnome]]
+* [[Terrorchick]]
+
+{{Gnomes}}
+{{Tree Gnome Stronghold}}
+[[Category:Terrorbirds]]
+[[Category:Tree Gnome Village (location)]]

@@ -1,0 +1,87 @@
+{{Dgvariant}}
+{{Infobox Monster
+|name = Nechryael
+|image = [[File:Nechryael.png|150px]]
+|release = [[2 November]] [[2010]]
+|update = Dungeoneering – The Warped Floors
+|members = Yes
+|options = Attack, Mark
+|examine = An evil death demon.
+|level = 112
+|lifepoints = 32000
+|experience = 1600.0
+|aggressive = No
+|slaylvl = 80
+|slayxp = 1505
+|slayercat = Nechryael, Creatures of Daemonheim
+|max_melee = 320
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 80
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1924
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1132
+|defence = 80
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id = 10702
+|leagueRegion = Wilderness
+}}
+'''Nechryaels''' are [[demon]]s encountered while [[Dungeoneering]] that require level 80 [[Slayer]] to kill. They are the only creatures to drop the unique [[Doomcore staff]].
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Ashes (Dungeoneering)|quantity=1|rarity=Always|gemw=no}} 
+{{DropsTableBottom}}
+
+===Monster-specific===
+{{DropsTableHead}}
+{{DropsLine|name=Doomcore staff|quantity=1|rarity=Rare|gemw=no}} 
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (3 August 2015)|date=3 August 2015}} 
+**Nechryael no longer appear slightly before they play their spawn animation.
+
+* {{UL|type=ninja|update=Patch Notes (23 June 2014)|date=23 June 2014}}
+**The graphics and animations for the following NPCs have been revised:
+***Nechryaels
+
+* {{UL|type=update|update=Game Update (19 April 2012)|date=19 April 2012}}
+** Increased frequency of Slayer creatures in Dungeoneering.
+
+* {{UL|type=update|update=Dungeoneering – The Warped Floors|date=2 November 2010}}
+** Added to game.
+}}
+{{Dungeoneering monsters}}
+{{Slayer monsters}}
+{{Demons}}

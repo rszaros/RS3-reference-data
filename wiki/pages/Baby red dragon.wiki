@@ -1,0 +1,136 @@
+{{External|os}}
+{{Confuse|baby dragon (pet)|baby red dragon (player-owned house)}}
+{{Infobox Monster
+|name = Baby red dragon
+|image = [[File:Baby red dragon.png|120px]]
+|release = [[17 January]] [[2005]]
+|update = Karamja Dungeon
+|members = Yes
+|options = Attack, Examine
+|examine = Young but still dangerous.
+|level = 47
+|lifepoints = 1700
+|slaylvl = 1
+|slayxp = 20.6
+|experience = 85.0
+|aggressive = No
+|poisonous = No
+|slayercat = Dragons, red dragons
+|max_melee = 136
+|max_ranged = 0
+|max_magic = 136
+|max_necromancy = 0
+|max_spec = 0
+|style = magic, melee
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 34
+|necromancy = 1
+|acc_melee = 519
+|acc_ranged = 0
+|acc_magic = 519
+|acc_necromancy = 0
+|armour = 519
+|defence = 34
+|weakness = Bolts
+|susceptibility = dragon bane, dragon slayer
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1589,4667,4668
+|leagueRegion = Karamja
+}}
+'''Baby red dragons''' are located in the [[Brimhaven Dungeon]]. They only attack with magic.
+
+Low-level players seeking [[baby dragon bone]]s often choose to fight [[baby blue dragon]]s instead as aggressive [[wild dog]]s and 875 coins to gain entry to the area deters many players. However, wild dogs are not aggressive to players with 71+ combat. These monsters, like all [[chromatic dragons]], are best attacked using ranged attacks.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Brimhaven Dungeon]]
+|lvls=47
+|mem=yes
+|mapID=13
+|npcid:1589,x:136,y:93
+|npcid:4668,x:138,y:116
+|npcid:4667,x:148,y:92
+|npcid:4667,x:148,y:118
+|npcid:1589,x:151,y:108
+|npcid:4668,x:154,y:97
+|npcid:1589,x:162,y:103
+|npcid:4667,x:170,y:104
+|leagueRegion = Karamja}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Baby dragon bones|quantity=1|rarity=always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Perfect red dragon scale|quantity=1|rarity=Once|raritynotes={{DropNote|Guaranteed drop until obtained while on a [[Slayer/Challenges|Slayer challenge]] from [[Vannaka]].}}|gemw=no|alch=no}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = 1
+|item1 = {{GU|subject=npc
+|{{GUL|date=[[17 January]] [[2005]]|update=Karamja Dungeon|img=Baby red dragon (2005).png|name=Baby red dragon}}
+|{{GUL|date=[[28 March]] [[2006]]|update=Temple Trekking|img=Baby red dragon (March 2006).png|name=Baby red dragon}}
+|{{GUL|date=[[3 April]] [[2006]]|update=A Soul's Bane|img=Baby red dragon (April 2006).png|name=Baby red dragon}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Baby red dragon (August 2006) (1).png|name=Baby red dragon (1)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Baby red dragon (2008).png|name=Baby red dragon (1)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Baby red dragon.png|name=Baby red dragon}}
+}}
+|text2 = 2
+|item2 = {{GU|subject=npc
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Baby red dragon (August 2006) (2).png|name=Baby red dragon (2)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Baby red dragon (2) (2008).png|name=Baby red dragon (2)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Baby red dragon.png|name=Baby red dragon}}
+}}
+|text3 = 3
+|item3 = {{GU|subject=npc
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Baby red dragon (August 2006) (3).png|name=Baby red dragon (3)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Baby red dragon (3) (2008).png|name=Baby red dragon (3)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Baby red dragon.png|name=Baby red dragon}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (6 October 2010)|date=6 October 2010}}
+** Fixed a problem with baby red dragon animations.
+
+* {{UL|type=update|update=Love Story|date=5 July 2010}}
+** Graphical overhaul to chromatics, including baby variants.
+
+* {{UL|type=update|update=Demons, Dragons and Giants|date=29 August 2006}}
+** Graphically updated.
+
+* {{UL|type=hidden|update=A Soul's Bane|date=3 April 2006}}
+** Graphically updated.
+
+* {{UL|type=hidden|update=Temple Trekking|date=28 March 2006}}
+** Graphically updated.
+
+* {{UL|type=update|update=Karamja Dungeon|date=17 January 2005}}
+** Added to game.
+}}
+
+{{Dragon}}
+{{Brimhaven Dungeon}}

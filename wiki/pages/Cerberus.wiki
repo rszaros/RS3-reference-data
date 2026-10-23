@@ -1,0 +1,111 @@
+{{External|os=Temple Guardian}}
+{{otheruses|the quest monster|the race|Cerberus (race)|other uses|Cerberus (disambiguation)}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|name = Cerberus
+|image = [[File:Cerberus.png|180px]]
+|release = [[29 June]] [[2004]]
+|update = Priest In Peril Quest
+|members = No
+|options = Attack
+|examine = Looks like a big ugly dog.
+|level = 33
+|lifepoints = 1200
+|experience = 60.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Dogs
+|assigned_by = Turael, Mazchna
+|max_melee = 96
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 24
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 368
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 368
+|defence = 24
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 7711
+|leagueRegion = Morytania
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|name = Cerberus
+|image = [[File:Cerberus.png|200px]]
+|release = [[27 March]] [[2012]]
+|update = Morytania Tasks
+|race = Dog
+|members = No
+|quest = [[Priest in Peril]]
+|location = [[Paterdomus]]
+|gender = Male
+|options = Examine
+|examine = This seems to be guarding the nearby gate.
+|level = 33
+|map = {{NPC map|npcname=Cerberus|npcid=15255|mapID=529|plane=0|x=3405|y=9902}}
+|id = 15256
+|leagueRegion = Morytania}}
+}}
+'''Cerberus''' is a dog-like monster that dwells in the entrance of the underground passageway to [[Canifis]]. You are required to kill Cerberus in the [[Priest in Peril]] quest. Cerberus cannot be killed before being told to do so as there is no 'Attack' action available. It can only be killed once, after which it is replaced by another dog named [[Lycurgus]].
+
+==Mentioned==
+{{MentionedIn}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Priest safespot.png|Safespot in the old version of Paterdomus
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npcs
+|{{GUL|date=[[2004]]|update=|img=Temple guardian (2004).png|name=Temple guardian}}
+|{{GUL|date=[[2008]]|update=|img=Cerberus.png|name=Temple guardian}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (20 May 2013)|date=20 May 2013}}
+** Cerberus’ stats have been updated in the Quest Journal.
+
+* {{UL|type=update|update=Priest In Peril Quest|date=29 June 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* Previously, he was named the Temple Guardian.
+* Previously, trying to attack it after the quest gave you the message "I'd better not to make the King mad at me again!".
+* In Greek mythology, {{wp|Cerberus}} is the name of the three-headed dog that guards the gates to the Underworld.
+{{Priest in Peril}}
+{{Dogs}}
+[[Category:Quest monsters]]
+[[Category:Guards]]
+[[Category:Deceased characters]]

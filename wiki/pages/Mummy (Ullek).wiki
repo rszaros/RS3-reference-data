@@ -1,0 +1,259 @@
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 1 (on fire)
+|version6 = 2 (on fire)
+|version7 = 3 (on fire)
+|version8 = 4 (on fire)
+|version9 = Ashes
+|name = Mummy
+|name9 = Mummy ashes
+|image1 = [[File:Mummy 1.png|150px]]
+|image2 = [[File:Mummy 2.png|150px]]
+|image3 = [[File:Mummy 3.png|150px]]
+|image4 = [[File:Mummy 4.png|150px]]
+|image5 = [[File:Mummy (on fire) 1.png|150px]]
+|image6 = [[File:Mummy (on fire) 1.png|150px]]
+|image7 = [[File:Mummy (on fire) 2.png|150px]]
+|image8 = [[File:Mummy (on fire) 2.png|150px]]
+|image9 = [[File:Mummy ashes.png|150px]]
+|update = Dealing with Scabaras
+|release = [[2 January]] [[2008]]
+|level = 74
+|experience = 192
+|lifepoints = 2650
+|slaylvl = 1
+|slayxp = 52.2
+|slayercat = Zombies, Undead
+|members = Yes
+|options = Attack, Examine
+|aggressive = Yes
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|attack = 53
+|defence = 53
+|magic = 0
+|necromancy = 1
+|ranged = 0
+|style = Melee
+|primarystyle1 = melee
+|primarystyle2 = melee
+|primarystyle3 = melee
+|primarystyle4 = melee
+|primarystyle5 = melee
+|primarystyle6 = melee
+|primarystyle7 = melee
+|primarystyle8 = melee
+|primarystyle9 = melee
+|speed = 4
+|max_melee = 212
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|weakness = Fire
+|susceptibility = Salve
+|examine1 = A tightly-wrapped monster.
+|examine2 = Spooky, bandaged dead dude.
+|examine3 = A victim of poor first aid.
+|examine4 = Who's the daddy?
+|examine5 = A hot-and-bothered monster.
+|examine6 = This one's on fire!
+|examine7 = A victim of poor barbeque skills.
+|examine8 = Someone's old flame, perhaps?
+|examine9 = A tightly-wrapped monster.
+|armour = 928
+|acc_melee = 928
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|id1 = 6753
+|id2 = 6754
+|id3 = 6755
+|id4 = 6756
+|id5 = 6757
+|id6 = 6758
+|id7 = 6759
+|id8 = 6760
+|id9 = 22432
+|leagueRegion = Desert
+}}
+'''Mummies''' are [[undead]] enemies that can be found on the western section of [[Ullek]] cliffs, on the cliff overlooking the [[Agility Pyramid]]. A shortcut to them from the Agility Pyramid can be unlocked by placing a [[rope]] on a rock to the west of them.
+
+These mummies are very similar to [[Mummy (Jaldraocht Pyramid)|those]] found in the [[Jaldraocht Pyramid]] and [[Chaos Tunnels]], but are slightly weaker. Like those in Jaldraocht, they are weak to [[fire spells]], and can be set aflame using them, and extinguished with [[water spells]]. They are also vulnerable by the [[salve amulet]] and [[Undead Slayer]] perk. As their area is affected by [[desert heat]], [[waterskin]] or an [[enchanted water tiara]] may be helpful when fighting them.
+
+As they are aggressive and respawn very quickly, killing them is a decent method of obtaining the [[Mummy Champion's scroll]]. They are also a good way to obtain [[scabarite notes]] as part of the [[Scabarites Notes]] post-quest activity.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ullek]]
+|lvls=74
+|mem=yes
+|mapID=28
+|plane=1
+|npcid:6753,x:3381,y:2816|npcid:6755,x:3382,y:2820|npcid:6756,x:3384,y:2822
+|npcid:6754,x:3386,y:2824
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+{{Average drop value|mobname=Ullek mummy}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated rune salvage|quantity=1|rarity=3/513}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=3/513}}
+{{DropsTableBottom}}
+
+===Jewellery===
+{{DropsTableHead}}
+{{DropsLine|name=Gold ring|quantity=1|rarity=40/513}}
+{{DropsLine|name=Gold amulet (unstrung)|quantity=1|rarity=25/513}}
+{{DropsLine|name=Gold necklace|quantity=1|rarity=20/513}}
+{{DropsLine|name=Sapphire necklace|quantity=1|rarity=10/513}}
+{{DropsLine|name=Sapphire ring|quantity=1|rarity=10/513}}
+{{DropsLine|name=Emerald amulet (unstrung)|quantity=1|rarity=10/513}}
+{{DropsLine|name=Emerald ring|quantity=1|rarity=10/513}}
+{{DropsLine|name=Ring of duelling (3)|quantity=1|rarity=10/513}}
+{{DropsLine|name=Sapphire bracelet|quantity=1|rarity=7/513}}
+{{DropsLine|name=Ring of recoil|quantity=1|rarity=7/513}}
+{{DropsLine|name=Ring of forging|quantity=1|rarity=5/513}}
+{{DropsLine|name=Bracelet of clay|quantity=1|rarity=5/513}}
+{{DropsLine|name=Amulet of magic|quantity=1|rarity=3/513}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|3/513}}
+{{DropsTableHead}}
+{{HerbDropTable|3/513}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=36|rarity=20/513|gemw=No}}
+{{DropsLine|name=Coins|quantity=95|rarity=20/513|gemw=No}}
+{{DropsLine|name=Coins|quantity=106|rarity=20/513|gemw=No}}
+{{DropsLine|name=Coins|quantity=183|rarity=20/513|gemw=No}}
+{{DropsLine|name=Coins|quantity=222|rarity=20/513|gemw=No}}
+{{DropsLine|name=Coins|quantity=46|rarity=10/513|gemw=No}}
+{{DropsLine|name=Coins|quantity=472|rarity=5/513|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=2/513}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=120/513}}
+{{DropsLine|name=Silk|quantity=1|rarity=40/513}}
+{{DropsLine|name=Swamp tar|quantity=1-19|rarity=30/513}}
+{{DropsLine|name=Papyrus|quantity=1|rarity=26/513}}
+{{DropsLine|name=Casket|quantity=1|rarity=3/513}}
+{{DropsLine|name=Pottery scarab|quantity=1|rarity=3/513}}
+{{DropsLine|name=Spice|quantity=10 (noted)|rarity=1/513}}
+{{DropsLine|name=Sealed clue scroll (medium)|gemw=no|quantity=1|rarity=1/512|raritynotes={{DropNote|Rolled first, separately.}}}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/513}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Mummy Champion's scroll|gemw=no|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Mummy Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000}}
+{{DropsLine|name=Scabarite notes|quantity=1|rarity=1/10|raritynotes={{DropNote|Dropped during the [[Scabarites Notes]] miniquest. Mummies can only drop notes [[scabarite notes (1)|1]], [[scabarite notes (2)|2]], [[scabarite notes (3)|3]], [[scabarite notes (4)|4]], [[scabarite notes (5)|5]], or [[scabarite notes (6)|6]] at a 1/10 chance each (6/10 for any note). If a note has already been copied to the [[scabaras research]], nothing is dropped.}}|gemw=no|image=Scabarite notes (1).png}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = 1
+|item1 = 
+{{GU|subject=npc
+|{{GUL|date=[[2 January]] [[2008]]|update=Dealing with Scabaras|img=Mummy (Ullek, 1) (January 2008).png|name=Mummy (1)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Mummy 1.png|name=Mummy (1)}}
+}}
+
+|text2 = 2
+|item2 = 
+{{GU|subject=npc
+|{{GUL|date=[[2 January]] [[2008]]|update=Dealing with Scabaras|img=Mummy (Ullek, 2) (January 2008).png|name=Mummy (2)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Mummy 2.png|name=Mummy (2)}}
+}}
+
+|text3 = 3
+|item3 = 
+{{GU|subject=npc
+|{{GUL|date=[[2 January]] [[2008]]|update=Dealing with Scabaras|img=Mummy (Ullek, 3) (January 2008).png|name=Mummy (3)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Mummy 3.png|name=Mummy (3)}}
+}}
+
+|text4 = 4
+|item4 = 
+{{GU|subject=npc
+|{{GUL|date=[[2 January]] [[2008]]|update=Dealing with Scabaras|img=Mummy (Ullek, 4) (January 2008).png|name=Mummy (4)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Mummy 4.png|name=Mummy (4)}}
+}}
+
+|text5 = 1 (on fire)
+|item5 = 
+{{GU|subject=npc
+|{{GUL|date=[[2 January]] [[2008]]|update=Dealing with Scabaras|img=Mummy (Ullek, 1, on fire) (January 2008).png|name=Mummy (1, on fire)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Mummy (on fire) 1.png|name=Mummy (1, on fire)}}
+}}
+
+|text6 = 2 (on fire)
+|item6 = 
+{{GU|subject=npc
+|{{GUL|date=[[2 January]] [[2008]]|update=Dealing with Scabaras|img=Mummy (Ullek, 2, on fire) (January 2008).png|name=Mummy (2, on fire)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Mummy (on fire) 1.png|name=Mummy (2, on fire)}}
+}}
+
+|text7 = 3 (on fire)
+|item7 = 
+{{GU|subject=npc
+|{{GUL|date=[[2 January]] [[2008]]|update=Dealing with Scabaras|img=Mummy (Ullek, 3, on fire) (January 2008).png|name=Mummy (3, on fire)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Mummy (on fire) 2.png|name=Mummy (3, on fire)}}
+}}
+
+|text8 = 4 (on fire)
+|item8 = 
+{{GU|subject=npc
+|{{GUL|date=[[2 January]] [[2008]]|update=Dealing with Scabaras|img=Mummy (Ullek, 4, on fire) (January 2008).png|name=Mummy (4, on fire)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Mummy (on fire) 2.png|name=Mummy (4, on fire)}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=patch|update=Patch Notes (28 January 2013)|date=28 January 2013}}
+** Mummies, once set on fire, will give xp.
+
+* {{UL|type=update|update=Dealing with Scabaras|date=2 January 2008}}
+** Added to game.
+}}
+
+{{Dealing with Scabaras}}
+{{Scabarites Notes}}
+{{Mummy}}

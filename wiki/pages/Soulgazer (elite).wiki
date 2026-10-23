@@ -1,0 +1,159 @@
+{{Infobox Monster
+|name = Soulgazer
+|image = [[File:Soulgazer.png]]
+|release = [[8 January]] [[2018]]
+|update = Stalker Creatures - RuneScape’s Birthday
+|members = Yes
+|options = Attack
+|examine = A highly powerful floating eye of some sort.
+|level = 135
+|lifepoints = 120000
+|slaylvl = 99
+|slayxp = 5849.2
+|aggressive = No
+|poisonous = No
+|slayercat = Stalker creatures, soulgazers, Creatures of Daemonheim
+|max_melee = 1104
+|max_ranged = 0
+|max_magic = 1104
+|max_necromancy = 0
+|max_spec = N/A
+|style = magic
+|primarystyle = magic
+|speed = 3
+|attack = 104
+|ranged = 1
+|magic = 104
+|necromancy = 1
+|acc_melee = 3390
+|acc_ranged = 0
+|acc_magic = 3390
+|acc_necromancy = 0
+|armour = 3100
+|defence = 90
+|weakness = Arrows
+|susceptibility = ruinous
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 25126
+|leagueRegion = Wilderness,Misthalin&Fremennik
+}}
+A '''soulgazer (elite)''' is an [[elite monster|elite version]] of the [[soulgazer]]. Elite soulgazers have a spawn chance of 1 in 50. By offering [[seeker's charm]]s to the portal in the north of the [[stalker dungeon]], this chance can be increased to 1 in 10. Elite spawn rates can be further increased with the use of [[fellstalk incense sticks]], a constructed [[guardhouse]], and tier 3 [[luck]]. 
+
+There is a 1/1,500 chance an elite soulgazer will spawn as [[Veil-ripper Ozharakha]] with the message: {{RSFont|color=#ff0000|Veil-ripper Ozharakha has spawned nearby.}}{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dehbsq/droprate_of_hexhunter_bow_confirmed_at_11500000/f2v4g5c/|title=Droprate of hexhunter bow confirmed at 1/1,500,000 from normal soulgazer, 1/1500 from elite|quote=When a elite Stalker spawns it has a 1/1.5k chance of being Veil :)|date=7 October 2019|archiveurl=https://reldo.runescape.wiki/i/99628|archivedate=7 October 2019|name=hexdropthread}} It offers a guaranteed drop of the [[hexhunter bow]].{{CiteReddit|author=Mod Ryan|url=https://www.reddit.com/r/runescape/comments/7p1ck7/i_killed_this_elite_mob_and_it_dropped_me_the_bow/dsdrayc/|title=I killed this elite mob and it dropped me the bow... Barry the Destroyer of Soulgazers?|quote=Ooooo, this is the first post I've seen regarding Veil-ripper Ozharakha! I can confirm that this special creature has a 100% drop rate for the Hexhunter bow (super rare spawn though!).|date=8 January 2018|archiveurl=https://reldo.runescape.wiki/i/104126|archivedate=14 October 2020}}
+
+As well as being stronger than their normal counterparts, elite soulgazers also attack more rapidly than normal soulgazers.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Stalker dungeon]]
+|requirements = {{QuestIcon|Dishonour among Thieves}}
+|lvls=128
+|mem=yes
+|mapID=-1
+|npcid:25125,x:2253,y:9260|npcid:25125,x:2256,y:9254|npcid:25125,x:2258,y:9264
+|npcid:25125,x:2261,y:9259|npcid:25125,x:2267,y:9256|npcid:25125,x:2274,y:9255
+|npcid:25125,x:2280,y:9258|npcid:25125,x:2281,y:9265|npcid:25125,x:2286,y:9255
+|npcid:25125,x:2288,y:9262
+|leagueRegion = Misthalin&Fremennik
+}}
+{{LocLine
+|loc=[[Wilderness]]
+|lvls=128
+|mem=yes
+|mapID=28
+|npcid:25125,x:3332,y:3722|npcid:25125,x:3327,y:3717|npcid:25125,x:3327,y:3731|npcid:25125,x:3323,y:3713|npcid:25125,x:3323,y:3733|npcid:25125,x:3317,y:3715|npcid:25125,x:3312,y:3718|npcid:25125,x:3303,y:3743|npcid:25125,x:3309,y:3745|npcid:25125,x:3332,y:3750
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Dragon mace|quantity=1|rarity=3/48|rolls=3}}
+{{DropsLine|name=Off-hand dragon mace|quantity=1|rarity=3/48|rolls=3}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=6000|rarity=10/48|rolls=3|gemw=No}}
+{{DropsLine|name=Onyx bolt tips|quantity=1-2|rarity=7/48|rolls=3}}
+{{DropsLine|name=Battlestaff|quantity=1-2 (noted)|rarity=8/48|rolls=3}}
+{{DropsLine|name=Fire talisman|quantity=2-4 (noted)|rarity=11/48|rolls=3}}
+{{DropsLine|name=Wine of Zamorak|quantity=1-2 (noted)|rarity=6/48|rolls=3}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/100}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Hexhunter bow|quantity=1|rarity=1/1500|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Hexhunter bow: 1/1500000 from soulgazers, 1/1500 from elites|date=9 October 2019|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}}}
+{{DropsLine|name=Soulgazer's charm|quantity=1|rarity=1/750|gemw=no|alch=no|citations={{CiteTwitter|author=Mod Iago|url=https://twitter.com/JagexIago/status/951753270523060225|quote=Seen a few questions regarding the Soulgazers Charm drop. I can confirm that it has the same drop rate on and off task.|date=12 January 2018|archiveurl=https://reldo.runescape.wiki/i/99550|archivedate=1 September 2020}}{{CiteTwitter|author=Mod Iago|url=https://twitter.com/JagexIago/status/1163744309465800704|quote=1/750 from elites and 1/750,000 from non-elites.|date=20 August 2019|archivedate=20 August 2019|archiveurl=http://archive.is/O0BYs}}}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=99/12800|raritynotes={{DropNote|name=elite|There is a 1/128 chance to roll for an elite clue scroll. If successful, there's a 1% chance it'll be upgraded to a [[sealed clue scroll (master)]].}}}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=1/12800|raritynotes={{DropNote|name=elite}}}}
+{{DropsLineTriskelion|rarity=1/2000|altrarity=1/1940|raritynotes={{DropNote|1/1,940 with tier 3 [[luck]] or higher.}}}}
+{{DropsLineEffigy|level=135}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=135}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.579/1000
+|green = 44.79/1000
+|crimson = 313.527/1000
+|blue = 8.958/1000
+}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=135}}
+
+==Money making guide==
+{{Mmgsection|Killing soulgazers}}
+
+==Achievements==
+* {{Achievement|61 Shades of Red}} 
+** [[Soulgazer's charm]] and [[hexhunter bow]] drops
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Augmented Runecrafting & Thieving launches today! - This Week In RuneScape|date=12 May 2025}}
+** Fixed an issue that caused the Stalker/Seeker creatures to roll an additional random value on top of the initial roll on the RDT. This was unintended as all RDT drops should follow the same rates.
+
+* {{UL|type=patch|update=Mining & Smithing 110 Launching Today! - This Week In RuneScape|date=12 August 2024}}
+** [[Primal stone spirit]]s have been added to the drop table.
+
+* {{UL|type=patch|update=Patch Notes (3 April 2018)|date=3 April 2018}}
+** Elite soulgazers will now roll 3 times on the regular loot table.
+
+* {{UL|type=update|update=Stalker Creatures - RuneScape’s Birthday|date=8 January 2018}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Stalker dungeon}}
+{{Elite monster}}
+{{Slayer monsters}}
+{{Stalkers}}
+[[pt:Observador de almas (elite)]]

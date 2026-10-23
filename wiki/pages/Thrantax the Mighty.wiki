@@ -1,0 +1,94 @@
+{{External|os|rsc=Thrantax}}
+{{Infobox Monster
+|name = Thrantax the Mighty
+|image = [[File:Thrantax the Mighty.png|150px]]
+|release = [[27 February]] [[2002]]
+|update = Latest RuneScape News (27 February 2002)
+|members = Yes
+|options = Attack
+|examine = A terrifying spirit.
+|level = 70
+|lifepoints = 5000
+|experience = 250.0
+|aggressive = No
+|poisonous = No
+|slayercat = Ghosts
+|slayxp = 86.7
+|slaylvl = 1
+|max_melee = 200
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 50
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 238
+|leagueRegion=Kandarin}}
+[[File:Thrantax the Mighty chathead.png|left|70px]]
+'''Thrantax the Mighty''' is a [[ghost]] that players must bring under their control during the [[Merlin's Crystal]] quest. If they fail, Thrantax will attack them.
+
+During the quest, he can be summoned by using the "drop" option on [[bat bones]] while standing on the 12-point star in the centre of the gazebo, found in the garden northeast of [[Camelot]] castle.
+
+He can be summoned an unlimited number of times as long as the player does not complete the conversation. The bat bones are not actually dropped—players can go back to the star and click the drop option again to summon unlimited copies of him, including multiple at once. He can be killed repeatedly for experience, and counts for [[Ghosts (Slayer assignment)]]. He cannot leave the gazebo and, if left alone for a while, will despawn.
+
+==Dialogue==
+{{Speaksin}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[27 February]] [[2002]]|update=Latest RuneScape News (27 February 2002)|img=Thrantax (2002).png|name=Thrantax}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Thrantax the Mighty (2004).png|name=Thrantax the Mighty}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Thrantax the Mighty (2007).png|name=Thrantax the Mighty}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Thrantax the Mighty.png|name=Thrantax the Mighty}}
+}}
+
+{{GU|subject=chathead
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Thrantax the Mighty chathead (2004).png|name=Thrantax the Mighty}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Thrantax the Mighty chathead (2007).png|name=Thrantax the Mighty}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Thrantax the Mighty chathead.png|name=Thrantax the Mighty}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+==Trivia==
+* While one player summons him to do the [[quest]] and is talking to him, another player can fight him and actually kill him.
+* In ''[[RuneScape Classic]]'', Thrantax appears as a demon rather than a ghost.
+* Although he is a ghost, the [[ghostspeak amulet]] is not needed to talk to him.
+
+{{Merlin's Crystal}}
+{{Ghost}}
+[[Category:Quest monsters]]

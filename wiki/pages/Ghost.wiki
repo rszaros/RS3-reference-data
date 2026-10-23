@@ -1,0 +1,274 @@
+{{External|rsc|os|wp}}
+{{Otheruses|the most common ghosts|other ghosts|Ghost (disambiguation)}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|version6 = 6
+|version7 = 7
+|name = Ghost
+|image1 = [[File:Ghost (1).png|x280px]]
+|image2 = [[File:Ghost (2).png|x280px]]
+|image3 = [[File:Ghost (1).png|x280px]]
+|image4 = [[File:Ghost (3).png|x280px]]
+|image5 = [[File:Ghost (4).png|x280px]]
+|image6 = [[File:Ghost (5).png|x280px]]
+|image7 = [[File:Ghost (6).png|x280px]]
+|release1 = [[4 January]] [[2001]]
+|release2 = [[4 January]] [[2001]]
+|release3 = [[22 January]] [[2007]]
+|release4 = [[22 January]] [[2007]]
+|release5 = [[22 January]] [[2007]]
+|release6 = [[22 January]] [[2007]]
+|release7 = [[22 January]] [[2007]]
+|update1 = Runescape beta is now online!
+|update2 = Runescape beta is now online!
+|update3 = The Lair of Tarn Razorlor
+|update4 = The Lair of Tarn Razorlor
+|update5 = The Lair of Tarn Razorlor
+|update6 = The Lair of Tarn Razorlor
+|update7 = The Lair of Tarn Razorlor
+|members = No
+|options = Attack, Examine
+|race = Ghost
+|examine = Eeek! A ghost!
+|level = 25
+|lifepoints = 900
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 10.6
+|slayercat = Ghosts, Undead
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 72
+|max_necromancy = 0
+|max_spec = 0
+|style = Magic
+|primarystyle = Magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 18
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 292
+|acc_necromancy = 0
+|abilities = No
+|armour = 292
+|defence = 18
+|weakness = Thrown
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|id1 = 103
+|id2 = 104
+|id3 = 5342, 5343, 5344, 5345, 5346, 5347, 5348
+|id4 = 5349
+|id5 = 5350
+|id6 = 5351
+|id7 = 5352
+|leagueRegion =Misthalin,Wilderness,Asgarnia,Desert,Kandarin,Tirannwn
+}}
+A '''ghost''' is an undead monster that is found in various places and dungeons. They are the souls of the dead who are unable to pass onto the afterlife, mainly due to an issue they had as living members that was not resolved when they died.
+
+As they are undead, the [[salve amulet]]'s effects work well on them. While ghosts are not very effective combat training, they are involved in [[Ghosts (Slayer assignment)|ghosts slayer assignment]] and [[Undead (Slayer assignment)|undead slayer assignment]], and have a chance of dropping [[ghost hunter equipment]] and the [[ectoplasmator]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Death Rune Temple]]
+|lvls = 25
+|mem = Yes
+|mapID = 149
+|npcid:103,x:2188,y:4855
+|npcid:103,x:2193,y:4845
+|npcid:103,x:2216,y:4829
+|npcid:5342,x:2192,y:4852
+|npcid:5342,x:2218,y:4818
+|npcid:5343,x:2197,y:4849
+|npcid:5343,x:2227,y:4819
+|npcid:5344,x:2210,y:4824
+|npcid:5344,x:2218,y:4843
+|npcid:5345,x:2206,y:4824
+|npcid:5345,x:2223,y:4848
+|npcid:5346,x:2198,y:4825
+|npcid:5346,x:2225,y:4850
+|npcid:5347,x:2194,y:4824
+|npcid:5347,x:2226,y:4855
+|npcid:5348,x:2190,y:4820
+|npcid:5348,x:2218,y:4837
+|leagueRegion = Tirannwn
+}}
+{{LocLine
+|loc = [[West Ardougne#Graveyard|West Ardougne Graveyard]]
+|lvls = 25
+|mem = Yes
+|mapID = 28
+|npcid:103,x:2501,y:3289
+|npcid:5345,x:2501,y:3294
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc = [[Uzer]]
+|lvls = 25
+|mem = Yes
+|mapID = 257
+|npcid:103,x:2714,y:4892
+|npcid:5342,x:2731,y:4893
+|npcid:5343,x:2712,y:4898
+|npcid:5345,x:2712,y:4908
+|npcid:5347,x:2730,y:4907
+|leagueRegion = Desert
+}}
+{{LocLine
+|loc = [[Taverley Dungeon]]
+|lvls = 25
+|mem = Yes
+|mapID = 17
+|npcid:103,x:2900,y:9819
+|npcid:103,x:2915,y:9851
+|npcid:5342,x:2907,y:9818
+|npcid:5342,x:2909,y:9848
+|npcid:5343,x:2905,y:9851
+|npcid:5343,x:2912,y:9820
+|npcid:5344,x:2901,y:9848
+|npcid:5344,x:2920,y:9818
+|npcid:5345,x:2894,y:9849
+|npcid:5345,x:2936,y:9829
+|npcid:5346,x:2888,y:9849
+|npcid:5346,x:2938,y:9836
+|npcid:5347,x:2933,y:9838
+|npcid:5348,x:2920,y:9848
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc = [[The Forgotten Cemetery]]
+|lvls = 25
+|mem = No
+|mapID = 28
+|npcid:103,x:2962,y:3755
+|npcid:103,x:2968,y:3749
+|npcid:103,x:2968,y:3761
+|npcid:103,x:2985,y:3749
+|npcid:103,x:2985,y:3761
+|npcid:103,x:2990,y:3755
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc = [[Varrock Sewers]]
+|lvls = 25
+|mem = No
+|mapID = 31
+|npcid:103,x:3241,y:9913
+|npcid:5345,x:3239,y:9915
+|npcid:5348,x:3243,y:9915
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc = [[Boneyard]]
+|lvls = 25
+|mem = No
+|mapID = 28
+|npcid:103,x:3272,y:3664
+|npcid:5342,x:3276,y:3659
+|npcid:5343,x:3282,y:3662
+|npcid:5346,x:3279,y:3654
+|npcid:5347,x:3288,y:3650
+|npcid:5348,x:3290,y:3653
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc = [[Draynor Manor]] {{FloorNumber|2}}
+|lvls = 25
+|mem = No
+|mapID = 28
+|plane = 1
+|npcid:104,x:3094,y:3356
+|npcid:5349,x:3098,y:3359
+|npcid:5350,x:3099,y:3356
+|npcid:5351,x:3108,y:3358
+|npcid:5352,x:3123,y:3357
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineGhostlyEssence|quantity=1-2|rarity=Rare}}
+{{DropsLineGhosts}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Thumb Ghost and Spirit Artwork.jpg|Wallpaper showcasing the ghost rework from 2007
+Ghost artwork.png|Ghost artwork from 2007
+</gallery>
+
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Ghost (1)
+|item1 =
+<!--NPC id:103-->
+{{GU|subject=NPCs
+|{{GUL|date=[[26 September]] [[2005]]|update=New graphics for Port Sarim, Rimmington and Thurgo's Peninsula|img=Ghost (1) (2005).png|name=Ghost}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Ghost (2).png|name=Ghost}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Ghost (1) (2008).png|name=Ghost}}
+|{{GUL|date=[[15 May]] [[2023]]|update=MHAW & Double XP - This Week In RuneScape|img=Ghost (1).png|name=Ghost}}
+}}
+
+|text2 = Ghost (3)
+|item2 =
+{{GU|subject=NPCs
+<!--NPC id: 5347-->
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Ghost (5347) (2007).png|name=Ghost}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Ghost (monster).png|name=Ghost}}
+|{{GUL|date=[[15 May]] [[2023]]|update=MHAW & Double XP - This Week In RuneScape|img=Ghost (1).png|name=Ghost}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=MHAW & Double XP - This Week In RuneScape|date=15 May 2023}}
+** Updated models for ghosts within the [[Wilderness]], [[Uzer|Ruins of Uzer]], [[Death Rune Temple]], [[Taverley Dungeon]], and [[Varrock Sewers]].
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (16 April 2018)|date=16 April 2018}}
+** Ghosts in F2P are once again able to drop the Cremation ability and ghost hunter outfit.
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Zombies, skeletons and ghosts have been graphically updated.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* Following the [[2014 Halloween event]], ghosts were given a chance to drop the [[cremation]] ability and the four pieces of [[ghost hunter equipment]].
+* After the [[11 January]] [[2016]] update, they were also given the chance to drop the [[deployable herb burner]].
+
+==References==
+{{Reflist}}
+
+{{Ghost}}
+[[pt:Fantasma]]

@@ -1,0 +1,460 @@
+{{external|os}}
+{{Otheruses|def=no|the monsters on Uncharted Isles|Armoured zombie (Uncharted Isles)}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Melee
+|version2 = Ritual of the Mahjarrat
+|version3 = The World Wakes
+|version4 = Dominion Tower
+|version5 = Dishonour among Thieves (melee)
+|version6 = Dishonour among Thieves (ranged)
+|version7 = Dimension of Disaster
+|version8 = New Foundations
+|name = Armoured zombie
+|image1 = [[File:Armoured zombie.png|140px]]
+|image2 = [[File:Armoured zombie (ranged).png|110px]]
+|image3 = [[File:Armoured zombie (ranged).png|110px]]
+|image4 = [[File:Armoured zombie.png|110px]]
+|image5 = [[File:Armoured zombie (ranged).png|110px]]
+|image6 = [[File:Armoured zombie (ranged).png|110px]]
+|image7 = [[File:Armoured zombie (Dimension of Disaster).png|130px]]
+|image8 = [[File:Armoured zombie (ranged).png|140px]]
+|release1 = [[29 September]] [[2008]]
+|release2 = [[14 September]] [[2011]]
+|release3 = [[4 March]] [[2013]]
+|release4 = [[8 December]] [[2014]]
+|release5 = [[23 February]] [[2015]]
+|release6 = [[23 February]] [[2015]]
+|release7 = [[23 March]] [[2015]]
+|release8 = [[13 February]] [[2023]]
+|update1 = Defender of Varrock
+|update2 = Ritual of the Mahjarrat
+|update3 = The World Wakes
+|update4 = Snowverload & Dominion Tower Rumble Mode
+|update5 = Dishonour among Thieves
+|update6 = Dishonour among Thieves
+|update7 = Dimension of Disaster – 200th Quest
+|update8 = New Foundations & DXP! - This Week In RuneScape
+|members = Yes
+|actions = Attack
+|examine1 = This is a rotten one.
+|examine2 = This is a rotten one.
+|examine3 = This is a rotten one.
+|examine4 = It hasn't quite got round to dying.
+|examine5 = This is a rotten one.
+|examine6 = This is a rotten one.
+|examine7 = He sure looks grave.
+|examine8 = A zombie aimlessly looking for someone.
+|level1 = 86
+|level2 = 91
+|level3 = 46
+|level4 = 46
+|level5 = 84
+|level6 = 84
+|level7 = 42
+|level8 = 21
+|lifepoints1 = 6200
+|lifepoints2 = 750
+|lifepoints3 = 750
+|lifepoints4 = 750
+|lifepoints5 = 750
+|lifepoints6 = 750
+|lifepoints7 = 750
+|lifepoints8 = 750
+|slaylvl = 1
+|slayxp = 154.4
+|experience1 = 310.0
+|experience2 = 37.5
+|experience3 = 37.5
+|experience4 = 37.5
+|experience5 = 37.5
+|experience6 = 37.5
+|experience7 = 37.5
+|experience8 = 37.5
+|aggressive = Yes
+|poisonous = No
+|slayxp1 = 154.4
+|slayxp2 = 154.4
+|slayxp3 = 154.4
+|slayxp4 = 154.4
+|slayxp5 = 154.4
+|slayxp6 = 154.4
+|slayxp7 = 154.4
+|slayxp8 = 9.6
+|slayercat = Zombies, Undead
+|max_melee1 = 297.6
+|max_melee2 = 195.0
+|max_melee3 = 200.0
+|max_melee4 = 200.0
+|max_melee5 = 297.6
+|max_melee6 = 0.0
+|max_melee7 = 288.0
+|max_melee8 = 144.0
+|max_ranged1 = 0.0
+|max_ranged2 = 260.0
+|max_ranged3 = 0.0
+|max_ranged4 = 0.0
+|max_ranged5 = 0.0
+|max_ranged6 = 345.0
+|max_ranged7 = 0.0
+|max_ranged8 = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec = 0
+|necromancy = 1
+|acc_necromancy = 0
+|style1 = melee
+|style2 = ranged
+|style3 = ranged
+|style4 = melee
+|style5 = melee
+|style6 = ranged
+|style7 = melee
+|style8 = melee
+|primarystyle1 = melee
+|primarystyle2 = ranged
+|primarystyle3 = melee
+|primarystyle4 = melee
+|primarystyle5 = melee
+|primarystyle6 = ranged
+|primarystyle7 = melee
+|primarystyle8 = melee
+|speed1 = 4
+|speed2 = 4
+|speed3 = 4
+|speed4 = 4
+|speed5 = 4
+|speed6 = 5
+|speed7 = 4
+|speed8 = 4
+|speed = 4
+|attack1 = 62
+|attack2 = 15
+|attack3 = 15
+|attack4 = 15
+|attack5 = 33
+|attack6 = 1
+|attack7 = 15
+|attack8 = 15
+|ranged = 0
+|ranged6 = 60
+|magic = 0
+|acc_melee1 = 1197
+|acc_melee2 = 257
+|acc_melee3 = 257
+|acc_melee4 = 257
+|acc_melee5 = 257
+|acc_melee6 = 0
+|acc_melee7 = 257
+|acc_melee8 = 257
+|acc_ranged = 0
+|acc_ranged6 = 1447
+|acc_magic = 0
+|armour1 = 1197
+|armour2 = 257
+|armour3 = 257
+|armour4 = 257
+|armour5 = 502
+|armour6 = 1132
+|armour7 = 257
+|armour8 = 257
+|defence1 = 62
+|defence2 = 15
+|defence3 = 15
+|defence4 = 15
+|defence5 = 33
+|defence6 = 15
+|defence7 = 15
+|defence8 = 15
+|weakness1 = Water
+|weakness2 = Slash
+|weakness3 = Water
+|weakness4 = Water
+|weakness5 = Water
+|weakness6 = Slash
+|weakness7 = Water
+|weakness8 = Water
+|susceptibility1 = Salve
+|susceptibility2 = Salve
+|susceptibility3 = Salve
+|susceptibility4 = Salve
+|susceptibility5 = Salve
+|susceptibility7 = Salve
+|susceptibility8 = Salve
+|aff_weakness1 = 90
+|aff_weakness2 = 90
+|aff_weakness3 = 80
+|aff_weakness4 = 80
+|aff_weakness5 = 90
+|aff_weakness6 = 90
+|aff_weakness7 = 90
+|aff_weakness8 = 90
+|aff_melee1 = 60
+|aff_melee2 = 70
+|aff_melee3 = 60
+|aff_melee4 = 60
+|aff_melee5 = 60
+|aff_melee6 = 70
+|aff_melee7 = 60
+|aff_melee8 = 60
+|aff_ranged1 = 50
+|aff_ranged2 = 60
+|aff_ranged3 = 50
+|aff_ranged4 = 50
+|aff_ranged5 = 50
+|aff_ranged6 = 60
+|aff_ranged7 = 50
+|aff_ranged8 = 50
+|aff_magic1 = 70
+|aff_magic2 = 50
+|aff_magic3 = 70
+|aff_magic4 = 70
+|aff_magic5 = 70
+|aff_magic6 = 50
+|aff_magic7 = 70
+|aff_magic8 = 70
+|immune_to_poison1 = No
+|immune_to_poison3 = Yes
+|immune_to_poison4 = Yes
+|immune_to_poison5 = Yes
+|immune_to_poison6 = No
+|immune_to_poison7 = No
+|immune_to_poison8 = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction1 = surface
+|restriction3 = quest
+|restriction4 = quest
+|restriction5 = minigame
+|restriction6 = quest
+|restriction7 = quest
+|restriction8 = quest
+|id1 = 8149, 8150, 8151, 8152, 8153
+|id2 = 14278, 14279, 14280, 14281
+|id3 = 17009, 17010
+|id4 = 17265
+|id5 = 20744
+|id6 = 20745
+|id7 = 20893, 20894, 20895, 20896, 20924, 20925, 20926, 20927
+|id8 = 29829
+|leagueRegion = Fremennik, Wilderness, Misthalin
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = Defender of Varrock
+|version2 = The Curse of Arrav
+|name = Armoured zombie
+|image = File:Armoured zombie (ranged).png
+|release1 = [[29 September]] [[2008]]
+|release2 = [[21 July]] [[2009]]
+|update1 = Defender of Varrock
+|update2 = The Curse of Arrav
+|race = Zombie
+|members = Yes
+|level1 = 85
+|level2 = 0
+|quest1 = [[Defender of Varrock]]
+|quest2 = [[The Curse of Arrav]]
+|location = [[Chaos Temple Dungeon]]
+|leagueRegion = Wilderness
+|map = See [[#Locations]]
+|gender = N/A
+|options  = Examine
+|examine = This is a rotten one.
+|id1 = 8154, 8155, 8156, 8157, 8158
+|id2 = 9162, 9163, 9165
+}}
+}}
+'''Armoured zombies''' are [[undead]] monsters that are encountered during the [[Defender of Varrock]], [[The Curse of Arrav]], [[Ritual of the Mahjarrat]], [[The World Wakes]], [[Dishonour among Thieves]], [[Dimension of Disaster]] and [[New Foundations]] quests and other locations, see below. The attack style of the zombie can be identified by the colour of the crest on its helmet. Armoured zombies with yellow crests on their helmets use [[Melee]], and those with blue crests use [[Ranged]]. Some of these wield [[scimitar]]s and the others wield [[throwing axes]].
+
+==Locations==
+* Since [[1 February]] [[2011]], armoured zombies can no longer be reached by going through the [[Wilderness]]. Instead, one must get [[Hartwin]] to teleport them to a safe version of the Wilderness, where armoured zombies can be fought by going down the trapdoor to the [[Chaos Temple Dungeon]].
+* Armoured zombies are encountered in [[Varrock]] during the [[Defender of Varrock]] quest, but these only give 10 experience per kill and have no drops. They do leave behind a "red mist". During the [[Defender of Varrock]] quest, this "red mist" must be captured in [[bottle]]s, making a [[bottle of mist]], used to open doors further into the dungeon, and after this quest they have no use.
+* There is one {{Maplink|title=Armoured zombie|desc=NPC ID: 14339|x=2844|y=3843|text=Armoured zombie|mtype=pin}} outside of [[Zemouregal's fort]] in [[The North]], but this does not have the usual drops.
+* [[Sharathteerk]] summons armoured zombies to aid him during [[Ritual of the Mahjarrat]].
+* [[Zemouregal]] summons armoured zombies to aid him during [[The World Wakes]].
+* Armoured zombies are encountered underneath Zemouregal's fort during [[Dimension of Disaster]]
+* Armoured zombies can be found on the {{floornumber|2}} of [[New Varrock]] palace in Dimension of Disaster, these drop red mist like the ones in Defender of Varrock. This mist can be gathered in regular vials however.
+* Armoured zombies may be summoned by the Necromancers in [[The Shadow Reef]].
+
+{{LocTableHead}}
+{{LocLine
+|loc=[[Zemouregal's fort]]
+|lvls=72
+|mem=yes
+|requirements = Partial completion of {{QuestIcon|Ritual of the Mahjarrat}}
+|mapID=28
+|npcid:14339,x:2844,y:3843
+|leagueRegion = Fremennik}}
+{{LocLine
+|loc=[[Chaos Temple Dungeon]]
+|lvls=85, 86
+|mem=yes
+|mapID=581
+|requirements = Partial completion of {{QuestIcon|Defender of Varrock}}
+|npcid:8155,x:3242,y:10025|npcid:8154,x:3242,y:10027|npcid:8157,x:3242,y:10029
+|npcid:8157,x:3243,y:10025|npcid:8156,x:3243,y:10027|npcid:8154,x:3243,y:10029
+|npcid:8156,x:3244,y:10025|npcid:8155,x:3244,y:10027|npcid:8154,x:3245,y:10025
+|npcid:8156,x:3245,y:10027|npcid:8158,x:3246,y:10025|npcid:8158,x:3246,y:10027
+|npcid:8157,x:3247,y:10025|npcid:8155,x:3248,y:10025|npcid:8156,x:3249,y:10025
+|npcid:8154,x:3250,y:10025|npcid:8149,x:3251,y:10012|npcid:8156,x:3251,y:10025
+|npcid:8157,x:3252,y:10025|npcid:8149,x:3206,y:10033|npcid:8153,x:3207,y:10030
+|npcid:8152,x:3208,y:10034|npcid:8150,x:3209,y:10028|npcid:8151,x:3209,y:10032
+|npcid:8151,x:3214,y:10038|npcid:8150,x:3214,y:10040|npcid:8152,x:3215,y:10036
+|npcid:8153,x:3216,y:10038|npcid:8153,x:3217,y:10011|npcid:8151,x:3219,y:10010
+|npcid:8149,x:3219,y:10037|npcid:8152,x:3223,y:10010|npcid:8153,x:3223,y:10012
+|npcid:8151,x:3225,y:10009|npcid:8153,x:3226,y:10011|npcid:8150,x:3226,y:10013
+|npcid:8149,x:3228,y:10009|npcid:8152,x:3229,y:10012|npcid:8152,x:3231,y:10011
+|npcid:8149,x:3231,y:10037|npcid:8152,x:3232,y:10036|npcid:8150,x:3233,y:10037
+|npcid:8153,x:3240,y:9992|npcid:8151,x:3240,y:9996|npcid:8149,x:3241,y:9998
+|npcid:8151,x:3241,y:10042|npcid:8152,x:3242,y:9994|npcid:8150,x:3243,y:9998
+|npcid:8150,x:3244,y:10042|npcid:8149,x:3246,y:10044|npcid:8152,x:3247,y:10043
+|npcid:8151,x:3248,y:10044|npcid:8150,x:3250,y:10043|npcid:8153,x:3252,y:10044
+|npcid:8159,x:3276,y:10030
+|leagueRegion = Wilderness&Misthalin}}
+{{LocLine
+|loc=[[New Varrock]]
+|lvls=86
+|mem=yes
+|mapID=110
+|npcid:8163,x:1884,y:5563|npcid:8161,x:1888,y:5560|npcid:8163,x:1888,y:5565
+|npcid:8161,x:1889,y:5561|npcid:8163,x:1889,y:5563|npcid:8162,x:1889,y:5567
+|npcid:8162,x:1893,y:5559|npcid:8162,x:1895,y:5562|npcid:8163,x:1871,y:5602
+|npcid:8162,x:1872,y:5586|npcid:8161,x:1872,y:5609|npcid:8162,x:1873,y:5603
+|npcid:8162,x:1874,y:5578|npcid:8161,x:1874,y:5595|npcid:8161,x:1874,y:5602
+|npcid:8163,x:1875,y:5605|npcid:8162,x:1875,y:5608|npcid:8160,x:1878,y:5588
+|npcid:8163,x:1878,y:5594|npcid:8162,x:1878,y:5597|npcid:8163,x:1879,y:5602
+|npcid:8162,x:1880,y:5601|npcid:8159,x:1880,y:5613|npcid:8162,x:1881,y:5610
+|npcid:8163,x:1881,y:5613|npcid:8159,x:1882,y:5582|npcid:8161,x:1882,y:5598
+|npcid:8162,x:1882,y:5603|npcid:8163,x:1884,y:5594|npcid:8160,x:1885,y:5579
+|npcid:8159,x:1887,y:5582|npcid:8162,x:1888,y:5575|npcid:8161,x:1888,y:5598
+|npcid:8160,x:1889,y:5609|npcid:8159,x:1890,y:5580|npcid:8163,x:1890,y:5601
+|npcid:8162,x:1891,y:5592|npcid:8163,x:1891,y:5606|npcid:8161,x:1892,y:5623
+|npcid:8161,x:1893,y:5582|npcid:8162,x:1893,y:5620|npcid:8160,x:1894,y:5590
+|npcid:8159,x:1894,y:5591|npcid:8163,x:1896,y:5622|npcid:8159,x:1897,y:5598
+|npcid:8161,x:1898,y:5605|npcid:8160,x:1899,y:5598|npcid:8163,x:1902,y:5616
+|npcid:8159,x:1903,y:5617|npcid:8162,x:1906,y:5584|npcid:8163,x:1907,y:5582
+|npcid:8161,x:1907,y:5586|npcid:8162,x:1908,y:5616
+}}
+{{LocTableBottom}}
+
+==Strategies==
+As armoured zombies are classed as undead creatures, a [[salve amulet (e)]] is useful for fighting them. The amulet can also be used alongside a [[full slayer helmet]] or its components. Another option is wearing the [[demon horn necklace]] with the [[bonecrusher]] added to [[tool belt]] for infinite [[Prayer|Prayer points]].
+
+Due to the convenience of an altar above the location of armoured zombies, combat-boosting prayers such as [[Turmoil]] may be used to increase the experience yield.
+
+For maximum profit per hour when killing these zombies, players should pick up most of the stackable/noted drops, which include [[charm]]s, types of [[plank]]s, [[pure essence]] and [[blood rune]]s, but not [[eyes of newt]].
+[[File:Armoured zombies training.png|thumb|right|290px|A player training on Armoured zombies]]
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Decoder strips|quantity=1|rarity=Always|version=Ritual of the Mahjarrat|raritynotes={{DropNote|name=rotm|Only dropped by the armoured zombie outside Zemouregal's fort, if the item is already in the inventory.}}}}
+{{DropsLine|name=Code key (main entrance)|quantity=1|rarity=Always|version=Ritual of the Mahjarrat|raritynotes={{DropNote|name=rotm}}}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDropTable|quantity=1|gold=67.184/1000|green=33.592/1000|crimson=22.395/1000|blue=26.874/1000}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril arrow|quantity=4|rarity=8/128}}
+{{DropsLine|name=Blood rune|quantity=3|rarity=4/128}}
+{{DropsLine|name=Cosmic rune|quantity=6|rarity=3/128}}
+{{DropsLine|name=Nature rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Chaos rune|quantity=12|rarity=1/128}}
+{{DropsLine|name=Death rune|quantity=3|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Planks===
+{{DropsTableHead}}
+{{DropsLine|name=Oak plank|quantity=5 (noted)|rarity=6/128}}
+{{DropsLine|name=Plank|quantity=9 (noted)|rarity=5/128}}
+{{DropsLine|name=Teak plank|quantity=2 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny blunt steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|43/128}}
+{{DropsTableHead}}
+{{HerbDropTable|43/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=50-350|rarity=31/128|gemw=No}}
+{{DropsLine|name=Pure essence|quantity=3-15 (noted)|rarity=12/128}}
+{{DropsLine|name=Nothing|rarity=3/128}}
+{{DropsLine|name=Fishing bait|quantity=7|rarity=1/128}}
+{{DropsLine|name=Eye of newt|quantity=1-4 (noted)|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|gemw=no|alch=yes|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}}}
+{{DropsLine|name=Undercooked mystery meat|quantity=1|rarity=1/20|raritynotes={{DropNote|Only when wearing the [[Asylum doctor's ring]].}}}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[29 September]] [[2008]]|update=Defender of Varrock|img=Armoured zombie (ranged) (2008).png|name=Ranged Armoured Zombie}}
+|{{GUL|date=[[6 July]] [[2015]]|update=Patch Notes (6 July 2015)|img=Armoured zombie (ranged).png|name=Ranged Armoured Zombie}}
+|{{GUL|date=[[29 September]] [[2008]]|update=Defender of Varrock|img=Armoured zombie (2008).png|name=Melee Armoured Zombie}}
+|{{GUL|date=[[6 July]] [[2015]]|update=Patch Notes (6 July 2015)|img=Armoured zombie.png|name=Melee Armoured Zombie}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** 'Weak' style: 65 → 70
+*** Same style: 55 → 60
+*** 'Strong' style: 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (6 January 2020)|date=6 January 2020}}
+** Players are now able to collect [[Bottle of mist|Red Mist]] from multiple mist clouds in [[New Varrock]] if the player defeats multiple armoured zombies at the same time.
+
+* {{UL|type=patch|update=Patch Notes (6 July 2015)|date=6 July 2015}}
+** Armoured zombies in the [[Dominion Tower]], [[Defender of Varrock]], [[The Curse of Arrav]], [[Ritual of the Mahjarrat]], [[The World Wakes]] and [[Missing, Presumed Death]] have been graphically updated.
+** The armoured zombies in [[Dimintheis]]' chain lightning cutscene at the end of Defender of Varrock have been updated.
+
+* {{UL|type=update|update=Defender of Varrock|date=29 September 2008}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine "It hasn't quite got round to dying" is a reference to {{WP|Monty Python and the Holy Grail}}.
+
+{{Zombie}}
+{{Defender of Varrock}}
+{{The Curse of Arrav}}
+{{Ritual of the Mahjarrat}}
+{{The World Wakes}}
+{{Dishonour among Thieves}}
+{{Dimension of Disaster: Defender of Varrock}}
+{{New Foundations}}
+[[Category:Quest monsters]]
+[[pt:Zumbi blindado]]

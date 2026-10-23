@@ -1,0 +1,117 @@
+{{External|os=Drake (bird)}}
+{{Official world|name=Mega Duck|p2p=39|unofficial=yes}}
+{{Otheruses|def=no}}
+{{Whitelisted FC|Mega Duck}}
+{{Infobox Monster
+|name = Drake
+|image = Drake.png
+|release = [[9 July]] [[2007]]
+|update = A bird in the hand...
+|race = Duck
+|members = No
+|quest = No
+|location = Pond north of [[Lumbridge forest]], [[Falador Park]], [[Seth Groats]] farm
+|gender = Male
+|actions = Attack, Examine
+|examine = It quacks like a duck.
+|level = 1
+|lifepoints = 250
+|experience = 12.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19.4
+|slayercat = Birds
+|assigned_by = Turael
+|max_melee = 20
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 10
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 6114
+|leagueRegion=Misthalin}}
+[[File:Drake chathead.png|left|60px]]
+'''Drakes''' are male [[duck]]s that can be found on land near other ducks. They do not swim in the water, but instead wander near the ponds. They may be fed by using [[breadcrumbs]] or [[duck food]] on them. If one is fed over 21 breadcrumbs or duck food in 20 seconds, it will be turned into [[Mega Duck]].  
+
+You can not feed a drake if you are standing next to it; at least one tile of space between the player and the drake is required, which can also be achieved by standing directly diagonally to it.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Falador Park]]
+|lvls= N/A
+|mem=no
+|mapID=28
+|npcid:6114,x:2993,y:3386
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Seth Groats]] farm
+|lvls= N/A
+|mem=no
+|mapID=28
+|npcid:6114,x:3228,y:3282
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=North of [[Lumbridge forest]]
+|lvls= N/A
+|mem=no
+|mapID=28
+|npcid:6114,x:3165,y:3273|npcid:6114,x:3178,y:3268
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Drake (2007).png|name=Drake}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Drake (2008).png|name=Drake}}
+|{{GUL|date=[[4 August]] [[2014]]|update=Clan Month - The Beginning|img=Drake (2014).png|name=Drake}}
+|{{GUL|date=[[19 May]] [[2025]]|update=May Patch Week & DXP Continues - This Week In RuneScape|img=Drake.png|name=Drake}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Graphically Refreshing: Waterbirth Island!|date=22 June 2026}}
+** Drakes are no longer attackable while they're in the process of turning into Mega Duck. 
+** Duck food can now be fed to drakes to spawn Mega Duck.
+
+* {{UL|type=hidden|update=Havenhythe Out Now|date=23 March 2026}}
+** Can now be attacked.
+
+* {{UL|type=ninja|update=DXP LIVE & Skilling Strike - This Week In RuneScape|date=16 May 2022}}
+** The drake in Falador Park no longer consumes items other than breadcrumbs.
+
+* {{UL|type=update|update=A bird in the hand...|date=9 July 2007}}
+** Added to game.
+}}
+
+[[Category:Not transcribable]]
+[[Category:Birds]]

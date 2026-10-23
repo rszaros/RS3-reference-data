@@ -1,0 +1,220 @@
+{{External|os|rsc=Ice Giant}}
+{{Dgvariant}}
+{{Infobox Monster
+|name = Ice giant
+|version1 = 1
+|version2 = 2
+|image1 = [[File:Ice giant.png|100px]]
+|image2 = [[File:Ice giant (2).png|100px]]
+|release = [[6 April]] [[2001]]
+|update = Massive update!
+|members = No
+|options = Attack
+|examine = He's got icicles in his beard.
+|level = 47
+|lifepoints = 7450
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 59.2
+|slayercat = Ice giants
+|max_melee = 750
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 30
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 354
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 571
+|defence = 37
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 3072, 4685
+|id2 = 111, 4686, 4687
+|leagueRegion = Asgarnia, Wilderness
+}}
+[[File:Ice giant icon.png|left]]
+'''Ice giants''' are a type of giant often found in icy areas. They are tied with [[moss giant]]s for third strongest giant. Ice giants are weak to fire spells. They are assigned by [[Mazchna]] and [[Vannaka]].
+
+The easiest locations to find them are [[White Wolf Mountain]] for members or the [[Asgarnian Ice Dungeon]] for free-to-play players.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Asgarnian Ice Dungeon]]
+|lvls=47
+|mem=No
+|mapID=25
+|npcid:4687,x:3057,y:9573|npcid:3072,x:3061,y:9573|npcid:4687,x:3065,y:9571
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=47
+|mem=yes
+|mapID=23
+|npcid:111,x:3205,y:5445|npcid:4685,x:3209,y:5449|npcid:4686,x:3215,y:5442
+|npcid:4685,x:3215,y:5450|npcid:111,x:3221,y:5444|npcid:4686,x:3221,y:5447
+|npcid:4685,x:3228,y:5442|npcid:111,x:3228,y:5445|npcid:111,x:3207,y:5561
+|npcid:111,x:3209,y:5551|npcid:111,x:3212,y:5548|npcid:4685,x:3212,y:5560
+|npcid:4686,x:3215,y:5547|npcid:4685,x:3215,y:5554|npcid:111,x:3222,y:5550
+|npcid:4686,x:3222,y:5555
+|leagueRegion=Wilderness
+}}
+{{LocLine
+|loc=[[Ice Queen's lair]]
+|lvls=47
+|mem=yes
+|mapID=8
+|npcid:4686,x:64,y:71|npcid:111,x:67,y:76|npcid:111,x:67,y:109
+|npcid:4685,x:68,y:103|npcid:4686,x:71,y:99|npcid:4685,x:74,y:94
+|npcid:4686,x:75,y:85
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=[[White Wolf Mountain]]
+|lvls=47
+|mem=yes
+|mapID=28|plane=2
+|npcid:4686,x:2805,y:3514|npcid:111,x:2809,y:3506|npcid:4686,x:2817,y:3512
+|npcid:4685,x:2821,y:3509
+|leagueRegion=Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=8|rarity=7/128}}
+{{DropsLine|name=Coins|quantity=22|rarity=6/128}}
+{{DropsLine|name=Coins|quantity=52|rarity=4/128}}
+{{DropsLine|name=Coins|quantity=53|rarity=13/128}}
+{{DropsLine|name=Coins|quantity=117|rarity=32/128}}
+{{DropsLine|name=Coins|quantity=196|rarity=13/128}}
+{{DropsLine|name=Coins|quantity=400|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Mind rune|quantity=24|rarity=3/128}}
+{{DropsLine|name=Law rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Water rune|quantity=12|rarity=1/128}}
+{{DropsLine|name=Death rune|quantity=3|rarity=1/128}}
+{{DropsLine|name=Cosmic rune|quantity=4|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated iron salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium bladed iron salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Tiny spiky steel salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Tiny bladed steel salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Tiny blunt mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|8/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|8/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Jug of wine|quantity=1|rarity=3/128}}
+{{DropsLine|name=Banana|quantity=1|rarity=1/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=2/128}}
+{{DropsLine|name=Adamant arrow|quantity=5|rarity=6/128}}
+{{DropsLine|name=Black kiteshield|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|4/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Ice giant ribs|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Shoulder bone|quantity=1|rarity=1/4|gemw=no|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5000}}
+{{DropsLineEffigy|level=47|members = yes}}
+{{DropsLineSpiritGems|members = yes}}
+{{DropsLineMimic|level=47|members = yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|members = yes
+|quantity = 1
+|gold = 433.321/1000
+|green = 13.541/1000
+|crimson = 27.083/1000
+|blue = 2.708/1000
+}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Ice giant (2004).png|name=Ice giant}}
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Ice giant (2005).png|name=Ice giant}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Ice giant (2006).png|name=Ice giant}}
+|{{GUL|date=|update=|img=Ice giant.png|name=Ice giant}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low-level monsters that were harder to kill than intended.
+
+*{{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Removed the [[ice warrior]]s, ice giants, and [[ice spider]]s from the [[Frozen Waste Plateau]], replacing them with [[glacor]]s, [[wyvern]]s, and [[acheron mammoth]]s, respectively.
+
+* {{UL|type=update|update=Massive update!|date=6 April 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* Although ice giants do not have any visible bones, they still drop [[big bone]]s; this dates all the way back from [[RuneScape Classic]], when the ice giants looked like large people with blue beards. Similarly, their examine text is also a holdover from that era.
+* Ice giants were the third monster to ever hold the title of [[Strongest monster|Strongest Monster in RuneScape]].
+* Before the graphical update, ice giants used to wield [[Mithril 2h sword]]s. In [[RuneScape Classic]], they wielded wooden staves. They now appear to wield a [[scimitar]] made of ice.
+* Although they wield scimitars, their attack speed is 5, the equivalent of a longsword.
+* When the ice giants walk, icicles appear on the ground around their feet. Icicles will also appear in the same manner before each attack, whether the attack is a player's or theirs.
+* Ice giants seem to "tap" one of their feet when standing still.
+* When an ice giant is killed, it melts down and the icicles disappear. This is similar to the death animation of the [[moss giant]].
+* In the [[Wilderness]], the ice giants would lure players out of a safespot so that it could attack players if they did not retreat quickly enough.
+* Ice giants appear to have a beating heart, which is unique among giants.
+* Among Vannaka's Slayer assignments, if always using the weakest variant (e.g. [[Kalphite Worker]]s instead of [[Kalphite King]]) and excluding [[wall beast]]s' special attack, ice giants have the highest max hit, narrowing beating [[mogre]]s.
+
+{{Giants}}
+[[pt:Gigante do gelo]]
+[[Category:Elementals]]

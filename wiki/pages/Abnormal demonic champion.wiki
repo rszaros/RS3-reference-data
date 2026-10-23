@@ -1,0 +1,57 @@
+{{Infobox Monster
+|version1 = Regular
+|version2 = Hydra
+|name1 = Abnormal demonic champion
+|name2 = Abnormal demonic champion (hydra)
+|image1 = [[File:Abnormal demonic champion.png|150px]]
+|image2 = [[File:Abnormal demonic champion (hydra).png|150px]]
+|release = [[2 May]] [[2017]]
+|update = Shattered Worlds
+|members = Yes
+|actions = Attack
+|examine = A champion of chaos.
+|level = 1
+|lifepoints = 200
+|slaylvl = 1
+|experience = 10.0
+|aggressive = No
+|poisonous = No
+|slayercat = Lesser demons
+|max_melee = 9
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 110
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Nothing
+|susceptibility = Demon
+|aff_weakness = 65
+|aff_melee = 65
+|aff_ranged = 65
+|aff_magic = 65
+|immune_to_poison = No
+|restriction = minigame
+|id1 = 24227
+|id2 = 24228
+|leagueRegion = Asgarnia
+}}
+'''Abnormal demonic champions''' can be found while playing [[Shattered Worlds]]. Their levels and stats scale to the world the player finds them on. 
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Shattered Worlds|date=2 May 2017}}
+** Added to game.
+}}
+
+{{Shattered Worlds}}

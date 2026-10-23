@@ -1,0 +1,173 @@
+{{Infobox Monster
+|name = Living rock protector
+|image = [[File:Living rock protector.png|175px]]
+|release = [[17 September]] [[2009]]
+|update = Living Rock Caverns
+|members = Yes
+|examine = A being of ore and minerals.
+|options = Attack
+|level = 92
+|lifepoints = 5500
+|experience = 275.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 156
+|slayercat = Living rock creatures
+|assigned_by = Kuradal
+|max_melee = 500
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 66
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1335
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1335
+|defence = 66
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 8832
+|leagueRegion = Asgarnia
+}}
+[[File:Living rock creature icon.png|left]]
+'''Living rock protectors''' can be found throughout the [[Living Rock Caverns]]. They attack with melee and are inaccurate for their combat level; a player with good armour and a decent [[Defence]] level will not find these monsters to be too big of a problem. In addition, they are aggressive, but the player actually has to be right next to them in order to be targeted. Thus, if enough care is taken, a player could navigate around the living rock protectors without being attacked at all.
+
+Upon death they turn into [[living rock remains]] which may be mined for [[living minerals]]. The minerals are used as bait for fishing [[raw rocktail|rocktail]]s which are also located in the caverns.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Living Rock Caverns]]
+|lvls=92
+|mem=yes
+|mapID=35
+|npcid:8832,x:3610,y:5111|npcid:8832,x:3613,y:5103|npcid:8832,x:3630,y:5103
+|npcid:8832,x:3635,y:5093|npcid:8832,x:3637,y:5106|npcid:8832,x:3637,y:5111
+|npcid:8832,x:3640,y:5100|npcid:8832,x:3645,y:5094|npcid:8832,x:3613,y:5121
+|npcid:8832,x:3615,y:5131|npcid:8832,x:3623,y:5122|npcid:8832,x:3628,y:5127
+|npcid:8832,x:3638,y:5148|npcid:8832,x:3642,y:5143|npcid:8832,x:3658,y:5100
+|npcid:8832,x:3660,y:5087|npcid:8832,x:3669,y:5082|npcid:8832,x:3671,y:5111
+|npcid:8832,x:3679,y:5105|npcid:8832,x:3681,y:5097|npcid:8832,x:3652,y:5136
+|npcid:8832,x:3662,y:5126|npcid:8832,x:3671,y:5129|npcid:8832,x:3671,y:5151
+|npcid:8832,x:3677,y:5154|npcid:8832,x:3680,y:5142|npcid:8832,x:3688,y:5141
+|leagueRegion = Asgarnia}}
+{{LocTableBottom}}
+
+==Strategies==
+Although the living rock creatures are all high-levelled, they can be killed fairly easily, as they have low max hit, accuracy, defence, and attack speed.
+
+A player with high levelled [[Magic]] can easily take these out with the [[water surge]] spell and use of the basic ability [[Combust]] in very little time, making this a very fast and easy [[Slayer]] task.
+
+Players can quite comfortably tank these monsters for trips of at least one hour with a decent set of armour and an inventory of food. These monsters are extremely inaccurate for their combat level, which greatly increases the ease with which a player with a higher defence level can fight them and sustain little to no damage. Using a set of mid-level magic armour negates the need for food almost entirely.
+
+One way to stay here for very long is to bring a [[Bunyip]] familiar and lots of [[swallow whole scroll]]s, fish either [[cavefish]] or [[rocktail]], and eat them with the scrolls. However, this requires 85 or 90 [[Fishing]] and 88 or 93 [[Cooking]], respectively.
+
+Many players fight these for their average drops, but players with high [[Mining]] and [[Fishing]] kill these creatures to obtain bait for [[rocktail]], which is one of the best pieces of food in ''RuneScape''.
+
+They can be turned non-aggressive by wearing the [[magic golem outfit]] or any of the [[Shark outfit (disambiguation)|shark outfits]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Mud rune|quantity=3|rarity=26/138}}
+{{DropsLine|name=Nature rune|quantity=4|rarity=4/138}}
+{{DropsLine|name=Death rune|quantity=3|rarity=6/138}}
+{{DropsTableBottom}} 
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=3|rarity=20/138}}
+{{DropsLine|name=Silver stone spirit|quantity=3|rarity=5/138}}
+{{DropsLine|name=Mithril stone spirit|quantity=3|rarity=14/138}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=20/138}}
+{{DropsLine|name=Gold stone spirit|quantity=3|rarity=20/138}}
+{{DropsLine|name=Platinum stone spirit|quantity=1|rarity=10/138}}
+{{DropsTableBottom}} 
+
+===Gems===
+{{DropsTableHead}}
+{{DropsLine|name=Uncut sapphire|quantity=1 (noted)|rarity=4/138}}
+{{DropsLine|name=Uncut emerald|quantity=1 (noted)|rarity=3/138}}
+{{DropsLine|name=Uncut ruby|quantity=1 (noted)|rarity=2/138}}
+{{DropsLine|name=Uncut diamond|quantity=1 (noted)|rarity=1/138}}
+{{DropsTableBottom}} 
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Medium spiky mithril salvage|quantity=1|rarity=1/138}}
+{{DropsLine|name=Medium spiky adamant salvage|quantity=1|rarity=1/138}}
+{{DropsLine|name=Soft clay|quantity=3 (noted)|rarity=1/138}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=92}}
+{{DropsLineMimic|level=92}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 83.98/1000
+|green = 251.942/1000
+|crimson = 25.194/1000
+|blue = 12.597/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=|date=16 June 2025}}
+** Added Platinum stone spirits to drop table.
+
+* {{UL|type=patch|update=Relic Presets & February Mini Strike - This Week In RuneScape|date=10 February 2025}}
+** Living Rock Protectors, Strikers and Patriarchs now count towards Kili's Knowledge VI as a slayer task.
+
+* {{UL|type=patch|update=This Week In RuneScape - 19/10/20#Patch Notes|date=19 October 2020}}
+** Living rock creatures now count towards the Kerapac Track task 'Kill Monsters'.
+
+* {{UL|type=hotfix|update=Patch Notes (10 February 2020)|date=10 February 2020}}
+** Living Rock creatures' souls can once again be captured in [[ushabti]]s without being on a [[Slayer task]] to kill them.
+
+*{{UL|type=patch|update=Patch Notes (26 November 2013)|date=26 November 2013}} 
+** An issue where players using ranged or magic could not mine Living Rock creatures has been fixed.
+
+* {{UL|type=patch|update=Patch Notes (29 May 2013)|date=29 May 2013}}
+** Living rock creatures no longer drop bones.
+
+* {{UL|type=patch|update=Patch Notes (12 February 2013)|date=12 February 2013}}
+** Auto retaliate now works as intended with Living Rock creatures.
+
+* {{UL|type=patch|update=Patch Notes (7 October 2009)|date=7 October 2009}}
+** You should be able to mine creatures you kill in the living rock caverns even if you lose connection.
+
+* {{UL|type=update|update=Living Rock Caverns|date=17 September 2009}}
+** Added to game.
+}}
+
+{{Living Rock Caverns}}

@@ -1,0 +1,50 @@
+{{Infobox Monster
+|name = Wolf
+|image = [[File:Wolf (Three's Company).png|150px]]
+|release = [[1 June]] [[2011]]
+|update = Fremennik Sagas
+|members = No
+|actions = Attack, Mark, Examine
+|examine = A vicious wolf.
+|level = 35
+|lifepoints = 1500
+|experience = 0.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 14.0
+|slayercat = Wolves
+|assigned_by = Mazchna, Turael, Vannaka
+|max_melee = 183
+|max_ranged = 183
+|max_magic = 183
+|max_spec = 0
+|style = melee
+|speed = 5
+|attack = 25
+|ranged = 25
+|magic = 25
+|acc_melee = 381
+|acc_ranged = 381
+|acc_magic = 381
+|armour = 381
+|defence = 25
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|restriction = quest
+|id = 7291
+|leagueRegion=Wilderness}}
+'''Wolves''' are [[Carn]]'s animal guards during the [[Fremennik Saga]], [[Three's Company]]. Three wolves appear in the saga and they are always accompanied by [[Bandit (Three's Company)|Bandits]]. They are only aggressive to the characters that the player is not controlling during the saga.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Fremennik Sagas|date=1 June 2011}}
+** Added to game.
+}}
+
+{{Three's Company (saga)}}
+{{Wolves}}

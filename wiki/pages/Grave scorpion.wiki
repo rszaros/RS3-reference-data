@@ -1,0 +1,96 @@
+{{External|os|rsc=Scorpion (Grave of Scorpius)}}
+{{Infobox Monster
+|name = Grave scorpion
+|image = [[File:Grave scorpion.png|Grave scorpion|125px]]
+|release = [[17 March]] [[2003]]
+|update = Observatory Quest online!
+|members = Yes
+|options = Attack
+|examine = A vicious, little, stinging thing.
+|level = 14
+|lifepoints = 1000
+|experience = 50.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 7.2
+|slayercat = Scorpions
+|assigned_by = turael, Vannaka
+|max_melee = 200
+|max_ranged = 200
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 7
+|ranged = 10
+|magic = 1
+|necromancy = 1
+|acc_melee = 102
+|acc_ranged = 102
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 202
+|defence = 10
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Kandarin
+|id = 493
+}}
+'''Grave scorpions''' are small [[scorpion]]s found around the [[Grave of Scorpius]], west of the [[Battlefield]] near [[Ardougne]]. They do not drop any items.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Grave of Scorpius]]
+|lvls=14
+|mem=yes
+|mapID=28
+|leagueRegion = Kandarin
+|npcid:493,x:2465,y:3229|npcid:493,x:2467,y:3228|npcid:493,x:2470,y:3230
+|npcid:493,x:2471,y:3222|npcid:493,x:2472,y:3224}}
+{{LocTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Grave scorpion (2004).png|name=Grave scorpion}}
+|{{GUL|date=[[8 May]] [[2007]]|update=Small spiders, kalphites, scorpions and metal dragons|img=Grave scorpion (2007).png|name=Grave scorpion}}
+|{{GUL|date=[[22 July]] [[2014]]|update=Patch Notes (22 July 2014)|img=Grave scorpion (2014).png|name=Grave scorpion}}
+|{{GUL|date=[[8 July]] [[2024]]|update=Vintage Beachwear Marketplace Outfit - This Week In RuneScape|img=Grave scorpion.png|name=Grave scorpion}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Vintage Beachwear Marketplace Outfit - This Week In RuneScape|date=8 July 2024}}
+** Updated the Grave Scorpion model.
+
+* {{UL|type=update|update=Patch Notes (22 July 2014)|date=22 July 2014}}
+** Bats and scorpions have been graphically updated across the game.
+
+* {{UL|type=update|update=Small spiders, kalphites, scorpions and metal dragons|date=8 May 2007}}
+** Grave scorpion received a graphical update.
+
+* {{UL|type=update|update=RS2 Launched!|date=29 March 2004}}
+** Grave scorpion received a graphical update.
+
+* {{UL|type=update|update=Observatory Quest online!|date=17 March 2003}}
+** Added to game.
+}}
+
+{{Ourania}}
+{{Scorpions}}

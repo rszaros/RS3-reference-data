@@ -1,0 +1,101 @@
+{{External|os|rsc=King Scorpion}}
+{{Infobox Monster
+|name = King Scorpion
+|image = [[File:King Scorpion.png|250px]]
+|release = [[6 April]] [[2001]]
+|update = Massive update!
+|members = No
+|actions = Attack
+|examine = Wow! Scorpions shouldn't grow that big.
+|level = 22
+|lifepoints = 2650
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 48
+|slayercat = Scorpions
+|assigned_by = Turael, Vannaka
+|max_melee = 360
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 18
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 192
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 257
+|defence = 15
+|weakness =  Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Karamja,Asgarnia
+|id = 144
+}}
+'''King Scorpions''' are the larger and more [[aggressive]] cousins of [[scorpion]]s and favour rocky areas. They patrol the [[iron rock|iron]] and [[luminite rock]]s in the [[dwarven mines]] north of the [[Mining Guild]] door and the [[runite rock]]s along the north shore of [[Crandor]].
+
+King scorpions are aggressive and attack with melee, making these areas dangerous for low-level players. Their large size means they can be easily trapped behind rocks, however.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Crandor]]
+|lvls=22
+|mem=no
+|mapID=28
+|npcid:144,x:2842,y:3298|npcid:144,x:2844,y:3291|npcid:144,x:2851,y:3298
+|npcid:144,x:2855,y:3303|npcid:144,x:2859,y:3283|npcid:144,x:2861,y:3295
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Dwarven mines]]
+|lvls=22
+|mem=no
+|mapID=18
+|npcid:144,x:3040,y:9775|npcid:144,x:3048,y:9770
+|leagueRegion = Asgarnia}}
+{{LocTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2_Launched!|img=King Scorpion (2004).png|name=King Scorpion}}
+|{{GUL|date=[[8 May]] [[2007]]|update=Small spiders, kalphites, scorpions and metal dragons|img=King Scorpion (2007).png|name=King Scorpion}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=King Scorpion (2008).png|name=King Scorpion}}
+|{{GUL|date=[[22 July]] [[2014]]|update=Patch Notes (22 July 2014)|img=King Scorpion (July 2014).png|name=King Scorpion}}
+|{{GUL|date=[[3 June]] [[2024]]|update=Pride Events & Ultra+ Graphics - This Week In RuneScape|img=King Scorpion.png|name=King Scorpion}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Pride Events & Ultra+ Graphics - This Week In RuneScape|date=3 June 2024}}
+** Graphically updated all scorpions across Gielinor.
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Massive update!|date=6 April 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* King scorpions were larger than ordinary scorpions in [[Runescape Classic]] and most of pre-HD [[Runescape 2]]; however, their [[Update:Small spiders, kalphites, scorpions and metal dragons|initial graphical update]] changed them to be the same size as regular scorpions, though with a different colour scheme. The examine text remains unchanged and still mentions their size.
+
+{{Scorpions}}

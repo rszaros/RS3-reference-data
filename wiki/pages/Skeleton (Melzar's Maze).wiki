@@ -1,0 +1,138 @@
+{{External|os}}
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{Infobox Monster
+|version1 = Round shield
+|version2 = Square shield
+|version3 = No shield
+|name = Skeleton
+|image1 = [[File:Skeleton (Melzar's Maze).png|120px]]
+|image2 = [[File:Skeleton (Melzar's Maze) 2.png|120px]]
+|image3 = [[File:Skeleton (Melzar's Maze) 3.png|120px]]
+|release = [[18 June]] [[2007]]
+|update = The Dragonfire Shield
+|members = No
+|examine = Could do with gaining a few pounds.
+|level = 12
+|lifepoints = 450
+|experience = 22.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 8
+|slayercat = Skeletons
+|assigned_by = Turael, Vannaka, Mazchna
+|max_melee = 36
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 9
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 191
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 191
+|defence = 9
+|weakness = Earth
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|dropversion1=Round shield
+|dropversion2=Not round shield
+|dropversion3=Not round shield
+|leagueRegion=Asgarnia
+|id1 = 6091
+|id2 = 6093
+|id3 = 6093
+}}
+The '''skeletons''' in [[Melzar's Maze]] are the result of [[Melzar the Mad]]'s attempts to revive those that died on [[Elvarg]]'s attack on [[Crandor]]. While he was successful in reanimating their bones, they are mindless, having none of their original personality.
+
+They are found on the {{FloorNumber|3}}, and are encountered during the [[Dragon Slayer]] quest. One of the skeletons, which can be identified by its round shield, drops the [[Key (yellow)|yellow key]] required to progress down to the basement, home of the [[zombie]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Melzar's Maze]] ({{floornumber|3}})
+|lvls=12
+|requirements = Partial completion of {{QuestIcon|Dragon Slayer}}
+|mem=no
+|mapID=28
+|plane=2
+|leagueRegion = Asgarnia
+|npcid:6091,x:2923,y:3251,icon:greenPin|npcid:6092,x:2926,y:3255|npcid:6093,x:2928,y:3253
+|npcid:6092,x:2929,y:3251|npcid:6092,x:2930,y:3254|npcid:6093,x:2933,y:3256}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Key (yellow)|quantity=1|rarity=Always|gemw=no|version=Round shield}}
+{{DropsTableBottom}}
+
+===Other drops===
+The skeleton with a square shield, and without a shield, can drop these items; the round shield skeleton does not.
+{{DropsTableHead|version=Not round shield}}
+{{DropsLine|name=Coins|quantity=2-4|rarity=1/4}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no|members=yes}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Round shield
+|item1 = 
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Skeleton (Melzar's Maze) (2004).png|name=Skeleton (Melzar's Maze)}}
+|{{GUL|date=[[26 September]] [[2005]]|update=New graphics for Port Sarim, Rimmington and Thurgo's Peninsula|img=Skeleton (Melzar's Maze) (1) (2005).png|name=Skeleton (Melzar's Maze)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton (Melzar's Maze) (1) (2007).png|name=Skeleton (Melzar's Maze)}}
+|{{GUL|date=|update=|img=Skeleton (Melzar's Maze) old.png|name=Skeleton (Melzar's Maze)}}
+|{{GUL|date=|update=|img=Skeleton (Melzar's Maze).png|name=Skeleton (Melzar's Maze)}}
+}}
+
+|text2 = Square shield
+|item2 = 
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Skeleton (Melzar's Maze) (2004).png|name=Skeleton (Melzar's Maze)}}
+|{{GUL|date=[[26 September]] [[2005]]|update=New graphics for Port Sarim, Rimmington and Thurgo's Peninsula|img=Skeleton (Melzar's Maze) (2) (2005).png|name=Skeleton (Melzar's Maze)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton (Melzar's Maze) (2) (2007).png|name=Skeleton (Melzar's Maze)}}
+|{{GUL|date=|update=|img=Skeleton (Melzar's Maze) 2.png|name=Skeleton (Melzar's Maze)}}
+}}
+
+|text3 = No shield
+|item3 = 
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Skeleton (Melzar's Maze) (2004).png|name=Skeleton (Melzar's Maze)}}
+|{{GUL|date=[[26 September]] [[2005]]|update=New graphics for Port Sarim, Rimmington and Thurgo's Peninsula|img=Skeleton (Melzar's Maze) (3) (2005).png|name=Skeleton (Melzar's Maze)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton (Melzar's Maze) (3) (2007).png|name=Skeleton (Melzar's Maze)}}
+|{{GUL|date=|update=|img=Skeleton (Melzar's Maze) 3.png|name=Skeleton (Melzar's Maze)}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=The Dragonfire Shield|date=18 June 2007}}
+** Added to game.
+}}
+
+{{Skeleton}}
+{{Dragon Slayer}}

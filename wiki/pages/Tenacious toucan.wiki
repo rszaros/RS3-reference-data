@@ -1,0 +1,142 @@
+{{Redirect|Toucan|the bird found in the Arc|Tuai Leit Toucan}}
+{{Infobox Monster
+|name = Tenacious toucan
+|image = [[File:Tenacious toucan.png|100px]]
+|release = [[9 October]] [[2007]]
+|update = Back to my Roots quest
+|members = Yes
+|actions = Attack
+|examine = I wouldn't want to be footing that bill.
+|level = 84
+|lifepoints = 5250
+|experience = 262.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 70.0
+|slayercat = Birds
+|assigned_by = Turael
+|max_melee = 1200
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 60
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1032
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1132
+|defence = 60
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 6378
+|leagueRegion = Karamja
+}}
+'''Tenacious toucan''' is a [[monster]] found in the [[jade vine maze]]. When it is killed, the drops will almost always appear under the player, however, sometimes the drops may hover in mid-air in front of the player, and can be picked up with the animation as if it was picked up off a table.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Jade vine maze]] {{floornumber|2}}
+|lvls=84
+|mem=yes
+|requirements={{QuestIcon|Back to my Roots}} (partial)
+|mapID=28
+|npcid:6378,x:2895,y:2980|npcid:6378,x:2906,y:2989|npcid:6378,x:2916,y:2982|npcid:6378,x:2924,y:2975
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Jade vine maze]] {{floornumber|3}}
+|lvls=84
+|mem=yes
+|requirements={{QuestIcon|Back to my Roots}} (partial)
+|mapID=28|plane=1
+|npcid:6378,x:2896,y:3004|npcid:6378,x:2905,y:2976
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Jade vine maze]] {{floornumber|4}}
+|lvls=84
+|mem=yes
+|requirements={{QuestIcon|Back to my Roots}} (partial)
+|mapID=28|plane=2
+|npcid:6378,x:2882,y:2986|npcid:6378,x:2889,y:2976|npcid:6378,x:2894,y:2987
+|leagueRegion = Karamja}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+{{Average drop value|mob=Tenacious toucan}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Feather|quantity=10|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main drop===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|quantity=1|rarity=186/256}}
+{{DropsLine|name=Papaya tree seed|quantity=1|rarity=1/256}}
+{{DropsLine|name=Papaya fruit|quantity=1|rarity=5/256}}
+{{DropsLine|name=Trading sticks|quantity=1-25|rarity=5/256}}
+{{DropsLine|name=Vial of water|quantity=1|rarity=20/256}}
+{{DropsLine|name=Orange|quantity=1|rarity=2/256}}
+{{DropsLine|name=Watermelon slice|quantity=1|rarity=6/256}}
+{{DropsLine|name=Raw karambwan|quantity=1|rarity=6/256}}
+{{DropsLine|name=Yew logs|quantity=1|rarity=2/256}}
+{{DropsLine|name=Grimy wergali|quantity=1|rarity=4/256}}
+{{DropsLine|name=Wergali seed|quantity=1|rarity=10/256}}
+{{DropsTableBottom}}
+
+===Seed drop table===
+{{GeneralSeedDropTableIntro|9/256}}
+{{DropsTableHead}}
+{{AllotmentSeedDropTable|9/256}}
+{{DropsTableBottom}}
+
+===Body parts===
+{{DropsTableHead}}
+{{DropsLine|name=Hand (Back to my Roots)|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence|Only before and during the [[One Foot in the Grave (miniquest)|One Foot in the Grave]] miniquest. Each received only once, unless destroyed after obtaining. Parts are dropped in order: hand, foot, torso, left arm, right arm, left leg, right leg.}}}}
+{{DropsLine|name=Foot|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Torso (Back to my Roots)|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Left arm|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Right arm|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Left leg|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Right leg|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=2/256}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (5 August 2019)|date=5 August 2019}}
+** Fixed the click boxes on the Pernicious Parrots and Tenacious Toucans.
+
+* {{UL|type=update|update=Back to my Roots quest|date=9 October 2007}}
+** Added to game.
+}}
+
+{{Back to my Roots}}
+[[Category:Birds]]
+[[Category:NPCs that can ignore ground blocking]]

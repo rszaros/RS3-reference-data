@@ -1,0 +1,150 @@
+{{Otheruses|def=no|other uses|Skeleton mage (disambiguation)}}
+{{Infobox Monster
+|version1 = Attackable
+|version2 = Unattackable
+|name = Skeleton Mage
+|image = [[File:Skeleton Mage (Piscatoris Fishing Colony).png|200px]]
+|release = [[2 May]] [[2006]]
+|update = Return of the Wise Old Man!
+|members = Yes
+|options1 = Attack, Examine
+|options2 = Examine
+|examine = Doesn't seem to want to go away.
+|level = 49
+|lifepoints = 1750
+|experience = 87.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 21.6
+|slayercat = Skeletons, Undead
+|max_melee = 105
+|max_ranged = 0
+|max_magic = 140
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 26
+|ranged = 0
+|magic = 35
+|necromancy = 1
+|acc_melee = 262
+|acc_ranged = 0
+|acc_magic = 536
+|acc_necromancy = 0
+|armour = 536
+|defence = 35
+|weakness = Bolts
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Kandarin
+|id1 = 3851
+|id2 = 3844
+}}
+'''Skeleton Mages''' are monsters found in [[Piscatoris Fishing Colony]]. They primarily use [[Magic]] to attack. They play a role in the [[Swan Song]] quest, where the player creates an army of them to help defeat the [[sea troll]]s. Level 49 mages cast fire spells, and will sometimes use the [[Vulnerability]] spell on a player.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Piscatoris Fishing Colony]]
+|lvls=49
+|mem=yes
+|mapID=28
+|npcid:3851,x:2316,y:3685|npcid:3851,x:2316,y:3687|npcid:3851,x:2317,y:3689
+|npcid:3851,x:2320,y:3689|npcid:3851,x:2321,y:3679|npcid:3851,x:2321,y:3685
+|npcid:3851,x:2321,y:3687|npcid:3851,x:2325,y:3671|npcid:3851,x:2331,y:3666
+|npcid:3851,x:2331,y:3671|npcid:3851,x:2333,y:3671
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Ashes|quantity=1|rarity=Always|gemw=No}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=1/64}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Mind rune|quantity=7-9|rarity=11/120}}
+{{DropsLine|name=Chaos rune|quantity=3-4|rarity=10/120}}
+{{DropsLine|name=Nature rune|quantity=1-3|rarity=10/120}}
+{{DropsLine|name=Law rune|quantity=2-3|rarity=10/120}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|11/120}}
+{{DropsTableHead}}
+{{HerbDropTable|11/120}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=25-54|rarity=30/120|gemw=No}}
+{{DropsLine|name=Uncut opal|quantity=1|rarity=10/120}}
+{{DropsLine|name=Pot of flour|quantity=1 (noted)|rarity=10/120}}
+{{DropsLine|name=Big bones|quantity=2-4|rarity=6/120}}
+{{DropsLine|name=Iron stone spirit|quantity=1-2|rarity=5/120}}
+{{DropsLine|name=Pink skirt|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/120}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|slayer_level=1}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Bone seeds.gif|A player opening a [[bone seeds]] in a pot, summoning a skeleton mage.
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Skeleton Mage old.png|name=Skeleton Mage}}
+|{{GUL|date=|update=|img=Skeleton Mage (Piscatoris Fishing Colony).png|name=Skeleton Mage}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Return of the Wise Old Man!|date=2 May 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* Skeleton mages can perform the [[Zombie Dance]] and [[Zombie Walk]] emotes, even though they are skeletons.
+* If players try to open a pot of [[bone seeds]] too close to [[Malignius Mortifer]], he will say, "You should take that pot further away from me before you open it!"
+
+{{Swan Song}}
+{{Skeleton}}
+[[Category:Not transcribable]]

@@ -1,0 +1,86 @@
+{{External|os=Riyl shadow (Temple Trekking)}}
+{{Otheruses|the Temple Trekking monster|the standard variant|Riyl Shade}}
+{{Infobox Monster
+|name = Riyl shadow
+|image = [[File:Riyl Shade (Temple Trekking).png|100px]]
+|release = [[28 March]] [[2006]]
+|update = Temple Trekking
+|members = Yes
+|options = Attack, Examine
+|examine = The shadowy remains of a long-departed soul.
+|level = 42
+|lifepoints = 3000
+|experience = 150.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 147
+|slayercat = Shades, Ghosts, Undead
+|max_melee = 120
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 30
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 454
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 454
+|defence = 30
+|weakness = Fire
+|susceptibility = Salve, Gadderhammer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|leagueRegion = Morytania
+|id = 14052
+}}
+'''Riyl shadow''' are [[monsters]] that can be encountered in [[Temple Trekking]] while travelling along the easy route, which attempt to break into the houses of the three unafflicted people in [[Mort'ton]]. On occasion they have been known to leave their catacombs to attack [[Temple Trekking|trekkers]] and [[Burgh de Rott Ramble|ramblers]] in the town above their dark burial place.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Riyl remains|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-11|rarity=1/20}}
+{{DropsLineGhosts|ectorarity=1000|herbrarity=1024}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Temple Trekking|date=28 March 2006}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Temple Trekking}}
+{{Ghost}}

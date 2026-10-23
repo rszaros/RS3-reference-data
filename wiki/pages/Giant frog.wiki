@@ -1,0 +1,129 @@
+{{External|os}}
+{{Otheruses|Giant frog|the smaller and weaker version|Big frog}}
+{{Infobox Monster
+|name = Giant frog
+|image = [[File:Giantfrog.png|250px]]
+|release = [[14 March]] [[2005]]
+|update = Lumbridge Swamp Caves
+|members = Yes
+|options = Attack
+|examine = It didn't get that big eating flies.
+|level = 33
+|lifepoints = 5100
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 39.2
+|slayercat = Frogs
+|max_melee = 0
+|max_ranged = 300
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 15
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 157
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 486
+|defence = 32
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1828
+|leagueRegion = Misthalin
+}}
+A '''giant frog''' is a monster found in the [[Lumbridge Swamp Caves]] and [[Dorgesh-Kaan South Dungeon]]. 
+
+At level 33, they are the toughest monster in the swamp caves. Three can be found on the south-eastern part of the cave complex, located just next to the entrance to [[Juna]]'s [[Tears of Guthix Cavern|cavern]], on a platform accessible by jumping over a stepping stone in the water. If one fails the jump and falls into the water, their [[Light sources|light source]] will get extinguished and will require to be reignited. All [[Candle lantern|Candle Lanterns]] you are carrying would break into useless [[broken glass]], leaving you with just a [[candle]]. For this reason, it is recommended to use a [[Seer's headband 1|Seers Headband]] or [[Bullseye lantern (lit)|Bullseye Lantern]] so you will not risk breaking your light source or an [[Light sources#Explosion of gas|explosion of gas]] in the caves.
+
+Their frequent drops of [[nature runes]] and [[giant frog legs]] combined to their closeness to the [[Lumbridge Castle]] and [[Culinaromancer's Chest]] banks, can also make training fairly profitable for lower levelled players. The occasional drop of [[cosmic rune]]s also make them a worthwhile grind for a lower levelled ([[Hardcore Ironman Mode|Hardcore]]) [[Ironman Mode|Ironman]] character, who might be in need of those to [[Jewellery enchantment|enchant jewellery]], especially acquiring the [[ring of Luck]] early on in the game.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Dorgesh-Kaan South Dungeon]]
+|lvls=33
+|mem=yes
+|mapID=-1
+|npcid:1828,x:2731,y:5192|npcid:1828,x:2731,y:5205|npcid:1828,x:2745,y:5206
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Lumbridge Swamp Caves]]
+|lvls=33
+|mem=yes
+|mapID=31
+|npcid:1828,x:3221,y:9549|npcid:1828,x:3224,y:9544|npcid:1828,x:3231,y:9547
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=true}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Nature rune|quantity=1|rarity=10/128}}
+{{DropsLine|name=Nature rune|quantity=3|rarity=10/128}}
+{{DropsLine|name=Nature rune|quantity=9|rarity=10/128}}
+{{DropsLine|name=Blood rune|quantity=1|rarity=1/128}}
+{{DropsLine|name=Cosmic rune|quantity=5|rarity=3/128}}
+{{DropsLine|name=Iron arrow|quantity=22|rarity=2/128}}
+{{DropsLine|name=Steel arrow|quantity=45|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Giant frog legs|quantity=1|rarity=64/128}}
+{{DropsLine|name=Coins|quantity=2|rarity=8/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=30|rarity=10/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=37|rarity=5/128|gemw=No}}
+{{DropsLine|name=Tiny spiky mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Coal stone spirit|quantity=1|rarity=1/128}}
+{{DropsLine|name=Spinach roll|quantity=1|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5000|gemw=No}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Lumbridge Swamp Caves|date=14 March 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* This monster was the only non-[[Slayer monster]] to drop [[Metal boots]]. It used to share this characteristic with [[Nex]], who could drop [[dragon boots]], but this was changed in a [[hidden update]] that removed the boots from Nex's drop table.
+* The giant frog used to be a melee monster, but after the [[Evolution of Combat]] update it has changed its style to ranged.
+
+[[Category:Unique monsters]]

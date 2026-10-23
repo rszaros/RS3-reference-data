@@ -1,0 +1,130 @@
+{{External|os}}
+{{Otheruses|the NPC|Distractions and Diversions|Distractions and Diversions}}
+{{Otheruses|the troll from Troll Stronghold|his son|Dad (junior)}}
+{{Infobox Monster
+|name = Dad
+|image = [[File:Dad.png|250px]]
+|release = [[24 August]] [[2004]]
+|update = Troll Stronghold Quest
+|members = Yes
+|options = Talk to, Attack
+|examine = An unusually large troll.
+|level = 77
+|lifepoints = 23550
+|experience = 1177.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 900.1
+|slayercat = Trolls
+|max_melee = 1925
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 8
+|attack = 55
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 883
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 983
+|defence = 55
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = quest
+|id = 1125, 14518, 17306
+|leagueRegion=Asgarnia}}
+[[File:Dad chathead.png|left|80px]]
+'''Dad''' is a [[trolls|troll]] that players must fight during the [[Troll Stronghold]] quest. Dad is also fightable as a class F boss monster in the [[Dominion Tower]] minigame if the player has completed Troll Stronghold.
+
+Since nearly all trolls are named after the thing they first ate, Dad has acquired his name from eating (or trying to eat) his father. This is further confirmed by Dad himself, as Dad replies "Troll named after first thing try to eat!" when a player asks about his name before battling him. He challenges players to fight him in the [[troll arena]] so players can pass him and have access to the northern side of Troll Country, including the [[God Wars Dungeon]]. He will stop the player from attacking just before he dies to ask you to spare his life.  
+
+He has a [[Dad (junior)|son]] who ate him and thus too bears his name.
+
+{{Listen
+|title = Smash the human!
+|align = right
+|filename = Dad.ogg
+|desc = Dad - guarding.}}
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Troll arena]]
+|lvls=77
+|mem=yes
+|mapID=28
+|npcid:1125,x:2920,y:3606
+|leagueRegion = Asgarnia}}
+{{LocTableBottom}}
+
+==Strategy==
+Dad is larger and stronger than normal trolls. He hits hard and his hits can be slow or fast at times. When he hits there is a chance that he may do a giant swing that sends player flying through the air, momentarily stunning them; this attack may be mitigated by standing next to a wall while fighting, or using the [[Freedom]] ability. [[Protect from Melee]] is recommended when fighting him.
+
+Previously, Dad could only be killed once outside of [[Dominion Tower]]. Since the troll update, <!--Which troll update?--> it is possible to refight Dad. Dad counts towards a troll slayer assignment, and offers the most Slayer experience among all trolls.
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Troll arena.png|The troll arena where Dad is found
+File:Troll Stronghold.png|Facing Dad
+File:Dad safe spot.png|Safe spot
+File:Dad-stops.png|Dad asks the player to spare his life
+File:Wise old man - swan song 3.png|Fighting [[Wise Old Man]] during [[Swan Song]] flashback
+</gallery>
+
+==Transcript==
+{{Hastranscript|NPC}}
+
+==Graphical updates==
+===NPC===
+{{GU|subject=NPCs
+|{{GUL|date=[[24 August]] [[2004]]|update=Troll Stronghold Quest|img=Dad (2004).png|name=Dad}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Dad (2008).png|name=Dad}}
+|{{GUL|date=[[15 March]] [[2011]]|update=Ring of Wealth, Shanties, Trolls and Dungeoneering|img=Dad (2011).png|name=Dad}}
+|{{GUL|date=[[31 January]] [[2012]]|update=Troll Warzone|img=Dad.png|name=Dad}}
+}}
+
+===Chathead===
+{{GU|subject=chathead
+|{{GUL|date=[[24 August]] [[2004]]|update=Troll Stronghold Quest|img=Dad chathead (2004).png|name=Dad}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Dad chathead (2008).png|name=Dad}}
+|{{GUL|date=[[15 March]] [[2011]]|update=Ring of Wealth, Shanties, Trolls and Dungeoneering|img=Dad chathead (2011).png|name=Dad}}
+|{{GUL|date=[[31 January]] [[2012]]|update=Troll Warzone|img=Dad chathead.png|name=Dad}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=update|update=Troll Stronghold Quest|date=24 August 2004}}
+** Added to game.
+}}
+
+{{Troll Stronghold}}
+{{The Mighty Fall}}
+{{Trolls}}
+{{Dominion Tower}}
+[[Category:Quest monsters]]
+[[Category:Unique monsters]]
+[[Category:Guards]]
+[[Category:Conditional status characters]]
+[[Category:Bandosians]]

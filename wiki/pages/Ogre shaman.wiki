@@ -1,0 +1,115 @@
+{{External|os|rsc=Ogre Shaman}}
+{{Needs image|different variants}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|name = Ogre shaman
+|image1 = <!--[[File:Ogre shaman (2).png]]-->
+|image2 = [[File:Ogre shaman.png|200px]]
+|image3 = <!--[[File:Ogre shaman (4).png]]-->
+|image4 = <!--[[File:Ogre shaman (5).png]]-->
+|release = [[7 May]] [[2003]]
+|update = New - Watch Tower Quest!
+|options = Talk to, Attack, Examine
+|race = Ogres
+|examine = Seems intelligent... for an ogre.
+|level = 91
+|lifepoints = 13000
+|experience = 650
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Ogres
+|max_melee = 312
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 65
+|ranged = 
+|magic = 
+|necromancy = 1
+|acc_melee = 1299
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 1299
+|defence = 65
+|weakness = Water
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = quest
+|leagueRegion = Kandarin
+|id1 = 5176
+|id2 = 5181, 5190
+|id3 = 5184, 5193
+|id4 = 5187
+}}
+'''Ogre shamans''' are monsters found in the [[Ogre Enclave]] during the [[Watchtower]] quest.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Ogre Enclave]]
+|lvls = 91
+|mem = Yes
+|requirements = Partial completion of {{QuestIcon|Watchtower}}
+|mapID = 572
+|plane = 0
+|npcid:5183,x:2577,y:9451
+|npcid:5180,x:2582,y:9437
+|npcid:5175,x:2592,y:9436
+|npcid:5186,x:2599,y:9461
+|npcid:5192,x:2606,y:9438
+|npcid:5189,x:2607,y:9451
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Watchtower quest==
+Players must use a [[magic ogre potion]] on them during the quest to kill them, because they cannot be damaged by conventional means, including [[Vengeance]], [[ring of recoil|rings of recoil]], or [[poison]].
+
+If an ogre shaman is interacted with in any other way besides use of the potion, it will attack the player once for up to half their maximum life points of unblockable typeless damage. Protection prayers and defensive abilities do not affect the attack's damage in any way. The shamans do not re-appear after the quest is completed.
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|beta=yes|img=Ogre shaman (RS2 beta).png|name=Ogre shaman}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Ogre shaman (2004).png|name=Ogre shaman}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Ogre shaman (2006).png|name=Ogre shaman}}
+|{{GUL|date=|update=|img=Ogre shaman.png|name=Ogre shaman}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=update|update=New - Watch Tower Quest!|date=7 May 2003}}
+** Added to game.
+}}
+
+{{Ogres}}
+{{Watchtower}}
+[[Category:Gu'Tanoth]]
+[[Category:Bandosians]]
+[[Category:Quest monsters]]

@@ -1,0 +1,147 @@
+{{Otheruses|the monster appears in the Wilderness crypt|the monster seen in Unwelcome Guests|Armoured Phantom (Unwelcome Guests)|the monster summoned by Hermod, the Spirit of War|Armoured phantom (Hermod)}}
+{{confuse|Phantom Guardian}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|name = Armoured phantom
+|image1 = [[File:Armoured phantom.png]]
+|image2 = [[File:Armoured phantom (2).png]]
+|image3 = [[File:Armoured phantom (3).png]]
+|release = [[11 April]] [[2023]]
+|update = Unwelcome Guests Slayer Content - This Week In RuneScape
+|members = Yes
+|actions = Attack
+|race = Phantom
+|examine1 = The spirit of an ancient warrior.
+|examine2 = Where are the weak spots on a possessed set of armour?
+|examine3 = It's easy to be good with a sword... when you are the sword.
+|level = 150
+|lifepoints = 52500
+|experience = 2625.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 113
+|slayxp = 2500
+|slayercat = Armoured phantoms, Zemouregal's undead, Undead, Phantoms
+|max_melee = 1745
+|max_ranged = 1745
+|max_magic = 1745
+|max_necromancy = 0
+|max_spec = 7000
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack = 95
+|ranged = 95
+|magic = 95
+|necromancy = 1
+|acc_melee = 2765
+|acc_ranged = 2765
+|acc_magic = 2765
+|acc_necromancy = 0
+|armour = 2287
+|defence = 87
+|weakness = Crush
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 30
+|aff_magic = 30
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 30023
+|id2 = 30024
+|id3 = 30025
+|leagueRegion = Wilderness
+}}
+[[File:Armoured phantom icon.png|left]]
+'''Armoured phantom''' is a [[Slayer monsters|Slayer creature]] accessible following [[Unwelcome Guests]]. They require level 113 [[Slayer]] to kill, and are found within the [[Crypt (Wilderness)|Crypt]] north of [[Fort Forinthry]].
+
+Armoured phantoms fall under multiple Slayer categories; as themselves, [[Undead (Slayer assignment)|Undead]], and [[Zemouregal's undead]]. When killed as a standalone task, every kill counts as one kill. If killed on an [[Undead (Slayer assignment)|Undead]], or [[Zemouregal's undead]] task, each kill counts as three, while killing them on the [[Slayer/Challenges#The Raptor|Raptor's slayer challenge]] counts as four kills.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Crypt (Wilderness)]]
+|lvls=150
+|mem=yes
+|requirements={{QuestIcon|Unwelcome Guests}}
+|mapID=-1
+|plane=1
+|npcid:30023,x:1928,y:1577|npcid:30023,x:1932,y:1578|npcid:30023,x:1934,y:1582
+|npcid:30023,x:1929,y:1570|npcid:30023,x:1931,y:1572|npcid:30023,x:1934,y:1571
+|leagueRegion=Wilderness
+}}
+{{LocTableBottom}}
+
+== Mechanics==
+Armoured Phantoms will perform a special attack after every five auto attacks. 
+
+Armoured phantoms can also attack under players.
+
+*'''Healing Spirit:''' The phantom will enter a [[Rejuvenate]] animation, summoning a level 62 [[phantom spirit]] in a 5x5 area centred on it. This spirit has 500,000 [[life points]] and will heal the phantom for 7,875 life points (15% of their max life points) every few seconds. Inflicting a [[stun]] on the spirit will remove it. If the host phantom is killed, the spirit will despawn soon after.
+*'''Spirit Trauma:''' The phantom will slam the ground, looking like a [[Blood Ice Quake]] attack. If the player does not move away from the quake (3x3 area-of-effect centred on the target tile), they can take up to 7,000 magic damage, though the damage scales to the player's current health and can be blocked as normal magic damage. This will also inflict the [[spirit trauma]] debuff, reducing the effect of all healing sources for the player by 40% for 30 seconds.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Unique drops===
+{{DropsTableHead}}
+{{DropsLine|name=Greater Sonic Wave ability codex|quantity=1|rarity=1/1536|altrarity=1/506|altraritydash=y|raritynotes={{DropNote|1/1,520 with tier 4 [[luck]] or higher. Drop rate is tripled (1/512) when on a [[Slayer assignment]]; 1/506 if also having tier 4 luck or higher.}}}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Ranarr seed|quantity=2|rarity=5/100}}
+{{DropsLine|name=Snapdragon seed|quantity=2|rarity=7/100}}
+{{DropsLine|name=Dwarf weed seed|quantity=2|rarity=6/100}}
+{{DropsLine|name=Torstol seed|quantity=1|rarity=6/100}}
+{{DropsTableBottom}}
+
+===Multipliers===
+{{DropsTableHead}}
+{{DropsLine|name=Necrite stone spirit|quantity=6|rarity=6/100}}
+{{DropsLine|name=Phasmatite stone spirit|quantity=6|rarity=6/100}}
+{{DropsLine|name=Catalytic anima stone|quantity=22|rarity=10/100}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Large spiky adamant salvage|quantity=1|rarity=8/100}}
+{{DropsLine|name=Large blunt rune salvage|quantity=2|rarity=9/100}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=6576|rarity=8/100}}
+{{DropsLine|name=Grimy toadflax|quantity=2|rarity=12/100}}
+{{DropsLine|name=Uncut diamond|quantity=3|rarity=9/100}}
+{{DropsLine|name=Uncut dragonstone|quantity=2|rarity=8/100}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|slayer_level=113}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Wildest of All}} 
+** [[Greater Sonic Wave ability codex]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Added to game.
+}}
+
+==Trivia==
+*Despite wielding large pikes, halberds or two-handed swords, armoured phantoms can only attack in a tile adjacent to their target.
+*Armoured phantoms' auto-attacks utilise halberd/two-handed sword animations, [[Slice]] and [[Punish]] despite not utilising adrenaline.
+
+{{Unwelcome Guests}}
+{{Slayer monsters}}

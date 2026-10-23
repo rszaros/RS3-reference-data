@@ -1,0 +1,67 @@
+{{Deleted content|Cow calf}}
+{{Infobox Monster
+|version1 = Normal
+|version2 = Partyhat
+|name = Cow calf
+|image1 = [[File:Cow calf (2015 April Fools).png]]
+|image2 = [[File:Cow calf (2015 April Fools, partyhat).png]]
+|release = [[1 April]] [[2015]]
+|update = 
+|removal = [[2 April]] [[2015]]
+|removalupdate = 
+|members = No
+|options = Attack, Examine
+|examine1 = Prelude to a steak.
+|examine2 = Prelude to a steak.
+|level = 1
+|lifepoints = 500
+|experience = 25.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 3.2
+|slayercat = Cows
+|assigned_by = Turael, Spria, jacquelyn
+|max_melee = 20
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 10
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = no
+|id1 = 20978, 20984
+|id2 = 20979
+}}
+Dressed up '''cow calves''' replaced regular [[Cow calf|cow calves]] during the [[2015 April Fools]] event.
+
+==Update history==
+{{UH|
+* {{UL|type=hidden|date=2 April 2015}}
+** Removed from game.
+
+* {{UL|type=hidden|date=1 April 2015}}
+** Added to game.
+}}
+
+{{2015 April Fools}}

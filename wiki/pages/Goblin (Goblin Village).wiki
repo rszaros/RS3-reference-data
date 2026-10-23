@@ -1,0 +1,240 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Red (1)
+|version2 = Red (2)
+|version3 = Red (3)
+|version4 = Red (4)
+|version5 = Red (5)
+|version6 = Red (6)
+|version7 = Green (1)
+|version8 = Green (2)
+|version9 = Green (3)
+|version10 = Green (4)
+|version11 = Green (5)
+|version12 = Green (6)
+|name = Goblin
+|image1 = [[File:Goblin (Goblin Village, red, 1).png]]
+|image2 = [[File:Goblin (Goblin Village, red, 2).png]]
+|image3 = [[File:Goblin (Goblin Village, red, 3).png]]
+|image4 = [[File:Goblin (Goblin Village, red, 4).png]]
+|image5 = [[File:Goblin (Goblin Village, red, 5).png]]
+|image6 = [[File:Goblin (Goblin Village, red, 6).png]]
+|image7 = [[File:Goblin (Goblin Village, green, 1).png]]
+|image8 = [[File:Goblin (Goblin Village, green, 2).png]]
+|image9 = [[File:Goblin (Goblin Village, green, 3).png]]
+|image10 = [[File:Goblin (Goblin Village, green, 4).png]]
+|image11 = [[File:Goblin (Goblin Village, green, 5).png]]
+|image12 = [[File:Goblin (Goblin Village, green, 6).png]]
+|release = [[17 July]] [[2006]]
+|update = Pyramid Plunder
+|members = No
+|options = Talk to, Attack, Examine
+|race = Goblin
+|examine = An ugly goblin... bleurgh!
+|level = 5
+|lifepoints = 1300
+|experience = 65.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6.6
+|slayercat = Goblins
+|max_melee = 80
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 4
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 40
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 140
+|defence = 4
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia
+|id1 = 4479
+|id2 = 4481
+|id3 = 4482
+|id4 = 4483
+|id5 = 4484
+|id6 = 4485
+|id7 = 4486
+|id8 = 4487
+|id9 = 4488
+|id10 = 4489
+|id11 = 4491
+|id12 = 4492
+}}
+{{Synced switch
+|version1 = [[File:Goblin (goggles) chathead.png|left|95px]]
+|version2 = [[File:Goblin (helmet, horns) chathead.png|left|95px]]
+|version3 = [[File:Goblin (helmet, comb) chathead.png|left|95px]]
+|version4 = [[File:Goblin (helmet, visor) chathead.png|left|95px]]
+|version5 = [[File:Goblin (braid) chathead.png|left|95px]]
+|version6 = [[File:Goblin (top hat) chathead.png|left|95px]]
+|version7 = [[File:Goblin (goggles) chathead.png|left|95px]]
+|version8 = [[File:Goblin chathead.png|left|95px]]
+|version9 = [[File:Goblin (helmet, horns) chathead.png|left|95px]]
+|version10 = [[File:Goblin (helmet, comb) chathead.png|left|95px]]
+|version11 = [[File:Goblin chathead.png|left|95px]]
+|version12 = [[File:Goblin (braid) chathead.png|left|95px]]
+}}
+The '''goblins''' of [[Goblin Village]] are a specific tribe of goblins which seem to be at war amongst themselves over which colour their [[Goblin mail|armour]] should be. During the [[Goblin Diplomacy]] quest, the village leaders [[General Bentnoze]] and [[General Wartface]] temporarily settle their dispute over armour colour by choosing to wear brown goblin mail instead of the red or green armour, but as becomes evident directly after this quest, this settlement only lasts very shortly. This can also be seen by the continued infighting within the tribe.
+
+Killing 15 goblins within the village while on a [[members]] world will summon one of the [[Goblin Village Bosses]] ([[Brokeface]], [[Lumpnose]], or [[Stinkears]]).
+
+Unlike many other goblins in the game, players can talk to the goblins in Goblin Village, which typically leads to a short conversation about the colour of their armour.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Goblin Village]]
+|lvls=5
+|mem=no
+|mapID=28
+|npcid:4492,x:2950,y:3496|npcid:4484,x:2951,y:3481|npcid:4483,x:2951,y:3483
+|npcid:4492,x:2951,y:3496|npcid:4482,x:2951,y:3501|npcid:4486,x:2951,y:3510
+|npcid:4482,x:2952,y:3508|npcid:4483,x:2953,y:3487|npcid:4491,x:2954,y:3491
+|npcid:4481,x:2954,y:3499|npcid:4481,x:2954,y:3500|npcid:4492,x:2954,y:3503
+|npcid:4479,x:2955,y:3507|npcid:4491,x:2956,y:3499|npcid:4491,x:2956,y:3500
+|npcid:4488,x:2957,y:3482|npcid:4489,x:2957,y:3484|npcid:4483,x:2957,y:3492
+|npcid:4488,x:2957,y:3507|npcid:4487,x:2957,y:3508|npcid:4485,x:2959,y:3499
+|npcid:4485,x:2959,y:3500|npcid:4481,x:2962,y:3502|npcid:4489,x:2963,y:3514
+|npcid:4479,x:2964,y:3511|npcid:4492,x:2955,y:3495|npcid:4483,x:2958,y:3496
+|leagueRegion = Asgarnia}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny spiky bronze salvage|quantity=1|rarity=9/128}}
+{{DropsLine|name=Small bladed bronze salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small plated bronze salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small plated iron salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Bronze arrow|quantity=20|rarity=3/128}}
+{{DropsLine|name=Earth rune|quantity=4|rarity=3/128}}
+{{DropsLine|name=Body rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Mind rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Nature rune|quantity=1|rarity=1/128}}
+{{DropsLine|name=Chaos rune|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|2/128}}
+{{DropsTableHead}}
+{{HerbDropTable|2/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1|rarity=34/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=5-15|rarity=14/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=3|rarity=13/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=5|rarity=8/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=16|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=24|rarity=3/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Green goblin mail|quantity=1|rarity=10/128|gemw=no|alch=no|raritynotes={{DropNote|Only dropped by goblins wearing green goblin mail.}}}}
+{{DropsLine|name=Red goblin mail|quantity=1|rarity=10/128|gemw=no|alch=no|raritynotes={{DropNote|Only dropped by goblins wearing red goblin mail.}}}}
+{{DropsLine|name=Bronze hatchet|quantity=1|rarity=3/128}}
+{{DropsLine|name=Bronze javelin|quantity=5|rarity=2/128}}
+{{DropsLine|name=Goblin book|quantity=1|rarity=2/128|gemw=No}}
+{{DropsLine|name=Tin stone spirit|quantity=1|rarity=1/128}}
+{{DropsLine|name=Cape (red)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Grapes|quantity=1|rarity=1/128}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Goblin skull|members=yes|quantity=1|rarity=Always|gemw=no|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest.}}}}
+{{DropsLine|name=Undercooked mystery meat|quantity=1|rarity=1/20|raritynotes={{DropNote|Only when wearing the [[Asylum doctor's ring]].}}}}
+{{DropsLine|name=Sealed clue scroll (easy)|members=Yes|quantity=1|rarity=1/128|gemw=No}}
+{{DropsLine|name=Tiny plated bronze salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Goblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Goblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Transcript==
+{{Hastranscript|npc}}
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}}
+** [[Goblin mail]] and [[goblin book]] drops
+* {{Achievement|Like a Boss}}
+** 15 goblin kills required to summon a boss
+
+==Graphical updates==
+{{GU
+|subject = NPCs
+|{{GUL|date=[[17 July]] [[2006]]|update=Pyramid Plunder|img=Goblin (green, 3)(2006).png|name=Goblin (Goblin Village, green)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Goblin (Goblin Village, green) old.png|name=Goblin (Goblin Village, green)}}
+|{{GUL|date=[[17 October]] [[2012]]|update=What's Mine is Yours|img=Goblin (Goblin Village, green, 3).png|name=Goblin (Goblin Village, green)}}
+}}
+
+{{GU
+|subject = NPCs
+|{{GUL|date=[[17 July]] [[2006]]|update=Pyramid Plunder|img=Goblin (red, 5)(2006).png|name=Goblin (Goblin Village, red)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Goblin (Goblin Village, red) old.png|name=Goblin (Goblin Village, red)}}
+|{{GUL|date=[[17 October]] [[2012]]|update=What's Mine is Yours|img=Goblin (Goblin Village, red, 1).png|name=Goblin (Goblin Village, red)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=patch|update=Patch Notes (19 December 2012)|date=19 December 2012}}
+** Several goblins have been graphically updated to the same standard as the recently reworked goblins.
+
+* {{UL|type=patch|update=What's Mine is Yours|date=17 October 2012}}
+** The Goblin Village has also received a full graphical rework, as have all surface-dwelling goblin NPCs, the Chaos Temple near Doric's house and the Burthorpe wall north-west of Falador.
+
+* {{UL|type=patch|update=Patch Notes (13 May 2010)|date=13 May 2010}}
+** Goblin death animations should now be a bit quicker.
+
+* {{UL|type=update|update=Pyramid Plunder|date=17 July 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* Some of the goblins in [[Goblin Village]] appear to be smoking cigars.
+
+{{Goblin Village}}
+{{Goblins}}
+[[Category:Bandosians]]

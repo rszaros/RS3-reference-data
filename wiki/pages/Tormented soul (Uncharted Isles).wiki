@@ -1,0 +1,87 @@
+{{Infobox Monster
+|name = Tormented soul
+|image = [[File:Tormented soul (Uncharted Isles).png|200px]]
+|release = [[25 July]] [[2016]]
+|update = The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit
+|members = Yes
+|options = Attack
+|examine = A lost soul, begging to be freed.
+|level = 93
+|lifepoints = 1000
+|experience = 50.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 98.6
+|slayercat = Ghosts
+|assigned_by = Mazchna, Turael, Vannaka
+|max_melee = 268
+|max_ranged = 268
+|max_magic = 268
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|speed = 4
+|attack = 67
+|ranged = 67
+|magic = 67
+|necromancy = 1
+|acc_melee = 1372
+|acc_ranged = 1372
+|acc_magic = 1372
+|acc_necromancy = 0
+|armour = 1372
+|defence = 67
+|weakness = Crush
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia
+|id = 23059
+}}
+The '''tormented soul''' is a monster found on [[Uncharted Isles]]. It is considered a common resource, and will always be found near a pile of sun-bleached bones, which acts as their spawn point.
+
+Attacking the tormented souls will scale their [[life points]] and combative abilities to the player's own combat level.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Maple shortbow|quantity=1-2 (noted)|rarity=11/128}}
+{{DropsLine|name=Yew shortbow|quantity=1-2 (noted)|rarity=11/128}}
+{{DropsLine|name=Magic shortbow|quantity=1-2 (noted)|rarity=2/128}}
+{{DropsLine|name=Amulet of strength|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril arrow|quantity=5-15|rarity=20/128}}
+{{DropsLine|name=Adamant arrow|quantity=5-15|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Chimes|image=Chimes 1.png|quantity=2-5|rarity=64/128|gemw=No}}
+{{DropsLine|name=Big bones|quantity=1-4 (noted)|rarity=6/128}}
+{{DropsLine|name=Yew logs|quantity=5-15 (noted)|rarity=2/128}}
+{{DropsLine|name=Gin|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+==Update history==
+{{Update history|
+* {{UL|type=patch|update=Patch Notes (1 August 2016)|date=1 August 2016}}
+** The examine text of tormented souls in the Arc has been corrected.
+
+* {{UL|type=update|update=The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit|date=25 July 2016}}
+** Added to game.
+}}{{Uncharted Isles}}
+{{Ghost}}

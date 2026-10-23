@@ -1,0 +1,189 @@
+{{External|os}}
+{{Otheruses|the NPC|other uses|Berries}}
+{{Infobox Monster
+|version1 = Awake
+|version2 = Sleeping
+|name = Berry
+|image1 = [[File:Berry.png|150px]]
+|image2 = [[File:Berry (sleeping).png|150px]]
+|release = [[24 August]] [[2004]]
+|update = Troll Stronghold Quest
+|members = Yes
+|options1 = Attack, Examine
+|options2 = Attack, Pickpocket, Examine
+|examine = He's guarding the cells.
+|level = 75
+|lifepoints = 9200
+|slaylvl = 1
+|slayxp = 43.2
+|experience = 460.0
+|aggressive = No
+|poisonous = No
+|slayercat = Trolls
+|assigned_by = spria, sumona, chaeldar
+|max_melee = 1620
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 54
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 855
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 955
+|defence = 54
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id1 = 1127
+|id2 = 1129
+|leagueRegion = asgarnia
+}}
+'''Berry''' is a [[troll]] that guards the prison in the [[Troll Stronghold (area)|Troll Stronghold]], and is featured in the [[Troll Stronghold]] quest. He holds the [[Cell key 2]], which is needed to open the cell where [[Eadgar]] is held.
+
+Players can pickpocket him for the key if they have level 30 [[Thieving]], if not they must fight him.
+
+He is normally sleeping, but if pickpocketing fails, he wakes up and starts fighting.
+
+Berry and [[Twig (troll)|Twig]] both have a rare chance of dropping a crystal key half.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Troll Stronghold (area)|Troll Stronghold]]
+|lvls=75
+|mem=yes
+|mapID=2
+|npcid:1129,x:16,y:35
+|leagueRegion=Asgarnia
+}}
+{{LocTableBottom}}
+
+==Pickpocketing==
+{{Thieving info
+|name = Berry
+|level = 30
+|xp = 0.0
+|type = Pickpocket
+}}
+
+===Success chance===
+{{DropLogProject|success=yes|jagex=yes}}
+
+{{Skilling success chart|label=Pickpocket chance|showbefore=no
+|label1=Pickpocket|low1=60|high1=300|req1=30|image1=Thieving-icon.png
+}}
+
+===Loot===
+{{DropsTableHead}}
+{{DropsLineThieving|name=Cell key 2|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Cell key 2|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=3/256}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=3/256}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Nature rune|quantity=7|rarity=5/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|15/128}}
+{{DropsTableHead}}
+{{HerbDropTable|15/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|19/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium blunt steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium blunt adamant salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=8|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=35|rarity=29/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=50|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=100|rarity=18/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=250|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=3|rarity=3/128}}
+{{DropsLine|name=Raw mackerel|quantity=3 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Troll bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[24 August]] [[2004]]|update=Troll Stronghold Quest|img=Berry (2004).png|name=Berry}}
+|{{GUL|date=[[15 March]] [[2011]]|update=Ring of Wealth, Shanties, Trolls and Dungeoneering|img=Berry.png|name=Berry}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Troll Stronghold Quest|date=24 August 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* Since trolls are named after the first thing they eat, Berry must have eaten a berry as a child.
+
+{{Troll Stronghold}}
+{{Trolls}}
+[[Category:Quest monsters]]
+[[Category:Unique monsters]]
+[[Category:Guards]]
+[[Category:Thievable quest entities]]
+[[Category:Bandosians]]

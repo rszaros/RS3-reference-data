@@ -1,0 +1,220 @@
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{Infobox Monster
+|version1 = 18
+|version2 = 30
+|version3 = 43
+|version4 = 54
+|version5 = 67
+|version6 = 78
+|version7 = 91
+|version8 = 102
+|version9 = 114
+|version10 = 126
+|version11 = 138
+|name = Skeleton
+|image = [[File:skeleton.png|150px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|options = Attack, Mark
+|examine = Could do with gaining a few pounds.
+|level1 = 18
+|level2 = 30
+|level3 = 43
+|level4 = 54
+|level5 = 67
+|level6 = 78
+|level7 = 91
+|level8 = 102
+|level9 = 114
+|level10 = 126
+|level11 = 138
+|lifepoints1 = 1300
+|lifepoints2 = 2200
+|lifepoints3 = 3100
+|lifepoints4 = 3900
+|lifepoints5 = 4800
+|lifepoints6 = 5600
+|lifepoints7 = 6500
+|lifepoints8 = 7300
+|lifepoints9 = 8200
+|lifepoints10 = 9000
+|lifepoints11 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Skeletons, Creatures of Daemonheim
+|max_melee1 = 52
+|max_melee2 = 88
+|max_melee3 = 124
+|max_melee4 = 156
+|max_melee5 = 192
+|max_melee6 = 224
+|max_melee7 = 260
+|max_melee8 = 292
+|max_melee9 = 328
+|max_melee10 = 360
+|max_melee11 = 396
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 13
+|attack2 = 22
+|attack3 = 31
+|attack4 = 39
+|attack5 = 48
+|attack6 = 56
+|attack7 = 65
+|attack8 = 73
+|attack9 = 82
+|attack10 = 90
+|attack11 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 52
+|acc_melee2 = 88
+|acc_melee3 = 124
+|acc_melee4 = 156
+|acc_melee5 = 192
+|acc_melee6 = 224
+|acc_melee7 = 260
+|acc_melee8 = 292
+|acc_melee9 = 328
+|acc_melee10 = 360
+|acc_melee11 = 396
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 234
+|armour2 = 341
+|armour3 = 470
+|armour4 = 609
+|armour5 = 801
+|armour6 = 1011
+|armour7 = 1299
+|armour8 = 1608
+|armour9 = 1299
+|armour10 = 1486
+|armour11 = 1924
+|defence1 = 13
+|defence2 = 22
+|defence3 = 31
+|defence4 = 39
+|defence5 = 48
+|defence6 = 56
+|defence7 = 65
+|defence8 = 73
+|defence9 = 82
+|defence10 = 90
+|defence11 = 99
+|weakness1 = Earth, Water, Air, Fire
+|weakness2 = Air, Water, Earth, Fire
+|weakness3 = Air, Water, Earth, Fire, Air
+|weakness4 = Air, Water, Earth, Fire
+|weakness5 = Air, Water, Earth, Fire
+|weakness6 = Air, Water, Earth, Fire
+|weakness7 = Air, Water, Earth, Fire
+|weakness8 = Air, Water, Earth, Fire
+|weakness9 = Air, Water, Earth, Fire
+|weakness10 = Air, Water, Earth
+|weakness11 = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10629, 10630, 10631, 10632
+|id2 = 10633, 10634, 10635, 10636
+|id3 = 10637, 10638, 10639, 10640, 10641
+|id4 = 10642, 10643, 10644, 10645
+|id5 = 10646, 10647, 10648, 10649
+|id6 = 10650, 10651, 10652, 10653
+|id7 = 10654, 10655, 10656, 10657
+|id8 = 10658, 10659, 10660, 10661
+|id9 = 10662, 10663, 10664, 10665
+|id10 = 10666, 10667, 10668
+|id11 = 10669
+|leagueRegion = Wilderness
+}}
+'''Skeletons''' in Daemonheim can only be found in the Abandoned, Occult, and Warped floors. As they are melee fighters, they are considerably weak against magic attacks. They often wield weapons such as [[Hatchets|Hatchet]]s, [[Warhammer]]s, [[Longsword]]s, and more. On occasion, they can drop these weapons when defeated.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Weapons===
+The type of weapon dropped depends on the skeleton's combat level and the weapon type it is wielding. For example, a promethium hatchet can only be dropped by a level 126 skeleton wielding a hatchet.
+{{Dungeoneering droptable/head}}
+{{Dungeoneering droptable/line|Image=Novite rapier.png|Name=Novite rapier|Tier=1|Smugvalue=210|Members=No}}
+{{Dungeoneering droptable/line|Image=Novite longsword.png|Name=Novite longsword|Tier=1|Smugvalue=210|Members=No}}
+{{Dungeoneering droptable/line|Image=Novite warhammer.png|Name=Novite warhammer|Tier=1|Smugvalue=210|Members=No}}
+{{Dungeoneering droptable/line|Image=Novite hatchet.png|Name=Novite hatchet|Tier=1|Smugvalue=105|Members=No}}
+{{Dungeoneering droptable/line|Image=Bathus rapier.png|Name=Bathus rapier|Tier=2|Smugvalue=510|Members=No}}
+{{Dungeoneering droptable/line|Image=Bathus longsword.png|Name=Bathus longsword|Tier=2|Smugvalue=510|Members=No}}
+{{Dungeoneering droptable/line|Image=Bathus warhammer.png|Name=Bathus warhammer|Tier=2|Smugvalue=510|Members=No}}
+{{Dungeoneering droptable/line|Image=Bathus hatchet.png|Name=Bathus hatchet|Tier=2|Smugvalue=255|Members=No}}
+{{Dungeoneering droptable/line|Image=Marmaros rapier.png|Name=Marmaros rapier|Tier=3|Smugvalue=960|Members=No}}
+{{Dungeoneering droptable/line|Image=Marmaros longsword.png|Name=Marmaros longsword|Tier=3|Smugvalue=960|Members=No}}
+{{Dungeoneering droptable/line|Image=Marmaros warhammer.png|Name=Marmaros warhammer|Tier=3|Smugvalue=960|Members=No}}
+{{Dungeoneering droptable/line|Image=Marmaros hatchet.png|Name=Marmaros hatchet|Tier=3|Smugvalue=480|Members=No}}
+{{Dungeoneering droptable/line|Image=Kratonite rapier.png|Name=Kratonite rapier|Tier=4|Smugvalue=1320|Members=No}}
+{{Dungeoneering droptable/line|Image=Kratonite longsword.png|Name=Kratonite longsword|Tier=4|Smugvalue=1320|Members=No}}
+{{Dungeoneering droptable/line|Image=Kratonite warhammer.png|Name=Kratonite warhammer|Tier=4|Smugvalue=1320|Members=No}}
+{{Dungeoneering droptable/line|Image=Kratonite hatchet.png|Name=Kratonite hatchet|Tier=4|Smugvalue=660|Members=No}}
+{{Dungeoneering droptable/line|Image=Fractite rapier.png|Name=Fractite rapier|Tier=5|Smugvalue=1830|Members=No}}
+{{Dungeoneering droptable/line|Image=Fractite longsword.png|Name=Fractite longsword|Tier=5|Smugvalue=1830|Members=No}}
+{{Dungeoneering droptable/line|Image=Fractite warhammer.png|Name=Fractite warhammer|Tier=5|Smugvalue=1830|Members=No}}
+{{Dungeoneering droptable/line|Image=Fractite hatchet.png|Name=Fractite hatchet|Tier=5|Smugvalue=915|Members=No}}
+{{Dungeoneering droptable/line|Image=Zephyrium rapier.png|Name=Zephyrium rapier|Tier=6|Smugvalue=2130|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Zephyrium longsword.png|Name=Zephyrium longsword|Tier=6|Smugvalue=2130|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Zephyrium warhammer.png|Name=Zephyrium warhammer|Tier=6|Smugvalue=2130|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Zephyrium hatchet.png|Name=Zephyrium hatchet|Tier=6|Smugvalue=1065|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Argonite_rapier.png|Name=Argonite rapier|Tier=7|Smugvalue=2670|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Argonite_longsword.png|Name=Argonite longsword|Tier=7|Smugvalue=2670|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Argonite_warhammer.png|Name=Argonite warhammer|Tier=7|Smugvalue=2670|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Argonite hatchet.png|Name=Argonite hatchet|Tier=7|Smugvalue=1335|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Katagon rapier.png|Name=Katagon rapier|Tier=8|Smugvalue=3030|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Katagon longsword.png|Name=Katagon longsword|Tier=8|Smugvalue=3030|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Katagon warhammer.png|Name=Katagon warhammer|Tier=8|Smugvalue=3030|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Katagon hatchet.png|Name=Katagon hatchet|Tier=8|Smugvalue=1515|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Gorgonite_rapier.png|Name=Gorgonite rapier|Tier=9|Smugvalue=3450|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Gorgonite_longsword.png|Name=Gorgonite longsword|Tier=9|Smugvalue=3450|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Gorgonite_warhammer.png|Name=Gorgonite warhammer|Tier=9|Smugvalue=3450|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Gorgonite_hatchet.png|Name=Gorgonite hatchet|Tier=9|Smugvalue=1725|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Promethium_rapier.png|Name=Promethium rapier|Tier=10|Smugvalue=4080|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Promethium longsword.png|Name=Promethium longsword|Tier=10|Smugvalue=4080|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Promethium_warhammer.png|Name=Promethium warhammer|Tier=10|Smugvalue=4080|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Promethium_hatchet.png|Name=Promethium hatchet|Tier=10|Smugvalue=2040|Members=Yes}}
+|}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+*{{UL|type=patch|update=Patch Notes (14 February 2012)|date=14 February 2012}}
+** The ranger skeletons in Dungeoneering have had their impact sounds quietened.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+
+{{Dungeoneering monsters}}
+{{Skeleton}}

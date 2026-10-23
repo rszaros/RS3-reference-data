@@ -1,0 +1,92 @@
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|version6 = 6
+|version7 = 7
+|name = Summoned skeleton
+|image1 = <!--[[File:Summoned skeleton (1).png]]-->
+|image2 = <!--[[File:Summoned skeleton (1).png]]-->
+|image3 = <!--[[File:Summoned skeleton (2).png]]-->
+|image4 = <!--[[File:Summoned skeleton (3).png]]-->
+|image5 = [[File:Summoned skeleton.png]]
+|image6 = <!--[[File:Summoned skeleton (5).png]]-->
+|image7 = <!--[[File:Summoned skeleton (6).png]]-->
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|members = Yes
+|options = Attack, Mark, Examine
+|race = Skeleton
+|examine = Has a bone to pick with you.
+|level1 = 111
+|level = 114
+|lifepoints1 = 2000
+|lifepoints = 9000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 
+|slayxp = 1165
+|slayercat = Skeletons
+|max_melee = 1415.5
+|max_ranged = 1415.5
+|max_magic = 1415.5
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack1 = 90
+|attack = 95
+|ranged1 = 90
+|ranged = 95
+|magic1 = 90
+|magic = 95
+|necromancy = 1
+|acc_melee = 2765
+|acc_ranged = 2765
+|acc_magic = 2765
+|acc_necromancy = 0
+|abilities = 
+|armour = 1486
+|defence = 70
+|weakness = None
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|restriction = No
+|leagueRegion = Wilderness
+|id1 = 26060
+|id2 = 26078
+|id3 = 26079
+|id4 = 26080
+|id5 = 26081
+|id6 = 26082
+|id7 = 26083
+}}
+'''Summoned skeletons''' are monsters that appear throughout [[the Shadow Reef]]. They may be spawned by [[ulthven necromancer]]s, [[corpse carrier]]s, [[Bossy McBossFace]], [[Taraket the Necromancer]], or just as normal monsters.
+
+In story mode, their life points is 4,500, down from 9,000.
+
+==Achievements==
+* {{Achievement|Unworthy Dead}}
+
+==Dialogue==
+{{hasdialogue|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+{{The Shadow Reef}}
+{{Skeletons}}

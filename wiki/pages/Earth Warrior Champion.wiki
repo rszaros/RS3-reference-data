@@ -1,0 +1,94 @@
+{{External|os}}
+{{Infobox Monster
+|name = Earth Warrior Champion
+|image = [[File:Earth Warrior Champion.png|200px]]
+|release = [[12 December]] [[2005]]
+|update = Champions, Wyverns and Granite
+|members = Yes
+|options = Attack
+|examine = Champion of the earth warriors.
+|leagueRegion = Misthalin
+|level = 77
+|lifepoints = 5000
+|experience = 250.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Earth warriors
+|max_melee = 1010
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 55
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 983
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 983
+|defence = 55
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = minigame
+|id = 3057
+}}
+[[File:Earth Warrior banner detail.png|left]]
+The '''Earth Warrior Champion''' is one of the 16 champions fought as part of the [[Champion's Challenge]] [[distraction and diversion]]. Like the other champions, he may be fought beneath the [[Champions' Guild]], but only after a player finds an [[Earth Warrior champion scroll]], which is a very rare drop from [[Earth warrior]]s. After being defeated the first time, he may be fought again weekly for additional slayer and constitution experience.
+
+Like the other champions, there is a special restriction during the fight with him; [[prayer]]s and [[curse]]s are prohibited. He attacks with powerful [[melee]] attacks, so fighting him from a distance with [[ranged]] or [[magic]] may be advisable for weaker players.
+
+==Rewards==
+* {{Skill XP|Slayer|2538}}
+* {{Skill XP|Constitution|2538}} 
+* A new banner hung under the [[Champions' Guild]] to celebrate victory
+
+==Works==
+{{Worksby}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Earth Warrior Champion reward.png|Victory over the Earth Warrior champion
+Earth Warrior champion banner.png|You defeated the Earth Warrior Champion.
+Banner carrier (earth warrior).png|A [[Banner carrier]] holding an Earth Warrior banner
+Earth Warrior Champion fight.png|Fighting the champion of earth warriors
+</gallery>
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[12 December]] [[2005]]|update=Champions, Wyverns and Granite|img=Earth Warrior Champion (2005).png|name=Earth Warrior Champion}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Earth Warrior Champion (2008).png|name=Earth Warrior Champion}}
+|{{GUL|date=[[23 June]] [[2014]]|update=Patch Notes (23 June 2014)|img=Earth Warrior Champion.png|name=Earth Warrior Champion}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=ninja|update=Patch Notes (23 June 2014)|date=23 June 2014}}
+** The graphics and animations for the following NPCs have been revised:
+*** Earth warriors
+
+* {{UL|type=update|update=Champions, Wyverns and Granite|date=12 December 2005}}
+** Added to game.
+}}
+
+{{Champions' Challenge}}
+{{Elementals}}
+[[Category:Unique monsters]]

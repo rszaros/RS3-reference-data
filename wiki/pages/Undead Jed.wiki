@@ -1,0 +1,90 @@
+{{Multi Infobox
+|text1 = NPC
+|item1 =
+{{Infobox NPC
+|name = Undead Jed
+|image = File:Undead Jed.png
+|release = [[25 July]] [[2016]]
+|update = The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit
+|race = Zombie
+|members = Yes
+|quest = [[Eye for an Eye (miniquest)]]
+|location = [[Cyclosis]]
+|map = no
+|gender = Male
+|options = Talk to, Examine
+|examine = Maybe he should be called Zed now.
+|id = 23412
+|leagueRegion = Asgarnia
+}}
+|text2 = Monster
+|item2 =
+{{Infobox Monster
+|name = Undead Jed
+|image = [[File:Undead Jed.png|200px]]
+|release = [[25 July]] [[2016]]
+|update = The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit
+|members = Yes
+|options = Attack
+|race = Zombie
+|examine = Maybe he should be called Zed now.
+|level = 0
+|lifepoints = 100
+|experience = 0.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Zombies, Undead
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|speed = 5
+|attack = 5
+|ranged = 5
+|magic = 5
+|necromancy = 1
+|acc_melee = 150
+|acc_ranged = 150
+|acc_magic = 150
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 23413
+|leagueRegion = Asgarnia
+}}
+}}
+[[File:Undead Jed chathead.png|left]]
+'''Undead Jed''' is the zombified form of [[Jed]], and the final boss fight of the [[Eye for an Eye (miniquest)|Eye for an Eye miniquest]]. Captured by [[The Harbinger]] after seemingly being devoured by [[Thalassus]], Jed was interrogated and tortured for failing to bring back his slave quota, and was zombified as a result, being turned into Undead Jed. Jed feigned being a defective undead so he could escape when the time was right, and fled to [[Cyclosis]] to enact revenge against [[Cap'n Ekahi|Lookout Ekahi]], who had betrayed him. During the miniquest, he takes some of Ekahi's soul in order to bolster his own, and is then killed by the [[player character]].
+
+The battle against Undead Jed has a boss life bar, much like that of [[Araxxor]] and similar, but he almost certainly will die in one hit to the player (even unarmed) as he has essentially no defence and only 100 life points.
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit|date=25 July 2016}}
+** Added to game.
+}}
+
+==Trivia==
+* His examine text is a portmanteau of "zombie" and "Jed".
+* He calls the player a dairy farmer, whilst the player comments that they aren't trading insults. This is a reference to 'Insult Sword Fighting' in ''Monkey Island''.
+
+{{Eye for an Eye}}
+{{Zombie}}
+{{Pirates}}
+[[Category:Deceased characters]]

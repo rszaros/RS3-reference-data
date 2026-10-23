@@ -1,0 +1,60 @@
+{{Incomplete}}
+{{Infobox Monster
+|name = Pyrefiend (summoned)
+|image = [[File:Pyrefiend (summoned).png|x280px]]
+|release = [[4 July]] [[2022]]
+|update = Zamorak, Lord of Chaos - This Week In RuneScape
+|members = Yes
+|options = Attack, Mark, Examine
+|examine = A bit hot headed.
+|level = 113
+|lifepoints = 8000
+|experience = 400.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Pyrefiends
+|max_melee = 576
+|max_ranged = 576
+|max_magic = 1267
+|max_necromancy = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 40
+|ranged = 40
+|magic = 88
+|necromancy = 1
+|acc_melee = 628
+|acc_ranged = 628
+|acc_magic = 2343
+|acc_necromancy = 0
+|armour = 1694
+|defence = 75
+|weakness = Bolts
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|leagueRegion = Misthalin
+|id = 29273
+}}
+'''Pyrefiends''' are monsters released with [[The Zamorakian Undercity]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Base hit chances increased:
+*** Ranged: 65 → 70
+*** Magic and melee: 55 → 60
+
+* {{UL|type=ninja|update=Scattershot Ninja Strike - This Week In RuneScape|date=18 July 2022}}
+** Any summoned monster found in [[The Zamorakian Undercity]] Elite Dungeon will now show '(summoned)' on their name, to differentiate between summoned monsters and standard monsters.
+
+* {{UL|type=update|update=Zamorak, Lord of Chaos - This Week In RuneScape|date=4 July 2022}}
+** Added to game.
+}}
+
+{{The Zamorakian Undercity}}
+{{Demons}}

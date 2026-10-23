@@ -1,0 +1,152 @@
+{{external|os}}
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{Infobox Monster
+|name = Skeleton
+|image = [[File:Skeleton (Draynor Manor).png|x180px]]
+|release = [[21 January]] [[2001]]
+|update = Newsletter 1
+|members = No
+|options = Attack
+|examine = Could do with gaining a few pounds.
+|level = 11
+|lifepoints = 400
+|experience = 20.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 24
+|slayercat = Skeletons
+|assigned_by = Turael, Mazchna, Vannaka
+|max_melee = 32
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 8
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 181
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 181
+|defence = 8
+|weakness = Earth
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 3291
+|leagueRegion = Misthalin
+}}
+A '''skeleton''' can be found in a closet inside [[Draynor Manor]]. Like most skeletons, it is weak to the [[salve amulet]] and [[earth spells]]. It features in the [[Ernest the Chicken]] quest, where it is found guarding the [[rubber tube]] required to fix [[Professor Oddenstein]]'s machine.
+
+To gain access to the skeleton, a [[grimy key]] must be obtained from a heap of compost outside the mansion, which can then be used to open the door. While the skeleton is not initially aggressive or required to be killed, it attacks players that take the rubber tube, and thus a few hits from it must be endured in order to obtain it.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Draynor Manor]]
+|lvls=11
+|mem=yes
+|mapID=28
+|npcid:3291,x:3110,y:3367
+|leagueRegion=Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammuniton===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=12|rarity=2/128}}
+{{DropsLine|name=Earth rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Fire rune|quantity=2|rarity=2/128}}
+{{DropsLine|name=Chaos rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Nature rune|quantity=3|rarity=1/128}}
+{{DropsLine|name=Bronze arrow|quantity=2|rarity=7/128}}
+{{DropsLine|name=Bronze arrow|quantity=5|rarity=4/128}}
+{{DropsLine|name=Iron arrow|quantity=1|rarity=4/128}}
+{{DropsLine|name=Steel arrow|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2|rarity=18/128}}
+{{DropsLine|name=Coins|quantity=4|rarity=7/128}}
+{{DropsLine|name=Coins|quantity=12|rarity=15/128}}
+{{DropsLine|name=Coins|quantity=16|rarity=4/128}}
+{{DropsLine|name=Coins|quantity=25|rarity=4/128}}
+{{DropsLine|name=Coins|quantity=33|rarity=4/128}}
+{{DropsLine|name=Coins|quantity=48|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|21/128}}
+{{DropsTableHead}}
+{{HerbDropTable|21/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=18/128}}
+{{DropsLine|name=Iron dagger|quantity=1|rarity=3/128}}
+{{DropsLine|name=Iron off hand dagger|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tin ore|quantity=1|rarity=1/128}}
+{{DropsLine|name=Fire talisman|quantity=1|rarity=2/128}}
+{{DropsLine|name=Wheat|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineBoneFragments|slayer_level=1}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[20 February]] [[2006]]|update=Updates, updates and more updates...|img=Skeleton (Draynor Manor) (2006).png|name=Skeleton (Draynor Manor)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton (Draynor Manor) (2007).png|name=Skeleton (Draynor Manor)}}
+|{{GUL|date=|update=|img=Skeleton (Draynor Manor) old.png|name=Skeleton (Draynor Manor)}}
+|{{GUL|date=|update=|img=Skeleton (Draynor Manor).png|name=Skeleton (Draynor Manor)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Newsletter 1|date=21 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* The skeleton's location is a reference to the idiom "[[wikipedia:skeleton in the closet (idiom)|skeleton in the closet]]", which means to have hidden secrets which would negatively affect the person if they were revealed.
+
+{{Ernest the Chicken}}
+{{Skeleton}}
+[[Category:Quest monsters]]

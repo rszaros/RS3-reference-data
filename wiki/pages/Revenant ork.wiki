@@ -1,0 +1,103 @@
+{{External|os}}
+{{Infobox Monster
+|name = Revenant ork
+|image = [[File:Revenant ork.png|125px]]
+|release = [[10 December]] [[2007]]
+|update = Wilderness Changes, Bounty Hunter and Clan Wars!
+|members = No
+|actions = Attack
+|examine = The ghost of an ork slain during the god wars.
+|level = 98
+|lifepoints = 8250
+|experience = 412.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 269.2
+|slayercat = Revenants, Ghosts, Undead
+|max_melee = 1237
+|max_ranged = 1237
+|max_magic = 1237
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 70
+|ranged = 70
+|magic = 70
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 1486
+|acc_ranged = 1486
+|acc_magic = 1486
+|armour = 1486
+|defence = 70
+|weakness = Nothing
+|susceptibility = undead slayer, ghost hunter, revenant bane, salve
+|aff_weakness = 40
+|aff_melee = 40
+|aff_ranged = 40
+|aff_magic = 40
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 13478
+|leagueRegion = Wilderness
+}}
+'''Revenant orks''' are a type of monster, that inhabits the [[Forinthry Dungeon]], along with all other [[revenants]].
+The Forinthry Dungeon is a part of the [[Wilderness]] so it is possible to be attacked by other players here if opted into [[PvP]].
+
+Like all revenants, they can restore lifepoints quickly, can cure themselves of poison and react quickly to a player's protection prayers. When below 50% health, revenant orks will "eat" to heal 1375 lifepoints from their limited supply of food. For a full description of the healing mechanic see the [[Revenants#Overview|revenants]] page.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Forinthry Dungeon]]
+|lvls=98
+|mem=no
+|mapID=6
+|npcid:13478,x:3108,y:10148
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+Revenant drops are not affected by [[luck]]. There are only two ways to increase the drop rate of revenant items: completion of the [[elite Wilderness achievements]] which gives a 5% increased chance for revenant drops, and [[revenant drop enhancer]]s, which give a 10% increased chance. Both boosts can be in effect at the same time.
+
+===Main===
+{{Revenant main drops|level=98}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{Revenant tertiary drops|level=98}}
+{{DropsLine|name=Dragon dagger|quantity=1|rarity=1/96|altrarity=1/56|raritynotes={{DropNote|1/56 while wearing [[Jennica's ring]].}}}}
+{{DropsLineGhosts|ectorarity=750|herbrarity=1024}}
+{{DropsTableBottom}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=98}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Wilderness Changes, Bounty Hunter and Clan Wars!|date=10 December 2007}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Revenants}}
+{{Ghost}}
+
+[[Category:Orks]]
+[[Category:Participants in the God Wars]]
+[[Category:Bandosians]]

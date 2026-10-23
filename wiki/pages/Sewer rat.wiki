@@ -1,0 +1,77 @@
+{{Infobox Monster
+|name = Sewer rat
+|image = [[File:Sewer rat.png|249px]]
+|release = [[22 April]] [[2014]]
+|update = A Shadow over Ashdale
+|members = No
+|options = Attack
+|race = Rat
+|examine = A bad-tempered rodent.
+|level = 2
+|lifepoints = 120
+|experience = 6.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Rats
+|max_melee = 10
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 2
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 120
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 120
+|defence = 2
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = Quest
+|id = 19311
+|leagueRegion=Asgarnia}}
+'''Sewer rats''' are rats found at the sewers under the village of [[Ashdale]] during the quest, [[A Shadow over Ashdale]].
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Rat bone|quantity=1|rarity=Common|gemw=no|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}}}
+{{DropsLine|name=Rat's tail|quantity=1|rarity=Always|gemw=no|raritynotes={{DropNote|Only during [[Witch's Potion (miniquest)]].}}}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=A Shadow over Ashdale|date=22 April 2014}}
+** Added to game.
+}}
+
+==See also==
+* [[Rat]]
+* [[Giant rat]]
+
+{{Rats}}

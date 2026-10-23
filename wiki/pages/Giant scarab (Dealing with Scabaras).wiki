@@ -1,0 +1,66 @@
+{{Infobox Monster
+|name = Giant scarab
+|image = [[File:Giant scarab.png|250px]]
+|release = [[2 January]] [[2008]]
+|update = Dealing with Scabaras
+|members = Yes
+|options = Attack, Examine
+|examine = A huge beast of a beetle.
+|level = 92
+|lifepoints = 10000
+|experience = 500.0
+|aggressive = Yes
+|poisonous = 80
+|slaylvl = 1
+|slayercat = Scabarites
+|max_melee = 198
+|max_ranged = 264
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee,ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 49
+|ranged = 66
+|magic = 0
+|necromancy = 1
+|acc_melee = 495
+|acc_ranged = 1335
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1335
+|defence = 66
+|weakness = Crushing
+|susceptibility = Keris
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 6770, 6771
+}}
+The '''Giant scarab''' is encountered during the [[Dealing with Scabaras]] quest. Unlike the [[giant scarab]] in [[Contact!]], he is less vulnerable to magic attacks and more vulnerable to melee attacks. When you put most of the power to his room he will only have 850 life points left. Most players choose to kill the scarab after the other rooms have been solved to reduce the risk of having to kill it multiple times.
+
+Due to the relative ease of the fight with adequate preparation, most players choose to allocate the least amount of power to the scarab room, unless they have 70+ Agility, Thieving, or Strength.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dealing with Scabaras|date=2 January 2008}}
+** Added to game.
+}}
+
+{{Dealing with Scabaras}}
+[[Category:Quest monsters]]
+[[Category:Unique monsters]]
+[[Category:Bugs]]

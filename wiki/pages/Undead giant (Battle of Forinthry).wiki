@@ -1,0 +1,74 @@
+{{Otheruses|Undead giants encountered during the Battle of Forinthry|the Ancient Awakening|Undead giant}}
+{{Infobox Monster
+|version1 = Story mode
+|version2 = Normal mode
+|name = Undead giant
+|image = Undead giant.png
+|release = [[20 November]] [[2023]]
+|update = Vorkath, Battle for Forinthry - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|race = Giant
+|examine = Will protect the place of power even if he dies trying...again
+|level = 300
+|lifepoints1 = 61275
+|lifepoints2 = 122550
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp =
+|slayercat = Zombies, Undead
+|max_melee1 = 600
+|max_melee2 = 2010
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 6
+|attack = 120
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 4656
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 2458
+|defence = 90
+|weakness = None
+|susceptibility = undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 60
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain =
+|restriction = No
+|id = 30664, 30665, 30666
+|leagueRegion=Misthalin}}
+The '''undead giants''' are [[monster]]s fought during the [[Zemouregal & Vorkath]] battle in the [[Zemouregal & Vorkath#Siege phase|siege phase]], which is only present in story and normal mode.
+
+Each of them guards a [[place of power]] alongside an assortment of four undead creatures. If the giant takes damage by any means, this send an "alert" that automatically aggros the other guards in a ~25-tile range of the giant's position when it took damage.
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Vorkath (Undead giant).gif|Undead giant guarding the [[place of power]].
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Christmas Season Update - This Week In RuneScape|date=27 November 2023}}
+** Fixed an issue preventing the Salve Amulet from working on the horde phase minibosses during the Battle of Forinthry boss fight.
+
+* {{UL|type=update|update=Vorkath, Battle for Forinthry - This Week In RuneScape|date=20 November 2023}}
+** Added to game.
+}}
+
+{{Zemouregal & Vorkath}}
+{{Battle of Forinthry}}
+[[Category:NPCs that can move at running speed]]

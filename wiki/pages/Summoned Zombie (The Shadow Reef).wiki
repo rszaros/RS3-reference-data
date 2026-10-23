@@ -1,0 +1,91 @@
+{{Infobox Monster
+|version1 = Female (1)
+|version2 = Female (2)
+|version3 = Female (3)
+|version4 = Female (4)
+|version5 = Male (1)
+|version6 = Male (2)
+|version7 = Male (3)
+|version8 = Male (4)
+|name = Summoned Zombie
+|image1 = <!--[[File:Summoned Zombie (1).png]]-->
+|image2 = <!--[[File:Summoned Zombie (2).png]]-->
+|image3 = <!--[[File:Summoned Zombie (3).png]]-->
+|image4 = [[File:Zombie (The Shadow Reef).png]]
+|image5 = <!--[[File:Summoned Zombie (5).png]]-->
+|image6 = <!--[[File:Summoned Zombie (6).png]]-->
+|image7 = <!--[[File:Summoned Zombie (7).png]]-->
+|image8 = <!--[[File:Summoned Zombie (8).png]]-->
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|members = Yes
+|options = Attack, Mark, Examine
+|race = 
+|examine = A reanimated corpse.
+|level = 108
+|lifepoints = 12000
+|experience = 600
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 
+|slayxp = 
+|slayercat = Zombies
+|max_melee = 384
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 90
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 2458
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 1372
+|defence = 67
+|weakness = Slashing
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = No
+|leagueRegion = Wilderness
+|id1 = 26177
+|id2 = 26178
+|id3 = 26179
+|id4 = 26180
+|id5 = 26181
+|id6 = 26182
+|id7 = 26183
+|id8 = 26184
+}}
+'''Summoned Zombie''' is a monster that is spawned by the [[Ulthven necromancer]]s in [[The Shadow Reef]].
+
+In story mode, their life points is 6,000, down from 12,000.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+{{The Shadow Reef}}
+{{Zombies}}
+[[Category:NPCs that can move at crawling speed]]

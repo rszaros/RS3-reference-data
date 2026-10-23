@@ -1,0 +1,88 @@
+{{Infobox Monster
+|name = Hellhound Alpha
+|image = [[File:Hellhound Alpha.png|x280px]]
+|release = [[4 July]] [[2022]]
+|update = Zamorak, Lord of Chaos - This Week In RuneScape
+|members = Yes
+|options = Attack, Mark, Examine
+|race = Hellhound
+|examine = Who's an angry boy?
+|leagueRegion = Misthalin
+|level = 113
+|lifepoints = 20000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 1466.6
+|slayercat = Hellhounds, Demons
+|max_melee = 1584
+|max_ranged = 14
+|max_magic = 14
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 3031
+|acc_ranged = 110
+|acc_magic = 110
+|acc_necromancy = 0
+|armour = 1335
+|defence = 66
+|weakness = Earth
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 60
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|id = 29265
+}}
+'''Hellhound Alphas''' are monsters released with [[The Zamorakian Undercity]]. One of these is located with two [[Hellhound Hunter]]s and the miniboss [[Desha, Guardian of the Hounds]] in the northeastern edge of the undercity, near the entrance to the Avernic Prison. Neither the alpha nor the hunters can leave the small area where they are found, although Desha can.
+
+Their attacks may inflict the [[Savage Wounds]] bleed.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main===
+{{The Zamorakian Undercity drops}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[4 July]] [[2022]]|update=Zamorak, Lord of Chaos - This Week In RuneScape|img=Hellhound Alpha (2022).png|name=Hellhound Alpha}}
+|{{GUL|date=[[6 February]] [[2023]]|update=Prepping For Fort Forinthry - This Week In RuneScape|img=Hellhound Alpha.png|name=Hellhound Alpha}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Base hit chances increased:
+*** Magic: 65 → 70
+*** Melee and ranged: 55 → 60
+
+* {{UL|type=hidden|update=Hidden updates|date=4 March 2024}}
+** The Strong Guard buff has effectively been replaced by the damage potential system, and monsters which previously had this buff no longer have it.
+
+* {{UL|type=patch|update=Prepping For Fort Forinthry - This Week In RuneScape|date=6 February 2023}}
+** Updated the appearance of hellhounds by adjusting their roughness and metal spec values.
+
+* {{UL|type=update|update=Zamorak, Lord of Chaos - This Week In RuneScape|date=4 July 2022}}
+** Added to game.
+}}
+
+==Trivia==
+* The Hellhound Alpha used to possess the [[Strong guard (status)|Strong guard]] status, which made the players' attacks incapable of missing and made their [[Ability damage|damage]] dependent on their [[Hit chance|accuracy]]; this was effectively replaced by the damage potential system on [[4 March]] [[2024]].
+
+{{The Zamorakian Undercity}}
+{{Demons}}

@@ -1,0 +1,90 @@
+{{Infobox Monster
+|name = Banshee Champion
+|image = [[File:Banshee Champion.png|280px]]
+|release = [[9 November]] [[2009]]
+|update = Champions' Challenge Update and Hairstyles
+|members = Yes
+|options = Attack, Examine
+|examine = Champion of the banshees.
+|level = 63
+|lifepoints = 8000
+|slaylvl = 15
+|slayxp = 0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Banshees, Ghosts, Undead
+|assigned_by = None
+|max_melee = 826
+|max_ranged = 0
+|max_magic = 826
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 5
+|attack = 20
+|ranged = 1
+|magic = 45
+|necromancy = 1
+|acc_melee = 316
+|acc_ranged = 0
+|acc_magic = 732
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Bolts
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|restriction = minigame
+|id = 8986
+|leagueRegion=Misthalin}}
+[[File:Banshee banner detail.png|left]]
+The '''Banshee Champion''' is one of the 16 champions fought as part of the [[Champion's Challenge]] [[distraction and diversion]]. Like the other champions, it may be fought beneath the [[Champions' Guild]], but only after a player finds a [[Banshee champion scroll]], which is a very rare drop from [[banshee]]s and [[mighty banshee]]s. After being the defeated the first time, it may be fought again weekly for additional slayer and constitution experience.
+
+Like the other champions, there is a special restriction during the fight with them. In this case, [[prayer]] and [[melee]] attacks are prohibited, meaning [[magic]], [[ranged]] or [[necromancy]] must be used instead. As it is a banshee, wearing ear protection such as [[earmuffs]], a [[mask of mourning]] or a [[slayer helmet]] is highly recommended to avoid its screech attack, which is capable of hitting 1,000 and draining combat stats. It attacks with magic, and should be relatively easy to defeat as long as a proper helmet is used.
+
+Even though it is a banshee, it doesn't count for a [[Slayer assignment]] against banshees.
+
+==Rewards==
+* {{Skill XP|Slayer|1584}} lamp
+* {{Skill XP|Constitution|1584}} lamp
+* A new banner hung under the [[Champions' Guild]] to celebrate victory
+
+==Works==
+{{Worksby}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Banshee Champion reward.png|Victory over the Banshee Champion.
+Banner carrier (banshee).png|A [[Banner carrier]] holding an Banshee champion banner.
+Banshee Champion fight.png|Fighting the Banshee Champion.
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by [[Ushabti]].
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Champions' Challenge Update and Hairstyles|date=9 November 2009}}
+** Added to game.
+}}
+
+{{Champions' Challenge}}
+{{Ghost}}
+[[Category:Unique monsters]]
+[[Category:Slayer monsters]]

@@ -1,0 +1,102 @@
+{{External|os|rsc}}
+{{Infobox Monster
+|name = Pit Scorpion
+|image = [[File:Pit Scorpion.png|150px]]
+|release = [[20 August]] [[2003]]
+|update = New - Legends Quest!
+|members = Yes
+|options = Attack
+|examine = Tiny, annoying, stinging thing.
+|level = 56
+|lifepoints = 3250
+|experience = 162.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 26.8
+|slayercat = Scorpions
+|assigned_by = Turael, Vannaka
+|max_melee = 800
+|max_ranged = 800
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 40
+|ranged = 40
+|magic = 1
+|necromancy = 1
+|acc_melee = 528
+|acc_ranged = 528
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 109
+|leagueRegion=Kandarin
+}}
+'''Pit scorpions''' are found in the dungeon of the [[Legends' Guild]]. Despite their name, they are not found in the [[Scorpion Pit]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ardougne Zoo]]
+|lvls=56
+|mem=yes
+|mapID=28
+|npcid:109,x:2601,y:3269|npcid:109,x:2604,y:3272|npcid:109,x:2605,y:3268
+|npcid:109,x:2606,y:3271|leagueRegion=Kandarin}}
+{{LocLine
+|loc=[[Legends' Guild Dungeon]]
+|lvls=56
+|mem=yes
+|mapID=0
+|npcid:109,x:2710,y:9753|npcid:109,x:2711,y:9746|npcid:109,x:2712,y:9741
+|npcid:109,x:2712,y:9749|npcid:109,x:2712,y:9754|npcid:109,x:2713,y:9742
+|npcid:109,x:2715,y:9749|npcid:109,x:2716,y:9744|npcid:109,x:2718,y:9751
+|npcid:109,x:2720,y:9742|npcid:109,x:2720,y:9759|npcid:109,x:2721,y:9746
+|npcid:109,x:2721,y:9754|npcid:109,x:2723,y:9738|npcid:109,x:2723,y:9744
+|npcid:109,x:2724,y:9749|npcid:109,x:2725,y:9758|npcid:109,x:2727,y:9741
+|npcid:109,x:2727,y:9747|npcid:109,x:2728,y:9744
+|leagueRegion=Kandarin
+}}
+{{LocTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[8 May]] [[2007]]|update=Small spiders, kalphites, scorpions and metal dragons|img=Pit Scorpion old.png|name=Pit Scorpion}}
+|{{GUL|date=[[22 July]] [[2014]]|update=Patch Notes (22 July 2014)|img=Pit Scorpion (July 2014).png|name=Pit Scorpion}}
+|{{GUL|date=[[3 June]] [[2024]]|update=Pride Events & Ultra+ Graphics - This Week In RuneScape|img=Pit Scorpion.png|name=Pit Scorpion}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Pride Events & Ultra+ Graphics - This Week In RuneScape|date=3 June 2024}}
+** Graphically updated all scorpions across Gielinor.
+
+* {{UL|type=patch|update=Patch Notes (18 March 2013)|date=18 March 2013}}
+** [[Grotworm]]s, [[moss giant]]s, [[banshee]]s, [[jungle spider]]s, [[shadow spider]]s, [[spider]]s, [[giant spider]]s, [[deadly red spider]]s, [[ice spider]]s, [[scorpion]]s, [[poison scorpion]]s and pit scorpion will no longer hit for 1 hit point worth of damage.
+
+* {{UL|type=update|update=New - Legends Quest!|date=23 August 2003}}
+** Added to game.
+}}
+
+{{Legends' Quest}}
+{{Scorpions}}

@@ -1,0 +1,295 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Zamorak
+|version2 = Armadyl
+|version3 = Saradomin
+|version4 = Bandos
+|version5 = The World Wakes
+|name = Spiritual ranger
+|image1 = [[File:Spiritual ranger (Zamorak).png|100px]]
+|image2 = [[File:Spiritual ranger (Armadyl).png|200px]]
+|image3 = [[File:Spiritual ranger (Saradomin).png|100px]]
+|image4 = [[File:Spiritual ranger (Bandos).png|140px]]
+|image5 = [[File:Spiritual ranger (Saradomin).png|100px]]
+|release1 = [[28 August]] [[2007]]
+|release2 = [[28 August]] [[2007]]
+|release3 = [[28 August]] [[2007]]
+|release4 = [[28 August]] [[2007]]
+|release5 = [[4 March]] [[2013]]
+|update1 = God Wars Dungeon
+|update2 = God Wars Dungeon
+|update3 = God Wars Dungeon
+|update4 = God Wars Dungeon
+|update5 = The World Wakes
+|members = Yes
+|options = Attack
+|examine1 = Defender of Zamorak.
+|examine2 = Armadyl's favourite servant.
+|examine3 = A ranger spirit dedicated to Saradomin.
+|examine4 = The spirit of a ranger, serving Bandos beyond death.
+|examine5 = A ranger spirit dedicated to Saradomin.
+|level = 98
+|level5 = 49
+|lifepoints = 7000
+|lifepoints5 = 1120
+|experience5 = 0.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 63
+|slaylvl5 = N/A
+|slayxp = 229.0
+|slayxp5 = N/A
+|slayercat1 = Spiritual rangers, Ghosts, Undead
+|slayercat2 = Spiritual rangers, Aviansies, Ghosts, Undead
+|slayercat3 = Spiritual rangers, Ghosts, Undead
+|slayercat4 = Spiritual rangers, Ghosts, Undead
+|slayercat5 = N/A
+|max_melee = 0
+|max_ranged1 = 280
+|max_ranged2 = 280
+|max_ranged3 = 350
+|max_ranged4 = 350
+|max_ranged5 = 280
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed1 = 4
+|speed2 = 4
+|speed3 = 5
+|speed4 = 5
+|speed5 = 5
+|attack = 1
+|ranged = 70
+|ranged5 = 35
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 1486
+|acc_ranged5 = 536
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1486
+|armour5 = 536
+|defence = 70
+|defence5 = 35
+|weakness1 = Slash
+|weakness2 = Bolts
+|weakness3 = Stab
+|weakness4 = Stab
+|weakness5 = Stab
+|susceptibility = Salve, Ghost hunter
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction5 = quest
+|dropversion1 = Zamorak
+|dropversion2 = Armadyl
+|dropversion3 = Saradomin
+|dropversion4 = Bandos
+|id1 = 6220
+|id2 = 6230
+|id3 = 6256
+|id4 = 6276
+|id5 = 16961
+|leagueRegion = Asgarnia
+}}
+[[File:Spiritual ranger icon.png|left]]
+A '''spiritual ranger''' is a ranger spirit that serves one of the four gods in the [[God Wars Dungeon]], requiring 63 [[Slayer]] in order to be harmed. Like [[spiritual warrior]]s and [[Spiritual mage|mages]], they died a long time ago; however their devotion to their god was so great that their spirit still lives on. While not classed as undead, they are affected by the buffs of the [[salve amulet]] and [[salve amulet (e)]]. They are normally not killed for their drops, but as a [[slayer assignment]]. 
+
+Armadylean spiritual rangers will also count towards completing an [[Aviansies (Slayer assignment)|aviansie slayer assignment]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[God Wars Dungeon]]
+|lvls=98
+|mem=yes
+|mapID=15
+|npcid:6220,x:2843,y:5266|npcid:6230,x:2845,y:5260|npcid:6230,x:2848,y:5274|npcid:6220,x:2848,y:5282|npcid:6276,x:2829,y:5328|npcid:6276,x:2835,y:5338|npcid:6276,x:2837,y:5344|npcid:6276,x:2838,y:5325|npcid:6276,x:2839,y:5319|npcid:6276,x:2843,y:5330|npcid:6276,x:2844,y:5348|npcid:6276,x:2845,y:5361|npcid:6276,x:2847,y:5340|npcid:6276,x:2849,y:5349|npcid:6276,x:2851,y:5351|npcid:6276,x:2853,y:5358|npcid:6276,x:2855,y:5353|npcid:6256,x:2881,y:5281|npcid:6256,x:2883,y:5285|npcid:6256,x:2884,y:5297|npcid:6256,x:2888,y:5295|npcid:6256,x:2888,y:5300|npcid:6256,x:2891,y:5287|npcid:6256,x:2891,y:5309|npcid:6256,x:2896,y:5297|npcid:6256,x:2896,y:5303|npcid:6256,x:2910,y:5299|npcid:6256,x:2918,y:5267|npcid:6256,x:2919,y:5289|npcid:6256,x:2921,y:5285|npcid:6256,x:2921,y:5298|npcid:6256,x:2927,y:5291|npcid:6256,x:2927,y:5293|npcid:6220,x:2937,y:5351
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Gold stone spirit|quantity=6|rarity=12/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=2|rarity=10/128}}
+{{DropsLine|name=Adamantite stone spirit|quantity=2|rarity=8/128}}
+{{DropsLine|name=Yew wood spirit|quantity=8|rarity=16/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=3500-4500|rarity=14/128}}
+{{DropsLine|name=Coins|quantity=5000-7000|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Bowstring|quantity=8 (noted)|rarity=16/128}}
+{{DropsLine|name=Yew logs|quantity=5 (noted)|rarity=8/128}}
+{{DropsLine|name=Uncut sapphire|quantity=1|rarity=8/128}}
+{{DropsLine|name=Uncut emerald|quantity=1|rarity=8/128}}
+{{DropsLine|name=Diamond bolt tips|quantity=12|rarity=6/128}}
+{{DropsLine|name=Adamant arrowheads|quantity=25|rarity=8/128}}
+{{DropsLine|name=Rune arrowheads|quantity=10|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+====All variants====
+{{DropsTableHead}}
+{{DropsLineGhostlyEssence|quantity=7-8, 14-16|rarity=1/256|altrarity=1/96|raritynotes={{DropNote|While on an appropriate [[Slayer assignment]], there is a 1/96 chance to drop 14–16 ghostly essence.}}}}
+{{DropsLineGhosts|ectorarity=500|herbrarity=1024}}
+{{DropsTableBottom}}
+
+====God variants====
+{{Switch infobox
+|text1 = Zamorak
+|item1 = {{DropsTableHead|version=Zamorak}}
+{{DropsLine|name=Frozen key piece (Zamorak)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Zamorak's Fortress]].}}|gemw=No}}
+{{DropsLine|name=Furniture plans: Zamorak rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Zamorak altar|quantity=1|rarity=Unknown}}
+{{DropsLineWarpriest|god=zamorak}}
+{{DropsTableBottom}}
+|text2 = Armadyl
+|item2 = {{DropsTableHead|version=Armadyl}}
+{{DropsLine|name=Frozen key piece (Armadyl)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Armadyl's Eyrie]].}}|gemw=No}}
+{{DropsLine|name=Furniture plans: Armadyl rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Armadyl altar|quantity=1|rarity=Unknown}}
+{{DropsLineWarpriest|god=armadyl}}
+{{DropsTableBottom}}
+|text3 = Saradomin
+|item3 = {{DropsTableHead|version=Saradomin}}
+{{DropsLine|name=Frozen key piece (Saradomin)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Saradomin's Encampment]].}}|gemw=No}}
+{{DropsLine|name=Furniture plans: Saradomin rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Saradomin altar|quantity=1|rarity=Unknown}}
+{{DropsLineWarpriest|god=saradomin}}
+{{DropsTableBottom}}
+|text4 = Bandos
+|item4 = 
+{{DropsTableHead|version=Bandos}}
+{{DropsLine|name=Frozen key piece (Bandos)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Bandos's Stronghold]].}}|gemw=No}}
+{{DropsLine|name=Furniture plans: Bandos rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Bandos altar|quantity=1|rarity=Unknown}}
+{{DropsLineWarpriest|god=bandos}}
+{{DropsTableBottom}}
+}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Zamorak
+|item1 = {{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Spiritual ranger (Zamorak) (2007).png|name=Spiritual ranger}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Spiritual ranger (Zamorak) (2008).png|name=Spiritual ranger}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Spiritual ranger (Zamorak).png|name=Spiritual ranger}}
+}}
+|text2 = Armadyl
+|item2 = {{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Spiritual ranger (Armadyl) (2007).png|name=Spiritual ranger}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Spiritual ranger (Armadyl) (2008).png|name=Spiritual ranger}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Spiritual ranger (Armadyl).png|name=Spiritual ranger}}
+}}
+|text3 = Saradomin
+|item3 = {{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Spiritual ranger (Saradomin) (2007).png|name=Spiritual ranger}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Spiritual ranger (Saradomin) (2008).png|name=Spiritual ranger}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Spiritual ranger (Saradomin).png|name=Spiritual ranger}}
+}}
+|text4 = Bandos
+|item4 = {{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Spiritual ranger (Bandos) (2007).png|name=Spiritual ranger}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Spiritual ranger (Bandos) (2008).png|name=Spiritual ranger}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Spiritual ranger (Bandos).png|name=Spiritual ranger}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Tuska Clean Up - This Week In RuneScape|date=18 August 2025}}
+** The [[Sacrifice]], [[Devotion]], and [[Transfigure]] abilities have been removed from the God Wars Dungeon I loot table, and are now obtained by completing the [[One Piercing Note]] quest.
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[maple logs]] drop with [[yew wood spirit]]s.
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes [[spiritual warrior]]s, rangers and [[spiritual mage|mages]].
+
+* {{UL|type=patch|update=Patch Notes (2 November 2015)|date=2 November 2015}}
+** The look of the spiritual rangers in the player's vision during [[Ritual of the Mahjarrat]] have been brought graphically up to date with their brethren in the [[God Wars Dungeon]].
+
+* {{UL|type=patch|update=Patch Notes (16 February 2015)|date=16 February 2015}}
+** [[Spiritual warrior]]s, [[spiritual mage|mages]] and rangers no longer count towards [[automaton]] slayer tasks.
+
+* {{UL|type=patch|update=Patch Notes (22 July 2014)|date=22 July 2014}}
+** Saradomin spiritual rangers in the [[God Wars Dungeon]] no longer have male voices.
+
+* {{UL|type=patch|update=Patch Notes (10 September 2013)|date=10 September 2013}}
+** A spiritual ranger no longer spawns in a rock.
+
+* {{UL|type=update|update=God Wars: Remastered|date=5 September 2012}}
+** Spiritual rangers have been graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (13 May 2010)|date=13 May 2010}}
+** Spiritual rangers now hold bows correctly.
+
+* {{UL|type=update|update=God Wars Dungeon|date=28 August 2007}}
+** Added to game.
+}}
+
+==See also==
+* [[Spiritual warrior]]
+* [[Spiritual mage]]
+
+==Trivia==
+* When spiritual rangers are fighting other creatures, they seem to punch them rather than draw their bows and shoot arrows. However, despite this lack of animation, the arrows themselves can still be seen.
+* Prior to the Evolution of Combat, spiritual rangers, alongside mages and warriors, were unique among each faction:
+** Armadyl's rangers were the strongest of the four, possessing the highest ranged stat.
+** Saradomin's rangers were the weakest of the four, possessing the least amount of health and defence.
+** Bandos' rangers had the highest defence and health.
+* Zamorakian spiritual rangers have the least amount of spawns in the whole dungeon - even less so than the [[ancient mage]]s, with only two ranger spawns; one in Zamorak's Fortress, and another in Armadyl's Eyrie. 
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{The World Wakes}}
+{{Ghost}}
+{{Aviansie}}
+{{God Wars Dungeon}}
+
+[[Category:Participants in the God Wars]]
+[[Category:Bandosians]]
+[[Category:Saradominists]]
+[[Category:Zamorakians]]
+[[Category:Armadyleans]]
+[[Category:Orks]]

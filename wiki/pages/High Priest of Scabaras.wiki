@@ -1,0 +1,137 @@
+{{external|os}}
+{{Otheruses|def=no|other high priests|high priest}}
+{{Multi Infobox
+|text1 = NPC
+|item1 = 
+{{Infobox NPC
+|version1 = Standard
+|version2 = Eclipse of the Heart
+|name = High Priest of Scabaras
+|image = [[File:High Priest of Scabaras.png|200px]]
+|release1 = [[2 January]] [[2008]]
+|release2 = [[28 July]] [[2025]]
+|update1 = Dealing with Scabaras
+|update2 = Eclipse of the Heart Launches Today - This Week In RuneScape
+|level1 = 179
+|level2 = N/A
+|members = Yes
+|options = Talk to, Examine
+|quest1 = [[Dealing with Scabaras]]
+|quest2 = [[Eclipse of the Heart]]
+|location1 = [[Scabaras Dungeon]]
+|location2 = [[Menaphos Imperial district]], [[Temple of Isolation]]
+|map1 = {{NPC map|npcname=High Priest of Scabaras|npcid=6788|mapID=559|plane=0|x=3368|y=9263}}
+|map2 = 
+|race = Scabarite
+|examine = He exudes something like holiness.
+|gender = Male
+|id1 = 6788
+|id2 = 32156
+}}
+|text2 = Combat
+|item2 = 
+{{Infobox Monster
+|version1 = Melee
+|version2 = Ranged
+|version3 = Magic
+|name = High Priest of Scabaras
+|image1 = [[File:High Priest of Scabaras (magic).png|240px]]
+|image2 = [[File:High Priest of Scabaras (ranged).png|200px]]
+|image3 = [[File:High Priest of Scabaras (magic).png|240px]]
+|release = [[2 January]] [[2008]]
+|update = Dealing with Scabaras
+|members = Yes
+|options = Attack, Examine
+|examine = He exudes something like holiness.
+|level = 92
+|lifepoints = 3300
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Scabarites
+|max_melee = 264
+|max_ranged = 264
+|max_magic = 264
+|max_necromancy = 0
+|style1 = Melee
+|style2 = Ranged
+|style3 = Magic
+|primarystyle1 = Melee
+|primarystyle2 = Ranged
+|primarystyle3 = Magic
+|speed1 = 4
+|speed2 = 6
+|speed3 = 4
+|attack = 66
+|ranged = 66
+|magic = 66
+|necromancy = 1
+|acc_melee = 1335
+|acc_ranged = 1335
+|acc_magic = 1335
+|acc_necromancy = 0
+|armour = 1335
+|defence = 66
+|weakness = Nothing
+|susceptibility = Keris
+|aff_weakness = 40
+|aff_melee1 = 20
+|aff_melee2 = 40
+|aff_melee3 = 10
+|aff_ranged1 = 10
+|aff_ranged2 = 20
+|aff_ranged3 = 40
+|aff_magic1 = 40
+|aff_magic2 = 10
+|aff_magic3 = 20
+|immune_to_poison = Yes
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|restriction = quest
+|id1 = 6789
+|id2 = 6790
+|id3 = 6791
+}}
+}}
+[[File:High Priest of Scabaras chathead.png|left|90px]]
+The '''High Priest of Scabaras''' is a [[Scabarites|Scabarite]] who is the head of the Worship of [[Scabaras]], the desert god of solitude. He lives in the [[Scabaras Dungeon|underground hive]] in the tunnels of [[Ullek]] along with the rest of the Scabarites, and is encountered at the very end of the [[Dealing with Scabaras]] quest. In the quest, the [[player]] attempts to stop the Scabarite attacks on [[Sophanem]] by neutralizing the threat of the Scabarites, but when they reach the Antechamber of the High Priest, he is revealed to be insane and under the impression that the only way to gain solitude is to kill all non-believers.
+
+The High Priest does not need to be fought in the quest. Instead, he must be talked back into sanity in order to subdued, and if the player mentions [[Amascut]], the Devourer, one of two things will happen. Either he will become angry and claim that the player is a heretic, or before attacking them, if the player is able to stop the attack, they can talk to him and try to get him to see reason again. Eventually he will see reason and his head will clear of the Devourer's spells, agreeing with the [[High Priest (Sophanem)|High Priest of Sophanem]] not to attack their city, though the Scabarites will still defend themselves if threatened. After being defeated, the High Priest of Scabaras gives the player more notes for their [[Scabarite notes|notebook]].
+
+During the [[Eclipse of the Heart]], the High Priest learned of his god's return and travelled to the [[Temple of Isolation]], apologising to him for falling under Amascut's influence and accepted whatever punishment was decreed. Instead, Scabaras ordered him to help the humans before apologising to those that they wronged before teleporting him away.
+
+==Strategy==
+* Do not attack the Priest; talk to him.
+* Demand to know what is going on.
+* Do not give him compliments or insult him.
+* If provoked to anger, he will attack. If that happens, either prepare to defend yourself with Protection [[Prayer]]s, or click away before the dialogue cycle is complete. Be prepared to use [[antipoison]].
+* Do not poison the High Priest! If he is poisoned he may randomly die in the conversation. Instead, simply defend against his attacks and, when he stops attacking, hit him once.
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+==Works==
+{{Worksby}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Eclipse of the Heart Launches Today - This Week In RuneScape|date=28 July 2025}}
+** Added variant for [[Eclipse of the Heart]].
+
+* {{UL|type=update|update=Dealing with Scabaras|date=2 January 2008}}
+** Added to game.
+}}
+
+==Trivia==
+* The High Priest breaks one of the most important rules of Scabarite culture: isolation. He makes contact with the player, by both speaking to and attacking them. This, however, is not completely sinful, as the player seeks him out in his isolation, and he was possessed by [[Amascut]].
+
+==See also==
+* [[Desert Pantheon]] - The gods worshipped by the many people of the [[Kharidian Desert]]
+
+{{Dealing with Scabaras}}
+{{Eclipse of the Heart}}
+{{High Priests}}
+[[Category:Quest monsters]]
+[[pt:Sumo Sacerdote de Scabaras]]

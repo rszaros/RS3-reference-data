@@ -1,0 +1,94 @@
+{{External|os=Skeleton (The Restless Ghost)|rsc=Skeleton (The restless ghost)}}
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{Infobox Monster
+|name = Skeleton warlock
+|image = [[File:Skeleton warlock.png|200px]]
+|release = [[15 December]] [[2009]]
+|update = Blood Runs Deep
+|members = No
+|options = Attack
+|examine = It rattles when it moves.
+|level = 7
+|lifepoints = 500
+|experience = 25.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 13.8
+|slayercat = Skeletons
+|assigned_by = Turael, Mazchna, Vannaka
+|max_melee = 15
+|max_ranged = 0
+|max_magic = 20
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 3
+|ranged = 0
+|magic = 5
+|necromancy = 1
+|acc_melee = 37
+|acc_ranged = 0
+|acc_magic = 150
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Arrows
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 459
+|leagueRegion=Misthalin}}
+[[File:Summoning skeletal warlock.gif|frame|left|A player summons a skeleton warlock.]]
+A '''skeleton warlock''' is an undead monster found during [[The Restless Ghost]]. Players must search some rocks for a skull in the [[Lumbridge Swamp]], south-east of the [[Lumbridge south-east mine]], which will cause the skeleton warlock to spawn. Players are not required to kill the warlock to complete the quest; after a while it will simply disappear.
+
+The warlock uses magic attacks and is weak to arrows (and other ranged weapons to a lesser extent), and so it is recommended that players equip magic-resistant [[Ranged armour#Leather armour|leather]] or better armour alongside a [[shortbow (bow type)|shortbow]] to quickly despatch the monster.
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Skeleton warlock (2004).png|name=Skeleton warlock}}
+|{{GUL|date=[[22 May]] [[2006]]|update=Royal Trouble|img=Skeleton warlock (2006).png|name=Skeleton warlock}}
+|{{GUL|date=|update=|img=Skeleton warlock old.png|name=Skeleton warlock}}
+|{{GUL|date=|update=|img=Skeleton warlock.png|name=Skeleton warlock}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (26 August 2014)|date=26 August 2014}}
+** The combat level for the Skeleton Warlock in The Restless Ghost quest overview has been updated.
+
+* {{UL|type=update|update=Blood Runs Deep|date=15 December 2009}}
+** Added to game.
+}}
+
+==Trivia==
+* The skeleton warlock can be attacked and killed by those not doing the quest.
+* Before The Restless Ghost quest update, players fought a regular skeleton in the [[Wizards' Tower]] in place of the skeleton warlock.
+* The animation is similar to old magic animation (from strike to blast).
+* It is possible to summon this monster an infinite number of times by repeatedly destroying the muddy skull and searching the rocks again.
+
+{{The Restless Ghost}}
+{{Skeleton}}
+[[Category:Quest monsters]]
+[[Category:Deceased characters]]
+[[pt:Esqueleto bruxo]]

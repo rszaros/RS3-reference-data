@@ -1,0 +1,305 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Melee (1)
+|version2 = Range (1)
+|version3 = Melee (2)
+|version4 = Range (2)
+|version5 = Melee (Dominion Tower)
+|version6 = Range (Dominion Tower)
+|name = Locust rider
+|image1 = [[File:Locust rider (melee).png|200px]]
+|image2 = [[File:Locust rider.png|200px]]
+|image3 = [[File:Locust rider (melee).png|200px]]
+|image4 = [[File:Locust rider.png|200px]]
+|image5 = [[File:Locust rider (melee).png|200px]]
+|image6 = [[File:Locust rider.png|200px]]
+|release = [[10 January]] [[2007]]
+|release5 = [[1 November]] [[2011]]
+|release6 = [[1 November]] [[2011]]
+|update = Contact!
+|update5 = Dominion Tower
+|update6 = Dominion Tower
+|members = Yes
+|options = Attack, Examine
+|examine1 = A mounted lancer.
+|examine2 = A mounted archer.
+|examine3 = A mounted lancer.
+|examine4 = A mounted archer.
+|examine5 = A mounted lancer.
+|examine6 = A mounted archer.
+|level = 75
+|lifepoints1 = 2700
+|lifepoints2 = 2700
+|lifepoints3 = 2700
+|lifepoints4 = 2700
+|lifepoints5 = 5400
+|lifepoints6 = 5400
+|aggressive1 = Yes
+|aggressive2 = Yes
+|aggressive3 = Yes
+|aggressive4 = Yes
+|aggressive5 = No
+|aggressive6 = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayxp5 = 0
+|slayxp6 = 0
+|slayercat = Scabarites
+|slayercat5 = No
+|slayercat6 = No
+|max_melee1 = 810
+|max_melee2 = 243
+|max_melee3 = 810
+|max_melee4 = 243
+|max_melee5 = 1215
+|max_melee6 = 364.5
+|max_ranged1 = 0
+|max_ranged2 = 324
+|max_ranged3 = 0
+|max_ranged4 = 324
+|max_ranged5 = 0
+|max_ranged6 = 486
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style1 = Melee
+|style2 = Ranged
+|style3 = Melee
+|style4 = Ranged
+|style5 = Melee
+|style6 = Ranged
+|primarystyle1 = Melee
+|primarystyle2 = Ranged
+|primarystyle3 = Melee
+|primarystyle4 = Ranged
+|primarystyle5 = Melee
+|primarystyle6 = Ranged
+|speed = 6
+|attack1 = 54
+|attack2 = 40
+|attack3 = 54
+|attack4 = 40
+|attack5 = 54
+|attack6 = 40
+|ranged1 = 0
+|ranged2 = 54
+|ranged3 = 0
+|ranged4 = 54
+|ranged5 = 0
+|ranged6 = 54
+|magic = 0
+|necromancy = 1
+|acc_melee = 955
+|acc_ranged1 = 0
+|acc_ranged2 = 955
+|acc_ranged3 = 0
+|acc_ranged4 = 955
+|acc_ranged5 = 0
+|acc_ranged6 = 955
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 955
+|defence = 54
+|weakness1 = Water
+|weakness2 = Crushing
+|weakness3 = Water
+|weakness4 = Crushing
+|weakness5 = Water
+|weakness6 = Crushing
+|susceptibility = Keris
+|aff_weakness = 90
+|aff_melee1 = 60
+|aff_melee2 = 70
+|aff_melee3 = 60
+|aff_melee4 = 70
+|aff_melee5 = 60
+|aff_melee6 = 70
+|aff_ranged1 = 50
+|aff_ranged2 = 60
+|aff_ranged3 = 50
+|aff_ranged4 = 60
+|aff_ranged5 = 50
+|aff_ranged6 = 60
+|aff_magic1 = 70
+|aff_magic2 = 50
+|aff_magic3 = 70
+|aff_magic4 = 50
+|aff_magic5 = 70
+|aff_magic6 = 50
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = No
+|restriction5 = minigame
+|restriction6 = minigame
+|id1 = 5251
+|id2 = 5252
+|id3 = 5255
+|id4 = 5256
+|id5 = 14611
+|id6 = 14612
+|leagueRegion = Desert
+}}
+'''Locust riders''' are encountered during the [[Contact!]] quest, inside the [[Sophanem Dungeon]] maze. The green versions attack using somewhat slow [[Ranged]] attacks. The brown versions however, are much more dangerous and attack with accurate [[melee]] attacks that can hit for over 700 damage. Remember that you need to bring a [[light source]] when you are in the dungeon.
+
+Locust riders are scattered mercifully thin throughout the dungeon. If a player takes the right path, it's doubtful they will even encounter one. Still, should a player encounter them, they should remember that they commonly hit over 300, so [[Prayer#Prayers|Protection Prayers]] and good food are of the utmost importance, especially if multiple riders are encountered.
+
+The [[Keris]] dagger special effect works against locust riders.
+
+Though not directly assigned, locust riders may be slain as part of a [[Scabarites (Slayer assignment)|Scabarite]] assignment. These monsters respawn at an extremely fast rate, so it may be ideal to stay in one spot.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Sophanem Dungeon]]
+|lvls=75
+|mem=yes
+|mapID=-1
+|npcid:5251,x:3270,y:9264|npcid:5251,x:3272,y:9246|npcid:5252,x:3273,y:9251
+|npcid:5252,x:3274,y:9223|npcid:5252,x:3274,y:9262|npcid:5251,x:3276,y:9235
+|npcid:5252,x:3280,y:9240|npcid:5252,x:3280,y:9251|npcid:5251,x:3283,y:9243
+|npcid:5252,x:3284,y:9247|npcid:5251,x:3284,y:9252|npcid:5251,x:3287,y:9268
+|npcid:5252,x:3290,y:9232|npcid:5252,x:3291,y:9262|npcid:5251,x:3294,y:9233
+|npcid:5252,x:3295,y:9251|npcid:5252,x:3296,y:9229|npcid:5251,x:3296,y:9261
+|npcid:5252,x:3299,y:9244|npcid:5251,x:3299,y:9254|npcid:5252,x:3302,y:9232
+|npcid:5251,x:3303,y:9266|npcid:5252,x:3304,y:9252|npcid:5251,x:3305,y:9234
+|npcid:5252,x:3306,y:9223|npcid:5252,x:3308,y:9262|npcid:5252,x:3310,y:9237
+|leagueRegion = Desert}}
+{{LocLine
+|loc=[[Sophanem Dungeon]] maze
+|lvls=75
+|mem=yes
+|mapID=718
+|npcid:5252,x:3292,y:9256|npcid:5252,x:3299,y:9220
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=1/{{#expr:1/(1/64 + 2/128)}}}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Fire rune|quantity=37|rarity=1/128}}
+{{DropsLine|name=Cosmic rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Blood rune|quantity=5|rarity=4/128}}
+{{DropsLine|name=Adamant arrow|quantity=16|rarity=6/128}}
+{{DropsLine|name=Rune arrow|quantity=7|rarity=2/128|namenotes=<ref group="d">Always dropped alongside [[adamant arrow]]s.</ref>}}
+{{DropsLine|name=Marrentill tar|quantity=6|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|19/128}}
+{{DropsTableHead}}
+{{HerbDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Lobster|quantity=1|rarity=1/128}}
+{{DropsLine|name=Bass|quantity=1|rarity=1/{{#expr:1/(2/128 * 2/3 + 4/128)}}}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny blunt rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=15|rarity=10/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=22|rarity=6/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=60|rarity=42/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=200|rarity=1/{{#expr:1/(2/128 * 1/3)}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Uncut sapphire|quantity=2|rarity=3/128}}
+{{DropsLine|name=Raw bass|quantity=1|rarity=4/128}}
+{{DropsLine|name=Desert goat horn|quantity=3|rarity=2/128}}
+{{DropsLine|name=Cactus seed|quantity=10|rarity=1/{{#expr:1/(2/128 * 2/3)}}|namenotes=<ref group="d">Always dropped alongside [[bass]].</ref>}}
+{{DropsLine|name=Waterskin (4)|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|14/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=75}}
+{{DropsLineMimic|level=75}}
+{{DropsTableBottom}}
+
+====Charms - Melee====
+{{CharmDropTable
+|version=Melee (1)
+|quantity = 1
+|gold = 101.357/1000
+|green = 50.678/1000
+|crimson = 354.749/1000
+|blue = 10.136/1000
+}}
+
+====Charms - Ranged====
+{{CharmDropTable
+|version=Range (1)
+|quantity = 1
+|gold = 82.103/1000
+|green = 41.052/1000
+|crimson = 287.361/1000
+|blue = 8.21/1000
+}}
+
+==Achievements==
+* {{Achievement|Ludikeris}}
+
+==Graphical updates==
+===Locust rider (Melee)===
+{{GU|subject=NPCs
+|{{GUL|date=|update=|img=Locust rider (melee) (2007).png|name=Locust rider}}
+|{{GUL|date=|update=|img=Locust lancer.png|name=Locust rider}}
+}}
+
+===Locust rider (Ranged)===
+{{GU|subject=NPCs
+|{{GUL|date=|update=|img=Locust rider (ranged) (2007).png|name=Locust rider}}
+|{{GUL|date=|update=|img=Locust rider.png|name=Locust rider}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** 'Weak' style: 65 → 70
+*** Same style: 55 → 60
+*** 'Strong' style: 45 → 50
+
+* {{UL|type=hidden|update=Beneath Scabaras' Sands Quest Launch - This Week In RuneScape|date=13 January 2025}}
+** The variants in Dominion Tower is now susceptible to keris.
+
+* {{UL|type=update|update=Contact!|date=10 January 2007}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Contact!}}
+
+[[Category:Bugs]]

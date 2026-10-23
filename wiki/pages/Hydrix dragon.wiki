@@ -1,0 +1,236 @@
+{{Otheruses|def=no|the Dragonkin Laboratory monster|Hydrix dragon (Dragonkin Laboratory)}}
+{{Incomplete|Spirit weed seeds (on task) & Inert adrenaline crystals added to Gemstone dragons drop tables in [[Update:July Quest Qol and Game Health Update - This Week In RuneScape|14 July 2025 update]]}}
+{{Infobox Monster
+|name = Hydrix dragon
+|image = [[File:Hydrix dragon.png|300px]]
+|release = [[3 April]] [[2017]]
+|update = Gemstone Dragons - Documentary Airs 9th April
+|members = Yes
+|options = Attack
+|size = 4
+|examine = A dragon decorated in hydrix gems.
+|level = 133
+|lifepoints = 60000
+|experience = 3000.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 101
+|slayxp = 4768.8
+|slayercat = Dragons, Gemstone dragons, Hydrix dragons
+|max_melee = 1745
+|max_ranged = 0
+|max_magic = 1745
+|max_necromancy = 0
+|max_spec = 3900
+|style = magic,melee,dragonfire
+|primarystyle = magic
+|speed = 5
+|attack = 95
+|ranged = 95
+|magic = 95
+|necromancy = 1
+|acc_melee = 2765
+|acc_ranged = 0
+|acc_magic = 2765
+|acc_necromancy = 0
+|armour = 2765
+|defence = 95
+|weakness = Arrows
+|susceptibility = dragon bane, dragon slayer
+|aff_weakness = 90
+|aff_melee = 25
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Karamja,Wilderness
+|id = 24172, 29348
+}}
+[[File:Hydrix dragon icon.png|left]]
+'''Hydrix dragons''' are high-level [[Slayer]] monsters requiring level 101 Slayer to kill. They are part of the [[Gemstone dragons|gemstone dragon]] group, and are the strongest dragon of this type.
+
+A total of six hydrix dragons are located in the [[gemstone cavern]] under the [[Shilo Village mine]]. They require the completion of the [[Karamja achievements#Hard achievements|hard Karamja achievements]] in order to access them in the gemstone cavern underneath. In order to pass the barrier to confront them, players are also required to sacrifice a number of [[uncut dragonstone]], [[uncut onyx]], or [[uncut hydrix]] gems—with each gem type allowing the player to kill a certain number of dragons within their respective chamber, up to a limit of storing 60,000 kills at a time.
+
+If the player is on a gemstone dragon Slayer task, charges are neither needed nor consumed. 
+
+{| class="wikitable"
+|+ Entrance fee to killing hydrix dragons
+|-
+! Uncut gem
+! Kills per gem
+! Cost per kill
+|-
+| {{Plink|Uncut dragonstone}}
+| 2
+| {{NoCoins|{{GEPrice|Uncut dragonstone|.5|round=0}}}}
+|-
+| {{Plink|Uncut onyx}}
+| 400
+| {{NoCoins|{{GEPrice|Uncut onyx|.0025|round=0}}}}
+|-
+| {{Plink|Incomplete hydrix}}
+| 4000
+| {{NoCoins|{{GEPrice|Incomplete hydrix|.00025|round=0}}}}
+|}
+
+Killing hydrix dragons at either location in the [[Wilderness]] does not require any kind of fee whatsoever. 
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Gemstone cavern]]
+|lvls=133
+|mem=yes
+|requirements = {{plink|Hard Karamja achievements|pic=Karamja - Hard achievement icon|size=25}}
+|mapID=-1
+|npcid:24172,x:3010,y:9019|npcid:24172,x:3022,y:9018|npcid:24172,x:3023,y:9008
+|npcid:24172,x:3010,y:9027|npcid:24172,x:3022,y:9028|npcid:24172,x:3023,y:9035
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc=[[Wilderness (level 47) Lava Maze mine]] 
+|lvls=133
+|mem=yes
+|npcid:24172,x:3012,y:3896|npcid:24172,x:3013,y:3883|npcid:24172,x:3025,y:3897
+|npcid:24172,x:3027,y:3875|npcid:24172,x:3039,y:3885|npcid:24172,x:3045,y:3897
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Deep Wilderness Dungeon]]
+|lvls=133
+|mem=yes
+|mapID=562
+|npcid:24172,x:3030,y:10342|npcid:24172,x:3027,y:10336|npcid:24172,x:3047,y:10338
+|npcid:24172,x:3051,y:10347
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+===Getting there===
+The [[gemstone cavern]] is located inside the gem mine in the northern-western part of [[Shilo Village (location)|Shilo Village]] on [[Karamja]]. To be able to enter the cave players must have completed the [[hard Karamja achievements]]. To access the mine players can teleport directly to the gem mine with the option in the [[Karamja gloves 3]] or [[Karamja gloves 4|4]]. 
+
+Hydrix dragons can also be found in the [[Wilderness]], near the [[Wilderness (level 47) Lava Maze mine|Lava Maze mine]] and in the [[Deep Wilderness Dungeon]].
+
+==Strategies==
+Hydrix dragons attack primarily with magic, although they will use both magic and melee if within melee range in addition to the regular dragon fire attack.
+
+Hydrix dragons have a special attack in which they send a row of spikes towards the area that the player is currently standing on. After a short delay, there is a three-by-three [[game square]] area where spikes appear, dealing magic damage and draining all adrenaline while also applying a debuff where adrenaline gained is reduced to half for 15 seconds. However, they will not use this special attack if the player remains within melee distance of them.
+
+Hydrix dragons have quite high [[Defence]], so players may wish to use a accuracy-boosting  [[nihil familiar]] to ensure that they have a good accuracy against these dragons.
+
+[[Devotion]] in conjunction with [[Protect from Magic|Protect]] or [[Deflect Magic]] does block all damage done by the special attack, but it does not block the adrenaline loss nor does it prevent the debuff from occurring. While one may also use [[Resonance]] to heal from the attack, due to the debuff still occurring and its crippling nature, one should dodge it instead.
+
+It is possible to kill hydrix dragons with an [[aggression potion]] active and while not paying attention to the possible special attacks rather safely by placing a hydrix dragon soul in their own [[Sunken Pyramid#Slayer Dungeon|Slayer dungeon]] and standing on top of the dragon's spawn point. This makes it likely that the dragon targets the player before it gets out of melee distance, and thus prevents it from using its special attacks. Players can also use the [[Deep Wilderness Dungeon]] as there are two spawns and [[cannons]] can be placed, allowing players to get upwards of 1,000,000 [[experience]] per hour in [[Slayer]] there.
+
+Hydrix dragons are also a good monster to use [[scrimshaw of sacrifice]] on, due to its sizeable combat and slayer experience and a low-value drop table.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Hardened dragon bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Unique===
+{{DropsTableHead}}
+{{DropsLine|name=Gemstone hauberk|quantity=1|rarity=1/2500|altrarity=1/1000|raritynotes={{DropNote|name=gemstone|1/1,000 chance during a [[Slayer assignment]]; 1/2,500 chance otherwise. This drop rate is per kill and not per loot pile.}}|citations={{CiteTwitter|author=Mod Ramen|url=https://twitter.com/JagexRamen/status/1506223812626554887|quote=<br>Gemstone dragons death:<br><br>Rare chance off task=2500<br>
+Rare chance on task=1000<br><br>Dragonstone dragons drop: Boots or Gloves (50/50)<br>Onyx dragons drop: Legs or Helm (50/50)<br>Hydrix dragons drop: Body only|date=22 March 2022|archiveurl=https://reldo.runescape.wiki/i/97841|archivedate=22 March 2022}}|rolls=1}}
+{{DropsTableBottom}}
+
+===Jewellery===
+{{DropsTableHead}}
+{{DropsLine|name=Diamond ring|quantity=1 (noted)|rarity=14/128|raritynotes={{DropNote|name=ontask|Only when on an appropriate [[Slayer assignment]].}}|rolls=2}}
+{{DropsLine|name=Ring of Wealth|quantity=1 (noted)|rarity=12/128|altrarity=10/128|raritynotes={{DropNote|10/128 when on an appropriate [[Slayer assignment]]; 12/128 otherwise.}}|rolls=2}}
+{{DropsLine|name=Dragonstone bracelet|quantity=1 (noted)|rarity=12/128|raritynotes={{DropNote|name=offtask|Only when not on an appropriate [[Slayer assignment]].}}|rolls=2}}
+{{DropsTableBottom}}
+
+===Gems===
+{{DropsTableHead}}
+{{DropsLine|name=Diamond|quantity=2 (noted)|rarity=12/128|rolls=2}}
+{{DropsLine|name=Dragonstone|quantity=1 (noted)|rarity=8/128|rolls=2}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2500, 3000|quantitynotes={{DropNote|name=qty|The first quantity applies when on an appropriate [[Slayer assignment]], while the second quantity applies outside an appropriate assignment.}}|rarity=16/128|rolls=2}}
+{{DropsLine|name=Coins|quantity=4500, 6000|quantitynotes={{DropNote|name=qty}}|rarity=10/128|rolls=2}}
+{{DropsLine|name=Coins|quantity=10000, 14000|quantitynotes={{DropNote|name=qty}}|rarity=4/128|rolls=2}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+
+
+{{DropsLine|name=Tiny spiky rune salvage|quantity=1|rarity=10/128|rolls=2}}
+{{DropsLine|name=Diamond bolt tips|quantity=25-35, 35-45|quantitynotes={{DropNote|name=qty}}|rarity=12/128|rolls=2}}
+{{DropsLine|name=Onyx bolt tips|quantity=1|rarity=8/128|rolls=2}}
+{{DropsLine|name=Gold stone spirit|quantity=25-35, 35-45|quantitynotes={{DropNote|name=qty}}|rarity=14/128|rolls=2}}
+{{DropsLine|name=Rune bolts|quantity=6, 8|rarity=10/128|raritynotes={{DropNote|name=qty}}|rolls=2}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/100}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|slayer_level=101}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Spirit weed seed|quantity=2|rarity=1/16|raritynotes={{DropNote|Must be on a [[Slayer assignment]].|name=assignment}}}}
+{{DropsLine|name=Inert adrenaline crystal|quantity=2|rarity=1/16|raritynotes={{DropNote|name=assignment}}}}
+{{DropsLine|name=Onyx|quantity=1|rarity=1/4000}}
+{{DropsLine|name=Draconic visage|quantity=1|rarity=1/10000|citations={{CiteForum|author=Mod Timbo|url=https://secure.runescape.com/m=forum/sl=0/forums?74,75,52,65949497,goto,21#205|title=Dev Blog: Revealing Drop Rates|forum=Existing Game Content|quote=All draconic visage chances are 1/10,000 except for Celestial, Adamant, Rune Dragons, Abomination boss, Arhat and Anagami.|postdate=17 November 2017|archiveurl=https://reldo.runescape.wiki/i/19727921|archivedate=16 April 2022}}}}
+{{DropsLineEffigy|level=133}}
+{{DropsLineMimic|level=133}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.579/1000
+|green = 268.737/1000
+|crimson = 67.184/1000
+|blue = 13.437/1000
+}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=133}}
+
+==Achievement==
+*{{Achievement|Jungle Predator}}
+**[[Gemstone hauberk]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Base hit chances increased:
+*** Ranged: 65 → 70
+*** Magic: 55 → 60
+
+* {{UL|type=update|update=July Quest Qol and Game Health Update - This Week In RuneScape|date=14 July 2025}}
+** Added new sources for Spirit Weed Seeds, Inert Adrenaline Crystals and Sirenic Scales across various Slayer monsters:
+*** Spirit Weed seeds - Automatons, Strykewyrms, Turoths, Gemstone Dragons (on task), Brutish Dinosaurs, Grotworms, Moss Giants, Flesh Crawlers, Cockatrices, Kurask and Rare Seed Drop Table.
+*** Inert Adrenaline Crystals - Gemstone Dragons, Brutish Dinosaurs, Liverworts and Wilderness Slayer Chest.
+
+* {{UL|type=patch|update=Patch Notes (20 November 2017)|date=20 November 2017}}
+** Players who have not read some post-quest dialogue after [[Shilo Village]] can now attack Hydrix dragons in the [[Sunken Pyramid]].
+
+* {{UL|type=update|update=Gemstone Dragons - Documentary Airs 9th April|date=3 April 2017}}
+** Added to game.
+}}
+
+==Trivia== 
+* It was the first monster to have a static Slayer level requirement above 99.
+* Upon release, the highest possible Slayer level was still 99, thus meaning one would've needed to utilise boosts to be allowed to kill them no matter what level they were. [[Wilder pie]]s were released alongside the gemstone dragon update to ensure players could get consistent kills without having to reboost.
+* The experience rates were buffed a few months after release due to player complaints.
+
+==References==
+{{Reflist}}
+
+{{Gemstone dragons}}
+{{Dragon}}
+{{Slayer monsters}}

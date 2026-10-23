@@ -1,0 +1,217 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = 16
+|version2 = 19
+|version3 = 22
+|version4 = 28
+|name = Revenant goblin
+|image1 = [[File:Revenant goblin.png]]
+|image2 = [[File:Revenant goblin (2).png]]
+|image3 = [[File:Revenant goblin (3).png]]
+|image4 = [[File:Revenant goblin (4).png]]
+|release = [[10 December]] [[2007]]
+|update = Wilderness Changes, Bounty Hunter and Clan Wars!
+|members = No
+|actions = Attack
+|examine = The ghost of a goblin slain during the god wars.
+|level1 = 16
+|level2 = 19
+|level3 = 22
+|level4 = 28
+|lifepoints1 = 1800
+|lifepoints2 = 2100
+|lifepoints3 = 2400
+|lifepoints4 = 3000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 27.8
+|slayxp2 = 28.4
+|slayxp3 = 29.6
+|slayxp4 = 34.6
+|slayercat = Revenants, Ghosts, Undead
+|max_melee1 = 270
+|max_melee2 = 315
+|max_melee3 = 360
+|max_melee4 = 450
+|max_ranged1 = 270
+|max_ranged2 = 315
+|max_ranged3 = 360
+|max_ranged4 = 450
+|max_magic1 = 270
+|max_magic2 = 315
+|max_magic3 = 360
+|max_magic4 = 450
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack1 = 12
+|attack2 = 14
+|attack3 = 16
+|attack4 = 20
+|ranged1 = 12
+|ranged2 = 14
+|ranged3 = 16
+|ranged4 = 20
+|magic1 = 12
+|magic2 = 14
+|magic3 = 16
+|magic4 = 20
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|max_spec = N/A
+|acc_melee1 = 223
+|acc_melee2 = 245
+|acc_melee3 = 268
+|acc_melee4 = 316
+|acc_ranged1 = 223
+|acc_ranged2 = 245
+|acc_ranged3 = 268
+|acc_ranged4 = 316
+|acc_magic1 = 223
+|acc_magic2 = 245
+|acc_magic3 = 268
+|acc_magic4 = 316
+|armour1 = 223
+|armour2 = 245
+|armour3 = 268
+|armour4 = 316
+|defence1 = 12
+|defence2 = 14
+|defence3 = 16
+|defence4 = 20
+|weakness = Nothing
+|susceptibility = undead slayer, ghost hunter, revenant bane, salve
+|aff_weakness = 40
+|aff_melee = 40
+|aff_ranged = 40
+|aff_magic = 40
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 13466
+|id2 = 13467
+|id3 = 13468
+|id4 = 13469
+|leagueRegion = Wilderness
+}}
+'''Revenant goblins''' are a type of monster that inhabit the [[Forinthry Dungeon]] along with all other [[revenants]]. The Forinthry Dungeon is a part of the [[Wilderness]] so it is possible to be attacked by other players here if opted into [[PvP]].
+
+Like all revenants, they can restore life points quickly, can cure themselves of [[poison]] and react quickly to a player's [[protection prayer]]s. When below 50% health, revenant goblins will "eat" to heal 1/6th their maximum life points from their limited supply of food. For a full description of the healing mechanic see the [[Revenants#Overview|revenants]] page.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Forinthry Dungeon]]
+|lvls=16-28
+|mem=no
+|mapID=6
+|npcid:13469,x:3095,y:10153
+|npcid:13466,x:3095,y:10166
+|npcid:13467,x:3114,y:10141
+|npcid:13468,x:3122,y:10144
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+All four variants of the revenant goblin have the same drops, but as revenant drop chances depend on the combat level of the revenant, the chances change between the variants.
+
+Revenant drops are not affected by [[luck]]. There are only two ways to increase the drop rate of revenant items: completion of the [[elite Wilderness achievements]] which gives a 5% increased chance for revenant drops, and [[revenant drop enhancer]]s, which give a 10% increased chance. Both boosts can be in effect at the same time.
+
+===Level 16 variant===
+{{Revenant main drops|name=level 16 revenant goblin|level=16|Version=16}}
+
+====Tertiary====
+{{DropsTableHead|version=16}}
+{{Revenant tertiary drops|level=16}}
+{{DropsLineGhosts|ectorarity=750|herbrarity=1024}}
+{{DropsTableBottom}}
+
+====Wilderness shared drops====
+{{Wilderness shared loot table|level=16|version=16}}
+
+===Level 19 variant===
+{{Revenant main drops|name=level 19 revenant goblin|level=19|Version=19}}
+
+====Tertiary====
+{{DropsTableHead|version=19}}
+{{Revenant tertiary drops|level=19}}
+{{DropsLineGhosts|ectorarity=750|herbrarity=1024}}
+{{DropsTableBottom}}
+
+====Wilderness shared drops====
+{{Wilderness shared loot table|level=19|version=19}}
+
+===Level 22 variant===
+{{Revenant main drops|name=level 22 revenant goblin|level=22|Version=22}}
+
+====Tertiary====
+{{DropsTableHead|version=22}}
+{{Revenant tertiary drops|level=22}}
+{{DropsLineGhosts|ectorarity=750|herbrarity=1024}}
+{{DropsTableBottom}}
+
+====Wilderness shared drops====
+{{Wilderness shared loot table|level=22|version=22}}
+
+===Level 28 variant===
+{{Revenant main drops|name=level 28 revenant goblin|level=28|Version=28}}
+
+====Tertiary====
+{{DropsTableHead|version=28}}
+{{Revenant tertiary drops|level=28}}
+{{DropsLineGhosts|ectorarity=750|herbrarity=1024}}
+{{DropsTableBottom}}
+
+====Wilderness shared drops====
+{{Wilderness shared loot table|level=28|version=28}}
+
+==Graphical updates==
+{{Needs historical image|the 10 December 2007 npc model}}
+{{GU|subject=npc
+<!-- |{{GUL|date=[[10 December]] [[2007]]|update=Wilderness Changes, Bounty Hunter and Clan Wars!|img=Revenant goblin (2007).png|name=Revenant goblin}} --> <!--OSRS wiki cannot be used -->
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Revenant goblin (2008).png|name=Revenant goblin}}
+|{{GUL|date=[[17 October]] [[2012]]|update=What's Mine is Yours|img=Revenant goblin.png|name=Revenant goblin}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (4 January 2011)|date=4 January 2011}}
+** Fixed animations with the Revenant goblin.
+
+* {{UL|type=patch|update=Patch Notes (14 December 2010)|date=14 December 2010}}
+** Revenant goblin heads no longer move strangely.
+
+* {{UL|type=patch|update=Patch Notes (25 August 2010)|date=25 August 2010}}
+** Fixed the head models used by the Revenant goblins.
+
+* {{UL|type=update|update=Wilderness Changes, Bounty Hunter and Clan Wars!|date=10 December 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* Revenant goblins used to have two different looks, with the variables being that they either had or hadn't had a helm and/or mohawk. After an update, Revenant goblins were updated and have a much more similar resemblance to their [[God Wars]] counterparts.
+* Revenant goblins are the third updated Revenant. The first was the [[Revenant dragon]], and the second was the [[Revenant hobgoblin]].
+* While in the Forinthry Dungeon, Revenant goblins had the second slowest respawn rate out of all of the revenants, only the Revenant vampyre having the slowest spawn rate. This was changed in an hidden update, which slightly increased their respawn rate.
+
+==References==
+{{Reflist}}
+
+==See also==
+* [[Goblin]]
+
+{{Revenants}}
+{{Ghost}}
+{{Goblins}}
+[[Category:Participants in the God Wars]]
+[[Category:Bandosians]]

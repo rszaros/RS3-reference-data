@@ -1,0 +1,267 @@
+{{External|os|dw=Green Dragon}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|name = Green dragon
+|image1 = [[File:Green dragon 1.png|170px]]
+|image2 = [[File:Green dragon 2.png|170px]]
+|image3 = [[File:Green dragon 3.png|170px]]
+|image4 = [[File:Green dragon 4.png|170px]]
+|image5 = [[File:Green dragon 5.png|170px]]
+|release = [[22 March]] [[2004]]
+|update = RS2 Tweaks and Fixes
+|members = No
+|options = Attack
+|size = 4
+|examine = Must be related to [[Elvarg]].
+|level = 63
+|lifepoints = 4,500
+|experience = 225
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 68.6
+|slayercat = Dragons, green dragons
+|max_melee = 297
+|max_ranged = 0
+|max_magic = 297
+|max_spec = n/a
+|style = Melee, Magic, Dragonfire
+|primarystyle = magic
+|speed = 6
+|attack = 45
+|ranged = 1
+|magic = 45
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 732
+|acc_ranged = 0
+|acc_magic = 732
+|armour = 732
+|defence = 45
+|weakness = Bolts
+|susceptibility = dragon bane, dragon slayer
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Wilderness
+|id1 = 941
+|id2 = 4680
+|id3 = 4680
+|id4 = 4680
+|id5 = 4680
+}}
+[[File:Green dragon icon.png|left]]
+'''Green dragons''' are the weakest of the four adult [[Dragon (monster)#Chromatic Dragons|chromatic dragons]] and the weakest adult dragon that can breathe fire in ''[[RuneScape]]'', with a [[combat level]] of 63. They mainly attack with [[magic]] and long-ranged [[dragonfire]]. If the player is in [[melee]] distance, they can also use melee. As with all adult dragons, [[Dragonfire#Protection|protection against dragonfire]] is advisable; otherwise, it can deal extremely high damage (1800-3000). They can be found in various locations throughout the [[Wilderness]] as well as the [[Chaos Tunnels]]. The minimum money made upon one kill is {{NoCoins|{{GEP|Green dragonhide}}+{{GEP|Dragon bones}}|c}}.
+
+With the exception of the [[Chaos Tunnels]], they are only found in the [[Wilderness]]. Players should ensure they have not activated [[opt-in PVP]].
+
+Killing Green dragons for their bones and hides is an old and renowned method of money making. A combined inventory of [[dragon bones]] and [[green dragonhide]]s is worth approximately {{formatnum:{{#expr:{{GEP|Dragon bones|n}} * 14 + {{GEP|Green dragonhide|n}} * 14 round -3}}}} coins. The bones and dragonhides are commonly utilised by players training [[Prayer]] and [[Crafting]] respectively. 
+
+If assigned as a [[Slayer task]], [[brutal green dragon]]s may take their place. This requires the completion of the [[Barbarian Firemaking]] training.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=West of the [[Dark Warriors' Fortress]] (level 15 [[Wilderness]]) 
+|lvls=63
+|mem=no
+|mapID=28
+|npcid:4679,x:2973,y:3620|npcid:4680,x:2977,y:3611|npcid:941,x:2982,y:3618
+|leagueRegion=Wilderness
+}}
+{{LocLine
+|loc=East of the [[Boneyard]] (level 24 Wilderness)
+|lvls=63
+|mem=no
+|mapID=28
+|npcid:4680,x:3331,y:3672|npcid:4679,x:3332,y:3693|npcid:4677,x:3333,y:3685
+|npcid:4678,x:3333,y:3699|npcid:4677,x:3337,y:3701|npcid:941,x:3338,y:3676
+|npcid:4679,x:3339,y:3683|npcid:941,x:3339,y:3694|npcid:941,x:3346,y:3707
+|npcid:4680,x:3347,y:3694|npcid:4678,x:3348,y:3685
+|leagueRegion=Wilderness
+}}
+{{LocLine
+|loc=[[Forinthry Dungeon]] (level 18 Wilderness)
+|lvls=63
+|mem=no
+|mapID=6
+|npcid:4677,x:3105,y:10063|npcid:4678,x:3108,y:10074|npcid:4679,x:3116,y:10066
+|npcid:4680,x:3118,y:10076|npcid:941,x:3119,y:10084
+|leagueRegion=Wilderness
+}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=63
+|mem=yes
+|mapID=23
+|npcid:4678,x:3303,y:5452|npcid:941,x:3305,y:5461|npcid:4677,x:3314,y:5446
+|npcid:941,x:3316,y:5455|npcid:4679,x:3296,y:5560|npcid:4680,x:3298,y:5543
+|npcid:941,x:3314,y:5558
+|leagueRegion=Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Dragon bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Green dragonhide|quantity=1|rarity=Always}}
+{{DropsLine|name=Perfect green dragon scale|members=Yes|quantity=1|rarity=Always|raritynotes={{DropNote|Guaranteed drop until obtained while on a [[Slayer/Challenges|Slayer challenge]] from [[Vannaka]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+=== Charms ===
+{{CharmDropTable
+|members = yes
+|quantity = 1
+|gold = 66.218/1000
+|green = 165.545/1000
+|crimson = 66.218/1000
+|blue = 13.244/1000
+}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Fire rune|quantity=37|rarity=1/128}}
+{{DropsLine|name=Law rune|quantity=3|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|15/128}}
+{{DropsTableHead}}
+{{HerbDropTable|15/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated steel salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Medium bladed steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny bladed mithril salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny spiky mithril salvage|members=Yes|quantity=1|rarity=2/128|raritynotes={{DropNote|This drop is replaced by 11 coins in free-to-play worlds.}}}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny spiky rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=11|rarity=5/128|altrarity=7/128|raritynotes={{DropNote|5/128 in members' worlds; 7/128 in free-to-play worlds.}}|gemw=No}}
+{{DropsLine|name=Coins|quantity=44|rarity=29/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=132|rarity=25/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=200|rarity=18/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=440|rarity=1/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=750|rarity=5/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Bass|members=Yes|quantity=1|rarity=3/128|raritynotes={{DropNote|This drop is replaced by two lobsters in free-to-play worlds.}}}}
+{{DropsLine|name=Lobster|quantity=2|rarity=3/128|raritynotes={{DropNote|Only in free-to-play worlds.}}}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Green dragon tail-bone|members=Yes|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=no}}
+{{DropsLine|name=Sealed clue scroll (hard)|members=Yes|quantity=1|rarity=1/128}}
+{{DropsLine|name=Green dragon egg|members=Yes|quantity=1|rarity=1/200|raritynotes={{DropNote|Requires level 99 [[Summoning]] and not having the [[Baby dragon (pet)#Green|Baby Dragon (Green)]] pet already unlocked.}}|gemw=No}}
+{{DropsLine|name=Green dragon egg (unchecked)|members=Yes|quantity=1|rarity=1/2000|altrarity=1/1600|raritynotes={{DropNote|Only after completing the [[player-owned farm tutorial]]. 1/1,600 with the [[Farming reputation#Ranks and rewards|Apprentice Farmer]] rank unlocked.}}}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineEffigy|level=63|members=yes}}
+{{DropsLineMimic|level=63|members=yes}}
+{{DropsTableBottom}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=63}}
+
+==Money making guide==
+{{Mmgsection|Killing green dragons}}
+
+==Gallery==
+<gallery mode="packed">
+Green dragon illustration.jpg|Return of the Wilderness.
+Baby dragon (green) pet.png|Baby green dragon pet.
+Wilderness green dragon crater.png|A crater with green dragons in the western Wilderness.
+Green dragons.png|The Wilderness is where most Green dragons are found.
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Green dragon (2004).png|name=Green dragon}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Green dragon (August 2006) (1).png|name=Green dragon (1)}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Green dragon (August 2006) (2).png|name=Green dragon (2)}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Green dragon (August 2006) (3).png|name=Green dragon (3)}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Green dragon (August 2006) (4).png|name=Green dragon (4)}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Green dragon (August 2006) (5).png|name=Green dragon (5)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Green dragon old 5.png|name=Green dragon (5)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Green dragon 1.png|name=Green dragon (1)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Green dragon 2.png|name=Green dragon (2)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Green dragon 3.png|name=Green dragon (3)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Green dragon 4.png|name=Green dragon (4)}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Green dragon 5.png|name=Green dragon (5)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=ninja|update=Wilderness Ninja Strike! - This Week In RuneScape|date=13 March 2023}}
+** Green dragons removed from south-east of the [[Lava Maze]].
+
+* {{UL|type=hotfix|update=Patch Notes (16 October 2017)|date=9 October 2017}}
+** Green dragons now drop two lobsters on free worlds. Like Blue dragons, they no longer drop the bass.
+
+* {{UL|type=ninja|update=Patch Notes (9 October 2017)|date=9 October 2017}}
+** Green dragons are now available for free players.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for Green Dragons.
+
+* {{UL|type=patch|update=Patch Notes (18 August 2014)|date=18 August 2014}}
+** Tweaked Green Dragons to make sure they behave correctly in single way Wilderness.
+
+* {{UL|type=update|update=Love Story|date=5 July 2010}}
+** Graphical overhaul to chromatics, including baby variants.
+
+* {{UL|type=patch|update=Patch Notes (9 September 2009)|date=9 September 2009}}
+** Improved various dragons’ fire-breath code behaviour to match the KBD's existing behaviour. The actual animation has not changed.
+
+* {{UL|type=update|update=Demons, Dragons and Giants|date=29 August 2006}}
+** Graphically updated.
+
+* {{UL|type=update|update=RS2 Tweaks and Fixes|date=22 March 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* There is a wallpaper called Return of the Wilderness that was available from 26 January 2011 that has the Green dragon featured on the right hand side of it.
+* In the [[2011 Halloween event]], the player had to choose a green dragon to represent [[Death (NPC)|Death]] in statue form.
+* Green dragons are the only chromatic dragons to not have an attackable baby counterpart; baby green dragons are available as a level 99 [[Baby dragon (pet)#Green|Summoning pet]] and as a [[Baby green dragon|farm animal on the player-owned farm]].
+** Furthermore, none of the locations that have green dragons have any dragon eggs lying around.
+* There is a rare breed of green dragons which are quite small. The only known one is [[Eski]]. 
+* Prior to [[9 October]] [[2017]], the Wilderness green dragons only spawned on members worlds. 
+* The green dragon in [[Wilderness]] replied to a player [[Transcript:The vampyres explain themselves#letter 5|a letter]] in [[Postbag from the Hedge|Postbag]] of the questions about dragons.
+
+{{Dragon (race)}}
+[[pt:Dragão verde]]

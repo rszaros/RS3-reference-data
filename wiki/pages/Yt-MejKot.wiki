@@ -1,0 +1,104 @@
+{{External|os}}
+{{Otheruses|the Fight Cave monster|the Fight Kiln monster|TokHaar-Yt-MejKot}}
+{{Otheruses|def=no|the TzekHaar version|TzekHaar-Yt-MejKot}}
+{{Infobox Monster
+|version1 = Fight Caves
+|version2 = The Elder Kiln
+|version3 = The Brink of Extinction
+|name = Yt-MejKot
+|image = [[File:Yt-MejKot.png|251px]]
+|release1 = [[4 October]] [[2005]]
+|release2 = [[14 February]] [[2012]]
+|release3 = [[4 December]] [[2012]]
+|update1 = TzHaar Fight Caves
+|update2 = TzHaar Quest, Minigame and Graphical Rework
+|update3 = The Brink of Extinction - Grandmaster Quest
+|members = Yes
+|options = Attack
+|size = 4
+|race = Volcanic creature
+|examine = Made from fire and rock. The Yt-MejKot is a fearsome foe, its claws are pure obsidian.
+|level1 = 180
+|level2 = 107
+|level3 = 105
+|lifepoints1 = 10000
+|lifepoints2 = 13800
+|lifepoints3 = 13800
+|experience1 = 500.0
+|experience2 = 690.0
+|experience3 = 690.0
+|aggressive = Yes
+|poisonous1 = No
+|slaylvl1 = 1
+|slayxp1 = 280
+|slayxp3 = 
+|slayercat = Volcanic creatures
+|assigned_by = Kuradal
+|max_melee1 = 1152
+|max_melee2 = 1380
+|max_melee3 = 1380
+|max_ranged = 0
+|max_magic = 0
+|style = melee
+|speed = 4
+|attack1 = 70
+|attack2 = 75
+|attack3 = 75
+|ranged = 1
+|magic = 1
+|acc_melee1 = 1486
+|acc_melee2 = 1694
+|acc_melee3 = 1694
+|acc_ranged = 0
+|acc_magic = 0
+|armour1 = 1264
+|armour2 = 1486
+|armour3 = 1486
+|defence1 = 64
+|defence2 = 75
+|defence3 = 75
+|weakness1 = Water
+|weakness2 = Water
+|weakness3 = 11???
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|restriction1 = minigame
+|restriction2 = quest
+|restriction3 = quest
+|id1 = 2741
+|id2 = 16270
+|id3 = 16270
+|leagueRegion=Karamja, Tirannwn}}
+The '''Yt-MejKot''' (pronounced ''yit-mej-kot'') is a monster found only in the [[TzHaar Fight Cave]], in the [[The Elder Kiln]] quest, and in the Bronze [[Rush of Blood]] minigame. It appears first in Wave 15 of the Fight Cave. It resembles a very tall, bulky reptilian creature, armoured in obsidian plates. It only has one form of attack, a slashing melee attack. However, Yt-MejKot also has the ability to heal both its own life points and those of any other monsters around it once the target drops below half health. For this reason, it is ideal to try and kill them over enemies with reasonably high health such as the Ket-Zek if they are in the same wave. Yt-Mej-Kot is roughly translatable to Cold Mage Protector.
+These are large monsters, and are easily blocked by other monsters or the rocks in the cave. Yt-MejKots can rapidly heal themselves whilst in melee range, restoring 1500-3000 life points once roughly every 5 seconds, so it is highly recommended to attack them from a distance with [[ranged]] or [[magic]] to save time and resources. They can be used to heal on if Guthan's is brought, due to the fact they recover their life points using their ability.
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[4 October]] [[2005]]|update=TzHaar Fight Caves|img=Yt-MejKot (2005).png|name=Yt-MejKot}}
+|{{GUL|date=[[4 October]] [[2005]]|update=TzHaar Fight Caves|img=Yt-MejKot (2) (2005).png|name=Yt-MejKot}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=Yt-MejKot (2008).png|name=Yt-MejKot}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=Yt-MejKot.png|name=Yt-MejKot}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Patch Notes (28 November 2012)|date=28 November 2012}}
+** Yt-Mejkot will now heal properly.
+
+* {{UL|type=update|update=TzHaar Fight Caves|date=4 October 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Yt-MejKot, in the [[Tzhaar language]], could be translated as "Cold-Mage-Protect" or "Dead-Priest-Save". "Yt" in TzHaar is cold, freeze, or dead. Yt-MejKot looks like a lizard, and lizards are cold blooded. "Mej" means priest or mage. In this case, it's probably a priest as the old examine text is "Holy Reptile..." and the old model appears to be wearing robes. "Kot" means save or protect. Yt-MejKot heal themselves and other nearby Fight Caves creatures, so they are protecting and saving them.
+* They seem to heal themselves every 2 attacks they use, but this tends to occur only when meleeing them or standing very close to them.
+* They previously had the examine text of "Holy reptile."
+* Before the graphical rework of the Fight Caves on 14 February 2012, Yt-MejKots and [[Yt-HurKot]]s used to share a nearly identical design, with the latter appearing close to a miniaturised; roughly 1:6 scale model of the former. 
+
+{{The Elder Kiln}}
+{{The Brink of Extinction}}
+{{TzHaar Fight Cave}}
+[[Category:Quest monsters]]

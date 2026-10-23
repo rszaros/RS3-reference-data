@@ -1,0 +1,166 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Dancing
+|version2 = Drumming
+|version3 = Walking
+|name = Skogre
+|image1 = [[File:Skogre (dancing).png]]
+|image2 = [[File:Skogre (drummer).png]]
+|image3 = [[File:Skogre.png]]
+|release = [[17 May]] [[2005]]
+|update = Zogre Flesh Eaters
+|members = Yes
+|options = Attack
+|examine1 = An undead skeletal ogre.
+|examine2 = Looks like he's de-composing.
+|examine3 = It's falling apart!
+|level = 56
+|lifepoints = 2000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 26.8
+|slayercat = Ogres, Skeletons, Undead
+|max_melee = 240
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 40
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 628
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|weakness = Arrows
+|susceptibility = Undead slayer, Brutal
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Charm dropper
+|dropversion2 = 
+|dropversion3 = Charm dropper
+|id1 = 2050
+|id2 = 2056
+|id3 = 2057
+|leagueRegion = Kandarin
+}}
+'''Skogres''' are skeletal ogres who have invaded the dance site of [[Jiggig]], south of [[Castle Wars]]. They have continued the dance that they did there in life during undeath and show no signs of stopping. They are encountered during the [[Zogre Flesh Eaters]] quest. Their name appears to be a portmanteau of "skeleton" and "ogre". They count as both [[Skeletons (Slayer assignment)|skeletons]] and [[Ogres (Slayer assignment)|ogres]] for [[Slayer assignments]].
+
+An aggressive Skogre also has a chance to spawn next to the player when burying [[Zogre bones]] inside Jiggig.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Jiggig]]
+|lvls=56
+|mem=yes
+|mapID=28
+|npcid:2050,x:2461,y:3047|npcid:2050,x:2466,y:3052|npcid:2056,x:2469,y:3039
+|npcid:2057,x:2480,y:3046
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Jiggig Dungeon]]
+|lvls=56
+|mem=yes
+|mapID=564
+|npcid:2057,x:2453,y:9393|npcid:2057,x:2461,y:9403|npcid:2057,x:2464,y:9380
+|npcid:2057,x:2442,y:9436|npcid:2057,x:2458,y:9413|npcid:2057,x:2470,y:9435
+|npcid:2057,x:2472,y:9460|npcid:2057,x:2483,y:9413|npcid:2057,x:2485,y:9447
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Strengths and weaknesses==
+Skogres take heavily reduced damage from normal weapons (approximately 75% reduction). Like [[Zogres]], they are weak to [[brutal arrows]], taking full damage. They also take full damage from [[poison]] and [[Summoning familiars]]. [[Necromancy]] is very effective against Zogres.
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Ogre coffin key|quantity=1|rarity=Always}}
+{{DropsLine|name=Zogre bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{Dropsline|name=Zogre bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=no}}
+{{DropsLineSpiritGems|version=Charm dropper}}
+{{DropsLineMimic|level=56|version=Charm dropper}}
+{{DropsLineEffigy|level=56|version=Charm dropper}}
+{{DropsTableBottom}}
+
+====Charms - Dancing====
+The dancing skogres are outside the dungeon. The drumming skogre does not drop charms, spirit gems, mimic kill tokens, or effigies.
+{{CharmDropTable
+|version=Dancing
+|quantity=1
+|gold=379.931/1000
+|green=27.138/1000
+|crimson=27.138/1000
+|blue=5.428/1000
+}}
+
+====Charms - Walking====
+Walking skogres are inside the dungeon.
+{{CharmDropTable
+|version=Walking
+|quantity=1
+|gold=271.38/1000
+|green=54.276/1000
+|crimson=27.138/1000
+|blue=10.855/1000
+}}
+
+==Graphical updates==
+===NPC===
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Skogre (2005).png|name=Skogre}}
+|{{GUL|date=|update=|img=Skogre.png|name=Skogre}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=This Week In RuneScape - 10/08/20#patch-notes|date=10 August 2020}}
+** It is no longer possible to spawn extra skogres when burying [[zogre bones]] in an area with multiple [[zogres]].
+
+* {{UL|type=patch|update=Patch Notes (7 March 2016)|date=7 March 2016}}
+** Skogres have had their combat stats rebalanced.
+
+* {{UL|type=update|update=Zogre Flesh Eaters|date=17 May 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine text for all skogres was "It's falling apart!" before a graphical update. Some skogres retain this examine text.
+
+{{Zogre Flesh Eaters}}
+{{Jiggig}}
+{{Ogres}}
+{{Skeleton}}
+[[Category:NPCs with multiple Examine options]]
+[[Category:Bandosians]]

@@ -1,0 +1,152 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 70
+|version2 = 79
+|version3 = 89
+|version4 = 99
+|version5 = 109
+|version6 = 119
+|version7 = 128
+|version8 = 138
+|name = Hellhound
+|image = [[File:Hellhound (Dungeoneering).png|x280px]]
+|release = [[19 August]] [[2010]]
+|update = Dungeoneering - The Occult Floors
+|members = Yes
+|options = Attack, Mark
+|examine = A savage beast.
+|level1 = 70
+|level2 = 79
+|level3 = 89
+|level4 = 99
+|level5 = 109
+|level6 = 119
+|level7 = 128
+|level8 = 138
+|lifepoints1 = 5000
+|lifepoints2 = 5700
+|lifepoints3 = 6400
+|lifepoints4 = 7100
+|lifepoints5 = 7800
+|lifepoints6 = 8500
+|lifepoints7 = 9200
+|lifepoints8 = 9900
+|aggressive = Yes
+|slaylvl = 1
+|slayercat = Hellhounds, Creatures of Daemonheim
+|in_wilderness = No
+|max_melee1 = 200
+|max_melee2 = 228
+|max_melee3 = 256
+|max_melee4 = 284
+|max_melee5 = 312
+|max_melee6 = 340
+|max_melee7 = 368
+|max_melee8 = 396
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack1 = 50
+|attack2 = 57
+|attack3 = 64
+|attack4 = 71
+|attack5 = 78
+|attack6 = 85
+|attack7 = 92
+|attack8 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 850
+|acc_melee2 = 1040
+|acc_melee3 = 1264
+|acc_melee4 = 1526
+|acc_melee5 = 1829
+|acc_melee6 = 2178
+|acc_melee7 = 2577
+|acc_melee8 = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 732
+|armour2 = 850
+|armour3 = 983
+|armour4 = 1132
+|armour5 = 1299
+|armour6 = 1486
+|armour7 = 1694
+|armour8 = 1924
+|defence1 = 50
+|defence2 = 57
+|defence3 = 64
+|defence4 = 71
+|defence5 = 78
+|defence6 = 85
+|defence7 = 92
+|defence8 = 99
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10188
+|id2 = 10189
+|id3 = 10190
+|id4 = 10191
+|id5 = 10192
+|id6 = 10193
+|id7 = 10194
+|id8 = 10195
+|leagueRegion = Wilderness
+}}
+'''Hellhounds''' can be found on the [[occult floors]] while [[Dungeoneering]]. They have a high attack and strength, but usually lower defence. The higher level ones have a much higher defence and can hit in the high 200's and low to mid 300's. They share the same weakness to slashing weapons as their cousins outside of [[Daemonheim]].
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}} 
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[19 August]] [[2010]]|update=Dungeoneering - The Occult Floors|img=Hellhound (Dungeoneering) (2010).png|name=Hellhound (Dungeoneering)}}
+|{{GUL|date=[[23 June]] [[2014]]|update=Patch Notes (23 June 2014)|img=Hellhound (Dungeoneering) (2014).png|name=Hellhound (Dungeoneering)}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Hellhound (Dungeoneering) (2022).png|name=Hellhound (Dungeoneering)}}
+|{{GUL|date=[[6 February]] [[2023]]|update=Prepping For Fort Forinthry - This Week In RuneScape|img=Hellhound (Dungeoneering).png|name=Hellhound (Dungeoneering)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Prepping For Fort Forinthry - This Week In RuneScape|date=6 February 2023}}
+** Updated the appearance of hellhounds by adjusting their roughness and metal spec values.
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Hellhounds have been graphically updated.
+
+* {{UL|type=ninja|update=Patch Notes (23 June 2014)|date=23 June 2014}}
+** The graphics and animations for hellhounds have been updated.
+
+* {{UL|type=update|update=Dungeoneering - The Occult Floors|date=19 August 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Demons}}

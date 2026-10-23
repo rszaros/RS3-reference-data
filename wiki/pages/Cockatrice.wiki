@@ -1,0 +1,259 @@
+{{External|os|wp}}
+{{Otheruses|the Slayer monster|the race|Cockatrice (race)}}
+{{Infobox Monster
+|name = Cockatrice
+|image = [[File:Cockatrice.png|170px]]
+|release = [[26 January]] [[2005]]
+|update = Slayer Skill
+|members = Yes
+|actions = Attack
+|examine = The winged reptile.
+|level = 31
+|lifepoints = 4050
+|aggressive = No
+|poisonous = No
+|slaylvl = 25
+|slayxp = 23.4
+|slayercat = Cockatrice
+|max_melee = 360
+|max_ranged = 400
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 18
+|ranged = 20
+|magic = 1
+|necromancy = 1
+|acc_melee = 192
+|acc_ranged = 216
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 381
+|defence = 25
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1620
+|leagueRegion=Fremennik
+}}
+[[File:Cockatrice icon.png|left]]
+'''Cockatrices''' are [[Slayer]] monsters that require level 25 Slayer to kill. They frequently drop [[limpwurt root]]s used in the [[Herblore]] skill, and rarely drop the [[Cockatrice head]], which can be brought to the [[Taxidermist]] in [[Canifis]] and stuffed for 2,000 gp. Wearing the [[Mask of Stone]] doubles the drop rate.
+
+In the quest [[Fur 'n Seek]], [[cockatrice skin]] must be collected and cleaned for the [[Odd Old Man]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Fremennik Slayer Dungeon]]
+|lvls=31
+|mem=yes
+|mapID=5
+|npcid:1620,x:2785,y:10035|npcid:1620,x:2786,y:10038|npcid:1620,x:2789,y:10032
+|npcid:1620,x:2791,y:10036|npcid:1620,x:2795,y:10033|npcid:1620,x:2797,y:10036
+|npcid:1620,x:2799,y:10031
+|leagueRegion = Fremennik
+}}
+{{LocTableBottom}}
+
+==Protective equipment==
+Equipment is necessary to avoid the stat-draining attack of the cockatrice. Any of the following can be used:
+
+* [[Mirror shield]]
+* [[Mask of Stone]] / [[Helm of Petrification]]
+* [[Mask of Reflection]] / [[Helm of Little Kings]]
+* [[Sunglasses]]
+
+Not wearing the required equipment results in the following effects:
+* Inflicts damage to the player up to a maximum of 11% of their max [[life points]] in typeless damage.
+* Lowers [[Attack]], [[Strength]], [[Magic]], [[Ranged]], and [[Necromancy]] by 40% of their current level. At level 2, it cannot be lowered any further.
+* Lowers [[Defence]], [[Agility]], and [[Summoning]] by 20% of their current level. At level 4, it cannot be lowered any further.
+* Multiplies current [[prayer points]] and [[summoning points]] by 0.8, with the summoning points drain being calculated before the Summoning level drain.
+
+The [[Slayer helmet]] and all variants do not defend against this attack.
+
+Players without level 20 [[Defence]] will not be assigned a cockatrice [[Slayer assignment]]. Once per day, players can force a cockatrice Slayer assignment by talking to [[Mazchna]] whilst wearing the [[Mask of Stone]] or [[Helm of Petrification]].
+
+==Strengths and weaknesses==
+Cockatrices have a special stat-draining attack, which they use if the player is not wearing protective equipment. It will shoot out beams from its eyes, quickly reducing [[Attack]], [[Strength]], [[Defence]], [[Ranged]], [[Magic]],  [[Necromancy]], [[Agility]], and [[Summoning]] to dangerously low levels (1/4 of the player's original levels, e.g. 15/60) and causes rapid damage for up to 110 life points per hit (it does more damage with higher levels). These beams always hit a fixed amount. This is why a mirror shield is necessary. Use a [[Restore potion|restore]] or [[super restore potion]] to recover from these effects.
+
+If the player is protected, however, they fight using standard [[melee]] and [[ranged]] attacks. They have few life points and do not hit substantially. Their attack speed is the same as a [[scimitar]] or [[mace]]. They are weak against crush attacks, although any melee weapon will suffice.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Cockatrice egg|quantity=1|rarity=1/10}}
+{{DropsLine|name=Light mystic boots|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|Drop rate is increased to 1/496 with at least tier 1 luck}}}}
+{{DropsLine|name=Cockatrice head|quantity=1|rarity=1/1000|altrarity=1/500|raritynotes={{DropNote|Wearing the [[Mask of Stone]] or the [[Helm of Petrification]] increases the drop rate of this item to 1/500. With at least tier 1 luck drop rate is increased to 1/970; or 1/485 with tier 1 luck and Mask of Stone/Helm of Petrification}}|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Cockatrice head: 1/1000 (1/500 while wearing mask of stone)|date=9 October 2019|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}|gemw=no|alch=no}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Nature rune|quantity=2|rarity=6/128}}
+{{DropsLine|name=Nature rune|quantity=4|rarity=4/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Nature rune|quantity=6|rarity=2/128}}
+{{DropsLine|name=Fire rune|quantity=7|rarity=2/128}}
+{{DropsLine|name=Water rune|quantity=2|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|10/128}}
+{{DropsTableHead}}
+{{HerbDropTable|10/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{GeneralSeedDropTableIntro|18/128}}
+{{DropsTableHead}}
+{{GeneralSeedDropTable|18/128|level=44}}
+{{DropsTableBottom}}
+
+===Wood spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Willow wood spirit|quantity=4|rarity=3/128}}
+{{DropsLine|name=Teak wood spirit|quantity=3|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated iron salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small bladed steel salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=15|rarity=16/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=5|rarity=12/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=62|rarity=4/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=42|rarity=3/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Limpwurt root|quantity=1|rarity=21/128}}
+{{DropsLine|name=Grapevine seed|quantity=4|rarity=12/128}}
+{{DropsLine|name=Iron javelin|quantity=5|rarity=1/128}}
+{{DropsLine|name=Grapevine seed|quantity=2|rarity=1/128}}
+{{DropsLine|name=Spirit weed seed|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Cockatrice skin|quantity=1|rarity=Always|raritynotes={{DropNote|Only during [[Fur 'n Seek]].}}}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128}}
+{{DropsLineEffigy|level=31}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=31}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 22.395/1000
+|green = 78.382/1000
+|crimson = 11.197/1000
+|blue = 2.239/1000
+}}
+
+==Products==
+{{Uses facility list|Cockatrice}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Cockatrices (Fremennik Slayer Dungeon).png|thumb|Cockatrices in the Fremennik Slayer Dungeon
+</gallery>
+
+==Achievements==
+* {{Achievement|The Start of Something New}} 
+** [[Light mystic boots]] and [[cockatrice head]] drops
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Old Cockatrice.png|name=Cockatrice}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Cockatrice.png|name=Cockatrice}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=July Quest Qol and Game Health Update - This Week In RuneScape|date=14 July 2025}}
+** Added new sources for [[spirit weed seed|Spirit Weed Seeds]], [[inert adrenaline crystal|Inert Adrenaline Crystals]] and [[sirenic scale|Sirenic Scales]] across various [[Slayer]] monsters:
+*** Spirit Weed seeds - [[Automaton (monster)|Automatons]], [[Strykewyrm]]s, [[Turoth]]s, [[gemstone dragon|Gemstone Dragons]] (on task), [[brutisch dinosaur|Brutish Dinosaurs]], [[Grotworm]]s, [[moss giant|Moss Giants]], [[flesh crawler|Flesh Crawlers]], Cockatrices, [[Kurask]] and [[seed drop table|Rare Seed Drop Table]].
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[tiny spiky iron salvage]] drop with [[willow wood spirit]]s.
+** Replaced the [[tiny spiky steel salvage]] drop with [[teak wood spirit]]s.
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=ninja|update=This Week In RuneScape: Yak To Basics and Ninja Strike 20!|date=1 March 2021}}
+** [[Vannaka]] no longer offers cockatrice as a Slayer assignment.
+
+* {{UL|type=patch|update=Patch Notes (21 January 2019)|date=21 January 2019}}
+** [[Aggression potions]] now correctly affect cockatrices.
+
+* {{UL|type=patch|update=Patch Notes (3 July 2017)|date=3 July 2017}}
+** Cockatrices now attack correctly.
+
+* {{UL|type=patch|update=Patch Notes (23 November 2015)|date=23 November 2015}}
+** Corrected the melee attack accuracy for the following NPCs: [[Dagannoth Mother]], [[Dominion Tower]] Dagannoth Mother, [[Temple at Senntisten]] quest fiends and Cockatrices.
+
+* {{UL|type=patch|update=Patch Notes (3 November 2014)|date=1 November 2014}}
+** Cockatrices once again deal the correct amount of damage.
+
+* {{UL|type=patch|update=Patch Notes (9 July 2013)|date=9 July 2013}}
+** The cockatrice drain special attack is now more responsive, allowing a player to use the special as soon as the player enters combat with a target.
+
+* {{UL|type=patch|update=Patch Notes (13 March 2012)|date=13 March 2012}}
+** Cockatrices and [[basilisks]] are no longer given as Slayer assignments to players with less than 20 [[Defence]].
+
+* {{UL|type=patch|update=Patch Notes (6 October 2010)|date=6 October 2010}}
+** Corrected a message to work with all types of cockatrice.
+
+* {{UL|type=patch|update=Patch Notes (10 February 2009)|date=10 February 2009}}
+** The cockatrice's chathead has been resized to properly fit the chat window.
+
+* {{UL|type=hidden|update=Summoning!|date=15 January 2008}}
+** Cockatrices now drop [[cockatrice egg]]s.
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* {{wp|Cockatrices}} are part of the real-world mythology, believed to be the result of a chicken egg hatched by a toad of serpent, which is very similar to the {{wp|basilisk}}. The cockatrice shares the same ability to kill people by simply looking at them. Letting them see themselves in a mirror is given as a way to kill them.
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{Cockatrices}}
+[[Category:Tier 1 luck]]
+[[pt:Cocatriz]]

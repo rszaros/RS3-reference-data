@@ -1,0 +1,175 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Level 12
+|version2 = Level 21
+|name = Zombie
+|image1 = [[File:Zombie (Stronghold of Security).png|x200px]]
+|image2 = [[File:Zombie (Stronghold of Security, 2).png|x200px]]
+|release = [[4 July]] [[2006]]
+|update = Security and free-to-play update - the Stronghold of Security
+|members = No
+|actions = Attack, Examine
+|race = 
+|examine1 = Dead man walking.
+|examine2 = {{*}} Dead man walking. <br/> {{*}} The walking dead.
+|level1 = 12
+|level2  = 21
+|lifepoints1 = 1900
+|lifepoints2 = 2650
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Zombies
+|assigned_by = Achtryn, Spria, Jacquelyn, Vannaka
+|max_melee1 = 180.0
+|max_melee2 = 300
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 9
+|attack2 = 15
+|ranged = 1
+|magic = 1
+|necromancy = 
+|acc_melee1 = 91
+|acc_melee2 = 157
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour1 = 191
+|armour2 = 257
+|defence1 = 9
+|defence2 = 15
+|weakness = Earth
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 4392, 5375, 5376
+|id2 = 4393, 4394, 5377, 5378, 5379, 5380
+|leagueRegion=Misthalin}}
+
+'''Zombies''' can be found throughout the second layer of the [[Stronghold of Security]]. Some rooms are solely occupied by zombies, and others share the room with [[Flesh Crawler]]s. They can be decent training but are outclassed by Flesh Crawlers in terms of both drops and experience.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Stronghold of Security]]
+|lvls=12, 21
+|mem=no
+|mapID=24
+|npcid:5377,x:92,y:92
+|npcid:4393,x:92,y:96
+|npcid:5380,x:92,y:141
+|npcid:4394,x:92,y:146
+|npcid:5378,x:93,y:91
+|npcid:4393,x:94,y:92
+|npcid:4394,x:94,y:138
+|npcid:5379,x:94,y:140
+|npcid:5377,x:96,y:96
+|npcid:4394,x:96,y:142
+|npcid:4393,x:97,y:94
+|npcid:5378,x:97,y:96
+|npcid:5379,x:98,y:139
+|npcid:5378,x:99,y:93
+|npcid:5377,x:99,y:96
+|npcid:5379,x:99,y:144
+|npcid:4393,x:107,y:104
+|npcid:5377,x:108,y:104
+|npcid:4393,x:109,y:105
+|npcid:5377,x:109,y:110
+|npcid:4393,x:111,y:113
+|npcid:4394,x:112,y:94
+|npcid:5377,x:113,y:104
+|npcid:5378,x:113,y:109
+|npcid:5379,x:116,y:93
+|npcid:4394,x:118,y:91
+|npcid:5379,x:120,y:97
+|npcid:5380,x:122,y:90
+|npcid:5379,x:126,y:90
+|npcid:4394,x:127,y:97
+|npcid:4394,x:129,y:93
+|npcid:5376,x:130,y:138
+|npcid:4392,x:130,y:140
+|npcid:5380,x:131,y:90
+|npcid:4392,x:132,y:138
+|npcid:5380,x:133,y:95
+|npcid:4392,x:133,y:135
+|npcid:5375,x:133,y:140
+|npcid:5379,x:135,y:98
+|npcid:5375,x:135,y:134
+|npcid:5376,x:135,y:137
+|npcid:5375,x:135,y:139
+|npcid:4392,x:137,y:137
+|npcid:4393,x:143,y:116
+|npcid:4393,x:143,y:119
+|npcid:4393,x:143,y:122
+|npcid:4393,x:144,y:117
+|npcid:4393,x:145,y:122
+|npcid:4393,x:146,y:117
+|npcid:4393,x:146,y:119
+|npcid:4393,x:147,y:119
+|npcid:4393,x:147,y:121
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Herbs {{(m)}}===
+{{HerbDropTableIntro|4/100|override=There is a 4/100 chance to roll the [[herb drop table]]. This table cannot roll in free-to-play and is replaced with 5-84 coins.}}
+{{DropsTableHead}}
+{{HerbDropTable|4/100}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=5-84|rarity=10/100|altrarity=14/100|raritynotes={{DropNote|14/100 in free-to-play.}}}}
+{{DropsLine|name=Body rune|quantity=7|rarity=10/100}}
+{{DropsLine|name=Steel arrow|quantity=5-14|rarity=20/100}}
+{{DropsLine|name=Beer|quantity=1|rarity=10/100}}
+{{DropsLine|name=Ashes|quantity=1|rarity=4/100}}
+{{DropsLine|name=Nothing|rarity=40/100}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/100|f2p=yes}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|gemw=no|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsLine|name=Bone fragments|quantity=1|rarity=1/150|raritynotes={{DropNote|Only dropped during a [[Slayer assignment]] given by [[the Raptor]].}}}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Security and free-to-play update - the Stronghold of Security|date=4 July 2006}}
+** Added to game.
+}}
+{{Zombie}}
+{{Stronghold of Security}}

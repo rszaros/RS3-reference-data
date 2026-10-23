@@ -1,0 +1,238 @@
+{{External|os}}
+{{Dgvariant}}
+{{Confuse|Jellyfish}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|version6 = 6
+|version7 = 7
+|version8 = 8
+|name = Jelly
+|image1 = [[File:Jelly.png|200px]]
+|image2 = [[File:Jelly (2).png|200px]]
+|image3 = [[File:Jelly (3).png|200px]]
+|image4 = [[File:Jelly (4).png|200px]]
+|image5 = [[File:Jelly (5).png|200px]]
+|image6 = [[File:Jelly (6).png|200px]]
+|image7 = [[File:Jelly (7).png|200px]]
+|image8 = [[File:Jelly (8).png|200px]]
+|release = [[26 January]] [[2005]]
+|update = Slayer Skill
+|members = Yes
+|options = Attack, Examine
+|examine1 = Looks scared to see me.
+|examine2 = Doesn't look so tough...
+|examine3 = Wibbly.
+|examine4 = There's always room for jelly.
+|examine5 = Needs cream.....
+|examine6 = Wobbly...
+|examine7 = 
+|examine8 = 
+|level = 61
+|lifepoints = 8200
+|aggressive = No
+|poisonous = No
+|slaylvl = 52
+|slayxp = 93.2
+|slayercat = Jellies
+|max_melee = 0
+|max_ranged = 760
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 38
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 490
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 825
+|defence = 49
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 1637
+|id2 = 1638
+|id3 = 1639
+|id4 = 1640
+|id5 = 1641
+|id6 = 1642
+|id7 = 7459
+|id8 = 7460
+|leagueRegion = Fremennik, Wilderness
+}}
+[[File:Jelly icon.png|left]]
+A '''jelly''' is a [[Slayer]] monster that requires level 52 Slayer to kill, appearing to be a jumbled skeleton and a beating heart suspended in translucent green or white substance. Unlike most monsters, jellies have multiple examine texts depending on the individual jelly.
+
+They are notable for being able to drop [[Clue scroll (hard)|hard clue scrolls]] despite their low level, as they are one of the weakest creatures that drop them. However, at higher levels it is not recommended to kill them for clue scrolls, as [[hellhound]]s and [[glacyte]]s provide better drop rates.
+
+Jellies are most commonly killed in [[Fremennik Slayer Dungeon]], which players can get to via the [[fairy ring]] code {{Fairycode|AJR}}. [[Chaeldar]] and [[Mazchna]] assign jellies.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Fremennik Slayer Dungeon]]
+|lvls=61
+|mem=yes
+|mapID=5
+|npcid:1637,x:2699,y:10029|npcid:1638,x:2701,y:10023|npcid:1641,x:2701,y:10027
+|npcid:1642,x:2703,y:10025|npcid:1638,x:2703,y:10031|npcid:1642,x:2704,y:10028
+|npcid:1639,x:2706,y:10029|npcid:1641,x:2708,y:10024|npcid:1640,x:2708,y:10027
+|npcid:1640,x:2711,y:10029
+|leagueRegion = Fremennik
+}}
+
+{{LocLine
+|loc=[[Jhallan's resting place]]
+|lvls=61
+|mem=yes
+|mapID=613
+|npcid:7459,x:2833,y:10342|npcid:7460,x:2835,y:10338|npcid:7460,x:2836,y:10341
+|npcid:7459,x:2837,y:10337|npcid:7459,x:2841,y:10315|npcid:7459,x:2843,y:10314
+|npcid:7459,x:2866,y:10323|npcid:7460,x:2867,y:10321|npcid:7459,x:2870,y:10325
+|leagueRegion = Fremennik
+}}
+
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=61
+|mem=yes
+|mapID=23
+|npcid:1639,x:3267,y:5447|npcid:1640,x:3270,y:5446|npcid:1639,x:3272,y:5444
+|npcid:1637,x:3273,y:5454|npcid:1637,x:3278,y:5444|npcid:1638,x:3279,y:5453
+|npcid:1639,x:3280,y:5456|npcid:1637,x:3281,y:5449|npcid:1638,x:3281,y:5461
+|npcid:1639,x:3283,y:5454|npcid:1639,x:3283,y:5458|npcid:1637,x:3269,y:5529
+|npcid:1637,x:3270,y:5536|npcid:1637,x:3272,y:5511|npcid:1638,x:3273,y:5528
+|npcid:1638,x:3275,y:5514|npcid:1639,x:3275,y:5520|npcid:1637,x:3278,y:5518
+|npcid:1638,x:3278,y:5523|npcid:1637,x:3278,y:5536|npcid:1638,x:3279,y:5533
+|npcid:1639,x:3280,y:5528
+|leagueRegion = Wilderness
+}}
+
+{{LocTableBottom}}
+
+==Strengths and weaknesses==
+Jellies use a ranged attack, so players should wear melee armour when fighting them.
+
+[[Melee]] is the preferred attack method of most players when fighting jellies. The jellies are weak to crush attacks, though any melee weapon works fine if the players have a sufficient [[Attack]] level.
+
+The jellies that are located in the [[Chaos Tunnels]] are in the same room as [[poison spider]]s and [[giant crypt spider]]s, therefore it is suggested not to use that location. However, if the player has a [[combat]] level of at least 137, the poison spiders will not be aggressive (although the giant crypt spiders will still be). Most players regard the [[Fremennik Slayer Dungeon]] as the best place to kill jellies, as there are many of them and they are the only monsters in the chamber.
+
+The [[Jhallan's resting place]], found under [[Trollweiss Mountain]] during [[The Tale of the Muspah]], where [[Jhallan]] goes back into hibernation, is host to some jellies. Players can travel there by boat from the [[Rellekka Hunter area]]. Jellies are the only monsters found in this cavern.
+
+[[Dwarf multicannon]]s cannot be used against jellies, as the Fremennik Slayer Dungeon, Chaos Tunnels, and the Jhallan's resting place do not allow them. [[Guthan the Infested's equipment]] may be useful due to its healing abilities.
+
+==Tips for slayer==
+If needed for a slayer task, one can simply go to Soul Wars and kill them there for the task and slayer experience, without caring about losing anything (although other players, including those on the opposing team, as well as others fighting the same jellies can be a nuisance), and they can then spend won zeal on additional slayer experience. If a player takes this approach to slaying jellies however, it should be noted that they will not receive any drops aside from soul fragments.
+
+Wearing a [[mask of gelatin]] or [[jellyhead]] can be used to force one jelly slayer task per day, provide extra Slayer experience, and will provide the same benefits as a [[Slayer helmet]]. Both also allow two daily teleports to locations with jellies. Wearing the mask while killing jellies will also double every 10th drop received.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=7/128}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Medium plated rune salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|22/128}}
+{{DropsTableHead}}
+{{HerbDropTable|22/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|22/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|22/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}|gemw=no}}
+{{DropsLine|name=Coins|quantity=1000|rarity=14/128}}
+{{DropsLine|name=Vial of water|quantity=6 (noted)|rarity=14/128}}
+{{DropsLine|name=Swamp tar|quantity=2|rarity=14/128}}
+{{DropsLine|name=Maple wood spirit|quantity=3|rarity=8/128}}
+{{DropsLine|name=Big bones|quantity=2 (noted)|rarity=8/128}}
+{{DropsLine|name=Orange|quantity=1|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=61}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=61}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 66.712/1000
+|green = 233.491/1000
+|crimson = 33.356/1000
+|blue = 6.671/1000
+}}
+
+==Products==
+{{Uses facility list|Jelly}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Muspah Cave Jelly.png|A jelly in the Ritual Site Cavern before they were updated.
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Jelly (2005).png|name=Jelly}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Jelly (2008).png|name=Jelly}}
+|{{GUL|date=[[3 November]] [[2014]]|update=Patch Week|img=Jelly.png|name=Jelly}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[logs]] drop with [[maple wood spirit]]s.
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine text "There is always room for jelly" is a reference to the {{wp|Jell-O}} advertising slogan "There is always room for Jell-o". This examine text is also used by the [[Flying jellyfish]] occasionally found on [[Uncharted Isles]] in [[The Arc]].
+* Each jelly has some miscellaneous items inside, probably from dead adventurers. These items are, for example, [[shears]], [[chisel]]s, [[banana]]s, [[Skull (item)|skulls]] and/or [[Pie|slices of pie]]. The jellies also have a beating heart in their centre.
+* They are likely based on the {{wp|gelatinous cube}}, a nearly identical monster from ''{{wp|Dungeons & Dragons}}''.
+
+{{Slayer monsters}}
+[[Category:NPCs with multiple Examine options]]

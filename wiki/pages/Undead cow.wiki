@@ -1,0 +1,112 @@
+{{External|os|dw=Zombie Cow}}
+{{confuse|Zombie cow}}
+{{Infobox Monster
+|name = Undead cow
+|image = [[File:Undead cow.png]]
+|release = [[15 February]] [[2005]]
+|update = Ghosts Ahoy and Slayer Update
+|members = Yes
+|actions = Attack
+|race = zombie cow
+|examine = It's an undead cow.
+|level = 2
+|lifepoints = 1000
+|experience = 
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19.4
+|slayercat = Cows, Zombies, Undead
+|max_melee = 20
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 2
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 20
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Earth
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1691
+|leagueRegion=Morytania}}
+[[File:Undead cow chathead.png|left]]
+'''Undead cows''' can be found west of [[Port Phasmatys]] in [[Morytania]], near the [[Farming]] [[allotment]]. As their name suggests, they are undead, so a [[Salve amulet]] or a [[salve amulet (e)]] is effective. They are sometimes killed for their bones for the [[Ectofuntus]], most commonly during [[Ghosts Ahoy]] and [[Animal Magnetism]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Alice's farm]]
+|lvls=2
+|mem=yes
+|mapID=28
+|npcid:1691,x:3611,y:3527|npcid:1691,x:3616,y:3525|npcid:1691,x:3620,y:3524
+|npcid:1691,x:3622,y:3527
+|leagueRegion = Morytania}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw undead beef|quantity=1|rarity=Always}}
+{{DropsLine|name=Cowhide|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Undead cow ribs|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]] activity.}}|gemw=no}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[15 February]] [[2005]]|update=Ghosts Ahoy and Slayer Update|img=Undead cow (2005).png|name=Undead cow}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Cows, Chickens, Rabbits and the Fishing Trawler|img=Undead cow (2007).png|name=Undead cow}}
+|{{GUL|date=[[26 November]] [[2013]]|update=Coinshare, World Map and Tutorial|img=Undead cow (2013).png|name=Undead cow}}
+|{{GUL|date=[[22 April]] [[2014]]|update=Patch Notes (22 April 2014)|img=Undead cow.png|name=Undead cow}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** Maximum hit reduced to 20 (from 40)
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Ghosts Ahoy and Slayer Update|date=15 February 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* When a player stands in the area in which the cows wander, they can sometimes hear a ghostly moo, similar to the ones a player hears when they stand in a normal cow area.
+
+{{Zombie}}
+{{Alice's farm}}

@@ -1,0 +1,83 @@
+{{Otheruses|the troll}}
+{{Infobox Monster
+|name = Stove
+|image = [[File:Stove.png|300px]]
+|release = [[22 February]] [[2021]]
+|update = This Week In RuneScape: Azzanadra's Quest
+|members = No
+|options = Attack
+|examine = The leader of this band of trolls. Loves the taste of cast iron in the morning.
+|level = 4
+|lifepoints = 250
+|experience = 50.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Trolls
+|max_melee = 129
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 3
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 202
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 130
+|defence = 3
+|weakness = Stab
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|id = 27836
+|leagueRegion = No
+}}
+'''Stove''' is a [[troll]] which can be fought during the [[Davendale Tutorial]]. 
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bronze kiteshield|quantity=1|rarity=Always|raritynotes={{DropNote|Only if one is not already equipped or in the backpack.}}}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Troll 2021 rework concept art.jpg|Concept art
+</gallery>
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[22 February]] [[2021]]|update=This Week In RuneScape: Azzanadra's Quest|img=Stove (February 2021).png|name=Stove}}
+|{{GUL|date=[[24 May]] [[2021]]|update=This Week In RuneScape: Battle of the Monolith & Guardian's Gift|img=Stove.png|name=Stove}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=This_Week_In_RuneScape:_The_City_of_Senntisten|date=21 June 2021}}
+** The [[camera]] pan at the end of the [[Davendale]] combat level up [[tutorial]] now focuses on Stove the troll.
+
+* {{UL|type=hidden|update=This Week In RuneScape: Battle of the Monolith & Guardian's Gift|date=24 May 2021}}
+** Graphically updated.
+
+* {{UL|type=hidden|update=This Week In RuneScape: Azzanadra's Quest|date=22 February 2021}}
+** Added to game.
+}}
+
+{{Davendale}}
+{{Trolls}}

@@ -1,0 +1,219 @@
+{{Dgvariant}}
+{{Needs image|the graphically updated version from non-warped floors}}
+{{Infobox Monster
+|version1 = 4
+|version2 = 14
+|version3 = 25
+|version4 = 36
+|version5 = 47
+|version6 = 58
+|version7 = 70
+|version8 = 4 (Warped)
+|version9 = 14 (Warped)
+|version10 = 25 (Warped)
+|version11 = 36 (Warped)
+|version12 = 47 (Warped)
+|version13 = 58 (Warped)
+|version14 = 70 (Warped)
+|name = Giant rat
+|image1 = [[File:Giant rat.png|150px]]
+|image2 = [[File:Giant rat.png|150px]]
+|image3 = [[File:Giant rat.png|150px]]
+|image4 = [[File:Giant rat.png|150px]]
+|image5 = [[File:Giant rat.png|150px]]
+|image6 = [[File:Giant rat.png|150px]]
+|image7 = [[File:Giant rat.png|150px]]
+|image8 = [[File:Giant rat (Dungeoneering, warped floors).png|150px]]
+|image9 = [[File:Giant rat (Dungeoneering, warped floors).png|150px]]
+|image10 = [[File:Giant rat (Dungeoneering, warped floors).png|150px]]
+|image11 = [[File:Giant rat (Dungeoneering, warped floors).png|150px]]
+|image12 = [[File:Giant rat (Dungeoneering, warped floors).png|150px]]
+|image13 = [[File:Giant rat (Dungeoneering, warped floors).png|150px]]
+|image14 = [[File:Giant rat (Dungeoneering, warped floors).png|150px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark
+|examine = Overgrown vermin.
+|level1 = 4
+|level2 = 14
+|level3 = 25
+|level4 = 36
+|level5 = 47
+|level6 = 58
+|level7 = 70
+|level8 = 4
+|level9 = 14
+|level10 = 25
+|level11 = 36
+|level12 = 47
+|level13 = 58
+|level14 = 70
+|lifepoints1 = 300
+|lifepoints2 = 1000
+|lifepoints3 = 1800
+|lifepoints4 = 2600
+|lifepoints5 = 3400
+|lifepoints6 = 4200
+|lifepoints7 = 5000
+|lifepoints8 = 300
+|lifepoints9 = 1000
+|lifepoints10 = 1800
+|lifepoints11 = 2600
+|lifepoints12 = 3400
+|lifepoints13 = 4200
+|lifepoints14 = 5000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Rats, Creatures of Daemonheim
+|max_melee1 = 12
+|max_melee2 = 40
+|max_melee3 = 72
+|max_melee4 = 104
+|max_melee5 = 136
+|max_melee6 = 168
+|max_melee7 = 200
+|max_melee8 = 12
+|max_melee9 = 40
+|max_melee10 = 72
+|max_melee11 = 104
+|max_melee12 = 136
+|max_melee13 = 168
+|max_melee14 = 200
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 3
+|attack2 = 10
+|attack3 = 18
+|attack4 = 26
+|attack5 = 34
+|attack6 = 42
+|attack7 = 50
+|attack8 = 3
+|attack9 = 10
+|attack10 = 18
+|attack11 = 26
+|attack12 = 34
+|attack13 = 42
+|attack14 = 50
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 130
+|acc_melee2 = 202
+|acc_melee3 = 292
+|acc_melee4 = 395
+|acc_melee5 = 519
+|acc_melee6 = 668
+|acc_melee7 = 850
+|acc_melee8 = 130
+|acc_melee9 = 202
+|acc_melee10 = 292
+|acc_melee11 = 395
+|acc_melee12 = 519
+|acc_melee13 = 668
+|acc_melee14 = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 130
+|armour2 = 202
+|armour3 = 292
+|armour4 = 395
+|armour5 = 519
+|armour6 = 668
+|armour7 = 850
+|armour8 = 130
+|armour9 = 202
+|armour10 = 292
+|armour11 = 395
+|armour12 = 519
+|armour13 = 668
+|armour14 = 850
+|defence1 = 3
+|defence2 = 10
+|defence3 = 18
+|defence4 = 26
+|defence5 = 34
+|defence6 = 42
+|defence7 = 50
+|defence8 = 3
+|defence9 = 10
+|defence10 = 18
+|defence11 = 26
+|defence12 = 34
+|defence13 = 42
+|defence14 = 50
+|weakness1 = Earth
+|weakness2 = Earth
+|weakness3 = Earth
+|weakness4 = Earth
+|weakness5 = Earth
+|weakness6 = Earth
+|weakness7 = Earth
+|weakness8 = Air
+|weakness9 = Earth
+|weakness10 = Earth
+|weakness11 = Earth
+|weakness12 = Earth
+|weakness13 = Earth
+|weakness14 = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10480
+|id2 = 10481
+|id3 = 10482
+|id4 = 10483
+|id5 = 10484
+|id6 = 10485
+|id7 = 10486
+|id8 = 12914
+|id9 = 12915
+|id10 = 12916
+|id11 = 12917
+|id12 = 12918
+|id13 = 12919
+|id14 = 12920
+|leagueRegion = Wilderness
+}}
+The '''giant rat''' is a monster found in [[Daemonheim]], released as part of the [[dungeoneering]] skill. It is relatively weak compared to other monsters found in [[Daemonheim]], and can be found on any floor. The rats found in the upper levels of [[Daemonheim]] have the same appearance as the giant rats in [[Varrock sewers]]. On the other hand, those found in warped floors have bodies composed partially of what appears to be magma, ostensibly due to the twisted magic therein. 
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=September Patch Week|date=1 September 2026}}
+** Graphically updated giant rats in Daemonheim and Sinkholes.
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Rats}}

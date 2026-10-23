@@ -1,0 +1,181 @@
+{{Otheruses|def=no|the Dungeoneering monster|Soulgazer (Dungeoneering)}}
+{{Otheruses|def=no|the elite version of this monster|Soulgazer (elite)}}
+{{Infobox Monster
+|name = Soulgazer
+|image = [[File:Soulgazer.png|150px]]
+|release = [[8 January]] [[2018]]
+|update = Stalker Creatures - RuneScape’s Birthday
+|members = Yes
+|options = Attack
+|examine = A floating eye of some sort.
+|level = 128
+|lifepoints = 40000
+|slaylvl = 99
+|slayxp = 1950.4
+|experience = 2000.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Stalker creatures, Creatures of Daemonheim, soulgazers
+|assigned_by = Kuradal,Morvran,Laniakea
+|max_melee = 410
+|max_ranged = 0
+|max_magic = 410
+|max_necromancy = 0
+|max_spec = N/A
+|style = Magic
+|primarystyle = magic
+|speed = 4
+|attack = 99
+|ranged = 1
+|magic = 99
+|necromancy = 1
+|acc_melee = 3031
+|acc_ranged = 0
+|acc_magic = 3031
+|acc_necromancy = 0
+|armour = 1924
+|defence = 85
+|weakness = Arrows
+|susceptibility = ruinous
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Wilderness,Misthalin&Fremennik
+|id = 25125, 29350
+}}
+'''Soulgazers''' are [[Slayer]] monsters that require level 99 Slayer to kill. Ten of them can be found in the [[stalker dungeon]] in [[Zamorak's hideout]]. They can also be found in the [[Wilderness]], just west of charming moths, and, unlike the soulgazers located in the stalker dungeon, the ones in the Wilderness are permanently [[Aggressiveness|aggressive]]. They are killed for their [[hexhunter bow]] and [[soulgazer's charm]] drops. They also grant more Slayer experience compared to [[seeker]]s when stalker creatures are assigned.
+
+Without boosts from the [[seeker's charm]], killing soulgazers causes a 1/50 chance for an [[Soulgazer (elite)|elite soulgazer]] to appear (guaranteed while on a Slayer assignment). If the boost from the charm is in effect, then the rate for an elite to spawn rises to 1/10, which can be further increased with the use of [[fellstalk incense stick]]s and tier 3 [[luck]]. The boost in the elite soulgazer spawn rate from using seeker's charms is a global boost, and works everywhere; players do not need to kill the soulgazers in the stalker dungeon to benefit.
+
+Due to the extreme rarity of the hexhunter bow and soulgazer's charm from normal soulgazers, if the player is seeking these drops, then they should use charms, as their elite variants have a greater (1000x) drop rate over them.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dehbsq/droprate_of_hexhunter_bow_confirmed_at_11500000/f2v4g5c/|title=Droprate of hexhunter bow confirmed at 1/1,500,000 from normal soulgazer, 1/1500 from elite|quote=When a elite Stalker spawns it has a 1/1.5k chance of being Veil :)|date=7 October 2019|archiveurl=https://reldo.runescape.wiki/i/99628|archivedate=7 October 2019|name=hexdropthread}}
+
+Soulgazers placed into the [[Sunken Pyramid]] require completion of [[Dishonour among Thieves]] to attack, despite being attackable without it in the Wilderness. Soulgazers can also be assigned by [[Mandrith]] without completion of the quest.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Stalker dungeon]]
+|requirements = {{QuestIcon|Dishonour among Thieves}}
+|lvls=128
+|mem=yes
+|mapID=-1
+|npcid:25125,x:2253,y:9260|npcid:25125,x:2256,y:9254|npcid:25125,x:2258,y:9264
+|npcid:25125,x:2261,y:9259|npcid:25125,x:2267,y:9256|npcid:25125,x:2274,y:9255
+|npcid:25125,x:2280,y:9258|npcid:25125,x:2281,y:9265|npcid:25125,x:2286,y:9255
+|npcid:25125,x:2288,y:9262
+|leagueRegion = Misthalin&Fremennik
+}}
+{{LocLine
+|loc=[[Wilderness]]
+|lvls=128
+|mem=yes
+|mapID=28
+|npcid:25125,x:3332,y:3722|npcid:25125,x:3327,y:3717|npcid:25125,x:3327,y:3731|npcid:25125,x:3323,y:3713|npcid:25125,x:3323,y:3733|npcid:25125,x:3317,y:3715|npcid:25125,x:3312,y:3718|npcid:25125,x:3303,y:3743|npcid:25125,x:3309,y:3745|npcid:25125,x:3332,y:3750
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Dragon mace|quantity=1|rarity=3/128}}
+{{DropsLine|name=Off-hand dragon mace|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Gems===
+{{DropsTableHead}}
+{{DropsLine|name=Uncut emerald|quantity=3-5 (noted)|rarity=6/128}}
+{{DropsLine|name=Uncut ruby|quantity=3-5 (noted)|rarity=10/128}}
+{{DropsLine|name=Uncut diamond|quantity=1-2 (noted)|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=4000|rarity=12/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=6000|rarity=10/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Dungeoneering token|quantity=100|rarity=12/128|gemw=no|alch=no}}
+{{DropsLine|name=Stalker essence|quantity=4-10|rarity=10/128}}
+{{DropsLine|name=Bowstring|quantity=20 (noted)|rarity=6/128}}
+{{DropsLine|name=Dragonstone bolt tips|quantity=5-10|rarity=12/128}}
+{{DropsLine|name=Onyx bolt tips|quantity=1-2|rarity=7/128}}
+{{DropsLine|name=Battlestaff|quantity=1-2 (noted)|rarity=8/128}}
+{{DropsLine|name=Fire talisman|quantity=2-4 (noted)|rarity=11/128}}
+{{DropsLine|name=Wine of Zamorak|quantity=1-2 (noted)|rarity=6/128}}
+{{DropsLine|name=Primal stone spirit|quantity=2-5|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/100}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineTriskelion|rarity=1/2000|altrarity=1/1940|raritynotes={{DropNote|1/1,940 with tier 3 [[luck]] or higher.}}}}
+{{DropsLine|name=Hexhunter bow|quantity=1|rarity=1/1500000|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Hexhunter bow: 1/1500000 from soulgazers, 1/1500 from elites|date=9 October 2019|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}}}
+{{DropsLine|name=Soulgazer's charm|quantity=1|rarity=1/750000|citations={{CiteTwitter|author=Mod Iago|url=https://twitter.com/JagexIago/status/951753270523060225|quote=Seen a few questions regarding the Soulgazers Charm drop. I can confirm that it has the same drop rate on and off task.|date=12 January 2018|archiveurl=https://reldo.runescape.wiki/i/99550|archivedate=1 September 2020}}{{CiteTwitter|author=Mod Iago|url=https://twitter.com/JagexIago/status/1163744309465800704|quote=1/750 from elites and 1/750,000 from non-elites.|date=20 August 2019|archivedate=20 August 2019|archiveurl=http://archive.is/O0BYs}}|gemw=no|alch=no}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=99/12800|raritynotes={{DropNote|name=elite|There is a 1/128 chance to roll for an elite clue scroll. If successful, there's a 1% chance it'll be upgraded to a [[sealed clue scroll (master)]].}}}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=1/12800|raritynotes={{DropNote|name=elite}}}}
+{{DropsLineEffigy|level=128}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=128}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.579/1000
+|green = 44.79/1000
+|crimson = 313.527/1000
+|blue = 8.958/1000
+}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=128}}
+
+==Money making guide==
+{{Mmgsection|Killing soulgazers}}
+
+==Achievements==
+* {{Achievement|61 Shades of Red}} 
+** [[Soulgazer's charm]] and [[hexhunter bow]] drops
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Augmented Runecrafting & Thieving launches today! - This Week In RuneScape|date=12 May 2025}}
+** Fixed an issue that caused the Stalker/Seeker creatures to roll an additional random value on top of the initial roll on the RDT. This was unintended as all RDT drops should follow the same rates.
+
+* {{UL|type=patch|update=Mining & Smithing 110 Launching Today! - This Week In RuneScape|date=12 August 2024}}
+** [[Primal stone spirit]]s have been added to the drop table.
+
+* {{UL|type=patch|update=300 Million Party & DXP! - This Week In RuneScape|date=8 August 2022}}
+** Killing soulgazers whilst on a 'Soulgazers (Wilderness)' task will now decrease your slayer count.
+
+* {{UL|type=update|update=Stalker Creatures - RuneScape’s Birthday|date=8 January 2018}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Stalker dungeon}}
+{{Slayer monsters}}
+{{Stalkers}}
+[[pt:Observador de almas]]

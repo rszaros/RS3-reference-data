@@ -1,0 +1,156 @@
+{{Confuse|Thrower Troll}}
+{{Infobox Monster
+|version1 = Level 1
+|version2 = Level 11
+|version3 = Level 21
+|version4 = Level 30
+|version5 = Level 40
+|version6 = Level 50
+|version7 = Level 60
+|version8 = Level 70
+|name = Troll ranger
+|image = [[File:Troll ranger.png|200px]]
+|release = [[14 June]] [[2011]]
+|update = Troll Invasion
+|members = Yes
+|options = Attack, Information
+|examine = Likes to throw small bits of mountain at people.
+|leagueRegion = Asgarnia
+|level1 = 1
+|level2 = 11
+|level3 = 21
+|level4 = 30
+|level5 = 40
+|level6 = 50
+|level7 = 60
+|level8 = 70
+|lifepoints1 = 50
+|lifepoints2 = 400
+|lifepoints3 = 750
+|lifepoints4 = 1100
+|lifepoints5 = 1450
+|lifepoints6 = 1800
+|lifepoints7 = 2150
+|lifepoints8 = 2500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Trolls
+|assigned_by = Chaeldar,sumona
+|max_melee1 = 3
+|max_melee2 = 24
+|max_melee3 = 45
+|max_melee4 = 66
+|max_melee5 = 87
+|max_melee6 = 108
+|max_melee7 = 129
+|max_melee8 = 150
+|max_ranged1 = 4
+|max_ranged2 = 32
+|max_ranged3 = 60
+|max_ranged4 = 88
+|max_ranged5 = 116
+|max_ranged6 = 144
+|max_ranged7 = 172
+|max_ranged8 = 200
+|max_magic = 0
+|max_necromancy = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack1 = 1
+|attack2 = 6
+|attack3 = 11
+|attack4 = 16
+|attack5 = 21
+|attack6 = 27
+|attack7 = 32
+|attack8 = 37
+|ranged1 = 1
+|ranged2 = 8
+|ranged3 = 15
+|ranged4 = 22
+|ranged5 = 29
+|ranged6 = 36
+|ranged7 = 43
+|ranged8 = 50
+|magic = 0
+|necromancy = 1
+|acc_melee1 = 7
+|acc_melee2 = 160
+|acc_melee3 = 112
+|acc_melee4 = 165
+|acc_melee5 = 217
+|acc_melee6 = 409
+|acc_melee7 = 322
+|acc_melee8 = 375
+|acc_ranged1 = 110
+|acc_ranged2 = 181
+|acc_ranged3 = 257
+|acc_ranged4 = 341
+|acc_ranged5 = 439
+|acc_ranged6 = 553
+|acc_ranged7 = 689
+|acc_ranged8 = 850
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 181
+|armour3 = 257
+|armour4 = 341
+|armour5 = 439
+|armour6 = 553
+|armour7 = 689
+|armour8 = 850
+|defence1 = 1
+|defence2 = 8
+|defence3 = 15
+|defence4 = 22
+|defence5 = 29
+|defence6 = 36
+|defence7 = 43
+|defence8 = 50
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id1 = 13652
+|id2 = 13653
+|id3 = 13654
+|id4 = 13657
+|id5 = 13658
+|id6 = 13659
+|id7 = 13660
+|id8 = 13661
+}}
+'''Troll rangers''' are one of the monsters fought during the combat portion of [[Troll Invasion]]. They possess something similar to a special attack. Every 5 normal attacks, a troll ranger will pick up a very large rock and perform a spin throw. After a few seconds, the rock will come crashing down on the spot where the player was standing when the Troll ranger started the animation.
+
+The [[Protect from Ranged]] [[Prayer]] or the [[Deflect Ranged]] [[Ancient Curses|Curse]] will reduce damage from this attack. Alternatively, if the player moves away from the spot where they were previously standing, the rock will miss and no damage will be taken. If protection prayers are not active, failure to avoid this rock can result in the player taking a large amount of damage, possibly over 3700. If the player kills the troll ranger after it throws the rock and before the rock crashes down, no damage would be taken.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Troll Invasion|date=14 June 2011}}
+** Added to game.
+}}
+
+{{Troll Invasion}}
+{{trolls}}
+[[Category:Bandosians]]

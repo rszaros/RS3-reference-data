@@ -1,0 +1,154 @@
+{{Infobox Monster
+|name = Troll chucker
+|image = [[File:Troll chucker.png|125px]]
+|release = [[31 January]] [[2012]]
+|update = Troll Warzone
+|members = No
+|actions = Attack
+|examine = Assails you from afar.
+|level = 7
+|lifepoints = 700
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19.4
+|slayercat = Trolls
+|assigned_by = Sumona, Chaeldar, Turael, Spria
+|max_melee = 0
+|max_ranged = 100
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 50
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Stab
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 14981
+|leagueRegion = Asgarnia
+}}
+'''Troll chuckers''' were released on [[31 January]] [[2012]] as part of [[Troll Warzone]]. They were first introduced during the [[Burthorpe]] tutorial and afterwards can be fought along with [[troll shaman]]s and [[troll brute]]s. They appear to be, along with the [[troll brute]]s and [[troll shaman]]s, some of the only [[gold charm]] droppers for [[free-to-play]] players.
+
+==Locations==
+
+{{LocTableHead}}
+{{LocLine
+|loc = [[Burthorpe Troll Cave]]
+|lvls = 7
+|mem = No
+|mapID = 719
+|plane = 0
+|npcid:14981,x:152,y:302
+|npcid:14981,x:155,y:297
+|npcid:14981,x:155,y:301
+|npcid:14981,x:155,y:307
+|npcid:14981,x:159,y:302
+|npcid:14981,x:160,y:308
+|npcid:14981,x:160,y:312
+|npcid:14981,x:163,y:304
+|npcid:14981,x:164,y:307
+|npcid:14981,x:167,y:312
+|npcid:14981,x:168,y:308
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|kills=147215}}
+
+{{Average drop value}}
+
+===Always===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Troll chucker}}
+
+===Herbs===
+{{HerbDropTableIntro|1/3}} ''This table is rolled on top of the main drop.''
+{{DropsTableHead}}
+{{HerbDropTable|1/3|f2p=yes}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{AllotmentSeedDropTableIntro|1/3}} ''This table is rolled on top of the main drop.''
+{{DropsTableHead}}
+{{AllotmentSeedDropTable|1/3|f2p=yes}}
+{{DropsTableBottom}}
+
+===Main drops===
+{{RuneMetrics}}
+{{DropsTableHead}}
+<!--Coins-->
+{{DropsLine|name=Coins|quantity=1-10|rarity=13/128}}
+<!--Ammunition-->
+{{DropsLine|name=Bronze arrow|quantity=1-6|rarity=40/128}}
+<!--Food-->
+{{DropsLine|name=Cabbage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Cooked chicken|quantity=1|rarity=10/300}}
+{{DropsLine|name=Cooked meat|quantity=1|rarity=4/300}}
+{{DropsLine|name=Cooked rabbit|quantity=1|rarity=8/300}}
+{{DropsLine|name=Rabbit sandwich|quantity=1|rarity=6/300}}
+{{DropsLine|name=Onion|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tomato|quantity=1|rarity=3/128}}
+<!--Skilling-->
+{{DropsLine|name=Raw beef|quantity=1|rarity=3/128}}
+{{DropsLine|name=Raw chicken|quantity=1|rarity=3/128}}
+{{DropsLine|name=Raw potato|quantity=1|rarity=3/128}}
+{{DropsLine|name=Raw rabbit|quantity=1|rarity=3/128}}
+{{DropsLine|name=Feather|quantity=1-5|rarity=13/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Bladestorm drape|quantity=1|rarity=Common|raritynotes={{DropNote|Will drop commonly until one is owned.}}}}
+{{DropsLineSpiritGems}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Going Home to Lumbridge & Amascut 4k Enrage - This Week In RuneScape|date=17 November 2025}}
+** Buffed the lifepoints and damage of Burthorpe trolls that even for Burthorpe path players were underbalanced (troll chuckers, shamans, brutes, Morningstar, Magic Stick and The Map in the Death Plateau quest).
+
+* {{UL|type=patch|update=Patch Notes (4 November 2019)|date=4 November 2019}}
+** Troll chuckers, shamans and brutes in the Burthorpe troll cave now all give golden rocks.
+
+* {{UL|type=patch|update=Patch Notes (16 September 2019)|date=16 September 2019}}
+** Troll chuckers, [[Troll shaman|shamans]] and [[Troll brute|brutes]] in the [[Burthorpe Troll Cave|Burthorpe troll cave]] all now have an equal chance to drop [[charm]]s, and therefore [[strange rock|strange]]/[[gold rock]]s (but only when you have unlocked the Taverley path book, or have a skill level total of 250 or greater).
+
+* {{UL|type=patch|update= Patch Notes (13 August 2013)|date=13 August 2013}}
+** A troll in the tutorial cutscene is no longer floating in the HTML5 client.
+
+* {{UL|type=update|update=Troll Warzone|date=31 January 2012}}
+** Added to game.
+}}
+
+{{trolls}}
+[[pt:Troll atirador]]
+[[Category:Troll Warzone]]
+[[Category:Bandosians]]

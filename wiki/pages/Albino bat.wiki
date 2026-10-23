@@ -1,0 +1,112 @@
+{{External|os}}
+{{Infobox Monster
+|name = Albino bat
+|image = [[File:Albino bat.png|250px]]
+|release = [[4 July]] [[2006]]
+|update = Trouble Brewing
+|members = Yes
+|actions = Attack
+|examine = It's all white by me.
+|level = 43
+|lifepoints = 2500
+|experience = 125.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 18
+|slayercat = Bats
+|assigned_by = turael, mazchna, jacquelyn, Vannaka
+|max_melee = 620
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 31
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 370
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 470
+|defence = 31
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 4345
+|leagueRegion = Morytania
+}}
+'''Albino bats''' are animals found in the [[Mos Le'Harmless Caves]] where the [[Cave horror]]s are.
+
+Unlike their other [[bat]] relatives, these bats are [[aggressive]]. Players using [[Guthan's set|full Guthan's]] may use them as a means of healing. The bats will not be aggressive to players whose combat level is 101 or greater.
+
+They can be killed for 'bat' [[slayer assignment]]s. They give the highest amount of [[Slayer]] experience for any bat, although there may be higher-levelled [[giant bat (Dungeoneering)|bats]] in [[Daemonheim]] which give more. If you want to slay these, it is recommended to bring a [[witchwood icon]], as the Cave horrors will frequently interrupt. A [[light source]] is also necessary to survive in some caves.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Mos Le'Harmless Caves]]
+|lvls=43
+|mem=yes
+|requirements={{QuestIcon|Cabin Fever}}
+|mapID=27
+|npcid:4345,x:3718,y:9357|npcid:4345,x:3725,y:9370|npcid:4345,x:3734,y:9398
+|npcid:4345,x:3739,y:9385|npcid:4345,x:3747,y:9398|npcid:4345,x:3756,y:9391
+|npcid:4345,x:3761,y:9405|npcid:4345,x:3720,y:9429|npcid:4345,x:3726,y:9442
+|npcid:4345,x:3745,y:9410|npcid:4345,x:3751,y:9425|npcid:4345,x:3763,y:9453
+|npcid:4345,x:3773,y:9461|npcid:4345,x:3817,y:9465|npcid:4345,x:3823,y:9447
+|npcid:4345,x:3826,y:9458|npcid:4345,x:3832,y:9439|npcid:4345,x:3833,y:9462
+|leagueRegion = Morytania}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|kills=358}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bat bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main drop===
+{{RuneMetrics}}
+{{DropsTableHead}}
+{{DropsLine|name=Batwing|quantity=1|rarity=13/128}}
+{{DropsTableBottom}}
+
+===Tertiary drop===
+{{DropsTableHead}}
+{{DropsLine|name=Giant bat wing|rarity=Always|quantity=1|gemw=no|raritynotes={{DropNote|Only during [[Rag and Bone Man]].}}}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[4 July]] [[2006]]|update=Trouble Brewing|img=Albino bat (July 2006).png|name=Albino bat}}
+|{{GUL|date=[[18 October]] [[2006]]|update=Capes of Achievement... and Goats!|img=Albino bat (October 2006).png|name=Albino bat}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Albino bat (2008).png|name=Albino bat}}
+|{{GUL|date=[[12 May]] [[2014]]|update=Patch Notes (12 May 2014)|img=Albino bat.png|name=Albino bat}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Trouble Brewing|date=4 July 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine text is a play on words for the phrase 'It's alright by me.'

@@ -1,0 +1,90 @@
+{{Infobox Monster
+|image = [[File:Undead pekin.png|200px]]
+|release = [[10 October]] [[2016]]
+|update = The Arc – Chapter 2
+|members = Yes
+|actions = Attack
+|examine = Yep. Definitely a Wushanko chicken...an undead Wushanko chicken.
+|level = 7
+|lifepoints = 700
+|experience = 35.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6.4
+|slayercat = Birds, Zombies, Undead
+|assigned_by = Turael, Spria
+|max_melee = 75
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 3
+|attack = 5
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 50
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Fire
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 23366
+|leagueRegion = Asgarnia
+}}
+'''Undead pekins''' are undead versions of [[pekin]]s, the Wushanko [[chicken]]. They are found on [[Goshima]], drop [[raw undead pekin]], and occasionally lay [[pickled egg]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Goshima]]
+|lvls=7
+|mem=yes
+|npcid:23366,x:4433,y:1876|npcid:23366,x:4439,y:1898|npcid:23366,x:4445,y:1894
+|npcid:23366,x:4446,y:1874|npcid:23366,x:4447,y:1888|npcid:23366,x:4451,y:1892
+|npcid:23366,x:4453,y:1876|npcid:23366,x:4453,y:1877
+|leagueRegion = Asgarnia}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw undead pekin|quantity=1|rarity=Always|gemw=no|altvalue=0}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=patch|update=Patch Notes (17 October 2016)|date=17 October 2016}}
+** Undead chicken on Goshima now lay pickled eggs.
+
+* {{UL|type=update|update=The Arc – Chapter 2|date=10 October 2016}}
+** Added to game.
+}}
+
+{{Goshima}}
+{{Zombies}}

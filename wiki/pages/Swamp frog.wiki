@@ -1,0 +1,128 @@
+{{otheruses|the monster|the item|Swamp toad}}
+{{External|os=Frog}}
+{{Infobox Monster
+|name = Swamp frog
+|image = [[File:Swamp frog.png|250px]]
+|release = [[1 March]] [[2021]]
+|update = This Week In RuneScape: Yak To Basics and Ninja Strike 20!
+|members = No
+|options = Attack
+|examine = A swamp dwelling frog.
+|level = 4
+|lifepoints = 650
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19.8
+|slayercat = Frogs
+|max_melee = 40
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 5
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 50
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 120
+|defence = 2
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|id = 27733
+|leagueRegion=Misthalin}}
+'''Swamp frogs''' are monsters found in the [[Lumbridge Swamp]], around the [[water altar]].
+
+Players can kill them as a [[Slayer assignment]] when a [[Slayer Master]] assigns [[Frogs (Slayer assignment)|frogs]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Lumbridge Swamp]]
+|lvls=4
+|mem=no
+|mapID=28
+|npcid:27733,x:3155,y:3173|npcid:27733,x:3156,y:3186|npcid:27733,x:3161,y:3191
+|npcid:27733,x:3175,y:3174|npcid:27733,x:3178,y:3167|npcid:27733,x:3192,y:3168
+|npcid:27733,x:3185,y:3184|npcid:27733,x:3192,y:3197|npcid:27733,x:3197,y:3194
+|npcid:27733,x:3200,y:3177|npcid:27733,x:3207,y:3176|npcid:27733,x:3215,y:3166
+|npcid:27733,x:3213,y:3184|npcid:27733,x:3224,y:3186|npcid:27733,x:3231,y:3174 
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Water rune|quantity=3|rarity=10/53}}
+{{DropsLine|name=Earth rune|quantity=3|rarity=10/53}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=5|rarity=20/53}}
+{{DropsLine|name=Toad's legs|quantity=1|rarity=10/53|members=Yes}}
+{{DropsLine|name=Guam seed|quantity=1|rarity=3/53|members=Yes|raritynotes={{DropNote|Drops nothing in free-to-play{{clarify}}}}}}
+{{DropsLine|name=Nothing|quantity=1|rarity=3/53|members=No|namenotes={{F2POnly}}|raritynotes={{DropNote|Replaced by guam seed in members{{clarify}}}}}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[1 March]] [[2021]]|update=This Week In RuneScape: Yak To Basics and Ninja Strike 20!|img=Swamp frog (2021).png|name=Swamp frog}}
+|{{GUL|date=[[17 November]] [[2025]]|update=Going Home to Lumbridge & Amascut 4k Enrage - This Week In RuneScape|img=Swamp frog.png|name=Swamp frog}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** Added a 1 guam seed drop with 3/53 chance in member worlds (nothing in free-to-play{{clarify}}). This alters all drops to be out of 53 instead of 50.
+** Combat level reduced to 4 (from 11)
+** Life points reduced to 650 (from 1100)
+** Maximum hit reduced to 40 (from 60)
+** Armour reduced to 120 (from 223)
+** Melee accuracy increased to 50 (from 40)
+** Defence level reduced to 2 (from 12)
+** Attack level increased to 5 (from 4)
+** Maximum hit reduced to 40 (from 80)
+** Increased size of model
+
+* {{UL|type=patch|update=Going Home to Lumbridge & Amascut 4k Enrage - This Week In RuneScape|date=17 November 2025}}
+** 6 swamp frogs have been added to east Lumbridge swamp.
+** Swamp frogs in Lumbridge swamp have been graphically updated.
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=This Week In RuneScape: Yak To Basics and Ninja Strike 20!|date=1 March 2021}}
+** Added to game.
+}}
+
+==Trivia==
+* Prior to [[17 November]] [[2025]], they looked very similar to [[big frog]] and [[giant frog]], only smaller. Swamp frogs were released nearly 16 years after its larger counterparts, as part of an update to improve low-level Slayer; they have a lower combat level and roam in the open swamp rather than in the more dangerous [[Lumbridge Swamp Caves]].
+* Swamp frogs drop [[toad's legs]] despite not being toads.

@@ -1,0 +1,105 @@
+{{External|os=Moss Guardian}}
+{{Infobox Monster
+|name = Moss giant
+|image = [[File:Moss giant (Glarial's Tomb).png|250px]]
+|release = [[7 February]] [[2005]]
+|update = Roving Elves
+|members = Yes
+|actions = Attack
+|examine = Bigger than your average moss giant.
+|level = 24
+|lifepoints = 1000
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 60
+|slayercat = Moss giants
+|assigned_by = vannaka
+|max_melee = 216
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 15
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 257
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 316
+|defence = 20
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1681
+|leagueRegion = Kandarin
+}}
+'''Moss giants''' are the guardian spirits of [[Glarial's Tomb]], and are significantly larger than ordinary [[moss giant]]s. They are encountered during the [[Waterfall Quest]] when the player enters the tomb to obtain [[Glarial's amulet]], and must later be killed during the [[Roving Elves]] quest to obtain the [[consecration seed]]. They can only be fought unarmed, as it is impossible to take weapons, armour, ammunition or runes into the tomb.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Glarial's Tomb]]
+|lvls=24
+|mem=yes
+|requirements = Partial completion of {{QuestIcon|Waterfall Quest}}
+|mapID=501
+|npcid:1681,x:2528,y:9843|npcid:1681,x:2541,y:9845|npcid:1681,x:2542,y:9819
+|leagueRegion = Kandarin}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Consecration seed|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Roving Elves]] quest.}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Moss giant bone|quantity=1|rarity=Common|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Shoulder bone|quantity=1|rarity=Common|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[7 February]] [[2005]]|update=Roving Elves|img=Moss giant (Glarial's Tomb) (2005).png|name=Moss giant}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Moss giant (Glarial's Tomb) (2006).png|name=Moss giant}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Moss giant (Glarial's Tomb).png|name=Moss giant}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=ninja|update=This Week In RuneScape: Yak To Basics and Ninja Strike 20!|date=1 March 2021}}
+** Moss giants now attack with melee and are weak to fire spells. Some moss giants' levels and stats were also changed.
+
+* {{UL|type=patch|update=Patch Notes (18 March 2013)|date=18 March 2013}}
+** [[Grotworm]]s, moss giants, [[banshee]]s, [[jungle spider]]s, [[shadow spider]]s, [[spider]]s, [[giant spider]]s, [[deadly red spider]]s, [[ice spider]]s, [[scorpion]]s, [[Poison Scorpion]]s and [[Pit Scorpion]]s will no longer hit for 1 hit point worth of damage.
+
+* {{UL|type=update|update=Roving Elves|date=7 February 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine, "Bigger than your average moss giant." is a play on Yogi the Bear's words, "Smarter than your average bear".
+
+{{Giants}}
+{{Roving Elves}}
+[[Category:Elementals]]
+[[Category:Guthixians]]

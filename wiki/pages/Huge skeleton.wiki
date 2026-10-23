@@ -1,0 +1,66 @@
+{{Infobox Monster
+|version1 = Normal mode
+|version2 = Story mode
+|name = Huge skeleton
+|image = [[File:Huge skeleton.png|175px]]
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|members = Yes
+|actions = Attack, Mark
+|examine = Could do with gaining a few pounds.
+|level = 113
+|lifepoints1 = 12000
+|lifepoints2 = 6000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 0
+|slayxp = 608
+|slayercat = Skeletons
+|assigned_by = 
+|max_melee = 1684.8
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 92
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 2577
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1566
+|defence = 72
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|leagueRegion = Wilderness
+|id1 = 26139,26140
+|id2 = 26139, 26140
+}}
+'''Huge skeletons''' are monsters that appear in the second and third sections of [[The Shadow Reef]]. They are stronger than their [[Summoned skeleton|smaller counterparts]], possessing higher health and damage.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+{{The Shadow Reef}}
+{{Skeletons}}

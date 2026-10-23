@@ -1,0 +1,73 @@
+{{otheruses|def=no|normal version|Fenris wolf}}{{Confuse|Fenrir}}
+{{Recurring content/Neutral}}
+{{Infobox Monster
+|name = Fenris wolf
+|image = [[File:Fenris wolf (Sköll).png|200px]]
+|release = [[16 January]] [[2012]]
+|update = Hati & Sköll
+|members = Yes
+|examine = Summoned by Sköll to feed upon the Fremennik and their allies.
+|level = 42
+|lifepoints = 1500
+|experience = 0.0
+|aggressive = Yes
+|slaylvl = 1
+|slayxp = 17.2
+|slayercat = Wolves
+|assigned_by = Mazchna, Turael, Vannaka
+|max_melee = 120
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 30
+|ranged = 1
+|magic = 1
+|acc_melee = 300
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 300
+|defence = 30
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = No
+|leagueRegion = no
+|id = 14838
+}}
+
+These '''Fenris wolves''' are summoned by [[Sköll]] in sets of three when fought in the [[Fremennik Province]]. Sköll exclaims, "Kusiner, kom och ät upp dem!" which translated from Swedish into English means "Cousins, come and eat them up!" when these are summoned. They are slightly stronger than their normal counterparts. They are more dangerous than they appear, as they move with [[run]] speed unlike most monsters, and have a tendency to stack together. They are best trapped behind [[trees]] or normal Fenris wolves. They also appear to have a larger [[wander radius]] than Sköll, able to attack players when Sköll has lost interest due to the distance.
+
+They should not be underestimated as when [[Protect from Magic]] or [[Deflect Magic]] is active, their combined maximum hit is higher than Sköll himself. They switch targets frequently if there are multiple players around, making them far less dangerous.
+
+When Sköll is defeated, they disappear after some time, proclaiming "Sköll har lämnat oss. Kusiner, slå till reträtt!" which means "Sköll has abandoned us. Cousins, break for refuge!"
+
+They don't have any [[drops]] other than wolf bones and raw wolf meat, and does not give any [[experience]] when damaged.
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Hati & Sköll|date=16 January 2012}}
+** Added to game.
+}}
+
+==Trivia==
+*These wolves have grey fur when normal Fenris wolves has brown fur.
+*In Norse Mythology Fenrir is known as the "Fenris Wolf", Fenrir is one of Loki's 3 monsterous children along with Jormungandr (The Midgard Serpent) and Hel. The Gods will attempt to bind Fenrir. The first two attempts shall fail, but on the third Fenrir will be shown the magical ribbon Gleipnir; Fenrir agrees as long as one of the gods is brave enough to place one of their hands in his mouth as they bind him. Tyr is the only one who accepts the task. As Fenrir struggles, Gliepnir will tighten and Fenrir will bite Tyr's hand off in rage. Fenrir shall break free from Gliepnir and travel to Vigrid to fight in Ragnarok. There he shall swallow Odin whole. He is also the father of [[wikipedia:Hati|Hati]] and [[wikipedia:Sköll|Sköll]].
+[[Category:Wolves]]

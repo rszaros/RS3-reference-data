@@ -1,0 +1,88 @@
+{{Infobox Monster
+|name = TokHaar-Yt-MejKot
+|image = [[File:TokHaar-Yt-MejKot.png|250px]]
+|release = [[4 December]] [[2012]]
+|update = The Brink of Extinction - Grandmaster Quest
+|members = Yes
+|options = Attack, Examine
+|size = 4
+|race = TokHaar
+|examine = This creature's huge claws slice through rock with frightening ease.
+|level = 112
+|lifepoints = 16450
+|experience = 822.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 813.5
+|slayercat = TzHaar
+|assigned_by = Kuradal,Morvran
+|max_melee = 1645
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 80
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 2178
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1486
+|defence = 80
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id = 17123
+|leagueRegion = Karamja
+}}
+'''TokHaar-Yt-MejKot''' is a [[TokHaar]] monster that can be fought during the [[Fight Cauldron]] minigame. It can be killed for [[TzHaar (Slayer assignment)|TzHaar]] Slayer assignments. 
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Obsidian shard|quantity=9|rarity=Always|gemw=no|alch=no|raritynotes={{DropNote|Shards are automatically picked up after every kill. They appear in the player's backpack upon leaving the Fight Cauldron. If the player dies, they instead only receive '''half''' of the shards they obtained.}}}}
+{{DropsTableBottom}}
+
+===Main===
+{{DropsTableHead}}
+{{DropsLine|name=Adamantite stone spirit|quantity=10|rarity=2/3}}
+{{DropsLine|name=Uncut diamond|quantity=2 (noted)|rarity=1/3}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Onyx bolt tips|quantity=6|rarity=1/50}}
+{{DropsLine|name=Uncut onyx|quantity=1|rarity=1/5000}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=The Brink of Extinction - Grandmaster Quest|date=4 December 2012}}
+** Added to game.
+}}
+
+{{Fight Cauldron}}
+[[Category:TokHaar]]

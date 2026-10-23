@@ -1,0 +1,59 @@
+{{Infobox Monster
+|name = Waterfiend
+|image = [[File:Waterfiend (summoned).png|x280px]]
+|release = [[4 July]] [[2022]]
+|update = Zamorak, Lord of Chaos - This Week In RuneScape
+|members = Yes
+|actions = Attack, Mark, Examine
+|examine = A fiendish embodiment of water.
+|level = 111
+|lifepoints = 9000
+|experience = 450.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Waterfiends
+|max_melee = 1414
+|max_ranged = 1506
+|max_magic = 1506
+|style = magic
+|primarystyle = magic
+|speed = 5
+|attack = 77
+|ranged = 82
+|magic = 82
+|acc_melee = 1783
+|acc_ranged = 2023
+|acc_magic = 2023
+|armour = 1783
+|defence = 77
+|weakness = Bolts
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 29270
+|leagueRegion=Misthalin}}
+
+'''Waterfiends''' are monsters found in the sewer canal of [[The Zamorakian Undercity]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Base hit chances increased:
+*** Ranged: 65 → 70
+*** Magic and melee: 55 → 60
+
+* {{UL|type=ninja|update=Scattershot Ninja Strike - This Week In RuneScape|date=18 July 2022}}
+** Any summoned monster found in [[The Zamorakian Undercity]] Elite Dungeon will now show '(summoned)' on their name, to differentiate between summoned monsters and standard monsters.
+
+* {{UL|type=update|update=Zamorak, Lord of Chaos - This Week In RuneScape|date=4 July 2022}}
+** Added to game.
+}}
+
+{{The Zamorakian Undercity}}
+{{Demons}}

@@ -1,0 +1,337 @@
+{{External|os=Hill Giant|rsc=Giant}}
+{{Otheruses|def=no|the Dungeoneering monster|Hill giant (Dungeoneering)}}
+{{Switch infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|version6 = 6
+|name = Hill giant
+|image1 = [[File:Hill Giant (1).png]]
+|image2 = [[File:Hill Giant (2).png]]
+|image3 = [[File:Hill Giant (3).png]]
+|image4 = [[File:Hill Giant (4).png]]
+|image5 = [[File:Hill Giant (5).png]]
+|image6 = [[File:Hill Giant (6).png]]
+|release = [[4 January]] [[2001]]
+|update = Runescape beta is now online!
+|members = No
+|actions = Attack
+|examine = A very large foe.
+|level = 26
+|lifepoints = 4500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 37.6
+|slayercat = Hill giants
+|max_melee = 450
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 15
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 157
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 341
+|defence = 22
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 117
+|id2 = 4689
+|id3 = 4690
+|id4 = 4691
+|id5 = 4692
+|id6 = 4693
+|leagueRegion=Misthalin, Kandarin, Asgarnia, Wilderness, Havenhythe}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|name = Hill giant
+|image1 = 
+|image2 = 
+|image3 = 
+|release = [[28 September]] [[2026]]
+|update = Havenhythe Part II: Journey into the East!
+|members = 
+|level = 26
+|race = 
+|quest = [[Heralds of Crimson]]
+|location = [[Hollow Hill]]
+|gender = 
+|options = Examine
+|examine = A very large friend.
+|map = 
+|id1 = 32880
+|id2 = 32881
+|id3 = 32882
+}}
+}}
+[[File:Giant icon.png|left]]
+A '''hill giant''' is a type of [[giant]] found in several locations across [[Gielinor]]. They are the weakest giant. They only attack with [[melee]] and have very low [[Defence]], which makes them great training for low to mid-levelled players.
+
+[[Edgeville Dungeon]] and the [[Edgeville Dungeon hill giant resource dungeon|resource dungeon within]] is a popular location to fight them, as both a bank and the [[Grand Exchange]] are close by. The dungeons may be accessed through the trapdoor in the ruins south of [[Edgeville]], or in a hut west of the [[Cooks' Guild]] if the player has a [[brass key]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Edgeville Dungeon]]
+|lvls=26
+|mem=no
+|mapID=31
+|npcid:4689,x:3099,y:9832|npcid:4690,x:3100,y:9836|npcid:4693,x:3106,y:9827
+|npcid:4691,x:3107,y:9835|npcid:4691,x:3110,y:9845|npcid:117,x:3111,y:9841
+|npcid:4692,x:3113,y:9831|npcid:4693,x:3116,y:9832|npcid:4692,x:3117,y:9835
+|npcid:4689,x:3117,y:9843|npcid:117,x:3117,y:9850|npcid:4690,x:3122,y:9844
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Edgeville Dungeon hill giant resource dungeon|Edgeville Dungeon resource dungeon]]
+|lvls=26
+|mem=no
+|requirements = {{Skillreq|Dungeoneering|20}}
+|mapID=374
+|npcid:117,x:1108,y:4580|npcid:4690,x:1109,y:4571|npcid:4693,x:1113,y:4573
+|npcid:4689,x:1113,y:4577|npcid:4689,x:1114,y:4569|npcid:4692,x:1119,y:4568
+|npcid:117,x:1119,y:4575|npcid:117,x:1123,y:4578|npcid:4690,x:1124,y:4573
+|npcid:4689,x:1129,y:4572|npcid:4691,x:1131,y:4578
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=North of the [[Observatory]]
+|lvls=26
+|mem=yes
+|mapID=28
+|npcid:4691,x:2438,y:3208|npcid:117,x:2438,y:3218|npcid:4690,x:2439,y:3212
+|npcid:4689,x:2441,y:3217|npcid:4692,x:2443,y:3211|npcid:4693,x:2445,y:3209
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Taverley Dungeon]]
+|lvls=26
+|mem=yes
+|mapID=17
+|npcid:4691,x:2902,y:9736|npcid:4689,x:2905,y:9732|npcid:4690,x:2907,y:9735
+|npcid:117,x:2913,y:9732|npcid:4693,x:2913,y:9741
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Tree Gnome Village (location)|Tree Gnome Village]]
+|lvls=26
+|mem=yes
+|mapID=28
+|npcid:4690,x:2507,y:3149|npcid:117,x:2545,y:3144|npcid:4689,x:2548,y:3147
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=South-west of the [[Tree Gnome Stronghold]]
+|lvls=26
+|mem=yes
+|mapID=28
+|npcid:4693,x:2369,y:3394|npcid:4689,x:2369,y:3401|npcid:117,x:2369,y:3404
+|npcid:4691,x:2371,y:3398|npcid:4692,x:2372,y:3395|npcid:4690,x:2372,y:3401
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=South-east of the [[Boneyard]]
+|lvls=26
+|mem=no
+|mapID=28
+|npcid:117,x:3300,y:3649|npcid:4690,x:3308,y:3661
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Hollow Hill]]
+|lvls=26
+|mem=no
+|mapID=28
+|npcid:117,x:4330,y:3449|npcid:4689,x:4334,y:3446|npcid:4690,x:4331,y:3442|npcid:4691,x:4332,y:3436
+|leagueRegion = Havenhythe
+}}
+{{LocTableBottom}}
+
+==Champion's Challenge==
+Hill Giants are one of the 'races' who have a lesser champion in the members-only [[Champion's Challenge]] [[Distraction and Diversion]]. To fight the [[giant champion]], the player must kill Hill Giants until one drops a [[giant champion's scroll]], a very rare drop. The Distraction & Diversion just uses the term 'giant', but the only type of giant that drops the scroll is the Hill Giant.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mind rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Water rune|quantity=7|rarity=3/128}}
+{{DropsLine|name=Fire rune|quantity=15|rarity=3/128}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=2/128}}
+{{DropsLine|name=Chaos rune|quantity=2|rarity=1/128}}
+{{DropsLine|name=Nature rune|quantity=6|rarity=2/128}}
+{{DropsLine|name=Death rune|quantity=2|rarity=1/128}}
+{{DropsLine|name=Iron arrow|quantity=3|rarity=6/128}}
+{{DropsLine|name=Steel arrow|quantity=10|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|7/128}}
+{{DropsTableHead}}
+{{HerbDropTable|7/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Seeds===
+''There is a 18/100 chance to roll for the herb seed drop table in members' worlds. In free-to-play worlds, there is an increased chance that 38 coins will be dropped instead.''
+
+{{DropsTableHead}}
+{{GeneralSeedDropTable|18/128|level=26}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Iron dagger|quantity=1|rarity=2/128}}
+{{DropsLine|name=Iron off hand dagger|quantity=1|rarity=2/128}}
+{{DropsLine|name=Steel longsword|quantity=1|rarity=1/128}}
+{{DropsLine|name=Steel off hand longsword|quantity=1|rarity=1/128}}
+{{DropsLine|name=Iron full helm|quantity=1|rarity=5/128}}
+{{DropsLine|name=Iron kiteshield|quantity=1|rarity=3/128|altrarity=5/128|raritynotes={{DropNote|3/128 in free-to-play worlds; 5/128 in members' worlds.}}}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=8|rarity=6/128}}
+{{DropsLine|name=Coins|quantity=15|rarity=8/128|namenotes={{F2POnly}}|raritynotes={{DropNote|Replaced by harralander seeds in members' worlds}}}}
+{{DropsLine|name=Coins|quantity=38|rarity=14/128|altrarity=32/128|raritynotes={{DropNote|14/128 drop rate on members' worlds; 32/128 on free to play worlds}}}}
+{{DropsLine|name=Coins|quantity=52|rarity=10/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Body talisman|quantity=1|rarity=2/128}}
+{{DropsLine|name=Beer|quantity=1|rarity=6/128}}
+{{DropsLine|name=Limpwurt root|quantity=1|rarity=12/128}}
+{{DropsLine|name=Grapevine seed|quantity=2|rarity=2/128|members=yes|raritynotes={{DropNote|Only in members' worlds.}}}}
+{{DropsLine|name=Harralander seed|quantity=2-3|rarity=8/128|members=yes|raritynotes={{DropNote|Replaced by 15 coins in free-to-play.}}}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|3/128|f2p=yes}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Shoulder bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No|members=Yes}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No|members=Yes}}
+{{DropsLineCourtSummons}}
+{{DropsLine|name=Giant Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Giant Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineEffigy|level=26}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=26}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 153.564/1000
+|green = 4.799/1000
+|crimson = 9.598/1000
+|blue = 0.96/1000
+}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Hill giant rework concept art.jpg|Concept art for the graphical rework released with [[Havenhythe]].
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Hill Giant (2004).png|name=Hill Giant}}
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Hill Giant (2005).png|name=Hill Giant}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Hill Giant (2006).png|name=Hill Giant}}
+|{{GUL|date=[[23 March]] [[2026]]|update=Welcome to Havenhythe|img=Hill Giant (1).png|name=Hill Giant}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Part II out now!|date=28 September 2026}}
+** Added variants for [[Heralds of Crimson]].
+
+* {{UL|type=update|update=Havenhythe Out Now|date=23 March 2026}}
+** Added to [[Hollow Hill]].
+
+* {{UL|type=hidden|update=Havenhythe Out Now|date=23 March 2026}}
+** Hill Giants have been graphically updated.
+** Renamed from "Hill Giant" to "Hill giant".
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** Replaced 15 coins drop in members with 2-3 harralander seeds (with a 8/128 chance) (remains 15 coins in free-to-play)
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Tiny spiky iron salvage → Iron dagger/Iron off hand dagger
+*** Small plated iron salvage → Iron full helm
+*** Medium plated iron salvage → Iron kiteshield
+*** Small bladed steel salvage → Steel longsword/Steel off hand longsword
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Rune Value Improvements|date=15 September 2014}}
+** Many monster types have had their rune drop rates reduced or removed, in order to increase the value of altar runecrafting.
+*** Hill Giants have had their 2 [[law rune]] drop removed. To compensate, the [[steel arrow]] drop rate has been increased from 2/128 to 5/128.
+
+* {{UL|type=update|update=Demons, Dragons and Giants|date=29 August 2006}}
+** The NPC was graphically reworked and renamed from "Hill giant" to "Hill Giant".
+
+* {{UL|update=Creature of Fenkenstrain|date=31 January 2005}}
+** Giants have been renamed to hill giants. This is to make it clear that when the slayer masters tell you to kill hill giants, they don't mean moss giants, fire giants or ice giants.
+** We have added more hill giants and hellhounds to cope with the increased demand for these creatures that has been created by the slayer skill. 
+** There are hill giants added to the north of the observatory and south-west of the gnome stronghold.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* They were once just called 'Giants', but this was later changed to avoid confusion between other giants.
+* There are 5 safe spots which can be used for killing Hill Giants in the Edgeville Dungeon, thus it is a popular place for players to train Ranged and Magic.
+* Despite being called "Hill Giants", most are found in dungeons. The reason for the naming was revealed in a Postbag from the Hedge; they are called "Hill Giants" because their muscles on their arms resemble hills.{{CitePostbag |issue=11 |author=Malvern |letter=10 |name= }}
+
+==References==
+{{Reflist}}
+
+{{Giants}}
+{{Heralds of Crimson}}
+{{Hollow Hill}}
+[[Category:Giants]]
+[[Category:Bandosians]]
+[[pt:Gigante da colina]]

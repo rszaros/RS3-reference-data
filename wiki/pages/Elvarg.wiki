@@ -1,0 +1,261 @@
+{{External|os|rsc=Dragon (Dragon slayer)}}
+{{Multi infobox
+|text1 = Monster
+|item1 = 
+{{Infobox Monster
+|version1 = Dragon Slayer
+|version2 = Dominion Tower
+|version3 = Rumble Mode
+|name = Elvarg
+|image = [[File:Elvarg.png]]
+|release1 = [[23 September]] [[2001]]
+|release2 = [[1 November]] [[2011]]
+|release3 = [[8 December]] [[2014]]
+|update1 = Dragon quest online!
+|update2 = Dominion Tower
+|update3 = Snowverload & Dominion Tower Rumble Mode
+|members1 = No
+|members2 = Yes
+|members3 = Yes
+|options = Attack, Examine
+|size = 4
+|race = Dragon
+|examine = Roar! A dragon!
+|level = 63
+|lifepoints = 21000
+|experience = 1050
+|aggressive1 = Yes
+|aggressive2 = Yes
+|aggressive3 = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 80
+|slayercat1 = Green dragons, Dragons
+|slayercat2 = No
+|slayercat3 = No
+|max_melee1 = 720
+|max_melee2 = 900
+|max_melee3 = 240
+|max_ranged1 = 720
+|max_ranged2 = 900
+|max_ranged3 = 240
+|max_magic1 = 720
+|max_magic2 = 900
+|max_magic3 = 240
+|max_necromancy = 0
+|max_spec = 
+|style = Ranged, Melee, Dragonfire, Magic
+|primarystyle = Ranged
+|speed = 4
+|attack1 = 45
+|attack2 = 45
+|attack3 = 
+|ranged1 = 45
+|ranged2 = 45
+|ranged3 = 
+|magic1 = 45
+|magic2 = 45
+|magic3 = 
+|necromancy = 1
+|acc_melee = 732
+|acc_ranged = 732
+|acc_magic = 732
+|acc_necromancy = 0
+|abilities = 
+|armour = 732
+|defence1 = 45
+|defence2 = 45
+|defence3 = 
+|weakness = None
+|susceptibility = Dragon slayer
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_stun = Yes
+|immune_to_stun2 = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|restriction1 = quest
+|restriction2 = minigame
+|restriction3 = minigame
+|id1 = 742
+|id2 = 14548, 14554
+|id3 = 18923
+|leagueRegion1 = Karamja
+|leagueRegion2 = Desert
+|leagueRegion3 = Desert
+}}
+|text2 = NPC
+|item2 = 
+{{Infobox NPC
+|version1 = Dragon Slayer
+|version2 = Dominion Tower
+|version3 = Foreshadowing
+|name = Elvarg
+|image = [[File:Elvarg.png]]
+|release1 = [[23 September]] [[2001]]
+|release2 = [[1 November]] [[2011]]
+|release3 = [[25 January]] [[2021]]
+|update1 = Dragon quest online!
+|update2 = Dominion Tower
+|update3 = This Week In RuneScape - Celebration of Skilling
+|level1 = 63
+|level2 = N/A
+|level3 = N/A
+|members1 = No
+|members2 = Yes
+|members3 = Yes
+|race = Dragon
+|quest1 = [[Dragon Slayer]]
+|quest2 = No
+|quest3 = [[Once Upon a Time in Gielinor: Foreshadowing]]
+|location1 = [[Elvarg's lair]]
+|location2 = [[Dominion Tower]]
+|location3 = [[Closure's study]]
+|gender = Female
+|options1 = Examine
+|options2 = Examine
+|options3 = Talk to, Examine
+|examine1 = The headless body of a mighty dragon.
+|examine2 = The headless body of a mighty dragon.
+|examine3 = Roar! A dead dragon!
+|map = No
+|id1 = 6087
+|id2 = 14547
+|id3 = 27457
+|leagueRegion1 = Karamja
+|leagueRegion2 = Desert
+|leagueRegion3 = Desert
+}}
+}}
+[[File:Elvarg chathead.png|left|75px]]
+'''Elvarg''' is a female [[green dragon]] and is considerably stronger than most others of her kind. Even though [[lesser demon|lesser]] and [[greater demon]]s have a higher combat level, Elvarg is far more difficult to defeat. Elvarg lives in a [[Elvarg's lair|underground cave]] in [[Crandor]], that is connected to [[Karamja]] through a series of tunnels.
+
+During the quest [[Dragon Slayer]], players must slay her and bring her head to [[Oziach]]. Elvarg is one of the few dragons that can be encountered by [[Free-to-play|free players]], and differs when compared to other dragons in the fact that she can only be directly engaged during the quest, after which players cannot enter her lair again.
+
+Unlike other dragons, Elvarg's dragonfire is capable of lowering the player's combat stats, including prayer, if not protected against.
+
+Additionally, for [[members]], Elvarg can be encountered as a class G boss monster in the [[Dominion Tower]] minigame after the player has completed Dragon Slayer.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Elvarg
+|loc = [[Elvarg's lair]]
+|mem = No
+|requirements={{QuestIcon|Dragon Slayer}} (partial)
+|mapID = 13
+|plane = 0
+|lvls = 63
+|npcid:742,x:292,y:229
+|leagueRegion = Karamja
+}}
+{{LocTableBottom}}
+
+==History==
+During the first century of the [[Fifth Age]], [[Crandor]] was an important location in [[Gielinor]]'s [[Southern Sea]], with a well-established colony and shipping routes all over the world. In year 139 of the Fifth Age, a [[Skeleton (Elvarg's lair)|Crandorian adventurer]] discovered and ventured into a deep dungeon at the summit of the hill which made up the island. Upon entering, he awoke Elvarg from her slumber and enraged her, causing her to rise from the mountain and annihilate the human community on Crandor, torching the island in the process.
+
+Survivors from the island took several ships and fled to the friendly shores of [[Asgarnia]], and formed a rag-tag refugee camp near the village of [[Rimmington]]. Elvarg, however, not content with the work she had already done, found and destroyed the refugee camp, killing all but three of the refugees, and leaving them to go their separate ways. The three (by name [[Melzar the Mad|Melzar]], [[Lozar]] and [[Thalzar]]), decided that nobody should ever have to suffer the way they had, and split the last navigational map to the isle (which was surrounded by deadly coral reefs) into three parts, taking a part with them when they went.
+
+[[Lozar]], a female mage and scholar, settled in the quiet town of [[Lumbridge]], but was killed and robbed by [[goblins]] during the [[Battle of East Lumbridge]]. Her map piece was taken by [[Wormbrain]], who was later imprisoned in [[Port Sarim Jail]]. Thalzar took the secret of his map piece to the grave, and protected it deep in the [[Dwarven Mines]], sealed behind a magical door. Melzar, on the other hand, became a recluse, and shut himself away inside a maze he had built over the site of the refugee camp, and there he stayed for years, trying to resurrect his loved ones, and delving deeper and deeper into madness.
+
+===Death===
+{{OccDur|Dragon Slayer}}
+In year 169 of the [[Fifth Age]], Elvarg remained in her lair, brooding, and now undisturbed by adventurers. The isle of Crandor remains charred and dead, with few remains of the human settlement that once proudly stood. There are pillars, broken and fallen, noticeable upon the path to Elvarg's Lair from the wreckage of Lady Lumbridge.
+
+Elvarg's reputation for destruction has travelled far, however, and when Oziach, an odd dealer in the rare and sturdy metal of runite, sets up shop in the newly renovated town of [[Edgeville]], selling the valuable [[rune platebody]] to seasoned adventurers, he demanded a test of strength to everyone who comes seeking one of his items. An adventurer, who had just entered the [[Champions' Guild]], was sent by the [[guildmaster]] to Oziach, who demanded they bring him [[Elvarg's head|her head]] to gain the right to wear rune platebodies.
+
+The adventurer was able to secure the three [[Crandor map|map pieces]], and bought the [[Lady Lumbridge]], a ship of Crandorian design, hiring [[Ned]] as the captain and [[Cabin Boy Jenkins|Jenkins]] as a cabin boy. Upon setting sail to Crandor, Elvarg appeared to be alerted by their presence and attacked, killing Jenkins. The adventurer and Ned survived, with the adventurer exploring the island while Ned remained behind as he was not a combatant. The adventurer soon discovered Elvarg in her lair and killed her, severed her head and brought it to Oziach as proof of her demise.
+
+==Dialogue==
+{{Speaksin}}
+{{Listen|filename=Eye of the Storm.ogg|align=left|title=Elvarg's menacing theme|desc=}}
+{{Clear|left}}
+
+==Mentioned==
+{{MentionedIn}}
+
+==Gallery==
+<gallery mode="packed">
+Head image default.png|[[Head banner]] depicting Elvarg attacking Crandor.
+File:Thumb Elvarg.jpg|Elvarg destroying the island of Crandor.
+Elvargs first victim.png|The remains of the adventurer that woke Elvarg.
+Elvarg's Cave.png|Elvarg's cave.
+Elvarg dies.gif|Elvarg is defeated and beheaded.
+Dragon Slayer Elvarg dead.png|A player who has killed Elvarg.
+Elvarg effigy.png|Elvarg effigy at the [[Grand Party]].
+RuneScape Kingdoms Shadow of Elvarg core box.png|RuneScape Kingdoms: Shadow of Elvarg box art
+Shadow of Elvarg artwork.jpg|Shadow of Elvarg artwork by Doug Telford
+Elvarg miniature.png|Elvarg miniature from [[RuneScape Kingdoms]]
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[23 September]] [[2001]]|update=Dragon quest online!|img=Elvarg (2001).png|name=Elvarg}}
+|{{GUL|date=[[10 January]] [[2002]]|update=Compression|img=Elvarg (2002).png|name=Elvarg}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Elvarg (2004).png|name=Elvarg}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Elvarg (2006).png|name=Elvarg}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Elvarg (2008).png|name=Elvarg}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Elvarg.png|name=Elvarg}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Update:Combat Update & Thok's Smashing Buffs- This Week In RuneScape|date=4 March 2024}}
+** Increased the base hit chance of all the following bosses to use the standard base hit chances.
+** Increased the life points of the boss:
+*** Elvarg - Dragon Slayer
+**** HP: 15000 → 21000
+**** Dominion Tower HP: 15000/9000 → 21000
+
+* {{UL|type=ninja|update=Patch Notes (14 September 2015)|date=14 September 2015}}
+** The following quest fights have been rebalanced:
+*** Elvarg:
+**** 10,000 life points (up from 6,000).
+**** Max hit of 720 (up from 200).
+**** Hits a maximum of 1,000 (up from 300) damage with dragon-fire with an anti-dragon shield equipped, and 1,500 (up from 1,200) without.
+*** Elvarg (Dominion Tower):
+**** Same changes as the quest variant.
+**** 15,000 life points (up from 9,000).
+**** Max hit of 900 (up from 300).
+
+* {{UL|type=patch|update=Patch Notes (3 November 2014)|date=1 November 2014}}
+** Elvarg's combat level in the Dragon Slayer quest journal has been corrected.
+
+* {{UL|type=patch|update=Patch Notes (22 November 2012)|date=22 November 2012}}
+** Elvarg no longer drains all of a player's Prayer in one hit.
+
+* {{UL|type=update|update=Love Story|date=5 July 2010}}
+** We’ve graphically updated the regular dragons in the game. This includes green, blue red and black dragons (including baby variants), plus bronze, iron, steel and mithril dragons.
+
+* {{UL|type=update|update=Demons, Dragons and Giants|date=29 August 2006}}
+** Graphically updated.
+
+* {{UL|type=hidden|update=Compression|date=10 January 2002}}
+** Graphically updated.
+
+* {{UL|type=update|update=Dragon quest online!|date=23 September 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* In ''[[RuneScape Classic]]'', Elvarg was just named "Dragon" in-game and was level 110, the strongest monster in free play, a title it relinquished to the [[Greater demon]] when ''[[RuneScape 2]]'' was released.
+* If you attempt to enter the longhall in [[Rellekka]] before crafting your lyre for [[Olaf the Bard]]'s council vote in [[The Fremennik Trials]] quest, your player will claim they are an acapella bard to the Longhall Bouncer and you will be given a choice of four songs to sing. One of them is titled "Elvarg The Magic Dragon." The song lyrics are "Elvarg the magic dragon... Lives by the sea... He spends all his days eating folk, And dies occasionally..." This refers to Elvarg as a male rather than female. The song is based on "{{Wp|Puff, the Magic Dragon}}", a popular song by the folk group {{Wp|Peter, Paul and Mary}}.
+
+{{Dragon Slayer}}
+{{Dragon (race)}}
+{{Dominion Tower}}
+[[Category:Unique monsters]]
+[[Category:Quest monsters]]
+[[Category:Antagonists]]
+[[Category:Free-to-play bosses]]
+[[Category:Deceased characters]]
+[[pt:Elvarg]]

@@ -1,0 +1,347 @@
+{{External|rsc|os|wp}}
+{{otheruses|the NPC found all over ''RuneScape''|other uses|Spider (disambiguation)}}
+{{Infobox Monster
+|version1 = Common
+|version2 = Underground Pass
+|version3 = Ape Atoll
+|version4 = Stronghold of Security
+|name = Spider
+|image1 = [[File:Spider.png|100px]]
+|image2 = [[File:Spider old.png|100px]]
+|image3 = [[File:Spider Ape Atoll.png|100px]]
+|image4 = [[File:Spider old.png|100px]]
+|release1 = [[4 January]] [[2001]]
+|release2 = [[3 March]] [[2003]]
+|release3 = [[6 December]] [[2004]]
+|release4 = [[4 July]] [[2006]]
+|update1 = Runescape beta is now online!
+|update2 = New Quest Online - Part Three
+|update3 = Monkey Madness
+|update4 = Security and free-to-play update - the Stronghold of Security
+|members1 = No
+|members2 = Yes
+|members3 = Yes
+|members4 = No
+|options = Attack
+|examine = Incey wincey.
+|examine3 = It's an extremely small brown spider, probably very poisonous.
+|examine4 = Incey wincey... with a nasty bite.
+|level = 1
+|level4 = 15
+|lifepoints = 50
+|lifepoints4 = 1050
+|aggressive = No
+|poisonous = No
+|poisonous3 = Yes
+|slaylvl = 1
+|slayxp = 6.4
+|slayxp3 = 17.6
+|slayercat = Spiders
+|assigned_by = Turael, Jacquelyn, Vannaka
+|max_melee1 = 4
+|max_melee2 = 3
+|max_melee3 = 3
+|max_melee4 = 0
+|max_ranged = 4
+|max_ranged4 = 220
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 0
+|attack4 = 1
+|ranged = 1
+|ranged4 = 11
+|magic = 0
+|necromancy = 1
+|magic4 = 1
+|acc_melee1 = 110
+|acc_melee2 = 7
+|acc_melee3 = 7
+|acc_melee4 = 0
+|acc_ranged = 110
+|acc_ranged4 = 113
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|armour4 = 213
+|defence = 1
+|defence4 = 11
+|weakness = Crush
+|susceptibility = NopeNopeNope
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 61
+|id2 = 1004
+|id3 = 1473
+|id4 = 4401
+|leagueRegion=Desert, Kandarin, Misthalin, Wilderness, Karamja, Morytania, Asgarnia, Tirannwn}}
+[[File:Spider icon.png|left]]
+'''Spiders''' are found all over ''[[RuneScape]]'', but most notably in the third floor of the [[Stronghold of Security]], where they can be found at [[combat level]] 15 and in large numbers. Level 15 spiders are aggressive and can hit up to 44 life [[points]]. Like [[rat]]s, spiders usually do not appear on the minimap. It should be noted that they can drop [[charms]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Al Kharid]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:61,x:3319,y:3139|npcid:61,x:3322,y:3141|npcid:61,x:3324,y:3138
+|leagueRegion = Desert
+}}
+{{LocLine
+|loc=[[Ape Atoll Dungeon]]
+|lvls=1
+|mem=yes
+|requirements={{QuestIcon|Monkey Madness}} (partial)
+|mapID=615
+|npcid:1473,x:2694,y:9104|npcid:1473,x:2694,y:9138|npcid:1473,x:2698,y:9127|npcid:1473,x:2704,y:9104|npcid:1473,x:2711,y:9137|npcid:1473,x:2712,y:9108|npcid:1473,x:2716,y:9096|npcid:1473,x:2716,y:9146|npcid:1473,x:2729,y:9118|npcid:1473,x:2732,y:9130|npcid:1473,x:2741,y:9122|npcid:1473,x:2743,y:9107|npcid:1473,x:2748,y:9100|npcid:1473,x:2748,y:9143|npcid:1473,x:2761,y:9094|npcid:1473,x:2761,y:9120|npcid:1473,x:2761,y:9144|npcid:1473,x:2764,y:9103|npcid:1473,x:2766,y:9133|npcid:1473,x:2768,y:9111|npcid:1473,x:2781,y:9140|npcid:1473,x:2784,y:9093|npcid:1473,x:2788,y:9102|npcid:1473,x:2793,y:9117|npcid:1473,x:2793,y:9130|npcid:1473,x:2798,y:9138|npcid:1473,x:2799,y:9099|npcid:1473,x:2810,y:9104|npcid:1473,x:2810,y:9124
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Draynor Manor#Dungeon|Draynor Manor Dungeon]]
+|lvls=1
+|mem=no
+|mapID=31
+|npcid:61,x:3110,y:9745|npcid:61,x:3111,y:9746|npcid:61,x:3112,y:9748|npcid:61,x:3112,y:9749
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Gnome Maze]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:61,x:2535,y:3181|npcid:61,x:2535,y:3183|npcid:61,x:2536,y:3180|npcid:61,x:2537,y:3183|npcid:61,x:2541,y:3182|npcid:61,x:2541,y:3188|npcid:61,x:2542,y:3186|npcid:61,x:2544,y:3191|npcid:61,x:2548,y:3190
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Jungle demon|Jungle demon lair]]
+|lvls=1
+|mem=yes
+|requirements={{QuestIcon|Monkey Madness}} (partial)
+|mapID=616
+|npcid:1473,x:2697,y:9171|npcid:1473,x:2699,y:9202|npcid:1473,x:2701,y:9179|npcid:1473,x:2701,y:9194|npcid:1473,x:2704,y:9202|npcid:1473,x:2706,y:9194|npcid:1473,x:2707,y:9170|npcid:1473,x:2709,y:9175|npcid:1473,x:2722,y:9173|npcid:1473,x:2723,y:9198|npcid:1473,x:2725,y:9195|npcid:1473,x:2726,y:9181|npcid:1473,x:2728,y:9203|npcid:1473,x:2732,y:9178|npcid:1473,x:2732,y:9199|npcid:1473,x:2734,y:9170
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Lumbridge Swamp]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:61,x:3201,y:3187|npcid:61,x:3212,y:3193|npcid:61,x:3211,y:3186
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Lumbridge forest]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:61,x:3165,y:3247|npcid:61,x:3168,y:3245|npcid:61,x:3169,y:3247
+|npcid:61,x:3168,y:3251|npcid:61,x:3149,y:3216|npcid:61,x:3157,y:3217
+|npcid:61,x:3159,y:3222
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Lumbridge Castle#Cellar|Lumbridge Castle Cellar]]
+|lvls=1
+|mem=no
+|mapID=31
+|npcid:61,x:3209,y:9618|npcid:61,x:3211,y:9621|npcid:61,x:3216,y:9616|npcid:61,x:3216,y:9624
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Marim]]
+|lvls=1
+|mem=yes
+|mapID=28
+|requirements={{QuestIcon|Monkey Madness}} (partial)
+|npcid:1473,x:2734,y:2792|npcid:1473,x:2749,y:2768|npcid:1473,x:2753,y:2799|npcid:1473,x:2761,y:2770|npcid:1473,x:2767,y:2794|npcid:1473,x:2770,y:2766|npcid:1473,x:2775,y:2777|npcid:1473,x:2780,y:2791|npcid:1473,x:2791,y:2780|npcid:1473,x:2796,y:2763|npcid:1473,x:2798,y:2792|npcid:1473,x:2801,y:2780|npcid:1473,x:2767,y:2765|npcid:1473,x:2769,y:2798|npcid:1473,x:2778,y:2768|npcid:1473,x:2793,y:2789|npcid:1473,x:2794,y:2780|npcid:1473,x:2806,y:2787|npcid:1473,x:2752,y:2798
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=North of [[Red Dragon Isle]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:61,x:3161,y:3885|npcid:61,x:3163,y:3879|npcid:61,x:3164,y:3881|npcid:61,x:3164,y:3887|npcid:61,x:3166,y:3886|npcid:61,x:3167,y:3889|npcid:61,x:3168,y:3886|npcid:61,x:3168,y:3893|npcid:61,x:3169,y:3883|npcid:61,x:3171,y:3881|npcid:61,x:3171,y:3889|npcid:61,x:3173,y:3882|npcid:61,x:3173,y:3885|npcid:61,x:3174,y:3878|npcid:61,x:3176,y:3887|npcid:61,x:3177,y:3883|npcid:61,x:3178,y:3885
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Ogre Enclave]]
+|lvls=1
+|mem=yes
+|requirements={{QuestIcon|Watchtower}} (partial)
+|mapID=572
+|npcid:61,x:2565,y:9443|npcid:61,x:2576,y:9454|npcid:61,x:2586,y:9423|npcid:61,x:2588,y:9431|npcid:61,x:2600,y:9432|npcid:61,x:2604,y:9441|npcid:61,x:2607,y:9460|npcid:61,x:2608,y:9436|npcid:61,x:2610,y:9446|npcid:61,x:2617,y:9451
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Rashiliyia's Tomb]]
+|lvls=1
+|mem=yes
+|requirements={{QuestIcon|Shilo Village}} (partial)
+|mapID=573
+|npcid:61,x:2920,y:9486
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc=[[Ruins (west)]] (level 23 Wilderness)
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:61,x:2982,y:3683|npcid:61,x:2987,y:3683|npcid:61,x:2988,y:3679|npcid:61,x:2989,y:3686|npcid:61,x:2991,y:3692|npcid:61,x:2993,y:3684
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Stronghold of Security]]
+|lvls=15
+|mem=no
+|mapID=24
+|npcid:4401,x:15,y:42|npcid:4401,x:16,y:45|npcid:4401,x:17,y:44|npcid:4401,x:18,y:39|npcid:4401,x:20,y:37|npcid:4401,x:20,y:41|npcid:4401,x:22,y:38|npcid:4401,x:22,y:40|npcid:4401,x:23,y:37|npcid:4401,x:23,y:41|npcid:4401,x:24,y:39|npcid:4401,x:25,y:35|npcid:4401,x:25,y:41|npcid:4401,x:46,y:35|npcid:4401,x:48,y:38|npcid:4401,x:51,y:38|npcid:4401,x:51,y:39|npcid:4401,x:52,y:41|npcid:4401,x:52,y:42|npcid:4401,x:61,y:23|npcid:4401,x:62,y:24|npcid:4401,x:63,y:19|npcid:4401,x:63,y:21|npcid:4401,x:63,y:23|npcid:4401,x:64,y:21|npcid:4401,x:64,y:24|npcid:4401,x:64,y:25|npcid:4401,x:65,y:18|npcid:4401,x:65,y:22|npcid:4401,x:65,y:23|npcid:4401,x:66,y:20|npcid:4401,x:66,y:22|npcid:4401,x:66,y:24|npcid:4401,x:67,y:21|npcid:4401,x:68,y:22
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Temple of Marimbo Dungeon]]
+|lvls=1
+|mem=yes
+|requirements={{QuestIcon|Monkey Madness}} (partial)
+|mapID=617
+|npcid:1473,x:2761,y:9189|npcid:1473,x:2764,y:9195|npcid:1473,x:2767,y:9163|npcid:1473,x:2768,y:9187|npcid:1473,x:2769,y:9193|npcid:1473,x:2770,y:9201|npcid:1473,x:2773,y:9194|npcid:1473,x:2776,y:9163|npcid:1473,x:2779,y:9163|npcid:1473,x:2784,y:9201|npcid:1473,x:2785,y:9164|npcid:1473,x:2785,y:9190|npcid:1473,x:2787,y:9169|npcid:1473,x:2788,y:9196|npcid:1473,x:2789,y:9172|npcid:1473,x:2792,y:9167|npcid:1473,x:2796,y:9170|npcid:1473,x:2796,y:9175|npcid:1473,x:2797,y:9198|npcid:1473,x:2799,y:9205|npcid:1473,x:2800,y:9162|npcid:1473,x:2801,y:9198
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Temple Trekking]] Swamp
+|lvls=1
+|mem=yes
+|mapID=302
+|npcid:14069,x:2037,y:5041|npcid:14069,x:2037,y:5042
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Taverley Dungeon]]
+|lvls=1
+|mem=yes
+|mapID=17
+|npcid:61,x:2891,y:9834|npcid:61,x:2893,y:9828|npcid:61,x:2896,y:9833
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Underground Pass (dungeon)|Underground Pass dungeon]] (Bottom level)
+|lvls=1
+|mem=yes
+|requirements={{QuestIcon|Underground Pass}} (partial)
+|mapID=578
+|npcid:1004,x:2329,y:9898|npcid:1004,x:2330,y:9914|npcid:1004,x:2332,y:9894|npcid:1004,x:2334,y:9878|npcid:1004,x:2334,y:9887|npcid:1004,x:2334,y:9900|npcid:1004,x:2336,y:9893|npcid:1004,x:2337,y:9888|npcid:1004,x:2337,y:9898|npcid:1004,x:2338,y:9906|npcid:1004,x:2339,y:9875|npcid:1004,x:2339,y:9881|npcid:1004,x:2339,y:9893|npcid:1004,x:2339,y:9914|npcid:1004,x:2341,y:9897|npcid:1004,x:2344,y:9879|npcid:1004,x:2344,y:9905|npcid:1004,x:2345,y:9888|npcid:1004,x:2346,y:9873|npcid:1004,x:2346,y:9881|npcid:1004,x:2346,y:9890|npcid:1004,x:2346,y:9915|npcid:1004,x:2347,y:9878|npcid:1004,x:2347,y:9887|npcid:1004,x:2347,y:9900|npcid:1004,x:2349,y:9897|npcid:1004,x:2349,y:9916|npcid:1004,x:2350,y:9875|npcid:1004,x:2352,y:9909|npcid:1004,x:2353,y:9899|npcid:1004,x:2354,y:9878|npcid:1004,x:2354,y:9914|npcid:1004,x:2355,y:9905|npcid:1004,x:2355,y:9907|npcid:1004,x:2356,y:9881|npcid:1004,x:2357,y:9885|npcid:1004,x:2357,y:9889|npcid:1004,x:2358,y:9902|npcid:1004,x:2358,y:9918|npcid:1004,x:2360,y:9879|npcid:1004,x:2360,y:9891|npcid:1004,x:2361,y:9884|npcid:1004,x:2361,y:9911|npcid:1004,x:2362,y:9894|npcid:1004,x:2362,y:9904|npcid:1004,x:2363,y:9905|npcid:1004,x:2363,y:9910|npcid:1004,x:2363,y:9916|npcid:1004,x:2364,y:9897|npcid:1004,x:2364,y:9914
+|leagueRegion = Tirannwn
+}}
+{{LocLine
+|loc=[[Varrock Sewers]]
+|lvls=1
+|mem=no
+|mapID=31
+|npcid:61,x:3206,y:9880|npcid:61,x:3210,y:9887|npcid:61,x:3210,y:9893|npcid:61,x:3212,y:9888|npcid:61,x:3212,y:9891|npcid:61,x:3261,y:9870|npcid:61,x:3262,y:9869|npcid:61,x:3262,y:9870
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=East of [[Yanille]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:61,x:2671,y:3107|npcid:61,x:2672,y:3109
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+===Charms===
+{{CharmDataTable|Spider}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Spider artwork.png|Spiders concept art
+</gallery>
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Common
+|item1 = 
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Spider (2004).png|name=Spider}}
+|{{GUL|date=April-June [[2005]]|update=|img=Spider (2005).png|name=Spider}}
+|{{GUL|date=[[8 May]] [[2007]]|update=Small spiders, kalphites, scorpions and metal dragons|img=Spider (2007).png|name=Spider}}
+|{{GUL|date=|update=|img=Spider old.png|name=Spider}}
+|{{GUL|date=[[12 May]] [[2014]]|update=Patch Notes (12 May 2014)|img=Spider.png|name=Spider}}
+}}
+
+|text2 = Underground Pass
+|item2 =  
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Spider (Underground Pass) (2004).png|name=Spider}}
+|{{GUL|date=April-June [[2005]]|update=|img=Spider (2005).png|name=Spider}}
+|{{GUL|date=[[8 May]] [[2007]]|update=Small spiders, kalphites, scorpions and metal dragons|img=Spider (2007).png|name=Spider}}
+|{{GUL|date=|update=|img=Spider old.png|name=Spider}}
+}}
+
+|text3 = Ape Atoll
+|item3 = 
+{{GU|subject=npc
+|{{GUL|date=[[6 December]] [[2004]]|update=Monkey Madness|img=Spider (Ape Atoll) (2004).png|name=Spider}}
+|{{GUL|date=April-June [[2005]]|update=|img=Spider (Ape Atoll) (2005).png|name=Spider}}
+|{{GUL|date=[[8 May]] [[2007]]|update=Small spiders, kalphites, scorpions and metal dragons|img=Spider (Ape Atoll) (2007).png|name=Spider}}
+|{{GUL|date=|update=|img=Spider Ape Atoll.png|name=Spider}}
+}}
+
+|text4 = Stronghold of Security
+|item4 = 
+{{GU|subject=npc
+|{{GUL|date=[[4 July]] [[2006]]|update=Security and free-to-play update - the Stronghold of Security|img=Spider (2005).png|name=Spider}}
+|{{GUL|date=[[8 May]] [[2007]]|update=Small spiders, kalphites, scorpions and metal dragons|img=Spider (2007).png|name=Spider}}
+|{{GUL|date=|update=|img=Spider old.png|name=Spider}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (12 May 2014)|date=12 May 2014}}
+** Spiders have been graphically updated across the game.
+
+* {{UL|type=patch|update=Patch Notes (18 March 2013)|date=18 March 2013}}
+** [[Grotworm]]s, [[moss giant]]s, [[banshee]]s, [[jungle spider]]s, shadow spiders, spiders, [[giant spider]]s, [[deadly red spider]]s, [[ice spider]]s, [[scorpion]]s, [[poison scorpion]]s and [[pit scorpion]] will no longer hit for 1 hit point worth of damage.
+
+* {{UL|type=patch|update=Patch Notes (21 July 2009)|date=21 July 2009}}
+** Moved several spiders that were previously spawning in blocked areas of the map.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* According to the [[2009 Halloween event]], spiders come from the [[Spider Realm]], a different realm to ''RuneScape''.
+* The spider at [[Ape Atoll Temple]] respawns every 2 seconds.
+* Despite the fact that Jagex said to have updated all spiders across the game, only the spiders in [[Taverley Dungeon]] are currently updated with a new look.
+* A non-interactive spider may appear in the choosing route section of [[Temple Trekking]].
+*Their examine text is a reference to the "Incy Wincy Spider" nursery rhyme as it is known in the UK, better known as the "{{wp|Itsy Bitsy Spider}}" in the US.
+{{Spiders}}
+{{Lumbridge Swamp}}
+[[Category:NPCs with multiple Examine options]]
+[[Category:NPCs not visible on the minimap]]
+[[pt:Aranha]]

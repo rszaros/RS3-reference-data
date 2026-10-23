@@ -1,0 +1,114 @@
+{{Otheruses|the wolf found south of Rellekka|the common wolf|Wolf}}
+{{Otheruses|def=no|the wolves summoned by Sköll|Fenris wolf (Sköll)}}
+{{Confuse|Fenrir}}
+{{Infobox Monster
+|name = Fenris wolf
+|image = [[File:Fenris wolf.png|150px]]
+|release = [[10 August]] [[2009]]
+|update = Fur 'n' Seek
+|members = Yes
+|actions = Attack
+|examine = Fearsome predator found only in the Fremennik Province, renowned for its fur.
+|level = 46
+|lifepoints = 4950
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 21.6
+|slayercat = Wolves
+|assigned_by = turael, mazchna, Vannaka
+|max_melee = 700
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 35
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 436
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 470
+|defence = 31
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Fremennik
+|id = 1330
+}}
+The '''Fenris wolf''' is a wolf found south of [[Rellekka]]. During the quest [[Fur 'n Seek]], its pelt must be collected and cleaned for the [[Odd Old Man]].
+
+During the [[2012 Winter event|2012]] and [[2013 Winter event]]s, two to five level 70 [[Fenris wolf (Sköll)|Fenris wolves]] would be summoned by [[Sköll]] while players fight him.
+
+During the 2012 Winter event, [[Jagex Moderator]]s had the ability to spawn multiple Fenris wolves which could then be attacked. While they could be spawned anywhere, they were most commonly found at the [[Grand Exchange]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=South of [[Rellekka]]
+|lvls=46
+|mem=yes
+|mapID=28
+|npcid:1330,x:2614,y:3643|npcid:1330,x:2615,y:3628|npcid:1330,x:2615,y:3632
+|npcid:1330,x:2617,y:3646|npcid:1330,x:2618,y:3626|npcid:1330,x:2619,y:3641
+|npcid:1330,x:2626,y:3633|npcid:1330,x:2630,y:3631|npcid:1330,x:2630,y:3637
+|npcid:1330,x:2641,y:3626|npcid:1330,x:2642,y:3622|npcid:1330,x:2644,y:3627
+|leagueRegion = Fremennik}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Raw wolf meat|quantity=1|rarity=Always}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Fenris wolf pelt|quantity=1|rarity=Always|gemw=no|raritynotes={{DropNote|Only dropped during the [[Fur 'n Seek]] quest.}}}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Fenris wolf}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bone|quantity=1|rarity=Uncommon|gemw=no|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]] activity}}}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Rare}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Wolf attack at varrock bank.png|Fenris wolves spawned at [[Varrock]] during the [[2012 Winter event]].
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Fur 'n' Seek|date=10 August 2009}}
+** Added to game.
+}}
+
+==Trivia==
+*Before the quest [[Fur 'n Seek]] was released, they were simply called "Wolf".
+*In Norse mythology, Fenrir is known as the "Fenris Wolf", and is one of Loki's 3 monstrous children along with Jormungandr (the Midgard Serpent) and Hel. The Gods will attempt to bind Fenrir, the first two shall fail, the third Fenrir will be shown the magical ribbon Gleipnir, Fenrir agrees as long as one of the gods is brave enough to place one of their hands in his mouth as they bind him. Tyr is the only one who accepts the task. As Fenrir struggles Gliepnir will tighten and Fenrir will bite Tyr's hand off in rage.
+*In Norse mythology, Fenrir shall break free from Gliepnir and travel to Vigrid to fight in Ragnarok. There he shall swallow Odin whole. He is also the father of [[wikipedia:Hati|Hati]] and [[wikipedia:Sköll|Sköll]].
+
+{{Wolves}}
+[[Category:Wolves]]
+[[pt:Lobo Fenris]]

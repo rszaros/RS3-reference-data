@@ -1,0 +1,103 @@
+{{External|os|rsc=Ranalph Devere}}
+{{Infobox Monster
+|name = Ranalph Devere
+|image = [[File:Ranalph Devere.png|Ranalph Devere|200px]]
+|imagebackground = yes
+|release = [[20 August]] [[2003]]
+|update = New - Legends Quest!
+|members = Yes
+|options = Talk to, Attack
+|examine = The spirit of a long-dead warrior.
+|level = 63
+|lifepoints = 3375
+|experience = 168.7
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Skeletons, Undead
+|max_melee = 270
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 45
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 732
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 938
+|leagueRegion = Karamja
+}}
+[[File:Ranalph Devere chathead.png|left|85px]]
+'''Ranalph Devere''' is one of the three long-dead warriors required to be killed to collect the heart piece for the [[Legends' Quest]]. There are several of these warriors around the cave and killing one causes all of them to stop being hostile, but you can still attack them and they will fight back. However, if you attack another one, you will be unable to kill him as he can only be killed once. He attacks with [[melee]].
+
+{{Clear|left}}
+==Dialogue==
+{{speaksin}}
+
+==Graphical updates==
+===NPC===
+{{GU|subject=npc
+|{{GUL|beta=yes|img=Ranalph Devere (RS2 beta).png|name=Ranalph Devere}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Ranalph Devere (2004).png|name=Ranalph Devere}}
+|{{GUL|date=[[22 January]] [[2007]]|update=	The Lair of Tarn Razorlor|img=Ranalph Devere (2007).png|name=Ranalph Devere}}
+|{{GUL|date=|update=|img=Ranalph Devere old.png|name=Ranalph Devere}}
+|{{GUL|date=|update=|img=Ranalph Devere.png|name=Ranalph Devere}}
+}}
+
+===Chathead===
+{{GU|subject=chatheads
+|{{GUL|beta=yes|img=Ranalph Devere chathead (RS2 beta).png|name=Ranalph Devere}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Ranalph Devere chathead (2004).png|name=Ranalph Devere}}
+|{{GUL|date=[[20 February]] [[2006]]|update=Updates, updates and more updates...|img=Ranalph Devere chathead (2006).png|name=Ranalph Devere}}
+|{{GUL|date=[[22 January]] [[2007]]|update=	The Lair of Tarn Razorlor|img=Ranalph Devere chathead (2007).png|name=Ranalph Devere}}
+|{{GUL|date=|update=|img=Ranalph Devere chathead old.png|name=Ranalph Devere}}
+|{{GUL|date=|update=|img=Ranalph Devere chathead.png|name=Ranalph Devere}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=ninja|update=Patch Notes (12 October 2015)|date=12 October 2015}}
+** Duplicate NPCs have been removed from the [[Legends' Quest]], only one Ranalph will spawn now.
+
+* {{UL|type=update|update=New - Legends Quest!|date=20 August 2003}}
+** Added to game.
+}}
+
+==Trivia==
+* Ranalph is equipped with a [[rune scimitar]], [[iron sq shield]], and a [[mithril helm]]. He also has several pieces of [[Runite|rune metal]] on his chest, his legs and on his left arm.
+* Before his graphical update, Ranalph used a {{wp|khopesh}} as a weapon.
+
+{{Legends' Quest}}
+{{Skeletons}}
+[[Category:Quest monsters]]

@@ -1,0 +1,285 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Variant 1
+|version2 = Variant 2
+|version3 = Variant 3
+|name = Ice troll female
+|image1 = [[File:Ice troll female.png|250px]]
+|image2 = [[File:Ice troll female (variant 2).png|250px]]
+|image3 = [[File:Ice troll female (variant 2).png|250px]]
+|release = [[6 February]] [[2007]]
+|update = Fremennik Isles
+|members = Yes
+|options = Attack
+|examine = An ice troll with a bag of rocks.
+|leagueRegion1=Fremennik
+|leagueRegion2=Fremennik,Wilderness
+|leagueRegion3=Fremennik
+|level = 68
+|lifepoints = 8200
+|experience = 410.0
+|aggressive = Yes, except in the [[Chaos Tunnels]] and one troll north of [[Neitiznot]]
+|poisonous = No
+|slaylvl = 1
+|slayxp = 124.2
+|slayercat = Trolls
+|assigned_by = Turael, Chaeldar, Sumona
+|max_melee = 720
+|max_ranged = 980
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 36
+|ranged = 49
+|magic = 1
+|necromancy = 1
+|acc_melee = 453
+|acc_ranged = 725
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 825
+|defence = 49
+|weakness = Stab
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Variant 1
+|dropversion2 = Variant 2
+|dropversion3 = Variant 3
+|id1 = 5475
+|id2 = 5523
+|id3 = 5527
+}}
+'''Ice troll females''' are most commonly found near the smaller [[ice troll runt]]s. Their damage dealt is reduced by equipping a [[Fremennik round shield]] made during [[The Fremennik Isles]]. However, the shield doesn't affect the accuracy of the attacks. Their accuracy seem to neglect all defence bonuses from stats and equipment; hence, they almost always are able to deal some damage.
+
+Ice troll females are located in four places. They are firstly, in the [[Jatizso]] mines. Next, they are found amongst hordes of other trolls on the northern isle. They also found in the northern isle cave systems (the eastern cave before [[The Fremennik Isles]], and the western cave after). Finally, they can also be found in the [[Chaos Tunnels]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Fremennik Isles]]
+|lvls=68
+|mem=yes
+|mapID=28
+|npcid:5523,x:2336,y:3834|npcid:5527,x:2318,y:3891|npcid:5527,x:2321,y:3894
+|npcid:5527,x:2327,y:3858|npcid:5527,x:2342,y:3894|npcid:5527,x:2343,y:3890
+|npcid:5527,x:2346,y:3863|npcid:5527,x:2355,y:3865|npcid:5527,x:2361,y:3894
+|npcid:5527,x:2362,y:3890|npcid:5527,x:2372,y:3833|npcid:5527,x:2374,y:3895
+|npcid:5527,x:2377,y:3890|npcid:5527,x:2403,y:3856|npcid:5523,x:2408,y:3859
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc=[[Jatizso dungeon mine]]
+|lvls=68
+|mem=yes
+|mapID=492
+|npcid:5527,x:2401,y:10217|npcid:5527,x:2402,y:10223|npcid:5527,x:2409,y:10223
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc=[[Ice Troll Caves]]
+|lvls=68
+|mem=yes
+|mapID=14
+|npcid:5475,x:2381,y:10285|npcid:5475,x:2382,y:10275|npcid:5475,x:2387,y:10283
+|npcid:5475,x:2388,y:10271|npcid:5475,x:2392,y:10280|npcid:5475,x:2398,y:10278
+|npcid:5527,x:2416,y:10272|npcid:5527,x:2418,y:10282|npcid:5475,x:2420,y:10274
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=68
+|mem=yes
+|mapID=23
+|npcid:5523,x:3142,y:5446|npcid:5523,x:3148,y:5450|npcid:5523,x:3150,y:5455
+|npcid:5523,x:3152,y:5454|npcid:5523,x:3152,y:5457|npcid:5523,x:3156,y:5461
+|npcid:5523,x:3161,y:5450|npcid:5523,x:3167,y:5448|npcid:5523,x:3168,y:5445
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops (variant 1)==
+Variant 1 is found in the [[Ice Troll Caves]].
+
+{{Average drop value|mob=Ice troll female#Variant 1}}
+
+===100%===
+{{DropsTableHead|version=Variant 1}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead|version=Variant 1}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsTableBottom}}
+
+==Drops (variant 2)==
+{{DropLogProject|kills=180}}
+
+Variant 2 is found in the [[Chaos Tunnels]] and two of them can be found on the surface of the [[Fremennik Isles]].
+
+===Charms===
+{{CharmDataTable|Ice troll female}}
+
+===100%===
+{{DropsTableHead|version=Variant 2}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=Variant 2}}
+{{DropsLine|name=Tiny plated steel salvage|quantity=1|rarity=7/128}}
+{{DropsLine|name=Medium blunt steel salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead|version=Variant 2}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=2/128}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead|version=Variant 2}}
+{{DropsLine|name=Nature rune|quantity=|rarity=}}
+{{DropsLine|name=Law rune|quantity=|rarity=}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|14/128}}
+{{DropsTableHead|version=Variant 2}}
+{{HerbDropTable|14/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|18/128}}
+{{DropsTableHead|version=Variant 2}}
+{{UncommonSeedDropTable|18/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Variant 2}}
+{{DropsLine|name=Coins|quantity=|rarity=Common|gemw=No}}
+{{DropsLine|name=Coal stone spirit|quantity=3|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable}}
+
+===Tertiary===
+{{DropsTableHead|version=Variant 2}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Drops (variant 3)==
+{{DropLogProject|kills=724}}
+
+Variant 3 is found mostly on the surface of the [[Fremennik Isles]]. Three can be found in the [[Jatizso dungeon mine]] and another two in the [[Ice Troll Caves]].
+
+{{Average drop value|mob=Ice troll female#Variant 3}}
+
+===100%===
+{{DropsTableHead|version=Variant 3}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=Variant 3}}
+{{DropsLine|name=Huge plated steel salvage|quantity=1|rarity=7/128}}
+{{DropsLine|name=Small plated adamant salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium blunt mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Huge plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny bladed adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Large plated rune salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium blunt rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead|version=Variant 3}}
+{{DropsLine|name=Granite shield|quantity=1|rarity=1/128|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Granite shield: 1/128|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead|version=Variant 3}}
+{{DropsLine|name=Earth rune|quantity=8-14|rarity=10/128}}
+{{DropsLine|name=Earth rune|quantity=12-36|rarity=10/128}}
+{{DropsLine|name=Nature rune|quantity=4-12|rarity=5/128}}
+{{DropsLine|name=Law rune|quantity=4-8|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|27/128}}
+{{DropsTableHead|version=Variant 3}}
+{{HerbDropTable|27/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|8/128}}
+{{DropsTableHead|version=Variant 3}}
+{{UncommonSeedDropTable|8/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Variant 3}}
+{{DropsLine|name=Coins|quantity=200|rarity=20/128|gemw=No}}
+{{DropsLine|name=Ball of wool|quantity=18-42 (noted)|rarity=12/128}}
+{{DropsLine|name=Seaweed|quantity=3-9 (noted)|rarity=10/128}}
+{{DropsLine|name=Raw shark|quantity=2-8 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128}}
+
+===Tertiary===
+{{DropsTableHead|version=Variant 3}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Slayer of Chaos}}
+** [[Granite shield]] drop
+* {{Achievement|Yak Attack}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[6 February]] [[2007]]|update=Fremennik Isles|img=Ice troll female old.png|name=Ice troll female}}
+|{{GUL|date=[[15 March]] [[2011]]|update=Ring of Wealth, Shanties, Trolls and Dungeoneering|img=Ice troll female.png|name=Ice troll female (variant 1)}}
+|{{GUL|date=[[15 March]] [[2011]]|update=Ring of Wealth, Shanties, Trolls and Dungeoneering|img=Ice troll female (variant 2).png|name=Ice troll female (variants 2 & 3)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Fremennik Isles|date=6 February 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* Players who have done the [[Fremennik Isles]] quest can make their own [[yak-hide armour]] using items easily obtained on [[Neitiznot]]. This armour is very inexpensive and has good damage-stopping properties against trolls.
+
+==References==
+{{Reflist}}
+
+{{Trolls}}
+[[Category:Bandosians]]

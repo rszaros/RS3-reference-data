@@ -1,0 +1,77 @@
+{{Confuse|Giant Roc}}
+{{External|os}}
+{{Infobox Monster
+|name = Baby Roc
+|image = [[File:Baby Roc.png]]
+|release = [[23 October]] [[2006]]
+|update = Would you like to see My Arm?
+|members = Yes
+|options = Attack, Examine
+|examine = A mountain-dwelling bird. Cute, but vicious.
+|level = 56
+|lifepoints = 3500
+|slaylvl = 1
+|experience = 175.0
+|aggressive = Yes
+|poisonous = No
+|slayxp = 48
+|slayercat = Birds
+|assigned_by = Turael
+|max_melee = 160
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 40
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 628
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = Yes
+|immune_to_deflect = No
+|immune_to_drain = Yes
+|restriction = quest
+|id = 4971
+|leagueRegion = Asgarnia
+}}
+'''Baby Roc''' is a [[monster]] encountered during [[My Arm's Big Adventure]]. Compared to his [[Giant Roc|older relative]], he is relatively easy to fight as he does not [[stun]] and he is a lower level.
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (22 August 2016)|date=22 August 2016}}
+** Increased Baby Roc's clickzone.
+
+* {{UL|type=update|update=Would you like to see My Arm?|date=23 October 2006}}
+** Added to game.
+}}
+
+{{My Arm's Big Adventure}}
+[[Category:Quest monsters]]
+[[Category:Birds]]
+[[Category:Antagonists]]
+[[Category:Unique monsters]]

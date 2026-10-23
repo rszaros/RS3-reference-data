@@ -1,0 +1,133 @@
+{{Infobox Monster
+|version1 = Normal mode
+|version2 = Story mode
+|name = Armoured zombie
+|image = [[File:Armoured zombie (The Shadow Reef).png|175px]]
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|members = Yes
+|options = Attack, Mark
+|examine = {{*}} It hasn't quite got round to dying.<br>{{*}} This is a rotten one.
+|level = 116
+|lifepoints = 20000
+|lifepoints2 = 10000
+|experience = 1000.0
+|experience2 = 50
+|aggressive = Yes
+|poisonous = No
+|slayxp = 841
+|slayercat = Zombies
+|assigned_by = Vannaka
+|max_melee = 864
+|max_ranged = 739.2
+|max_magic = 739.2
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 90
+|ranged = 77
+|magic = 77
+|necromancy = 1
+|acc_melee = 2458
+|acc_ranged = 1783
+|acc_magic = 1783
+|acc_necromancy = 0
+|armour = 1783
+|defence = 77
+|weakness = Water
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Normal mode,Normal mode (Floor 1),Normal mode (Floor 2),Normal mode (Floor 3)
+|dropversion2 = Story mode
+|leagueRegion = Wilderness
+|id = 26170,26171,26172,26173
+}}
+'''Armoured zombies''' are monsters that appear throughout the first, third and fourth of [[The Shadow Reef]]. They are similar to their [[Zombie (The Shadow Reef)|unarmoured counterparts]], except the armour they wear allows them to take more hits before dying.
+
+As undead, they are susceptible to the effects of the [[salve amulet]] and its [[salve amulet (e)|enhanced version]], the [[Undead Slayer]] perk and effects of the [[Undead Slayer (ability)|Undead Slayer]] ability.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+In story mode, only bones are dropped.
+
+The average armoured zombie kill in normal mode is worth:
+* Floor 1: {{NoCoins|{{#expr:{{#vardefineecho:avg_drop_val|{{Average drop value|mob=Armoured zombie (The Shadow Reef)#Normal mode|raw=y}}}}+{{Average drop value|mob=Armoured zombie (The Shadow Reef)#Normal mode (Floor 1)|raw=y}}}}}} coins.
+* Floor 2: {{NoCoins|{{#expr:{{#var:avg_drop_val}}+{{Average drop value|mob=Armoured zombie (The Shadow Reef)#Normal mode (Floor 2)|raw=y}}}}}} coins.
+* Floor 3: {{NoCoins|{{#expr:{{#var:avg_drop_val}}+{{Average drop value|mob=Armoured zombie (The Shadow Reef)#Normal mode (Floor 3)|raw=y}}}}}} coins.
+
+===100%===
+{{DropsTableHead|version=Story mode,Normal mode}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Floor 1===
+====Currency====
+{{The Shadow Reef currency drop table|3500/10000|3300/10000|tier=1|version=Normal mode (Floor 1)}}
+
+====Supplies====
+{{The Shadow Reef supplies drop table|6497/10000|tier=1|version=Normal mode (Floor 1)}}
+
+===Floor 2===
+====Currency====
+{{The Shadow Reef currency drop table|3500/10000|3300/10000|tier=2|version=Normal mode (Floor 2)}}
+
+====Supplies====
+{{The Shadow Reef supplies drop table|6497/10000|tier=2|version=Normal mode (Floor 2)}}
+
+===Floor 3===
+====Currency====
+{{The Shadow Reef currency drop table|3500/10000|3300/10000|tier=3|version=Normal mode (Floor 3)}}
+
+====Supplies====
+{{The Shadow Reef supplies drop table|6497/10000|tier=3|version=Normal mode (Floor 3)}}
+
+===Lucky charm===
+{{Lucky charm (Shadow Reef) drops|200/10000|version=Normal mode}}
+
+===Other===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=3/50000000|altrarity=3/40000000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 3/40000000 if a [[champion scroll enhancer]] is active.}}|gemw=no}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/150|version=Normal mode}}
+
+===Tertiary===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=116}}
+{{DropsLineMimic|level=116}}
+{{DropsTableBottom}}
+
+====Charms====
+{{EliteDungeonCharmDropTable|version=Normal mode}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=This Week In RuneScape - 20/07/20#Fixes|date=20 July 2020}}
+** Players are no longer able to obtain multiple [[Zombie Champion's scroll|Zombie Champion scrolls]] from the Shadow Reef Elite Dungeon when they've completed the appropriate Champion Challenge.
+
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{The Shadow Reef}}
+[[Category:NPCs that can move at crawling speed]]

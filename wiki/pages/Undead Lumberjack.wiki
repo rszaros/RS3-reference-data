@@ -1,0 +1,214 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = 54
+|version2 = 64
+|version3 = 74
+|version4 = 78
+|version5 = 86
+|version6 = 97
+|version7 = 101
+|version8 = 108
+|version9 = 119
+|name = Undead Lumberjack
+|image = [[File:Undead Lumberjack.png|150px]]
+|release = [[13 March]] [[2007]]
+|update = Burgh de Rott Ramble
+|members = Yes
+|actions = Attack
+|examine = He is one, but he's not alright.
+|leagueRegion = Morytania
+|level1 = 54
+|level2 = 64
+|level3 = 74
+|level4 = 78
+|level5 = 86
+|level6 = 97
+|level7 = 101
+|level8 = 108
+|level9 = 119
+|lifepoints1 = 100
+|lifepoints2 = 110
+|lifepoints3 = 120
+|lifepoints4 = 130
+|lifepoints5 = 140
+|lifepoints6 = 150
+|lifepoints7 = 160
+|lifepoints8 = 170
+|lifepoints9 = 180
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 
+|slayxp2 = 
+|slayxp3 = 57.5
+|slayxp4 = 66.5
+|slayxp5 = 89.5
+|slayxp6 = 139
+|slayxp7 = 
+|slayxp8 = 208
+|slayxp9 = 309.5
+|slayercat = Zombies
+|max_melee = 1
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 73
+|attack2 = 87
+|attack3 = 101
+|attack4 = 105
+|attack5 = 117
+|attack6 = 133
+|attack7 = 137
+|attack8 = 147
+|attack9 = 163
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 
+|acc_melee2 = 
+|acc_melee3 = 
+|acc_melee4 = 
+|acc_melee5 = 
+|acc_melee6 = 
+|acc_melee7 = 
+|acc_melee8 = 
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 0
+|defence1 = 10
+|defence2 = 11
+|defence3 = 12
+|defence4 = 13
+|defence5 = 14
+|defence6 = 15
+|defence7 = 16
+|defence8 = 17
+|defence9 = 18
+|weakness = Crush
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id1 = 5678, 5679, 5680, 5681, 5682, 5683
+|id2 = 5684, 5685, 5686, 5687, 5688, 5689, 5690, 5691
+|id3 = 5692, 5693, 5694, 5695, 5696, 5697, 5698, 5699
+|id4 = 5700, 5701, 5702, 5703, 5704, 5705, 5706, 5707
+|id5 = 5708, 5709, 5710, 5711, 5712, 5713, 5714, 5715
+|id6 = 5716, 5717, 5718, 5719, 5720, 5721, 5722, 5723
+|id7 = 5724, 5725, 5726, 5727, 5728, 5729, 5730, 5731
+|id8 = 5732, 5733, 5734, 5735, 5736, 5737, 5738, 5739
+|id9 = 5740, 5741, 5742, 5743, 5744, 5745, 5746, 5747
+}}
+An '''Undead Lumberjack''' is a monster that can only be fought during [[Temple Trekking|Temple Trekking / Burgh de Rott Ramble]]. In each event where the lumberjacks attack, the player may receive at most one piece of [[lumberjack clothing]] per event.
+
+Lumberjacks appear in a broken bridge event. There are two versions of this event, one which includes fighting three undead lumberjacks and one that does not involve fighting (requires the player to instead cut trees to repair the bridge).
+
+Undead lumberjacks count as kills on a [[zombie]]s [[Slayer]] task.
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Plank|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Lumberjack clothing===
+{{DropsTableHead}}
+{{DropsLine|name=Lumberjack boots|quantity=1|rarity=1/10|raritynotes={{DropNote|name=clothing|A maximum of 1 per event. Drop the pieces in order, starting with the boots, then the hat, legs, and top.}}|citations={{NamedRef|Revealed Rates}}|gemw=no|alch=no}}
+{{DropsLine|name=Lumberjack hat|quantity=1|rarity=1/10|raritynotes={{DropNote|name=clothing}}|citations={{NamedRef|Revealed Rates}}|gemw=no|alch=no}}
+{{DropsLine|name=Lumberjack legs|quantity=1|rarity=1/10|raritynotes={{DropNote|name=clothing}}|citations={{CiteForum|author=Mod Timbo|url=https://secure.runescape.com/m=forum/sl=0/forums?74,75,52,65949497,goto,21#205|archiveurl=https://reldo.runescape.wiki/i/19727921|archivedate=18 November 2017|title=Dev Blog: Revealing Drop Rates|forum=Existing Game Content|postdate=17 November 2017|name=Revealed Rates}}|gemw=no|alch=no}}
+{{DropsLine|name=Lumberjack top|quantity=1|rarity=1/10|raritynotes={{DropNote|name=clothing}}|citations={{NamedRef|Revealed Rates}}|gemw=no|alch=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Guthix balance (1)|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Fishing bait|quantity=5|rarity=uncommon}}
+{{DropsLine|name=Thin snail|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Thin snail meat|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Lean snail|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Lean snail meat|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Fat snail|quantity=3|rarity=Uncommon}}
+{{DropsLine|name=Fat snail meat|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Iron arrow|quantity=5,8|rarity=Uncommon}}
+{{DropsLine|name=Steel arrow|quantity=5|rarity=Uncommon}}
+{{DropsLine|name=Tiny plated bronze salvage|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Small bladed bronze salvage|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Air rune|quantity=13|rarity=Uncommon}}
+{{DropsLine|name=Mind rune|quantity=5|rarity=Uncommon}}
+{{DropsLine|name=Body rune|quantity=6|rarity=Uncommon}}
+{{DropsLine|name=Nature rune|quantity=6|rarity=Uncommon}}
+{{DropsLine|name=Tiny bladed iron salvage|quantity=1|rarity=Rare}}
+{{DropsLine|name=Copper stone spirit|quantity=1|rarity=Unknown}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|gemw=no|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineMimic|level=54|version=54}}
+{{DropsLineMimic|level=64|version=64}}
+{{DropsLineMimic|level=74|version=74}}
+{{DropsLineMimic|level=78|version=78}}
+{{DropsLineMimic|level=86|version=86}}
+{{DropsLineMimic|level=97|version=97}}
+{{DropsLineMimic|level=101|version=101}}
+{{DropsLineMimic|level=108|version=108}}
+{{DropsLineMimic|level=119|version=119}}
+{{DropsLineEffigy|level=54|version=54}}
+{{DropsLineEffigy|level=64|version=64}}
+{{DropsLineEffigy|level=74|version=74}}
+{{DropsLineEffigy|level=78|version=78}}
+{{DropsLineEffigy|level=86|version=86}}
+{{DropsLineEffigy|level=97|version=97}}
+{{DropsLineEffigy|level=101|version=101}}
+{{DropsLineEffigy|level=108|version=108}}
+{{DropsLineEffigy|level=119|version=119}}
+{{DropsTableBottom}}
+====Charms====
+{{CharmDropTable|quantity=1|gold=33.52/1000|green=16.76/1000|crimson=11.173/1000|blue=13.408/1000}}
+
+==About the event==
+{{Main|Temple Trekking}}
+The best way to get the event is to use your escort's ability to scout ahead and check every path before choosing one. After their third level tier, the escorts can tell you what lies ahead, making it far easier to find the path containing the lumberjack event (the exceptions are with [[Rolayne Twickit]], who can do so as soon as the first tier and [[Dean Vellio]], who can do so at the fourth tier). Check each path before choosing one for the bridge event. If there is no bridge event, take the event which is easiest or fastest to complete or evade (however, time still vary to about 6 to 10 hours).
+
+Another method is going to second phase using Rolayne and see if the event is ahead. When you encounter hop to another world after you killed 3 zombies. You can hop whenever you want and check if the event is ahead.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (31 August 2011)|date=31 August 2011}}
+** The ‘climbing out of swamp’ animation has been updated.
+
+* {{UL|type=update|update=Burgh de Rott Ramble|date=13 March 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* The Examine text "He is one, but he's not alright" is a play on the refrain ("He's a lumberjack and he's ok!") from one of Monty Python's best known songs "[[wikipedia:The Lumberjack Song|The Lumberjack Song]]".
+* Previously, in a single event, the player would encounter five lumberjacks at a time (in waves of 2-3, and waiting caused more to appear), but after the update of the Temple Trekking activity on 17 August 2011, only three lumberjacks will appear in a single event, and a lumberjack clothing item drop is no longer guaranteed. However, the fact that you could potentially see the route ahead and that parts dropped on a cycle helped balance that out.
+* After the Evolution of Combat update, despite their high combat level, they have extremely low health, and seems to only be capable of hitting 1 ([[Monster Examine]] does not display a max hit at all).
+
+==References==
+{{Reflist}}
+
+{{Temple Trekking}}
+{{Zombie}}

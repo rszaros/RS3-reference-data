@@ -1,0 +1,323 @@
+{{External|os}}
+{{Otheruses|def=no|other uses|Juvinate (disambiguation)}}
+{{Infobox Monster
+|version1 = Burgh de Rott (Level 58)
+|version2 = Burgh de Rott (Level 63)
+|version3 = Meiyerditch
+|version4 = Darkmeyer
+|name = Vampyre Juvinate
+|image1 = [[File:Vampyre Juvinate.png|130px]] 
+|image2 = [[File:Vampyre Juvinate female.png|110px]]
+|release1 = [[22 March]] [[2006]]
+|release2 = [[22 March]] [[2006]]
+|release3 = [[4 September]] [[2006]]
+|release4 = [[23 August]] [[2011]]
+|update1 = In Aid of the Myreque
+|update2 = In Aid of the Myreque
+|update3 = Myreque Pt III - Darkness of Hallowvale
+|update4 = The Branches of Darkmeyer
+|members = Yes
+|actions = Attack
+|examine1 = An initiate Vampyre juvinate.
+|examine2 = An initiate Vampyre juvinate.
+|examine3 = An initiate juvenile vampyre; seems to be a servant.
+|examine4 = A low-ranking vampyre.
+|level1 = 58
+|level2 = 63
+|level3 = 61
+|level4 = 84
+|lifepoints1 = 2100
+|lifepoints2 = 9750
+|lifepoints3 = 9750
+|lifepoints4 = 9750
+|experience1 = 105.0
+|experience2 = 487.5
+|experience3 = 487.5
+|experience4 = 487.5
+|aggressive1 = Yes
+|aggressive2 = Yes
+|aggressive3 = No
+|aggressive4 = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 210
+|slayercat = Vampyres
+|max_melee1 = 0
+|max_melee2 = 576
+|max_melee3 = 576
+|max_melee4 = 576
+|max_ranged1 = 168
+|max_ranged2 = 576
+|max_ranged3 = 576
+|max_ranged4 = 576
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = ranged
+|speed = 4
+|attack = 1
+|ranged1 = 42
+|ranged2 = 60
+|ranged3 = 60
+|ranged4 = 60
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 0
+|acc_melee2 = 1132
+|acc_melee3 = 1132
+|acc_melee4 = 1132
+|acc_ranged1 = 668
+|acc_ranged2 = 1132
+|acc_ranged3 = 1132
+|acc_ranged4 = 1132
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 668
+|armour2 = 1132
+|armour3 = 1132
+|armour4 = 1132
+|defence1 = 42
+|defence2 = 60
+|defence3 = 60
+|defence4 = 60
+|weakness1 = Stab
+|weakness2 = Stab
+|weakness3 = Stab
+|weakness4 = Nothing
+|susceptibility = Silver, Blisterwood, Vampyre Slayer
+|susceptibility4 = Blisterwood, Vampyre Slayer
+|derived_susceptibility = No
+|aff_weakness1 = 90
+|aff_weakness2 = 90
+|aff_weakness3 = 90
+|aff_weakness4 = 55
+|aff_melee1 = 65
+|aff_melee2 = 65
+|aff_melee3 = 65
+|aff_melee4 = 55
+|aff_ranged = 55
+|aff_magic1 = 45
+|aff_magic2 = 45
+|aff_magic3 = 45
+|aff_magic4 = 55
+|immune_to_poison1 = Yes
+|immune_to_poison2 = Yes
+|immune_to_poison3 = Yes
+|immune_to_poison4 = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Burgh de Rott
+|dropversion2 = Burgh de Rott
+|dropversion3 = Meiyerditch
+|dropversion4 = Darkmeyer
+|leagueRegion = Morytania
+|id1 = 3520	
+|id2 = 3525
+|id3 = 4776	
+|id4 = 7622
+}}
+[[File:Vampyre Juvinate icon.png|left]]
+[[File:Juvinate guard chathead.png|left|80px]]
+[[File:Juvinate guard female chathead.png|left|80px]]
+'''Vampyre Juvinates''' are a class of [[vampyres]] who were once human found in [[Burgh de Rott Woods]], the strange castle in south-east [[Meiyerditch]], and tier one [[Darkmeyer]]. They cannot be killed with normal weapons. Instead, they can only be harmed by weak [[silver weapons]] (such as [[Silverlight]], [[silver sickle (b)]], [[silver bolts]], a [[blessed hatchet]], or a [[Wolfbane]] dagger) and [[blisterwood]] weapons. If a [[Guthix balance]] is used on them, one of three things can occur:
+* The vampyre dies instantly, granting 100 [[Prayer]] experience (uncommon).
+* They become [[Former vampyre|human]] again for a reward (uncommon).
+* The vampyre gets angry. Its appearance changes to that of an [[angry vampyre]], and it can be hurt by any weapon (very common).
+
+If a Guthix balance potion is not used, then the Juvinate will say "Ha ha, time to disappear and re-juvinate!", turn into [[Mist]], and float away when it reaches approximately 0 [[life points]]. No drops will be received when this happens. The ones in Darkmeyer are immune to the balance potion and do not turn into mist. They also count for vampyre [[slayer assignments]].
+
+==Prayer info==
+{{Prayer info
+|name = Vampyre Juvinate
+|level = 1
+|xp = 100
+|xpnote = Only upon killing the juvinate with the use of a dose of [[Guthix balance]]
+|type = guthix balance
+}}
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Burgh de Rott Woods]]
+|lvls=58, 63
+|mem=yes
+|mapID=28
+|npcid:3512,x:3513,y:3241|npcid:3513,x:3513,y:3242|npcid:3525,x:3540,y:3206
+|npcid:3524,x:3546,y:3206|npcid:3522,x:3546,y:3218|npcid:3523,x:3550,y:3213
+|npcid:3525,x:3564,y:3232|npcid:3523,x:3567,y:3214|npcid:3522,x:3572,y:3216
+|npcid:3524,x:3575,y:3240|npcid:3524,x:3577,y:3216|npcid:3525,x:3578,y:3221
+|npcid:3522,x:3578,y:3231|npcid:3523,x:3579,y:3207|npcid:3522,x:3579,y:3250
+|npcid:3525,x:3581,y:3210|npcid:3523,x:3582,y:3242
+|leagueRegion = Morytania}}
+{{LocLine
+|loc=[[Darkmeyer]]
+|lvls=84
+|requirements = Partial completion of {{QuestIcon|The Branches of Darkmeyer}}
+|mem=yes
+|mapID=28
+|npcid:7622,x:3634,y:3344|npcid:7613,x:3636,y:3349|npcid:7613,x:3646,y:3351
+|npcid:7622,x:3648,y:3338|npcid:7613,x:3649,y:3345|npcid:7622,x:3654,y:3337
+|npcid:7622,x:3654,y:3370|npcid:7613,x:3655,y:3364|npcid:7613,x:3656,y:3350
+|npcid:14072,x:3661,y:3370|npcid:7623,x:3661,y:3371|npcid:7625,x:3662,y:3370
+|npcid:7624,x:3662,y:3371|npcid:7622,x:3663,y:3354|npcid:7613,x:3664,y:3343
+|npcid:7622,x:3664,y:3362|npcid:7622,x:3665,y:3345|npcid:7613,x:3666,y:3364
+|npcid:7613,x:3670,y:3352
+|leagueRegion = Morytania}}
+{{LocTableBottom}}
+
+==Drops (using a Guthix balance potion)==
+{{DropLogProject|jagex=yes}}
+===100%===
+{{DropsTableHead}}
+{{DropsLinePrayer|name=Vampyre dust|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLinePrayer|name=Congealed blood|quantity=2-7|rarity=1/20}}
+{{DropsTableBottom}}
+
+==Drops (Darkmeyer)==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Vampyre Juvinate#Darkmeyer|droptext=Sunspear kill}}
+
+===100%===
+{{DropsTableHead|version=Darkmeyer}}
+{{DropsLine|name=Vampyre dust|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDropTable|quantity=1|gold=18.662/1000|green=9.331/1000|crimson=59.719/1000|blue=3.733/1000|version=Darkmeyer}}
+
+===Armour===
+{{DropsTableHead|version=Darkmeyer}}
+{{DropsLine|name=Splitbark helm|quantity=1|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead|version=Darkmeyer}}
+{{DropsLine|name=Death rune|quantity=10|rarity=12/128}}
+{{DropsLine|name=Blood rune|quantity=6|rarity=10/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead|version=Darkmeyer}}
+{{DropsLine|name=Grimy ranarr|quantity=1 (noted)|rarity=10/128}}
+{{DropsLine|name=Grimy avantoe|quantity=1 (noted)|rarity=10/128}}
+{{DropsLine|name=Grimy snapdragon|quantity=1 (noted)|rarity=10/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|18/128}} ''There is an additional 14/128 chance of rolling morchella mushroom spores.''
+{{DropsTableHead|version=Darkmeyer}}
+{{DropsLine|name=Morchella mushroom spore|quantity=2|rarity=14/128}}
+{{RareSeedDropTable|18/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Darkmeyer}}
+{{DropsLine|name=Red spiders' eggs|quantity=3|rarity=10/128}}
+{{DropsLine|name=Wine of Zamorak|quantity=1 (noted)|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=2700-3300|rarity=14/128}}
+{{DropsTableBottom}}
+
+{{Sunspear drops/Main|version=Darkmeyer}}
+
+===Gem drop table===
+{{GemDropTable|6/128|version=Darkmeyer}}
+
+===Tertiary===
+{{DropsTableHead|version=Darkmeyer}}
+{{DropsLine|name=Congealed blood|quantity=2-7|rarity=1/20}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Rewards for returning a Juvinate to human form==
+When returning a Juvinate to human form in Burgh de Rott, the human will hand the player a noted reward and become a [[former vampyre]].
+
+{{DropsTableHead|bucket=No}}
+<!--Weapon rewards-->
+{{DropsLineRW|name=Staff of air|quantity=1 (noted)|rarity=Rare}}
+{{DropsLineRW|name=Staff of fire|quantity=1 (noted)|rarity=Rare}}
+{{DropsLineRW|name=Black spear|quantity=1 (noted)|rarity=Rare}}
+{{DropsLineRW|name=Black battleaxe|quantity=1 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Off-hand black battleaxe|quantity=1 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Black 2h sword|quantity=1 (noted)|rarity=Rare}}
+{{DropsLineRW|name=Medium bladed mithril salvage|quantity=1 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Small bladed mithril salvage|quantity=1 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Medium blunt mithril salvage|quantity=1 (noted)|rarity=Rare}}
+{{DropsLineRW|name=Tiny bladed adamant salvage|quantity=1 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Tiny spiky adamant salvage|quantity=1 (noted)|rarity=Rare}}
+{{DropsLineRW|name=Tiny blunt adamant salvage|quantity=1 (noted)|rarity=Rare}}
+{{DropsLineRW|name=Small bladed adamant salvage|quantity=1 (noted)|rarity=Rare}}
+
+<!--Armour rewards-->
+{{DropsLineRW|name=Medium plated steel salvage|quantity=1 (noted)|rarity=Common}}
+{{DropsLineRW|name=Huge plated steel salvage|quantity=1 (noted)|rarity=Common}}
+{{DropsLineRW|name=Black full helm|quantity=1 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Black chainbody|quantity=1 (noted)|rarity=Rare}}
+{{DropsLineRW|name=Black platelegs|quantity=1 (noted)|rarity=Rare}}
+{{DropsLineRW|name=Black kiteshield|quantity=1 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Black sq shield|quantity=1 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Small plated mithril salvage|quantity=1 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Medium plated mithril salvage|quantity=1 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Small plated mithril salvage|quantity=1 (noted)|rarity=Rare}}
+{{DropsLineRW|name=Tiny plated adamant salvage|quantity=1 (noted)|rarity=Rare}}
+
+<!--Other rewards-->
+{{DropsLineRW|name=Nature rune|quantity=10|rarity=Rare}}
+{{DropsLineRW|name=Death rune|quantity=10-15|rarity=Rare}}
+{{DropsLineRW|name=Willow logs|quantity=5 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Yew logs|quantity=5 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Amulet of magic|quantity=1 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Ruby ring|quantity=1 (noted)|rarity=Uncommon}}
+{{DropsLineRW|name=Sealed clue scroll (medium)|quantity=1|rarity=4/170}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+===NPCs===
+{{GU|subject=NPCs
+|{{GUL|date=[[22 March]] [[2006]]|update=In Aid of the Myreque|img=Vampyre Juvinate old2.png|name=Vampyre Juvinate}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Vampyre Juvinate.png|name=Vampyre Juvinate}}
+}}
+{{GU|subject=NPCs
+|{{GUL|date=[[4 September]] [[2006]]|update=Myreque Pt III - Darkness of Hallowvale|img=Vampyre juvinate old.png|name=Vampyre Juvinate}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Vampyre juvinate.png|name=Vampyre Juvinate}}
+}}
+
+===Chatheads===
+{{GU|subject=chatheads
+|{{GUL|date=[[22 March]] [[2006]]|update=In Aid of the Myreque|img=Vampyre Juvinate old.png|name=Vampyre Juvinate}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Vampyre Juvinate chat old.png|name=Vampyre Juvinate}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Juvinate guard chathead.png|name=Vampyre Juvinate}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Patch Notes (3 May 2016)|date=3 May 2016}}
+** [[Vampyre juveniles]] and juvinates will move on from South East [[Meiyerditch]] after the quest [[River of Blood]] is completed.
+
+* {{UL|type=ninja|update=Patch_Notes_(20 July 2015)|date=20 July 2015}}
+** Vampyre Juvinates will no longer count towards [[Vyrewatch]] Slayer assignments and will correctly count towards vampyre assignments.
+** Vampyre Juvinates are now consistently capitalised.
+
+* {{UL|type=patch|update=Patch Notes (12 March 2013)|date=12 March 2013}}
+** Some stretching issues with Vampyre juvinates have been corrected.
+
+* {{UL|type=update|update=In Aid of the Myreque|date=22 March 2006}}
+** Added to game.
+}}
+
+==Trivia==
+[[File:Vampyre Juvinate death.gif|right|frame|A Vampyre Juvinate turning to dust]]
+* Vampyre Juvinates and Vampyre juvinates used to be significantly different, the latter having a much older, albeit unique, model, despite being released later. The [[graphical updates]] to [[Morytania]] and vampyres solved this, making the two look the same. The combat levels and capitalisation remained different though.
+* [[Deflect curses]] seems to inflict damage on them. This may be a bug.
+* The female juvinates seem to be wearing a smaller version of [[Drakan's medallion]]. A similar symbol is found on the belts of the male juvinates.
+
+{{The Branches of Darkmeyer}}
+{{Vampyres}}
+{{Burgh de Rott}}
+[[Category:Morytania]]

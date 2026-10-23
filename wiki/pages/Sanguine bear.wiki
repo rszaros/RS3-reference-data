@@ -1,0 +1,93 @@
+{{Infobox Monster
+|name = Sanguine bear
+|image = [[File:Sanguine bear.png]]
+|release = [[28 September]] [[2026]]
+|update = Havenhythe Part II out now!
+|members = Yes
+|options = Attack
+|race = Bear
+|examine = Double eek! A sanguine bear!
+|level = 64
+|lifepoints = 8400
+|experience = 420
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp =
+|slayercat = Bears
+|max_melee = 920
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack =
+|ranged =
+|magic =
+|necromancy = 1
+|acc_melee = 655
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 755
+|defence =
+|weakness = Water
+|susceptibility = Havensilver
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|id = 32817
+}}
+'''Sanguine bear''' is a [[monster]] found in [[Moonsylvar Wood]].
+
+== Getting there ==
+They inhabit the [[Moonsylvar Wood]].
+
+Step-by-step guide to reaching the sanguine bear:
+
+# Start at the Ancient Willow: Head to the large central tree (the Ancient Willow) that serves as the portal hub.
+# Follow the portals east: The golden rule for the bears is to head as far east as possible.
+# The "back and forth" trick: If you enter a room and the portal to the east isn't available, don't move in another direction. Take the portal you just came from to return to the previous room, then enter it again. This "resets" the paths until you can continue moving to the right.
+# The cub indicator: On the correct path, you will first arrive at a room filled with [[sanguine bear cub]]s. This is the sign that you are on the right track.
+# The Bear Cave: The portal immediately after the cub room will take you directly to the Sanguine Bear Cave (exactly 4 rooms east of the Ancient Willow), where the mother bear awaits.
+
+==Drops==
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Bear fur|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw bear meat|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main===
+{{DropsTableHead}}
+{{DropsLine|name=Sanguine bear meat|quantity=1|rarity=Common|raritynotes={{DropNote|Only dropped during [[Bogolin Dichromacy]], before making the [[Reap 'n' Creep stew]].}}}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sanguine matter|quantity=1|rarity=Common}}
+{{DropsLine|name=Crimson ichor|quantity=1|rarity=Rare}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Bogolin Dichromacy}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Part II out now!|date=28 September 2026}}
+** Added to game.
+}}
+
+{{stub}}

@@ -1,0 +1,89 @@
+{{external|os=Feral Vampyre}}
+{{otheruses|the specific type of attackable monster|other uses|Vampyre (disambiguation)}}
+{{Historical article}}
+{{Infobox Monster
+|version1 = Level 61
+|version2 = Level 72
+|version3 = Level 77
+|name = Vampire
+|image1 = [[File:Vampire (historical) (level 61).png]]
+|image2 = [[File:Feral Vampire (level 72) (2008).png]]
+|image3 = [[File:Feral vampire (God Wars Dungeon) (2008) .png]]
+|release = [[14 October]] [[2004]]
+|release3 = [[28 August]] [[2007]]
+|update = Morytania Expansion
+|update3 = God Wars Dungeon
+|examine1 = It looks really hungry!
+|examine2 = Where did that come from?
+|examine3 = It looks really hungry!
+|options = Attack
+|level1 = 61
+|level2 = 72
+|level3 = 77
+|race = Vampyre
+|experience = 
+|lifepoints1 = 400
+|lifepoints2 = 500
+|lifepoints3 = 600
+|slaylvl = 1
+|slayxp1 = 40
+|slayxp2 = 50
+|slayxp3 = 60
+|slayercat = vampyres
+|members = Yes
+|aggressive = Yes
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No 
+|immune_to_drain = No
+|style = melee
+|speed = 6
+|max_melee1 = 74
+|max_melee2 = 84
+|max_melee3 = 85
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|weakness = 
+|attack = 
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|defence = 
+|armour = 
+|acc_melee = 
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|susceptibility = Blisterwood, Vampyre Slayer
+|aff_weakness = 
+|aff_melee = 
+|aff_ranged = 40
+|aff_magic = 20
+|abilities = N/A
+|restriction = removed
+|id = No
+|histid1 = 1223
+|histid2 = 1220
+|histid3 = 6214
+|leagueRegion=N/A}}
+'''Vampires''' were dangerous creatures found in the [[Haunted Woods]] east of [[Canifis]] and near the [[Abandoned Mine]]. They are [[Aggressiveness|aggressive]], and would attack anyone. Unlike [[Vampyre (race)|Vampyres]], they seem to be almost mindless, attacking almost every living thing they come across. They occasionally bite players' necks, which would sometimes drain combat stats, as well as causing the vampire to recover a small amount of life points.
+
+Level 61 vampires wore brown shirts, while level 72 vampires had a very light blue shirt, which against their dead-white skin made them look shirtless to some players. A level 77 version could be found in the [[God Wars Dungeon]].
+
+==Characteristics and history==
+Vampires are savage beasts closely related to vampyres, but are considerably less intelligent and were distinguished by their wide grins. Vampires can normally be attacked and killed with any weapon. They were used as warriors by [[Zamorak]] since the beginning of [[God Wars]], although new evidence has shown they were merely allies with Zamorak and not actually followers as once believed. They were used again in large numbers in Misthalin/Morytania conflicts during the 4th age.
+
+Once the [[River Salve]] became a barrier to conquest, however, need for vampire armies diminished. It is theorised that the blood expense of maintaining the superfluous army caused the vampires to be driven out of Drakan's populated areas. The vampires subsequently became feral. Vampires started to reside outside the settlements in Morytania, lurking for possible prey. Most of them can be found in the [[Haunted Woods]] and near the [[Abandoned Mine]], where they will not be bothered by the [[ghast]]s found wandering around in [[Mort Myre]]. Since the vampires would be vulnerable to ghast attacks and cannot make ghasts visible/attackable, this avoidance makes sense.
+
+Vampires angered by [[Guthix balance]] potion take a form that looks like an enlarged vampire. Unlike vampyres that are vulnerable only to [[silver weapons]], vampires are vulnerable to all attacks. This hints that vampires may have stemmed from Vampyres who have lost their powers in one way or another. Vampyres in their turn are said to be corrupted versions of the [[Icyene]]. A different theory is that vampyres are an enhanced version of vampires whose population is carefully controlled, and whose artificial enhancements are disrupted by the Guthix balance potion.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Morytania Expansion|date=14 October 2004}}
+** Added to game.
+}}
+
+{{Vampyres}}

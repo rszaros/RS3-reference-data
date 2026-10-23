@@ -1,0 +1,106 @@
+{{Infobox Monster
+|name = Revenant icefiend
+|image = [[File:Revenant icefiend.png|150px]]
+|release = [[10 December]] [[2007]]
+|update = Wilderness Changes, Bounty Hunter and Clan Wars!
+|members = No
+|actions = Attack
+|examine = The essence of an icefiend slain during the god wars.
+|level = 37
+|lifepoints = 4050
+|experience = 202.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 45.6
+|slayercat = Revenants, Ghosts, Icefiends, Undead
+|assigned_by = Turael, Vannaka, mandrith, jacquelyn
+|max_melee = 607
+|max_ranged = 607
+|max_magic = 607
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 27
+|ranged = 27
+|magic = 27
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 409
+|acc_ranged = 409
+|acc_magic = 409
+|armour = 409
+|defence = 27
+|weakness = Nothing
+|susceptibility = undead slayer, ghost hunter, revenant bane, salve
+|aff_weakness = 40
+|aff_melee = 40
+|aff_ranged = 40
+|aff_magic = 40
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 13470
+|leagueRegion = Wilderness
+}}
+'''Revenant icefiends''' are a type of monster, that inhabits the [[Forinthry Dungeon]], along with all other [[revenants]]. 
+The Forinthry Dungeon is a part of the [[Wilderness]] so it is possible to be attacked by other players here if opted into [[PvP]].
+
+Like all revenants, they can restore lifepoints quickly, can cure themselves of poison and react quickly to a player's protection prayers. When below 50% health, revenant icefiends will "eat" to heal 675 lifepoints from their limited supply of food. For a full description of the healing mechanic see the [[Revenants#Overview|revenants]] page.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Forinthry Dungeon]]
+|lvls=37
+|mem=no
+|mapID=6
+|npcid:13470,x:3097,y:10155
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+Revenant drops are not affected by [[luck]]. There are only two ways to increase the drop rate of revenant items: completion of the [[elite Wilderness achievements]] which gives a 5% increased chance for revenant drops, and [[revenant drop enhancer]]s, which give a 10% increased chance. Both boosts can be in effect at the same time.
+
+===Main===
+{{Revenant main drops|level=37}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{Revenant tertiary drops|level=37}}
+{{DropsLine|name=Choc ice|quantity=1-2|rarity=1/96|altrarity=1/56|raritynotes={{DropNote|1/56 while wearing [[Jennica's ring]].}}}}
+{{DropsLineGhosts|ectorarity=750|herbrarity=1024}}
+{{DropsTableBottom}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=37}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Wilderness Changes, Bounty Hunter and Clan Wars!|date=10 December 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine for a revenant icefiend is slightly different from most other revenants (excluding revenant [[Revenant hellhound|hellhounds]], [[Revenant pyrefiend|pyrefiends]], [[Revenant imp|imps]], and [[Revenant demon|demons]]). Its examine says that it is the ''essence'' of an icefiend slain during the [[God Wars]], as opposed to the ''ghost'' of an icefiend slain during the God Wars. These five revenants are similar in that they are all demonic.
+
+==References==
+{{Reflist}}
+
+{{Revenants}}
+{{Ghost}}
+{{Elementals}}
+{{Demons}}
+[[Category:Participants in the God Wars]]
+[[Category:Zamorakians]]

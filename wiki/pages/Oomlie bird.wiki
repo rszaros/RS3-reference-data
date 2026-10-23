@@ -1,0 +1,119 @@
+{{External|os|rsc=Oomlie Bird}}
+{{Otheruses|def=no|the player-owned farm animal|Oomlie hen}}
+{{Infobox Monster
+|name = Oomlie bird
+|image = [[File:Oomlie bird.png|130px]]
+|release = [[20 August]] [[2003]]
+|update = New - Legends Quest!
+|members = Yes
+|options = Attack
+|examine = A jungle version of the chicken, but more vicious.
+|level = 89
+|lifepoints = 11400
+|experience = 570.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 85.2
+|slayercat = Birds
+|assigned_by = Turael
+|max_melee = 1280
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 64
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1164
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1264
+|defence = 64
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 48
+|leagueRegion=Karamja}}
+'''Oomlie birds''' are found within the [[Kharazi Jungle]]. Like [[jungle dweller]]s, these enormous version of chickens are not aggressive (however using the [[bull roarer]] near them will cause them to attack you with the message "A nearby Oomlie bird takes a dislike to the sound you are making" appearing in your chatbox).
+
+They can be killed for their [[raw oomlie]] meat, which can be combined with a [[palm leaf]] found nearby by shaking [[Leafy Palm Tree]]s to make [[wrapped oomlie]]s. Cooking one yields a [[cooked oomlie wrap]].
+
+The [[Legends' Quest]] needs to be started in order to kill this monster. However, it can be ranged and then the [[Telekinetic Grab]] spell can be used to get the meat before starting Legends Quest.
+
+The Oomlie wrap needs to be made or bought on the Grand Exchange in order to complete the [[Karamja Tasks]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Kharazi Jungle]]
+|lvls=89
+|mem=yes
+|mapID=28
+|npcid:48,x:2768,y:2912|npcid:48,x:2771,y:2907|npcid:48,x:2773,y:2928
+|npcid:48,x:2776,y:2934|npcid:48,x:2778,y:2900|npcid:48,x:2785,y:2925
+|npcid:48,x:2785,y:2935|npcid:48,x:2789,y:2915|npcid:48,x:2791,y:2931
+|npcid:48,x:2794,y:2906|npcid:48,x:2798,y:2901|npcid:48,x:2799,y:2933
+|npcid:48,x:2802,y:2921|npcid:48,x:2807,y:2908|npcid:48,x:2815,y:2908
+|npcid:48,x:2819,y:2900|npcid:48,x:2821,y:2910|npcid:48,x:2827,y:2927
+|npcid:48,x:2834,y:2911|npcid:48,x:2837,y:2897|npcid:48,x:2859,y:2904
+|npcid:48,x:2863,y:2916|npcid:48,x:2885,y:2926|npcid:48,x:2888,y:2896
+|npcid:48,x:2890,y:2907|npcid:48,x:2898,y:2926|npcid:48,x:2904,y:2892
+|npcid:48,x:2910,y:2906|npcid:48,x:2918,y:2896|npcid:48,x:2921,y:2924
+|npcid:48,x:2936,y:2910|npcid:48,x:2937,y:2893
+|leagueRegion = Karamja
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw oomlie|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Cornucopia|quantity=1|rarity=5/128|gemw=no|alch=yes}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Oomlie bird (2004).png|name=Oomlie bird}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Cows, Chickens, Rabbits and the Fishing Trawler|img=Oomlie bird.png|name=Oomlie bird}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=Mage Arena|date=22 September 2003}}
+** Increased hitpoints from 20 to 40.
+** Decreased attack from 150 to 100.
+
+* {{UL|type=update|update=New - Legends Quest!|date=20 August 2003}}
+** Added to game.
+}}
+
+==Trivia==
+* They may be based on the Red junglefowl, which are the wild ancestors of chickens in the real world. Oomlie birds are the wild relatives of chickens in RuneScape. 
+
+{{Legends' Quest}}
+{{Chickens}}
+{{Kharazi Jungle}}

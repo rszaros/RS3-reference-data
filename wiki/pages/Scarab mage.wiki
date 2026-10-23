@@ -1,0 +1,204 @@
+{{External|os=Scarab Mage}}
+{{Confuse|Scabaras mage}}
+{{Infobox Monster
+|version1 = Sophanem Dungeon
+|version2 = Contact!
+|version3 = Dominion Tower
+|version4 = Rumble Mode
+|name = Scarab mage
+|image = [[File:Scarab mage.png|150px]]
+|release = [[10 January]] [[2007]]
+|release3 = [[1 November]] [[2011]]
+|release4 = [[8 December]] [[2014]]
+|update = Contact!
+|update3 = Dominion Tower
+|update4 = Snowverload & Dominion Tower Rumble Mode
+|members = Yes
+|options = Attack, Examine
+|examine = Part scarab, part man.
+|level = 75
+|lifepoints1 = 2700
+|lifepoints2 = 2700
+|lifepoints3 = 5400
+|lifepoints4 = 5400
+|experience = 135.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 55
+|slayxp3 = 0
+|slayxp4 = 0
+|slayercat = Scabarites
+|slayercat3 = None
+|slayercat4 = None
+|max_melee1 = 607.5
+|max_melee2 = 607.5
+|max_melee3 = 900
+|max_melee4 = 900
+|max_ranged = 0
+|max_magic1 = 810
+|max_magic2 = 810
+|max_magic3 = 1215
+|max_magic4 = 1215
+|max_necromancy = 0
+|style = magic
+|primarystyle = magic
+|speed = 15
+|attack = 40
+|ranged = 0
+|magic = 54
+|necromancy = 1
+|acc_melee1 = 628
+|acc_melee2 = 955
+|acc_melee3 = 628
+|acc_melee4 = 628
+|acc_ranged = 0
+|acc_magic = 955
+|acc_necromancy = 0
+|armour = 955
+|defence = 54
+|weakness = Arrows
+|susceptibility = Keris
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction2 = quest
+|restriction3 = minigame
+|restriction4 = minigame
+|id1 = 5250
+|id2 = 17300
+|id3 = 17300
+|id4 = 17300
+|leagueRegion=Desert}}
+'''Scarab mages''' are [[magic]] using worshippers of [[Scabaras]] encountered during the [[Contact!]] quest. Their magic attack looks like a swarm of beetles and are able to hit into the 700s, and very accurately. Scarab mages are able to extinguish a player's light source.
+
+Scarab mages can be killed for the [[City Quest]] for "scarabs".
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Sophanem Dungeon]] (maze)
+|lvls=75
+|mem=yes
+|mapID=718
+|npcid:5250,x:3276,y:9268|npcid:5250,x:3277,y:9252|npcid:5250,x:3277,y:9275
+|npcid:5250,x:3279,y:9234|npcid:5250,x:3289,y:9236|npcid:5250,x:3296,y:9256
+|npcid:5250,x:3301,y:9275|npcid:5250,x:3305,y:9256|npcid:5250,x:3308,y:9221
+|npcid:5250,x:3311,y:9226
+|leagueRegion = Desert}}
+{{LocLine
+|loc=[[Sophanem Dungeon]] (cavern)
+|lvls=75
+|mem=yes
+|mapID=-1
+|npcid:5250,x:3273,y:9263|npcid:5250,x:3275,y:9226|npcid:5250,x:3276,y:9248
+|npcid:5250,x:3279,y:9222|npcid:5250,x:3282,y:9244|npcid:5250,x:3282,y:9273
+|npcid:5250,x:3286,y:9227|npcid:5250,x:3288,y:9265|npcid:5250,x:3296,y:9248
+|npcid:5250,x:3297,y:9232|npcid:5250,x:3298,y:9225|npcid:5250,x:3300,y:9241
+|npcid:5250,x:3301,y:9252|npcid:5250,x:3303,y:9235|npcid:5250,x:3309,y:9224
+|npcid:5250,x:3309,y:9265|npcid:5250,x:3316,y:9255|npcid:5250,x:3317,y:9240
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=1/{{#expr:1/(1/64 + 2/128)}}}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Fire rune|quantity=37|rarity=1/128}}
+{{DropsLine|name=Cosmic rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Blood rune|quantity=5|rarity=4/128}}
+{{DropsLine|name=Adamant arrow|quantity=16|rarity=6/128}}
+{{DropsLine|name=Rune arrow|quantity=7|rarity=2/128|namenotes=<ref group="d">Always dropped alongside [[adamant arrow]]s.</ref>}}
+{{DropsLine|name=Marrentill tar|quantity=6|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|19/128}}
+{{DropsTableHead}}
+{{HerbDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Lobster|quantity=1|rarity=1/128}}
+{{DropsLine|name=Bass|quantity=1|rarity=1/{{#expr:1/(2/128 * 2/3 + 4/128)}}}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny blunt rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=15|rarity=10/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=22|rarity=6/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=60|rarity=42/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=200|rarity=1/{{#expr:1/(2/128 * 1/3)}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Uncut sapphire|quantity=2|rarity=3/128}}
+{{DropsLine|name=Raw bass|quantity=1|rarity=4/128}}
+{{DropsLine|name=Desert goat horn|quantity=3|rarity=2/128}}
+{{DropsLine|name=Cactus seed|quantity=10|rarity=1/{{#expr:1/(2/128 * 2/3)}}|namenotes=<ref group="d">Always dropped alongside [[bass]].</ref>}}
+{{DropsLine|name=Waterskin (4)|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|14/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Ludikeris}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=|update=|img=Scarab mage (2007).png|name=Scarab mage}}
+|{{GUL|date=|update=|img=Scarab mage.png|name=Scarab mage}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=Beneath Scabaras' Sands Quest Launch - This Week In RuneScape|date=13 January 2025}}
+** The variants in Dominion Tower is now susceptible to keris.
+
+* {{UL|type=update|update=Contact!|date=10 January 2007}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Contact!}}

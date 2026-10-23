@@ -1,0 +1,61 @@
+{{Infobox Monster
+|name = Black Knight zombie
+|image = [[File:Black Knight zombie.png|200px]]
+|release = [[13 August]] [[2013]]
+|update = The Death of Chivalry
+|members = No
+|examine = A re-animated knight.
+|level = 0
+|lifepoints = 10000
+|slaylvl = 1
+|experience = 10.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Zombies
+|max_melee = 250
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 50
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 18089,18090
+|leagueRegion = Asgarnia
+}}
+'''Black Knight zombies''' are enemies fought during [[The Death of Chivalry]] quest. They are re-animated bodies brought back to life along with [[Sir Owen]] by [[Dawn]] after she acquires [[Elora's Wand]]. In the quest there are 2 of them. Like all of the monsters during this quest, their life points are scaled to match the player's level. Upon death they fall to the floor instead of disappearing, and can be searched for small amounts of coins.
+
+They appear as regular [[black knights]], but moaning and limping, since they are zombified. They deal very little damage as they will only grab something and attempt to rip it off.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=The Death of Chivalry|date=13 August 2013}}
+** Added to game.
+}}
+
+{{Black Knights}}
+{{The Death of Chivalry}}
+{{Zombie}}
+[[Category:The Death of Chivalry]]
+[[Category:Zamorakians]]
+[[Category:Quest monsters]]

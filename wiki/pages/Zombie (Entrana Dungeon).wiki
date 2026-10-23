@@ -1,0 +1,147 @@
+{{external|os|rsc=Zombie#Entrana}}
+{{Infobox Monster
+|name = Zombie
+|image = [[File:Zombie (Entrana Dungeon).png]]
+|release = [[27 February]] [[2002]]
+|update = Latest RuneScape News (27 February 2002)
+|members = No
+|options = Attack, Examine
+|race = Zombie
+|examine = The walking dead.
+|level = 29
+|lifepoints = 1050
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 12.0
+|slayercat = Zombies, Undead
+|max_melee = 105
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = Melee
+|speed = 5
+|attack = 21
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 329
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 329
+|defence = 21
+|weakness = Fire
+|susceptibility = undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|id = 76, 5328, 5329, 5330, 5331
+|leagueRegion=Asgarnia}}
+'''Zombies''' are monsters found within the entrance section of [[Entrana Dungeon]]. Previously, they were pivotal to players doing the [[Lost City]] quest, as in order to chop the [[Dramen tree]] at the end of the dungeon, they needed a [[hatchet]], which zombies can be seen wielding and may drop. Players can chop trees having a hatchet in their [[tool belt]] while travelling to [[Entrana]]. They are still unique in that they can still drop hatchets directly and not tiny bladed [[salvage]] items in their stead.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Entrana Dungeon]]
+|lvls=29
+|mem=yes
+|mapID=17
+|npcid:76,x:2842,y:9766
+|npcid:5328,x:2843,y:9761
+|npcid:5330,x:2846,y:9756
+|npcid:5331,x:2846,y:9760
+|npcid:5329,x:2849,y:9763
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Bronze arrow|quantity=8|rarity=4/128}}
+{{DropsLine|name=Air rune|quantity=13|rarity=4/128}}
+{{DropsLine|name=Nature rune|quantity=6|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Bronze med helm|quantity=1|rarity=4/128}}
+{{DropsLine|name=Bronze longsword|quantity=1|rarity=1/256}}
+{{DropsLine|name=Bronze off hand longsword|quantity=1|rarity=1/256}}
+{{DropsLine|name=Bronze hatchet|quantity=1|rarity=50/128}}
+{{DropsLine|name=Iron hatchet|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|4/128}}
+{{DropsTableHead}}
+{{HerbDropTable|4/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=18|rarity=3/128}}
+{{DropsLine|name=Coins|quantity=28|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Fishing bait|quantity=5|rarity=46/128}}
+{{DropsLine|name=Nothing|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|gemw=no|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4,000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Tiny plated bronze salvage → Bronze med helm
+*** Small bladed bronze salvage → Bronze longsword/Bronze off hand longsword
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Zombies can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (9 November 2009)|date=9 November 2009}}
+** Reworked various zombie and [[skeleton]] combat animations.
+
+* {{UL|type=patch|update=Patch Notes (25 March 2009)|date=25 March 2009}}
+** Stopped a zombie from playing a human animation that made it appear to explode briefly. Zombies in RuneScape have enough to worry about without an irrational fear of spontaneous combustion.
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Zombies, [[skeleton]]s and [[ghost]]s have been graphically updated.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+{{Zombie}}

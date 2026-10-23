@@ -1,0 +1,42 @@
+task	xp_hr	use	slayer_lvl	priority
+Gemstone dragons	1400k Hydrix	Ranged	95-101	Prefer
+Ripper demons	700k w/ Darklight	Melee	96	Prefer
+Soul devourers	680k	Melee / Magic if killing imperial guard akh or Magister	105-117	Prefer
+Shadow creatures	680k Manifest	Melee	1	Prefer
+Nightmare creatures	650k	Melee/Mage	80	Prefer
+Creatures of the Lost Grove	1324k w/ Legacy / 610k Golem	Mage/Melee	104-108	Prefer
+Acheron mammoths	600k	Melee	96	Prefer
+Corrupted creatures	580k Worker	Melee	88-103	Prefer
+Crystal shapeshifters	500k	Melee/Ranged	80	Prefer
+Greater demons	1000k Berserkers / 180k K'ril	Ranged/Mage	1	Prefer
+Airut	470k	Melee	92	Do
+Nodon dragonkin	600k Legacy / 450k Nodon artificer/Nodon guard	Ranged (Use dragonbane arrows) / Mage (Use air spells)	1,92	Do
+Abyssal demons	1800k Lords / 400k demons	Melee (halberd) / Ranged (chinchompas) / Melee (beasts) / Magic (lords)	85	Do
+Camel warriors	390k	Melee	96	Do
+Stalker creatures	682k Magic / 370k Soulgazer	Ranged	71,99	Do
+Edimmu	360k	Melee	90	Do
+Ganodermic creatures	360K Ganodermic beasts	Mage (use fire spells)	95	Do
+Chaos giants	350k	Melee	1	Do
+Dark beasts	340k	Mage/Ranged	90	Do
+Cres's creations (Automatons)	320k	Ranged	67	Do
+Ice strykewyrms	310k	Mage (use fire spells)	93	Do
+Dinosaurs (cluster task)	360k Feral Dinosaur	Melee	90 - 114	Do
+Dragons (cluster task)	1400k Hydrix	Mage/Ranged	1, 95 - 101	Do
+Vile blooms (cluster task)	320k Lampenflora	Magic (fire spells)	102	Do
+Vyrewatch	280k	Mage	67	Skip
+Celestial dragons	270k	Ranged	1	Skip
+Muspah	270k	Mage (use blood barrage)	76	Skip
+Rune dragons	200k	Ranged (use dragonbane ammunition)	1	Skip
+Black dragons	180k	Ranged	1	Skip
+Gargoyles	180k	Mage (use water spells)	75	Skip
+Waterfiends	160k	Ranged	1	Skip
+Kalphite	130k	Mage (use water spells)	1	Skip
+Ascension members	100k	Ranged	81, 95	Skip
+Adamant dragons	100k	Mage (use air spells)	1	Skip
+Dagannoth	70k	Melee	1	Skip
+Aviansies	250k Kree / 50k	Ranged	1	Skip
+Grotworms	200k	Ranged	1	Block / Skip
+Glacors	300k	Mage	1	Block / Skip
+Tormented demons	130k	Melee	1	Block / Skip
+Nihil	327k chin / 100k	Ranged	76	Block / Skip
+Aquanites	50k	Melee	78	Block / Skip

@@ -1,0 +1,59 @@
+{{Otheruses|the cows from Ashdale|the cows from New Varrock|Zombie cow (New Varrock)}}
+{{Confuse|Undead cow}}
+{{Deleted content}}
+{{Infobox Monster
+|name = Zombie cow
+|image = [[File:Zombie cow.png|200px]]
+|release = [[26 November]] [[2013]]
+|update = Coinshare, World Map and Tutorial
+|members = No
+|examine = A recently deceased bovine.
+|level = 1
+|lifepoints = 50
+|experience = 0.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 0
+|slayercat = Zombies
+|assigned_by = Turael, Mazchna, Vannaka
+|max_melee = 20
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|acc_melee = 120
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 110
+|defence = 1
+|weakness = Slash
+|aff_weakness = 1000
+|aff_melee = 1000
+|aff_ranged = 1000
+|aff_magic = 1000
+|immune_to_poison = No
+|immune_to_stun = No
+|restriction = removed
+|id = 18597
+|leagueRegion=N/A}}
+[[File:Zombie cow chathead.png|left]]
+A '''zombie cow''' appeared in [[Ashdale]] during the [[Ashdale Tutorial]], initially appearing as an ordinary dead cow before being reanimated. It must be fought to progress, and was presumably reanimated by [[Morwenna the Cruel]].
+
+It did not count as a cow for [[Slayer assignment]]s.
+
+==Update history==
+{{Update history|
+* {{UL|type=patch|update=Patch Notes (8 September 2014)|date=8 September 2014}}
+** All players can now continue the [[Ashdale Tutorial|Ashdale tutorial]] after killing the undead{{sic}} cow.
+
+* {{UL|type=update|update=Coinshare, World Map and Tutorial|date=26 November 2013}}
+** Added to game.
+}}
+
+{{Zombie}}
+{{Ashdale Tutorial}}

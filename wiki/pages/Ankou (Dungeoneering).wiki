@@ -1,0 +1,149 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 7
+|version2 = 25
+|version3 = 43
+|version4 = 63
+|version5 = 81
+|version6 = 100
+|version7 = 119
+|version8 = 138
+|name = Ankou
+|image = [[File:Ankou.png|75px|Ankou]]
+|release = [[2 November]] [[2010]]
+|update = Dungeoneering – The Warped Floors
+|members = Yes
+|actions = Attack, Mark
+|examine = A bony ghost.
+|level1 = 7
+|level2 = 25
+|level3 = 43
+|level4 = 63
+|level5 = 81
+|level6 = 100
+|level7 = 119
+|level8 = 138
+|lifepoints1 = 500
+|lifepoints2 = 1800
+|lifepoints3 = 3100
+|lifepoints4 = 4500
+|lifepoints5 = 5800
+|lifepoints6 = 7200
+|lifepoints7 = 8500
+|lifepoints8 = 9900
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ankou, Creatures of Daemonheim, Skeletons, Undead
+|max_melee1 = 20
+|max_melee2 = 72
+|max_melee3 = 124
+|max_melee4 = 180
+|max_melee5 = 232
+|max_melee6 = 288
+|max_melee7 = 340
+|max_melee8 = 396
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 5
+|attack2 = 18
+|attack3 = 31
+|attack4 = 45
+|attack5 = 58
+|attack6 = 72
+|attack7 = 85
+|attack8 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 150
+|acc_melee2 = 292
+|acc_melee3 = 470
+|acc_melee4 = 732
+|acc_melee5 = 1070
+|acc_melee6 = 1566
+|acc_melee7 = 2178
+|acc_melee8 = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 150
+|armour3 = 213
+|armour4 = 381
+|armour5 = 590
+|armour6 = 901
+|armour7 = 1299
+|armour8 = 1876
+|defence1 = 5
+|defence2 = 18
+|defence3 = 31
+|defence4 = 45
+|defence5 = 58
+|defence6 = 72
+|defence7 = 85
+|defence8 = 99
+|weakness1 = Air
+|weakness2 = Water
+|weakness3 = Earth
+|weakness4 = Fire
+|weakness5 = Air
+|weakness6 = Air
+|weakness7 = Water
+|weakness8 = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10736
+|id2 = 10737
+|id3 = 10738
+|id4 = 10739
+|id5 = 10740
+|id6 = 10741
+|id7 = 10742
+|id8 = 10743
+|leagueRegion = Wilderness
+}}
+'''Ankous''' are [[undead]] [[bestiary|monsters]] found in the warped floors in [[Daemonheim]].
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Dungeoneering – The Warped Floors|date=2 November 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Ghost}}
+{{Skeleton}}

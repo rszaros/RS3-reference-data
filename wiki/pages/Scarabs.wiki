@@ -1,0 +1,78 @@
+{{External|os}}
+{{Confuse|Scarab}}
+{{otheruses|the attackable NPC|City Quest|City Quest#Scarabs|other uses|Scarab (disambiguation)}}
+{{Infobox Monster
+|name = Scarabs
+|image = [[File:Scarab swarm.png|Scarabs|90px]]
+|release = [[18 April]] [[2005]]
+|update = Desert Treasure
+|members = Yes
+|options = Attack
+|examine = I think they're some kind of beetle...
+|level = 86
+|lifepoints = 3100
+|experience = 155.0
+|aggressive = Yes
+|poisonous = Yes
+|slaylvl = 1
+|slayxp = 77.2
+|slayercat = Scabarites
+|assigned_by = Sumona, Duradel
+|max_melee = 248
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 1
+|attack = 62
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 1197
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1197
+|defence = 62
+|weakness = Water
+|susceptibility = Keris
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 1969
+|leagueRegion=Desert}}
+'''Scarabs''' are higher levelled versions of [[scarab swarms]], which, like their lower level counterparts, are capable of poisoning, and attack extremely fast (once every [[game tick]], or 0.6 seconds) and almost always cause damage, making them dangerous for lower levelled players.
+
+They randomly spawn inside the [[Jaldraocht Pyramid]], spawning when a crack appears on the ground and emerging from it. 
+
+Killing scarabs is a possible task from a Menaphos [[City Quest]]. Fighting the mummies in the pyramid is one way to get them to spawn.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (5 June 2017)|date=5 June 2017}}
+** [[Camel]]s, [[crocodile]]s, [[giant lizard]]s, [[vulture]]s, [[jackal]]s, [[locust]]s and scarabs have been graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (19 May 2009)|date=19 May 2009}}
+** Scarabs' defend animation should no longer stretch.
+
+* {{UL|type=update|update=Desert Treasure|date=18 April 2005}}
+** Added to game.
+}}
+
+{{Desert Treasure}}
+
+[[Category:Bugs]]

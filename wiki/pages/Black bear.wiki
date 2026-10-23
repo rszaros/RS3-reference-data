@@ -1,0 +1,169 @@
+{{External|os|rsc=Bear}}
+{{Infobox Monster
+|name = Black bear
+|image = [[File:Black bear.png|250px]]
+|release = [[4 January]] [[2001]]
+|update = Runescape beta is now online!
+|members = No
+|options = Attack
+|examine = Eek! A bear!
+|level = 23
+|lifepoints = 2900
+|slaylvl = 1
+|slayxp = 10.2
+|experience = 145.0
+|aggressive = No
+|poisonous = No
+|slayercat = Bears
+|assigned_by = Turael, Mazchna, Vannaka
+|max_melee = 340
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 17
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 180
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 280
+|defence = 17
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 106
+|leagueRegion=Asgarnia, Kandarin, Misthalin
+}}
+[[File:Bear icon.png|left]]
+'''Black bears''' can be found in forests in ''[[RuneScape]]''. They can be found between the [[Goblin Village]] and the [[dwarven mines]] (below the [[mind altar]] ruins), and a group is located next to the [[body altar]]. More remote locations to find black bears include in the lower-levelled [[Wilderness]] and on [[Entrana]], although weapons and armour may not be taken to the latter to combat them.
+
+Their fur can be sold to [[fur traders]] (located in [[Varrock]], [[Ardougne]], and [[Rellekka]]). The [[raw bear meat]] can be cooked by itself or used as an ingredient in [[wild pie]].
+
+They can be killed for [[Bears (Slayer assignment)|bear assignments]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Entrana]]
+|lvls=23
+|mem=yes
+|mapID=28
+|npcid:106,x:2809,y:3376
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Feldip Hills]]
+|lvls=23
+|mem=yes
+|mapID=28
+|npcid:106,x:2606,y:3008
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Gnome Maze]]
+|lvls=23
+|mem=yes
+|mapID=28
+|npcid:106,x:2501,y:3159
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=North of the [[Observatory]]
+|lvls=23
+|mem=yes
+|mapID=28
+|npcid:106,x:2460,y:3200|npcid:106,x:2478,y:3200
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=West of [[Barbarian Village]]
+|lvls=23
+|mem=no
+|mapID=28
+|npcid:106,x:3040,y:3438|npcid:106,x:3044,y:3454|npcid:106,x:3046,y:3429|npcid:106,x:3050,y:3441|npcid:106,x:3056,y:3425|npcid:106,x:3058,y:3452|npcid:106,x:3064,y:3429|npcid:106,x:3065,y:3439
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=West of [[Ice Mountain]]
+|lvls=23
+|mem=no
+|mapID=28
+|npcid:106,x:2959,y:3471|npcid:106,x:2966,y:3456|npcid:106,x:2974,y:3470
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Bear fur|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw bear meat|quantity=1|rarity=Always}}
+{{DropsLine|name=Bear ribs|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest.}}|members=Yes|gemw=No}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Bear pelt|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Fur 'n Seek]] quest.}}|members=Yes|gemw=No}}
+{{DropsLineEffigy|level=23|members=Yes}}
+{{DropsLineSpiritGems|members=Yes}}
+{{DropsLineMimic|level=23|members=Yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|members=Yes
+|quantity = 1
+|gold = 147.522/1000
+|green = 4.61/1000
+|crimson = 9.22/1000
+|blue = 0.922/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=WildyWyrm Flash Event and Valentines - This Week In RuneScape|date=5 February 2024}}
+** Grizzly Bears and Black Bears no longer appear purple when textures are disabled.
+
+* {{UL|type=patch|update=Community Hitlist and Necromancy Embargo - This Week In RuneScape|date=22 January 2024}}
+** Black bears and grizzly bears, including their cubs, have been graphically updated.
+
+* {{UL|type=ninja|update=This Week In RuneScape: Yak To Basics and Ninja Strike 20!|date=1 March 2021}}
+** Moved in a group of black bears next to the [[Body altar]] west of [[Gunnarsgrunn]] (also known as the Barbarian Village).
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes bears.
+
+* {{UL|type=patch|update=Patch Notes (21 August 2012)|date=21 August 2012}}
+** Bears have animations again.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+*They are featured in the Armies of Gielinor Zamorak Campaign. They are seen as [[Seren]] followers.
+
+{{Bears}}
+[[Category:Serenists]]

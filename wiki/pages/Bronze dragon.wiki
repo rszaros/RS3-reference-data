@@ -1,0 +1,222 @@
+{{External|os}}
+{{Infobox Monster
+|name = Bronze dragon
+|image = [[File:Bronze dragon.png|250px]]
+|release = [[17 January]] [[2005]]
+|update = Karamja Dungeon
+|members = Yes
+|options = Attack, Examine
+|size = 4
+|examine = Its scales seem to be made of bronze.
+|level = 86
+|lifepoints = 5000
+|slaylvl = 1
+|slayxp = 124.5
+|experience = 250.0
+|aggressive = No
+|poisonous = No
+|slayercat = Bronze dragons, dragons
+|max_melee = 409
+|max_ranged = 0
+|max_magic = 409
+|max_spec = 0
+|style = melee, dragonfire
+|primarystyle = melee
+|speed = 4
+|attack = 62
+|ranged = 1
+|magic = 62
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 1197
+|acc_ranged = 0
+|acc_magic = 1197
+|armour = 1197
+|defence = 62
+|weakness = Water
+|susceptibility = dragon bane, dragon slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Karamja,Wilderness
+|id = 1590,21198
+}}
+[[File:Bronze dragon icon.png|alt=Bronze dragon slayer icon|left]]
+'''Bronze dragons''' are [[metal dragons]] found in the [[Brimhaven Dungeon]] and the [[Chaos Tunnels]]. While they are the weakest of the metallic dragons, they are still powerful monsters. An [[anti-dragon shield|anti-dragon]]/[[dragonfire shield]] and/or an [[antifire]]/[[super antifire]] potion are essential when fighting them as they can reduce the damage from their [[dragonfire]] and when used simultaneously block dragonfire damage altogether. Their appearance has been updated on many occasions.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Brimhaven Dungeon]]
+|lvls=86
+|mem=yes
+|mapID=13
+|npcid:1590,x:171,y:74|npcid:1590,x:171,y:83|npcid:1590,x:180,y:84
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=86
+|mem=yes
+|mapID=23
+|npcid:1590,x:3141,y:5513|npcid:1590,x:3147,y:5513|npcid:1590,x:3181,y:5556
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Strategy==
+{{cquote2|The last Bronze dragon I killed I found water spells took them down effectively.
+
+Bronze dragons are the weakest of the metallic dragons, but their bronze scales are far thicker than normal bronze armour. They lay in wait for you in Brimhaven Dungeon and the Chaos Tunnels. You'll be well served by taking a defence against their breath.|[[Chaeldar]]}}
+
+As with all dragons, protection from their [[dragonfire]] is required. An [[Anti-dragon shield]] or type of [[Dragonfire shield (disambiguation)|dragonfire shield]] can be combined with an [[antifire]] potion and a one-handed weapon to negate the deadly breath. With 85 herblore, [[super antifire]] potions allow the use of off-hand or two-handed weapons. Super antifires are a preferred option due to its high level of dragonfire resistance; no dragonfire resisting shield is needed, allowing two-handed weapons to be used effectively.
+
+===Using Magic===
+Bronze dragons are weak to [[water spells]], although any magic attack will prove effective.
+
+===Using Melee===
+If [[melee]] is preferred, you should use your highest level one-handed weapon(s), in tandem with an anti-dragon shield/dragonfire shield. Without a specific melee style weakness, use the strongest weapon available to you.
+
+===Using Ranged===
+Due to their classification as melee combatants, it is '''not''' recommended to use ranged to take down these dragons. If ranged is still preferred, then seek to increase your accuracy with potions and prayers.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Dragon bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Huge plated bronze salvage|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Dragon plateskirt|quantity=1|rarity=1/2048|altrarity=1/2026|raritynotes={{DropNote|name=dragon|The drop rate is 1/2,048 for a specific dragon legging, or 1/1,024 for any dragon legging. Improved to 1/2,026 with tier 2 or higher [[luck]].}}}}
+{{DropsLine|name=Dragon platelegs|quantity=1|rarity=1/2048|altrarity=1/2026|raritynotes={{DropNote|name=dragon}}}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium bladed mithril salvage|quantity=1|rarity=7/128}}
+{{DropsLine|name=Tiny bladed mithril salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Huge plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Adamant javelin|quantity=30|rarity=20/128}}
+{{DropsLine|name=Adamant dart|quantity=16|rarity=7/256}}
+{{DropsLine|name=Off-hand adamant dart|quantity=16|rarity=7/256}}
+{{DropsLine|name=Rune knife|quantity=2|rarity=3/256}}
+{{DropsLine|name=Off-hand rune knife|quantity=2|rarity=3/256}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril bolts|quantity=2-12|rarity=9/128}}
+{{DropsLine|name=Fire rune|quantity=50|rarity=8/128}}
+{{DropsLine|name=Law rune|quantity=10|rarity=5/128}}
+{{DropsLine|name=Death rune|quantity=25|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=196|rarity=40/128}}
+{{DropsLine|name=Coins|quantity=330|rarity=10/128}}
+{{DropsLine|name=Coins|quantity=690|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=3/128}}
+{{DropsLine|name=Swordfish|quantity=2|rarity=2/128}}
+{{DropsLine|name=Swordfish|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem and Rare drop table===
+{{GemDropTable|5/128|rdt=1/250|override=There is a 5/128 chance of rolling the [[gem drop table]]. There is also a 1/250 chance of rolling the [[rare drop table]] as a tertiary drop (1/247 with tier 2 or higher [[luck]] active).}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Bronze dragon tail-bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=no|alch=yes}}
+<!--
+12/1536 hard clue
+else 1/1536 elite clue roll
+     -> 1/153600 master clue, 99/153600
+if we're listing that we should really multiply out
+1524/1536 * 1/1536 * 99/100 = 150876 / 235929600 => simplifies to 4191/6553600
+1524/1536 * 1/1536 * 1/100 = 1524 / 235929600 => simplifies to 127/19660800
+-->{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=12/1536}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=150876/235929600|raritynotes={{DropNote|This drop only attempts to roll should you fail to roll a hard clue. Should you get this item, there's a 1% chance it'll be upgraded to a [[sealed clue scroll (master)]].}}}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=1536/235929600}}
+{{DropsLineEffigy|level=86}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=86}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 130.959/1000
+|green = 327.397/1000
+|crimson = 130.959/1000
+|blue = 26.192/1000
+}}
+
+==Achievements==
+* {{Achievement|Jungle Predator}}
+** [[Dragon platelegs]] and [[Dragon plateskirt|plateskirt]] drops
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[17 January]] [[2005]]|update=Karamja Dungeon|img=Bronze dragon (2005).png|name=Bronze dragon}}
+|{{GUL|date=[[8 May]] [[2007]]|update=Small spiders, kalphites, scorpions and metal dragons|img=Bronze dragon (2007).png|name=Bronze dragon}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Bronze dragon (2008).png|name=Bronze dragon}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Bronze dragon.png|name=Bronze dragon}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=TWIR: Construction Contracts & Premier Club#Patch Notes|date=16 November 2020}}
+** The colours of bronze, [[Iron dragon|iron]], [[Steel dragon|steel]] and [[Mithril dragon|mithril]] [[Dragon (race)|dragons]] will now display correctly.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for bronze dragons.
+
+* {{UL|type=update|update=Rune Value Improvements|date=15 September 2014}}
+** Many monster types have had their rune drop rates reduced or removed, in order to increase the value of altar runecrafting.
+*** Bronze dragons have had their 15 [[blood rune]] drop removed. To compensate, the [[mithril bolts]] drop rate has been increased from 6/128 to 9/128.
+
+* {{UL|type=update|update=Love Story|date=5 July 2010}}
+** Graphically updated the regular dragons in the game. This includes green, blue red and black dragons (including baby variants), plus bronze, iron, steel and mithril dragons. 
+
+* {{UL|type=patch|update=Patch Notes (9 September 2009)|date=9 September 2009}}
+** Improved various dragons' fire-breath code behaviour to match the KBD's existing behaviour. The actual animation has not changed.
+
+* {{UL|type=update|update=Small spiders, kalphites, scorpions and metal dragons|date=8 May 2007}}
+** Small spiders, kalphites, scorpions and metal dragons have shiny new looks and animations.
+
+* {{UL|update=Creature of Fenkenstrain|date=31 January 2005}}
+** People may have noticed last week we also decreased the totals of bronze dragons and steel dragons being assigned to decrease crowding on those creatures. 
+
+* {{UL|type=update|update=Karamja Dungeon|date=17 January 2005}}
+** Added to game.
+}}
+
+{{Dragon (race)}}
+{{Brimhaven Dungeon}}
+[[pt:Dragão de bronze]]

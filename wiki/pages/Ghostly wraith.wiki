@@ -1,0 +1,69 @@
+{{Infobox Monster
+|version1 = The World Wakes
+|version2 = Dominion Tower
+|name = Ghostly wraith
+|image = [[File:Ghostly wraith.png|200px]]
+|release1 = [[4 March]] [[2013]]
+|release2 = [[8 December]] [[2014]]
+|update1 = The World Wakes
+|update2 = Snowverload & Dominion Tower Rumble Mode
+|members = Yes
+|options = Attack, Examine
+|race = Ghost
+|examine = A raised, vengeful spirit.
+|level = 46
+|lifepoints = 660
+|experience = 0.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ghosts, Undead
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 200
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 33
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 502
+|acc_necromancy = 0
+|armour = 502
+|defence = 33
+|weakness = Thrown
+|aff_weakness = 80
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = quest
+|restriction2 = minigame
+|id1 = 17011
+|id2 = 17266
+}}
+'''Ghostly wraiths''' are [[undead]] summoned by [[Zemouregal]] in the battle against him during [[The World Wakes]]. They are extremely weak, and, much like the [[armoured zombies]] and [[skeleton bone thrower]]s that Zemouregal also summons, very easy to defeat.
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=The World Wakes|date=4 March 2013}}
+** Added to game.
+}}
+
+==Trivia==
+*They are identical in appearance to the [[apparition]]s that a [[Shadowy Figure]] (who turns out to be Sliske) summons earlier on in the quest.
+
+{{Ghost}}
+{{The World Wakes}}
+[[Category:Quest monsters]]

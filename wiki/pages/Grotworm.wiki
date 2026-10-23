@@ -1,0 +1,190 @@
+{{Otheruses|level 63 Grotworms|other types of Grotworms|Grotworm (disambiguation)}}
+{{Infobox Monster
+|name = Grotworm
+|image = [[File:Grotworm.png|250px]]
+|release = [[22 May]] [[2012]]
+|update = Song from the Depths
+|members = Yes
+|actions = Attack
+|examine = A huge, disgusting worm.
+|level = 63
+|lifepoints = 7450
+|experience = 372.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 102.8
+|slayercat = Grotworms
+|assigned_by = Turael, Mazchna, Vannaka, Chaeldar, Sumona, Duradel, Kuradal, Morvran
+|max_melee = 900
+|max_ranged = 0
+|max_magic = 900
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 45
+|ranged = 1
+|magic = 45
+|necromancy = 1
+|acc_melee = 632
+|acc_ranged = 0
+|acc_magic = 632
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Bolts
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia,Tirannwn
+|id = 15462
+}}
+[[File:Grotworm icon.png|left]]
+'''Grotworms''' are monsters found on the middle level of the [[Grotworm Lair]], which is located northwest of the [[Port Sarim lodestone]] within the [[White Knight Camp]]. They attack with [[melee]] when within melee range and [[magic]] when out of melee range. They have an average attack speed, but they can hit fairly accurately for their level.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Grotworm Lair]]
+|lvls=63
+|mem=yes
+|mapID=43
+|npcid:15462,x:1062,y:6270|npcid:15462,x:1065,y:6255|npcid:15462,x:1065,y:6261
+|npcid:15462,x:1072,y:6262|npcid:15462,x:1077,y:6267|npcid:15462,x:1079,y:6247
+|npcid:15462,x:1079,y:6255|npcid:15462,x:1046,y:6311|npcid:15462,x:1048,y:6328
+|npcid:15462,x:1050,y:6288|npcid:15462,x:1055,y:6314|npcid:15462,x:1057,y:6335
+|npcid:15462,x:1061,y:6286|npcid:15462,x:1064,y:6320|npcid:15462,x:1064,y:6327
+|npcid:15462,x:1066,y:6276|npcid:15462,x:1070,y:6292|npcid:15462,x:1070,y:6332
+|npcid:15462,x:1071,y:6308|npcid:15462,x:1073,y:6298|npcid:15462,x:1074,y:6282
+|npcid:15462,x:1076,y:6275|npcid:15462,x:1077,y:6327|npcid:15462,x:1078,y:6312
+|npcid:15462,x:1055,y:6342|npcid:15462,x:1060,y:6351|npcid:15462,x:1066,y:6338
+|npcid:15462,x:1067,y:6357|npcid:15462,x:1071,y:6345|npcid:15462,x:1076,y:6339
+|npcid:15462,x:1076,y:6353
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Law rune|quantity=10|rarity=4/100}}
+{{DropsLine|name=Nature rune|quantity=5,10|rarity=4/100}}
+{{DropsLine|name=Death rune|quantity=10|rarity=4/100}}
+{{DropsLine|name=Royal bolts|quantity=25|rarity=8/100}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|5/100}}
+{{DropsTableHead}}
+{{HerbDropTable|5/100}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Rainbow fish|quantity=2|rarity=5/100}}
+{{DropsLine|name=Bass|quantity=3|rarity=5/100}}
+{{DropsLine|name=Super strength (2)|quantity=1|rarity=2/100}}
+{{DropsLine|name=Super attack (2)|quantity=1|rarity=2/100}}
+{{DropsTableBottom}}
+
+===Spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril stone spirit|quantity=3|rarity=5/100}}
+{{DropsLine|name=Coal stone spirit|quantity=4|rarity=3/100}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=5/100}}
+{{DropsLine|name=Acadia wood spirit|quantity=4|rarity=5/100}}
+{{DropsLine|name=Mahogany wood spirit|quantity=3|rarity=5/100}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/200|raritynotes={{DropNote|Rolls separately, first.}}}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=4/100}}
+{{DropsLine|name=Small plated adamant salvage|quantity=1|rarity=2/100}}
+{{DropsLine|name=Flax|quantity=15-50 (noted)|rarity=9/100}}
+{{DropsLine|name=Limpwurt root|quantity=1|rarity=4/100}}
+{{DropsLine|name=Royal dragonhide|quantity=1|rarity=3/100}}
+{{DropsLine|name=Coins|quantity=2000|rarity=4/100}}
+{{DropsLine|name=Morchella mushroom spore|quantity=1|rarity=3/100}}
+{{DropsLine|name=Spirit weed seed|quantity=1|rarity=2/100}}
+{{DropsLine|name=Royal cape|quantity=1|rarity=2/100}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/100}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=63}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=63}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 15.996/1000
+|green = 7.998/1000
+|crimson = 51.188/1000
+|blue = 3.2/1000
+}}
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}} 
+** [[Royal cape]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=July Quest Qol and Game Health Update - This Week In RuneScape|date=14 July 2025}}
+** Added new sources for [[spirit weed seed|Spirit Weed Seeds]], [[inert adrenaline crystal|Inert Adrenaline Crystals]] and [[sirenic scale|Sirenic Scales]] across various [[Slayer monsters]]:
+*** Spirit Weed seeds - [[Automaton (monster)|Automatons]], [[Strykewyrm]]s, [[Turoth]]s, [[gemstone dragon|Gemstone Dragons]] (on task), [[brutisch dinosaur|Brutish Dinosaurs]], Grotworms, [[Moss giant|Moss Giants]], [[flesh crawler|Flesh Crawlers]], [[Cockatrice]]s, [[Kurask]] and [[seed drop table|Rare Seed Drop Table]].
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[teak logs]] drop with [[mahogany wood spirit]]s.
+** Replaced the [[mahogany logs]] drop with [[acadia wood spirit]]s.
+
+* {{UL|type=patch|update=Patch Notes (19 August 2019)|date=19 August 2019}}
+** Grotworms are able to damage the player once again.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for Grotworms.
+
+* {{UL|type=patch|update=Patch Notes (18 March 2013)|date=18 March 2013}}
+** Grotworms, [[moss giant]]s, [[banshee]]s, [[jungle spider]]s, [[shadow spider]]s, [[spider]]s, [[giant spider]]s, [[deadly red spider]]s, [[ice spider]]s, [[scorpion]]s, [[poison scorpion]]s and [[pit scorpion]] will no longer hit for 1 hit point worth of damage.
+
+* {{UL|type=patch|update=Patch Notes (22 November 2012)|date=22 November 2012}}
+** Grotworms are now non-aggressive.
+
+* {{UL|type=update|update=Song from the Depths|date=22 May 2012}}
+** Added to game.
+}}
+
+==Trivia==
+* Grotworm is Dutch for Cave worm.
+* Before an update, Grotworms commonly dropped rune items, such as rune longswords, rune scimitars, and runite ore. But due to excessive botting, Jagex removed most of these items and lowered the possibility of receiving these items as a drop.
+
+{{QBD}}
+[[Category:NPCs that can move at crawling speed]]
+[[pt:Grutoverme]]

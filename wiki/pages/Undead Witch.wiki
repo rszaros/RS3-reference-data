@@ -1,0 +1,135 @@
+{{Infobox Monster
+|version1 = Normal mode
+|version2 = Story mode
+|name = Undead Witch
+|image = [[File:Undead Witch.png|180px]]
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|options = Attack, Mark
+|level = 170
+|experience1 = 1500
+|lifepoints1 = 30000
+|slaylvl = 0
+|slayxp1 = 
+|slayercat = Zombies
+|assigned_by = 
+|members = Yes
+|aggressive = Yes
+|poisonous1 = No
+|immune_to_poison1 = No
+|immune_to_stun1 = 
+|immune_to_deflect1 = 
+|immune_to_drain1 = 
+|style1 = magic
+|speed1 = 6
+|max_melee1 = 0
+|max_ranged1 = 0
+|max_magic1 = Varies
+|max_necromancy = 0
+|max_spec1 = 0
+|weakness = Nothing
+|susceptibility = Salve
+|examine = An evil necromancer.
+|attack1 = 175
+|ranged1 = 175
+|magic1 = 175
+|necromancy = 1
+|defence1 = 75
+|armour1 = 1694
+|acc_melee1 = 12569
+|acc_ranged1 = 12569
+|acc_magic1 = 12569
+|acc_necromancy = 0
+|aff_weakness1 = 90
+|aff_melee1 = 45
+|aff_ranged1 = 65
+|aff_magic1 = 55
+|abilities1 = 
+|dropversion1 = Normal mode,Normal mode (Floor 1),Normal mode (Floor 2),Normal mode (Floor 3)
+|dropversion2 = Story mode
+|leagueRegion = Wilderness
+|id = 26174
+}}
+'''Undead Witch''' is a monster found in [[The Shadow Reef]]. They use powerful magic attacks dealing damage equal to roughly 20% of the target's maximum health, though the attack has significant delay and deals damage after the projectile disappears, even if the witch is killed.
+
+As undead, they are susceptible to the effects of the [[salve amulet]] and its [[salve amulet (e)|enhanced version]], the [[Undead Slayer]] perk and effects of the [[Undead Slayer (ability)|Undead Slayer]] [[ability]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+In story mode, only bones are dropped.
+
+The average Undead Witch kill in normal mode is worth:
+* Floor 1: {{NoCoins|{{#expr:{{#vardefineecho:avg_drop_val|{{Average drop value|mob=Undead Witch#Normal mode|raw=y}}}}+{{Average drop value|mob=Undead Witch#Normal mode (Floor 1)|raw=y}}}}}} coins.
+* Floor 2: {{NoCoins|{{#expr:{{#var:avg_drop_val}}+{{Average drop value|mob=Undead Witch#Normal mode (Floor 2)|raw=y}}}}}} coins.
+* Floor 3: {{NoCoins|{{#expr:{{#var:avg_drop_val}}+{{Average drop value|mob=Undead Witch#Normal mode (Floor 3)|raw=y}}}}}} coins.
+
+===100%===
+{{DropsTableHead|version=Story mode,Normal mode}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Floor 1===
+====Currency====
+{{The Shadow Reef currency drop table|3500/10000|3300/10000|tier=1|version=Normal mode (Floor 1)}}
+
+====Supplies====
+{{The Shadow Reef supplies drop table|6497/10000|tier=1|version=Normal mode (Floor 1)}}
+
+===Floor 2===
+====Currency====
+{{The Shadow Reef currency drop table|3500/10000|3300/10000|tier=2|version=Normal mode (Floor 2)}}
+
+====Supplies====
+{{The Shadow Reef supplies drop table|6497/10000|tier=2|version=Normal mode (Floor 2)}}
+
+===Floor 3===
+====Currency====
+{{The Shadow Reef currency drop table|3500/10000|3300/10000|tier=3|version=Normal mode (Floor 3)}}
+
+====Supplies====
+{{The Shadow Reef supplies drop table|6497/10000|tier=3|version=Normal mode (Floor 3)}}
+
+===Lucky charm===
+{{Lucky charm (Shadow Reef) drops|200/10000|version=Normal mode}}
+
+===Other===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=3/50000000|altrarity=3/40000000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 3/40000000 if a [[champion scroll enhancer]] is active.}}|gemw=no}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/150|version=Normal mode}}
+
+===Tertiary===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=170}}
+{{DropsLineMimic|level=170}}
+{{DropsTableBottom}}
+
+====Charms====
+{{EliteDungeonCharmDropTable|version=Normal mode}}
+
+==Dialogue==
+{{Hastranscript|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=This Week In RuneScape - 20/07/20#Fixes|date=20 July 2020}}
+** Players are no longer able to obtain multiple [[Zombie Champion's scroll|Zombie Champion scrolls]] from the Shadow Reef Elite Dungeon when they've completed the appropriate Champion Challenge.
+
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+==Trivia==
+* It uses the same in-game model as [[Morwenna the Cruel]].
+
+==References==
+{{Reflist}}
+
+{{The Shadow Reef}}
+{{Zombies}}
+{{Witches}}
+{{Necromancer}}

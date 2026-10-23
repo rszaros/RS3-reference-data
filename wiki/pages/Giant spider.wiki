@@ -1,0 +1,466 @@
+{{External|rsc=Giant Spider|os}}
+{{otheruses|the monster|dungeon guard|Huge spider}}
+{{otheruses|def=no|the farm animal|Giant spider (player-owned farm)}}
+{{Infobox Monster
+|version1 = Level 2
+|version2 = Level 4
+|version3 = Level 33
+|version4 = Level 29
+|name = Giant spider
+|image1 = [[File:Giant spider (level 4).png|230px]]
+|image2 = [[File:Giant spider (level 4).png|230px]]
+|image3 = [[File:Giant spider (level 4).png|230px]]
+|image4 = [[File:Giant spider (level 57).png|250px]]
+|release1 = [[4 January]] [[2001]]
+|release2 = [[16 February]] [[2026]]
+|release3 = [[4 January]] [[2001]]
+|release4 = [[4 July]] [[2006]]
+|update1 = Runescape beta is now online!
+|update2 = Patch Notes: Early-Game Rebalance
+|update3 = Runescape beta is now online!
+|update4 = Security and free-to-play update - the Stronghold of Security
+|members = No
+|options = Attack
+|examine1 = I think this spider has been magically modified.
+|examine2 = I think this spider has been magically modified.
+|examine3 = I think this spider has been magically modified.
+|examine4 = I think this spider has been genetically modified.
+|level1 = 2
+|level2 = 4
+|level3 = 33
+|level4 = 29
+|lifepoints1 = 550
+|lifepoints2 = 1000
+|lifepoints3 = 3900
+|lifepoints4 = 3150
+|experience1 = 27.5
+|experience2 = 50
+|experience3 = 225.0
+|experience4 = 157.5
+|aggressive1 = No
+|aggressive2 = No
+|aggressive3 = Yes
+|aggressive4 = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 6.4
+|slayxp2 = 
+|slayxp3 = 13.4
+|slayxp4 = 31.2
+|slayercat = Spiders
+|assigned_by = Turael, Jacquelyn, Vannaka
+|max_melee1 = 40
+|max_melee2 = 40
+|max_melee3 = 480
+|max_melee4 = 0
+|max_ranged1 = 40
+|max_ranged2 = 40
+|max_ranged3 = 480
+|max_ranged4 = 480
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack1 = 2
+|attack2 = 3
+|attack3 = 24
+|attack4 = 1
+|ranged1 = 2
+|ranged2 = 3
+|ranged3 = 24
+|ranged4 = 24
+|magic1 = 1
+|magic2 = 1
+|magic3 = 1
+|necromancy = 1
+|acc_melee1 = 20
+|acc_melee2 = 30
+|acc_melee3 = 268
+|acc_melee4 = 0
+|acc_ranged1 = 20
+|acc_ranged2 = 30
+|acc_ranged3 = 368
+|acc_ranged4 = 268
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 120
+|armour2 = 120
+|armour3 = 368
+|armour4 = 304
+|defence1 = 2
+|defence2 = 3
+|defence3 = 24
+|defence4 = 19
+|weakness = Crush
+|susceptibility = NopeNopeNope
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 59, 12352
+|id2 = 20499
+|id3 = 60
+|id4 = 4400
+|leagueRegion1 = Kandarin,Misthalin,Wilderness
+|leagueRegion2 = Misthalin
+|leagueRegion3 = Kandarin,Misthalin
+|leagueRegion4 = Misthalin
+}}
+The '''giant spider''' is a [[ranged]]-based monster. The level 2 or 4 variant is commonly fought for early combat training. Many can be found in [[Lumbridge Swamp]], and many more in the [[Feldip Hills]]. Low-level players wishing to train on giant spiders should prioritise those found in the swamps.
+
+Giant spiders are weak to crush attacks, but any melee weapon should suffice.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Giant spider
+|loc = [[Stronghold of Security]] - Floor 3
+|mem = No
+|mapID = 24
+|plane = 0
+|lvls = 29
+|npcid:4400,x:16,y:43
+|npcid:4400,x:17,y:41
+|npcid:4400,x:19,y:38
+|npcid:4400,x:19,y:43
+|npcid:4400,x:20,y:40
+|npcid:4400,x:20,y:42
+|npcid:4400,x:21,y:38
+|npcid:4400,x:22,y:42
+|npcid:4400,x:23,y:40
+|npcid:4400,x:25,y:36
+|npcid:4400,x:25,y:38
+|npcid:4400,x:26,y:40
+|npcid:4400,x:27,y:35
+|npcid:4400,x:38,y:24
+|npcid:4400,x:39,y:19
+|npcid:4400,x:41,y:21
+|npcid:4400,x:41,y:74
+|npcid:4400,x:42,y:27
+|npcid:4400,x:42,y:74
+|npcid:4400,x:43,y:23
+|npcid:4400,x:43,y:73
+|npcid:4400,x:43,y:75
+|npcid:4400,x:45,y:72
+|npcid:4400,x:45,y:73
+|npcid:4400,x:45,y:74
+|npcid:4400,x:46,y:75
+|npcid:4400,x:46,y:76
+|npcid:4400,x:47,y:36
+|npcid:4400,x:47,y:73
+|npcid:4400,x:47,y:76
+|npcid:4400,x:48,y:36
+|npcid:4400,x:48,y:74
+|npcid:4400,x:49,y:38
+|npcid:4400,x:49,y:73
+|npcid:4400,x:49,y:74
+|npcid:4400,x:49,y:75
+|npcid:4400,x:50,y:37
+|npcid:4400,x:50,y:39
+|npcid:4400,x:50,y:41
+|npcid:4400,x:50,y:73
+|npcid:4400,x:51,y:22
+|npcid:4400,x:51,y:73
+|npcid:4400,x:53,y:39
+|npcid:4400,x:53,y:41
+|npcid:4400,x:53,y:42
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|name = Giant spider
+|loc = [[South Feldip Hills]]
+|mem = Yes
+|mapID = 28
+|plane = 0
+|lvls = 2
+|npcid:59,x:2447,y:2863
+|npcid:59,x:2471,y:2850
+|npcid:59,x:2480,y:2871
+|npcid:59,x:2483,y:2909
+|npcid:59,x:2483,y:2912
+|npcid:59,x:2484,y:2921
+|npcid:59,x:2487,y:2899
+|npcid:59,x:2488,y:2888
+|npcid:59,x:2490,y:2883
+|npcid:59,x:2490,y:2895
+|npcid:59,x:2491,y:2936
+|npcid:59,x:2492,y:2904
+|npcid:59,x:2492,y:2930
+|npcid:59,x:2494,y:2888
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|name = Giant spider
+|loc = [[South Feldip Hills]]
+|mem = Yes
+|mapID = 28
+|plane = 0
+|lvls = 33
+|npcid:60,x:2438,y:2847
+|npcid:60,x:2459,y:2864
+|npcid:60,x:2479,y:2866
+|npcid:60,x:2474,y:2891
+|npcid:60,x:2485,y:2905
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|name = Giant spider
+|loc = [[Feldip Hills]]
+|mem = Yes
+|mapID = 28
+|plane = 0
+|lvls = 33
+|npcid:60,x:2517,y:2976
+|npcid:60,x:2550,y:2981
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|name = Giant spider
+|loc = [[Clock Tower Dungeon]]
+|mem = Yes
+|mapID = 551
+|plane = 0
+|lvls = 2
+|npcid:59,x:2602,y:9640
+|npcid:59,x:2603,y:9635
+|npcid:59,x:2603,y:9638
+|npcid:59,x:2605,y:9637
+|npcid:59,x:2605,y:9639
+|npcid:59,x:2606,y:9635
+|npcid:59,x:2606,y:9646
+|npcid:59,x:2607,y:9637
+|npcid:59,x:2607,y:9641
+|npcid:59,x:2607,y:9644
+|npcid:59,x:2607,y:9648
+|npcid:59,x:2608,y:9635
+|npcid:59,x:2608,y:9642
+|npcid:59,x:2609,y:9639
+|npcid:59,x:2609,y:9643
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|name = Giant spider
+|loc = [[Temple of Ikov (dungeon)|Temple of Ikov]]
+|mem = Yes
+|mapID = 636
+|plane = 0
+|lvls = 2
+|npcid:59,x:2648,y:9761
+|npcid:59,x:2653,y:9764
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|name = Giant spider
+|loc = [[Ruins (west)|West Wilderness ruins]] (level 21 - 24 [[Wilderness]])
+|mem = No
+|mapID = 28
+|plane = 0
+|lvls = 2
+|npcid:59,x:2985,y:3677
+|npcid:59,x:2986,y:3686
+|npcid:59,x:2989,y:3684
+|npcid:59,x:2990,y:3688
+|npcid:59,x:2992,y:3689
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|name = Giant spider
+|loc = [[Draynor Manor]]
+|mem = No
+|mapID = 28
+|plane = 0
+|lvls = 2
+|npcid:59,x:3075,y:3366
+|npcid:59,x:3135,y:3340
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|name = Giant spider
+|loc = [[Edgeville Dungeon]]
+|mem = No
+|mapID = 592
+|plane = 0
+|lvls = 2
+|npcid:59,x:3096,y:9878
+|npcid:59,x:3097,y:9878
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|name = Giant spider
+|loc = [[Lumbridge Swamp]]
+|mem = No
+|mapID = 28
+|plane = 0
+|lvls = 4
+|npcid:20499,x:3200,y:3185
+|npcid:20499,x:3202,y:3192
+|npcid:20499,x:3205,y:3195
+|npcid:20499,x:3207,y:3191
+|npcid:20499,x:3215,y:3189
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|name = Giant spider
+|loc = [[Lumbridge]]
+|mem = No
+|mapID = 28
+|plane = 0
+|lvls = 4
+|npcid:20499,x:3246,y:3236
+|npcid:20499,x:3244,y:3240
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|name = Giant spider
+|loc = [[Lumbridge forest]]
+|mem = No
+|mapID = 28
+|plane = 0
+|lvls = 4
+|npcid:20499,x:3161,y:3248|npcid:20499,x:3164,y:3245|npcid:20499,x:3168,y:3253
+|npcid:20499,x:3170,y:3249|npcid:20499,x:3155,y:3225|npcid:20499,x:3164,y:3220
+|npcid:20499,x:3161,y:3213
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|name = Giant spider
+|loc = [[Varrock Sewers]]
+|mem = No
+|mapID = 592
+|plane = 0
+|lvls = 2, 33
+|npcid:12352,x:3218,y:9890
+|npcid:12352,x:3221,y:9889
+|npcid:60,x:3220,y:9891
+|npcid:60,x:3217,y:9889
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+The level 29 giant spiders in the Stronghold of Security do not drop anything when killed except (very rarely) an [[Spider egg (unchecked)|unchecked spider egg]] on members' worlds.
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Spider silk|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Longbow|quantity=1|rarity=2/128}}
+{{DropsLine|name=Bronze med helm|quantity=1|rarity=9/128}}
+{{DropsLine|name=Bronze kiteshield|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=2-7|rarity=3/128}}
+{{DropsLine|name=Mind rune|quantity=2-7|rarity=3/128}}
+{{DropsLine|name=Earth rune|quantity=4|rarity=3/128}}
+{{DropsLine|name=Fire rune|quantity=6|rarity=6/128}}
+{{DropsLine|name=Body rune|quantity=7|rarity=5/128}}
+{{DropsLine|name=Bronze arrow|quantity=2-12|rarity=7/128}}
+{{DropsLine|name=Bronze bolts|quantity=8|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1|rarity=2/128}}
+{{DropsLine|name=Coins|quantity=5|rarity=28/128}}
+{{DropsLine|name=Coins|quantity=5-10|rarity=11/128}}
+{{DropsLine|name=Coins|quantity=15|rarity=3/128}}
+{{DropsLine|name=Coins|quantity=20|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Cabbage|quantity=1|rarity=14/128}}
+{{DropsLine|name=Bread dough|quantity=1|rarity=10/128}}
+{{DropsLine|name=Earth talisman|quantity=1|rarity=9/128}}
+{{DropsLine|name=Brass necklace|quantity=1|rarity=1/128}}
+{{DropsLine|name=Vial|quantity=1|rarity=2/128}}
+{{DropsLine|name=Cooking apple|quantity=2|rarity=3/128}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{BeginnerWeaponsDropLines}}
+{{DropsLineSpiderEgg|120|members=yes|version=Level 2}}
+{{DropsLineSpiderEgg|304|members=yes|version=Level 29}}
+{{DropsLineSpiderEgg|368|members=yes|version=Level 33}}
+{{DropsLineEffigy|level=2|version=Level 2|members=Yes}}
+{{DropsLineEffigy|level=29|version=Level 29|members=Yes}}
+{{DropsLineEffigy|level=33|version=Level 33|members=Yes}}
+{{DropsLineMimic|level=2|version=Level 2|members=Yes}}
+{{DropsLineMimic|level=29|version=Level 29|members=Yes}}
+{{DropsLineMimic|level=33|version=Level 33|members=Yes}}
+{{DropsLineSpiritGems|members=Yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|members = yes
+|quantity = 1
+|gold = 85.996/1000
+|green = 2.687/1000
+|crimson = 5.375/1000
+|blue = 0.537/1000
+}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Giant spider (2006).png|name=Giant spider}}
+|{{GUL|date=[[12 May]] [[2014]]|update=Patch Notes (12 May 2014)|img=Giant spider (level 4).png|name=Giant spider}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Tiny plated bronze salvage → Bronze med helm
+*** Medium plated bronze salvage → Bronze kiteshield
+** Giant spiders in [[Lumbridge Swamp]] have been updated in combat prowess:
+*** Adjusted their combat level to 4 (from 2)
+*** Increased HP to 1000 (from 550)
+*** Reduced their max hit to 40 (from 60)
+*** Defence level reduced slightly
+
+* {{UL|type=patch|update=Housing of Parliament &amp; Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Patch Notes (18 March 2013)|date=18 March 2013}}
+** [[Grotworm]]s, [[moss giant]]s, [[banshee]]s, [[jungle spider]]s, [[shadow spider]]s, [[spider]]s, giant spiders, [[deadly red spider]]s, [[ice spider]]s, [[scorpion]]s, [[poison scorpion]]s and [[pit scorpion]] will no longer hit for 1 hit point worth of damage.
+
+* {{UL|type=patch|update=Patch Notes (24 November 2010)|date=24 November 2010}}
+** Giant spiders will no longer sink into the ground when dying.
+
+* {{UL|type=hidden|update=Patch Notes (12 October 2010)|date=12 October 2010}}
+** The examine text of giant spiders outside of the [[Stronghold of Security]] have has their examines changed to say "magically modified" instead of "genetically modified".
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+{{Spiders}}
+{{Lumbridge Swamp}}

@@ -1,0 +1,162 @@
+{{Infobox Monster
+|name = Lumpnose
+|image = [[File:Lumpnose.png|150px]]
+|release = [[17 October]] [[2012]]
+|update = What's Mine is Yours
+|members = Yes
+|options = Attack, Examine
+|examine = A goblin that can annoy at a distance. Just what was needed.
+|level = 7
+|lifepoints = 1800
+|experience = 90.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6.6
+|slayercat = Goblins
+|assigned_by = Turael
+|max_melee = 0
+|max_ranged = 150
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 6
+|attack = 1
+|ranged = 5
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 50
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Stab
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia
+|id = 15954
+}}
+'''Lumpnose''' is one of the [[goblin raider bosses]] that appears in [[Goblin Village]] after the player kills 15 [[goblins]]. He attacks with [[ranged]]. He shouts "Death from a distance!", "Arrow to da face!", and other phrases upon arrival. This goblin boss will always drop a piece of equipment and one other non-equippable item.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Goblin Village]]
+|lvls=7
+|mem=yes
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Boss tertiary===
+The boss will always drop one of these items, in addition to the main drop.
+{{DropsTableHead}}
+{{DropsLine|name=Studded leather coif|quantity=1|rarity=1/8}}
+{{DropsLine|name=Leather body|quantity=1|rarity=1/8}}
+{{DropsLine|name=Leather chaps|quantity=1|rarity=1/8}}
+{{DropsLine|name=Leather gloves|quantity=1|rarity=1/8}}
+{{DropsLine|name=Oak shortbow|quantity=1|rarity=1/8}}
+{{DropsLine|name=Oak longbow|quantity=1|rarity=1/8}}
+{{DropsLine|name=Steel arrow|quantity=15|rarity=1/8}}
+{{DropsLine|name=Steel arrow|quantity=10-19|rarity=1/8}}
+{{DropsTableBottom}}
+
+===Main drops===
+====Runes and ammunition====
+{{DropsTableHead}}
+{{DropsLine|name=Bronze arrow|quantity=30|rarity=3/128}}
+{{DropsLine|name=Earth rune|quantity=8|rarity=3/128}}
+{{DropsLine|name=Body rune|quantity=3|rarity=3/128}}
+{{DropsLine|name=Mind rune|quantity=3|rarity=3/128}}
+{{DropsLine|name=Nature rune|quantity=2|rarity=1/128}}
+{{DropsLine|name=Chaos rune|quantity=2|rarity=1/128}}
+{{DropsLine|name=Bronze javelin|quantity=5|rarity=2/128}}
+{{DropsTableBottom}}
+====Herbs====
+{{HerbDropTableIntro|2/128}}
+{{DropsTableHead}}
+{{HerbDropTable|2/128}}
+{{DropsTableBottom}}
+====Weapons and armours====
+{{DropsTableHead}}
+{{DropsLine|name=Bronze spear|quantity=1|rarity=9/128}}
+{{DropsLine|name=Bronze scimitar|quantity=1|rarity=1/256}}
+{{DropsLine|name=Bronze off hand scimitar|quantity=1|rarity=1/256}}
+{{DropsLine|name=Iron square shield|quantity=1|rarity=1/128}}
+{{DropsLine|name=Bronze full helm|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tin ore|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Coins====
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2|rarity=34/128}}
+{{DropsLine|name=Coins|quantity=5-20|rarity=14/128}}
+{{DropsLine|name=Coins|quantity=5|rarity=13/128}}
+{{DropsLine|name=Coins|quantity=7|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=24|rarity=7/128}}
+{{DropsLine|name=Coins|quantity=32|rarity=3/128}}
+{{DropsTableBottom}}
+====Other====
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}|gemw=no}}
+{{DropsLine|name=Nothing|quantity=1|rarity=1/128}}
+{{DropsLine|name=Goblin mail|quantity=1|rarity=10/128}}
+{{DropsLine|name=Bronze hatchet|quantity=1|rarity=3/128}}
+{{DropsLine|name=Goblin book|quantity=1|rarity=2/128}}
+{{DropsLine|name=Cape (red)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Grapes|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary drop===
+{{DropsTableHead}}
+{{DropsLine|name=Goblin cower shield|quantity=1|rarity=1/3|gemw=no|alch=no|image=Goblin cower shield (cosmetic).png|raritynotes={{DropNote|If a goblin cower shield is not already owned.}}}}
+{{DropsLine|name=Goblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Goblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLine|name=Goblin skull|quantity=1|rarity=Always|gemw=no|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest.}}}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Like a Boss}}
+* {{Achievement|Guardian of the Realm}} 
+** [[Goblin mail]] and [[goblin book]] drops
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Tin stone spirit → Tin ore
+*** Small spiky bronze salvage → Bronze spear
+*** Small bladed bronze salvage → Bronze scimitar/Bronze off hand scimitar
+*** Small plated bronze salvage → Bronze full helm
+*** Small plated iron salvage → Iron square shield
+
+* {{UL|type=update|update=What's Mine is Yours|date=17 October 2012}}
+** Added to game.
+}}
+
+{{Goblin Village}}
+{{Goblins}}
+[[Category:Goblin raider bosses]]
+[[Category:Bandosians]]

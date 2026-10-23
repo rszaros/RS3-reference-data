@@ -1,0 +1,176 @@
+{{External|os}}
+{{Infobox Monster
+|name = Brutal green dragon
+|image = [[File:Brutal green dragon.png|250px]]
+|release = [[3 July]] [[2007]]
+|update = Barbarian Training
+|members = Yes
+|options = Attack, Examine
+|size = 4
+|examine = It appears intelligent and savage.
+|level = 105
+|lifepoints = 15000
+|slaylvl = 1
+|slayxp = 440
+|experience = 750
+|aggressive = No
+|poisonous = No
+|slayercat = Dragons, green dragons
+|in_wilderness = no
+|max_melee = 1250
+|max_ranged = 0
+|max_magic = 1250
+|max_spec = 1500
+|style = Melee, Magic, Dragonfire
+|primarystyle = magic
+|speed = 4
+|attack = 75
+|ranged = 1
+|magic = 75
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 1694
+|acc_ranged = 0
+|acc_magic = 1694
+|armour = 1694
+|defence = 75
+|weakness = Arrows
+|susceptibility = dragon bane, dragon slayer
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Kandarin
+|id = 5362
+}}
+'''Brutal green dragons''' are found in the [[Ancient Cavern]]. To access the Ancient Cavern, the player needs to start the [[pyre ship]] section of [[Firemaking]] in [[Barbarian Training]]. Brutal green dragons are much stronger relative to the [[green dragon]]s residing in the [[Wilderness]], and use a melee and a magic attack that both hit into the 800s. Like almost everything else in the Ancient Cavern, these creatures are immune to poison. Brutal green dragons may be part of a [[Slayer]] assignment if the player has been assigned green dragons. Visually, the brutal green dragons look very similar to [[Elvarg]] as with the green dragons examine text ''Must be related to Elvarg''.
+
+Brutal green dragons do not drop [[chewed bones]], which are necessary for completing barbarian training or getting a [[dragon full helm]] gift from a barbarian spirit; they only drop their less-prized "[[Mangled bones|mangled]]" counterparts. Only [[mithril dragon]]s drop chewed bones.
+
+Being green dragons, they may be killed in place of normal [[green dragon]]s if players want slightly better drops.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ancient Cavern]]
+|lvls=105
+|mem=yes
+|requirements = Partial completion of {{AchievementIcon|Barbarian Firemaking}}
+|mapID=36
+|npcid:5362,x:28,y:150|npcid:5362,x:35,y:142|npcid:5362,x:37,y:148
+|npcid:5362,x:43,y:156|npcid:5362,x:45,y:174|npcid:5362,x:46,y:168
+|npcid:5362,x:50,y:148
+|leagueRegion=Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Dragon bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Green dragonhide|quantity=2|rarity=Always}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated rune salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Medium bladed adamant salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny spiky mithril salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny spiky adamant salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Large plated rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Rune throwing axe|quantity=8|rarity=1.5/128}}
+{{DropsLine|name=Off-hand rune throwing axe|quantity=8|rarity=1.5/128}}
+{{DropsLine|name=Adamant knife|quantity=8|rarity=1.5/128}}
+{{DropsLine|name=Off-hand adamant knife|quantity=8|rarity=1.5/128}}
+{{DropsLine|name=Adamant dart|quantity=25|rarity=2.5/128}}
+{{DropsLine|name=Off-hand adamant dart|quantity=25|rarity=2.5/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|15/128}}
+{{DropsTableHead}}
+{{HerbDropTable|15/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=200|rarity=35/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=500|rarity=16/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=242|rarity=11/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=621|rarity=10/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Adamant arrow|quantity=8|rarity=3/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=5|rarity=3/128}}
+{{DropsLine|name=Curry|quantity=1-2|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128|rdt=1/200|override=There is a 2/128 chance of rolling the [[gem drop table]], as a main drop. There is also a 1/200 chance of rolling the [[rare drop table]] (1/198 with tier 2 or higher [[luck]]), as a tertiary drop.}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Perfect green dragon scale|quantity=1|rarity=Once|raritynotes={{DropNote|Guaranteed drop until obtained while on a [[Slayer/Challenges|Slayer challenge]] from [[Vannaka]].}}|gemw=no|alch=no}}
+{{DropsLine|name=Green dragon tail-bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=no|alch=yes}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128}}
+{{DropsLineEffigy|level=105}}
+{{DropsLineMimic|level=105}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 2
+|gold = 142.5/1000
+|green = 356.25/1000
+|crimson = 142.5/1000
+|blue = 28.5/1000
+}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[3 July]] [[2007]]|update=Barbarian Training|img=Brutal green dragon (2007).png|name=Brutal green dragon}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Brutal green dragon (2008).png|name=Brutal green dragon}}
+|{{GUL|date=[[5 July]] [[2010]]|update=Love Story|img=Brutal green dragon.png|name=Brutal green dragon}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Rune Value Improvements|date=15 September 2014}}
+** Many monster types have had their rune drop rates reduced or removed, in order to increase the value of altar runecrafting.
+*** Brutal green dragons have had their rune drops removed. To compensate, more [[Coins|coin]] drops have been added and the [[rune full helm]] drop rate has been increased from 1/128 to 3/128.
+
+* {{UL|type=update|update=Love_Story|date=5 July 2010}}
+** Graphical overhaul to chromatics, including baby variants.
+
+* {{UL|type=update|update=Barbarian Training|date=3 July 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* Brutal green dragons were buffed with the patch notes of [[19 June]] [[2013]]. The buff gave them increased combat stats. This was because after the Evolution of Combat, green dragons were much more dangerous to kill due to the new mechanics of the Wilderness, and macroers were constantly killing brutal green dragons instead.
+
+{{Ancient cavern}}
+{{Dragon (race)}}

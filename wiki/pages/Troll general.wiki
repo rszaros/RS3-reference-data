@@ -1,0 +1,201 @@
+{{External|os}}
+{{Other uses|the trolls in the [[Troll Stronghold (area)|Troll Stronghold]]|the trolls in [[Troll Invasion]]|Troll general (Troll Invasion)}}
+{{Other uses|def=no|the troll in [[Troll Warzone]]|Morningstar}}
+{{Infobox Monster
+|version1 = Sword
+|version2 = Hammer
+|version3 = Club
+|name = Troll general
+|image1 = [[File:Troll general (sword).png|200px]]
+|image2 = [[File:Troll general (hammer).png|200px]]
+|image3 = [[File:Troll general (club).png|200px]]
+|release = [[24 August]] [[2004]]
+|update = Troll Stronghold Quest
+|members = Yes
+|options = Attack, Information
+|examine = One of the Troll Generals.
+|level = 91
+|lifepoints = 14,550
+|experience = 727.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 89.4
+|slayercat = Trolls
+|assigned_by = turael, chaeldar, sumona
+|max_melee = 1950
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 65
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1299
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1299
+|defence = 65
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 1115
+|id2 = 1116
+|id3 = 1117
+|leagueRegion = Asgarnia
+}}
+'''Troll generals''' are huge and powerful [[troll|giant trolls]] that live in [[Troll Stronghold (area)|Troll Stronghold]], on the top floor.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Troll Stronghold (area)|Troll Stronghold]]
+|lvls = 91
+|mem = Yes
+|mapID = 2
+|plane = 0
+|npcid:1116,x:198,y:25
+|npcid:1117,x:205,y:52
+|npcid:1115,x:207,y:38
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Strategy==
+[[File:Safespotting Troll General.png|thumb|left|250px|One of the safespots]]
+Troll generals have a reasonably high drop rate of [[nature rune]]s. This can be advantageous for players wishing to [[high alch]] the generals' salvage drops for profit. Herbs can be noted with the [[Tool leprechaun]] on top of the stronghold, provided that [[My Arm's Big Adventure]] has been completed. However, there are more profitable alternative methods of training. 
+
+As a [[slayer task]], Troll generals are a convenient, higher-level choice when assigned [[troll]]s. They have a reasonably high drop rate of nature runes and weapons and armour, including the occasional [[granite shield]], and are a very easy 89.4 [[Slayer]] experience for medium level players.
+
+It is possible to use magic attacks on the generals safely, as their large size allows them to be corner safe-spotted. Players with 50+ [[Magic]] and [[Defence]] should have no problem killing these quickly and safely, using only [[Regenerate]] or other healing abilities in place of food.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Prison key|quantity=1|rarity=Always|raritynotes={{DropNote|Prison keys are only dropped during the [[Troll Stronghold]] quest if the player doesn't have one already.}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=3/256}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=3/256}}
+{{DropsLine|name=Granite shield|quantity=1|rarity=1/128|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Granite shield: 1/128|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Nature rune|quantity=16|rarity=5/128}}
+{{DropsLine|name=Law rune|quantity=4|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|15/128}}
+{{DropsTableHead}}
+{{HerbDropTable|15/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Huge plated steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium blunt steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Small plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small bladed adamant salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Huge plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium blunt rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=20|rarity=4/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=40|rarity=29/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=135|rarity=26/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=190|rarity=18/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=420|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=6|rarity=3/128}}
+{{DropsLine|name=Raw tuna|quantity=4 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Troll bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsLineCourtSummons}}
+{{DropsLineEffigy|level=91}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=91}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 416.245/1000
+|green = 52.031/1000
+|crimson = 34.687/1000
+|blue = 10.406/1000
+}}
+
+==Achievements==
+* {{Achievement|Slayer of Chaos}}
+** [[Granite shield]] drop
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Troll general (sword) (2004).png|name=Troll general}}
+|{{GUL|date=|update=|img=Troll general old.png|name=Troll general}}
+|{{GUL|date=|update=|img=Troll general old2.png|name=Troll general}}
+|{{GUL|date=|update=|img=Troll general (sword).png|name=Troll general}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (15 December 2014)|date=15 December 2014}}
+** The troll general's combat level has been fixed.
+
+* {{UL|type=update|update=Troll Stronghold Quest|date=24 August 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* Until [[February]] [[2012]], there used to be two level 113 generals and one level 171 general with identical combat statistics aside from their level. The two level 113 generals later had their combat levels increased to 130. After the [[Evolution of Combat]], all three generals were given identical combat levels.
+
+==References==
+{{Reflist}}
+
+==See also==
+* [[Mountain Troll]]
+
+{{Troll Stronghold}}
+{{Trolls}}
+{{Generals}}
+[[Category:Unique monsters]]
+[[Category:Bandosians]]

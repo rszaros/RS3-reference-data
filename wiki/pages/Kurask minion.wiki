@@ -1,0 +1,95 @@
+{{Infobox Monster
+|name = Kurask minion
+|image = [[File:Kurask minion.png|200px]]
+|release = [[5 June]] [[2008]]
+|update = Smoking Kills
+|members = Yes
+|options = Attack, Examine
+|examine = Large, heavy, with sharp things attached to its head.
+|level = 73
+|lifepoints = 10500
+|experience = 525.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 70
+|slayxp = 95
+|slayercat = Kurask
+|assigned_by = chaeldar, sumona
+|max_melee = 1100.0
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 55
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 883
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Air
+|susceptibility = Leaf-bladed
+|derived_susceptibility = No
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 7805
+|leagueRegion = Desert
+}}
+
+'''Kurask minions''' are summoned by the [[kurask overlord]] when fighting him during the [[Desert Slayer Dungeon (miniquest)|Desert Slayer Dungeon miniquest]]. They can be dealt with in a similar way to the kurask overlord. They require 70 [[Slayer]] to kill.
+
+Like all kurasks, kurask minions are immune to all attacks not dealt via a [[leaf-bladed spear]], a [[leaf-bladed sword]], [[broad arrows]], [[broad-tipped bolts]], or the [[Slayer Dart]] spell. Players fighting the kurask overlord often choose to ignore the minions, as they disappear when the boss has been defeated.
+
+==Locations==
+* The [[Pollnivneach Slayer Dungeon]], during the [[kurask overlord]] fight only.
+{{LocTableHead}}
+{{LocLine
+|loc=[[Pollnivneach Slayer Dungeon]]
+|lvls=63
+|mem=yes
+|mapID=22
+|npcid:7805,x:101,y:95|npcid:7805,x:108,y:101|npcid:7805,x:111,y:96
+|leagueRegion = Desert
+}}
+{{LocTableBottom}}
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=March Patch Week - This Week In RuneScape|date=11 March 2024}}
+** Rebalanced the minibosses in the Desert Slayer Dungeon miniquest.
+*** They all have more HP, damage, and have been cleaned up in general.
+
+* {{UL|type=ninja|update=Patch Notes (26 August 2014)|date=26 August 2014}}
+** All Kurask models and animations have been updated.
+
+* {{UL|type=update|update=Smoking Kills|date=5 June 2008}}
+** Added to game.
+}}
+
+{{Desert Slayer Dungeon (miniquest)}}
+{{Slayer monsters}}

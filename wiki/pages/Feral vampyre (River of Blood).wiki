@@ -1,0 +1,78 @@
+{{Infobox Monster
+|version1 = Male
+|version2 = Female
+|name = Feral vampyre
+|image1 = [[File:Feral vampyre.png|150px]]
+|image2 = [[File:Feral vampyre (female).png|150px]]
+|release = [[25 April]] [[2016]]
+|update = New Quest - River of Blood - Vampyre Series Conclusion
+|members = Yes
+|examine1 = He looks really hungry.
+|examine2 = She looks really hungry.
+|level = 89
+|lifepoints = 6400
+|experience = 320.0
+|aggressive = No
+|poisonous1 = No
+|slaylvl = 1
+|slayxp = 60
+|slayercat = Vampyres
+|assigned_by = mazchna
+|max_melee = 256
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 64
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 640
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 640
+|defence = 64
+|weakness = Fire
+|susceptibility = Vampyre slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id1 = 22585
+|id2 = 22586
+}}
+'''Feral vampyres''' appear during [[River of Blood]] after four [[Vampyre Juvinate]]s attempt to cross the [[Super Guthix balance]] blessed [[River Salve|Salve]], devolving them into their [[Feral vampyre|feral state]] and losing their immunity to most types of weaponry. One will then wander off, and the other three will begin to attack each other. The remaining three must be defeated in order to continue with the quest.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Vampyre dust|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Part II: Journey into the East!|date=28 September 2026}}
+** Added susceptibility to the [[Vampyre Slayer (ability)|Vampyre Slayer]] ability.
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=New Quest - River of Blood - Vampyre Series Conclusion|date=25 April 2016}}
+** Added to game.
+}}
+
+{{River of Blood}}
+{{Vampyres}}
+[[Category:Quest monsters]]

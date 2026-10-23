@@ -1,0 +1,208 @@
+{{External|os}}
+{{Epilepsy Warning|The Killerwatt Plane}}
+{{Infobox Monster
+|name = Killerwatt
+|image = [[File:Killerwatt.png|170px]]
+|release = [[20 February]] [[2006]]
+|update = Updates, updates and more updates...
+|members = Yes
+|actions = Attack
+|examine = '''Idle:''' A ball of electrical energy.<br>
+'''In combat:''' An angry electrical shock!
+|level = 55
+|lifepoints = 3600
+|experience = 
+|aggressive = No
+|poisonous = No
+|slaylvl = 37
+|slayxp = 47.4
+|slayercat = Killerwatts
+|max_melee = 450
+|max_ranged = 510
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 3
+|attack = 30
+|ranged = 34
+|magic = 1
+|necromancy = 1
+|acc_melee = 354
+|acc_ranged = 419
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 710
+|defence = 44
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 3201, 3202
+|leagueRegion = Misthalin
+}}
+[[File:Killerwatt icon.png|left]]
+'''Killerwatts''' are [[Slayer]] monsters that require level 37 Slayer to kill. If you are not wearing [[insulated boots]] before you enter the portal, [[Professor Oddenstein]] will warn you of danger, as killerwatts can deal increased damage if the boots are not worn.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Killerwatt Plane]]
+|lvls=55
+|mem=yes
+|mapID=179
+|npcid:3202,x:2642,y:5202
+|npcid:3202,x:2642,y:5212
+|npcid:3202,x:2643,y:5224
+|npcid:3202,x:2644,y:5206
+|npcid:3202,x:2646,y:5226
+|npcid:3202,x:2647,y:5198
+|npcid:3202,x:2647,y:5219
+|npcid:3202,x:2650,y:5211
+|npcid:3202,x:2651,y:5204
+|npcid:3202,x:2652,y:5230
+|npcid:3202,x:2655,y:5225
+|npcid:3202,x:2656,y:5210
+|npcid:3202,x:2656,y:5218
+|npcid:3202,x:2657,y:5229
+|npcid:3202,x:2660,y:5199
+|npcid:3202,x:2663,y:5211
+|npcid:3202,x:2663,y:5223
+|npcid:3202,x:2664,y:5201
+|npcid:3202,x:2666,y:5197
+|npcid:3202,x:2666,y:5216
+|npcid:3202,x:2666,y:5222
+|npcid:3202,x:2669,y:5204
+|npcid:3202,x:2671,y:5226
+|npcid:3202,x:2672,y:5211
+|npcid:3202,x:2673,y:5201
+|npcid:3202,x:2675,y:5215
+|leagueRegion=Misthalin
+}}
+{{LocTableBottom}}
+
+===Getting there===
+[[File:Killerwatt portal.png|thumb|left|The portal]]Killerwatts can be found on the [[Killerwatt plane]], by stepping through the [[interdimensional rift]] on the top floor of [[Draynor Manor]]. This area has flashing lights, and Oddenstein will warn players about this in case they are prone to epileptic seizures. Draynor Manor can be reached easily by going north after teleporting to Draynor via the [[Draynor lodestone]].
+
+During the [[Enlightened Journey]] quest, it was revealed by the balloon travelling screen that killerwatts inhabit clouds. However, players cannot engage them in battle there.
+
+Players cannot use the [[dwarf multicannon]] in the Killerwatt plane.
+{{Clear|left}}
+
+==Strategy==
+Killerwatts use a rapid, accurate ranged attack (every other [[game tick]]) which can hit for up to 175 damage. Wearing [[insulated boots]] reduces this to a max hit of 88, and is therefore highly recommended. Their specific weakness is crush, so it is advised to bring a crush weapon like a [[warhammers|warhammer]] or [[maces|mace]]. Wear melee armour to defend against their ranged attack. Players using mithril or better armour and crushing weapons should have no problems defeating them. A full set of [[Void knight equipment]] is also a good option, with its accuracy and damage bonuses. Some food may be helpful, but occasional use of the [[Regenerate]] ability can fully heal the limited damage taken.
+
+Killerwatts are not aggressive, but will retaliate as soon as they are attacked, regardless of whether the player has landed a hit on them. Players may take advantage of this, as if the killerwatt lands the first strike, it will only use its melee attack, which is almost harmless. To make this happen, select a killerwatt at a distance. Once the killerwatt becomes aggressive, immediately click the ground near you to avoid moving towards it. The killerwatt will approach and attack with melee, allowing you to kill it while taking next to no damage. However, this strategy is slower and generally unnecessary for properly equipped players.
+
+Because killerwatts drop [[impious ashes]], players may want to bring [[Prayer urn]]s for [[Prayer]] experience or [[magic notepaper]] to collect the ashes to make [[incense sticks]] or to sell.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes|quantity=1|rarity=Always}}
+{{DropsLine|name=Killerwatt energy|quantity=10|gemw=no|alch=no|rarity=Always|raritynotes={{DropNote|Only during [[Back to the Freezer]].}}}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Mystic fire staff|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|Drop rate is increased to 1/496 with at least tier 1 [[luck]]}}}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Staff of fire|quantity=1|rarity=6/128}}
+{{DropsLine|name=Staff of air|quantity=1|rarity=6/128}}
+{{DropsLine|name=Air battlestaff|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=5|rarity=10/128}}
+{{DropsLine|name=Fire rune|quantity=5|rarity=10/128}}
+{{DropsLine|name=Cannonball|quantity=3|rarity=9/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|28/128}}
+{{DropsTableHead}}
+{{HerbDropTable|28/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=300|rarity=22/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=600|rarity=8/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Soda ash|quantity=2 (noted)|rarity=14/128}}
+{{DropsLine|name=Iron stone spirit|quantity=2|rarity=12/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=55}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=55}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 191.955/1000
+|green = 13.711/1000
+|crimson = 13.711/1000
+|blue = 2.742/1000
+}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[20 February]] [[2006]]|update=Updates, updates and more updates...|img=Killerwatt (Passive) (2006).png|name=Killerwatt}}
+|{{GUL|date=[[20 February]] [[2006]]|update=Updates, updates and more updates...|img=Killerwatt (2006).png|name=Killerwatt}}
+|{{GUL|date=[[21 July]] [[2009]]|update=The Curse of Arrav|img=Killerwatt.png|name=Killerwatt}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Patch Notes (17 June 2013)|date=17 June 2013}}
+** Killerwatts no longer turn invisible if they are close to a storm cloud.
+
+* {{UL|type=update|update=Updates, updates and more updates...|date=20 February 2006}}
+** Added to game.
+}}
+
+==Trivia==
+*The name is a play on "{{wp|Watt#Kilowatt|kilowatt}}", a unit of power, with the word "killer" included to imply their hostility, or that they may give a deadly amount of watts.
+*During the [[Enlightened Journey]] quest, it is revealed that Killerwatts live in the clouds over Gielinor.
+*In the [[Balloon transport system]], the images of Killerwatts are what they looked like before their graphical update.
+*There is only one known named Killerwatt [[Buzz]], featured in the quest [[Back to the Freezer]].
+*When hit by their ranged attacks while not wearing insulated boots, a "sparking skeleton" animation occurs on the player, similar to drinking [[overload]] potions.
+
+==References==
+{{reflist}}
+
+{{Slayer monsters}}
+[[Category:NPCs with multiple Examine options]]

@@ -1,0 +1,164 @@
+{{Infobox Monster
+|name = Elite Profane Scabarite
+|image = [[File:Elite Profane Scabarite.png|280px]]
+|release = [[13 January]] [[2025]]
+|update = Beneath Scabaras' Sands Quest Launch - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|examine = Bigger, angrier, buggier!
+|level = 143
+|lifepoints = 66500
+|experience = 
+|aggressive = Yes
+|poisonous =yes 
+|slaylvl = 87
+|slayxp = 1890
+|slayercat = Profane Scabarites, Scabarites
+|max_melee = 2100.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 105
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 3365
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 3100
+|defence = 100
+|weakness = Earth
+|susceptibility = Keris, Consecrated keris
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Desert
+|id = 31601
+}}
+[[File:Profane Scabarite icon.png|left]]
+'''Elite Profane Scabarites''' are a stronger version of [[Profane Scabarite]]s located in the [[Temple of Isolation]] after completing the [[Beneath Scabaras' Sands]] quest. They will summon a [[Spirit Scarab]] during combat if they are able to hit the player, as well as dealing heavy poison damage. The [[Venomblood]] perk, [[anti-poison totem]] or [[antipoison]]s are recommended.
+
+Compared to their non-elite counterparts, elite scabarites have slightly better drops, removing some of the less desirable drops such as jewellery and mithril salvage, while other shared drops are given in larger amounts.
+
+Killing 200 of them with a [[primed keris]] equipped is required to upgrade it to [[consecrated keris]], which earns the achievement [[Another One Scabarites The Dust]], a [[master quest cape]] requirement.
+
+==Locations==
+Found in the [[Temple of Isolation]] underneath the Kharidian desert. To reach the temple, simply travel by the [[old boat]] in the [[Scabarite Cavern]] after completion of [[Beneath Scabaras' Sands]] The boat is at the south side of the cave. The mobs in the cave are aggressive.
+{{LocTableHead}}
+{{LocLine
+|loc=[[Temple of Isolation]]
+|lvls=143
+|mem=yes
+|requirements={{QuestIcon|Beneath Scabaras' Sands}}
+|mapID=754
+|leagueRegion = Desert
+|3439,7590|3452,7596|3440,7573
+|3452,7564|3462,7574|3474,7571
+|3476,7584|3475,7595|3461,7591
+|3489,7585
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Carapace|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Unique===
+{{DropsTableHead}}
+{{DropsLine|name=Priest's Notes|quantity=1|rarity=1/100|altrarity=1/1|altraritydash=y|raritynotes={{DropNote|Only if the book is not already owned or if the achievement [[Bugs in the Walls]] hasn't been completed. For every kill after 100, the denominator decreases by 1 until the book is guaranteed at 199 kills. Having the [[Lorehound]] pet with the 'Lore Helper' perk out decreases the denominator by 20.}}|gemw=No}}
+{{DropsLine|name=Spectral lens|quantity=1|rarity=1/4096|altrarity=1/506|altraritydash=y|raritynotes={{DropNote|1/4,055 with tier 3 [[luck]] or higher. 1/512 when on a [[Profane Scabarites (Slayer assignment)|Profane Scabarites]] or [[Scabarites (Slayer assignment)|Scabarites Slayer assignment]] and 1/506 if also having tier 3 luck or higher.}}|citations={{CiteVideo|url=https://www.twitch.tv/videos/2295165805?t=0h25m17s|title=Runeskill & Slay: New Slayer Update ft. Mods Yuey and Sponge {{!}} Livestream VOD|author=Mod Sponge|date=6 November 2024|timestamp=25:17|accessdate=6 November 2024|site=Twitch|archiveurl=https://clips.twitch.tv/PerfectPlausibleSmoothieM4xHeh-NXanfuqIYqVuDy_o|archivedate=6 November 2024}}}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Fellstalk seed|quantity=3|rarity=52/1024}}
+{{DropsLine|name=Ciku seed|quantity=1|rarity=12/1024}}
+{{DropsTableBottom}}
+
+===Multipliers===
+{{DropsTableHead}}
+{{DropsLine|name=Primal stone spirit|quantity=6|rarity=40/1024}}
+{{DropsLine|name=Mahogany wood spirit|quantity=8|rarity=70/1024}}
+{{DropsLine|name=Yew wood spirit|quantity=5|rarity=80/1024}}
+{{DropsLine|name=Elder wood spirit|quantity=3|rarity=30/1024}}
+{{DropsLine|name=Catalytic anima stone|quantity=25|rarity=50/1024}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium blunt rune salvage|quantity=5 (noted)|rarity=60/1024}}
+{{DropsLine|name=Tiny plated orikalkum salvage|quantity=3 (noted)|rarity=50/1024}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Pure essence|quantity=300 (noted)|rarity=100/1024}}
+{{DropsLine|name=Congealed blood|quantity=30|rarity=90/1024}}
+{{DropsLine|name=Mud rune|quantity=40|rarity=80/1024}}
+{{DropsLine|name=Uncut dragonstone|quantity=12 (noted)|rarity=80/1024}}
+{{DropsLine|name=Potato cactus|quantity=20 (noted)|rarity=70/1024}}
+{{DropsLine|name=Cadava berries|quantity=10 (noted)|rarity=70/1024}}
+{{DropsLine|name=Onyx bolt tips|quantity=20|rarity=64/1024}}
+{{DropsLine|name=Onyx dust|quantity=10|rarity=26/1024}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/150}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=99/12800|raritynotes={{DropNote|name=elite|There's a 1% chance an elite clue will be upgraded to a [[sealed clue scroll (master)]].}}}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=1/12800|raritynotes={{DropNote|name=elite}}}}
+{{DropsLineEffigy|level=143}}
+{{DropsLineMimic|level=143}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 2
+|gold = 5/100
+|green = 20/100
+|crimson = 0
+|blue = 10/100
+}}
+
+==Products==
+{{Uses facility list}}
+
+==Money making guide==
+{{Mmgsection|Killing elite profane scabarites (AFK)}}
+
+==Achievements==
+* {{Achievement|Bugs in the Walls}}
+* {{Achievement|Another One Scabarites The Dust}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update = Beneath Scabaras' Sands Quest Launch - This Week In RuneScape|date=13 January 2025}}
+** Added to game.
+}}
+
+{{Temple of Isolation}}
+{{Slayer monsters}}

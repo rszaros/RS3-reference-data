@@ -1,0 +1,121 @@
+{{Infobox Monster
+|version1 = Normal mode
+|version2 = Story mode
+|name = Sea crocodile
+|image = [[File:Sea crocodile.png|200px]]
+|release = [[25 June]] [[2018]]
+|update = Temple of Aminishi - Elite Dungeon
+|level = 77
+|options = Attack, Mark, Examine
+|experience1 = 634.5
+|lifepoints1 = 15500
+|lifepoints2 = 7750
+|slaylvl = 1
+|slayxp1 = 
+|slayercat = Crocodiles
+|assigned_by = Sumona
+|members = Yes
+|aggressive = Yes
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style = melee
+|primarystyle = melee
+|speed1 = 4
+|max_melee1 = 936
+|max_ranged1 = 0
+|max_magic1 = 0
+|max_necromancy = 0
+|max_spec = N/A
+|weakness = Air
+|examine = Of course there are crocodiles here too.
+|attack1 = 75
+|ranged1 = 0
+|magic1 = 0
+|necromancy = 1
+|defence1 = 75
+|armour1 = 1694
+|acc_melee1 = 1694
+|acc_ranged1 = 0
+|acc_magic1 = 0
+|acc_necromancy = 0
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|abilities = N/A
+|dropversion1 = Normal mode
+|dropversion2 = Story mode
+|leagueRegion = Asgarnia
+|id1 = 25606
+|id2 = 25606
+}}
+'''Sea crocodile''' are an enemy encountered on the third floor of the [[Temple of Aminishi]]. They are found along with [[Waterfiend (Temple of Aminishi)|waterfiend]]s in a big circle.
+
+In Story mode their health is reduced by 50% and their damage output is reduced by 90%.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+In story mode, only bones are dropped.
+
+{{Average drop value|mob=Sea crocodile#Normal mode}}
+
+===100%===
+{{DropsTableHead|version=Story mode,Normal mode}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Alchables===
+{{Temple of Aminishi alchables drop table|150/1000|version=Normal mode}}
+
+===Currency===
+{{Temple of Aminishi currency drop table|200/1000|version=Normal mode}}
+
+===Supplies===
+{{Temple of Aminishi supplies drop table|140/1000|version=Normal mode}}
+
+===Lucky charm===
+{{Lucky charm (Temple of Aminishi) drops|5/1000|version=Normal mode}}
+
+===Other===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLine|name=Nothing|rarity=495/1000|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=8/1000|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=2/1000|gemw=No}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/150|version=Normal mode}}
+
+===Tertiary===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=77}}
+{{DropsLineMimic|level=77}}
+{{DropsTableBottom}}
+
+====Charms====
+{{EliteDungeonCharmDropTable|version=Normal mode}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Weekly Update: 15th October 2018|date=15 October 2018}}
+** Damage taken in Elite Dungeons story mode reduced from 33% of normal mode to 10%.
+
+* {{UL|type=update|update=Temple of Aminishi - Elite Dungeon|date=25 June 2018}}
+** Added to game.
+}}
+
+==References==
+{{reflist}}
+
+{{Temple of Aminishi}}

@@ -1,0 +1,308 @@
+{{External|os=Zygomite}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Level 58
+|version2 = Level 65
+|name = Mutated zygomite
+|image = [[File:Mutated zygomite.png]]
+|release = [[7 March]] [[2006]]
+|update = Canoeing, Zygomites and a Mole!
+|members = Yes
+|options = Attack, Spray fungicide, Examine
+|examine1 = A bouncy fungus.
+|examine2 = A fun guy. No wait, that's awful..
+|leagueRegion = Misthalin
+|level1 = 58
+|level2 = 65
+|lifepoints1 = 3600
+|lifepoints2 = 4200
+|aggressive = No
+|poisonous = No
+|slaylvl = 57
+|slayxp1 = 31
+|slayxp2 = 42
+|slayercat = Mutated zygomites
+|max_melee1 = 780
+|max_melee2 = 840
+|max_ranged1 = 840
+|max_ranged2 = 940
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Ranged
+|primarystyle = Ranged
+|speed = 4
+|attack1 = 39
+|attack2 = 42
+|ranged1 = 42
+|ranged2 = 47
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 509
+|acc_melee2 = 568
+|acc_ranged1 = 568
+|acc_ranged2 = 678
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour1 = 710
+|armour2 = 850
+|defence1 = 42
+|defence2 = 47
+|weakness = Slashing
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|dropversion1 = Level 58
+|dropversion2 = Level 65
+|id1 = 3346
+|id2 = 3347
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = Level 58
+|version2 = Level 65
+|name = Fungi
+|image = [[File:Fungi.png]]
+|release = [[7 March]] [[2006]]
+|update = Canoeing, Zygomites and a Mole!
+|level1 = 58
+|level2 = 65
+|members = Yes
+|race = Zygomite
+|quest = No
+|location = [[Zanaris]]
+|gender = No
+|options = Pick, Examine
+|examine = A fun guy. No wait, that's awful. Plus it doesn't even make sense.
+|map = No
+|leagueRegion = Misthalin
+|id1 = 3344
+|id2 = 3345
+}}
+}}
+[[File:Mutated zygomite icon.png|left]]
+The '''mutated zygomites''' ({{IPAc-en|ˈ|z|aɪ|g|ə|m|aɪ|t|audio=en-uk-Zygomite.ogg}} {{Respell-en|ZY|ghə|myte}}){{CiteVideo|url=pA16Lr-Q3b0|title=RuneScape Patch Notes #281 - 12th August 2019 (Zygomite Achievement, Enhancers Interface and More!)|author=Jagex|date=12 August 2019|accessdate=13 August 2020|work=YouTube|quote=The 'Leave no zygomite buried' achievement...}} are [[monster]]s that appear as '''fungi''' until provoked (by the "pick" option) that require level 57 [[Slayer]] to damage. They resemble giant mushrooms and are only found in [[Zanaris]], near the [[cosmic altar]] (level 65) or near the furnace (level 58).
+
+Zygomites can be occasionally assigned as an optional [[Slayer Challenges|Slayer Challenge]] by [[Chaeldar]]. If a player accept the challenge, she will say that an experimental spray must be used on them for tests and the results must be brought back to her when the slayer task is finished. Completing the Slayer Challenge will reward 10,000 Slayer experience and 25 [[Slayer points]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Fungi
+|loc = [[Zanaris]] (north)
+|mem = Yes
+|requirements = {{QuestIcon|Lost City}}
+|mapID = 1
+|plane = 0
+|lvls = 58
+|npcid:3344,x:2412,y:4470
+|npcid:3344,x:2414,y:4467
+|npcid:3344,x:2415,y:4475
+|npcid:3344,x:2419,y:4467
+|npcid:3344,x:2419,y:4474
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|name = Fungi
+|loc = [[Zanaris]] (south)
+|mem = Yes
+|requirements = {{QuestIcon|Lost City}}
+|mapID = 1
+|plane = 0
+|lvls = 65
+|npcid:3345,x:2412,y:4370
+|npcid:3345,x:2416,y:4376
+|npcid:3345,x:2419,y:4374
+|npcid:3345,x:2420,y:4377
+|npcid:3345,x:2421,y:4370
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Strategy==
+[[File:Fungi.png|left|100px|A Fungi]]
+Zygomites have a very weak and inaccurate melee attack (headbutt) that only deals one damage but also a normal ranged attack (shooting a cloud of spores) that hit up to 168 damage. They are weak to slash; even when planning to use ranged or magic, it is a good idea to stay in melee range so it will use its weak melee attack as well.
+
+To kill one, a player needs to reduce it to below about 350 [[life points]] and then use [[fungicide spray]] on it to kill it; they are available from any [[Slayer Equipment]] shop. The spray must be reloaded with [[fungicide]] every ten kills, which can be bought from Chaeldar at the same time. Fungicide canisters fully reload the fungicide spray. Players cannot sell the spray or reloads back to the slayer master afterwards, so only buy what is needed. Alternatively, buy the [[fungicide shaker]] for 60,000 coins which acts as an infinite spray that can be put on the [[tool belt]].
+
+==Slayer Challenge==
+[[Chaeldar]] will occasionally offer a special task in place of a regular slayer task. The player can decline to take the special task without penalty. If the player accepts the special task, completing the task:
+* Rewards 10,000 extra slayer experience.
+* Rewards 25 Slayer points.
+* Will count towards the player's consecutive task count, which is used for Slayer points. Does not count as task completed if it is a 10th or 50th task to be completed, meaning the player can safely complete the challenge without forfeiting their consecutive task bonus.
+
+Chaeldar's special task is for the player to test an [[Experimental spray|experimental fungicide spray]] against ten mutated zygomites and survive to return to her and tell her the results of the test. The player uses the spray in place of the normal [[fungicide spray]] when the zygomite the player is attacking has been reduced to 20 life points or less. When applied, the experimental spray will have one of the following effects, chosen randomly:
+* {{RSFont|The experimental spray has sent the zygomite into a furious rage!}} The zygomite temporarily turns red, heals a bit, and attacks faster. It can be killed by reducing its life points to zero without needing another application of the spray.
+* {{RSFont|The experimental spray has healed the zygomite!}} The zygomite temporarily turns green and its life points are restored to maximum. It can be killed by reducing its life points to zero without needing another application of the spray.
+* {{RSFont|The experimental spray has killed the zygomite!}} The zygomite is killed.
+
+Players must return to Chaeldar and speak to her to complete the challenge; simply killing ten zygomites with the experimental spray does not finish the task. The spray cannot be used to kill more than the required ten zygomites.
+
+==Drops (Level 58)==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Mutated zygomite#Level 58}}
+
+===100%===
+{{DropsTableHead|version=Level 58}}
+{{DropsLine|name=Ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead|version=Level 58}}
+{{DropsLine|name=Earth rune|quantity=15|rarity=5/128}}
+{{DropsLine|name=Nature rune|quantity=2|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|10/128}}
+{{DropsTableHead|version=Level 58}}
+{{HerbDropTable|10/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{GeneralSeedDropTableIntro|20/128}}
+{{RareSeedDropTableIntro|2/128}} ''There is an additional 10/128 chance of rolling strawberry seeds, a 6/128 chance of rolling bittercap mushroom spores and a 2/128 chance of rolling morchella mushroom spores.''
+{{DropsTableHead|version=Level 58}}
+{{DropsLine|name=Strawberry seed|quantity=4|rarity=10/128}}
+{{DropsLine|name=Bittercap mushroom spore|quantity=1|rarity=6/128}}
+{{DropsLine|name=Morchella mushroom spore|quantity=2|rarity=2/128}}
+{{GeneralSeedDropTable|20/128|level=58}}
+{{RareSeedDropTable|2/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=Level 58}}
+{{DropsLine|name=Tiny bladed steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Medium bladed steel salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Tiny plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Level 58}}
+{{DropsLine|name=Coins|quantity=50-400|rarity=38/128}}
+{{DropsLine|name=Fungicide|quantity=1|rarity=6/128|gemw=No}}
+{{DropsLine|name=Supercompost|quantity=1-3 (noted)|rarity=6/128}}
+{{DropsLine|name=Mort myre fungus|quantity=1-3|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|4/128|version=Level 58}}
+
+==Drops (Level 65)==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Mutated zygomite#Level 65}}
+
+===100%===
+{{DropsTableHead|version=Level 65}}
+{{DropsLine|name=Ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead|version=Level 65}}
+{{DropsLine|name=Earth rune|quantity=15|rarity=5/128}}
+{{DropsLine|name=Nature rune|quantity=2|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|10/128}}
+{{DropsTableHead|version=Level 65}}
+{{HerbDropTable|10/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{GeneralSeedDropTableIntro|20/128}}
+{{RareSeedDropTableIntro|2/128}} ''There is an additional 10/128 chance of rolling strawberry seeds, a 6/128 chance of rolling bittercap mushroom spores and a 2/128 chance of rolling morchella mushroom spores.''
+{{DropsTableHead|version=Level 65}}
+{{DropsLine|name=Strawberry seed|quantity=4|rarity=10/128}}
+{{DropsLine|name=Bittercap mushroom spore|quantity=1|rarity=6/128}}
+{{DropsLine|name=Morchella mushroom spore|quantity=3|rarity=2/128}}
+{{GeneralSeedDropTable|20/128|level=58}}
+{{RareSeedDropTable|2/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=Level 65}}
+{{DropsLine|name=Tiny bladed steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Medium bladed steel salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Tiny plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium plated rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Level 65}}
+{{DropsLine|name=Coins|quantity=50-400|rarity=38/128}}
+{{DropsLine|name=Fungicide|quantity=1|rarity=6/128|gemw=No}}
+{{DropsLine|name=Supercompost|quantity=1-3 (noted)|rarity=6/128}}
+{{DropsLine|name=Mort myre fungus|quantity=1-3|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|4/128|version=Level 65}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Mutated zygomite.png|A mutated zygomite
+Enraged mutated zygomite.png|A zygomite that has become enraged
+Healed mutated zygomite.png|A zygomite that has healed
+Fungi.png|A mutated zygomite in its fungi form
+Enraged fungi.png|An enraged zygomite in its fungi form
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[7 March]] [[2006]]|update=Canoeing, Zygomites and a Mole!|img=Mutated zygomite (2006).png|name=Mutated Zygomite}}
+|{{GUL|date=[[13 May]] [[2010]]|update=A Fairy Tale Part III – Battle at Orks Rift|img=Mutated zygomite.png|name=Mutated Zygomite}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Player Interface Sharing - This Week In RuneScape|date=3 February 2025}}
+** Updated mutated Zygomites to allow [[aggression potion]]s to work as expected.
+** Fixed an additional bug with mutated Zygomites' melee attack that caused it to always deal 1 damage.
+** Updated mutated zygomite stats in line with their combat level, giving them slightly more damage and increased health so players in level appropriate gear are less likely to one-shot them.
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes zygomites.
+
+* {{UL|type=patch|update=Patch Notes (6 July 2015)|date=6 July 2015}}
+** Mutated zygomites can no longer be killed when a player has an empty [[fungicide spray]] can.
+
+* {{UL|type=patch|update=Patch Notes (21 February 2011)|date=21 February 2011}}
+** Zygomites are now called mutated zygomites in game again.
+
+* {{UL|type=update|update=Canoeing, Zygomites and a Mole!|date=7 March 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* The name Zygomite is probably based on the phylum of fungi, {{WP|Zygomycota}}, though these fungi do not produce mushrooms.
+* If players try to attack something else while still in combat, instead of the usual {{RSFont|I'm already under attack}} message, the message box will display {{RSFont|There's a rather large mushroom monster trying to attack you at the moment. Maybe you should deal with it first.}}
+* If a frog or other Zanaris event happens during battle, the Zygomite will keep attacking with a "thump" sound (melee attack) without any hitsplats but will still be doing damage while remaining immune to attack until the event leaves. This may be a glitch.
+* If another player picks one of the fungi and runs away and another player is still there, the Zygomite will eventually turn around and start attacking the other player, shouting "I'm coming for you!"
+* If a player is fighting a Zygomite and runs away while there are no other players around it, it will return to its original fungus form but will still move around so it looks like a little moving mushroom. This is a glitch and has not been fixed yet.
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{Zanaris}}

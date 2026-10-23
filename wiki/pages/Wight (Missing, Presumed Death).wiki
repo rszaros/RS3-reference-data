@@ -1,0 +1,102 @@
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|name = Wight
+|image = [[File:Wight.png|200px]]
+|release = [[15 October]] [[2013]]
+|update = Missing, Presumed Death
+|members = No
+|actions = Attack, Examine
+|race = Ghost
+|examine = Armed, and nowhere near as dead as it should be.
+|level = 7
+|lifepoints = 350
+|experience = 17.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ghosts, Undead
+|max_melee = 25
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 5
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 150
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Air
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 18467
+|leagueRegion = Misthalin
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = Interactive
+|version2 = Non-interactive
+|name = Wight
+|image = File:Wight.png
+|release = [[23 February]] [[2015]]
+|update = Dishonour among Thieves
+|members = Yes
+|race = Ghost
+|level1 = 42
+|level2 = 0
+|quest = [[Dishonour among Thieves]]
+|location = [[Sliske's lair]]
+|map = no
+|gender = Male
+|actions1 = Assassinate, Examine
+|actions2 = Examine
+|examine =
+|id1 = 20713, 20714, 20715, 20716, 20717, 20718, 20719, 20720, 20721, 20722
+|id2 = 20712
+}}
+}}
+'''Wights''' are undead enemies summoned by [[Sliske]] encountered during the [[Missing, Presumed Death]] and [[Dishonour among Thieves]] quest.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Missing, Presumed Death|date=15 October 2013}}
+** Added to game.
+}}
+
+{{Missing, Presumed Death}}
+{{Dishonour among Thieves}}
+{{Wights}}
+[[Category:Quest monsters]]

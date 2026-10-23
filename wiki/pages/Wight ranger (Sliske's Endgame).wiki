@@ -1,0 +1,86 @@
+{{Infobox Monster
+|version1 = 78
+|version2 = 78 (Weak in slash)
+|version3 = 85
+|name = Wight ranger
+|image = [[File:Wight ranger.png|175px]]
+|release = [[19 December]] [[2016]]
+|update = Sliske's Endgame - Frostworld Part 2
+|members = Yes
+|actions = Attack, Examine
+|race = Ghost
+|examine = One of Sliske's wights.
+|level1 = 78
+|level2 = 78
+|level3 = 85
+|lifepoints = 4125
+|experience = 
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Ghosts, Undead
+|max_melee = 0.0
+|max_ranged1 = 192.0
+|max_ranged2 = 1676.3
+|max_ranged3 = 384.0
+|max_magic = 0.0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 4
+|speed2 = 6
+|attack = 
+|ranged = 
+|magic = 
+|acc_melee = 0
+|acc_ranged1 = 1132
+|acc_ranged2 = 1694
+|acc_ranged3 = 536
+|acc_magic = 0
+|abilities = 
+|armour1 = 1486
+|armour2 = 628
+|armour3 = 454
+|defence = 
+|weakness1 = Nothing
+|weakness2 = Slash
+|weakness3 = Air
+|susceptibility1 = Undead
+|susceptibility2 = Undead
+|susceptibility3 = Nothing
+|aff_weakness = 90
+|aff_melee1 = 60
+|aff_melee2 = 70
+|aff_melee3 = 70
+|aff_ranged = 60
+|aff_magic1 = 60
+|aff_magic2 = 50
+|aff_magic3 = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id1 = 23832
+|id2 = 23903
+|id3 = 23833
+|leagueRegion=Misthalin&Desert}}
+'''Wight rangers''' are undead enemies summoned by [[Sliske]] encountered during [[Sliske's Endgame]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Sliske's Endgame - Frostworld Part 2|date=19 December 2016}}
+** Added to game.
+}}
+
+{{Sliske's Endgame}}
+{{Wights}}
+[[Category:Sliskeans]]
+[[Category:Quest monsters]]

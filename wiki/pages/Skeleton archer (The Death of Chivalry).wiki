@@ -1,0 +1,72 @@
+{{Confuse|Skeleton Archer|Skeletal archer|Skeleton ranger}}
+{{Infobox Monster
+|name = Skeleton archer
+|image = [[File:Skeleton archer.png|150px]]
+|release = [[13 August]] [[2013]]
+|update = The Death of Chivalry
+|members = No
+|options = Attack
+|examine = The animated bones of a long-dead Saradominist, controlled by the Wand of Resurrection.
+|level = 56
+|lifepoints = 1000
+|experience = 50.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 173.4
+|slayercat = Skeletons
+|assigned_by = Mazchna, Turael, Vannaka
+|max_melee = 0
+|max_ranged = 250
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 5
+|attack = 1
+|ranged = 40
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 628
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|leagueRegion = Asgarnia
+|id = 17247
+}}
+'''Skeleton archers''' are summoned during the fight with [[Dawn]] during [[The Death of Chivalry]]. As Dawn summons more skeleton archers, their base life points decrease.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (9 September 2019)|date=9 September 2019}}
+** Boss fight skeleton minions in the Death of Chivalry quest now scale to half their previous level, to make them easier to defeat by high-levelled players with inferior equipment.
+
+* {{UL|type=patch|update=Patch Notes (29 August 2013)|date=29 August 2013}}
+** The lifepoints of the skeleton warriors in The Death of Chivalry now scale with the player's level.
+
+* {{UL|type=update|update=The Death of Chivalry|date=13 August 2013}}
+** Added to game.
+}}
+
+{{The Death of Chivalry}}
+{{Skeleton}}
+[[Category:Quest monsters]]

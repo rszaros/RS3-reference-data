@@ -1,0 +1,67 @@
+{{Infobox Monster
+|name = Zamorakian werewolf
+|image = [[File:Zamorakian werewolf.png|200px]]
+|release = [[3 January]] [[2013]]
+|update = God Statues: Construction D&D
+|members = Yes
+|examine = Down, fang!
+|level = 68
+|lifepoints = 2450
+|experience = 122.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 50
+|slayxp = Varies
+|slayercat = Werewolves
+|assigned_by = None
+|max_melee = 196
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|speed = 4
+|attack = 49
+|ranged = 1
+|magic = 1
+|acc_melee = 490
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 490
+|defence = 49
+|weakness = Thrown
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id = 16691
+|leagueRegion=Morytania}}
+[[File:Zamorakian werewolf chathead.png|left]]
+A '''Zamorakian werewolf''' is a possible foe in the [[God Statues]] [[Distraction and Diversion]] if any statue different than [[K'ril Tsutsaroth]] is built at the [[Canifis]] statue spot. Even though he scales according to a players combat level he is quite easy to defeat if you bring a decent weapon. The fight is instanced. Food is not necessary if you can kill him quickly.
+
+{{clear|left}}
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=This Week In RuneScape - 28/09/20#Patch Notes|date=28 September 2020}}
+** [[God Statue Fanatics]] can now be defeated by reflecting damage using [[Ring of Recoil]].
+
+* {{UL|type=update|update=God Statues: Construction D&D|date=3 January 2013}}
+** Added to game.
+}}
+
+==Trivia==
+* He is visually identical to the [[werewolf]] from the God Wars Dungeon, and shares the same examine text.
+* The examine text "Down, fang!" may be a reference to Harry Potter, where Rubeus Hagrid says this to his dog, Fang.
+
+{{God statues}}
+{{Werewolves}}
+[[Category:Zamorakians]]

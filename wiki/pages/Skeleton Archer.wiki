@@ -1,0 +1,72 @@
+{{Otheruses|def=no|the monster encountered during [[The Death of Chivalry]]|Skeleton archer (The Death of Chivalry)}}
+{{Infobox Monster
+|version1 = Normal mode
+|version2 = Story mode
+|name = Skeleton Archer
+|image = [[File:Skeleton Archer.png|175px]]
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|members = Yes
+|options = Attack, Mark
+|examine = Could do with gaining a few pounds.
+|level = 100
+|lifepoints = 10000
+|lifepoints2 = 5000
+|experience2 = 25
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 0
+|slayxp = 
+|slayercat = Skeletons
+|assigned_by = 
+|max_melee = 321.6
+|max_ranged = 369.6
+|max_magic = 321.6
+|max_necromancy = 0
+|max_spec = 
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 67
+|ranged = 77
+|magic = 67
+|necromancy = 1
+|acc_melee = 1372
+|acc_ranged = 1783
+|acc_magic = 1372
+|acc_necromancy = 0
+|abilities = 
+|armour = 1372
+|defence = 67
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_stun = 
+|immune_to_deflect = No
+|immune_to_drain = 
+|leagueRegion = Wilderness
+|id = 26189,26190,26191,26192
+}}
+'''Skeleton Archers''' are monsters that appear in the third section of the [[The Shadow Reef]] on the bridge section. They cannot be reached, but can be harmed with reflect damage, such as [[Reflect]] and [[Deflect Missiles]]; if the player is wearing [[cinderbane gloves]] or has used any type of [[weapon poison]], they can also be poisoned through reflect damage.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Summer Double XP - This Week In RuneScape|date=29 July 2024}}
+** Fixed an issue that caused skeleton archer NPCs inside the Shadow Reef to not attack the player while standing on the bridge.
+
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+{{The Shadow Reef}}
+{{Skeletons}}
+[[Category:NPCs that can move at running speed]]

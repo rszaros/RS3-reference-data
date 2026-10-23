@@ -1,0 +1,66 @@
+{{Infobox Monster
+|name = Small scarab
+|image = [[File:Small scarab (Do No Evil).png]]
+|release = [[1 December]] [[2010]]
+|update = Do No Evil
+|members = Yes
+|options = Attack, Examine
+|race =
+|examine = This dung beetle has been disturbed.
+|level = 50
+|lifepoints = 1800
+|experience = 90
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Scabarites
+|max_melee = 108
+|max_ranged = 144
+|max_magic = 0
+|max_necromancy = 0
+|max_spec =
+|style = Ranged
+|primarystyle = Ranged
+|speed = 4
+|attack = 27
+|ranged = 36
+|magic = 1
+|necromancy = 1
+|acc_melee = 409
+|acc_ranged = 553
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 553
+|defence = 36
+|weakness = Crushing
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 13231
+}}
+'''Small scarabs''' may appear when digging each crate during the quest [[Do No Evil]]. They count towards fulfilling a [[Scabarites (Slayer assignment)|scabarites Slayer assignment]] as well as "scabarites" for [[City Quest]], but it is not susceptible to [[Keris]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Do No Evil|date=1 December 2010}}
+** Added to game.
+}}
+
+{{stub}}
+
+[[Category:Bugs]]

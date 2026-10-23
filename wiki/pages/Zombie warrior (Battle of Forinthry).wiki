@@ -1,0 +1,107 @@
+{{incomplete|stats and images missing}}
+{{Infobox Monster
+|version1 = Story mode 1
+|version2 = Story mode 2
+|version3 = Normal mode 1 (siege)
+|version4 = Normal mode 2 (siege)
+|version5 = Normal mode 1 (boss)
+|version6 = Normal mode 2 (boss)
+|version7 = Hard mode 1
+|version8 = Hard mode 2
+|name = Zombie warrior
+|image = Zombie warrior (Battle of Forinthry).png
+|release = [[20 November]] [[2023]]
+|update = Vorkath, Battle for Forinthry - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|race = Zombie
+|examine = The walking dead.
+|level = 76
+|level5 = 97
+|level6 = 97
+|level7 = 97
+|level8 = 97
+|lifepoints1 = 7650
+|lifepoints2 = 7650
+|lifepoints3 = 15300
+|lifepoints4 = 15300
+|lifepoints5 = 18000
+|lifepoints6 = 18000
+|lifepoints7 = 36000
+|lifepoints8 = 36000
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp =
+|slayercat = Zombies, Undead
+|max_melee1 = 300
+|max_melee2 = 300
+|max_melee3 = 1005
+|max_melee4 = 1005
+|max_melee5 = 1875
+|max_melee6 = 1875
+|max_melee7 = 1875
+|max_melee8 = 1875
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack = 60
+|attack5 = 75
+|attack6 = 75
+|attack7 = 75
+|attack8 = 75
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 
+|acc_ranged = 
+|acc_magic = 
+|acc_necromancy = 
+|abilities =
+|armour = 850
+|armour5 = 1299
+|armour6 = 1299
+|armour7 = 1299
+|armour8 = 1299
+|defence = 50
+|defence5 = 65
+|defence6 = 65
+|defence7 = 65
+|defence8 = 65
+|weakness1 = Fire
+|weakness2 = Water
+|weakness3 = Fire
+|weakness4 = Water
+|weakness5 = Fire
+|weakness6 = Water
+|weakness7 = Fire
+|weakness8 = Water
+|susceptibility = undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain =
+|restriction = 
+|id = 30649, 30650
+|leagueRegion=Misthalin}}
+The '''zombie warriors''' are [[monster]]s fought during the [[Zemouregal & Vorkath]] battle in the [[Zemouregal & Vorkath#Siege phase|siege phase]].
+
+They attack the fort from the northern [[place of power]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Vorkath, Battle for Forinthry - This Week In RuneScape|date=20 November 2023}}
+** Added to game.
+}}
+
+{{Zemouregal & Vorkath}}
+{{Battle of Forinthry}}
+[[Category:Boss minions]]

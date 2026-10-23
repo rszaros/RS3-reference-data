@@ -1,0 +1,116 @@
+{{External|os|rsc=San Tojalon}}
+{{Infobox Monster
+|name = San Tojalon
+|image = [[File:San Tojalon.png|125px]]
+|imagebackground = yes
+|release = [[20 August]] [[2003]]
+|update = New - Legends Quest!
+|members = Yes
+|options = Talk to, Attack
+|examine = The spirit of a long-dead warrior.
+|level = 70
+|lifepoints = 3750
+|experience = 187.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Skeletons, Undead
+|max_melee = 300
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 50
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 936
+|leagueRegion = Karamja
+}}
+[[File:San Tojalon chathead.png|left|65px]]
+'''San Tojalon''' is one of the long-dead warriors the player must defeat to collect the heart piece for the [[Legends' Quest]]. He attacks with [[melee]] and can only be killed once, twice if players chose the "short" route in the quest. Also, killing San Tojalon causes the rest to stop being hostile.
+
+If players want to conserve food for the fight with the demon later, they should use [[Protect from Melee]] since the demon will drain the player's [[Prayer]] at the beginning of the battle anyway.
+
+{{Clear|left}}
+== Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Viyeldi caves]]
+|lvls=70
+|mem=yes
+|mapID=437
+|leagueRegion = Karamja
+|npcid:936,x:2395,y:4721}}
+{{LocTableBottom}}
+
+==Dialogue==
+{{speaksin}}
+
+==Graphical updates==
+===NPC===
+{{GU|subject=npc
+|{{GUL|beta=yes|img=San Tojalon (RS2 beta).png|name=San Tojalon}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=San Tojalon (2004).png|name=San Tojalon}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=San Tojalon (2007).png|name=San Tojalon}}
+|{{GUL|date=|update=|img=San Tojalon old.png|name=San Tojalon}}
+|{{GUL|date=|update=|img=San Tojalon.png|name=San Tojalon}}
+}}
+
+===Chathead===
+{{GU|subject=chatheads
+|{{GUL|beta=yes|img=San Tojalon chathead (RS2 beta).png|name=San Tojalon}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=San Tojalon chathead old.png|name=San Tojalon}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=San Tojalon chathead (2007).png|name=San Tojalon}}
+|{{GUL|date=|update=|img=San Tojalon chathead old2.png|name=San Tojalon}}
+|{{GUL|date=|update=|img=San Tojalon chathead.png|name=San Tojalon}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=ninja|update=Patch Notes (12 October 2015)|date=12 October 2015}}
+** Duplicate NPCs have been removed from the [[Legends' Quest]], only one San will spawn now.
+
+* {{UL|type=update|update=New - Legends Quest!|date=20 August 2003}}
+** Added to game.
+}}
+
+==See also==
+* [[Irvig Senay]]
+* [[Ranalph Devere]]
+
+{{Legends' Quest}}
+{{Skeletons}}
+[[Category:Quest monsters]]
+[[Category:Unique monsters]]

@@ -1,0 +1,86 @@
+{{External|os}}
+{{Infobox Monster
+|name = Crypt spider
+|image = [[File:Crypt spider.png|120px|A crypt spider.]]
+|release = [[9 May]] [[2005]]
+|update = Barrows
+|members = Yes
+|options = Attack
+|examine = Incey wincey.
+|level = 63
+|lifepoints = 2250
+|experience = 112.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 34.2
+|slayercat = Spiders
+|assigned_by = Turael, Jacquelyn, Vannaka
+|max_melee = 270
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 45
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 732
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Water
+|susceptibility = NopeNopeNope
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 2034
+|leagueRegion=Wilderness, Morytania}}
+The '''Crypt spider''' is a small [[spider]] found in the tunnels of the [[Barrows]] and the [[Chaos Tunnels]]. They tend to hit extremely low, and are not a threat, unless your combat stats are poor. Food may be advised, as they are aggressive to all players for a period of time.
+
+These are one of the most killed monster in [[Barrows]] for the kill count. They are rarely killed for anything else, seeing as how they are in inconvenient places to kill and are generally weak.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=63
+|mem=yes
+|mapID=23
+|npcid:2034,x:3287,y:5483|npcid:2034,x:3289,y:5465|npcid:2034,x:3292,y:5478
+|npcid:2034,x:3293,y:5469|npcid:2034,x:3296,y:5473|npcid:2034,x:3299,y:5477
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Barrows]]
+|lvls=63
+|mem=yes
+|mapID=527
+|npcid:2034,x:3566,y:9693|npcid:2034,x:3567,y:9698|npcid:2034,x:3569,y:9695
+|npcid:2034,x:3570,y:9691|npcid:2034,x:3572,y:9697
+|leagueRegion = Morytania}}
+{{LocTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Barrows|date=9 May 2005}}
+** Added to game.
+}}
+
+{{Barrows}}
+{{Spiders}}

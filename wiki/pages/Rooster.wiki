@@ -1,0 +1,180 @@
+{{External|os|wp}}
+{{Otheruses|the monster}}
+{{Infobox Monster
+|version1 = Standard
+|version2 = Blooming Burrow and Marigold Farm
+|name = Rooster
+|image1 = [[File:Rooster.png|A Rooster|150px]]
+|image2 = Rooster (Blooming Burrow).png
+|release1 = [[9 August]] [[2004]]
+|release2 = [[18 March]] [[2024]]
+|update1 = Death Plateau Quest
+|update2 = Hop into the Blooming Burrow - This Week In RuneScape
+|members1 = Yes
+|members2 = No
+|actions = Attack, Examine
+|examine1 = He rules the, er, roost.
+|examine2 = Ruler of the roost.
+|level1 = 1
+|level2 = 3
+|lifepoints1 = 250
+|lifepoints2 = 600
+|experience1 = 12.5
+|experience2 = 30
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 6.4
+|slayxp2 = 19.4
+|slayercat = Birds
+|assigned_by = Turael,Spria
+|max_melee1 = 15
+|max_melee2 = 45
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 3
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 10
+|acc_melee2 = 30
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 120
+|defence = 1
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Fremennik,Asgarnia,Havenhythe
+|id1 = 1018, 1403
+|id2 = 30869
+}}
+'''Roosters''' are male [[chicken]]s often found in farms with other chickens. They can be fought as low-level monsters, having similar stats to other chickens and sharing the same drops.
+
+They can be found in [[Freda]]'s yard on the [[Death Plateau (location)|Death Plateau]], the chicken pen in [[Rellekka]] and in [[Miscellania]] market.
+
+There is also a non-attackable [[Rooster (Falador farm)|miniature rooster]] in the [[Falador farm]] standing on the top of the box in the chicken pen.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Miscellania]]
+|lvls = 1
+|mem = Yes
+|requirements = {{QuestIcon|The Fremennik Trials}}
+|mapID = 28
+|plane = 0
+|npcid:1403,x:2518,y:3865
+|npcid:1403,x:2606,y:3877
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc = [[Rellekka]]
+|lvls = 1
+|mem = Yes
+|mapID = 28
+|plane = 0
+|npcid:1018,x:2680,y:3662
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc = [[Death Plateau (location)|Death Plateau]]
+|lvls = 1
+|mem = Yes
+|mapID = 28
+|plane = 0
+|npcid:1018,x:2816,y:3560
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc = [[Blooming Burrow]]
+|lvls = 3
+|mem = no
+|mapID = 747
+|plane = 0
+|npcid:30869,x:3789,y:4904
+|leagueRegion = No
+}}
+{{LocLine
+|loc = [[Marigold Farm]]
+|lvls = 3
+|mem = no
+|requirements = {{QuestIcon|Visions of Havenhythe}} (partial)
+|plane = 0
+|npcid:30869,x:4252,y:3292
+|leagueRegion = Havenhythe
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw chicken|quantity=1|rarity=Always}}
+{{DropsLine|name=Off-hand rubber chicken|members=Yes|quantity=1|rarity=Always|raritynotes={{DropNote|Only if the rooster spawned by falling from the sky and saying "I have returned!" and if the item isn't already owned.}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Feather|quantity=5|rarity=64/128}}
+{{DropsLine|name=Feather|quantity=15|rarity=32/128}}
+{{DropsLine|name=Nothing|rarity=32/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Cornucopia|quantity=1|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+==Transcript==
+{{Hastranscript|npc}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[9 August]] [[2004]]|update=Death Plateau Quest|img=Rooster (2004).png|name=Rooster}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Cows, Chickens, Rabbits and the Fishing Trawler|img=Rooster old.png|name=Rooster}}
+|{{GUL|date=[[12 March]] [[2013]]|update=Tribute to Guthix and New Combat Abilities|img=Rooster old2.png|name=Rooster}}
+|{{GUL|date=[[4 August]] [[2014]]|update=Clan Month - The Beginning|img=Rooster (2014).png|name=Rooster}}
+|{{GUL|date=[[3 September]] [[2018]]|update=Player Owned Farm|img=Rooster.png|name=Rooster}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Welcome to Havenhythe|date=23 March 2026}}
+** Added to [[Marigold Farm]].
+
+* {{UL|type=|update=|date=}}
+** Variant in [[Blooming Burrow]] made attackable, making it a [[monster]].
+** Variant in [[Blooming Burrow]] made visible on the [[minimap]].
+
+* {{UL|type=update|update=Hop into the Blooming Burrow - This Week In RuneScape|date=18 March 2024}}
+** Added a variant to [[Blooming Burrow]] as a non-attackable [[non-player character]].
+
+* {{UL|type=update|update=Death Plateau Quest|date=9 August 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* [[Postbag from the Hedge|Postbag from the Hedge #38]] has noted that it would take 5,308 roosters to make it through the [[TzHaar Fight Cave]] and have a chance at beating [[TzTok-Jad]].
+
+{{Blooming Burrow}}
+{{Chickens}}
+{{Marigold Farm}}
+[[Category:Birds]]

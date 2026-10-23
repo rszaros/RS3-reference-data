@@ -1,0 +1,251 @@
+{{External|os}}
+{{Otheruses|def=no|the Ancient Summoning familiar|Waterfiend (familiar)|the elite version|Waterfiend (elite)|other uses|Waterfiend (disambiguation)}}
+{{Infobox Monster
+|name = Waterfiend
+|image = [[File:Waterfiend.png|x280px]]
+|aka = wfs
+|release = [[3 July]] [[2007]]
+|update = Barbarian Training
+|members = Yes
+|options = Attack
+|examine = A fiendish embodiment of water.
+|level = 107
+|lifepoints = 8000
+|experience = 400.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 335
+|slayercat = Waterfiends
+|assigned_by = Duradel,Kuradal,Morvran,Mandrith
+|max_melee = 800
+|max_ranged = 800
+|max_magic = 800
+|max_necromancy = 0
+|max_spec = 0
+|style = magic,ranged
+|primarystyle = magic
+|speed = 6
+|attack = 77
+|ranged = 77
+|magic = 77
+|necromancy = 1
+|acc_melee = 1783
+|acc_ranged = 1783
+|acc_magic = 1783
+|acc_necromancy = 0
+|armour = 1486
+|defence = 77
+|weakness = Bolts
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Kandarin,Wilderness,Tirannwn
+|id = 5361
+}}
+[[File:Waterfiend icon.png|left]]
+'''Waterfiends''' are the elemental cousins of the [[Pyrefiend]] and the [[Icefiend]], and may be assigned as a slayer task by [[Duradel]]/[[Lapalok]], [[Kuradal]], [[Morvran]], and [[Mandrith]]. They are found in the [[Ancient Cavern]], which can be accessed by completing [[Barbarian Training]] to the pyre ship stage. Waterfiends are also found in the [[Chaos Tunnels]] and the eastern coast of the [[Wilderness]].
+
+Waterfiends have a very high [[charms|charm]] drop rate, especially for [[crimson charm]]s, making them popular among players training [[Summoning]] with them compared to other monsters. 
+
+They are weakest against crossbow bolts, making any form of ranged a good choice for killing them. Using [[darklight]] is a viable method for those wishing to use melee, due to waterfiends being classified as demons. When killing waterfiends, an [[waterfiend (elite)|elite]] version may spawn (guaranteed while on a Slayer assignment), which can be further increased with the use of [[fellstalk incense sticks]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ancient Cavern]]
+|lvls=107
+|mem=yes
+|requirements = Partial completion of {{AchievementIcon|Barbarian Firemaking}}
+|mapID=-1
+|npcid:5361,x:1738,y:5343
+|npcid:5361,x:1738,y:5348
+|npcid:5361,x:1738,y:5352
+|npcid:5361,x:1741,y:5356
+|npcid:5361,x:1742,y:5342
+|npcid:5361,x:1742,y:5361
+|npcid:5361,x:1746,y:5340
+|npcid:5361,x:1747,y:5363
+|npcid:5361,x:1751,y:5342
+|npcid:5361,x:1752,y:5351
+|npcid:5361,x:1755,y:5355
+|npcid:5361,x:1755,y:5360
+|npcid:5361,x:1757,y:5361
+|npcid:5361,x:1763,y:5361
+|npcid:5361,x:1766,y:5363
+|npcid:5361,x:1767,y:5359
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=107
+|mem=yes
+|mapID=23
+|npcid:5361,x:3173,y:5543
+|npcid:5361,x:3176,y:5542
+|npcid:5361,x:3177,y:5545
+|npcid:5361,x:3178,y:5541
+|npcid:5361,x:3185,y:5547
+|npcid:5361,x:3186,y:5541
+|npcid:5361,x:3189,y:5547
+|npcid:5361,x:3190,y:5542
+|npcid:5361,x:3191,y:5544
+|npcid:5361,x:3193,y:5546
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=East of the [[Boneyard]] (level 16 Wilderness)
+|lvls=107
+|mem=yes
+|npcid:5361,x:3362,y:3642
+|npcid:5361,x:3363,y:3647
+|npcid:5361,x:3365,y:3639
+|npcid:5361,x:3365,y:3643
+|npcid:5361,x:3368,y:3639
+|npcid:5361,x:3368,y:3645
+|npcid:5361,x:3375,y:3642
+|npcid:5361,x:3376,y:3646
+|npcid:5361,x:3383,y:3645
+|npcid:5361,x:3366,y:3649
+|npcid:5361,x:3372,y:3649
+|npcid:5361,x:3380,y:3651
+|npcid:5361,x:3382,y:3649
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Water rune|quantity=1|rarity=Always}}
+{{DropsLine|name=Binding contract (waterfiend)|quantity=1|rarity=Always|raritynotes={{DropNote|Requires a minimum of 50 [[Summoning]], 50 [[Slayer]] and a [[binding contract]].}}|citations={{CiteReddit|url=https://www.reddit.com/r/runescape/comments/i7aq2e/need_help_creating_kalgerion_demon_pouches_does/|title=Need Help! creating kalgerion demon pouches does not work|author=Mod Sponge|date=11 August 2020|accessdate=3 May 2022|quote=so this is actually part of how binding contracts work - each familiar also has a slayer requirement to catch them, that is equal to their summoning requirement.|archiveurl=https://reldo.runescape.wiki/i/97876 |archivedate=21 January 2023}}|bucket=no}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril stone spirit|quantity=2|rarity=10/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=4|rarity=12/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}}}
+{{DropsLine|name=Seaweed|quantity=6 (noted)|rarity=18/128}}
+{{DropsLine|name=Coins|quantity=1200|rarity=16/128}}
+{{DropsLine|name=Snape grass|quantity=6 (noted)|rarity=14/128}}
+{{DropsLine|name=Raw lobster|quantity=4 (noted)|rarity=10/128}}
+{{DropsLine|name=Mithril arrowheads|quantity=25|rarity=8/128}}
+{{DropsLine|name=Water orb|quantity=2 (noted)|rarity=8/128}}
+{{DropsLine|name=Raw shark|quantity=2 (noted)|rarity=6/128}}
+{{DropsLine|name=Fishbowl|quantity=1|rarity=4/128}}
+{{DropsLine|name=Water talisman|quantity=1|rarity=2/128}}
+{{DropsLine|name=Casket|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|4/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=107}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=107}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 98.73/1000
+|green = 49.365/1000
+|crimson = 789.843/1000
+|blue = 19.746/1000
+}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=107}}
+
+==Products==
+{{Uses facility list|Waterfiend}}
+
+==Gallery==
+<gallery mode="packed" heights=200px>
+Fiends concept art.png|Concept art for [[Pyrefiend]]s, [[Icefiend]]s and Waterfiends
+</gallery>
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[3 July]] [[2007]]|update=Barbarian Training|img=Waterfiend (2007).png|name=Waterfiend}}
+<!--
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Waterfiend (June 2008).png|name=Waterfiend}}
+-->
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Waterfiend (July 2008).png|name=Waterfiend}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Waterfiend.png|name=Waterfiend}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=WildyWyrm Flash Event and Valentines - This Week In RuneScape|date=5 February 2024}}
+** The Waterfiend familiar will now deposit Arch materials to the material storage or the Bank as intended.
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Waterfiends have been graphically updated.
+
+* {{UL|type=patch|update=This Week In RuneScape: Double XP LIVE (February 2022)|date=14 February 2022}}
+** Waterfiend no longer disappears after activating its ability while fishing [[Raw wobbegong|Wobbegongs]].
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for Waterfiends.
+
+* {{UL|type=patch|update=Patch Notes (7 March 2016)|date=7 March 2016}}
+** Waterfiends have had their combat stats rebalanced (ancient cavern and elite variants).
+
+* {{UL|type=patch|update=Patch Notes (23 November 2015)|date=23 November 2015}}
+** Corrected the melee attack accuracy for the following NPCs: Dagannoth Mother, Dominion Tower Dagannoth Mother, Temple at Senntisten quest fiends and Cockatrices.
+
+* {{UL|update=Your Feedback Implemented!|date=17 June 2013}}
+** Certain high-level slayer targets have been made tougher and more aggressive.
+
+* {{UL|type=hidden|update=Smoking Kills|date=5 June 2008}}
+** Waterfiends have an unannounced graphical update and drop table change with the release of [[Smoking Kills]]. Two subsequent system updates later that day fix bugs and change the drop table further.
+
+* {{UL|type=update|update=Barbarian Training|date=3 July 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* Waterfiends used to drop un-noted quantities of raw lobster and raw shark because players would often use [[Bunyip]]s to consume them when training there, but this was changed shortly after the launch of the Evolution of Combat.
+
+==References==
+{{Reflist}}
+
+{{Ancient Cavern}}
+{{Demons}}
+{{Elementals}}
+[[pt:Demônio d'água]]

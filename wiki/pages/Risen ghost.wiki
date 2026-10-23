@@ -1,0 +1,146 @@
+{{Infobox Monster
+|name = Risen ghost
+|image = [[File:Risen ghost.png]]
+|release = [[11 April]] [[2023]]
+|update = Unwelcome Guests Slayer Content - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|race = Undead, Ghost
+|examine = Don't make me ghost you.
+|level = 101
+|lifepoints = 30000
+|experience = 1500.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 85
+|slayxp = 1000
+|slayercat = Ghosts, Risen ghosts, Zemouregal's undead, Undead
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 1117
+|max_necromancy = 0
+|max_spec = 0
+|style = Magic
+|primarystyle = Magic
+|speed = 6
+|attack = 1
+|ranged = 1
+|magic = 75
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 1694
+|acc_necromancy = 0
+|armour = 1486
+|defence = 70
+|weakness = Arrow
+|susceptibility = salve, undead, ghost hunter
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Wilderness
+|id = 30019
+}}
+[[File:Risen ghost icon.png|left]]
+'''Risen ghosts''' are [[Slayer monsters]] accessible following [[Unwelcome Guests]]. They require level 85 [[Slayer]] to kill, and are found within the [[Crypt (Wilderness)|crypt]] north of [[Fort Forinthry]]. 
+
+Risen ghosts fall under multiple Slayer categories; as themselves, [[Undead (Slayer assignment)|undead]], [[Zemouregal's undead]], and [[Ghosts (Slayer assignment)|ghosts]]. When killed as a standalone task, every kill counts as one towards the assignment. If killed on a [[Ghosts (Slayer assignment)|ghosts]], [[Undead (Slayer assignment)|undead]], or [[Zemouregal's undead]] assignments, every kill counts as two, and while killing them on [[Slayer/Challenges#The Raptor|the Raptor's slayer challenge]], they count as three kills each.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Crypt (Wilderness)|Crypt]] north of [[Fort Forinthry]]
+|lvls=101
+|mem=yes
+|requirements={{QuestIcon|Unwelcome Guests}}
+|mapID=-1
+|plane=1
+|npcid:30019,x:1950,y:1587|npcid:30019,x:1952,y:1588
+|npcid:30019,x:1950,y:1581|npcid:30019,x:1954,y:1579|npcid:30019,x:1951,y:1572|npcid:30019,x:1954,y:1572
+|npcid:30019,x:1950,y:1566|npcid:30019,x:1954,y:1567
+|leagueRegion=Wilderness
+}}
+{{LocTableBottom}}
+;Optimal combat location in the crypt
+{{map|1947,1564|mtype=pin|mapID=-1|plane=1}}
+
+==Mechanics==
+The risen ghost has a passive effect, [[Soul Siphon]], that allows its attacks to partially bypass damage mitigation. Additionally, it possesses an energy bar that once filled allows the ghost to heal with its attacks for a time.
+
+== Strategy ==
+The ghosts are permanently aggressive, and can overwhelm players easily with their high magic damage output. Players can engage the ghosts near the bridge to avoid pulling the main group. Usage of Protect/Soul Split curses is highly recommended.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Unique drops===
+{{DropsTableHead}}
+{{DropsLine|name=Greater Sonic Wave ability codex|quantity=1|rarity=1/4608|altrarity=1/1520|altraritydash=y|raritynotes={{DropNote|1/4,561 with tier 4 [[luck]] or higher. Drop rate is tripled (1/1,536) when on a [[Slayer assignment]]; 1/1,520 if also having tier 4 luck or higher.}}}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Avantoe seed|quantity=1|rarity=10/100}}
+{{DropsLine|name=Ranarr seed|quantity=1|rarity=10/100}}
+{{DropsTableBottom}}
+
+===Multipliers===
+{{DropsTableHead}}
+{{DropsLine|name=Drakolith stone spirit|quantity=6|rarity=7/100}}
+{{DropsLine|name=Orichalcite stone spirit|quantity=6|rarity=7/100}}
+{{DropsLine|name=Catalytic anima stone|quantity=18|rarity=8/100}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Huge spiky mithril salvage|quantity=3|rarity=6/100}}
+{{DropsLine|name=Medium spiky rune salvage|quantity=2|rarity=6/100}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Pure essence|quantity=25 (noted)|rarity=15/100}}
+{{DropsLine|name=Uncut diamond|quantity=3|rarity=10/100}}
+{{DropsLine|name=Dragon arrowheads|quantity=22|rarity=8/100}}
+{{DropsLine|name=Battlestaff|quantity=4|rarity=7/100}}
+{{DropsLine|name=Ghostly essence|quantity=15|rarity=6/100}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|slayer_level=85}}
+{{DropsLineGhosts|ectorarity=500|herbrarity=1024}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Wildest of All}} 
+** [[Greater Sonic Wave ability codex]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=SteelSeries & Patch Week - This Week in RuneScape|date=24 April 2023}}
+** Fixed a spawn animation issue with risen ghosts.
+** Risen ghosts' combat XP has been reduced to bring them in line with the intended XP per hour.
+
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{Ghost}}

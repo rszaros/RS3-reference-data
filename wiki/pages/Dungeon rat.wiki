@@ -1,0 +1,214 @@
+{{External|rsc=Dungeon Rat|os}}
+{{Infobox Monster
+|version1 = Level 11 (1)
+|version2 = Level 11 (2)
+|version3 = Level 11 (3)
+|version4 = Level 18 (brown)
+|version5 = Level 18 (grey)
+|version6 = Level 18 (brown, arrows)
+|name = Dungeon rat
+|image1 = [[File:Dungeon rat (Clock Tower).png]]
+|image2 = [[File:Dungeon rat (Clock Tower, 2).png]]
+|image3 = [[File:Dungeon rat (Clock Tower, 3).png]]
+|image4 = [[File:Dungeon rat (1).png]]
+|image5 = [[File:Dungeon rat.png]]
+|image6 = [[File:Dungeon rat (3).png]]
+|release1 = [[18 October]] [[2006]]
+|release2 = [[18 October]] [[2006]]
+|release3 = [[18 October]] [[2006]]
+|release4 = [[17 June]] [[2002]]
+|release5 = [[18 October]] [[2006]]
+|release6 = [[18 October]] [[2006]]
+|update1 = Player-Owned House Costume Room
+|update2 = Player-Owned House Costume Room
+|update3 = Player-Owned House Costume Room
+|update4 = Latest RuneScape News (17 June 2002)
+|update5 = Player-Owned House Costume Room
+|update6 = Player-Owned House Costume Room
+|members = Yes
+|options = Attack
+|examine1 = A dirty rat.
+|examine2 = A dirty rat.
+|examine3 = A dirty rat.
+|examine4 = Overgrown vermin.
+|examine5 = Overgrown vermin.
+|examine6 = Overgrown vermin.
+|level1 = 11
+|level2 = 11
+|level3 = 11
+|level4 = 18
+|level5 = 18
+|level6 = 18
+|lifepoints1 = 400
+|lifepoints2 = 650
+|lifepoints3 = 650
+|lifepoints4 = 650
+|lifepoints5 = 650
+|lifepoints6 = 650
+|experience1 = 20.0
+|experience2 = 32.5
+|experience3 = 32.5
+|experience4 = 32.5
+|experience5 = 32.5
+|experience6 = 32.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Rats
+|assigned_by = Turael, Jacquelyn
+|max_melee1 = 32
+|max_melee2 = 52
+|max_melee3 = 52
+|max_melee4 = 52
+|max_melee5 = 52
+|max_melee6 = 52
+|max_ranged1 = 0
+|max_ranged2 = 0
+|max_ranged3 = 0
+|max_ranged4 = 0
+|max_ranged5 = 0
+|max_ranged6 = 0
+|max_magic1 = 0
+|max_magic2 = 0
+|max_magic3 = 0
+|max_magic4 = 0
+|max_magic5 = 0
+|max_magic6 = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 8
+|attack2 = 13
+|attack3 = 13
+|attack4 = 13
+|attack5 = 13
+|attack6 = 13
+|ranged1 = 0
+|ranged2 = 1
+|ranged3 = 1
+|ranged4 = 1
+|ranged5 = 1
+|ranged6 = 1
+|magic1 = 0
+|magic2 = 1
+|magic3 = 1
+|magic4 = 1
+|magic5 = 1
+|magic6 = 1
+|necromancy = 1
+|acc_melee1 = 181
+|acc_melee2 = 234
+|acc_melee3 = 234
+|acc_melee4 = 234
+|acc_melee5 = 234
+|acc_melee6 = 234
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 181
+|armour2 = 234
+|armour3 = 234
+|armour4 = 234
+|armour5 = 234
+|armour6 = 234
+|defence1 = 8
+|defence2 = 13
+|defence3 = 13
+|defence4 = 13
+|defence5 = 13
+|defence6 = 13
+|weakness1 = Fire
+|weakness2 = Fire
+|weakness3 = Fire
+|weakness4 = Earth
+|weakness5 = Earth
+|weakness6 = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = none
+|leagueRegion = Kandarin
+|id1 = 224
+|id2 = 4936
+|id3 = 4937
+|id4 = 88
+|id5 = 4928
+|id6 = 4929
+}}
+'''Dungeon rats''' are a type of rat found in caves, sewers, and dungeons underneath the city of [[Ardougne]]. They are fairly easy foes to defeat and don't give very much experience on death. As such, training on them is not recommended.
+
+A group of them play a key role in the [[Clock Tower]] quest in which the player [[Poison (item)|poisons]] their food trough. This causes the rats to attempt to escape by chewing away a railing, allowing the player to grab the [[white cog]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ardougne Sewers]]
+|lvls=18
+|mem=yes
+|mapID=0
+|npcid:4928,x:2577,y:9692
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Clock Tower Dungeon]]
+|lvls=11, 18
+|mem=yes
+|mapID=0
+|npcid:88,x:2573,y:9630|npcid:224,x:2579,y:9655|npcid:224,x:2581,y:9659|npcid:224,x:2587,y:9656|npcid:224,x:2589,y:9658|npcid:224,x:2583,y:9659|npcid:4936,x:2581,y:9656|npcid:4936,x:2589,y:9654|npcid:4936,x:2591,y:9656|npcid:4937,x:2584,y:9656|npcid:4937,x:2586,y:9659|npcid:4937,x:2591,y:9659
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Goblin Cave]]
+|lvls=18
+|mem=yes
+|mapID=0
+|npcid:4929,x:2580,y:9804|npcid:4928,x:2585,y:9801|npcid:88,x:2588,y:9806
+|npcid:4929,x:2594,y:9803|npcid:4928,x:2601,y:9801
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+===100% Drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main drops===
+{{DropsTableHead}}
+{{DropsLine|name=Raw rat meat|quantity=1|rarity=Always|raritynotes={{DropNote|Only dropped by the grey updated rats in the [[Goblin Cave]] and the [[Clock Tower Dungeon]].}}}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Giant rat bone|quantity=1|rarity=Always|raritynotes={{DropNote|Only during [[Rag and Bone Man]].}}{{DropNote|Only dropped by the level 11 dungeon rats in the [[Clock Tower Dungeon]].}}|gemw=No}}
+{{DropsLine|name=Rat's tail|quantity=1|rarity=Always|raritynotes={{DropNote|Only during [[Witch's Potion (miniquest)]].}}{{DropNote|Not dropped by the 2 dungeon rats that drop raw rat meat.}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Player-Owned House Costume Room|date=18 October 2006}}
+** The remaining five variants were added to the game.
+
+* {{UL|type=update|update=Latest RuneScape News (17 June 2002)|date=17 June 2002}}
+** The "Level 18 (brown)" variant was added to the game.
+}}
+
+==Trivia==
+* Some dungeon rats—such as [[Angry giant rat|angry giant]], [[Brine rat|brine]], and [[zombie rat]]s—use the old rat graphics.
+
+{{Clock Tower}}
+{{Rats}}

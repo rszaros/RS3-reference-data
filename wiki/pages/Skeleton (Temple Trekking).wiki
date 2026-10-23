@@ -1,0 +1,93 @@
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{Infobox Monster
+|version1 = Level 18
+|version2 = Helmet
+|version3 = No helmet
+|name = Skeleton
+|image1 = [[File:Skeleton (Temple Trekking, level 18).png|250px]]
+|image2 = [[File:Skeleton (Temple Trekking, helmet).png|250px]]
+|image3 = [[File:Skeleton (Temple Trekking, no helmet).png|250px]]
+|release = [[17 August]] [[2011]]
+|update = Temple Trekking: Revamped
+|members = Yes
+|examine = Could do with gaining a few pounds.
+|level1 = 18
+|level2 = 89
+|level3 = 89
+|lifepoints1 = 170
+|lifepoints2 = 700
+|lifepoints3 = 700
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 2.4
+|slayxp2 = 18.6
+|slayxp3 = 18.6
+|slayercat = Skeletons
+|assigned_by = Mazchna, Turael, Vannaka
+|max_melee1 = 7
+|max_melee2 = 45
+|max_melee3 = 28
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|speed1 = 4
+|speed2 = 5
+|speed3 = 5
+|attack1 = 13
+|attack2 = 64
+|attack3 = 64
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 7
+|acc_melee2 = 50
+|acc_melee3 = 34
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 0
+|defence1 = 13
+|defence2 = 64
+|defence3 = 64
+|weakness = Crush
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania
+|id1 = 14007
+|id2 = 14008
+|id3 = 14009
+}}
+'''Skeletons''' may be encountered during [[Temple Trekking]], in the [[Graveyard (Mort Myre Swamp)|graveyard]] event. They can be killed normally, or destroyed by unleashing the tomb in the centre of the area. The tomb can only be unleashed twice.
+
+They will only drop bones and grant experience if the player dealt any damage to it. Skeletons destroyed solely by the tomb will not do either.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=2-7|rarity=1/20}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Temple Trekking: Revamped|date=17 August 2011}}
+** Added to game.
+}}

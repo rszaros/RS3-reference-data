@@ -1,0 +1,346 @@
+{{Otheruses|def=no|the music track|Hobgoblin Geomancer (music track)}}
+{{Infobox Monster
+|version1 = 7
+|version2 = 16
+|version3 = 26
+|version4 = 37
+|version5 = 47
+|version6 = 57
+|version7 = 67
+|version8 = 78
+|version9 = 88
+|version10 = 98
+|version11 = 107
+|version12 = 119
+|version13 = 128
+|version14 = 138
+|name = Hobgoblin Geomancer
+|image = [[File:Hobgoblin Geomancer.png|200px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|options = Attack
+|examine = An ugly, smelly creature with a makeshift staff.
+|level1 = 7
+|level2 = 16
+|level3 = 26
+|level4 = 37
+|level5 = 47
+|level6 = 57
+|level7 = 67
+|level8 = 78
+|level9 = 88
+|level10 = 98
+|level11 = 107
+|level12 = 119
+|level13 = 128
+|level14 = 138
+|lifepoints1 = 2500
+|lifepoints2 = 6000
+|lifepoints3 = 9500
+|lifepoints4 = 13500
+|lifepoints5 = 17000
+|lifepoints6 = 20500
+|lifepoints7 = 24000
+|lifepoints8 = 28000
+|lifepoints9 = 31500
+|lifepoints10 = 35000
+|lifepoints11 = 38500
+|lifepoints12 = 42500
+|lifepoints13 = 46000
+|lifepoints14 = 49500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp10 = 207
+|slayercat = Hobgoblins, Creatures of Daemonheim
+|max_melee1 = 40
+|max_melee2 = 96
+|max_melee3 = 152
+|max_melee4 = 216
+|max_melee5 = 272
+|max_melee6 = 328
+|max_melee7 = 384
+|max_melee8 = 448
+|max_melee9 = 504
+|max_melee10 = 560
+|max_melee11 = 616
+|max_melee12 = 680
+|max_melee13 = 736
+|max_melee14 = 792
+|max_ranged1 = 40
+|max_ranged2 = 96
+|max_ranged3 = 152
+|max_ranged4 = 216
+|max_ranged5 = 272
+|max_ranged6 = 328
+|max_ranged7 = 384
+|max_ranged8 = 448
+|max_ranged9 = 504
+|max_ranged10 = 560
+|max_ranged11 = 616
+|max_ranged12 = 680
+|max_ranged13 = 736
+|max_ranged14 = 792
+|max_magic1 = 40
+|max_magic2 = 96
+|max_magic3 = 152
+|max_magic4 = 216
+|max_magic5 = 272
+|max_magic6 = 328
+|max_magic7 = 384
+|max_magic8 = 448
+|max_magic9 = 504
+|max_magic10 = 560
+|max_magic11 = 616
+|max_magic12 = 680
+|max_magic13 = 736
+|max_magic14 = 792
+|max_necromancy = 0
+|style = melee, magic
+|primarystyle = melee
+|speed = 4
+|attack1 = 5
+|attack2 = 12
+|attack3 = 19
+|attack4 = 27
+|attack5 = 34
+|attack6 = 41
+|attack7 = 48
+|attack8 = 56
+|attack9 = 63
+|attack10 = 70
+|attack11 = 77
+|attack12 = 85
+|attack13 = 92
+|attack14 = 99
+|ranged1 = 5
+|ranged2 = 12
+|ranged3 = 19
+|ranged4 = 27
+|ranged5 = 34
+|ranged6 = 41
+|ranged7 = 48
+|ranged8 = 56
+|ranged9 = 63
+|ranged10 = 70
+|ranged11 = 77
+|ranged12 = 85
+|ranged13 = 92
+|ranged14 = 99
+|magic1 = 5
+|magic2 = 12
+|magic3 = 19
+|magic4 = 27
+|magic5 = 34
+|magic6 = 41
+|magic7 = 48
+|magic8 = 56
+|magic9 = 63
+|magic10 = 70
+|magic11 = 77
+|magic12 = 85
+|magic13 = 92
+|magic14 = 99
+|necromancy = 1
+|acc_melee1 = 150
+|acc_melee2 = 223
+|acc_melee3 = 304
+|acc_melee4 = 409
+|acc_melee5 = 519
+|acc_melee6 = 648
+|acc_melee7 = 801
+|acc_melee8 = 1011
+|acc_melee9 = 1230
+|acc_melee10 = 1486
+|acc_melee11 = 1783
+|acc_melee12 = 2178
+|acc_melee13 = 2577
+|acc_melee14 = 3031
+|acc_ranged1 = 150
+|acc_ranged2 = 223
+|acc_ranged3 = 304
+|acc_ranged4 = 409
+|acc_ranged5 = 519
+|acc_ranged6 = 648
+|acc_ranged7 = 801
+|acc_ranged8 = 1011
+|acc_ranged9 = 1230
+|acc_ranged10 = 1486
+|acc_ranged11 = 1783
+|acc_ranged12 = 2178
+|acc_ranged13 = 2577
+|acc_ranged14 = 3031
+|acc_magic1 = 150
+|acc_magic2 = 223
+|acc_magic3 = 304
+|acc_magic4 = 409
+|acc_magic5 = 519
+|acc_magic6 = 648
+|acc_magic7 = 801
+|acc_magic8 = 1011
+|acc_magic9 = 1230
+|acc_magic10 = 1486
+|acc_magic11 = 1783
+|acc_magic12 = 2178
+|acc_magic13 = 2577
+|acc_magic14 = 3031
+|acc_necromancy = 0
+|armour1 = 150
+|armour2 = 223
+|armour3 = 304
+|armour4 = 409
+|armour5 = 519
+|armour6 = 648
+|armour7 = 801
+|armour8 = 1011
+|armour9 = 1230
+|armour10 = 1486
+|armour11 = 1783
+|armour12 = 2178
+|armour13 = 2577
+|armour14 = 3031
+|defence1 = 5
+|defence2 = 12
+|defence3 = 19
+|defence4 = 27
+|defence5 = 34
+|defence6 = 41
+|defence7 = 48
+|defence8 = 56
+|defence9 = 63
+|defence10 = 70
+|defence11 = 77
+|defence12 = 85
+|defence13 = 92
+|defence14 = 99
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = dg
+|leagueRegion = Wilderness
+|id1 = 10059
+|id2 = 10060
+|id3 = 10061
+|id4 = 10062
+|id5 = 10063
+|id6 = 10064
+|id7 = 10065
+|id8 = 10066
+|id9 = 10067
+|id10 = 10068
+|id11 = 10069
+|id12 = 10070
+|id13 = 10071
+|id14 = 10072
+}}
+[[File:Hobgoblin Geomancer icon.png|left]]
+The '''Hobgoblin Geomancer''', also known as '''Gra'Magor''', is a boss monster encountered while [[Dungeoneering]] on the Abandoned 1 and Abandoned 2 [[Dungeoneering floors]] in the [[Daemonheim]] dungeon, requiring level 23 and 59 Dungeoneering, respectively.
+
+[[Thok]] encounters a particular geomancer named [[Derek]] during the [[Thok Your Block Off (saga)|Thok Your Block Off]] saga.
+
+==The fight==
+The Hobgoblin Geomancer has various kinds of attacks and abilities. He uses a single-targeted melee attack, an [[Earth Blast]] spell that can be either single or multi-targeted, [[Entangle]] which can stop movement of player for 12 seconds, [[curse spells]] that weaken the player's stats (maximum 5% of all combat stats), and prayer-draining spell temporarily stop the player from praying (lasts 15 seconds). His spells can splash and do nothing.
+
+The hobgoblin [[Teleportation|teleports]] himself around the room once in a while. He will teleport away from the player if he is adjacent with player, and vice versa.
+
+If the player has any prayer active when he uses his prayer-disabling attack (which looks like a white ball), he will heal himself slightly and will drain the player's [[Prayer points]] as well. The only way to prevent this is to fight him without prayer. It is not a good idea to activate any prayers against higher levelled versions of this boss, as his defence is too high to counter the healing rate. If he disables the prayer of more than one player at the same time, he will only heal himself for one player.
+
+==Strategy==
+He has no weakness, but since he teleports around the room occasionally it is easier to range or mage him. Additionally, he will only teleport far away from the player if the player attacks it with melee. He will teleport right next to the player and melee them if the player uses ranged or magic. 
+
+Another method to fight is to purely range the boss and try to run away when the Geomancer teleports near the player, such that he will be forced to use magic. This way, ranged armour will provide the best attack and defence bonus.
+
+The [[Freedom]] ability can be used to break the binding spell.
+
+Ideally, the best way to kill this boss is to use a gatestone (not group). Melee the boss and wait until you get stunned. Then either teleport to your gatestone or use freedom. This will stop the stun and allow you to continue attacking.
+<gallery mode="packed" heights="150">
+Hobgoblin Geomancer fight.png|Fighting the geomancer.
+Hobgoblin Geomancer prayer drain.png|The prayer-draining attack.
+Hobgoblin Geomancer teleport.png|Entangling.
+</gallery>
+
+==Drops==
+The Hobgoblin Geomancer always drops one item from the Ranged boots list and one item from the necromancy gloves list.
+
+===Ranged boots===
+{{DropsTableHead}}
+{{DropsLine|name=Protoleather boots|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Subleather boots|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Paraleather boots|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Archleather boots|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Dromoleather boots|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Spinoleather boots|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Gallileather boots|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Stegoleather boots|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Megaleather boots|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Tyrannoleather boots|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Sagittarian boots|quantity=1|rarity=Random|gemw=no}}
+{{DropsTableBottom}}
+
+===Necromancy gloves===
+{{DropsTableHead}}
+{{DropsLine|name=Deathsalve gloves|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Deathcress gloves|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Deathleaf gloves|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Shadowblood gloves|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Shadowbryll gloves|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Deathweed gloves|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Deathbell gloves|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Nectrogloves|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Soulrune gloves|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Deathbloom gloves|quantity=1|rarity=Random|gemw=no}}
+{{DropsLine|name=Entropic gloves|quantity=1|rarity=Random|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Hobgoblin scrawlings|quantity=1|rarity=Common|gemw=no}}
+{{DropsLine|name=Mysterious chronicle|quantity=1|rarity=Common|gemw=no}}
+{{DropsTableBottom}}
+
+==Works==
+{{Worksby}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Dungeoneering Remastered|date=11 May 2026}}
+** Necromancy gloves added as potential drops.
+** Base hit chances (affinities) increased:
+*** Magic ('weak'): 40 → 70
+*** Melee ('same'): 40 → 60
+*** Ranged ('strong'): 40 → 50
+*** Weakness: 40 → 90
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+==Trivia==
+[[File:Big High War God shrine (Dungeoneering).png|right|300px]]
+* Upon release this boss was incorrectly listed as requiring level 24 Dungeoneering.
+* When a player reaches level 23 Dungeoneering, the skill guide says 'You can now fight the Geomage Shaman.'
+* Although graphics and animations for the elemental combat spells were updated (on 24 June 2010), this boss still used the old earth blast animation. This has since been fixed.
+* Whilst the Geomancer utilises magic and melee attacks, it drops range armour.
+* Geomancy (Literally "earth divination") is a method of {{WP|divination}} that interprets markings on the ground or the patterns formed by tossed handfuls of {{WP|soil}}, {{WP|rocks}}, or {{WP|sand}}.
+* He will not teleport if he fails to immobilise the player.
+* The boss music of this boss was extended in length after an unknown update.
+* According to the scrawling which he drops, he is a [[Bandos]]ian like other hobgoblins.
+* He appears in the [[Dungeoneering master cape]] emote: the player kills him with ranged, referring to the combat triangle.
+* He has an altar, which cannot be examined. Coincidentally, it looks somewhat similar with miniature Chinese altars that, fittingly, are dedicated to the spirits in the earth.
+* In the Brazilian version of the game, the Hobgoblin Geomancer is called "Duende Geomante" ([[Goblin]] Geomancer).
+* In the 5 July chapter of ''RuneScape'' Lore, it is mentioned that the Hobgoblin Geomancer is indeed the same as the one in the story (that he was once a slave digger).
+* According to the official ''RuneScape'' lore [[Daemonheim Asunder]], the Hobgoblin Geomancer's name is Gra'magor. This was decided in a contest poll held in June 2011, in which players could decide his name.
+
+{{Dungeoneering bosses}}
+{{Daemonheim Asunder}}
+[[Category:Free-to-play bosses]]
+[[Category:Bandosians]]
+[[Category:Hobgoblins]]
+[[pt:Duende Geomante]]

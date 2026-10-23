@@ -1,0 +1,80 @@
+{{Dgvariant}}
+{{Infobox Monster
+|name = Cave slime
+|image = [[File:Cave slime (Dungeoneering).png|150px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark
+|examine = A foul-smelling blob of protoplasm.
+|level = 44
+|lifepoints = 7800
+|slaylvl = 17
+|slayxp = 91
+|experience = 390.0
+|aggressive = No
+|poisonous = Yes
+|slayercat = Cave slimes, Creatures of Daemonheim
+|max_melee = 124
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 23
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 354
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 609
+|defence = 39
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id = 10696
+|leagueRegion = Wilderness
+}}
+A '''cave slime''' is a [[Slayer]] monster found on all of [[Daemonheim]]'s floors. They require level 17 [[Slayer]] to kill. They are the only monsters that can drop the special [[Incantor's boots]] and [[Sorcerer's boots]]. Unlike the cave slime found in the [[Lumbridge Swamp Caves]] and [[Dorgesh-Kaan South Dungeon]], these monsters are not poisonous.
+
+==Drops==
+===Monster-specific===
+{{DropsTableHead}}
+{{DropsLine|name=Incantor's boots|quantity=1|gemw=no|rarity=Uncommon}}
+{{DropsLine|name=Sorcerer's boots|quantity=1|gemw=no|rarity=Rare}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=November Graphical Updates & DXP - This Week In RuneScape|date=6 November 2023}}
+** Increased base [[Hit chance|accuracy]] within dungeoneering to be inline with others areas of the game.
+
+* {{UL|type=update|update=Game Update (19 April 2012)|date=19 April 2012}}
+** Increased frequency of Slayer creatures in Dungeoneering.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Slayer monsters}}

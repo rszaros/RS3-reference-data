@@ -1,0 +1,102 @@
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{External|os}}
+{{Infobox Monster
+|name = Skeleton Champion
+|image = [[File:Skeleton Champion.png|150px]]
+|release = [[12 December]] [[2005]]
+|update = Champions, Wyverns and Granite
+|members = Yes
+|options = Attack
+|race = Skeleton
+|examine = Champion of the skeletons.
+|level = 35
+|lifepoints = 4000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 22.4
+|slayercat = Skeletons, Undead
+|max_melee = 183
+|max_ranged = 459
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 5
+|attack = 10
+|ranged = 25
+|magic = 1
+|necromancy = 1
+|acc_melee = 202
+|acc_ranged = 381
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 381
+|defence = 25
+|weakness = Crush
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = minigame
+|leagueRegion = Misthalin
+|id = 3065
+}}
+[[File:Skeleton banner detail.png|left|50px]]
+The '''Skeleton Champion''' is one of the 16 champions fought as part of the [[Champion's Challenge]] [[distraction and diversion]]. Like the other champions, they may be fought beneath the [[Champions' Guild]], but only after a player finds a [[Skeleton Champion's scroll]] which is dropped by a wide variety of skeletal creatures. After being the defeated the first time, they may be fought again weekly for additional Slayer and Constitution experience.
+
+Like the other champions, there is a special restriction during the fight with them: players can only use [[ranged]] attacks against them, as [[melee]], [[magic]], and [[necromancy]] are prohibited. The skeleton champion fires ranged attacks from their bow and, like most undead, is weak to the [[salve amulet]].
+[[File:Skeleton champion fight.png|right|250px]]
+
+==Rewards==
+[[File:Skeleton Champion reward.png|400px]]
+* {{Skill XP|Slayer|648}}
+* {{Skill XP|Constitution|648}}
+* A new banner hung under the [[Champions' Guild]] to celebrate the victory
+
+==Works==
+{{Worksby}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[12 December]] [[2005]]|update=Champions, Wyverns and Granite|img=Skeleton Champion (2005).png|name=Skeleton Champion}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton Champion (2007).png|name=Skeleton Champion}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Skeleton Champion (2008).png|name=Skeleton Champion}}
+|{{GUL|date=[[2 March]] [[2015]]|update=Patch Notes (2 March 2015)|img=Skeleton Champion.png|name=Skeleton Champion}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=ninja|update=Patch Notes (2 March 2015)|date=2 March 2015}}
+** A large number of skeletons across Gielinor have been graphically updated.
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** [[Zombie]]s, [[skeleton]]s, and [[ghost]]s have been graphically updated.
+
+* {{UL|type=update|update=Champions, Wyverns and Granite|date=12 December 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The Skeleton Champion is equipped with [[Tetsu equipment]]—a [[Tetsu body]], [[Tetsu legs]], and a unique [[Tetsu helm]]—along with a [[barbed bow]]. Prior to the graphical update of skeletons, they had similar armour, but a unique model well before Tetsu armour was designed.
+* Like many other champions in the [[Champions' Guild]], the Skeleton Champion is not the strongest individual of their kind.
+* Although they are weak to crush attacks, they cannot be attacked with melee.
+
+{{Champion's Challenge}}
+{{Skeletons}}
+[[Category:Unique monsters]]

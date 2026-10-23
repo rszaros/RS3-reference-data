@@ -1,0 +1,343 @@
+{{External|rsc|os|dw|wp}}
+{{Otheruses|the cows that players can attack|other uses|Cow (disambiguation)}}
+{{Otheruses|def=no|the elite version|Super Cow}}
+{{Infobox Monster
+|version1 = Standard (1)
+|version2 = Standard (2)
+|version3 = Standard (3)
+|version4 = Zanaris
+|name = Cow
+|image1 = [[File:Cow.png]]
+|image2 = [[File:Cow (2).png]]
+|image3 = File:Cow (Astram Farm, 3).png
+|image4 = [[File:Cow (Zanaris).png]]
+|release1 = [[4 January]] [[2001]]
+|release2 = [[29 March]] [[2004]]
+|release3 = [[22 February]] [[2005]]
+|release4 = [[27 February]] [[2006]]
+|update1 = Runescape beta is now online!
+|update2 = RS2 Launched!
+|update3 = Wilderness Capes, and Changes
+|update4 = A Fairy Tale Part I - Growing Pains
+|members1 = No
+|members2 = No
+|members3 = No
+|members4 = Yes
+|actions1 = Attack
+|actions2 = Attack
+|actions3 = Attack
+|actions4 = Talk to, Attack
+|examine1 = Converts grass to beef.
+|examine2 = You're sure you've seen herbivore.
+|examine3 = Where beef comes from.
+|examine4 = Converts grass to beef.
+|level = 2
+|lifepoints = 1000
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 19.4
+|slayxp2 = 19.4
+|slayxp3 = 19.4
+|slayxp4 = 19.4
+|slayercat = Cows
+|assigned_by = Turael, Spria, jacquelyn
+|max_melee = 20
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 2
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 20
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 81, 14997
+|id2 = 14998
+|id3 = 14999
+|id4 = 3309
+|leagueRegion=Asgarnia, Misthalin, Havenhythe, Kandarin
+}}
+[[File:Cow chathead.png|left|80px]]
+'''Cows''' are a bovine [[monster]] that is often killed for their hide, and new players may find useful to train on. They are one of the first monsters new players can encounter around [[Burthorpe]]. Along with cows, players can also find [[Cow calf|cow calves]] and non-attackable [[dairy cow]]s.
+
+When a cow dies, it drops [[raw beef]] (which gives [[Cooking]] experience when cooked), a [[cowhide]] (which players can turn into leather items for [[Crafting]] experience) and [[bones]] (which players can bury for [[Prayer]] experience), and rarely anything else. Players can make {{formatnum:{{#expr: ({{GEP|Bones}}+{{GEP|Cowhide}}+{{GEP|Raw beef}})}}}} coins per cow, providing that they sell the raw beef, cowhide, and bones from a cow, so they would make {{formatnum:{{#expr: ({{GEP|Bones}}+{{GEP|Cowhide}}+{{GEP|Raw beef}})*9}}}} coins per inventory from all drops.
+
+[[Zanaris]], the moon of Gielinor, is the only place with talking cows. The cows of Zanaris seem to dislike the sheep as well as other players, and are apparently unaware of their ability to talk. There is also a [[windmill]] that is powered by a cow in lieu of the wind, which technically makes it a "cowmill". Also, when walking around or being attacked, the cow will often say "Moo" as if it had been typed by a player. A cow is also one of the possible NPCs players can talk to using the [[NPC Contact]] spell.
+
+When killing cows, a [[super Cow|elite]] version may spawn (guaranteed while on a Slayer assignment), which can be further increased with the use of [[fellstalk incense sticks]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Astram Farm]]
+|lvls=2
+|mem=no
+|mapID=28
+|npcid:14997,x:2882,y:3490|npcid:14997,x:2883,y:3482|npcid:14999,x:2885,y:3486
+|npcid:14998,x:2885,y:3491|npcid:14998,x:2886,y:3483|npcid:14999,x:2887,y:3489
+|npcid:14997,x:2888,y:3486
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Crafting Guild]]
+|lvls=2
+|mem=no
+|mapID=28
+|npcid:81,x:2945,y:3270|npcid:81,x:2946,y:3272|npcid:14998,x:2946,y:3275
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Falador farm]]
+|lvls=2
+|mem=no
+|mapID=28
+|npcid:81,x:3027,y:3307|npcid:81,x:3029,y:3305|npcid:1767,x:3029,y:3312
+|npcid:397,x:3030,y:3300|npcid:81,x:3033,y:3305|npcid:81,x:3037,y:3306
+|npcid:397,x:3040,y:3311
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Lumbridge]]
+|lvls=2
+|mem=no
+|mapID=28
+|npcid:12365,x:3254,y:3255|npcid:12363,x:3254,y:3258|npcid:12362,x:3254,y:3262
+|npcid:12362,x:3258,y:3260|npcid:12363,x:3261,y:3259|npcid:12365,x:3243,y:3295
+|npcid:12363,x:3244,y:3289|npcid:12362,x:3247,y:3284|npcid:12362,x:3252,y:3288
+|npcid:12363,x:3255,y:3278|npcid:12365,x:3256,y:3292|npcid:12362,x:3258,y:3265
+|npcid:12365,x:3261,y:3270|npcid:12362,x:3261,y:3282|npcid:12363,x:3261,y:3292
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Marigold Farm]]
+|lvls=2
+|mem=no
+|npcid:81,x:4230,y:3296|npcid:81,x:4235,y:3294|npcid:81,x:4233,y:3292
+|npcid:14998,x:4230,y:3290
+|requirements={{QuestIcon|Visions of Havenhythe}} (partial)
+|leagueRegion=Havenhythe
+}}
+{{LocLine
+|loc=[[Mill Lane Mill]]
+|lvls=2
+|mem=no
+|mapID=28
+|npcid:12362,x:3154,y:3325|npcid:12363,x:3160,y:3318|npcid:12365,x:3173,y:3323
+|npcid:12362,x:3197,y:3320|npcid:12365,x:3155,y:3337|npcid:12362,x:3156,y:3332
+|npcid:12363,x:3156,y:3343|npcid:12365,x:3167,y:3333|npcid:12362,x:3169,y:3339
+|npcid:12365,x:3180,y:3338|npcid:12363,x:3182,y:3331|npcid:12363,x:3197,y:3331
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Sinclair Mansion]]
+|lvls=2
+|mem=yes
+|mapID=28
+|npcid:81,x:2733,y:3561
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Yanille]]
+|lvls=2
+|mem=yes
+|mapID=28
+|npcid:81,x:2580,y:3117|npcid:81,x:2582,y:3122|npcid:81,x:2588,y:3119
+|npcid:81,x:2604,y:3114
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Zanaris]]
+|lvls=2
+|mem=yes
+|mapID=1
+|npcid:3309,x:2435,y:4442|npcid:3309,x:2439,y:4457|npcid:3309,x:2441,y:4448
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Cowhide|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw beef|quantity=1|rarity=Always}}
+{{DropsLine|name=Coins|quantity=3-15|rarity=Always|raritynotes={{DropNote|Only dropped by the cows on [[Astram Farm]] during the main [[Achievement Paths#Burthorpe|Burthorpe path]].}}}}
+{{DropsTableBottom}}
+
+===Tertiary===
+Beginner weapons (staff of air and chargebow) are not dropped by cows of [[Astram Farm]] in [[Burthorpe]].
+{{DropsTableHead}}
+{{BeginnerWeaponsDropLines}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=2|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|members=yes
+|quantity=1
+|gold=9.953/1000
+|green=39.813/1000
+|crimson=2.488/1000
+|blue=0.498/1000
+}}
+
+==Money making guide==
+{{Mmgsection|Killing cows}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Cow-powered windmill.png|thumb|right|A cow-powered [[mill]] at Zanaris.
+</gallery>
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+==Graphical updates==
+===NPCs===
+{{Switch infobox
+|text1 = Cow (Variant 1)
+|item1 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Cow (March 2004).png|name=Cow variant 1}}
+|{{GUL|date=[[6 December]] [[2004]]|update=Various Small Changes.|img=Cow (2004).png|name=Cow variant 1}}
+|{{GUL|date=[[22 February]] [[2005]]|update=Wilderness Capes, and Changes|img=Cow (2005).png|name=Cow variant 1}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Cows, Chickens, Rabbits and the Fishing Trawler|img=Cow (1) (2007).png|name=Cow variant 1}}
+|{{GUL|date=|update=|img=Cow (2007).png|name=Cow variant 1}}
+|{{GUL|date=[[26 November]] [[2013]]|update=Coinshare, World Map and Tutorial|img=Cow (2013).png|name=Cow variant 1}}
+|{{GUL|date=[[22 April]] [[2014]]|update=Patch Notes (22 April 2014)|img=Cow (2014).png|name=Cow variant 1}}
+|{{GUL|date=[[2 September]] [[2019]]|update=September Mobile Update|img=Cow.png|name=Cow variant 1}}
+}}
+
+|text2 = Cow (Variant 2)
+|item2 = 
+{{GU|subject=NPCs
+|{{GUL|date=1-6 April [[2004]]|update=|img=Cow (2) (April 2004).png|name=Cow variant 2}}
+|{{GUL|date=[[6 December]] [[2004]]|update=Various Small Changes.|img=Cow (2, 2004).png|name=Cow variant 2}}
+|{{GUL|date=[[22 February]] [[2005]]|update=Wilderness Capes, and Changes|img=Cow (2, 2005).png|name=Cow variant 2}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Cows, Chickens, Rabbits and the Fishing Trawler|img=Cow (2) (2007).png|name=Cow variant 2}}
+|{{GUL|date=|update=|img=Cow (2, 2007).png|name=Cow variant 2}}
+|{{GUL|date=[[26 November]] [[2013]]|update=Coinshare, World Map and Tutorial|img=Cow (2, 2013).png|name=Cow variant 2}}
+|{{GUL|date=[[22 April]] [[2014]]|update=Patch Notes (22 April 2014)|img=Cow (2, 2014).png|name=Cow variant 2}}
+|{{GUL|date=[[2 September]] [[2019]]|update=September Mobile Update|img=Cow (2).png|name=Cow variant 2}}
+}}
+
+|text3 = Cow (Variant 3)
+|item3 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[22 February]] [[2005]]|update=Wilderness Capes, and Changes|img=Cow (3, 2005).png|name=Cow variant 3}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Cows, Chickens, Rabbits and the Fishing Trawler|img=Cow (3) (2007).png|name=Cow variant 3}}
+|{{GUL|date=|update=|img=Cow (3, 2007).png|name=Cow variant 3}}
+|{{GUL|date=[[26 November]] [[2013]]|update=Coinshare, World Map and Tutorial|img=Cow (3, 2013).png|name=Cow variant 3}}
+|{{GUL|date=[[22 April]] [[2014]]|update=Patch Notes (22 April 2014)|img=Cow (3, 2014).png|name=Cow variant 3}}
+|{{GUL|date=[[2 September]] [[2019]]|update=September Mobile Update|img=Cow.png|name=Cow variant 3}}
+}}
+
+|text4 = Zanaris Cow
+|item4 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[27 February]] [[2006]]|update=A Fairy Tale Part I - Growing Pains|img=Cow (Zanaris, 2006).png|name=Zanaris cow}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Cows, Chickens, Rabbits and the Fishing Trawler|img=Cow (Zanaris) (2007).png|name=Zanaris cow}}
+|{{GUL|date=|update=|img=Cow (Zanaris, 2007).png|name=Zanaris cow}}
+|{{GUL|date=[[26 November]] [[2013]]|update=Coinshare, World Map and Tutorial|img=Cow (Zanaris, 2013).png|name=Zanaris cow}}
+|{{GUL|date=[[22 April]] [[2014]]|update=Patch Notes (22 April 2014)|img=Cow (Zanaris).png|name=Zanaris cow}}
+}}
+}}
+
+===Chatheads===
+{{GU|subject=chatheads
+|{{GUL|date=[[27 February]] [[2006]]|update=A Fairy Tale Part I - Growing Pains|img=Cow (2006) chathead.png|name=Cow's chathead}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Cows, Chickens, Rabbits and the Fishing Trawler|img=Cow chathead (2007).png|name=Cow's chathead}}
+|{{GUL|date=|update=|img=Cow (2007) chathead.png|name=Cow's chathead}}
+|{{GUL|date=[[22 April]] [[2014]]|update=Patch Notes (22 April 2014)|img=Cow chathead.png|name=Cow's chathead}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Welcome to Havenhythe|date=23 March 2026}}
+** Variants 1 and 2 added to [[Marigold Farm]].
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** Maximum hit reduced to 20 (from 40)
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update = New Skill: Necromancy - This Week In RuneScape}}
+** Cows have had their combat stats and experience adjusted.
+
+* {{UL|type=patch|update=Patch Notes (16 September 2019)|date=16 September 2019}}
+** We've slightly increased the death animation of cows so that they now fade out once dying.
+
+* {{UL|type=update|update=September Mobile Update|date=2 September 2019}}
+** Cows have been graphically updated.
+
+* {{UL|type=hidden|update=September Mobile Update|date=2 September 2019}}
+** Cows in Lumbridge no longer drop chargebows and staves of air.
+
+* {{UL|type=hidden|update=September Mobile Update|date=2 September 2019}}
+** Cows with the examine text of "Beefy." have had it changed to "You're sure you've seen herbivore."
+
+* {{UL|type=patch|update=Patch Notes (6 May 2014)|date=6 May 2014}}
+** The cow in the Ashdale cow wheel had a coloured polygon on its rear end fixed.
+
+* {{UL|type=patch|update=Patch Notes (22 April 2014)|date=22 April 2014}}
+** The cow models around the game have been updated to be of the same standard as the cows seen in the Ashdale tutorial.
+
+* {{UL|type=patch|update=Patch Notes (16 April 2013)|date=16 April 2013}}
+** Cows are no longer a lower level than their calves.
+
+* {{UL|type=patch|update=Patch Notes (25 May 2011)|date=25 May 2011}}
+** Cows no longer lean bizarrely when on a slope.
+
+* {{UL|type=patch|update=Patch Notes (11 January 2010)|date=11 January 2010}}
+** Cows have been given lessons so they can moo properly.
+
+* {{UL|type=patch|update=Patch_Notes_(20 October 2009)|date=20 October 2009}}
+** Unicorns and cows tilted excessively on slopes.
+
+* {{UL|type=patch|update=Patch Notes (7 October 2009)#Graphical|date=7 October 2009}}
+** Cows and calves have a death animation once more.
+
+*{{UL|type=patch|update=Patch Notes (10 August 2009)|date=10 August 2009}}
+** Combat sounds updated for broodoo victims and cows.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* When the cow says "Moo", the sound of a moo can usually be heard from the speakers.
+*If you attempt to talk to a cow in [[Zanaris]], it will prompt the message: "''Hmm, interesting, there appears to be a human trying to talk to me. Is it aware that cows can't talk I wonder? Maybe if I just ignore it, it might go away.''"
+* If you use an item on a cow or calf a message will appear saying "The cow doesn't want that."
+* There is a signpost outside of the Lumbridge cow pen that says the number of cows killed in the world the player is in.
+* On [[28 August]] [[2018]], cows outside of Zanaris were temporarily replaced with [[Strawberry cow (player-owned farm teaser)|strawberry]], [[Vanilla cow (player-owned farm teaser)|vanilla]] and [[Chocolate cow (player-owned farm teaser)|chocolate cow]]s as a teaser for the upcoming [[Player-owned farm]] update. The standard cows returned to their spots when the player-owned farm was released on [[3 September]] [[2018]].
+* Some cows previously had the examine text of "Beefy."
+* Since the release of the [[Master slayer cape]], it has been bugged in that you are unable to use this to force a cow slayer task on a member world. Instead, you must go to a F2P world to force pick a cow task.
+
+{{Marigold Farm}}
+{{Zanaris}}
+[[Category:NPCs with multiple Examine options]]
+[[pt:Vaca]]

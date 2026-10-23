@@ -1,0 +1,131 @@
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|name = Skeleton
+|image1 = [[File:Skeleton (Dark Warriors' Fortress).png|180px]]
+|image2 = [[File:Skeleton (Dark Warriors' Fortress) (armoured).png|180px]]
+|release = [[15 May]] [[2023]]
+|update = MHAW & Double XP - This Week In RuneScape
+|members = No
+|options = Attack, Examine
+|examine1 = Ex-dark warrior.
+|examine2 = Armoured to the bones.
+|leagueRegion = Wilderness
+|level = 32
+|lifepoints = 1150
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 13.0
+|slayercat = Skeletons
+|assigned_by = Turael, Mazchna, Vannaka
+|max_melee = 220
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 23
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 354
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 354
+|defence = 23
+|weakness = Earth
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 30066
+|id2 = 30067
+}}
+These '''skeletons''' can be found in [[Dark Warriors' Fortress]]. As explained during [[Unwelcome Guests]], they were previously [[dark warrior]]s who died during the [[Zamorakian Civil War]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+====Weapons and armour====
+{{DropsTableHead}}
+{{DropsLine|name=Iron med helm|quantity=1|rarity=6/128}}
+{{DropsLine|name=Iron sword|quantity=1|rarity=4/256}}
+{{DropsLine|name=Iron off hand sword|quantity=1|rarity=4/256}}
+{{DropsLine|name=Iron scimitar|quantity=1|rarity=1/256}}
+{{DropsLine|name=Iron off hand scimitar|quantity=1|rarity=1/256}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=15|rarity=3/128}}
+{{DropsLine|name=Water rune|quantity=9|rarity=3/128}}
+{{DropsLine|name=Chaos rune|quantity=5|rarity=3/128}}
+{{DropsLine|name=Iron arrow|quantity=12|rarity=2/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=2/128}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|20/128}}
+{{DropsTableHead}}
+{{HerbDropTable|20/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=5|rarity=25/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=10|rarity=24/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=25|rarity=8/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=45|rarity=4/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=65|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=1|rarity=2/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=8/128}}
+{{DropsLine|name=Bronze bar|quantity=1|rarity=5/128}}
+{{DropsLine|name=Iron hatchet|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=MHAW & Double XP - This Week In RuneScape|date=15 May 2023}}
+** Added to game.
+*** The few remaining Dark Warriors that stayed at their fortress have died.
+}}
+
+{{Skeletons}}

@@ -1,0 +1,72 @@
+{{External|os=Ghost#Level 29}}
+{{Infobox Monster
+|name = Ghost
+|image = [[File:Haze.png|x280px]]
+|release = [[21 December]] [[2004]]
+|update = The Haunted Mine
+|members = Yes
+|options = Attack, Examine
+|race = Ghosts
+|examine =
+|level = 42
+|lifepoints =
+|experience =
+|aggressive =
+|poisonous =
+|slaylvl = 1
+|slayxp =
+|slayercat = Ghosts, Undead
+|max_melee = 120
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack =
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 454
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 454
+|defence =
+|weakness = Water
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|leagueRegion = Morytania
+|id = 1549
+}}
+A '''ghost''' is an undead monster that is found on level 2 of the [[Abandoned Mine]]. After the players touching the [[haze]], it become a ghost.
+
+As they are undead, the [[salve amulet]] effects work well on them. While ghosts are not very effective combat training, they are a slayer task assigned by [[Jacquelyn]] and [[Vannaka]] and  have a chance of dropping [[ghost hunter equipment]] and the [[ectoplasmator]].
+
+==Drops==
+{{Incomplete}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=The Haunted Mine|date=21 December 2004}}
+** Added to game.
+}}
+
+{{Haunted Mine}}
+{{Ghost}}

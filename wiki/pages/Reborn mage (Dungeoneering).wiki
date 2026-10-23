@@ -1,0 +1,166 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 40
+|version2 = 45
+|version3 = 51
+|version4 = 59
+|version5 = 64
+|version6 = 71
+|version7 = 77
+|version8 = 82
+|version9 = 90
+|version10 = 95
+|version11 = 101
+|name = Reborn mage
+|image = [[File:Lesser reborn mage.png|200px]]
+|release = [[2 November]] [[2010]]
+|update = Dungeoneering – The Warped Floors
+|members = Yes
+|options = Attack, Mark, Examine
+|examine = A mage who died and was reborn thanks to the strange power.
+|level1 = 40
+|level2 = 45
+|level3 = 51
+|level4 = 59
+|level5 = 64
+|level6 = 71
+|level7 = 77
+|level8 = 82
+|level9 = 90
+|level10 = 95
+|level11 = 101
+|lifepoints1 = 3900
+|lifepoints2 = 4500
+|lifepoints3 = 5100
+|lifepoints4 = 5700
+|lifepoints5 = 6300
+|lifepoints6 = 6900
+|lifepoints7 = 7500
+|lifepoints8 = 8100
+|lifepoints9 = 8700
+|lifepoints10 = 9300
+|lifepoints11 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Zombies, Creatures of Daemonheim
+|max_melee = 0
+|max_ranged = 0
+|max_magic1 = 200
+|max_magic2 = 250
+|max_magic3 = 300
+|max_magic4 = 350
+|max_magic5 = 400
+|max_magic6 = 450
+|max_magic7 = 500
+|max_magic8 = 550
+|max_magic9 = 600
+|max_magic10 = 650
+|max_magic11 = 700
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic1 = 39
+|magic2 = 45
+|magic3 = 51
+|magic4 = 57
+|magic5 = 63
+|magic6 = 69
+|magic7 = 75
+|magic8 = 81
+|magic9 = 87
+|magic10 = 93
+|magic11 = 99
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic1 = 609
+|acc_magic2 = 732
+|acc_magic3 = 875
+|acc_magic4 = 1040
+|acc_magic5 = 1230
+|acc_magic6 = 1447
+|acc_magic7 = 1694
+|acc_magic8 = 1973
+|acc_magic9 = 2287
+|acc_magic10 = 2639
+|acc_magic11 = 3031
+|acc_necromancy = 0
+|armour1 = 609
+|armour2 = 732
+|armour3 = 875
+|armour4 = 850
+|armour5 = 850
+|armour6 = 983
+|armour7 = 1132
+|armour8 = 1299
+|armour9 = 1486
+|armour10 = 1694
+|armour11 = 1924
+|defence1 = 20
+|defence2 = 22
+|defence3 = 25
+|defence4 = 
+|defence5 = 
+|defence6 = 
+|defence7 = 
+|defence8 = 40
+|defence9 = 45
+|defence10 = 
+|defence11 = 50
+|weakness = Thrown
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 12903
+|id2 = 12904
+|id3 = 12905
+|id4 = 12906
+|id5 = 12907
+|id6 = 12908
+|id7 = 12909
+|id8 = 12910
+|id9 = 12911
+|id10 = 12912
+|id11 = 12913
+|leagueRegion = Wilderness
+}}
+The '''Reborn mage''' is a monster that may be fought in the [[warped floors]] of [[Daemonheim]] while [[Dungeoneering]]. A similar monster, the [[Lesser reborn mage]], can be found in [[Phoenix Lair]]. They attack with [[magic]] that looks similar to the [[Iban Blast]], as well as stat-reducing [[curse spells|curses]]. They are moderately resistant to [[melee]] and magic, but are weak to [[ranged]], with [[thrown weapons]] being their biggest weakness. They hit fairly strong and accurately. Like [[Necromancer (Daemonheim)|necromancers]], they have the ability to summon other monsters; in this case, [[Reborn warrior (Daemonheim)|Reborn warriors]]. They are also capable of removing the cloaking effects of the [[Shadow silk hood]], an ability shared only with [[forgotten mage]]s, [[Seeker (Dungeoneering)|seekers]] and the [[Mercenary leader (Dungeoneering)|mercenary leader]].
+
+Once the mage is defeated, the warriors will linger around and fight unless you run away from them. Be warned though, that much like the ones in the Phoenix Lair, the mage and the warriors it summons will also follow you, even outside of the room they were summoned in. In addition, should they follow you into a guardian door room, they will still need to be slain for the door to open. As a result, they must all be killed as quickly as possible.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Ashes (Dungeoneering)|quantity=1|rarity=Always|gemw=no}} 
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (16 January 2012)|date=16 January 2012}}
+** The reborn mage in [[Dungeoneering]] no longer stretches when attacking.
+
+* {{UL|type=update|update=Dungeoneering – The Warped Floors|date=2 November 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}

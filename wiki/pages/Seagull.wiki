@@ -1,0 +1,153 @@
+{{External|os|wp}}
+{{otheruses|the monster}}
+{{confuse|Gull}}
+{{Infobox Monster
+|version1=Sarim, 5 feathers
+|version2=Sarim, 10 feathers
+|version3=Icyene graveyard
+|name = Seagull
+|image = [[File:Seagull.png|Seagull|220px]]
+|release = [[26 September]] [[2005]]
+|update = New graphics for Port Sarim, Rimmington and Thurgo's Peninsula
+|members = No
+|actions = Attack
+|examine1 = A messy bird.
+|examine2 = Smells of rotten fish.
+|examine3 = A messy bird.
+|level = 1
+|lifepoints = 250
+|experience = 12.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6.4
+|slayercat = Birds
+|assigned_by = Turael, Jacquelyn
+|max_melee = 20
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 10
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia,Morytania
+|id1 = 6115
+|id2 = 6116
+|id3 = 21768
+|dropversion1=5 feathers,Drops wing,Sarim 5 feathers
+|dropversion2=10 feathers,Drops wing
+|dropversion3=5 feathers
+}}
+'''Seagulls''' are small birds commonly found on [[Port Sarim]]. Their low max hit and [[life points]] make them a prime target for beginners.
+
+Seagulls are also a good way to start training prayer or money making, as their drop of bones can easily be deposited at the [[Entrana]] Monk's deposit box to be sold or buried later.
+
+The seagulls are a fairly unusual race and play major roles in the [[pirate quest series]]. In order to communicate with the seagulls, a moderately high [[Summoning]] level is required to understand what they are saying. The primary seagulls encountered in the quest have titles of nobility (e.g [[Count Ludwig Koppenploppen]] and [[Baron von Hattenkrapper]]). Seagulls also have standards of their own similar to humans.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Port Sarim]], drops 5 feathers
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:6115,x:3027,y:3204|npcid:6115,x:3028,y:3202|npcid:6115,x:3028,y:3232
+|npcid:6115,x:3028,y:3235|npcid:6115,x:3030,y:3236|npcid:6115,x:3031,y:3203
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Port Sarim]], drops 10 feathers
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:6116,x:3029,y:3203|npcid:6116,x:3029,y:3236|npcid:6116,x:3049,y:3202
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Icyene graveyard]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:21768,x:3675,y:3167
+|leagueRegion = Morytania}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+All seagulls drop bones and feathers. Some seagulls in Port Sarim (those with the examine "Smells like rotten fish.") drop 10 feathers, the others ("A messy bird.") drop 5. Both types in Port Sarim can drop the [[seagull wing]] for the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]]; only the 5-feather-dropping Port Sarim seagulls can drop the [[cornucopia]]. The [[Icyene graveyard]] seagull does not drop the seagull wing or cornucopia.
+
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Feather|quantity=5|rarity=Always|version=5 feathers}}
+{{DropsLine|name=Feather|quantity=10|rarity=Always|version=10 feathers}}
+{{DropsTableBottom}}
+
+===Main drop===
+{{DropsTableHead}}
+{{DropsLine|name=Cornucopia|quantity=1|rarity=Very rare|gemw=no|version=Sarim 5 feathers}}
+{{DropsTableBottom}} 
+
+===Tertiary drop===
+{{DropsTableHead}}
+{{DropsLine|name=Seagull wing|quantity=1|rarity=1/4|gemw=No|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|version=Drops wing}}
+{{DropsTableBottom}}
+
+==Achievement==
+* {{Achievement|Guardian of the Realm}} 
+** [[Cornucopia]] drop
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[26 September]] [[2005]]|update=New graphics for Port Sarim, Rimmington and Thurgo's Peninsula|img=Seagull (2006).png|name=Seagull}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Seagull.png|name=Seagull}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Mining & Smithing 110 Launching Today! - This Week In RuneScape|date=12 August 2024}}
+** Seagulls at Daemonheim no longer sound like crows. Cor!
+
+* {{UL|type=patch|update=Patch Notes (14 October 2019)|date=14 October 2019}}
+** Seagulls now have the correct sound.
+
+* {{UL|type=ninja|update=Patch Notes (23 October 2017)|date=23 October 2017}}
+** Seagulls on the [[Port Sarim]] docks now drop feathers.
+*** Previously, only the seagull in the [[Icyene graveyard]] in [[Morytania]] dropped feathers.
+
+* {{UL|type=patch|update=Patch Notes (3 November 2014)|date=1 November 2014}}
+** Seagulls no longer fly through the ground next to Taverley Bank.
+
+* {{UL|type=update|update=New graphics for Port Sarim, Rimmington and Thurgo's Peninsula|date=26 September 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* On [[1 April]] [[2009]], Mod Emilee said: "Seagulls have now been added to the [[Hunter]] skill and can be found along some coastlines. You'll need to wave your butterfly net in a gullible fashion to catch these birds". This was part of the [[2009 April Fools]] day pranks. A week later, Jagex claimed to have removed them from the Hunter skill.
+
+[[Category:Seagulls]]
+[[pt:Gaivota]]

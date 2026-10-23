@@ -1,0 +1,108 @@
+{{Infobox Monster
+|name = Red dragon
+|image = [[File:Red_dragon_(Dragonkin_Laboratory).png]]
+|release = [[13 August]] [[2018]]
+|update = Elite Dungeons - Dragonkin Laboratory
+|members = Yes
+|options = Attack, Mark, Examine
+|size = 4
+|examine = A big powerful dragon.
+|level = 105
+|lifepoints = 29000
+|experience = 1450.0
+|aggressive = yes
+|poisonous = no
+|slaylvl = 1
+|slayxp = 1227
+|slayercat = Dragons, red dragons
+|max_melee = 1080
+|max_ranged = 1080
+|max_magic = 1080
+|max_necromancy = 0
+|max_spec = 3000
+|style = melee, magic, dragonfire
+|primarystyle = magic
+|speed = 4
+|attack = 75
+|ranged = 75
+|magic = 75
+|necromancy = 1
+|acc_melee = 1694
+|acc_ranged = 1694
+|acc_magic = 1694
+|acc_necromancy = 0
+|armour = 1694
+|defence = 75
+|weakness = arrow
+|susceptibility = dragon bane, dragon slayer
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = no
+|immune_to_deflect = no
+|immune_to_stun = no
+|immune_to_drain = no
+|dropversion = Normal mode,Story mode
+|leagueRegion = Wilderness
+|id = 25671,25672,25673,25674,25675
+}}
+'''Red dragons''' are an enemy encountered in the [[Dragonkin Laboratory]]. Like most [[dragons]], they are susceptible to the [[Dragon Slayer (perk)|Dragon Slayer perk]] and [[dragonbane]] ammunition. A method of protection from [[dragonfire]] is highly recommended against them.
+
+In Story mode its health is reduced by 50% and its damage output is reduced by 90%.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+In story mode, only dragon bones and red dragonhide are dropped.
+
+{{Average drop value|mob=Red dragon (Dragonkin Laboratory)#Normal mode}}
+
+===100%===
+{{DropsTableHead|version=Normal mode,Story mode}}
+{{DropsLine|name=Dragon bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Red dragonhide|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Alchables===
+{{Dragonkin Laboratory alchables drop table|500/1000|version=Normal mode}}
+
+===Currency===
+{{Dragonkin Laboratory currency drop table|350/1000|330/1000|version=Normal mode}}
+
+===Supplies===
+{{Dragonkin Laboratory supplies drop table|150/1000|version=Normal mode}}
+
+===Lucky charm===
+{{Lucky charm (Dragonkin Laboratory) drops|20/1000|version=Normal mode}}
+
+===Rare drop table===
+{{Rare drop table|1/150|version=Normal mode}}
+
+===Tertiary===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=105}}
+{{DropsLineMimic|level=105}}
+{{DropsTableBottom}}
+
+====Charms====
+{{EliteDungeonCharmDropTable|version=Normal mode}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Elite Dungeons - Dragonkin Laboratory|date=13 August 2018}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Dragonkin Laboratory}}
+{{Dragon (race)}}

@@ -1,0 +1,236 @@
+{{External|os}}
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{Needs image|the three other variants}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|name = Skeletal Wyvern
+|image1 = Skeletal Wyvern.png
+|image2 = Skeletal Wyvern (2).png
+|image3 = Skeletal Wyvern (3).png
+|image4 = Skeletal Wyvern (4).png
+|release = [[12 December]] [[2005]]
+|update = Champions, Wyverns and Granite
+|members = Yes
+|options = Attack
+|examine = A very dangerous pile of animated wyvern bones.
+|level = 109
+|lifepoints = 12500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 72
+|slayxp = 510.8
+|slayercat = Skeletal wyverns, Undead, Skeletons
+|max_melee = 1100
+|max_ranged = 1100
+|max_magic = 1100
+|max_necromancy = 0
+|max_spec = 2000
+|style = melee, ranged, magic
+|primarystyle = melee
+|speed = 4
+|attack = 78
+|ranged = 78
+|magic = 78
+|necromancy = 1
+|acc_melee = 1829
+|acc_ranged = 1829
+|acc_magic = 1829
+|acc_necromancy = 0
+|armour = 1608
+|defence = 78
+|weakness = Fire
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia
+|id1 = 3068
+|id2 = 3071
+|id3 = 3071
+|id4 = 3071
+}}
+[[File:Skeletal Wyvern icon.png|left]]
+'''Skeletal Wyverns''' (''Draconis ossis'') are undead [[Slayer monsters]] that require level 72 [[Slayer]] to kill. They are the only monster to drop [[granite legs]], and also have a chance of dropping the [[draconic visage]]. They can be found in the [[Asgarnian Ice Dungeon]], in the chamber accessed from the southern wall of the icy area. Their [[Wyvern|living counterparts]] reside deeper in the same cave and in the [[Wilderness]].
+
+Their [[Wyvern bones|bones]] are highly valued for the production of [[super prayer]] potions, and subsequently, [[extreme prayer]] potions. They are also a good source of [[crimson charm]]s, although there are many easier alternatives if one is not on a Slayer assignment. 
+
+Skeletal wyverns may be specifically assigned as a slayer task, but can optionally be killed for tasks of [[Skeletons (Slayer assignment)|Skeletons]] and [[Undead (Slayer assignment)|Undead]]. As the name implies, they cannot be killed for living wyvern tasks or vice versa. 
+
+Killing a Skeletal Wyvern is required for one of the [[Hard Falador achievements]] titled [[Why Oh Wyvern]]. Their [[Skeletal wyvern tail-bone|tail bone]] is also required for the [[Odd Old Man]]'s [[Fur 'n Seek/Wish list|wish list]] after [[Fur 'n Seek]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Asgarnian Ice Dungeon]]
+|lvls=109
+|mem=yes
+|mapID=25
+|npcid:3068,x:3025,y:9543|npcid:3069,x:3025,y:9553|npcid:3070,x:3033,y:9554
+|npcid:3071,x:3039,y:9541|npcid:3070,x:3045,y:9553|npcid:3069,x:3057,y:9539
+|npcid:3068,x:3062,y:9554|npcid:3071,x:3066,y:9545
+|leagueRegion=Asgarnia
+}}
+{{LocTableBottom}}
+
+==Strategy==
+Skeletal Wyverns are fairly strong creatures compared to most other slayer monsters their level. They attack with melee, ranged and a particularly dangerous icy breath attack which deals high typeless damage and freezes players without proper protection. 
+
+An [[Elemental shield|elemental]], [[Mind shield|mind]], [[Body shield|body]], [[Cosmic shield|cosmic]] or [[chaos shield]] will absorb most of the damage of the icy breath, and most forms of [[dragonfire protection]] will work as well, including the [[anti-dragon shield]] and [[Deflect Magic]] curse. However, [[antifire]], [[super antifire]], and [[brightfire potion]]s do not provide any protection against the icy breath attack; only [[wyrmfire potion]]s and [[overload salve]]s (or the [[Supreme overload salve|supreme]]/[[Elder overload salve|elder versions]]) grant full protection.
+
+When attacking from a distance, Skeletal Wyverns will use both their ranged attack and their icy breath attack. If in melee distance, they will use as melee attack as well. For this reason, it is better for players with lower combat levels to use [[Protect from Missiles]]/[[Deflect Missiles]] and attack from a distance to minimise the damage taken. 
+
+Although they share many traits with [[Dragon (race)|dragons]], Skeletal Wyverns are not dragons, and therefore are not susceptible to [[Dragon slayer (effect)|dragon slayer bonuses]]. However, they are susceptible to [[Undead slayer (effect)|undead slayer bonuses]], specifically the [[salve amulet]] (or its [[Salve amulet (e)|enchanted version]]), the [[Undead Slayer|Undead Slayer perk]] and the [[Undead Slayer (ability)|Undead Slayer ability]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Wyvern bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Granite legs|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|Drop rate is increased to 1/496 with at least tier 2 [[luck]]}}}}
+{{DropsLine|name=Draconic visage|quantity=1|rarity=1/10000|altrarity=1/9700|raritynotes={{DropNote|Drop rate is increased to 1/9700 with at least tier 2 luck}}|citations={{CiteForum|author=Mod Timbo|url=https://secure.runescape.com/m=forum/sl=0/forums?74,75,52,65949497,goto,21#205|title=Dev Blog: Revealing Drop Rates|forum=Existing Game Content|quote=All draconic visage chances are 1/10,000 except for Celestial, Adamant, Rune Dragons, Abomination boss, Arhat and Anagami.|postdate=17 November 2017|archiveurl=https://reldo.runescape.wiki/i/19727921|archivedate=16 April 2022}}}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Soul rune|quantity=5-10|rarity=7/128}}
+{{DropsLine|name=Air rune|quantity=10-64|rarity=6/128}}
+{{DropsLine|name=Water rune|quantity=10-34|rarity=5/128}}
+{{DropsLine|name=Rune bolts|quantity=5-22|rarity=5/128}}
+{{DropsLine|name=Adamant bolts|quantity=5-29|rarity=5/128}}
+{{DropsLine|name=Mithril bolts|quantity=8-35|rarity=5/128}}
+{{DropsLine|name=Blood rune|quantity=2-11|rarity=4/128}}
+{{DropsLine|name=Bone bolts|quantity=2-29|rarity=4/128}}
+{{DropsLine|name=Law rune|quantity=2-5|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny spiky mithril salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Tiny bladed adamant salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gems===
+{{DropsTableHead}}
+{{DropsLine|name=Uncut emerald|quantity=1|rarity=2/128}}
+{{DropsLine|name=Uncut ruby|quantity=1|rarity=2/128}}
+{{DropsLine|name=Uncut diamond|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|override=There is a 3/128 chance of rolling the [[Seed drop table|rare seed drop table]]. There is an additional 3/128 chance of rolling 2 fellstalk seeds.}}
+{{DropsTableHead}}
+{{DropsLine|name=Fellstalk seed|quantity=2|rarity=3/128}}
+{{RareSeedDropTable|3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|17/128}}
+{{DropsTableHead}}
+{{HerbDropTable|17/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=50-349|rarity=15/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=30-229|rarity=10/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=20-519|rarity=6/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=250-499|rarity=3/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}|gemw=no}}
+{{DropsLine|name=Pure essence|quantity=60 (noted)|rarity=5/128}}
+{{DropsLine|name=Super attack (1)|quantity=1|rarity=5/128}}
+{{DropsLine|name=Lobster|quantity=3|rarity=2/128}}
+{{DropsLine|name=Snakeskin chaps|quantity=1|rarity=2/128}}
+{{DropsLine|name=Earth battlestaff|quantity=1|rarity=1/128}}
+{{DropsLine|name=Adamant crossbow (unstrung)|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|slayer_level=72}}
+{{DropsLine|name=Skeletal wyvern tail-bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=no}}
+{{DropsLineEffigy|level=109}}
+{{DropsLineMimic|level=109}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 2
+|gold = 68.25/1000
+|green = 34.125/1000
+|crimson = 546/1000
+|blue = 13.65/1000
+}}
+
+==Money making guide==
+{{Mmgsection|Killing skeletal wyverns}}
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}} 
+** [[Granite legs]] drop
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Skeletal Wyvern old.png|name=Skeletal Wyvern}}
+|{{GUL|date=|update=|img=Skeletal Wyvern.png|name=Skeletal Wyvern}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Skeletal creatures such as Skeletal Wyverns are now treated as Undead, and will work for Skeleton and Undead tasks.
+
+* {{UL|type=patch|update=QoL Mini Strike & Advent Calendar - This Week In RuneScape|date=28 November 2022}}
+** Two of the four Skeletal Wyvern variants (versions 3 and 4) were affected by dragon modifiers. These have been removed – Skeletal Wyvern aren't dragons!
+
+* {{UL|type=patch|update=Patch Notes (4 December 2012)|date=4 December 2012}}
+** [[Dragonfire deflector|Ranged]] and [[Dragonfire ward|magic]] dragonfire shields now protect against Skeletal Wyverns.
+
+* {{UL|type=patch|update=Patch Notes (15 December 2009)|date=15 December 2009}}
+** [[Deflect Curses|Deflect curses]] should now work correctly against Skeletal Wyverns.
+
+* {{UL|type=patch|update=Clan Wars Update|date=9 September 2008}}
+** One of the Skeletal Wyverns was appearing as level 158 rather than level 140, even though it was really no tougher than the other level 140 Wyverns. It's had its level adjusted to match the rest; this will not affect its difficulty in combat.
+
+* {{UL|type=update|update=Champions, Wyverns and Granite|date=12 December 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The [[salve amulet]] is effective on Skeletal Wyverns, they are mentioned in [[Tarn's diary]].{{CiteText |text=Tarn's diary |author=Tarn Razorlor |quote=All my long hours of research have finally paid off! Today I discovered an ancient journal in the great library, which detailed a ceremony for giving life back to greater beasts after they have died! I shall finally be able to unravel the secrets of the Skeletal Wyverns! |page= |loc=Tarn's Lair |notes= |name= }}
+* As of [[1 February]] [[2018]], the highest kill count for these monsters was 13,599 kills.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=http://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+** This had increased to 15,295 by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=http://archive.is/Fxc11|archivedate=28 February 2020|notes=|name=}}
+* The skeletal wyvern's specific name, ''ossis'', means bone in Latin, referencing their skeletal nature.
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+[[pt:Dragão alado esquelético]]

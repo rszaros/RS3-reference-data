@@ -1,0 +1,221 @@
+{{External|os=Hobgoblin#Hobgoblin_(GWD)}}
+{{Otheruses|def=no|non-God Wars Dungeon version|Hobgoblin}}
+{{Otheruses|def=no|the elite version|Hobgoblin (elite)}}
+{{Infobox Monster
+|version = God Wars Dungeon
+|name = Hobgoblin
+|image = [[File:Hobgoblin (God Wars Dungeon).png|200px]]
+|release = [[28 August]] [[2007]]
+|update = God Wars Dungeon
+|members = Yes
+|actions = Attack
+|examine = An ugly, smelly creature.
+|level = 91
+|lifepoints = 9750
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 268.6
+|slayercat = Hobgoblins
+|assigned_by = Vannaka
+|max_melee = 325
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 65
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1299
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1299
+|defence = 65
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|dropversion = Armed
+|leagueRegion = Asgarnia
+|id = 6275
+}}
+[[File:Hobgoblin icon.png|left]]
+'''Hobgoblins''' are [[Bandos]]ian creatures that share characteristics with both [[goblin]]s and [[ork]]s. They can be [[aggressiveness|aggressive]] to lower-level players, especially when several are in the area. This unique variant of hobgoblin can only be found in the [[God Wars Dungeon]]. When killed, they will increase the player's [[Killcount#Bandos|Bandos killcount]].
+
+In the quest [[Fur 'n Seek]], a [[hobgoblin skin]] must be collected and cleaned for the [[Odd Old Man]].
+
+When killing hobgoblins, an [[hobgoblin (elite)|elite]] version may spawn (guaranteed while on a [[Slayer assignment]]); the chance of spawn can be increased with the use of [[fellstalk incense stick]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[God Wars Dungeon]]
+|lvls=91
+|mem=yes
+|mapID=15
+|npcid:6275,x:2851,y:5314|npcid:6275,x:2852,y:5312|npcid:6275,x:2856,y:5317
+|npcid:6275,x:2869,y:5344|npcid:6275,x:2870,y:5343|npcid:6275,x:2870,y:5345
+|npcid:6275,x:2874,y:5319|npcid:6275,x:2877,y:5316|npcid:6275,x:2878,y:5320
+|npcid:6275,x:2879,y:5317|npcid:6275,x:2879,y:5322
+|leagueRegion=Asgarnia
+}}
+{{LocTableBottom}}
+
+==Characteristics and history==
+{{Main|Hobgoblin#Characteristics and history}}
+Hobgoblins are said to be similar to a cross between [[Goblin (monster)|goblins]] and [[ork]]s. They possess characteristics of both races, with the pointed ears and height of goblins and the tusks and physique of orks. 
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+God Wars Dungeon hobgoblins share the same drop table as [[Hobgoblin#Armed (level 18) hobgoblin drops|level 18 armed hobgoblins]].
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Water rune|quantity=2|rarity=2/128}}
+{{DropsLine|name=Fire rune|quantity=7|rarity=2/128}}
+{{DropsLine|name=Body rune|quantity=6|rarity=2/128}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=1/128}}
+{{DropsLine|name=Chaos rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Nature rune|quantity=4|rarity=2/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Iron javelin|quantity=5|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|7/128}}
+{{DropsTableHead}}
+{{HerbDropTable|7/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|12/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|12/128}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Iron sword|quantity=1|rarity=3/256}}
+{{DropsLine|name=Iron off hand sword|quantity=1|rarity=3/256}}
+{{DropsLine|name=Steel dagger|quantity=1|rarity=3/256}}
+{{DropsLine|name=Steel off hand dagger|quantity=1|rarity=3/256}}
+{{DropsLine|name=Steel longsword|quantity=1|rarity=1/256}}
+{{DropsLine|name=Steel off hand longsword|quantity=1|rarity=1/256}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1|rarity=4/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=5|rarity=12/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=15|rarity=34/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=28|rarity=4/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=42|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=62|rarity=4/128|gemw=No}}
+{{DropsTableBottom}}
+
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Bandos rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Bandos altar|quantity=1|rarity=Unknown}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Limpwurt root|quantity=1|rarity=21/128}}
+{{DropsLine|name=Goblin mail|quantity=1|rarity=2/128}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128|f2p=yes}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Hobgoblin skin|quantity=1|rarity=Common|raritynotes={{DropNote|Only during the [[Fur 'n Seek]] quest.}}|gemw=no}}
+{{DropsLine|name=Hobgoblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Hobgoblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineEffigy|level=18}}
+{{DropsLineMimic|level=18}}
+{{DropsLineSpiritGems}}
+{{DropsLineWarpriest|god=bandos}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+
+|members=Yes
+|quantity=1
+|gold=161.242/1000
+|green=5.039/1000
+|crimson=10.078/1000
+|blue=1.008/1000
+}}
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}} 
+** [[Goblin mail]] drop
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Hobgoblin (God Wars Dungeon) (2007).png|name=Hobgoblin}}
+|{{GUL|date=[[23 September]] [[2009]]|update=Woodcutting Rebalance|img=Hobgoblin (God Wars Dungeon) (2009).png|name=Hobgoblin}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Hobgoblin (God Wars Dungeon).png|name=Hobgoblin}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Tiny spiky iron salvage → Iron sword/Iron off hand sword
+*** Tiny spiky steel salvage → Steel dagger/Steel off hand dagger
+*** Small bladed steel salvage → Steel longsword/Steel off hand longsword
+
+* {{UL|type=update|update=Tuska Clean Up - This Week In RuneScape|date=18 August 2025}}
+** The Sacrifice, Devotion, and Transfigure abilities have been removed from the God Wars Dungeon I loot table, and are now obtained by completing the One Piercing Note quest.
+
+* {{UL|type=patch|update=Housing of Parliament &amp; Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=ninja|update=Patch Notes (11 January 2016)|date=11 January 2016}}
+** Hobgoblins around the world have had their models updated to match the [[God Wars Dungeon|God Wars dungeon]] hobgoblins.
+
+* {{UL|type=update|update=Woodcutting Rebalance|date=23 September 2009}}
+** Hobgoblins have been graphically updated.
+}}
+
+==Trivia==
+* A {{WP|hobgoblin}} is a household spirit from British folklore, being a more intelligent and helpful versions of {{wp|goblin}}s.
+* In Armies of Gielinor hobgoblins are described as: "The hobgoblin occupies the rung on the evolutionary ladder between goblin and ork, and so displays the best and worst traits of both races."
+* According to the [[Runescape Official Handbook]], hobgoblins keep their teeth sharp so they can eat their opponent.
+* As of [[30 January]] [[2023]], hobgoblin Slayer assignments had the highest completion rate with over 99%.{{CiteTwitter|author=Mod Sponge|url=https://twitter.com/JagexSponge/status/1620148676239958018|date=30 January 2023|archiveurl=https://reldo.runescape.wiki/i/100367|archivedate=1 March 2023|quote=[Stat of the day (kinda) Which slayer task do you think has the highest completion rate (by percentage)?] Hobgoblins, the answer was hobgoblins. With above 99% completion rate.}}
+
+==References==
+{{Reflist}}
+
+{{God Wars Dungeon}}
+[[Category:Participants in the God Wars]]
+[[Category:Bandosians]]
+[[Category:Hobgoblins]]
+[[pt:Trasgo]]

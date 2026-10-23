@@ -1,0 +1,146 @@
+{{Otheruses|def=no}}
+{{Infobox Monster
+|name = Wight ranger
+|image = [[File:Wight ranger (Heart of Gielinor).png|150px]]
+|release = [[29 March]] [[2016]]
+|update = God Wars Dungeon 2
+|members = Yes
+|actions = Attack
+|examine = One of Sliske's wights.
+|level = 108
+|lifepoints = 8000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 334.2
+|slayercat = Ghosts, Undead
+|max_melee = 0
+|max_ranged = 980
+|max_magic = 0
+|max_spec = N/A
+|style = Ranged
+|primarystyle = Ranged
+|speed = 5
+|attack = 80
+|ranged = 80
+|magic = 80
+|acc_melee = 1924
+|acc_ranged = 1924
+|acc_magic = 0
+|armour = 1694
+|defence = 75
+|weakness = Slash
+|susceptibility = Undead, Ghost
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 22479
+|leagueRegion=Desert}}
+'''Wight rangers''' can be found in the [[Heart of Gielinor]]. They can be fought for killcount for the [[Sliske]] faction.
+
+Equipping a [[Sliske insignia]] or [[Shard of Mah]] makes them non-aggressive.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Heart of Gielinor]]
+|lvls=108
+|mem=yes
+|mapID=693
+|npcid:22479,x:3220,y:7017
+|npcid:22479,x:3244,y:6996
+|npcid:22479,x:3251,y:6982
+|npcid:22479,x:3266,y:7034
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Ingression fragment|quantity=5-9|rarity=Always|gemw=No}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Acadia shortbow|quantity=1|rarity=9/126}}
+{{DropsLine|name=Acadia longbow|quantity=1|rarity=8/126}}
+{{DropsLine|name=Water battlestaff|quantity=1|rarity=2/126}}
+{{DropsLine|name=Fire battlestaff|quantity=1|rarity=2/126}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril arrow|quantity=40-60|rarity=9/126}}
+{{DropsLine|name=Adamant arrow|quantity=50-100|rarity=4/126}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|5/126}}
+{{DropsTableHead}}
+{{HerbDropTable|5/126}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|4/126}}
+{{DropsTableHead}}
+{{RareSeedDropTable|4/126}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Super strength (1)|quantity=1|rarity=4/126}}
+{{DropsLine|name=Super ranging potion (1)|quantity=1|rarity=4/126}}
+{{DropsLine|name=Super magic potion (1)|quantity=1|rarity=4/126}}
+{{DropsLine|name=Chocolate cake|quantity=2|rarity=9/126}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny blunt mithril salvage|quantity=1|rarity=9/126}}
+{{DropsLine|name=Tiny blunt adamant salvage|quantity=1|rarity=8/126}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=12/126}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=800-1200|rarity=9/126}}
+{{DropsLine|name=Coins|quantity=2500-3500|rarity=4/126}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=15/126}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/126}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=God Wars Dungeon 2|date=29 March 2016}}
+** Added to game.
+}}
+
+{{Heart of Gielinor}}
+{{Wights}}
+[[Category:Heart of Gielinor dropping monsters]]
+[[Category:Sliskeans]]

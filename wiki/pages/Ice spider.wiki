@@ -1,0 +1,119 @@
+{{External|os|rsc}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|name = Ice spider
+|image = [[File:Ice spider.png|250px]]
+|release = [[27 February]] [[2002]]
+|update = Latest RuneScape News (27 February 2002)
+|members = Yes
+|options = Attack
+|examine = I think this spider has been magically modified.
+|level = 42
+|lifepoints = 2400
+|experience = 120.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 17.2
+|slayercat = Spiders
+|assigned_by = turael, Vannaka
+|max_melee = 440
+|max_ranged = 600
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 22
+|ranged = 30
+|magic = 1
+|necromancy = 1
+|acc_melee = 241
+|acc_ranged = 354
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 454
+|defence = 30
+|weakness = Crush
+|susceptibility = NopeNopeNope
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 64
+|leagueRegion = Kandarin, Asgarnia
+}}
+'''Ice spiders''' are found in the [[Temple of Ikov (dungeon)]], and in the [[Ice Queen's lair]] underneath [[White Wolf Mountain]]. Like [[jungle spider]]s, they do not show up on the [[minimap]].
+
+These spiders have low strength, defence and life points for their level, but hit very accurately even through armour.
+
+They sometimes drop charms, but are rarely trained on as most of them are in the deep wilderness and they frequently drop nothing.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Temple of Ikov (dungeon)|Temple of Ikov]]
+|lvls=42
+|mem=yes
+|mapID=509
+|npcid:64,x:2690,y:9807|npcid:64,x:2693,y:9816|npcid:64,x:2695,y:9826
+|npcid:64,x:2696,y:9839|npcid:64,x:2708,y:9842|npcid:64,x:2719,y:9845
+|npcid:64,x:2731,y:9845|npcid:64,x:2744,y:9840|npcid:64,x:2745,y:9829
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Ice Queen's lair]]
+|lvls=42
+|mem=yes
+|mapID=8
+|npcid:64,x:53,y:56|npcid:64,x:3,y:94|npcid:64,x:8,y:78
+|npcid:64,x:11,y:69|npcid:64,x:12,y:100|npcid:64,x:41,y:113
+|npcid:64,x:56,y:116|npcid:64,x:69,y:106|npcid:64,x:71,y:80
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+===Charms===
+{{CharmDataTable|Ice spider}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[27 February]] [[2002]]|update=Latest RuneScape News (27 February 2002)|img=Ice spider (2002).png|name=Ice spider}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Ice spider (2004).png|name=Ice spider}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Ice spider (2006).png|name=Ice spider}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Ice spider.png|name=Ice spider}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+*{{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Removed the [[ice warrior]]s, [[ice giant]]s and ice spiders from the [[Frozen Waste Plateau]], replacing them with [[glacor]]s, [[wyvern]]s and [[acheron mammoth]]s respectively.
+
+* {{UL|type=patch|update=Patch Notes (18 March 2013)|date=18 March 2013}}
+** [[Grotworm]]s, [[moss giant]]s, [[banshee]]s, [[jungle spider]]s, [[shadow spider]]s, [[spider]]s, [[giant spider]]s, [[deadly red spider]]s, ice spiders, [[scorpion]]s, [[poison scorpion]]s and [[pit scorpion]] will no longer hit for 1 hit point worth of damage.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+{{Temple of Ikov}}
+{{Spiders}}
+[[Category:NPCs not visible on the minimap]]

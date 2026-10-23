@@ -1,0 +1,135 @@
+{{External|os=Shade}}
+{{Otheruses|the monster in the Stronghold of Security}}
+{{Infobox Monster
+|name = Shade
+|image = [[File:Shade.png|150px]]
+|release = [[2 February]] [[2004]]
+|update = Huge Runescape 2 update
+|members = No
+|actions = Attack
+|examine = Dead, but not gone.
+|level = 52
+|lifepoints = 7250
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 70.8
+|slayercat = Shades, Ghosts, Undead
+|max_melee = 600
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 30
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 354
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 710
+|defence = 44
+|weakness = Earth
+|susceptibility = Salve, Ghost
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 8645
+|leagueRegion = Misthalin
+}}
+[[File:Shade icon.png|left]]
+The '''Shade''' is a monster located at the first room of the last level of the [[Stronghold of Security]].
+
+In addition to 'Shades' themselves, [[Loar Shade]]s, [[Phrin Shade]]s, [[Riyl Shade]], [[Asyn Shade]]s, and [[Fiyr Shade]]s, which can be found in [[Mort'ton]] or the nearby [[Shade Catacombs]] can also be slain to fulfil the task. To access the shade catacombs, players must have completed the [[Shades of Mort'ton]] quest.
+
+Additional damage can be done to shades through the use of [[Salve amulet (e)|Salve amulets]] or the [[Gadderhammer]] weapon.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Stronghold of Security#Sepulchre of Death (4th level)|Stronghold of Security]] (4th level)
+|lvls=52
+|mem=no
+|mapID=24
+|npcid:8645,x:150,y:28|npcid:8645,x:152,y:26|npcid:8645,x:153,y:35
+|npcid:8645,x:154,y:24|npcid:8645,x:154,y:33|npcid:8645,x:157,y:32
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===Main===
+{{DropsTableHead}}
+{{DropsLine|name=Shade robe top|quantity=1|rarity=1/16|gemw=no}}
+{{DropsLine|name=Shade robe bottom|quantity=1|rarity=1/16|gemw=no}}
+{{DropsTableBottom}}
+
+==Random event (discontinued)==
+When a player buried [[bones]], they had a possibility of angering an aggressive '''Shade''' who would appear and attack them. Shades were transparent in appearance and looked somewhat like a [[ghost]]. As with similar guardian random events, the combat level of a shade varied according to the combat level of the player unfortunate enough to run into one. When slain, the shade usually dropped nothing, but sometimes it would drop an assortment of bones, and on rare occasions, [[shade robes]]. Originally, shades were able to close or open a door without standing beside it, which was unique among all [[Free-to-play|free]] monsters, but this feature was removed.
+
+==Achievement==
+* {{Achievement|Guardian of the Realm}} 
+** [[Shade robe top]] and [[Shade robe bottom|bottom]] drops
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[2 February]] [[2004]]|update=Huge Runescape 2 update|img=Shade (2004).png|name=Shade}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Shade.png|name=Shade}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (19 June 2017)|date=19 June 2017}}
+** Shades will now spawn correctly in the [[Sunken Pyramid|Player-Owned Slayer Dungeon]].
+
+* {{UL|type=patch|update=Patch Notes (22 November 2012)|date=22 November 2012}}
+** Attacking Shades now gives the correct amount of XP and hit harder.
+
+* {{UL|type=patch|update=Patch Notes (9 June 2009)|date=9 June 2009}}
+** Clarified the location of the Shades when talked about by the [[Slayer Masters]].
+
+* {{UL|type=patch|update=Patch Notes (6 May 2009)|date=6 May 2009}}
+** Shades in the [[Stronghold of Security]] have had their robes adjusted to better match the dropped version.
+
+* {{UL|type=hidden|update=Random Event Update and More|date=25 February 2009}}
+** Shades have been added to the 4th level of the [[Stronghold of Security]].
+
+* {{UL|type=update|update=Huge Runescape 2 update|date=2 February 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* Before [[Evolution of Combat]], it was not very wise to train on shades, because no matter how much damage you inflicted on them, you only received a quarter of the normal experience per hit and only 5% normal slayer experience.
+* These were the fourth highest level free-to-play monsters, being tied with [[Cockroach soldier]]s. Many higher level monsters have since been made f2p, and now there are at least 30 different f2p monsters with a higher level.
+* Although Shades are transparent, [[Shade robes]] are not.
+* Shades have the old idle and walking animations that were used on players before [[RuneScape High Detail]].
+* Shades' attack animation is that of slashing a sword, as is their blocking animation. However, they hold no sword at all.
+
+{{Random Events}}
+{{Stronghold of Security}}
+{{Ghost}}

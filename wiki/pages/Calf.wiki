@@ -1,0 +1,198 @@
+{{External|os}}
+{{otheruses|pre-mature cows|other uses|Cow (disambiguation)}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|name = Calf
+|image = Cow calf.png
+|image4 = Calf.png
+|release = [[22 February]] [[2005]]
+|release3 = [[11 July]] [[2005]]
+|release4 = [[18 March]] [[2024]]
+|update = Wilderness Capes, and Changes
+|update3 = Farming
+|update4 = Hop into the Blooming Burrow - This Week In RuneScape
+|removal1 = No
+|removal2 = [[23 March]] [[2026]]
+|removal3 = [[23 March]] [[2026]]
+|removal4 = No
+|removalupdate2 = Welcome to Havenhythe
+|removalupdate3 = Welcome to Havenhythe
+|members = No
+|options = Attack, Examine
+|examine1 = Prelude to a steak.
+|examine2 = 
+|examine3 = Young, but still beefy.
+|examine4 = Learning how to be a cow.
+|level = 1
+|lifepoints = 500
+|experience = 25.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19.4
+|slayercat = Cows
+|max_melee = 20
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 10
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 2310
+|id2 = No
+|id3 = No
+|id4 = 30874
+|histid1 = No
+|histid2 = 12364
+|histid3 = 12366
+|leagueRegion=Misthalin, Havenhythe}}
+'''Calves''' are pre-mature [[cow]]s. They can generally be found along with adult cows.
+
+Calves are always light-browned coloured and much smaller, unlike their parents. Also, there are fewer calves in ''[[RuneScape]]'' than cows. The beef dropped by a cow calf is the same as a regular cow despite calves being much smaller.
+
+A calf could previously be found in [[Blooming Burrow]] as a non-attackable [[non-player character]]. This variant was later re-added the game at [[Marigold Farm]] as a monster.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Crafting Guild]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:2310,x:2947,y:3274
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Falador farm]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:2310,x:3029,y:3309|npcid:2310,x:3031,y:3312|npcid:2310,x:3042,y:3312
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Marigold Farm]]
+|lvls=1
+|mem=no
+|npcid:30874,x:4231,y:3293|npcid:30874,x:4233,y:3290
+|requirements={{QuestIcon|Visions of Havenhythe}} (partial)
+|leagueRegion=Havenhythe}}
+{{LocLine
+|loc=[[Mill Lane Mill]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:12364,x:3166,y:3321|npcid:12366,x:3181,y:3315|npcid:12366,x:3159,y:3335
+|npcid:12364,x:3159,y:3340|npcid:12364,x:3164,y:3338|npcid:12366,x:3167,y:3337
+|leagueRegion=Misthalin}}
+{{LocLine
+|loc=[[Lumbridge]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:12364,x:3247,y:3287|npcid:12364,x:3256,y:3273|npcid:12364,x:3261,y:3289
+|npcid:12366,x:3262,y:3287
+|leagueRegion=Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Cowhide|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw beef|quantity=1|rarity=Always}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{BeginnerWeaponsDropLines}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=1|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|members=yes
+|quantity=1
+|gold=9.953/1000
+|green=39.813/1000
+|crimson=2.488/1000
+|blue=0.498/1000
+}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[22 February]] [[2005]]|update=Wilderness Capes, and Changes|img=Cow calf (1, 2005).png|name=Cow calf variant 1}}
+|{{GUL|date=[[22 February]] [[2005]]|update=Wilderness Capes, and Changes|img=Cow calf (2, 2005).png|name=Cow calf variant 2}}
+|{{GUL|date=[[11 July]] [[2005]]|update=Farming|img=Cow calf (3, 2005).png|name=Cow calf variant 3}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Cows, Chickens, Rabbits and the Fishing Trawler|img=Cow calf (2007).png|name=Cow calf}}
+|{{GUL|date=[[22 April]] [[2014]]|update=Patch Notes (22 April 2014)|img=Cow calf (2014).png|name=Cow calf}}
+|{{GUL|date=[[2 September]] [[2019]]|update=September Mobile Update|img=Cow calf.png|name=Cow calf}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Welcome to Havenhythe|date=23 March 2026}}
+** Variant 4 added to [[Marigold Farm]] as a [[monster]] visible on the [[minimap]].
+
+* {{UL|type=hidden|update=Welcome to Havenhythe|date=23 March 2026}}
+** Renamed from "cow calf" to "calf".
+** Removed two variants.
+
+* {{UL|type=hidden|update=Blooming Burrow & Duck Quest - This Week In RuneScape|date=14 April 2025}}
+** Variant 4 removed from game to make space for the beekeeping activity.
+
+* {{UL|type=update|update=Hop into the Blooming Burrow - This Week In RuneScape|date=18 March 2024}}
+** Variant 4 added to game.
+
+* {{UL|type=patch|update=Housing of Parliament &amp; Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended.
+
+* {{UL|type=hidden|update=September Mobile Update|date=2 September 2019}}
+** Cow calves in Lumbridge no longer drop chargebows and staves of air.
+
+* {{UL|type=update|update=September Mobile Update|date=2 September 2019}}
+** Cow calves have been graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (9 November 2010)|date=9 November 2010}}
+** Falador cow calves have now discovered they can moo.
+
+* {{UL|type=patch|update=Patch Notes (7 October 2009)#Graphical|date=7 October 2009}}
+** Cows and calves have a death animation once more.
+
+* {{UL|type=update|update=Farming|date=11 July 2005}}
+** A new variant added to game.
+
+* {{UL|type=update|update=Wilderness Capes, and Changes|date=22 February 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* If you use a [[bucket of milk]] on a calf, a message will appear on the chat screen saying: "Calves aren't really used to drinking milk from buckets!"
+* There used to be cow calves with the examine text "Young and tender; nearly ready for the slaughter.", but these were removed after the cow graphical update in [[2019]].
+* Cow calves in [[Lumbridge]] used to be capable of dropping [[chargebow]]s and [[staff of air|staves of air]], but no longer do after they were graphically updated in 2019.
+
+{{Blooming Burrow}}
+{{Marigold Farm}}

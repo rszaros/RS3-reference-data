@@ -1,0 +1,176 @@
+{{External|os}}
+{{Otheruses|the troll}}
+{{Infobox Monster
+|name = Stick
+|image = [[File:Stick.png|180px]]
+|release = [[9 August]] [[2004]]
+|update = Death Plateau Quest
+|members = No
+|options = Attack
+|examine = A big, bad troll.
+|level = 85
+|lifepoints = 13400
+|experience = 670.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 73.6
+|slayercat = Trolls
+|assigned_by = Sumona, Chaeldar, Turael, Spria
+|max_melee = 1830
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 61
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1064
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1164
+|defence = 61
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1096
+|leagueRegion = Asgarnia
+}}
+'''Stick''' is the second strongest troll on [[Death Plateau (area)|Death Plateau]]. Players wishing to fight him should be careful, as he is stronger than the other trolls in the area that can hit a max of 244. Since he only attacks with melee, the [[Protect from Melee]] prayer may be useful for fighting him. Like the rest of the trolls in the area, such as [[Rock (Troll)|Rock]], [[Pee Hat]], and [[Kraka]], he may drop a [[granite shield]], which other trolls would not drop.
+
+Trolls are named after the first thing they eat, so he probably ate a stick.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Death Plateau (location)|Death Plateau]]
+|lvls = 85
+|mem = Yes
+|mapID = 28
+|plane = 0
+|npcid:1096,x:2851,y:3591
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+Although the [[Death Plateau (location)|Death Plateau]] requires [[members]] to enter, [[free-to-play]] players may [[Bound (status)|bind]] and attack him from below the plateau to the south.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=3/256}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=3/256}}
+{{DropsLine|name=Granite shield|quantity=1|rarity=1/128|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Granite shield: 1/128|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Nature rune|quantity=16|rarity=5/128}}
+{{DropsLine|name=Law rune|quantity=4|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|15/128}}
+{{DropsTableHead}}
+{{HerbDropTable|15/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Huge plated steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium blunt steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Small plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small bladed adamant salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Huge plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium blunt rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=20|rarity=4/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=40|rarity=29/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=135|rarity=26/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=190|rarity=18/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=420|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=6|rarity=3/128}}
+{{DropsLine|name=Raw tuna|quantity=4 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Troll bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsLineCourtSummons}}
+{{DropsLineEffigy|level=85}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=85}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 416.245/1000
+|green = 52.031/1000
+|crimson = 34.687/1000
+|blue = 10.406/1000
+}}
+
+==Achievements==
+* {{Achievement|Slayer of Chaos}}
+** [[Granite shield]] drop
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[9 August]] [[2004]]|update=Death Plateau Quest|img=Stick (2004).png|name=Stick}}
+|{{GUL|date=[[15 March]] [[2011]]|update=Ring of Wealth, Shanties, Trolls and Dungeoneering|img=Stick (2011).png|name=Stick}}
+|{{GUL|date=[[31 January]] [[2012]]|update=Troll Warzone|img=Stick.png|name=Stick}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Death Plateau Quest|date=9 August 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* Stick originally had a combat level of 104, but it was increased to 141 with the release of [[Troll Warzone]]. The same update also increased the combat level of his partner, [[Rock (monster)|Rock]], from 111 to 157.
+
+==References==
+{{Reflist}}
+
+{{Trolls}}
+[[Category:Bandosians]]

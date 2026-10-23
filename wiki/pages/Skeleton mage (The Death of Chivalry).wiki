@@ -1,0 +1,76 @@
+{{Infobox Monster
+|version1 = The Death of Chivalry
+|version2 = Dominion Tower
+|name = Skeleton mage
+|image = [[File:Skeleton mage (The Death of Chivalry).png|250px]]
+|release1 = [[13 August]] [[2013]]
+|release2 = [[8 December]] [[2014]]
+|update1 = The Death of Chivalry
+|update2 = Snowverload & Dominion Tower Rumble Mode
+|members1 = No
+|members2 = Yes
+|options = Attack
+|race = Skeleton
+|examine = The animated bones of a long-dead Saradominist, controlled by the Wand of Resurrection.
+|leagueRegion = Asgarnia
+|level1 = 0
+|level2 = 56
+|lifepoints = 1000
+|experience = 50.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 173.4
+|slayercat1 = Skeletons, Undead
+|slayercat2 = None
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 250
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 5
+|attack = 1
+|ranged = 1
+|magic1 = 45
+|magic2 = 40
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic1 = 850
+|acc_magic2 = 628
+|acc_necromancy = 0
+|armour1 = 850
+|armour2 = 628
+|defence1 = 45
+|defence2 = 40
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 45
+|aff_ranged = 65
+|aff_magic = 55
+|immune_to_poison = No
+|immune_to_stun = No
+|restriction1 = quest
+|restriction2 = minigame
+|id1 = 18094
+|id2 = 17248
+}}
+'''Skeleton mages''' are summoned during the fight with [[Dawn]] during [[The Death of Chivalry]]. As Dawn summons more skeleton mages, their base life points decrease.
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Patch Notes (9 September 2019)|date=9 September 2019}}
+** Boss fight skeleton minions in the Death of Chivalry quest now scale to half their previous level, to make them easier to defeat by high-levelled players with inferior equipment.
+
+* {{UL|type=patch|update=Patch Notes (29 August 2013)|date=29 August 2013}}
+** The lifepoints of the skeleton warriors in The Death of Chivalry now scale with the player's level.
+
+* {{UL|type=update|update=The Death of Chivalry|date=13 August 2013}}
+** Added to game.
+}}
+
+{{The Death of Chivalry}}
+{{Skeleton}}
+[[Category:Quest monsters]]

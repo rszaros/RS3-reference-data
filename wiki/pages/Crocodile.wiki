@@ -1,0 +1,179 @@
+{{External|os|wp}}
+{{Otheruses|the monster|the soul devourer|Crocodile akh|the goddess|Crondis}}
+{{Infobox Monster
+|version1 = Level 77
+|version2 = Level 40
+|name = Crocodile
+|image = [[File:Crocodile.png|250px]]
+|release1 = [[26 April]] [[2005]]
+|release2 = [[2 January]] [[2008]]
+|update1 = Desert Month Finale
+|update2 = Dealing with Scabaras
+|members = Yes
+|options = Attack, Talk to
+|examine = Never smile at a...
+|leagueRegion = Desert
+|level1 = 77
+|level2 = 40
+|lifepoints1 = 2900
+|lifepoints2 = 1450
+|experience1 = 145.0
+|experience2 = 72.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 44.4
+|slayxp2 = 33.4
+|slayercat = Crocodiles
+|assigned_by = Sumona
+|max_melee = 116
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 55
+|attack2 = 29
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 439
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 439
+|defence1 = 55
+|defence2 = 29
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Level 77
+|dropversion2 = Level 40
+|id1 = 1993
+|id2 = 6779
+}}
+[[File:Crocodile chathead.png|left|75px]]
+[[File:Crocodile icon.png|left]]
+'''Crocodiles''' can be found in the [[Kharidian Desert]]. They inhabit the river and both banks of the [[River Elid]] south west of [[Pollnivneach]], north of [[Sophanem]], and west of [[Nardah]]. Nardah and Sophanem both have [[bank]]s, although the Sophanem bank is only available for players who have completed the quest [[Contact!]]. These crocodiles are found in areas where [[desert heat]] is present and thus require players to have a [[water source]] to avoid taking damage from thirst, or completion of the [[Crocodile Tears]] quest.
+
+Weaker crocodiles infest the area east of Sophanem, along the south coast and in the eastern marshes. These crocodiles drop [[big bones]] instead of standard bones, and may occasionally drop [[long bone]]s and [[curved bone]]s. The marshes are not affected by desert heat, so crocodiles can be killed here for those who do not wish to deal with it.
+
+Killing crocodiles can also be assigned as a [[City Quest]] in [[Menaphos]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=North of [[Sophanem]]
+|lvls=77
+|mem=yes
+|mapID=28
+|npcid:1993,x:3251,y:2837|npcid:1993,x:3252,y:2831|npcid:1993,x:3253,y:2843
+|npcid:1993,x:3254,y:2870|npcid:1993,x:3255,y:2851|npcid:1993,x:3255,y:2859
+|npcid:1993,x:3253,y:2885|npcid:1993,x:3257,y:2892|npcid:1993,x:3276,y:2828
+|npcid:1993,x:3276,y:2835|npcid:1993,x:3276,y:2870|npcid:1993,x:3276,y:2876
+|npcid:1993,x:3279,y:2839|npcid:1993,x:3280,y:2824|npcid:1993,x:3284,y:2837
+|npcid:1993,x:3284,y:2866|npcid:1993,x:3292,y:2845|npcid:1993,x:3279,y:2881
+|npcid:1993,x:3284,y:2884|npcid:1993,x:3296,y:2920|npcid:1993,x:3300,y:2922
+|npcid:1993,x:3300,y:2930|npcid:1993,x:3301,y:2899|npcid:1993,x:3305,y:2926
+|npcid:1993,x:3308,y:2898|npcid:1993,x:3311,y:2929|npcid:1993,x:3322,y:2905
+|npcid:1993,x:3325,y:2904
+|leagueRegion = Desert}}
+{{LocLine
+|loc=East of [[Sophanem]]
+|lvls=40
+|mem=yes
+|mapID=28
+|npcid:6779,x:3337,y:2762|npcid:6779,x:3340,y:2767|npcid:6779,x:3345,y:2763
+|npcid:6779,x:3350,y:2766|npcid:6779,x:3352,y:2761|npcid:6779,x:3356,y:2769
+|npcid:6779,x:3358,y:2758|npcid:6779,x:3359,y:2763|npcid:6779,x:3365,y:2769
+|npcid:6779,x:3368,y:2764|npcid:6779,x:3375,y:2762|npcid:6779,x:3392,y:2759
+|npcid:6779,x:3408,y:2763|npcid:6779,x:3410,y:2786|npcid:6779,x:3420,y:2778
+|npcid:6779,x:3427,y:2792|npcid:6779,x:3429,y:2802
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Strategy==
+* Magic attacks work well, with the crocodiles taking damage with nearly every hit. However, it's best to mage the closest crocodiles. If you try to mage the ones further away, they may retreat beyond your range and it'll be extremely difficult to close in on the one you were fighting.
+* Players may want to kill crocodiles in the marshes to the east of Sophanem, as most of the marshes are not affected by desert heat. If water is used, there is a stream north by the nearby archaeologists where waterskins can be filled.
+* [[Waterskin]]s are recommended when fighting crocodiles in the desert. Waterskins can be refilled in various places, such as in [[Pollnivneach]] at the fountain or at the well using a [[bucket]]. The [[enchanted water tiara]], which can be made after completing the [[Dealing with Scabaras]] quest, can be stocked up with water runes and used as a water source against desert heat.
+
+==Drops (level 77)==
+===100%===
+{{DropsTableHead|version=Level 77}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Drops (level 40)==
+===100%===
+{{DropsTableHead|version=Level 40}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead|version=Level 40}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=no}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5000|gemw=no}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Hastranscript|npc}}
+
+==Graphical updates==
+===NPCs===
+{{GU|subject=NPCs
+|{{GUL|date=[[4 April]] [[2005]]|update=Ali Morrisane and Pollnivneach|img=Crocodile (2005).png|name=Crocodile}}
+|{{GUL|date=[[2 January]] [[2008]]|update=Dealing with Scabaras|img=Crocodile (2008).png|name=Crocodile}}
+|{{GUL|date=[[9 November]] [[2015]]|update=Patch Notes (9 November 2015)|img=Crocodile (2015).png|name=Crocodile}}
+|{{GUL|date=[[5 June]] [[2017]]|update=Patch Notes (5 June 2017)|img=Crocodile (2017).png|name=Crocodile}}
+|{{GUL|date=[[4 January]] [[2022]]|update=This Week In RuneScape: Het's Oasis|img=Crocodile.png|name=Crocodile}}
+}}
+===Chatheads===
+{{GU|subject=chatheads
+|{{GUL|date=[[27 February]] [[2017]]|update=Back to the Freezer - New Penguin Quest|img=Crocodile chathead (2017).png|name=Crocodile's chathead}}
+|{{GUL|date=[[4 January]] [[2022]]|update=This Week In RuneScape: Het's Oasis|img=Crocodile chathead.png|name=Crocodile's chathead}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=This Week In RuneScape: Het's Oasis|date=4 January 2022}}
+** Graphically updated.
+
+* {{UL|type=ninja|update=This Week In RuneScape: Yak To Basics and Ninja Strike 20!|date=1 March 2021}}
+** Crocodiles east of [[Sophanem]] have had their HP halved. Hope they don't get too snappy about it.
+
+* {{UL|type=patch|update=Patch Notes (5 June 2017)|date=5 June 2017}} 
+** [[Camel]]s, crocodiles, [[Giant lizard]]s, [[vulture]]s, [[jackal]]s, [[locust]]s and [[scarabs]] have been graphically updated.
+** This update added the ability to talk with them.
+** River Elid crocodiles are buffed from level 40 to level 77.
+** Crocodiles can no longer walk over the River Elid.
+
+* {{UL|type=patch|update=Patch Notes (9 November 2015)|date=9 November 2015}} 
+** Crocodile tails have been made longer.
+
+* {{UL|update=Dealing with Scabaras|date=2 January 2008}} 
+** Updated crocodiles to create a snappy and sharp(toothed) new look.
+
+* {{UL|type=update|update=Desert Month Finale|date=26 April 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine text is a reference to the song "{{Wp|Never Smile at a Crocodile}}", used in Disney's 1953 film ''Peter Pan''.
+* Crocodiles were originally able to walk over the river. While in the river, they could only be damaged with ranged or magic, or a halberd while close to the shore. However, as with most monsters, attacking them would cause them to walk over to the player to attack them. If a crocodile died while in the river, its drops would not appear.
+* Crocodiles east of Sophanem used to be stronger than those found elsewhere, and were the only ones to drop big bones. After the [[Evolution of Combat]] update, all crocodiles became the same level and are identical in combat. After the release of [[Menaphos]], the Crocodiles found along the River Elid were buffed, while those east of Sophanem remained unchanged, meaning the river crocodiles are now the strongest. The crocodiles east of Sophanem were subsequently made even weaker in 2021.
+
+[[pt:Crocodilo]]

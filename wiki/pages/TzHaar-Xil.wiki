@@ -1,0 +1,181 @@
+{{External|os}}
+{{Otheruses|def=no|the version fought during [[The Elder Kiln]]|TzHaar-Xil (Hardened)}}
+{{Otheruses|def=no|[[TzHaar Fight Cave]] version|Tok-Xil}}
+{{Otheruses|def=no|[[TokHaar]] version|TokHaar-Xil}}
+{{otheruses|def=no|the [[TzekHaar]] version|TzekHaar-Xil}}
+{{Infobox Monster
+|version1 = Melee
+|version2 = Ranged
+|name = TzHaar-Xil
+|image = [[File:TzHaar-Xil.png|225px]]
+|release = [[19 September]] [[2005]]
+|update = Massive minigame - Fight Pits
+|members = Yes
+|options = Attack
+|examine = It belongs to the hunter class.
+|level = 86
+|lifepoints = 3100
+|experience = 155.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 0
+|slayxp = 77.5
+|slayercat = TzHaar
+|assigned_by = Kuradal,Morvran
+|max_melee1 = 248
+|max_melee2 = 0
+|max_ranged1 = 0
+|max_ranged2 = 248
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style1 = melee
+|style2 = ranged
+|speed = 4
+|attack1 = 62
+|attack2 = 1
+|ranged1 = 1
+|ranged2 = 62
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 1197
+|acc_melee2 = 0
+|acc_ranged1 = 0
+|acc_ranged2 = 1197
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1197
+|defence = 62
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee1 = 75
+|aff_melee2 = 65
+|aff_ranged1 = 40
+|aff_ranged2 = 55
+|aff_magic1 = 10
+|aff_magic2 = 45
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 2605,2607,2608
+|id2 = 2606,2609
+|leagueRegion=Karamja,Tirannwn}}
+[[File:TzHaar-Xil chathead.png|left|80px]]
+The '''TzHaar-Xil''' is an inhabitant of the [[TzHaar city]]. They can be found wielding three [[Toktz-Xil-Ak]], a set of [[Toktz-Xil-Ul]] (which they use in both melee or ranged style), or a [[Toktz-Xil-Ek]]. TzHaar-Xil are the second strongest race in TzHaar, excluding some [[TzHaar Fight Cave]] monsters. The meleers can conveniently be ranged or maged from safespots around the various [[sulphur vents]] and fissures in the cave, though this is harder due to the fact that they are spread out more and the lack of safespots.
+
+The TzHaar-Xil wielding the Toktz-Xil-Ul will stop attacking for one turn when switching between ranged and melee attack styles. Players using protection prayers should bear this in mind when fighting them. They are weak against slashing weapons, so a [[Chaotic longsword]], [[godsword]], or [[abyssal whip]] will prove helpful in defeating them.
+
+It is not advised to use Magic to fight TzHaar-Xil as they have very low magic [[affinity]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[TzHaar City]]
+|lvls = 86
+|mem = Yes
+|mapID = 12
+|plane = 0
+|npcid:2609,x:4619,y:5068
+|npcid:2605,x:4628,y:5086
+|npcid:2607,x:4636,y:5096
+|npcid:2608,x:4639,y:5088
+|npcid:2606,x:4643,y:5114
+|npcid:2608,x:4658,y:5094
+|npcid:2606,x:4668,y:5084
+|npcid:2605,x:4631,y:5122
+|npcid:2607,x:4643,y:5136
+|npcid:16255,x:4650,y:5120
+|npcid:2609,x:4686,y:5092
+|npcid:2606,x:4695,y:5065
+|npcid:2609,x:4721,y:5084
+|npcid:2607,x:4701,y:5138
+|npcid:2609,x:4707,y:5124
+|npcid:2609,x:4747,y:5070
+|npcid:2606,x:4757,y:5088
+|npcid:2605,x:4759,y:5073
+|npcid:2607,x:4769,y:5094
+|leagueRegion = Karamja
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|kills=13091}}
+
+{{Average drop value}}
+
+===Obsidian equipment===
+''There is a 9/111 chance to roll obsidian equipment. A second roll determines which: 40/1280 for 5-20 [[Toktz-xil-ul]], 10/1280 for [[Toktz-xil-ak]], 1/1280 for a [[Toktz-xil-ek]], 40/1280 for an [[obsidian cape]], 9/1280 for 15,000 [[tokkul]], and 1180/1280 for 200-1400 tokkul.
+{{DropsTableHead}}
+{{DropsLine|name=Toktz-xil-ul|quantity=5-20|rarity={{#expr:9*40}}/{{#expr:111*1280}}}}
+{{DropsLine|name=Toktz-xil-ak|quantity=1|rarity={{#expr:9*10}}/{{#expr:111*1280}}}}
+{{DropsLine|name=Toktz-xil-ek|quantity=1|rarity={{#expr:9*1}}/{{#expr:111*1280}}}}
+{{DropsLine|name=Obsidian cape|quantity=1|rarity={{#expr:9*40}}/{{#expr:111*1280}}}}
+{{DropsTableBottom}}
+
+===Gems===
+{{TzhaarGemDropTable|12/111}}
+
+===Main drop===
+{{DropsTableHead}}
+<!--Armour/Weapons -->
+<!--Potions -->
+{{DropsLine|name=Super strength (1)|quantity=1|rarity=4/111|namenotes=<ref group="d" name="potions">
+Super potions are always dropped together.</ref>}}
+{{DropsLine|name=Super attack (1)|quantity=1|rarity=4/111|namenotes=<ref group="d" name="potions" />}}
+<!--Other -->
+{{DropsLine|name=Tokkul|quantity=100-700|rarity=40/111|gemw=no|alch=no|altvalue=22}}
+{{DropsLine|name=Tokkul|quantity=100-700|rarity={{#expr:26*1280 + 9*1180}}/{{#expr:111*1280}}|gemw=no|alch=no|altvalue=22}}
+{{DropsLine|name=Tokkul|quantity=15000|rarity={{#expr:9*9}}/{{#expr:1280*111}}|gemw=no|alch=no|altvalue=22}}
+{{DropsLine|name=Lobster|quantity=1|rarity=6/111}}
+{{DropsLine|name=Onyx bolt tips|quantity=1|rarity=10/111}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Obsidian charm|quantity=2|rarity=513.915/1000|gemw=no|altvalue=0}}
+{{DropsLine|name=Ring of stone|quantity=1|rarity=1/5000|altrarity=1/4850|raritynotes={{DropNote|1/4,850 if you have tier 2 [[luck]] or higher active.}}|citations={{CiteGeneral|url=https://runescape.wiki/w/TokHaar-Hok?type=revision&diff=30002840&oldid=29794267|title=TokHaar-Hok|accessdate=10 June 2020|author=Mod Shauny|date=8 October 2019|archiveurl=https://reldo.runescape.wiki/i/102614|archivedate=10 June 2020|quote=Rarity = 1/5000. 1/4850 if you have tier 2+ Luck active.}}}}
+{{DropsLineEffigy|level=86}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+TzHaar - Hunter.png|TzHaar-Xil concept art.
+</gallery>
+
+==Achievements==
+* {{Achievement|Jungle Predator}}
+** [[Toktz-xil-ul]], [[Toktz-xil-ak]], [[Toktz-xil-ek]], [[TzHaar-Ket-Om]], [[Toktz-ket-xil]], [[obsidian cape]], and [[ring of stone]] drops
+
+==Graphical updates==
+===NPC===
+{{GU|subject=NPCs
+|{{GUL|date=[[19 September]] [[2005]]|update=Massive minigame - Fight Pits|img=TzHaar-Xil (2005).png|name=TzHaar-Xil}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=TzHaar-Xil (2008).png|name=TzHaar-Xil}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=TzHaar-Xil.png|name=TzHaar-Xil}}
+}}
+
+
+===Chathead===
+{{GU|subject=chathead
+|{{GUL|date=[[19 September]] [[2005]]|update=Massive minigame - Fight Pits|img=TzHaar-Xil chathead (2005).png|name=TzHaar-Xil}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=TzHaar-Xil chathead (2008).png|name=TzHaar-Xil}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=TzHaar-Xil chathead.png|name=TzHaar-Xil}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Massive minigame - Fight Pits|date=19 September 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* TzHaar-Xil used to be around most of the old TzHaar city, but they were spread further apart after the graphical update.
+* Sometimes a TzHaar-Xil will attack using a weapon that it doesn't appear to have equipped, or using an attack style not possible with the weapons it does have equipped.
+* One of the TzHaar-Xil in the TzHaar City is glitched. It will only do melee attacks despite having a Toktz-Xil-Ul.
+
+==References==
+{{Reflist}}
+
+{{TzHaar}}
+{{TzHaar City}}

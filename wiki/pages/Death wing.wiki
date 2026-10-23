@@ -1,0 +1,114 @@
+{{External|rsc=Death Wing|os}}
+{{Infobox Monster
+|name = Death wing
+|image = [[File:Death wing.png|250px]]
+|release = [[20 August]] [[2003]]
+|update = New - Legends Quest!
+|members = Yes
+|options = Attack
+|examine = A shadowy, barely visible flying entity from some evil place.
+|level = 77
+|lifepoints = 2750
+|experience = 137.5
+|slayxp = 54.8
+|aggressive = Yes
+|poisonous = No
+|slayercat = Ghosts, Undead
+|max_melee = 220
+|max_ranged = 0
+|max_magic = 220
+|max_necromancy = 0
+|max_spec = 0
+|style = magic, melee
+|primarystyle = magic
+|speed = 4
+|attack = 55
+|ranged = 1
+|magic = 55
+|necromancy = 1
+|acc_melee = 983
+|acc_ranged = 0
+|acc_magic = 983
+|acc_necromancy = 0
+|armour = 983
+|defence = 55
+|weakness = Arrows
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 79
+|leagueRegion=Karamja}}
+'''Death wings''' are [[ghost]]ly bat-like creatures encountered in the [[Viyeldi caves]] during and after the [[Legends' Quest]].
+
+They attack with [[melee]] against a player if they are initiating combat, but if the player attacks them first, they will only attack back with [[magic]]. The [[ectoplasmator]] will give a player 4.5 [[Prayer]] experience upon killing them.
+
+To reach them, players should bring one or more [[lockpick]]s, a [[machete]], a [[Hatchets|hatchet]] and a [[pickaxes|pickaxe]] (the tool belt can be used for all except the lockpick, unless the [[Master thief's lockpick]] has been added to the tool belt). The dungeon can be found in the north-west of the [[Kharazi Jungle]] by searching the mossy rocks, after which the player should search the bookshelf north of [[Ungadulu]] and choose to squeeze through there, picklock the ancient door, mine the rocks and open another door to reach the Death wings. Death wings can also sometimes be found inside [[Barrel (Viyeldi caves)|barrel]]s in the dungeon.
+
+Despite their bat-like appearance, they cannot be killed for [[Bats (Slayer assignment)|bats Slayer assignment]], instead counting as [[Ghosts (Slayer assignment)|ghost]] and by extension [[Undead (Slayer assignment)|undead]].
+
+Killing a death wing is one of the [[hard Karamja achievements]], [[Deadwing]]. 
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Viyeldi caves]]
+|lvls=77
+|mem=yes
+|mapID=622
+|npcid:79,x:2796,y:9304|npcid:79,x:2799,y:9308|npcid:79,x:2800,y:9301
+|npcid:79,x:2803,y:9296|npcid:79,x:2806,y:9292|npcid:79,x:2808,y:9308
+|npcid:79,x:2811,y:9296|npcid:79,x:2811,y:9301
+|leagueRegion = Karamja}}
+{{LocTableBottom}}
+
+==Drops==
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineGhostlyEssence|quantity=1|rarity=Rare}}
+{{DropsLineGhosts}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Deadwing}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[20 August]] [[2003]]|update=New - Legends Quest!|img=Death wing (2003).png|name=Death wing}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Death wing (2004).png|name=Death wing}}
+|{{GUL|date=[[18 October]] [[2006]]|update=Capes of Achievement... and Goats!|img=Death wing (2006).png|name=Death wing}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Death wing (2008).png|name=Death wing}}
+|{{GUL|date=[[12 May]] [[2014]]|update=Patch Notes (12 May 2014)|img=Death wing.png|name=Death wing}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (7 March 2016)|date=7 March 2016}}
+** Death wings have had their combat stats rebalanced.
+
+* {{UL|type=update|update=New - Legends Quest!|date=20 August 2003}}
+** Added to game.
+}}
+
+==Trivia==
+*In ''RuneScape Classic'' their examine text identifies them as "supernatural creatures of the [[Underworld]]", indicating a connection with [[Nezikchened]] who also derives from there.
+
+==References==
+{{Reflist}}
+
+{{Legends' Quest}}
+[[Category:Quest monsters]]

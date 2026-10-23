@@ -1,0 +1,284 @@
+{{External|rsc=Fire Giant|os}}
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = Bare-handed
+|version2 = Spiked with sword (unused)
+|version3 = Club
+|version4 = Sword
+|name = Fire giant
+|image1 = [[File:Fire giant.png|150px]]
+|release = [[8 May]] [[2002]]
+|update = Latest RuneScape News (8 May 2002)
+|members = Yes
+|actions = Attack
+|examine = A very large elemental adversary.
+|level = 85
+|lifepoints = 6,700
+|experience = 335
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 161.2
+|slayercat = Fire giants
+|max_melee = 335
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 60
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 1132
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 1197
+|defence = 62
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Desert,Wilderness,Kandarin,Karamja
+|id1 = 110, 1582
+|id2 = 1583
+|id3 = 1584, 1585
+|id4 = 1586
+}}
+[[File:Fire giant icon.png|left]]
+'''Fire giants''' are a type of [[giant]] known for their high [[gold charm]] drop rate. Fire giants are weak to Magic, specifically water spells, and any tier 70 or higher Magic weapon should suffice. Lower-level players may need to mitigate damage taken via additional food or vampyrism effects such as the [[Vampyrism aspect]] or [[Scrimshaw of vampyrism]].
+
+[[Herbicide]] or the [[herb bag]], and the [[gem bag]] can be useful when killing fire giants due to their relatively common herb and uncut gem drops.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Smoke Dungeon]]
+|lvls=85
+|mem=yes
+|mapID=591
+|npcid:110,x:3244,y:9356|npcid:1586,x:3244,y:9369|npcid:1585,x:3252,y:9359
+|npcid:110,x:3252,y:9370|npcid:110,x:3294,y:9375|npcid:1585,x:3306,y:9400
+|leagueRegion = Desert}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=85
+|mem=yes
+|mapID=23
+|npcid:1586,x:3220,y:5496|npcid:110,x:3225,y:5494|npcid:110,x:3225,y:5498
+|npcid:1586,x:3230,y:5494|npcid:110,x:3230,y:5499|npcid:1585,x:3234,y:5497
+|npcid:1582,x:3203,y:5516|npcid:110,x:3206,y:5512|npcid:1582,x:3206,y:5515
+|npcid:110,x:3210,y:5516|npcid:1582,x:3210,y:5521|npcid:110,x:3213,y:5519
+|npcid:1585,x:3245,y:5518|npcid:1585,x:3245,y:5522|npcid:1585,x:3245,y:5535
+|npcid:1585,x:3249,y:5515|npcid:1585,x:3250,y:5539|npcid:110,x:3256,y:5514
+|npcid:1585,x:3256,y:5540|npcid:1585,x:3257,y:5524
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Baxtorian Falls resource dungeon]]
+|lvls=85
+|mem=yes
+|requirements =
+* {{Skillreq|Dungeoneering|35}}
+* {{QuestIcon|Waterfall Quest}}
+|mapID=376
+|npcid:110,x:1233,y:4566|npcid:1586,x:1237,y:4573|npcid:1585,x:1239,y:4567
+|npcid:110,x:1240,y:4579|npcid:1585,x:1246,y:4576|npcid:1586,x:1247,y:4571
+|npcid:1586,x:1247,y:4583|npcid:110,x:1252,y:4569|npcid:1585,x:1255,y:4577
+|npcid:110,x:1259,y:4572|npcid:1586,x:1261,y:4577
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Waterfall Dungeon]]
+|lvls=85
+|mem=yes
+|requirements =
+* {{QuestIcon|Waterfall Quest}}
+|mapID=619
+|npcid:1586,x:2562,y:9886|npcid:1585,x:2565,y:9887|npcid:110,x:2568,y:9889
+|npcid:1585,x:2569,y:9886|npcid:1585,x:2573,y:9895|npcid:1586,x:2575,y:9891
+|npcid:110,x:2577,y:9890|npcid:110,x:2577,y:9897|npcid:1586,x:2578,y:9895
+|npcid:1585,x:2580,y:9890|npcid:110,x:2581,y:9895
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Brimhaven Dungeon]]
+|lvls=85
+|mem=yes
+|mapID=13
+|npcid:1586,x:95,y:72|npcid:110,x:98,y:93|npcid:110,x:99,y:73
+|npcid:1585,x:104,y:74|npcid:1586,x:107,y:88|npcid:1585,x:28,y:135
+|npcid:1586,x:30,y:143|npcid:110,x:32,y:177|npcid:1585,x:34,y:169
+|npcid:110,x:35,y:149|npcid:1585,x:35,y:154|npcid:1586,x:40,y:158
+|npcid:1585,x:43,y:155
+|leagueRegion = Karamja}}
+{{LocTableBottom}}
+
+They are most easily accessed through [[Brimhaven dungeon]], requiring 875 coins or the [[hard Karamja achievements]] to be completed. After completion of the [[Waterfall Quest]], the [[Waterfall Dungeon]] can also be used. With completion of the quest and level 35 [[Dungeoneering]], the [[Baxtorian Falls resource dungeon]] may also be used.
+
+[[Chaos Tunnels]] have the advantage of being close to the [[Wilderness Crater lodestone]] and having no requirements. At the lodestone, go south and enter the north-western entrance of the tunnels, then go south through the portal to reach the fire giants. However, there is a small chance the portal would teleport you to a random room. Therefore, it is advised to have a teleport out handy and retry if needed.
+
+While they may also be fought in the [[Smoke Dungeon]] under [[Pollnivneach]], it requires face protection via a [[face mask]] or [[slayer helmet]]. However, placing a slayer helmet in a [[Slayer helmet stand|stand]] in the tier 3 [[Slayer Lodge]] passively grants the effects of a face mask.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Fire battlestaff|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Law rune|quantity=2|rarity=1/128}}
+{{DropsLine|name=Blood rune|quantity=5|rarity=4/128|members=Yes}}
+{{DropsLine|name=Rune arrow|quantity=12|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|20/128}}
+{{DropsTableHead}}
+{{HerbDropTable|20/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny bladed steel salvage|quantity=1|rarity=11/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=15|rarity=14/128}}
+{{DropsLine|name=Coins|quantity=25|rarity=6/128}}
+{{DropsLine|name=Coins|quantity=50|rarity=1/128}}
+{{DropsLine|name=Coins|quantity=60|rarity=40/128}}
+{{DropsLine|name=Coins|quantity=300|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Lobster|quantity=1|rarity=5/128}}
+{{DropsLine|name=Strength potion (2)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Coal stone spirit|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem and Rare drop table===
+{{GemDropTable|12/128|rdt=1/250}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Fire giant bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=no}}
+{{DropsLine|name=Shoulder bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=no}}
+{{DropsLineBoneFragments|slayer_level=1}}
+{{DropsLine|name=Rare drop table|quantity=1|rarity=1/250}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5000}}
+{{DropsLineEffigy|level=85}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=85}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 574.886/1000
+|green = 71.861/1000
+|crimson = 47.907/1000
+|blue = 14.372/1000
+}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Bare-handed
+|item1 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Fire giant (1) (2004).png|name=Fire giant}}
+|{{GUL|date=[[17 January]] [[2005]]|update=Karamja Dungeon|img=Fire giant (1) (17 January 2005).png|name=Fire giant}}
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Fire giant (1) (26 January 2005).png|name=Fire giant}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Fire giant (1) (2006).png|name=Fire giant}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Fire giant.png|name=Fire giant}}
+}}
+
+|text2 = Club
+|item2 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[17 January]] [[2005]]|update=Karamja Dungeon|img=Fire giant (2) (17 January 2005).png|name=Fire giant}}
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Fire giant (2) (26 January 2005).png|name=Fire giant}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Fire giant (2) (2006).png|name=Fire giant}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Fire giant (2).png|name=Fire giant}} <!-- Should be changed to spiked fire giant with club -->
+}}
+
+|text3 = Sword
+|item3 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[17 January]] [[2005]]|update=Karamja Dungeon|img=Fire giant (3) (17 January 2005).png|name=Fire giant}}
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Fire giant (3) (26 January 2005).png|name=Fire giant}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Fire giant (3) (2006).png|name=Fire giant}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Fire giant (3).png|name=Fire giant}} <!-- Should be changed to fire giant with sword -->
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Fire giants are removed from [[Deep Wilderness Dungeon]] and [[Wilderness]].
+
+* {{UL|type=ninja|update=This Week In RuneScape: Yak To Basics and Ninja Strike 20!|date=1 March 2021}}
+** Fire giants now attack with melee and are weak to water spells.
+
+* {{UL|type=ninja|update=Patch Notes (16 October 2017)|date=16 October 2017}}
+** Fire giants now drop [[batwing wand]]s or [[batwing book|books]] instead of [[fire battlestaves]] on free worlds.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for Fire Giants.
+
+* {{UL|type=patch|update=Patch Notes (14 January 2013)|date=14 January 2013}}
+** Updated fire giant combat levels in line with the [[Evolution of Combat]].
+
+* {{UL|type=patch|update=Patch Notes (4 December 2012)|date=4 December 2012}}
+** Fire giants dying in the [[Chaos Tunnels]] will no longer drop their loot on an unreachable tile next to the lava pit.
+
+* {{UL|type=patch|update=Patch Notes (24 June 2010)|date=24 June 2010}}
+** Fire giant heads no longer shrink midway through their death animation.
+
+* {{UL|type=update|update=Latest RuneScape News (8 May 2002)|date=8 May 2002}}
+** Added to game.
+}}
+
+==Trivia==
+* Even though the [[TokKul-Zo]] is supposed to work against "TzHaar, '''Fire''' and Obsidian creatures", it has no effect on Fire Giants; as no charges are used. This may be due to the fact that the [[TokKul-Zo]] is designed for use against lava creatures.
+* A hidden update on [[9 July]] [[2013]] caused fire giants to no longer be aggressive. This was reverted on [[9 February]] [[2015]], making them aggressive again.
+* These monsters create a very quiet rustling or hissing sound all the time, which gets louder as you get closer to the giant. According to the Audio Options interface, this is considered an ambient sound. It likely represents their internal fire, visible from above a giant's head.
+* These monsters were popular for training [[ranged]] prior to the [[Evolution of Combat]], but lost popularity due to their new ability to retaliate with ranged attacks of their own. They lost their ranged attacks in an update in early 2021.
+* Before the graphical updates, the Fire Giants' weapon was often thought to be a [[Dragon 2h sword]]. This was before Dragon 2hs were released in the game, so this similarity was noted by many players. One player even asked in the third [[Postbag from the Hedge]]: "Hi, I would like to ask the fire giant a question. Why is it that you have the only dragon two handed sword in the game, and you don't even drop it? Yours truly, Jabbaz". The reply was: "If you had the only dragon two-handed sword in the game, would you drop it?"{{CitePostbag|issue=3|author=Jabbaz|letter=Letter 3|name=Postbag 3}}
+* Fire giants used to be exclusive to members until [[9 October]] [[2017]] which unlocked the "Deep Wilderness" section for free players, including the dungeon the giants reside in. They became members only again when they were removed in 2022.
+** During their free-to-play availability, the [[fire battlestaff]] drop was a members-only drop, and was replaced by either a [[batwing wand]] or [[batwing book|book]] in free-to-play worlds.
+* They were removed from the [[Deep Wilderness Dungeon]] on [[1 August]] [[2022]] and have not been replaced; they are no longer eligible for [[Slayer contract (Wilderness)]].
+
+==References==
+{{Reflist}}
+
+{{Giants}}
+{{Brimhaven Dungeon}}
+[[Category:Elementals]]
+[[pt:Gigante do fogo]]

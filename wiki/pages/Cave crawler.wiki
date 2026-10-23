@@ -1,0 +1,205 @@
+{{Dgvariant}}
+{{Otheruses|def=no|the level 59 cave crawlers|Cave crawler (Pollnivneach Slayer Dungeon)}}
+{{External|os}}
+{{Infobox Monster
+|name = Cave crawler
+|image = [[File:Cave crawler.png|250px]]
+|release = [[26 January]] [[2005]]
+|update = Slayer Skill
+|members = Yes
+|actions = Attack
+|examine = A spiky crawling critter.
+|level = 24
+|lifepoints = 2650
+|aggressive = No
+|poisonous = 300
+|slaylvl = 10
+|slayxp = 30.8
+|slayercat = Cave crawlers
+|assigned_by = Mazchna,Chaeldar,Sumona
+|max_melee = 0
+|max_ranged = 400
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 20
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 216
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 257
+|defence = 15
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1600, 1601, 1602, 1603
+|leagueRegion=Misthalin, Fremennik
+}}
+[[File:Cave crawler icon.png|left]]
+'''Cave crawlers''' are [[Slayer]] monsters that require level 10 Slayer to kill. They drop a variety of [[Herblore]] related items and seeds. They are poisonous and have a fast healing rate (approximately 10 life points per second). [[Cave crawler (Pollnivneach Slayer Dungeon)|Level 59 cave crawlers]] have a much higher chance of dropping herbs and seeds than the level 24.
+
+Cave crawlers are a popular delicacy amongst the [[Dorgeshuun]] [[cave goblin]]s, who cut them into [[fillets]] and serve them on a large platter.
+
+In the quest [[Fur 'n Seek]], a [[cave crawler skin]] must be collected and cleaned for the [[Odd Old Man]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Dorgesh-Kaan South Dungeon]]
+|lvls=24
+|mem=yes
+|mapID=-1
+|npcid:1603,x:2708,y:5214|npcid:1601,x:2710,y:5211|npcid:1602,x:2711,y:5203
+|npcid:1600,x:2712,y:5215|npcid:1601,x:2712,y:5224
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Fremennik Slayer Dungeon]]
+|lvls=24
+|mem=yes
+|mapID=5
+|npcid:1602,x:2781,y:10000|npcid:1603,x:2782,y:9995|npcid:1600,x:2784,y:9998
+|npcid:1602,x:2785,y:9992|npcid:1601,x:2787,y:9996|npcid:1602,x:2790,y:9994
+|npcid:1603,x:2793,y:9998|npcid:1600,x:2795,y:9994
+|leagueRegion = Fremennik}}
+{{LocLine
+|loc=[[Lumbridge Swamp Caves]]
+|lvls=24
+|mem=yes
+|mapID=608
+|npcid:1600,x:3186,y:9582|npcid:1603,x:3189,y:9566|npcid:1602,x:3189,y:9574
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Strengths and weaknesses==
+Level 24 crawlers, compared to other similarly-levelled monsters, are relatively weak and should only require a few mid-level food such as [[swordfish]] or [[beltfish]] with a high enough [[Defence]] level and if an [[antipoison]] is consumed immediately upon being poisoned. The level 59 crawlers are a tougher challenge and will likely require additional food or healing methods. Cave crawlers are great temporary training for mid-to high-level [[melee]] players. Due to their fairly low defence, tier 50 gear and level 60 combat stats will suffice for [[Slayer]] tasks or training.
+
+Cave crawlers poison fairly often with their ranged attacks so it is advised to bring [[antipoison]] when fighting them, or prevent being poisoned (for some time) using a [[super antipoison]], the [[anti-poison totem]], or using the Oo'glog [[thermal bath]] prior to engaging in combat. Their poison is not much of a threat at higher levels, and can be offset with good food or healing abilities. However, lower level players are suggested to bring at least one method of poison mitigation, as it can be deadly if not paid attention to. Due to their high accuracy, complete mitigation of damage at lower levels is unlikely.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Cave crawler#Level 24|mobname=level 24 cave crawler}}
+
+===Charms===
+{{CharmDropTable
+|quantity = 1
+|gold = 98.819/1000
+|green = 12.352/1000
+|crimson = 8.235/1000
+|blue = 2.47/1000
+|combat = 24
+|altcombat = 59
+|effigy = yes
+|gems = yes
+|mimic = yes
+}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Fire rune|quantity=12|rarity=5/128}}
+{{DropsLine|name=Nature rune|quantity=3|rarity=5/128}}
+{{DropsLine|name=Earth rune|quantity=9|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{AllotmentSeedDropTableIntro|16/128}}
+{{DropsTableHead}}
+{{AllotmentSeedDropTable|16/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|33/128}}
+{{DropsTableHead}}
+{{HerbDropTable|33/128}}
+{{DropsTableBottom}}
+
+===Materials===
+{{DropsTableHead}}
+{{DropsLine|name=Vial of water|quantity=1|rarity=13/128}}
+{{DropsLine|name=White berries|quantity=1|rarity=5/128}}
+{{DropsLine|name=Unicorn horn dust|quantity=1|rarity=2/128}}
+{{DropsLine|name=Red spiders' eggs|quantity=1|rarity=1/128}}
+{{DropsLine|name=Eye of newt|quantity=1|rarity=1/128}}
+{{DropsLine|name=Limpwurt root|quantity=1|rarity=1/128}}
+{{DropsLine|name=Snape grass|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=3|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=29|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=8|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=10|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=18/128}}
+{{DropsLine|name=Tiny plated bronze salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Cave crawler skin|quantity=1|rarity=Always|raritynotes={{DropNote|name=furnseek|Only during the [[Fur 'n' Seek/Wish list|Fur 'n' Seek wish list]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Blind Creature teaser.jpg|thumb|The Blind Creature concept art
+</gallery>
+
+==Achievements==
+* {{Achievement|Bring the Antipoisons}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Cave crawler (2005).png|name=Cave crawler}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Cave crawler (June 2008).png|name=Cave crawler}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cave crawler (July 2008).png|name=Cave crawler}}
+|{{GUL|date=[[5 September]] [[2015]]|update=Patch Notes (15 September 2014)|img=Cave crawler (Pollnivneach Slayer Dungeon).png|name=Cave crawler}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes cave crawlers.
+
+* {{UL|type=patch|update=Patch Notes (6 October 2014)|date=6 October 2014}}
+** Cave crawlers will no longer stretch whilst walking.
+
+* {{UL|type=ninja|update=Patch Notes (15 September 2014)|date=15 September 2014}}
+** Cave crawler models have been updated.
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Concept art was shown for them in the "[[Tears of Guthix]]: Go with the Flow" BTS video, but referred to as ''blind creature''.
+
+{{Slayer monsters}}

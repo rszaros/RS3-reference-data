@@ -1,0 +1,120 @@
+{{Infobox Monster
+|name = Masuta the Descended
+|image = [[File:Masuta the Descended.png]]
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|members = Yes
+|options = Attack, Mark, Examine
+|race = Undead
+|examine = Sometimes death is only a minor inconvenience.
+|level = 1000
+|lifepoints = 195000
+|experience = 9750.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Ghosts, Undead
+|max_melee = 1368
+|max_ranged = 1368
+|max_magic = 1368
+|max_necromancy = 0
+|style = melee, magic
+|primarystyle = ranged
+|speed = 4
+|attack = 90
+|ranged = 90
+|magic = 90
+|necromancy = 1
+|acc_melee = 2765
+|acc_ranged = 2765
+|acc_magic = 2765
+|acc_necromancy = 0
+|armour = 1694
+|defence = 85
+|weakness = Nothing
+|susceptibility = salve, undead slayer
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 55
+|aff_magic = 55
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|dropversion = Normal mode,Story mode
+|leagueRegion = Wilderness
+|id = 26215
+|voice = Yes
+}}
+'''Masuta the Descended''' is a miniboss in [[The Shadow Reef]]. He is the resurrected spirit of [[Masuta the Ascended]], the second boss in the first elite dungeon, [[Temple of Aminishi]].
+
+Masuta performs many of the same attacks as his original incarnation (though he yells a quote prior to using his abilities), but does not summon [[thrashing water]]s or create pillars of water. As he is a resurrected spirit, he is considered [[undead]] and is thus affected by undead-slaying equipment. Unlike the other minibosses encountered in the dungeon, Masuta is also capable of running much like in the original encounter.
+
+==Drops (story mode)==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead|version=Story mode}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Dungeoneering token|quantity=500|rarity=Always|gemw=no|alch=no|altvalue=1|altcurrency=Dungeoneering tokens}}
+{{DropsTableBottom}}
+
+==Drops (normal mode)==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mob=Masuta the Descended#Normal mode}}
+
+===100%===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Dungeoneering token|quantity=5000|rarity=Always|gemw=no|alch=no|altvalue=1|altcurrency=Dungeoneering tokens}}
+{{DropsLine|name=Ghostly essence|quantity=20-29|rarity=Always}}
+{{DropsTableBottom}}
+
+===Alchables===
+{{The Shadow Reef alchables drop table|250/1000|tier=3|version=Normal mode}}
+
+===Currency===
+{{The Shadow Reef currency drop table|650/1000|500/1000|tier=3|version=Normal mode}}
+
+===Supplies===
+{{The Shadow Reef supplies drop table|100/1000|tier=2|version=Normal mode}}
+
+===Lucky charm===
+{{Lucky charm (Shadow Reef) drops|150/1000|version=Normal mode}}
+
+===Rare drop table===
+{{Rare drop table|1/150|version=Normal mode}}
+
+===Tertiary===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=1000}}
+{{DropsLineMimic|level=1000}}
+{{DropsTableBottom}}
+
+====Charms====
+{{EliteDungeonCharmDropTable|version=Normal mode}}
+
+==Dialogue==
+{{Hastranscript|npc}}
+
+==Achievements==
+* {{Achievement|I'm the Masuta Now}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{The Shadow Reef}}
+{{Ghost}}
+[[Category:NPCs that can move at running speed]]

@@ -1,0 +1,69 @@
+{{Infobox Monster
+|name = Spectral tender
+|image = [[File:Spectral tender.png|100px|Spectral tender]]
+|release = [[11 January]] [[2010]]
+|update = Nomad's Requiem
+|members = Yes
+|options = Attack
+|examine = A lingering soul.
+|level = 70
+|lifepoints = 2500
+|experience = 125.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ghosts
+|assigned_by = Turael, Mazchna, Vannaka
+|max_melee = 200
+|max_ranged = 200
+|max_magic = 200
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 50
+|ranged = 50
+|magic = 50
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 850
+|acc_magic = 850
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Nothing
+|susceptibility = Salve
+|aff_weakness = 40
+|aff_melee = 40
+|aff_ranged = 40
+|aff_magic = 40
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 9451
+|leagueRegion=Misthalin}}
+'''Spectral tenders''' are found in the south-east room of the ruined temple under [[Soul Wars]], during the [[Nomad's Requiem]] quest. They tend the Strange device by putting fuel into it.
+
+A [[Salve amulet]] or [[Salve amulet (e)]] is effective when killing Spectral worshippers.
+
+==Habitat==
+[[Nomad's Temple]]
+
+==Drops==
+===Main drops===
+{{DropsTableHead}}
+{{DropsLine|name=Elemental fuel|quantity=1|rarity=Common|gemw=no|alch=no}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Nomad's Requiem|date=11 January 2010}}
+** Added to game.
+}}
+
+{{Nomad's Requiem}}
+{{Ghost}}
+[[Category:Quest monsters]]

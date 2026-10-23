@@ -1,0 +1,198 @@
+{{External|os}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Blessed pot
+|version2 = Silver pot
+|version3 = Dominion Tower
+|version4 = Rumble Mode
+|name = Dessous
+|image = [[File:Dessous.png]]
+|release1 = [[18 April]] [[2005]]
+|release2 = [[18 April]] [[2005]]
+|release3 = [[1 November]] [[2011]]
+|release4 = [[8 December]] [[2014]]
+|update1 = Desert Treasure
+|update2 = Desert Treasure
+|update3 = Dominion Tower
+|update4 = Snowverload & Dominion Tower Rumble Mode
+|members = Yes
+|options = Attack, Examine
+|race = Vampyre
+|examine = Vampire warrior of Zamorak.
+|level = 84
+|lifepoints1 = 26250
+|lifepoints2 = 26250
+|lifepoints3 = 20000
+|lifepoints4 = 20000
+|experience1 = 1312.5
+|experience2 = 1312.5
+|experience3 = 1000
+|experience4 = 1000
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 210
+|slayercat1 = Vampyres
+|slayercat2 = No
+|slayercat3 = No
+|slayercat4 = No
+|max_melee1 = 864
+|max_melee2 = 864
+|max_melee3 = 864
+|max_melee4 = 360
+|max_ranged1 = 864
+|max_ranged2 = 864
+|max_ranged3 = 864
+|max_ranged4 = 360
+|max_magic1 = 864
+|max_magic2 = 864
+|max_magic3 = 864
+|max_magic4 = 360
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed1 = 4
+|speed2 = 4
+|speed3 = 3
+|speed4 = 3
+|attack = 60
+|ranged = 60
+|magic = 60
+|necromancy = 1
+|acc_melee = 1132
+|acc_ranged = 1132
+|acc_magic = 1132
+|acc_necromancy = 0
+|abilities = 
+|armour = 1132
+|defence = 60
+|weakness1 = Air
+|weakness2 = Nothing
+|weakness3 = Air
+|weakness4 = Air
+|susceptibility1 = Vampyre Slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction1 = quest
+|restriction2 = quest
+|restriction3 = minigame
+|restriction4 = minigame
+|id1 = 1914
+|id2 = 1915
+|id3 = 14586
+|id4 = 17296
+|leagueRegion = Morytania
+|leagueRegion3 = Desert
+|leagueRegion4 = Desert
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|name = Dessous
+|image = [[File:Dessous.png]]
+|release = [[1 November]] [[2011]]
+|update = Dominion Tower
+|members = Yes
+|race = Vampyre
+|quest = No
+|location = [[Dominion Tower]]
+|gender = Male
+|options = Examine
+|examine = Vampire warrior of Zamorak.
+|map = No
+|id = 14580, 14581
+|leagueRegion = Desert
+}}
+}}
+'''Dessous''', is a [[Vampyre (race)|vampyre]] lord who owns some territory north of [[Castle Drakan]]. He must be killed during the [[Desert Treasure]] quest. Dessous can be fought in the [[Graveyard (Mort Myre Swamp)|graveyard]] south-east of [[Mort Myre Swamp]]. To awaken him, players must use a [[Blessed pot (complete)|blessed silver pot containing blood, garlic and spice]] on [[Vampyre tomb|his grave]].
+
+The player is told of Dessous by [[Malak]], one of the four guardians of the [[Diamonds of Azzanadra]], who wants him dead in order to claim Dessous' land as his own. In order to achieve this, Malak tells the player that Dessous guards the diamond and if they wish to retrieve it they must eliminate him; it is when the player encounters Malak after the fight that he confesses that he is the real guardian and that Dessous was just an enemy of his, and then gives the diamond to the player as a reward for their troubles.
+
+Dessous is fightable along with [[Fareed]], [[Kamil]] and [[Damis]] as [[Damis, Fareed, Kamil and Dessous|a class B boss monster]] in the [[Dominion Tower]] minigame if the player has completed [[Desert Treasure]]. See [[Dominion Tower/Strategies#Damis, Fareed, Kamil, and Dessous|here]] for a guide on how to defeat the combined four bosses.
+
+==Map==
+{{Map:Dessous}}
+
+==Strategy==
+As Dessous' weakness is [[air spell]]s, it is advised to use the strongest air spell the player is capable of casting against him and wearing their best set of magic equipment. Dessous' non-melee attack is half magic, half ranged (a blood bomb in the quest, and a swarm of bats in the Dominion Tower) of which do. He mainly attacks with a much faster [[melee]] attack if [[Protect from Melee]] is not being used. As the bomb/bat attack is extremely accurate, it is advised to use [[Protect from Ranged]]/[[Protect from Magic|Magic]] to lower the chances and damage of using this attack — Dessous recognises the overhead the player is using and will switch his attack accordingly.
+
+If players try to hit Dessous from a long distance away, he will teleport closer to them, and if Dessous teleports three times in total he will get "bored of toying with you" and go back to his grave (this means the player will have to refill the silver pot and start the fight again).
+
+If any part of the silver pot making process is not followed correctly (for example, if the pot is not blessed), Dessous will say "You will never defeat me" when reduced to 0 life points and regenerate all his life points, so extra caution is advised when making the pot properly.
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Dessous Grave.gif|Dessous getting out of his grave ready for battle
+File:Desert Treasure - Fighting Dessous.png|Fighting Dessous
+</gallery>
+
+==Dialogue==
+{{Speaksin}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Dessous old.png|name=Dessous}}
+|{{GUL|date=[[16 February]] [[2015]]|update=Patch Notes (16 February 2015)|img=Dessous.png|name=Dessous}}
+}}
+{{GU|subject=chathead
+|{{GUL|date=|update=|img=Dessous chathead.png|name=Dessous}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Part II: Journey into the East!|date=28 September 2026}}
+** Added susceptibility to the [[Vampyre Slayer (ability)|Vampyre Slayer]] ability.
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Update:Combat Update & Thok's Smashing Buffs- This Week In RuneScape|date=4 March 2024}}
+** Increased the base hit chance of all the following bosses to use the standard base hit chances.
+** Increased the life points of the boss: Dessous - Desert Treasure
+*** HP: 25000 → 26250
+
+* {{UL|type=ninja|update=Patch Notes (14 September 2015)|date=14 September 2015}}
+** The following quest fights have been rebalanced:
+*** Desert Treasure:
+**** Dessous now has 25,000 life points (up from 3,000).
+**** Dessous now has a max hit of 864 (up from 240).
+**** Dessous will now occasionally use his ranged attack in his standard attack rotation.
+*** Desert Treasure (Dominion Tower):
+**** Same changes as the quest variants.
+**** Dessous now has 20,000 life points (up from 6,000).
+**** Dessous now has a max hit of 864 (up from 360).
+
+* {{UL|type=patch|update=Patch Notes (16 February 2015)|date=16 February 2015}}
+** The character models for Damis and Dessous in Desert Treasure and Dominion Tower have been updated.
+
+* {{UL|type=update|update=Desert Treasure|date=18 April 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* ''Dessous'' in French means 'underneath', 'under' or 'below', perhaps pertaining to Dessous being in a coffin. The similar-sounding Arabic word '''Jāsūs''<nowiki/>' (Ar. « جاسُوسٌ ») means "spy" or "traitor", and would align more closely with the naming conventions of a number of other characters in [[Desert Treasure]], most notably the other three warriors (all of whom have Arabic names).
+* He has a counterpart in [[Recipe for Disaster: Defeating the Culinaromancer]] named [[Dessourt]].
+* Although other [[Vampyre]]s were updated on [[17 August]] [[2011]], Dessous did not and neither did a few others: [[Malak]], [[Ruantun]], [[Vlad]], [[revenant vampyre]]s, and other vampyres in the [[God Wars Dungeon]]. He finally got an update on [[16 February]] [[2015]], along with co-Desert Treasure boss, [[Damis]].
+* Unlike other Vampyre Lords (Vyrelords and Vyreladies) he can be harmed without use of the Ivandis Flail or Blisterwood Weaponry.
+
+{{Desert Treasure}}
+{{Vampyres}}
+[[Category:Quest monsters]]
+[[Category:Zamorakians]]
+[[Category:Bosses]]
+[[Category:Non-player characters]]
+[[Category:Unique monsters]]
+[[Category:Drakan Bloodline]]
+[[Category:Deceased characters]]

@@ -1,0 +1,115 @@
+{{Needs image|type=npc}}
+{{Infobox Monster
+|version1 = Normal
+|version2 = Hard
+|name = Ghost healer
+|image = 
+|release = [[20 November]] [[2023]] 
+|update = Vorkath, Battle for Forinthry - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|race = 
+|examine = Animated dead.
+|level = 76
+|lifepoints1 = 3000
+|lifepoints2 = 6000
+|experience = 765.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Ghosts, Undead
+|max_melee = 0.0
+|max_ranged = 0.0
+|max_magic = 1500.0
+|max_necromancy = 0.0
+|max_spec = 
+|style = magic
+|primarystyle = magic
+|speed = 5
+|attack = 1
+|ranged = 1
+|magic = 60
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 1032
+|acc_necromancy = 0
+|abilities = 
+|armour = 850
+|defence = 50
+|weakness = Arrows
+|susceptibility = undead
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = 
+|leagueRegion = Misthalin
+|id = 30675
+}}
+
+'''Ghost healers''' are enemies encountered in the [[Zemouregal & Vorkath]] boss fight. 
+
+When summoned, they will heal Vorkath for 1,000 health every few ticks, which does not scale accordingly to group size.
+
+==Life points==
+The healer's [[life points]] scale accordingly to the amount of players in the instance when they were summoned.
+
+{|class="wikitable
+!Players||Life points (normal) || Life points (hard) 
+|-
+|1 || 3,000 || 6,000 
+|-
+|2
+|6,000
+|12,000
+|-
+|3
+|9,000
+|18,000
+|-
+|4
+|12,000
+|24,000
+|-
+|5
+|15,000
+|30,000
+|-
+|6
+|18,000
+|36,000
+|-
+|7
+|21,000
+|42,000
+|-
+|8 || 24,000 || 48,000 
+|-
+|9
+|27,000
+|54,000
+|-
+|10
+|30,000
+|60,000
+|}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Vorkath, Battle for Forinthry - This Week In RuneScape|date=20 November 2023}}
+** Added to the game.
+}}
+
+{{Zemouregal & Vorkath}}

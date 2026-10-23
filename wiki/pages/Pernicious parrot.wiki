@@ -1,0 +1,129 @@
+{{Infobox Monster
+|name = Pernicious parrot
+|image = [[File:Pernicious parrot.png|250px|Pernicious parrot]]
+|release = [[9 October]] [[2007]]
+|update = Back to my Roots quest
+|members = Yes
+|actions = Attack
+|examine = Polynomial - a parrot that goes without breakfast, lunch or dinner.
+|level = 63
+|lifepoints = 3700
+|experience = 185.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 34.2
+|slayercat = Birds
+|assigned_by = Turael
+|max_melee = 900
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 45
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 632
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 6382
+|leagueRegion=Karamja}}
+The '''Pernicious Parrot''' is a monster that is located in the [[Jade vine maze]]. It is encountered during [[Back to my Roots]], along with [[Tenacious toucan|Tenacious Toucan]]. Both of these monsters count towards 'Bird' slayer assignments.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Jade vine maze]]
+|lvls=63
+|mem=yes
+|mapID=28
+|npcid:6382,x:2891,y:2998|npcid:6382,x:2895,y:2990|npcid:6382,x:2898,y:2976
+|npcid:6382,x:2882,y:2984|npcid:6382,x:2892,y:3000|npcid:6382,x:2896,y:2982
+|npcid:6382,x:2901,y:2989|npcid:6382,x:2922,y:2970|npcid:6382,x:2883,y:2980
+|npcid:6382,x:2895,y:2978
+|leagueRegion = Karamja}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+{{Average drop value|mob=Pernicious parrot}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Feather|quantity=10|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main drop===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|quantity=1|rarity=186/256}}
+{{DropsLine|name=Papaya tree seed|quantity=1|rarity=1/256}}
+{{DropsLine|name=Papaya fruit|quantity=1|rarity=5/256}}
+{{DropsLine|name=Trading sticks|quantity=1-25|rarity=5/256}}
+{{DropsLine|name=Vial of water|quantity=1|rarity=20/256}}
+{{DropsLine|name=Orange|quantity=1|rarity=2/256}}
+{{DropsLine|name=Watermelon slice|quantity=1|rarity=6/256}}
+{{DropsLine|name=Raw karambwan|quantity=1|rarity=6/256}}
+{{DropsLine|name=Yew logs|quantity=1|rarity=2/256}}
+{{DropsLine|name=Grimy wergali|quantity=1|rarity=4/256}}
+{{DropsLine|name=Wergali seed|quantity=1|rarity=10/256}}
+{{DropsTableBottom}}
+
+===Seed drop table===
+{{GeneralSeedDropTableIntro|9/256}}
+{{DropsTableHead}}
+{{AllotmentSeedDropTable|9/256}}
+{{DropsTableBottom}}
+
+===Body parts===
+{{DropsTableHead}}
+{{DropsLine|name=Hand (Back to my Roots)|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence|Only before and during the [[One Foot in the Grave (miniquest)|One Foot in the Grave]] miniquest. Each received only once, unless destroyed after obtaining. Parts are dropped in order: hand, foot, torso, left arm, right arm, left leg, right leg.}}}}
+{{DropsLine|name=Foot|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Torso (Back to my Roots)|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Left arm|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Right arm|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Left leg|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Right leg|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=2/256}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (5 August 2019)|date=5 August 2019}}
+** Fixed the click boxes on the Pernicious Parrots and Tenacious Toucans.
+
+* {{UL|type=update|update=Back to my Roots quest|date=9 October 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine text is a play on the word ''polynomial'' which sounds like a pun for "Polly-no-meal".
+
+{{Back to my Roots}}
+[[Category:Parrots]]
+[[Category:NPCs that can ignore ground blocking]]

@@ -1,0 +1,163 @@
+{{otheruses|def=no|the monkeys during the final Wild Weekend|Zombie monkey}}
+{{External|os}}
+{{Infobox Monster
+|version1 = 72
+|version2 = 75
+|version3 = 77
+|name = Monkey Zombie
+|image = [[File:Monkey Zombie.png|120px]]
+|release = [[6 December]] [[2004]]
+|update = Monkey Madness
+|members = Yes
+|options = Attack
+|examine1 = A recently deceased monkey. Its flesh seems to be worse for the wear.
+|examine2 = A large and lumbering undead monkey stands here, blocking the way.
+|examine3 = A large and lumbering undead monkey.
+|level1 = 72
+|level2 = 75
+|level3 = 77
+|lifepoints1 = 2600
+|lifepoints2 = 2700
+|lifepoints3 = 2750
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 47.4
+|slayxp2 = 52.2
+|slayxp3 = 54.8
+|slayercat = Monkeys, zombies, undead
+|max_melee1 = 208
+|max_melee2 = 216
+|max_melee3 = 220
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 52
+|attack2 = 54
+|attack3 = 55
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee1 = 901
+|acc_melee2 = 955
+|acc_melee3 = 983
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 901
+|armour2 = 955
+|armour3 = 983
+|defence1 = 52
+|defence2 = 54
+|defence3 = 55
+|weakness = Air
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Kandarin
+|id1 = 1467
+|id2 = 1466
+|id3 = 1465
+|dropversion1 = 72
+|dropversion2 = 75,77
+|dropversion3 = 75,77
+}}
+'''Monkey zombies''' are encountered during [[Monkey Madness]] in the [[Ape Atoll Dungeon]]. They drop [[Monkey bones (Zombie)|zombie monkey bones]] that are needed to make a [[Zombie greegree]].
+
+The level 72 and 75 monkey zombies can be found in the [[Temple of Marimbo Dungeon]]. The level 72 zombies are much smaller than the others, and the size of the monkey that the greegree transforms the player into depends on the size of the monkey that the bones were obtained from.
+
+There are also level 77 monkey zombies located in the inaccessible room under the Marimbo Temple, and in Ape Atoll Dungeon along with the [[Skeleton (Ape Atoll)|Skeleton monkeys]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ape Atoll Dungeon]]
+|lvls=77
+|mem=yes
+|mapID=615
+|npcid:1465,x:2694,y:9115|npcid:1465,x:2697,y:9130|npcid:1465,x:2698,y:9145
+|npcid:1465,x:2702,y:9093|npcid:1465,x:2714,y:9095|npcid:1465,x:2719,y:9147
+|npcid:1465,x:2726,y:9107|npcid:1465,x:2728,y:9097|npcid:1465,x:2740,y:9138
+|npcid:1465,x:2742,y:9146|npcid:1465,x:2752,y:9144|npcid:1465,x:2763,y:9118
+|npcid:1465,x:2764,y:9133|npcid:1465,x:2765,y:9113|npcid:1465,x:2769,y:9094
+|npcid:1465,x:2772,y:9110|npcid:1465,x:2774,y:9093|npcid:1465,x:2777,y:9144
+|npcid:1465,x:2779,y:9119|npcid:1465,x:2779,y:9129|npcid:1465,x:2781,y:9092
+|npcid:1465,x:2788,y:9103|npcid:1465,x:2793,y:9129|npcid:1465,x:2794,y:9117
+|npcid:1465,x:2799,y:9112|npcid:1465,x:2801,y:9097|npcid:1465,x:2807,y:9131
+|npcid:1465,x:2809,y:9104|npcid:1465,x:2810,y:9111|npcid:1465,x:2810,y:9123
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Temple of Marimbo Dungeon]]
+|lvls=72, 75
+|mem=yes
+|mapID=617
+|npcid:1467,x:2761,y:9193|npcid:1465,x:2761,y:9197|npcid:1467,x:2761,y:9204
+|npcid:1465,x:2763,y:9201|npcid:1467,x:2763,y:9205|npcid:1465,x:2764,y:9191
+|npcid:1467,x:2764,y:9193|npcid:1467,x:2764,y:9197|npcid:1467,x:2765,y:9188
+|npcid:1467,x:2765,y:9202|npcid:1467,x:2765,y:9203|npcid:1467,x:2766,y:9191
+|npcid:1467,x:2766,y:9196|npcid:1465,x:2766,y:9199|npcid:1467,x:2768,y:9197
+|npcid:1467,x:2768,y:9201|npcid:1466,x:2768,y:9203|npcid:1465,x:2769,y:9190
+|npcid:1466,x:2769,y:9202|npcid:1467,x:2770,y:9188|npcid:1467,x:2770,y:9192
+|npcid:1467,x:2770,y:9199|npcid:1466,x:2770,y:9202|npcid:1467,x:2771,y:9195
+|npcid:1467,x:2782,y:9193|npcid:1467,x:2785,y:9200|npcid:1467,x:2786,y:9204
+|npcid:1467,x:2790,y:9194|npcid:1467,x:2798,y:9196|npcid:1467,x:2798,y:9199
+|npcid:1467,x:2798,y:9204|npcid:1467,x:2800,y:9196|npcid:1467,x:2800,y:9198
+|npcid:1467,x:2800,y:9203|npcid:1467,x:2806,y:9201|npcid:1467,x:2807,y:9200
+|npcid:1467,x:2807,y:9202|npcid:1466,x:2808,y:9191|npcid:1466,x:2808,y:9194
+|npcid:1466,x:2808,y:9208|npcid:1466,x:2808,y:9210
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Training==
+If you have a high enough prayer and combat level, these monsters can be used for training. With a high prayer level and combat level, you can get around 100,000 experience per hour. Use prayer, and when you are out run upstairs and use the altar. Make sure, however, to become a monkey using a [[greegree]] or you will be trapped by the larger monkeys up the ladder. An alternative to training here would be to bring [[Prayer#Equipment|prayer-boosting gear]] and use [[prayer potion]]s, getting rid of the need to go upstairs and avoid the monkey guards. Remember to bring [[Salve amulet]] or [[Salve amulet (e)]], as they are undead.
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Small zombie monkey bones|quantity=1|rarity=Always|gemw=no|version=72}}
+{{DropsLine|name=Large zombie monkey bones|quantity=1|rarity=Always|gemw=no|version=75,77}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Monkey paw|rarity=Always|quantity=1|gemw=no|raritynotes={{DropNote|Only during [[Rag and Bone Man]].}}}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=patch|update=Patch Notes (15 September 2010)|date=15 September 2010}}
+** Stopped a zombie monkey from walking up a wall. (Bad zombie monkey, bad!)
+
+* {{UL|type=update|update=Monkey Madness|date=6 December 2004}}
+** Added to game.
+}}
+
+{{Zombie}}
+{{Monkey Madness}}
+{{Monkeys}}
+[[Category:Ape Atoll]]
+[[Category:NPCs that block game squares]]

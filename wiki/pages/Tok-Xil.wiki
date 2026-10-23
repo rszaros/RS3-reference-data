@@ -1,0 +1,126 @@
+{{External|os|dw}}
+{{Otheruses|the monster in the [[TzHaar Fight Pit]] and [[TzHaar Fight Cave]]|the monster in the [[player-owned house]] [[treasure room]]|Tok-Xil (player-owned house)}}
+{{redirect3|Xil|For the TzHaar found in the city itself, see [[TzHaar-Xil]]. For the obsidian shield item, see [[Toktz-ket-xil]]}}
+{{otheruses|def=no|the [[TokHaar]] version|TokHaar-Tok-Xil}}
+{{otheruses|def=no|the [[TzekHaar]] version|TzekHaar-Tok-Xil}}
+{{Infobox Monster
+|version1 = Fight Cave
+|version2 = Fight Pit
+|version3 = The Brink of Extinction
+|name = Tok-Xil
+|image = [[File:Tok-Xil.png|270px]]
+|release1 = [[4 October]] [[2005]]
+|release2 = [[19 September]] [[2005]]
+|release3 = [[4 December]] [[2012]]
+|update1 = TzHaar Fight Caves
+|update2 = Massive_minigame_-_Fight_Pits
+|update3 = The Brink of Extinction - Grandmaster Quest
+|members = Yes
+|race = Volcanic creature
+|options = Attack
+|examine = The Tok-Xil fires deadly spines out of its arm, projected by its own heat.
+|level1 = 90
+|level2 = 90
+|level3 = 105
+|lifepoints1 = 7500
+|lifepoints2 = 11250
+|lifepoints3 = 11250
+|experience1 = 375.0
+|experience2 = 562.5
+|experience3 = 562.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl1 = 1
+|slayxp1 = 193
+|slayercat1 = Volcanic creatures
+|assigned_by1 = kuradal
+|assigned_by2 = no
+|assigned_by3 = no
+|max_melee1 = 504
+|max_melee2 = 0
+|max_melee3 = 0
+|max_ranged1 = 288
+|max_ranged2 = 1125
+|max_ranged3 = 1125
+|max_magic = 0
+|max_necromancy = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack1 = 70
+|attack2 = 1
+|attack3 = 1
+|ranged1 = 60
+|ranged2 = 75
+|ranged3 = 75
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 202
+|acc_melee2 = 0
+|acc_melee3 = 0
+|acc_ranged1 = 1230
+|acc_ranged2 = 1694
+|acc_ranged3 = 1694
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 1230
+|armour2 = 1486
+|armour3 = 1486
+|defence1 = 63
+|defence2 = 75
+|defence3 = 75
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction1 = minigame
+|restriction2 = minigame
+|restriction3 = quest
+|id1 = 2739
+|id2 = 16269
+|id3 = 16269
+|leagueRegion = Karamja, Tirannwn
+}}
+The '''Tok-Xil''' is a monster found in the [[TzHaar Fight Pit]] and [[TzHaar Fight Cave]]. It appears first in wave 7 of the Fight Cave. It uses very accurate melee and ranged attacks. Its melee can hit into the low 200s to 300s, but its range has been known to hit around 500. This monster has very low life points and defence making them much easier to defeat than their combat level suggests. Their primary weakness in the Fight Cave is slashing weapons, so it is advisable to bring a high level slashing weapon such as a [[Godsword]] to make short work of them. They have no weakness when encountered in the Fight Pit.
+
+A [[Tok-Xil (player-owned house)|level 135 version]] of the Tok-Xil can also be purchased by players to guard a [[treasure room]] in their [[player-owned house]]. This requires 85 [[Construction]] and costs 5,000,000 coins each.
+
+They have a stronger [[TokHaar]] counterpart known as the [[TokHaar-Tok-Xil]], and an even stronger [[TzekHaar]] counterpart known as [[TzekHaar-Tok-Xil]].
+
+==Gallery==
+<gallery mode="packed" heights="150">
+TzHaar monsters concept art.png|Concept art for the 2008 designs of [[Tz-Kek]], Tok-Xil and a TzHaar.
+TzHaar - Thz tok-xill.png|Concept art for the Tok-Xil's 2012 design.
+TBoE room 2 fight.png|Fighting a Tok-Xil in the second room during [[The Brink of Extinction]]
+</gallery>
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[19 September]] [[2005]]|update=Massive_minigame_-_Fight_Pits|img=Tok-Xil (2005).png|name=Tok-Xil}}
+|{{GUL|date=[[19 September]] [[2005]]|update=Massive_minigame_-_Fight_Pits|img=Tok-Xil (2) (2005).png|name=Tok-Xil}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=Tok-Xil (2008).png|name=Tok-Xil}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=Tok-Xil.png|name=Tok-Xil}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Massive_minigame_-_Fight_Pits|date=19 September 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Prior to their update on [[14 February]] [[2012]], their examine text was "''I don't like the look of those spines...''".
+
+{{The Brink of Extinction}}
+{{TzHaar Fight Cave}}

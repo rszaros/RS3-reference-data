@@ -1,0 +1,103 @@
+{{Infobox Monster
+|name = Cerberus Juvenile
+|image = [[File:Cerberus Juvenile.png|x280px]]
+|release = [[4 July]] [[2022]]
+|update = Zamorak, Lord of Chaos - This Week In RuneScape
+|race = Cerberus
+|members = Yes
+|options = Attack, Mark, Examine
+|examine = This...is a small one?
+|leagueRegion = Misthalin
+|level = 138
+|lifepoints = 120000
+|experience = 6000.0
+|aggressive = Yes
+|poisonous = Yes
+|slaylvl = 1
+|slayxp = 2500
+|slayercat = Hellhounds, Demons
+|max_melee = 2570
+|max_ranged = 2011
+|max_magic = 2011
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 115
+|ranged = 90
+|magic = 90
+|necromancy = 1
+|acc_melee = 4292
+|acc_ranged = 2458
+|acc_magic = 2458
+|acc_necromancy = 0
+|armour = 2178
+|defence = 85
+|weakness = Earth
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 60
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 29302
+}}
+'''Cerberus Juvenile''' is a [[The Zamorakian Undercity#Minibosses|miniboss]] released with [[The Zamorakian Undercity]]. It is found in the first section of the dungeon, inside a house on the north side. It has the [[Smouldering Hide]] passive ability, which lowers the amount of damage it takes the further away from the Cerberus Juvenile players are. In order to do full damage, players must get within melee distance.
+
+The Cerberus Juvenile will attack either with three simultaneous melee hits, or a combination of magic and ranged. It is also poisonous. Players can completely avoid taking damage by standing one space south of the door to the Cerberus Juvenile's room, at a cost of dealing somewhat reduced damage; the Cerberus will move in front of the door so that it and the player will be one space apart.  
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Dungeoneering token|quantity=500;5000|rarity=Always|gemw=no|alch=no|quantitynotes={{DropNote|Amount dropped in Story mode is reduced to 500.}}|altvalue=1|altcurrency=Dungeoneering tokens}}
+{{DropsTableBottom}}
+
+===Rare drops===
+{{The Zamorakian Undercity miniboss rare drops}}
+
+===Common drops===
+{{The Zamorakian Undercity miniboss common drops}}
+
+===Additional drops===
+{{DropsTableHead}}
+{{DropsLine|name=Sliver of pain|quantity=4-6|rarity=1/300|altrarity=1/299|quantitynotes={{DropNote|name=sliver|Slivers dropped are equally distributed.}}|raritynotes={{DropNote|name=luck|T4 luck decreases the denominator by one.}}}}
+{{DropsLine|name=Sliver of power|quantity=4-6|rarity=1/300|altrarity=1/299|quantitynotes={{DropNote|name=sliver}}|raritynotes={{DropNote|name=luck}}}}
+{{DropsLine|name=Sliver of strength|quantity=4-6|rarity=1/300|altrarity=1/299|quantitynotes={{DropNote|name=sliver}}|raritynotes={{DropNote|name=luck}}}}
+{{DropsLine|name=Alchable|image=High Level Alchemy icon.png{{!}}x25px|quantity=1|rarity=99/100}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=1/12|altrarity=1/11|raritynotes={{DropNote|name=luck}}}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|You Ain't Nothin' But A Hound Dog}}
+* {{Achievement|Don't Go Wandering Down Dark Alleys Alone}}
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Base hit chances increased:
+*** Magic: 65 → 70
+*** Melee and ranged: 55 → 60
+
+* {{UL|type=update|update=Shooting Star Refresh - This Week In RuneScape|date=16 December 2024}}
+** Slayer XP reduced to 2,500 from 10,000.
+
+* {{UL|type=update|update=Zamorak, Lord of Chaos - This Week In RuneScape|date=4 July 2022}}
+** Added to game.
+}}
+
+==References==
+{{reflist}}
+
+{{The Zamorakian Undercity}}
+{{Demons}}

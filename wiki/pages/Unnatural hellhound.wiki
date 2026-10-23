@@ -1,0 +1,68 @@
+{{Infobox Monster
+|version1 = Regular
+|version2 = Hydra
+|name1 = Unnatural hellhound
+|name2 = Unnatural hellhound (hydra)
+|image1 = [[File:Unnatural hellhound.png|x280px]]
+|image2 = [[File:Unnatural hellhound (hydra).png|x280px]]
+|release = [[2 May]] [[2017]]
+|update = Shattered Worlds
+|members = Yes
+|options = Attack, Examine
+|examine = Hello, nice doggy...?
+|level = 1
+|lifepoints = 100
+|experience = 5.0
+|aggressive = No
+|poisonous = No
+|slayercat = Hellhounds
+|max_melee = 9
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 110
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Nothing
+|susceptibility = Demon
+|aff_weakness = 65
+|aff_melee = 65
+|aff_ranged = 65
+|aff_magic = 65
+|immune_to_poison = No
+|restriction = minigame
+|id1 = 24303
+|id2 = 24304
+|leagueRegion=asgarnia}}
+'''Unnatural hellhounds''' can be found while playing [[Shattered Worlds]]. Their levels and stats scale to the world the player finds them on. 
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[2 May]] [[2017]]|update=Shattered Worlds|img=Unnatural hellhound (2017).png|name=Unnatural hellhound}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Unnatural hellhound (2022).png|name=Unnatural hellhound}}
+|{{GUL|date=[[6 February]] [[2023]]|update=Prepping For Fort Forinthry - This Week In RuneScape|img=Unnatural hellhound.png|name=Unnatural hellhound}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Prepping For Fort Forinthry - This Week In RuneScape|date=6 February 2023}}
+** Updated the appearance of hellhounds by adjusting their roughness and metal spec values.
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Hellhounds have been graphically updated.
+
+* {{UL|type=update|update=Shattered Worlds|date=2 May 2017}}
+** Added to game.
+}}
+
+{{Shattered Worlds}}

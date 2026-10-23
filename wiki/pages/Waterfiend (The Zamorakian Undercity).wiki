@@ -1,0 +1,71 @@
+{{Otheruses|the monster in [[The Zamorakian Undercity]]|other uses|Waterfiend (disambiguation)}}
+{{Infobox Monster
+|name = Waterfiend
+|image = [[File:Waterfiend (The Zamorakian Undercity).png|x280px]]
+|release = [[4 July]] [[2022]]
+|update = Zamorak, Lord of Chaos - This Week In RuneScape
+|members = Yes
+|options = Attack, Mark, Examine
+|race = Fiend
+|examine = A fiendish embodiment of water.
+|leagueRegion = Misthalin
+|level = 111
+|lifepoints = 9000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 600.0
+|slayercat = Waterfiends, Demons
+|max_melee = 1414
+|max_ranged = 1506
+|max_magic = 1506
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 5
+|attack = 77
+|ranged = 82
+|magic = 82
+|acc_melee = 1783
+|acc_ranged = 2023
+|acc_magic = 2023
+|abilities = No
+|armour = 1783
+|defence = 77
+|weakness = Bolts
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 29268
+}}
+'''Waterfiends''' are found in the sewer canal of [[The Zamorakian Undercity]].
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes|quantity=1|rarity=Always}}
+{{DropsLine|name=Water rune|quantity=20-48|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main===
+{{The Zamorakian Undercity drops}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Base hit chances increased:
+*** Ranged: 65 → 70
+*** Magic and melee: 55 → 60
+
+* {{UL|type=update|update=Zamorak, Lord of Chaos - This Week In RuneScape|date=4 July 2022}}
+** Added to game.
+}}
+
+{{The Zamorakian Undercity}}
+{{Demons}}

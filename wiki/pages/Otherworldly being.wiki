@@ -1,0 +1,156 @@
+{{External|os|rsc=Otherworldly being}}
+{{Infobox Monster
+|name = Otherworldly being
+|image = [[File:Otherworldly being.png|110px]]
+|release = [[25 March]] [[2002]]
+|update = Latest RuneScape News (25 March 2002)
+|members = Yes
+|options = Attack
+|examine = Looks pretty otherworldly to me!
+|level = 55
+|lifepoints = 5650
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 76
+|slayercat = Otherworldly beings
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 900
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 45
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 632
+|acc_necromancy = 0
+|armour = 536
+|defence = 35
+|weakness = Thrown
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 126
+|leagueRegion=Misthalin}}
+[[File:Otherworldly being icon.png|left]]
+'''Otherworldly beings''' are monsters found in the south-west of [[Zanaris]], in a separate room south of the bank and the range.
+
+[[Slayer master]]s give the following advice for this creature: ''"Otherworldly Beings are ethereal beings making them weak to ranged attacks."''
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Zanaris]]
+|lvls = 55
+|mem = Yes
+|mapID = 1
+|plane = 0
+|npcid:126,x:2381,y:4422
+|npcid:126,x:2381,y:4425
+|npcid:126,x:2382,y:4429
+|npcid:126,x:2385,y:4419
+|npcid:126,x:2388,y:4421
+|npcid:126,x:2388,y:4428
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=1/64}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Nature rune|quantity=5|rarity={{#expr:63*9}}/8192}}
+{{DropsLine|name=Chaos rune|quantity=4|rarity={{#expr:63*8}}/8192}}
+{{DropsLine|name=Law rune|quantity=2|rarity={{#expr:63*7}}/8192}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity={{#expr:63*5}}/8192}}
+{{DropsLine|name=Death rune|quantity=2|rarity={{#expr:63*4}}/8192}}
+{{DropsLine|name=Blood rune|quantity=2|rarity={{#expr:63*1}}/8192}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|{{#expr:63*10}}/8192}}
+{{DropsTableHead}}
+{{HerbDropTable|{{#expr:63*10}}/8192}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=15|rarity={{#expr:63*59}}/8192|gemw=No}}
+{{DropsLine|name=Nothing|rarity={{#expr:63*18}}/8192}}
+{{DropsLine|name=Ruby ring|quantity=1|rarity={{#expr:63*2}}/8192}}
+{{DropsLine|name=Tiny blunt mithril salvage|quantity=1|rarity={{#expr:63*1}}/8192}}
+{{DropsLine|name=Mackerel|quantity=1|rarity={{#expr:63*1}}/8192}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|{{#expr:63*3}}/8192}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Otherworldly beings.png|Otherworldly beings in their natural habitat
+</gallery>
+
+==Graphical updates==
+===NPC===
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Otherworldly being old.png|name=Otherworldly being}}
+|{{GUL|date=[[13 May]] [[2010]]|update=A Fairy Tale Part III – Battle at Orks Rift|img=Otherworldly being.png|name=Otherworldly being}}
+}}
+
+===Location===
+{{GU|subject=locations
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Otherwordly beings zanaris.png|name=Otherworldly beings}}
+|{{GUL|date=[[13 May]] [[2010]]|update=A Fairy Tale Part III – Battle at Orks Rift|img=Otherworldly beings.png|name=Otherworldly beings}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Patch Notes (21 July 2009)|date=21 July 2009}}
+** Corrected references to otherworldly beings.
+
+* {{UL|type=update|update=Latest RuneScape News (25 March 2002)|date=25 March 2002}}
+** Added to game.
+}}
+
+==Trivia==
+* Otherworldly beings received a graphical update along with Zanaris on [[13 May]] [[2010]]. Prior to the graphical update, Otherworldly beings were apparently invisible beings, and hence appeared as floating Dark Wizard robes. However, after the update they now have visible body parts.
+* Their old examine text was: ''Is he invisible or just a set of floating clothing?''
+* If a Zanaris random event is triggered which renders you temporarily unable to attack (like turning into a pig or a chicken, performing the Dance emote) and you are in combat with an Otherworldly being, the Otherworldly being continues to attack, hitting for no damage. You are unable to retaliate, however.
+* In Runescape Classic, Otherworldly beings dropped 2 coins each kill.
+* According to [[Guthix]] in a [[God letters|god letter]], they are incorporeal and 'flitter between the dimensions like butterflies across a meadow,' until slain.{{CiteGodLetter|issue=11|letter=19}}
+
+==See also==
+* [[Irksol]], an Otherworldly being in the Zanaris Marketplace
+
+==References==
+{{reflist}}
+
+{{Zanaris}}

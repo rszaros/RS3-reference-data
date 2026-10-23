@@ -1,0 +1,201 @@
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{External|os}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|name = Skeletal miner
+|image = [[File:Skeletal miner.png]]
+|release = [[21 December]] [[2004]]
+|update = The Haunted Mine
+|members = Yes
+|options = Attack, Examine
+|examine = I don't think the pickaxe is for hitting rocks.
+|level = 49
+|lifepoints = 1750
+|experience = 87.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 21.6
+|slayercat = Skeletons, Undead
+|max_melee = 140
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 35
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 536
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 536
+|defence = 35
+|weakness = Earth
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania
+|id = 1539
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|name = Corpse
+|image = [[File:Corpse (Skeletal miner).png]]
+|release = [[21 December]] [[2004]]
+|update = The Haunted Mine
+|members = Yes
+|race = Skeleton
+|quest = No
+|location = [[Abandoned Mine]]
+|gender = N/A
+|options = Examine
+|examine = Well, at least he doesn't have to worry about getting 'black lung'.
+|map = See [[#Locations|Locations]]
+|leagueRegion = Morytania
+|id = 1538
+}}
+}}
+A '''skeletal miner''' is an [[undead]] monster. It appears on the level 2 and 4 of the [[Abandoned Mine]] as a '''corpse''' and will animate occasionally when walked past to attack you. They count as [[Skeletons (Slayer assignment)|skeletons]] for the purpose of [[Slayer assignment]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Corpse
+|loc = [[Abandoned Mine]] level 4
+|mem = Yes
+|requirements = {{QuestIcon|Haunted Mine}} (partial)
+|mapID = 296
+|plane = 0
+|lvls = 49
+|npcid:1538,x:2762,y:4509
+|npcid:1538,x:2767,y:4523
+|npcid:1538,x:2769,y:4501
+|npcid:1538,x:2769,y:4517
+|npcid:1538,x:2773,y:4515
+|npcid:1538,x:2773,y:4532
+|npcid:1538,x:2783,y:4494
+|npcid:1538,x:2789,y:4516
+|npcid:1538,x:2792,y:4490
+|npcid:1538,x:2795,y:4496
+|npcid:1538,x:2804,y:4525
+|npcid:1538,x:2806,y:4502
+|npcid:1538,x:2807,y:4513
+|npcid:1538,x:2808,y:4518
+|leagueRegion = Morytania
+}}
+{{LocLine
+|name = Corpse
+|loc = [[Abandoned Mine]] level 2
+|mem = Yes
+|requirements = {{QuestIcon|Haunted Mine}} (partial)
+|mapID = 294
+|plane = 0
+|lvls = 49
+|npcid:1538,x:2800,y:4573
+|npcid:1538,x:2801,y:4580
+|npcid:1538,x:2802,y:4580
+|npcid:1538,x:2807,y:4572
+|npcid:1538,x:2810,y:4573
+|npcid:1538,x:2811,y:4567
+|npcid:1538,x:2813,y:4571
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+====Weapons and armours====
+{{DropsTableHead}}
+{{DropsLine|name=Iron med helm|quantity=1|rarity=6/128}}
+{{DropsLine|name=Iron sword|quantity=1|rarity=4/256}}
+{{DropsLine|name=Iron off hand sword|quantity=1|rarity=4/256}}
+{{DropsLine|name=Iron scimitar|quantity=1|rarity=1/256}}
+{{DropsLine|name=Iron off hand scimitar|quantity=1|rarity=1/256}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=15|rarity=3/128}}
+{{DropsLine|name=Water rune|quantity=9|rarity=3/128}}
+{{DropsLine|name=Chaos rune|quantity=5|rarity=3/128}}
+{{DropsLine|name=Iron arrow|quantity=12|rarity=2/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=2/128}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|20/128}}
+{{DropsTableHead}}
+{{HerbDropTable|20/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=5|rarity=25/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=10|rarity=24/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=25|rarity=8/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=45|rarity=4/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=65|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=1|rarity=2/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=8/128}}
+{{DropsLine|name=Bronze bar|quantity=1|rarity=5/128}}
+{{DropsLine|name=Iron hatchet|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[21 December]] [[2004]]|update=The Haunted Mine|img=Skeletal miner (2004).png|name=Skeletal miner}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeletal miner (2007).png|name=Skeletal miner}}
+|{{GUL|date=|update=|img=Skeletal miner old2.png|name=Skeletal miner}}
+|{{GUL|date=|update=|img=Skeletal miner.png|name=Skeletal miner}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=The Haunted Mine|date=21 December 2004}}
+** Added to game.
+}}
+
+{{Haunted Mine}}
+{{Skeleton}}

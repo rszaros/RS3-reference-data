@@ -1,0 +1,230 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Sword
+|version2 = Warhammer
+|version3 = Banner
+|version4 = Spear
+|version5 = Battleaxe
+|name = Goblin
+|image1 = [[File:Goblin (God Wars Dungeon, sword).png]]
+|image2 = [[File:Goblin (God Wars Dungeon, warhammer).png]]
+|image3 = [[File:Goblin (God Wars Dungeon, banner).png]]
+|image4 = [[File:Goblin (God Wars Dungeon, spear).png]]
+|image5 = [[File:Goblin (God Wars Dungeon, battleaxe).png]]
+|release = [[28 August]] [[2007]]
+|update = God Wars Dungeon
+|members = Yes
+|options = Attack, Examine
+|race = Goblin
+|examine1 = An ancient goblin.
+|examine2 = A warrior for Bandos.
+|examine3 = A soldier to the death.
+|examine4 = Cannon fodder, so to speak.
+|examine5 = Footsoldier for Bandos.
+|level = 84
+|lifepoints = 6000
+|experience = 300.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 140
+|slayercat = Goblins
+|max_melee = 300
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 60
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1132
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1132
+|defence = 60
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia
+|id1 = 6279
+|id2 = 6283
+|id3 = 6283
+|id4 = 6283
+|id5 = 6283
+}}
+'''Goblins'''  in the [[God Wars Dungeon]] are troops for the [[Bandos]]ian army from the goblin tribe [[Rekeshuun]], fighting against the other monsters inside the dungeon. They are considerably stronger than most goblins found elsewhere and can be killed for [[killcount]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[God Wars Dungeon]]
+|lvls=84
+|mem=yes
+|mapID=15
+|npcid:6283,x:2856,y:5330|npcid:6281,x:2857,y:5331|npcid:6279,x:2858,y:5329
+|npcid:6282,x:2858,y:5331|npcid:6282,x:2862,y:5314|npcid:6279,x:2863,y:5313
+|npcid:6283,x:2864,y:5312|npcid:6280,x:2864,y:5314|npcid:6281,x:2864,y:5315
+|npcid:6282,x:2865,y:5313|npcid:6280,x:2877,y:5327|npcid:6281,x:2878,y:5328
+|npcid:6282,x:2878,y:5329|npcid:6279,x:2879,y:5326|npcid:6283,x:2879,y:5327
+|npcid:6280,x:2879,y:5330
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+These goblins are all level 84, and can be found in the northwest (Bandos) corner of the centre area. They are not found in Bandos' encampment. They are weak against earth spells.
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Bronze arrow|quantity=7|rarity=3/128}}
+{{DropsLine|name=Earth rune|quantity=4|rarity=3/128}}
+{{DropsLine|name=Body rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Mind rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Nature rune|quantity=1|rarity=1/128}}
+{{DropsLine|name=Chaos rune|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|2/128}}
+{{DropsTableHead}}
+{{HerbDropTable|2/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Bronze spear|quantity=1|rarity=9/128}}
+{{DropsLine|name=Bronze hatchet|quantity=1|rarity=3/128}}
+{{DropsLine|name=Bronze scimitar|quantity=1|rarity=1/256}}
+{{DropsLine|name=Bronze off hand scimitar|quantity=1|rarity=1/256}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1|rarity=34/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=3|rarity=13/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=5|rarity=8/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=16|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=24|rarity=3/128|gemw=No}}
+{{DropsTableBottom}}
+
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Bandos rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Bandos altar|quantity=1|rarity=Unknown}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=19/128}}
+{{DropsLine|name=Goblin mail|quantity=1|rarity=10/128}}
+{{DropsLine|name=Bronze javelin|quantity=5|rarity=2/128}}
+{{DropsLine|name=Tin ore|quantity=1|rarity=1/128}}
+{{DropsLine|name=Cape (red)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Grapes|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Goblin skull|members=yes|quantity=1|rarity=Always|gemw=no|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest.}}}}
+{{DropsLine|name=Frozen key piece (Bandos)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Bandos's Stronghold]].}}|gemw=No}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|gemw=No}}
+{{DropsLineWarpriest|god=bandos}}
+{{DropsLine|name=Goblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Goblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Achievement==
+* {{Achievement|Guardian of the Realm}}
+** [[Goblin mail]] and [[goblin book]] drops
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Sword
+|item1 = 
+{{GU
+|subject = NPCs
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Goblin (God Wars Dungeon, sword) old.png|name=Goblin (God Wars Dungeon, sword)}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Goblin (God Wars Dungeon, sword).png|name=Goblin (God Wars Dungeon, sword)}}
+}}
+|text2 = Warhammer
+|item2 = 
+{{GU
+|subject = NPCs
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Goblin (God Wars Dungeon, warhammer) old.png|name=Goblin (God Wars Dungeon, warhammer)}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Goblin (God Wars Dungeon, warhammer).png|name=Goblin (God Wars Dungeon, warhammer)}}
+}}
+|text3 = Banner
+|item3 = 
+{{GU
+|subject = NPCs
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Goblin (God Wars Dungeon, banner) old.png|name=Goblin (God Wars Dungeon, banner)}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Goblin (God Wars Dungeon, banner).png|name=Goblin (God Wars Dungeon, banner)}}
+}}
+|text4 = Spear
+|item4 = 
+{{GU
+|subject = NPCs
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Goblin (God Wars Dungeon, spear) old.png|name=Goblin (God Wars Dungeon, spear)}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Goblin (God Wars Dungeon, spear).png|name=Goblin (God Wars Dungeon, spear)}}
+}}
+|text5 = Battleaxe
+|item5 = 
+{{GU
+|subject = NPCs
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Goblin (God Wars Dungeon, battleaxe) old.png|name=Goblin (God Wars Dungeon, battleaxe)}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Goblin (God Wars Dungeon, battleaxe).png|name=Goblin (God Wars Dungeon, battleaxe)}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Tin stone spirit → Tin ore
+*** Medium spiky bronze salvage → Bronze spear
+*** Tiny bladed bronze salvage → Bronze hatchet
+*** Small bladed bronze salvage → Bronze scimitar/Bronze off hand scimitar
+
+* {{UL|type=update|update=Tuska Clean Up - This Week In RuneScape|date=18 August 2025}}
+** The Sacrifice, Devotion, and Transfigure abilities have been removed from the God Wars Dungeon I loot table, and are now obtained by completing the One Piercing Note quest.
+
+* {{UL|type=update|update=God Wars: Remastered|date=5 September 2012}}
+** Graphical overhaul of God Wars Dungeon. 
+
+* {{UL|type=patch|update=Patch Notes (13 May 2010)|date=13 May 2010}}
+** Goblin death animations should now be a bit quicker.
+
+* {{UL|type=update|update=God Wars Dungeon|date=28 August 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* Prior to the [[Evolution of Combat]], the goblins carrying banners were never aggressive and would run from players when approached. As a result of this, it contradicted their examine text, which was "A soldier to the death." These goblins also had much lower hitpoints than the other goblins in the dungeon, only having 3 hitpoints.
+
+{{Goblins}}
+{{God Wars Dungeon}}
+[[Category:Participants in the God Wars]]
+[[Category:Bandosians]]

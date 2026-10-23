@@ -1,0 +1,160 @@
+{{External|os}}
+{{Dgvariant}}
+{{Infobox Monster
+|name = Cave slime
+|image = [[File:Cave slime.png|150px]]
+|release = [[14 March]] [[2005]]
+|update = Lumbridge Swamp Caves
+|members = Yes
+|options = Attack
+|examine = A foul-smelling blob of protoplasm.
+|level = 22
+|lifepoints = 3150
+|slaylvl = 17
+|slayxp = 29
+|experience = 157.5
+|aggressive = No
+|poisonous = Yes
+|slayercat = Cave slimes
+|assigned_by = turael, jacquelyn, vannaka
+|max_melee = 0
+|max_ranged = 240
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 12
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 123
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 304
+|defence = 19
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1831
+|leagueRegion = Misthalin
+}}
+[[File:Cave slime icon.png|left]]
+A '''Cave slime''' is a poisonous [[Slayer]] monster found in the [[Lumbridge Swamp Caves]] and the [[Dorgesh-Kaan South Dungeon]]s. They require level 17 [[slayer]] to kill. They are notable for dropping considerable amounts of [[swamp tar]], which can be sold for {{GEPrice|Swamp tar}} coins each, and they can also drop [[clue scroll (easy)|easy clue scrolls]]; this makes them fairly good low level Slayer creatures to kill for money. [[Cave slime (Dungeoneering)|A slightly stronger, but non-poisonous version]] of these monsters appears in all floors of [[Daemonheim]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Dorgesh-Kaan South Dungeon]]
+|lvls=22
+|mem=yes
+|mapID=-1
+|npcid:1831,x:2696,y:5232
+|npcid:1831,x:2697,y:5234
+|npcid:1831,x:2698,y:5236
+|npcid:1831,x:2699,y:5233
+|npcid:1831,x:2700,y:5235
+|npcid:1831,x:2700,y:5238
+|npcid:1831,x:2726,y:5235
+|npcid:1831,x:2728,y:5236
+|npcid:1831,x:2731,y:5235
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Lumbridge Swamp Caves]]
+|lvls=22
+|mem=yes
+|mapID=608
+|npcid:1831,x:3150,y:9555|npcid:1831,x:3153,y:9546|npcid:1831,x:3156,y:9547
+|npcid:1831,x:3157,y:9561|npcid:1831,x:3159,y:9591|npcid:1831,x:3161,y:9559
+|npcid:1831,x:3164,y:9591|npcid:1831,x:3168,y:9590|npcid:1831,x:3178,y:9548
+|npcid:1831,x:3180,y:9543|npcid:1831,x:3181,y:9546|npcid:1831,x:3207,y:9554
+|npcid:1831,x:3210,y:9556|npcid:1831,x:3210,y:9570|npcid:1831,x:3243,y:9567
+|npcid:1831,x:3246,y:9575|npcid:1831,x:3253,y:9571
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Strategy==
+They can [[poison]] players with their ranged attack (about 25-49 damage per hit, once every few seconds, over 3 minutes), which can be [[Poison#Cure and prevention|negated by various means]], or simply healed with [[food]]. [[Antipoison]] is an affordable option for low level players, which their swamp tar and other drops could easily pay for. Since they need to deal damage with an attack to inflict poison, melee armour helps reducing the frequency.
+
+Both [[Dorgesh-Kaan South Dungeon]] and [[Lumbridge Swamp Caves]] are dark areas requiring [[light sources]]. The latter additionally have swamp gas zones that a [[lit candle]], [[lit torch]] or lit [[oil lamp]] can ignite, causing an explosion and dealing damage; advanced light sources like [[Seer's headband]] or [[mining helmet]] don't have this problem.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Swamp tar|quantity=1-6|rarity=Always}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny spiky iron salvage|quantity=1|rarity=7/128}}
+{{DropsLine|name=Medium plated iron salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small plated bronze salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny plated iron salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Bronze hatchet|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Water rune|quantity=15|rarity=5/128}}
+{{DropsLine|name=Earth rune|quantity=5|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1|rarity=7/128}}
+{{DropsLine|name=Coins|quantity=4|rarity=30/128}}
+{{DropsLine|name=Coins|quantity=10|rarity=39/128}}
+{{DropsLine|name=Coins|quantity=22|rarity=10/128}}
+{{DropsLine|name=Coins|quantity=46|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}}}
+{{DropsLine|name=Unlit torch|quantity=1|rarity=11/128}}
+{{DropsLine|name=Oil lantern frame|quantity=1|rarity=1/128}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|4/128}}
+
+==Money making guide==
+{{Mmgsection|Killing cave slime}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Lumbridge Swamp Caves|date=14 March 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Previously, equipping an [[anti-poison totem]] would not prevent Cave slimes and certain other poisonous monsters from causing poison. On 15 June 2010, Jagex implemented a fix that addressed the issue. However, during the fix, cave slimes were overlooked, and could still cause poison even if the player was holding the anti-poison totem. As of 21 September 2010, this glitch has been fixed (the exact date of the fix is unknown, and most likely occurred in a [[Hidden updates|hidden update]]).
+*Despite being poisonous, cave slime can apparently be safely eaten as [[green gloop soup]], part of [[Dorgeshuun]] cuisine.
+{{Slayer monsters}}
+[[pt:Gosma das cavernas]]

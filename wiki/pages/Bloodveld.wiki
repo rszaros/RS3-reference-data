@@ -1,0 +1,243 @@
+{{External|os}}
+{{Otheruses|the normal Bloodveld|other Bloodveld|Bloodveld (disambiguation)}}
+{{Infobox Monster
+|version1 = Normal
+|version2 = Smaller
+|name = Bloodveld
+|image = [[File:Bloodveld.png|200px]]
+|release = [[26 January]] [[2005]]
+|update = Slayer Skill
+|members = Yes
+|race = Bloodveld
+|actions = Attack
+|examine = The tongue of evil.
+|level1 = 52
+|level2 = 47
+|lifepoints1 = 10250
+|lifepoints2 = 9050
+|aggressive = No
+|poisonous = No
+|slaylvl = 50
+|slayxp1 = 151.0
+|slayxp2 = 133.0
+|slayercat = Bloodveld
+|max_melee1 = 680
+|max_melee2 = 620
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 34
+|attack2 = 31
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 419
+|acc_melee2 = 370
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 628
+|armour2 = 571
+|defence1 = 40
+|defence2 = 37
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|id1 = 1618
+|id2 = 1619
+|leagueRegion=Morytania
+}}
+[[File:Bloodveld icon.png|left]]
+'''Bloodveld''' are [[Slayer monsters]] requiring level 50 [[Slayer]] to damage. Bloodveld are assigned as a [[Bloodveld (Slayer assignment)|Slayer assignment]] by [[Mazchna]], [[Chaeldar]], [[Sumona]], [[Duradel]]/[[Lapalok]] and [[Kuradal]]. 
+
+Bloodveld are notable for frequently dropping [[congealed blood]] when slain, as well as having a favourable [[green charm]] drop rate.
+
+The [[Mutated bloodveld|mutated variant]] can also be found in the [[Meiyerditch tunnels]]. Other variants in the [[Bloodveld (God Wars Dungeon)|God Wars Dungeon]] and the [[Bloodveld (Heart of Gielinor)|Heart of Gielinor]] have slightly different combat stats and different drops.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Slayer Tower]] {{floornumber|2}}
+|lvls=58
+|mem=yes
+|mapID=28
+|plane=1
+|npcid:1619,x:3400,y:3547|npcid:1618,x:3404,y:3550|npcid:1619,x:3407,y:3542
+|npcid:1618,x:3408,y:3544|npcid:1619,x:3410,y:3545|npcid:1619,x:3410,y:3550
+|npcid:1618,x:3412,y:3541
+|leagueRegion = Morytania}}
+{{LocLine
+|loc=[[Meiyerditch tunnels#Meiyerditch laboratory|Meiyerditch Laboratories]]
+|lvls=58
+|mem=yes
+|requirements={{QuestIcon|Legacy of Seergaze}}
+|mapID=41
+|npcid:1618,x:3563,y:9739|npcid:1618,x:3566,y:9736|npcid:1618,x:3570,y:9741
+|npcid:1618,x:3576,y:9738
+|leagueRegion = Morytania}}
+{{LocTableBottom}}
+
+===Slayer Tower===
+The [[Slayer Tower]] is a popular choice for those who have not completed the quest [[Legacy of Seergaze]]. There are several bloodveld spawns on the {{FloorNumber|2}} of the tower, in the south-west corner. The nearest bank is [[Canifis]]. Bloodveld here cannot be [[Dwarf multicannon|cannoned]].
+
+The level 58 bloodveld will give 84 experience on contract and 101 experience on a special contract.
+
+===Meiyerditch Laboratories===
+The [[Meiyerditch tunnels#Meiyerditch laboratory|Meiyerditch Laboratories]] are an alternative place to kill bloodveld, however [[mutated bloodveld]]s, a stronger variant, can also be found here along with regular bloodveld. Because of this, the regular bloodveld are usually ignored. In the regular bloodveld room, be mindful that [[skeletal hand]]s or [[zombie hand]]s may drop from the ceiling or appear from the ground. Teleport to the Meiyerditch Laboratories using [[Drakan's medallion]] and run through the passage to the bloodveld spawns. A [[Mask of Crimson]], [[Helm of Blood]], [[Mask of Broken Fingers]], or [[Helm of the Dead Hand]] can also be used to teleport there. The ones found here are weak to fire spells.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black boots|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Rune arrow|quantity=40|rarity=7/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy kwuarm|quantity=1|rarity=12/128}}
+{{DropsLine|name=Wergali seed|quantity=1|rarity=12/128}}
+{{DropsTableBottom}}
+
+===Stone and wood spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Luminite stone spirit|quantity=4|rarity=8/128}}
+{{DropsLine|name=Runite stone spirit|quantity=2|rarity=10/128}}
+{{DropsLine|name=Acadia wood spirit|quantity=2|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Large bladed steel salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Huge plated steel salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=600-1000|rarity=18/128}}
+{{DropsLine|name=Coins|quantity=1200-1800|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=3000-3800|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Meat pizza|quantity=1|rarity=14/128}}
+{{DropsLine|name=Big bones|quantity=4 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|8/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-11|rarity=1/2}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=47|version=Smaller}}
+{{DropsLineEffigy|level=52|version=Normal}}
+{{DropsLineMimic|level=47|version=Smaller}}
+{{DropsLineMimic|level=52|version=Normal}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 90.982/1000
+|green = 318.436/1000
+|crimson = 45.491/1000
+|blue = 9.098/1000
+}}
+
+==Products==
+{{Uses facility list|Bloodveld}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Stuffed bloodveld.png|A [[stuffed bloodveld]], found in [[Castle Drakan]]
+File:Bloodveld leecher.png|A baby bloodveld.
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Bloodveld (26 January 2005).png|name=Bloodveld}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Bloodveld (1) (June 2008).png|name=Bloodveld (1)}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Bloodveld (2) (June 2008).png|name=Bloodveld (2)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Bloodveld (1) (July 2008).png|name=Bloodveld (1)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Bloodveld (2) (July 2008).png|name=Bloodveld (2)}}
+|{{GUL|date=[[18 August]] [[2014]]|update=Patch Notes (18 August 2014)|img=Bloodveld.png|name=Bloodveld}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Starbloom Seeds have landed - This Week In RuneScape|date=9 June 2025}}
+** Fixed an issue where black boots were unable to be dropped from bloodveld.
+
+* {{UL|type=patch|update=Game Jam Farming Strike - This Week In RuneScape|date=6 May 2025}}
+** Smaller bloodveld now have slightly reduced stats.
+** Changed the Slayer XP of bloodveld.
+** Updated the drop tables of regular and mutated bloodveld.
+*** They're now more likely to drop congealed blood.
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low-level monsters that were harder to kill than intended.
+
+* {{UL|type=patch|update=Update:Necromancy Patch Week - This Week In RuneScape|date=11 September 2023}}
+** Increased drop rate of congealed blood at gargoyles, nechryael, bloodveld, and terror dogs to reduce reliance on ravenous ghouls.
+
+* {{UL|type=patch|update=Patch Notes (16 January 2017)|date=16 January 2017}}
+** Bloodveld are now all melee-based and weak to fire spells.
+
+* {{UL|type=patch|update=Patch Notes (18 August 2014)|date=18 August 2014}}
+** Bloodveld in the Slayer Tower, God Wars, and Morytania's Underground have now had their models updated.
+
+* {{UL|type=hidden|update=Smoking Kills|date=5 June 2008}}
+** Graphically updated.
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Bloodveld are loyal to [[Zamorak]], as shown in the [[God Wars Dungeon]] and [[Heart of Gielinor]].
+* The examine text of bloodveld is similar to other slayer monsters. The bloodveld is "the tongue of evil", the [[dust devil]] is "the vacuumed face of evil", the [[basilisk]] is "the eyes of evil," and the [[rockslug]] "the slime of evil."
+* The bloodveld seems to attack twice in a row, however it actually only attacks once, as seen on the hitsplats.
+* Vampyres keep bloodveld as pets, in a similar fashion to the way in which humans keep dogs. [[Harold]], who belongs to [[Vanstrom Klause]] is one example, as are [[Grigan Kaninus]]' [[bloodveld youngling]]s.
+* In the {{Pfth|12}}, their tongues are likened to that of KISS bassist {{WP|Gene Simmons}}, a rock star who himself has an unusually long tongue.
+* As of [[1 February]] [[2018]], the highest kill count for this monster was 80,366 kills.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=http://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+** This had not increased by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=http://archive.is/Fxc11|archivedate=28 February 2020}}
+* Answering speculations about bloodvelds being demons, [[Mod Jack]] noted that despite their similarity to [[virius]], it was never stated anywhere, and that they might be creatures from [[Vampyrium]].{{CiteDiscord|url=https://discord.com/channels/303835144073248770/501819979059167242/762764488759836713|title=is it still canon that bloodveld are demons?|author=Jack#9596 (on behalf of Mod Jack)|date=5 October 2020|accessdate=12 October 2020|archiveurl=https://reldo.runescape.wiki/i/27963010#chat-messages-501819979059167242-762764488759836713|archivedate=8 March 2026}}
+
+==References==
+{{reflist}}
+
+{{Slayer monsters}}
+{{Slayer Tower}}
+[[pt:Demônios de sangue]]

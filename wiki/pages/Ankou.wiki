@@ -1,0 +1,206 @@
+{{External|os|wp}}
+{{Otheruses|def=no|the elite version|Ankou (elite)|other uses|Ankou (disambiguation)}}
+{{Redirect|Anouk|the Davendale character|Anouk Roachington}}
+{{Infobox Monster
+|name = Ankou
+|image = [[File:Ankou.png|90px]]
+|release = [[4 July]] [[2006]]
+|update = Security and free-to-play update - the Stronghold of Security
+|members = No
+|actions = Attack
+|examine = A bony ghost.
+|level = 54
+|lifepoints = 6150
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 77.4
+|slayercat = Ankou, Skeletons, Ghosts, Undead
+|max_melee = 800
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 40
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 528
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 590
+|defence = 38
+|weakness = Earth
+|susceptibility = Salve, Ghost
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 4381, 4382, 4383, 29372
+|leagueRegion = Misthalin, Wilderness
+}}
+[[File:Ankou icon.png|left]]
+'''Ankou''' are [[undead]] monsters found on the fourth level of the [[Stronghold of Security]] and in the [[Wilderness Crater]]. They are described by the Slayer Master [[Vannaka]] as "neither skeleton nor ghost, but a combination of both."
+
+Ankou are weak against Earth spells and the [[Salve amulet]]. In free worlds, they are often attacked because of their high experience yield and decent drops, although some players will kill them solely for their [[left skull half]] drops. In combat, ankou act similar to attackable human NPCs by punching their opponents.
+
+The ankou is the only monster to drop the left skull half, a component needed to assemble the [[skull sceptre]]. Wearing [[Varrock armour]] while killing them increases the chance of receiving this component of the skull sceptre.
+
+When killing ankou, an [[ankou (elite)|elite]] version may spawn (guaranteed while on a Slayer assignment), the chance of which can be further increased with the use of [[fellstalk incense sticks]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Stronghold of Security]] (fourth level)
+|lvls=54
+|mem=no
+|mapID=24
+|npcid:4383,x:107,y:45|npcid:4383,x:109,y:42|npcid:4383,x:110,y:46
+|npcid:4383,x:112,y:40|npcid:4383,x:113,y:48|npcid:4383,x:114,y:38
+|npcid:4383,x:114,y:43|npcid:4383,x:114,y:45|npcid:4383,x:115,y:40
+|npcid:4382,x:116,y:14|npcid:4383,x:116,y:46|npcid:4383,x:116,y:52
+|npcid:4382,x:117,y:13|npcid:4382,x:118,y:17|npcid:4382,x:118,y:21
+|npcid:4382,x:118,y:22|npcid:4382,x:119,y:15|npcid:4382,x:119,y:18
+|npcid:4383,x:119,y:43|npcid:4382,x:120,y:13|npcid:4382,x:121,y:19
+|npcid:4382,x:122,y:11|npcid:4382,x:123,y:18|npcid:4381,x:147,y:57
+|npcid:4381,x:149,y:56|npcid:4381,x:150,y:59|npcid:4381,x:150,y:61
+|npcid:4381,x:151,y:55|npcid:4381,x:151,y:57|npcid:4381,x:153,y:56
+|npcid:4381,x:153,y:58|npcid:4381,x:155,y:56
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Wilderness Crater]] (level 28 [[Wilderness]])
+|lvls=54
+|mem=no
+|mapID=28
+|npcid:4382,x:3139,y:3747|npcid:4382,x:3141,y:3737|npcid:4382,x:3157,y:3735
+|npcid:4382,x:3164,y:3727|npcid:4382,x:3165,y:3746|npcid:4382,x:3172,y:3713
+|npcid:4382,x:3177,y:3724
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+The average Ankou (Members) kill is worth {{NoCoins|{{#expr:{{Average drop value|Ankou#Members|raw=yes}}+{{Average drop value|Ankou|raw=yes}} round 0}}|c}}.<!-- Hacky fix for {{Average drop value}} not reading #Members subobject -->
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Salvage and spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=2|rarity=8/128}}
+{{DropsLine|name=Acadia wood spirit|quantity=3|rarity=8/128}}
+{{DropsLine|name=Mahogany wood spirit|quantity=2|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Herbs {{(m)}}===
+{{HerbDropTableIntro}} ''In free-to-play, this table cannot roll and instead there is a greater chance of receiving 20 adamant arrows.''
+{{DropsTableHead}}
+{{HerbDropTable|18/128|members=yes}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1000–2000|rarity=33/128}}
+{{DropsLine|name=Adamant arrow|quantity=20|rarity=12/128|altrarity=30/128|raritynotes={{DropNote|30/128 in free-to-play, replacing the herb drop table.}}}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=2/128|members=yes|raritynotes={{DropNote|Replaced by a greater chance to roll the gem drop table in free-to-play.}}}}
+{{DropsLine|name=Mystic cloth|quantity=1-2 (noted)|rarity=3/128}}
+{{DropsLine|name=Death rune|quantity=10|rarity=8/128}}
+{{DropsLine|name=Bass|quantity=1|rarity=14/128|members=yes|raritynotes={{DropNote|Replaced by 100-200 coins in free-to-play.}}}}
+{{DropsLine|name=Coins|quantity=100-200|rarity=14/128|namenotes={{F2POnly}}|raritynotes={{DropNote|Replaces the bass drop free-to-play.}}}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|6/128|f2p=yes|override=There is a 6/128 chance to roll the [[gem drop table]]. In free-to-play, this is increased to 8/128, replacing the battlestaff drop.}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|members=Yes|slayer_level=1}}
+{{DropsLine|name=Left skull half|quantity=1|rarity=3/128|altrarity=15/128|raritynotes={{DropNote|Only in the [[Stronghold of Security]]; wearing any level of [[Varrock armour]] increases the drop chance to 15/128. Due to how this is rolled, in free-to-play this will always be accompanied by a roll on the gem drop table; in members it will be accompanied by a battlestaff (2/3 chance) or a gem drop table roll (1/3 chance); with Varrock armour it is accompanied by a battlestaff (2/15 chance), gem drop table roll (6/15 chance), or a herb drop table roll (7/15 chance).}}|gemw=no|alch=yes}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/512|gemw=no}}
+{{DropsLineGhostlyEssence|members=Yes|quantity=1-2, 2, 4|rarity=1/256|altrarity=1/96|raritynotes={{DropNote|While on an appropriate [[Slayer assignment]], there is a 1/96 chance to drop 2 or 4 ghostly essence.}}}}
+{{DropsLineGhosts|ectorarity=1000|herbrarity=1024|herbrarityalt=512|herbraritynotes={{DropNote|1/512 during an appropriate [[Slayer assignment]]; 1/1,024 otherwise. During October, the chance is doubled. Only dropped if not already owned.}}|members=no}}
+{{DropsLineEffigy|level=54|members=yes}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineMimic|level=54|members=yes}}
+{{DropsTableBottom}}
+
+===Charms {{(m)}}===
+{{CharmDropTable
+|members=yes
+|quantity = 1
+|gold = 238.877/1000
+|green = 7.465/1000
+|crimson = 14.93/1000
+|blue = 1.493/1000
+}}
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}} 
+** [[Left skull half]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=110 Woodcutting and Fletching Launching Today! - This Week In RuneScape|date=9 December 2024}}
+** Non-elite ankou now drops ghost hunter equipment and Cremation on free-to-play and members worlds.
+
+*{{UL|type=hidden|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Non-elite ankou now drops ghost hunter equipment and Cremation on free-to-play and members worlds.
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[yew logs]] drops with [[acadia wood spirit]]s.
+** Replaced the [[medium bladed mithril salvage]] drops with [[mahogany wood spirit]]s.
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended.
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=hotfix|update=Patch Notes (16 October 2017)|date=9 October 2017}}
+** The drop rate of mystic cloth from ankou has been reduced.
+
+* {{UL|type=ninja|update=Patch Notes (17 August 2015)|date=17 August 2015}}
+** Various gauntlets are now dropped from additional NPCs:
+*** Adamant - ankou
+
+* {{UL|type=update|update=Security and free-to-play update - the Stronghold of Security|date=4 July 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* In {{Wp|Breton mythology}}, the {{Wp|ankou}} is a personification of death. The word ankou in the {{Wp|Breton language}} means {{Wp|Death (personification)|Grim Reaper}}.
+* Although the examine info says, "A bony ghost." they do not count towards a [[Slayer]] assignment of ghosts. Instead, they are a Slayer task by themselves while also counting towards skeleton assignments.
+* They used to be located in the [[Forinthry Dungeon]], but were replaced by [[dark beast]]s on [[8 August]] [[2016]] as part of the [[Update:Wilderness Improvements & Task Set|Wilderness Improvements]] update.
+* Due to excessive botting, ankou had their health boosted. This led to player complaints as the ankou then had too many life points for low-levelled players. The boost was eventually reverted with the update on [[17 October]] [[2016]].
+* Prior to a hidden update in late 2024, Ankou could only drop [[ghost hunter equipment]] and [[Cremation]] in members' worlds. {{CiteTwitter|author=Mod Stu|url=https://twitter.com/JagexStu/status/1042479114899349505|quote=I had a quick look at the ankou death scripts (including elites) to confirm. They only drop Cremation/herb-burner/ghosthunter/essence on member worlds.
+The above ninja fix requested only ghosts, and ankou aren't classified as ghosts (they have a distinct Slayer category).|date=18 September 2018|archiveurl=https://archive.ph/beaTR|archivedate=30 October 2019|}} They can now drop ghost hunter equipment and Cremation in free-to-play worlds.
+
+==References==
+{{Reflist}}
+
+{{Stronghold of Security}}
+{{Ghost}}
+{{Skeleton}}
+[[pt:Ankou]]

@@ -1,0 +1,78 @@
+{{Infobox Monster
+|name = Bound skeleton
+|image = [[File:Bound skeleton (Unwelcome Guests).png]]
+|release = [[11 April]] [[2023]]
+|update = Unwelcome Guests Slayer Content - This Week In RuneScape
+|members = Yes
+|options = Attack
+|race = Skeleton
+|examine = Could put on a few pounds.
+|level = 70
+|lifepoints = 12000
+|slaylvl = 1
+|slayxp = 420
+|experience = 600.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Bound skeletons, Zemouregal's undead, Skeletons, Undead
+|max_melee = 1194
+|max_ranged = 18
+|max_magic = 18
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack = 65
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1299
+|acc_ranged = 110
+|acc_magic = 110
+|acc_necromancy = 0
+|armour = 1299
+|defence = 65
+|weakness = Earth
+|susceptibility = Magic, undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 30033,30034
+|leagueRegion=Wilderness}}
+[[File:Bound skeleton icon.png|left]]
+'''Bound skeleton''' is a [[Slayer monsters|Slayer creature]] involved [[Unwelcome Guests]] quest. The players require level 50 [[Slayer]] to defeat them.
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[11 April]] [[2023]]|update=Unwelcome Guests Slayer Content - This Week In RuneScape|img=Bound skeleton (Unwelcome Guests) (11 April 2023).png|name=Bound skeleton (Unwelcome Guests)}}
+|{{GUL|date=[[17 April]] [[2023]]|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|img=Bound skeleton (Unwelcome Guests).png|name=Bound skeleton (Unwelcome Guests)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Bound skeletons texture has been tweaked to differentiate it from standard skeletons.
+
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Added to game.
+}}
+
+{{Unwelcome Guests}}

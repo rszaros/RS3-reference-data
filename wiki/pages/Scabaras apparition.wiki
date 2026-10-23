@@ -1,0 +1,76 @@
+{{external|os=Apparition}}
+{{Infobox Monster
+|name = Scabaras apparition
+|image = [[File:Scabaras apparition.png|200px]]
+|release = [[26 April]] [[2005]]
+|update = Desert Month Finale
+|members = Yes
+|options = Attack
+|examine = A scarab headed demi-god.
+|level = 58
+|lifepoints = 9000
+|experience = 450.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Scabarites
+|max_melee = 403
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 42
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 668
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 668
+|defence = 42
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 2009
+|leagueRegion=Desert}}
+The '''Scabaras apparition''' is an apparition of the god [[Scabaras]] and is fought during [[Icthlarin's Little Helper]] if the [[canopic jar of Scabaras]] is picked up.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=Forinthry Frontier, Ninja Strike, Game Jam! - This Week In RuneScape|date=27 February 2022}}
+** Renamed from "Scabaras" to "Scabaras apparition".
+
+* {{UL|type=hidden|update=Patch Notes (16 January 2017)|date=16 January 2017}}
+** The patchy skin of Scabaras's manifestation has been fixed.
+
+* {{UL|type=update|update=Desert Month Finale|date=26 April 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Like all of the apparitions of demigods in Icthlarin's Little Helper, Scabaras appears to be wearing something similar to a [[diamond necklace]] with a darker gem.
+
+==See also==
+* [[Het apparition]]
+* [[Crondis apparition]]
+* [[Apmeken apparition]]
+
+{{Icthlarin's Little Helper}}
+[[Category:Quest monsters]]

@@ -1,0 +1,219 @@
+{{External|os}}
+{{Otheruses|def=no}}
+{{Confuse|Pyrelord}}
+{{Infobox Monster
+|version = Normal
+|name = Pyrefiend
+|image = [[File:Pyrefiend.png|x280px]]
+|release = [[26 January]] [[2005]]
+|update = Slayer Skill
+|members = Yes
+|options = Attack, Examine
+|examine = A small fire demon.
+|level = 38
+|lifepoints = 4050
+|aggressive = No
+|poisonous = No
+|slaylvl = 30
+|slayxp = 32.6
+|slayercat = Pyrefiends
+|assigned_by = Mazchna
+|max_melee = 0.0
+|max_ranged = 0.0
+|max_magic = 600
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 30
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 354
+|acc_necromancy = 0
+|armour = 381
+|defence = 25
+|weakness = Bolts
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1633,1634,1635,1636
+|leagueRegion = Fremennik, Desert
+}}
+[[File:Pyrefiend icon.png|left]]
+'''Pyrefiends''' are [[Slayer]] monsters that require level 30 Slayer to kill. They are the weaker elemental cousin of the [[waterfiend]], but are stronger than most [[icefiend]]s, except the ones at [[Ghorrock Fortress]]. They have similar drops to those of [[lesser demon]]s and [[harpie bug swarm]]s, and are notable for their relatively high drop rate for [[sealed clue scroll (medium)|medium clue scrolls]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Fremennik Slayer Dungeon]]
+|lvls=38
+|mem=yes
+|mapID=5
+|npcid:1635,x:2757,y:10008|npcid:1634,x:2758,y:10001|npcid:1633,x:2758,y:10004
+|npcid:1635,x:2758,y:10012|npcid:1636,x:2760,y:10007|npcid:1633,x:2760,y:10009
+|npcid:1633,x:2761,y:9998|npcid:1636,x:2761,y:10003|npcid:1634,x:2763,y:9999
+|npcid:1635,x:2763,y:10001|npcid:1634,x:2763,y:10007|npcid:1633,x:2765,y:10002
+|npcid:1636,x:2765,y:10005
+|leagueRegion = Fremennik}}
+{{LocLine
+|loc=[[Smoke Dungeon]]
+|lvls=38
+|mem=yes
+|mapID=591
+|npcid:1633,x:3248,y:9374|npcid:1633,x:3249,y:9355|npcid:1633,x:3253,y:9363
+|npcid:1634,x:3263,y:9398|npcid:1633,x:3266,y:9399|npcid:1633,x:3270,y:9380
+|npcid:1635,x:3271,y:9358|npcid:1633,x:3271,y:9387|npcid:1635,x:3273,y:9366
+|npcid:1634,x:3274,y:9397|npcid:1634,x:3275,y:9389|npcid:1635,x:3277,y:9352
+|npcid:1634,x:3279,y:9377|npcid:1635,x:3280,y:9368|npcid:1634,x:3283,y:9401
+|npcid:1634,x:3285,y:9381|npcid:1634,x:3288,y:9393|npcid:1636,x:3289,y:9362
+|npcid:1636,x:3298,y:9379|npcid:1636,x:3302,y:9350|npcid:1636,x:3302,y:9398
+|npcid:1636,x:3316,y:9352|npcid:1636,x:3318,y:9403
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Strengths and weaknesses==
+Pyrefiends have high accuracy compared to many other monsters with a similar combat level. Pyrefiends are weak to bolts and to abilities and perks that affect [[demon]]s. [[Dwarf multicannon]]s can be used to fight pyrefiends in the [[Smoke Dungeon]] but not in the [[Fremennik Slayer Dungeon]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril arrow|quantity=10|rarity=12/128}}
+{{DropsLine|name=Fire rune|quantity=10|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity=6/128}}
+{{DropsLine|name=Grimy harralander|quantity=1|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=14/128}}
+{{DropsLine|name=Willow wood spirit|quantity=3|rarity=6/128}}
+{{DropsLine|name=Teak wood spirit|quantity=2|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=200|rarity=34/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=450|rarity=12/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}|gemw=no}}
+{{DropsLine|name=Ashes|quantity=1|rarity=16/128}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Redberries|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=38}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=38}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 46.334/1000
+|green = 23.167/1000
+|crimson = 57.917/1000
+|blue = 2.317/1000
+}}
+
+==Money making guide==
+{{Mmgsection|Killing Pyrefiends}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Fiends concept art.png|Concept art for Pyrefiends, [[Icefiend]]s and [[Waterfiend]]s
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Pyrefiend (2005).png|name=Pyrefiend}}
+<!--
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Pyrefiend (June 2008).png|name=Pyrefiend}}
+-->
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Pyrefiend (July 2008).png|name=Pyrefiend}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Pyrefiend (God Wars Dungeon) (2012).png|name=Pyrefiend (God Wars Dungeon)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Pyrefiend (2014).png|name=Pyrefiend (1)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Pyrefiend (2) (2014).png|name=Pyrefiend (2)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Pyrefiend (3) (2014).png|name=Pyrefiend (3)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Pyrefiend (4) (2014).png|name=Pyrefiend (4)}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Pyrefiend.png|name=Pyrefiend}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Pyrefiend (God Wars Dungeon).png|name=Pyrefiend (God Wars Dungeon)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[medium plated mithril salvage]] drop with [[teak wood spirit]]s.
+** Replaced the [[tiny plated steel salvage]] drop with [[willow wood spirit]]s.
+
+* {{UL|type=patch|update=Housing of Parliament &amp; Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Pyrefiends have been graphically updated.
+
+* {{UL|type=ninja|update=Patch Notes (26 August 2014)|date=26 August 2014}}
+** Pyrefiend and icefiend models and animations have been updated to use the God Wars models and animations.
+
+* {{UL|type=update|update=God Wars: Remastered|date=5 September 2012}}
+** Pyrefiends in the God Wars Dungeon have been graphically updated.
+
+* {{UL|type=update|update=Chat Changes & Camera Controls|date=4 October 2011}}
+** Demons in Daemonheim now drop [[Impious ashes|impious]], accursed and infernal ashes.
+
+* {{UL|type=patch|update=Patch Notes (9 November 2009)|date=9 November 2009}}
+** Greatly sped up the death animation of pyrefiends.
+
+* {{UL|type=hidden|update=Smoking Kills|date=5 June 2008}}
+** Pyrefiends have been graphically updated.
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The pyrefiends in the [[Soul Wars]] tutorial have a [[life points|life point]] and are weak to crush. Nomad doesn't let players attack these though.
+* Pyrefiends used to have significant stalling on their combat animations, causing them to appear in a different tile from where they actually were. This was reduced with their graphical update in 2014.
+
+{{Slayer monsters}}
+{{Soul Wars}}
+{{Demons}}
+{{Elementals}}
+{{God Wars Dungeon}}
+[[Category:Participants in the God Wars]]

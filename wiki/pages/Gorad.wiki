@@ -1,0 +1,124 @@
+{{External|os|rsc=Gorad}}
+{{Infobox Monster
+|name = Gorad
+|image = [[File:Gorad.png|200px]]
+|release = [[7 May]] [[2003]]
+|update = New - Watch Tower Quest!
+|members = Yes
+|options = Talk to, Attack
+|examine = Big, dumb and ugly.
+|level = 53
+|lifepoints = 7600
+|experience = 380.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ogres
+|max_melee = 182
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 38
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 590
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 590
+|defence = 38
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|leagueRegion = Kandarin
+|id = 856
+}}
+[[File:Gorad chathead.png|left]]
+'''Gorad''' is an [[ogre]] who lives on an island north of [[Feldip Hills]]. To access the island the player must enter the hole south-west of [[Gu'Tanoth]]. He is killed during the [[Watchtower quest]]. He always drops [[big bones]] and the [[ogre tooth]] required to get the second part of the [[ogre relic]]. The ogre tooth appears in your inventory and not on the ground so you must have an empty inventory space to receive it. After the quest he may still be found on the island and killed as a regular ogre.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Gu'Tanoth]]
+|lvls=53
+|mem=yes
+|requirements = Partial completion of {{QuestIcon|Watchtower}}
+|mapID=28
+|npcid:856,x:2577,y:3021
+|leagueRegion=Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|kills=34}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|19/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Ogre tooth|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Watchtower]] quest. The item appears directly in your backpack.}}|gemw=No}}
+{{DropsLine|name=Ogre ribs|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during [[Rag and Bone Man/Wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+==Graphical updates==
+===NPC===
+{{GU|subject=npc
+|{{GUL|beta=yes|img=Gorad (RS2 beta).png|name=Gorad}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Gorad (2004).png|name=Gorad}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Gorad (2006).png|name=Gorad}}
+|{{GUL|date=|update=|img=Gorad.png|name=Gorad}}
+}}
+
+===Chathead===
+{{GU|subject=chatheads
+|{{GUL|beta=yes|img=Gorad chathead (RS2 beta).png|name=Gorad}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Gorad chathead (2004).png|name=Gorad}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Gorad chathead (2006).png|name=Gorad}}
+|{{GUL|date=|update=|img=Gorad chathead.png|name=Gorad}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=update|update=New - Watch Tower Quest!|date=7 May 2003}}
+** Added to game.
+}}
+
+{{Ogres}}
+{{Watchtower}}
+[[Category:Quest monsters]]
+[[Category:Gu'Tanoth]]
+[[Category:Bandosians]]

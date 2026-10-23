@@ -1,0 +1,224 @@
+{{Infobox Monster
+|name = Abyssal beast
+|image = [[File:Abyssal beast.png]]
+|release = [[28 February]] [[2022]]
+|update = This Week In RuneScape: The Abyssal Breach
+|members = Yes
+|options = Attack
+|examine = A ferocious guard dog of the Abyss, who loves feasting on life essence.
+|level = 119
+|lifepoints = 39000
+|slaylvl = 105
+|slayxp = 1448.4
+|aggressive = Yes
+|poisonous = No
+|slayercat = Abyssal beasts, Abyssal demons, Demons
+|max_melee = 1415
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 1415
+|style = Melee
+|primarystyle = Melee
+|speed = 6
+|attack = 85
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 2178
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 2178
+|defence = 85
+|weakness = Slashing
+|susceptibility = Abyssal, Demon
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 28781, 29351
+|leagueRegion = Misthalin, Wilderness
+}}
+[[File:Abyssal beast icon.png|left]]
+'''Abyssal beasts''' are a type of [[demon]] players can find in the [[Senntisten Asylum]] and the [[Wilderness]]. They are the second strongest of the [[Abyssal Slayer creatures]]. They require a [[Slayer]] level of 105 in order to be harmed. 
+
+They are best known for their [[Jaws of the Abyss]] drop, a tier 85 melee headgear that capitalises on bleed damage and their high drop rate of [[Sealed clue scroll (elite)|elite clue scrolls]] compared to other monsters.
+
+When killed on an [[Abyssal demons (Slayer assignment)|abyssal demons task]] or a [[Demons (Slayer assignment)|demon cluster task]], each kill reduces the count by 2.
+
+Alongside possessing the ability to teleport around like [[abyssal demon]]s, the abyssal beast will periodically lash its tongue out (far longer and wider than their auto-attack) in a targeted area; if the player does not move from it, they will take moderate melee damage and the beast will heal for the damage the attack would have dealt.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Senntisten Asylum]]
+|lvls=119
+|mem=yes
+|mapID=738
+|npcid:28781,x:1974,y:1463|npcid:28781,x:1979,y:1458|npcid:28781,x:1974,y:1451
+|npcid:28781,x:1983,y:1451|npcid:28781,x:1988,y:1458|npcid:28781,x:1992,y:1464
+|npcid:28781,x:1991,y:1451|npcid:28781,x:1985,y:1463
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=South of the [[Wilderness (level 35) hobgoblin mine|hobgoblin mine]]
+|lvls=119
+|mem=yes
+|npcid:28781,x:3014,y:3749|npcid:28781,x:3008,y:3755|npcid:28781,x:3017,y:3764
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Wilderness]], North of the [[Bandit Camp]]
+|lvls=119
+|mem=yes
+|npcid:29351,x:3058,y:3738|npcid:29351,x:3028,y:3740|npcid:29351,x:3044,y:3747
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=South of [[Lava Maze]] (level 35-39 [[Wilderness]])
+|lvls=119
+|mem=yes
+|npcid:28781,x:3088,y:3810|npcid:28781,x:3093,y:3815|npcid:28781,x:3094,y:3819
+|npcid:28781,x:3102,y:3823|npcid:28781,x:3087,y:3801|npcid:28781,x:3086,y:3808
+|npcid:28781,x:3095,y:3810|npcid:28781,x:3103,y:3816|npcid:28781,x:3107,y:3811
+|npcid:28781,x:3114,y:3809|npcid:28781,x:3117,y:3801|npcid:28781,x:3123,y:3807
+|npcid:28781,x:3130,y:3810|npcid:28781,x:3101,y:3805
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Wilderness]], north-east of [[Lava Maze]]
+|lvls=119
+|mem=yes
+|npcid:29351,x:3179,y:3892|npcid:29351,x:3182,y:3875|npcid:29351,x:3154,y:3882
+|npcid:29351,x:3163,y:3881|npcid:29351,x:3166,y:3896|npcid:29351,x:3148,y:3900
+|npcid:29351,x:3152,y:3892|npcid:29351,x:3157,y:3873|npcid:29351,x:3130,y:3863
+|npcid:29351,x:3140,y:3873|npcid:29351,x:3134,y:3887|npcid:29351,x:3121,y:3878
+|npcid:29351,x:3129,y:3899|npcid:29351,x:3118,y:3900|npcid:29351,x:3118,y:3891
+|npcid:29351,x:3106,y:3892|npcid:29351,x:3138,y:3898
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Infernal ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Jaws of the Abyss|quantity=1|rarity=1/5000|altrarity=1/990|altraritydash=y|raritynotes={{DropNote|1/4,950 with tier 4 [[luck]]. 1/1,000 during a [[Slayer assignment]] and 1/990 if also having tier 4 luck.}}|citations={{CiteTwitter|author=Mod Shogun|url=https://twitter.com/JagexShogun/status/1510018352252657679|quote=Ontask/Offtask Helm 1 in 1,000/5,000|date=1 April 2022 |archiveurl=https://reldo.runescape.wiki/i/108641|archivedate=2 April 2022}}}}
+{{DropsTableBottom}}
+
+===Herbs===
+''There is a 20/100 chance of rolling the abyssal herb drop table.''
+
+{{DropsTableHead}}
+{{DropsLine|name=Grimy irit|quantity=2 (noted)|rarity=1/30}}
+{{DropsLine|name=Grimy avantoe|quantity=2 (noted)|rarity=1/30}}
+{{DropsLine|name=Grimy cadantine|quantity=2 (noted)|rarity=1/30}}
+{{DropsLine|name=Grimy lantadyme|quantity=2 (noted)|rarity=1/30}}
+{{DropsLine|name=Grimy dwarf weed|quantity=2 (noted)|rarity=1/30}}
+{{DropsLine|name=Grimy toadflax|quantity=2 (noted)|rarity=1/30}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Large spiky rune salvage|quantity=1-2|rarity=8/100}}
+{{DropsLine|name=Huge bladed rune salvage|quantity=1|rarity=6/100}}
+{{DropsLine|name=Small bladed orikalkum salvage|quantity=1|rarity=6/100}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=20000-30000|rarity=12/100}}
+{{DropsLine|name=Shark|quantity=2|rarity=8/100}}
+{{DropsLine|name=Pure essence|quantity=125-175 (noted)|rarity=8/100}}
+{{DropsLine|name=Uncut dragonstone|quantity=1|rarity=10/100}}
+{{DropsLine|name=Grenwall spikes|quantity=12-18|rarity=10/100}}
+{{DropsLine|name=Crystal key|quantity=1 (noted)|rarity=8/100}}
+{{DropsLine|name=Onyx bolts (e)|quantity=7-13|rarity=4/100}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/75}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Abyssal flesh|quantity=4-6|rarity=1/50|altrarity=1/10|raritynotes={{DropNote|1/10 when on a [[Slayer assignment]].}}}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=228/12800|raritynotes={{DropNote|1/100 chance in the first roll, 1/128 chance in the second roll if the first roll is failed.}}|citations={{CiteTwitter|author=Mod Shogun|url=https://twitter.com/JagexShogun/status/1746827220172014051|quote=Beasts: 1 in 100 to get elite, if you don't get one it gives you another 1 in 128 roll for an elite.|date=15 January 2024|archiveurl=https://reldo.runescape.wiki/i/96810|archivedate=16 January 2023}}|gemw=no}}
+{{DropsLineTriskelion|rarity=1/2000|altrarity=1/1980|raritynotes={{DropNote|name=trisk|1/1,980 with tier 3 [[luck]] or higher.}}}}
+{{DropsLineEffigy|level=119}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=119}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.6/1000
+|green = 44.8/1000
+|crimson = 314/1000
+|blue = 8.96/1000
+}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=119}}
+
+==Products==
+{{Uses facility list}}
+
+==Money making guide==
+{{Mmgsection|Killing abyssal beasts}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Abyssal creatures concept art.png|Concept art of the abyssal beast (right)
+</gallery>
+
+==Achievements==
+* {{Achievement|Cleaning Up the Streets}} 
+** [[Jaws of the Abyss]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Kandarin Area Graphical Update - This Week In RuneScape|date=15 January 2024}}
+** Fixed an issue that stopped abyssal lords, abyssal savages, and abyssal beasts from dropping items from the Wilderness shared drop table.
+
+* {{UL|type=patch|update=July Patch Week - This Week in RuneScape (2023)|date=10 July 2023}}
+** Abyssal beasts are now less likely to move the player when in combat.
+
+* {{UL|type=patch|update=This Week In RuneScape: Patch Week (March 2022)|date=7 March 2022}}
+** The spring cleaner will now correctly disassemble or high alchemy [[orikalkum salvage]] drops from [[Abyssal Slayer creatures]].
+
+* {{UL|type=update|update=This Week In RuneScape: The Abyssal Breach|date=28 February 2022}}
+** Added to game.
+}}
+
+==Trivia==
+* The [[abyssal savage]], abyssal beast, and [[abyssal lord]] were designed by [[Mod Shogun]] during [[Game Jam]] 2017 and 2018. They were called [[abyssal hound]]s during development as shown with the concept art.
+* While attack damage from abyssal beasts are not reduced by [[Deflect Curses|protect/deflect prayers]], they are reduced by [[Power of Light]], the [[Weapon Special Attack]] of a [[staff of light]].
+
+==References==
+{{Reflist}}
+
+{{Senntisten Asylum}}
+{{Slayer monsters}}
+{{Demons}}
+[[pt:Fera abissal]]
+[[Category:Game Jam content]]

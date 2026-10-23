@@ -1,0 +1,237 @@
+{{External|os}}
+{{Otheruses|def=no|the elite version|Infernal Mage (elite)}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|name = Infernal Mage
+|image1 = [[File:Infernal Mage.png|175px]]
+|image2 = [[File:Infernal Mage (2).png|175px]]
+|image3 = [[File:Infernal Mage (3).png|175px]]
+|image4 = [[File:Infernal Mage (4).png|175px]]
+|image5 = [[File:Infernal Mage (5).png|175px]]
+|release = [[26 January]] [[2005]]
+|update = Slayer Skill
+|members = Yes
+|race = Human
+|actions = Attack
+|examine = An evil magic user.
+|level = 63
+|lifepoints = 6500
+|experience = 
+|aggressive = No
+|poisonous = No
+|slaylvl = 45
+|slayxp = 91
+|slayercat = Infernal mages
+|assigned_by = Chaeldar
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 1040
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 52
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 801
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|weakness = Arrows
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 1643
+|id2 = 1644
+|id3 = 1645
+|id4 = 1646
+|id5 = 1647
+|leagueRegion = Morytania, Wilderness
+}}
+[[File:Infernal Mage icon.png|left]]
+'''Infernal Mages''' are [[Slayer]] monsters that require level 45 Slayer to kill. They are sometimes killed for their common [[death rune]] drops and various staves and have frequent [[gold charm]] drops, though most monsters have better charm rates. When killing infernal mages, an [[Infernal Mage (elite)|elite]] version may spawn (guaranteed while on a Slayer assignment), which can be further increased with the use of [[fellstalk incense sticks]] and tier 1 [[luck]].
+
+Infernal mages are the only monster that drops [[dark mystic hat]]s and [[dark mystic boots|boots]]. Standard infernal mages do not have access to the [[rare drop table]] (although the elite version does).
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Slayer Tower]] {{floorNumber|2}}
+|lvls=63
+|mem=yes
+|mapID=28|plane=1
+|npcid:1646,x:3400,y:3560|npcid:1644,x:3402,y:3557|npcid:1643,x:3402,y:3563
+|npcid:1645,x:3403,y:3570|npcid:1643,x:3407,y:3557|npcid:1647,x:3409,y:3560
+|npcid:1644,x:3409,y:3573|npcid:1646,x:3410,y:3566|npcid:1645,x:3411,y:3563
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=63
+|mem=yes
+|mapID=23
+|npcid:1645,x:3189,y:5523|npcid:1645,x:3191,y:5532|npcid:1645,x:3193,y:5530
+|npcid:1645,x:3196,y:5525|npcid:1644,x:3236,y:5456|npcid:1647,x:3237,y:5453
+|npcid:1644,x:3238,y:5455|npcid:1645,x:3239,y:5451|npcid:1643,x:3242,y:5449
+|npcid:1647,x:3243,y:5445|npcid:1643,x:3244,y:5450|npcid:1643,x:3246,y:5446
+|npcid:1646,x:3246,y:5449|npcid:1647,x:3249,y:5447
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Strengths and weaknesses==
+Infernal mages use a weaker version of the spell [[Fire Blast]] to attack the player, so wearing [[dragonhide]] or mage armour will reduce the damage taken. This attack hits extremely often. [[Protect from Magic]] is recommended. They are weak to arrows, so it is advisable to bring the best bow available.
+
+If a player stops fighting and lets a familiar attack the infernal mage, the mage will attack back with melee, no matter how far the familiar is from the mage. You cannot use a [[dwarf multicannon]] on any infernal mages due to the fact that they are only found in the [[Chaos Tunnels]] and the [[Slayer Tower]], and neither of them allow the use of cannons.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+These drops will be rolled in this order until one is obtained. If all fail, a common drop will be rolled instead.
+
+{{DropsTableHead}}
+{{DropsLine|name=Lava battlestaff|quantity=1|rarity=1/1024|altrarity=1/993|raritynotes={{DropNote|1/993 with tier 1 [[luck]] or higher.}}|citations={{CiteTwitter|author=Mod Ash|url=https://twitter.com/JagexAsh/status/834717543243927552|quote=1 / 1k chance.|date=23 February 2017|archiveurl=https://archive.ph/efSKK|archivedate=30 April 2020}}}}
+{{DropsLine|name=Dark mystic boots|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|1/496 with tier 1 [[luck]] or higher.}}|citations={{CiteForum|author=Envision|url=https://archive.fo/5P5mn|title=Drop Rates V2|postdate=29 July 2014|name=Drop Rates V2}}}}
+{{DropsLine|name=Dark mystic hat|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|1/496 with tier 1 [[luck]] or higher.}}|citations={{NamedRef|Drop Rates V2}}}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Staff|quantity=1|rarity=8/128}}
+{{DropsLine|name=Staff of fire|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=10|rarity=3/128}}
+{{DropsLine|name=Air rune|quantity=18|rarity=2/128}}
+{{DropsLine|name=Mind rune|quantity=18|rarity=2/128}}
+{{DropsLine|name=Water rune|quantity=10|rarity=3/128}}
+{{DropsLine|name=Water rune|quantity=18|rarity=2/128}}
+{{DropsLine|name=Earth rune|quantity=10|rarity=6/128}}
+{{DropsLine|name=Fire rune|quantity=10|rarity=6/128}}
+{{DropsLine|name=Fire rune|quantity=18|rarity=2/128}}
+{{DropsLine|name=Body rune|quantity=18|rarity=2/128}}
+{{DropsLine|name=Death rune|quantity=7|rarity=18/128}}
+{{DropsLine|name=Blood rune|quantity=4|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1|rarity=21/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=2|rarity=16/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=4|rarity=9/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=25|rarity=2/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=29|rarity=7/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|quantity=1|rarity=16/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=63}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=63}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 334.916/1000
+|green = 23.923/1000
+|crimson = 23.923/1000
+|blue = 4.785/1000
+}}
+
+==Achievements==
+* {{Achievement|Fenkenstrain's Monster}}
+** [[Dark mystic boots]] drop
+** [[Dark mystic hat]] drop
+** [[Lava battlestaff]] drop
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Infernal mages.png|Infernal mages in the Chaos Tunnels
+Infernal mages2.png|Infernal mages in the Slayer Tower
+Infernal mage concept art.png|thumb|Concept art for scrapped graphical rework
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Infernal Mage (2005).png|name=Infernal Mage}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=infernal Mage.png|name=Infernal Mage}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+*** Infernal Mages had the following stat changes:
+**** Defence: 52 -> 40
+**** Armour: 901 -> 628
+**** Combat level: 72 -> 63
+**** Lifepoints: 8,800 -> 6,500
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes infernal mages.
+
+* {{UL|type=patch|update=Patch Notes (22 January 2018)|date=22 January 2018}}
+** [[Luck]] messages no longer appear incorrectly from infernal mages.
+
+* {{UL|type=patch|update=Patch Notes (18 August 2014)|date=18 August 2014}}
+** Major stretching in the infernal mage's attack animation has been fixed.
+
+* {{UL|type=patch|update=Patch Notes (28 November 2012)|date=28 November 2012}}
+** Infernal mages no longer deal damage after they've been killed.
+
+* {{UL|type=patch|update=Patch Notes (7 September 2010)|date=7 September 2010}}
+** Infernal mage attack animations were being interrupted.
+
+* {{UL|type=patch|update=Patch Notes (25 February 2009)|date=25 February 2009}}
+** Infernal magi no longer have to contend with hair rendering over their hats.
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* They have the same walking and idle animation as [[pirate]]s.
+* Their attacks register about 1.5 seconds after the spell actually hits the player.
+* Prior to [[Mobilising Armies]] removal, they were located in the minigame as siege units and unattackable.
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{Slayer Tower}}

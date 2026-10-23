@@ -1,0 +1,73 @@
+{{Confuse|Skeleton Warrior|Skeleton warrior (The Death of Chivalry)|Skeletal warrior|Skeletal warrior (2018 Halloween event)}}
+{{Infobox Monster
+|version1 = Normal
+|version2 = Quest
+|name = Skeleton warrior
+|image = <!--Skeleton warrior (Rasial).png-->
+|release = [[7 August]] [[2023]]
+|update = New Skill: Necromancy - This Week In RuneScape
+|members = Yes
+|options = Attack
+|examine = An enthralled skeleton.
+|level = 98
+|lifepoints1 = 7800
+|lifepoints2 = 3900
+|experience1 = 628.6
+|aggressive = true
+|poisonous = No
+|slaylvl = 1
+|slayxp = 255.2
+|slayercat = Skeletons, Undead
+|max_melee = 1008
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 70
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1486
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1486
+|defence = 70
+|weakness = Necromancy
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain =
+|restriction = no
+|leagueRegion = Misthalin
+|id = 30166
+}}
+'''Skeleton warriors''' are summoned during the fight with [[Rasial, the First Necromancer]]. Four of them also attack the player with [[Hermod, the Spirit of War]] during [[Alpha vs Omega]].
+
+When summoned by Rasial, the First Necromancer during [[Alpha vs Omega]], their [[life points]] are halved.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=New Skill: Necromancy - This Week In RuneScape|date=7 August 2023}}
+** Added to game.
+}}
+
+{{Skeleton}}
+{{Rasial, the First Necromancer}}
+{{Alpha vs Omega}}
+[[Category:Boss minions]]
+[[pt:Esqueleto guerreiro (Rasial)]]

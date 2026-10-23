@@ -1,0 +1,603 @@
+{{References needed}}
+{{Multi Infobox
+|text1 = NPC
+|item1 =
+{{Infobox NPC
+|version1 = Three's Company (1)
+|version2 = Three's Company (2)
+|version3 = Three's Company (3)
+|version4 = Three's Company (4)
+|version5 = Falador
+|version6 = Legends' Guild
+|version7 = Champions'/Heroes' Guild
+|version8 = Wandering (1)
+|version9 = Wandering (2)
+|version10 = Wandering (3)
+|version11 = The Death of Chivalry (1)
+|version12 = The Death of Chivalry (2)
+|version13 = The Death of Chivalry (3)
+|version14 = The Death of Chivalry (4)
+|version15 = The Death of Chivalry (5)
+|version16 = The Death of Chivalry (following)
+|version17 = The Death of Chivalry (7)
+|version18 = The Death of Chivalry (8)
+|version19 = The Death of Chivalry (9)
+|version20 = Ashdale
+|version21 = Grand Party
+|version22 = Azzanadra's Quest (1)
+|version23 = Azzanadra's Quest (2)
+|version24 = Battle of the Monolith
+|version25 = Glacor Front
+|defver=24
+|name = Sir Owen
+|image = 
+|image1 = [[File:Sir Owen (Sagas).png|x280px]]
+|image2 = <!--[[File:Sir Owen (with axe).png|x280px]]-->
+|image3 = [[File:Sir Owen (Sagas).png|x280px]]
+|image4 = [[File:Sir Owen (Sagas).png|x280px]]
+|image5 = <!--[[File:Sir Owen (with sword).png|x280px]]-->
+|image6 = [[File:Sir Owen Legends.png|x280px]]
+|image7 = [[File:Sir Owen Legends.png|x280px]]
+|image8 = [[File:Sir Owen Legends.png|x280px]]
+|image9 = <!--[[File:Sir Owen (with sword).png|x280px]]-->
+|image10 = <!--[[File:Sir Owen (Sagas, barehanded).png|x280px]]-->
+|image11 = [[File:Sir Owen (Grand Party).png|x280px]]
+|image12 = [[File:Sir owen.png|x280px]]
+|image13 = <!--[[File:Sir Owen (The Death of Chivalry, bowing).png|x280px]]-->
+|image14 = [[File:Sir owen.png|x280px]]
+|image15 = [[File:Sir owen.png|x280px]]
+|image16 = [[File:Sir owen.png|x280px]]
+|image17 = [[File:Sir Owen (in combat).png|x280px]]
+|image18 = <!--[[File:Sir Owen (The Death of Chivalry, defeated).png|x280px]]-->
+|image19 = [[File:Sir Owen (corrupted).png|x280px]]
+|image20 = [[File:Sir owen.png|x280px]]
+|image21 = [[File:Sir Owen (Grand Party).png|x280px]]
+|image22 = [[File:Sir Owen (corrupted).png|x280px]]
+|image23 = [[File:Sir Owen (corrupted).png|x280px]]
+|image24 = [[File:Sir Owen (corrupted).png|x280px]]
+|image25 = [[File:Sir Owen (Glacor Front).png]]
+|release1 = [[1 June]] [[2011]]
+|release2 = [[1 June]] [[2011]]
+|release3 = [[1 June]] [[2011]]
+|release4 = [[1 June]] [[2011]]
+|release5 = [[7 June]] [[2011]]
+|release6 = [[7 June]] [[2011]]
+|release7 = [[7 June]] [[2011]]
+|release8 = [[9 August]] [[2011]]
+|release9 = [[9 August]] [[2011]]
+|release10 = [[9 August]] [[2011]]
+|release11 = [[13 August]] [[2013]]
+|release12 = [[13 August]] [[2013]]
+|release13 = [[13 August]] [[2013]]
+|release14 = [[13 August]] [[2013]]
+|release15 = [[13 August]] [[2013]]
+|release16 = [[13 August]] [[2013]]
+|release17 = [[13 August]] [[2013]]
+|release18 = [[13 August]] [[2013]]
+|release19 = [[13 August]] [[2013]]
+|release20 = [[26 November]] [[2013]]
+|release21 = [[11 January]] [[2021]]
+|release22 = [[22 February]] [[2021]]
+|release23 = [[22 February]] [[2021]]
+|release24 = [[24 May]] [[2021]]
+|release25 = [[27 September]] [[2021]]
+|update1 = Fremennik Sagas
+|update2 = Fremennik Sagas
+|update3 = Fremennik Sagas
+|update4 = Fremennik Sagas
+|update5 = Deadliest Catch
+|update6 = Deadliest Catch
+|update7 = Deadliest Catch
+|update8 = Graphical and Audio Updates
+|update9 = Graphical and Audio Updates
+|update10 = Graphical and Audio Updates
+|update11 = The Death of Chivalry
+|update12 = The Death of Chivalry
+|update13 = The Death of Chivalry
+|update14 = The Death of Chivalry
+|update15 = The Death of Chivalry
+|update16 = The Death of Chivalry
+|update17 = The Death of Chivalry
+|update18 = The Death of Chivalry
+|update19 = The Death of Chivalry
+|update20 = Coinshare, World Map and Tutorial
+|update21 = This Week In RuneScape: Celebration of Combat
+|update22 = This Week In RuneScape: Azzanadra's Quest
+|update23 = This Week In RuneScape: Azzanadra's Quest
+|update24 = This Week In RuneScape: Battle of the Monolith & Guardian's Gift
+|update25 = This Week In RuneScape: The Croesus Front
+|members = No
+|members22 = Yes
+|members23 = Yes
+|members25 = Yes
+|race = Human
+|quest1 = [[Three's Company (saga)]]
+|quest2 = [[Three's Company (saga)]]
+|quest3 = [[Three's Company (saga)]]
+|quest4 = [[Three's Company (saga)]]
+|quest5 =
+|quest6 = No
+|quest7 = No
+|quest8 = No
+|quest9 = No
+|quest10 = No
+|quest11 = [[The Death of Chivalry]]
+|quest12 = [[The Death of Chivalry]]
+|quest15 = [[The Death of Chivalry]]
+|quest13 = [[The Death of Chivalry]]
+|quest14 = [[The Death of Chivalry]]
+|quest16 = [[The Death of Chivalry]]
+|quest17 = [[The Death of Chivalry]]
+|quest18 = [[The Death of Chivalry]]
+|quest19 = [[The Death of Chivalry]]
+|quest20 = No
+|quest21 = No
+|quest22 = [[Azzanadra's Quest]]
+|quest23 = [[Azzanadra's Quest]]
+|quest24 = [[Battle of the Monolith]]
+|quest25 = No
+|location1 = [[Daemonheim]]
+|location2 = [[Daemonheim]]
+|location3 = [[Daemonheim]]
+|location4 = [[Daemonheim]]
+|location5 = North of [[Falador]]
+|location6 = [[Legends' Guild]]
+|location7 = [[Champions' Guild]], [[Heroes' Guild]]
+|location8 = 
+|location9 = 
+|location10 = 
+|location11 = 
+|location12 = [[Edgeville Monastery]], [[Black Knights' Fortress]]
+|location13 = [[Edgeville Monastery]]
+|location14 = [[Edgeville Monastery]]
+|location15 = [[Black Knights' Fortress]]
+|location16 = [[Black Knights' Fortress]] (following the player)
+|location17 = [[Tomb of the Fallen]]
+|location18 = [[Tomb of the Fallen]]
+|location19 = [[Tomb of the Fallen]]
+|location20 = [[Ashdale]]
+|location21 = [[Lumbridge Crater]]
+|location22 = [[White Knights' Castle]]
+|location23 = [[Kharid-et Dig Site]]
+|location24 = [[Archaeology Campus]]
+|location25 = [[Glacor Front]]
+|leagueRegion1 = Wilderness
+|leagueRegion2 = Wilderness
+|leagueRegion3 = Wilderness
+|leagueRegion4 = Wilderness
+|leagueRegion5 = Asgarnia
+|leagueRegion6 = Kandarin
+|leagueRegion7 = Misthalin, Asgarnia
+|leagueRegion8 = 
+|leagueRegion9 = 
+|leagueRegion10 = 
+|leagueRegion11 = 
+|leagueRegion12 = Asgarnia
+|leagueRegion13 = Asgarnia
+|leagueRegion14 = Asgarnia
+|leagueRegion15 = Asgarnia
+|leagueRegion16 = Asgarnia
+|leagueRegion17 = Asgarnia
+|leagueRegion18 = Asgarnia
+|leagueRegion19 = Asgarnia
+|leagueRegion20 = Asgarnia
+|leagueRegion21 = Misthalin
+|leagueRegion22 = Asgarnia
+|leagueRegion23 = Misthalin
+|leagueRegion24 = Misthalin
+|leagueRegion25 = Misthalin
+|gender = Male
+|options1 = Talk to, Switch, Wait, Examine
+|options2 = Talk to, Switch, Wait, Examine
+|options3 = Talk to, Switch, Call, Examine
+|options4 = Talk to, Switch, Examine
+|options5 = Talk to, Examine
+|options6 = Talk to, Examine
+|options7 = Talk to, Examine
+|options8 = Talk to, Examine
+|options9 = Talk to, Examine
+|options10 = Examine
+|options11 = Talk to, Examine
+|options12 = Talk to, Examine
+|options13 = Talk to, Examine
+|options14 = Talk to, Examine
+|options15 = Talk to, Examine
+|options16 = Talk to, Examine
+|options17 = Examine
+|options18 = Search, Examine
+|options19 = Talk to, Examine
+|options20 = Talk to, Examine
+|options21 = Talk to, Examine
+|options22 = Talk to, Examine
+|options23 = Examine
+|options24 = Talk to, Examine
+|options25 = Talk to, Examine
+|examine = 
+* An adventuring knight.
+* Silent knight.
+|examine1 = A Temple Knight on a mission.
+|examine6 = An adventuring knight.
+|examine11 = An adventuring knight.
+|examine12 = An adventuring knight.
+|examine13 = He is bowing before his god.
+|examine14 = He stands before his god.
+|examine15 = He's keeping his arms behind his back.
+|examine16 = An adventuring knight.
+|examine17 = A battling knight.
+|examine21 = A gracious knight.
+|examine22 = A dark and stormy knight.
+|examine23 = A dark and stormy knight.
+|examine24 = He's guarding the Monolith.
+|examine25 = A dark and stormy knight.
+|map1 =
+|map2 =
+|map3 =
+|map4 =
+|map5 = {{NPC map|npcname=Sir Owen|npcid:7409,x:2979,y:3420|group=7892}}
+|map6 = {{NPC map|npcname=Sir Owen|npcid:9699,x:2729,y:3379|plane=1|group=7444}}
+|map7 = {{NPC map|npcname=Sir Owen|npcid:7893,x:3191,y:3358|npcid:9698,x:2907,y:3516|group=9702}}
+|map8 =
+|map9 =
+|map10 =
+|map11 =
+|map12 = {{NPC map|npcname=Sir Owen|npcid:18024,x:3051,y:3502|npcid:18027,x:3031,y:3580|group=18022}}
+|map13 = {{Object map|objectname=Sir Owen|objectid:86694,x:3051,y:3502|group=86694}}
+|map14 = {{Object map|objectname=Sir Owen|objectid:86694,x:3051,y:3502|group=86694}}
+|map15 = {{NPC map|npcname=Sir Owen|npcid:18025,x:3022,y:3536|npcid:18026,x:3021,y:3541|group=18023}}
+|map16 = No
+|map17 =
+|map18 =
+|map19 =
+|map20 = {{NPC map|npcname=Sir Owen|npcid:18614,x:2511,y:2645|plane=2|mapID=undefined|group=18615}}
+|map21 =
+|map22 =
+|map23 =
+|map24 =
+|map25 = {{NPC map|npcname=Sir Owen|npcid=28444|mapID=735|plane=0|x:1760,y:1119}}
+|id = No
+|objectid = No
+|id1 = 7818
+|id2 = 7819
+|id3 = 7822
+|id4 = 7864
+|id5 = 7892
+|id6 = 7444
+|id7 = 9702
+|id8 = 10108, 13707
+|id9 = 10110
+|id10 = 13729
+|id11 = 18021
+|id12 = 18022
+|objectid13 = 86692
+|objectid14 = 86693
+|id15 = 18023
+|id16 = 18028
+|id17 = 18029
+|id18 = 18031
+|id19 = 18032
+|id20 = 18615
+|id21 = 27440
+|id22 = 27598
+|id23 = 27599
+|id24 = 27936
+|id25 = 28444
+|voice=Yes
+}}
+|text2 = Monster
+|item2 =
+{{Infobox Monster
+|name = Sir Owen
+|image = [[File:Sir Owen (zombie).png|x280px]]
+|release = [[9 October]] [[2023]]
+|update = Ancient Awakening Launches - This Week in RuneScape
+|members = No
+|options = Attack, Examine
+|race = Zombie
+|examine = High-octane knightmare fuel.
+|leagueRegion = Asgarnia
+|level = 
+|lifepoints = 10000
+|experience = 25
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 
+|slayxp = 
+|slayercat = Zombies
+|max_melee = 250
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack = 50
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 850
+|defence = 50
+|weakness = None
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect =
+|immune_to_stun =
+|immune_to_drain =
+|restriction = quest
+|id = 18030
+}}
+}}
+{{Synced switch
+|version1 = [[File:Sir Owen chathead.png|left|56px]]
+|version2 = [[File:Sir Owen chathead.png|left|56px]]
+|version3 = [[File:Sir Owen chathead.png|left|56px]]
+|version4 = [[File:Sir Owen chathead.png|left|56px]]
+|version5 = [[File:Sir Owen chathead.png|left|56px]]
+|version6 = [[File:Sir Owen chathead.png|left|56px]]
+|version7 = [[File:Sir Owen chathead.png|left|56px]]
+|version8 = [[File:Sir Owen chathead.png|left|56px]]
+|version9 = [[File:Sir Owen chathead.png|left|56px]]
+|version10 = <nowiki></nowiki>
+|version11 = [[File:Sir Owen chathead.png|left|56px]]
+|version12 = [[File:Sir Owen chathead.png|left|56px]]
+|version13 = [[File:Sir Owen chathead.png|left|56px]]
+|version14 = [[File:Sir Owen chathead.png|left|56px]]
+|version15 = [[File:Sir Owen chathead.png|left|56px]]
+|version16 = [[File:Sir Owen chathead.png|left|56px]]
+|version17 = [[File:Sir Owen chathead.png|left|56px]]
+|version18 = [[File:Sir Owen (zombie) chathead.png|left|56px]]
+|version19 = [[File:Sir Owen (corrupted) chathead.png|left|70px]]
+|version20 = [[File:Sir Owen chathead.png|left|56px]]
+|version21 = [[File:Sir Owen chathead.png|left|56px]]
+|version22 = [[File:Sir Owen (corrupted) chathead.png|left|70px]]
+|version23 = [[File:Sir Owen (corrupted) chathead.png|left|70px]]
+|version24 = [[File:Sir Owen (corrupted) chathead.png|left|70px]]
+|version25 = [[File:Sir Owen (corrupted) chathead.png|left|70px]]
+}}
+'''Sir Owen Sonde''' is a [[Temple Knight]] and one of the seven [[Signature Heroes]]. Born in the [[Asgarnia]]n capital [[Falador]] into the noble [[Sonde]] family, he soon became a [[White Knight]], fighting against mainly the [[Kinshra]] in several battles before being sent on various missions after joining the Temple Knights. Owen is in his early thirties{{CitePodcast|episode=3|author=Mod John A}} and has short, black hair. His face has a large scar that is a result of a Kinshra raid on his home in his youth.
+{{clear|left}}
+
+==Personality==
+Sir Owen is a devout and courageous [[Saradominist]] and a [[Temple Knight]]. He takes a harsh view of stealing or other criminal activities, even for noble purposes. Although initially appearing to be a classic "knight-in-shining-armour" type, he is not above using stealth or subterfuge to achieve his goals.{{CiteDevBlog|author=Mod John A|url=http://services.runescape.com/m=rswiki/en/DevBlog:Who_are_the_Signature_Heroes|archivedate=12 May 2012|archiveurl=https://reldo.runescape.wiki/i/14790302|title=Who are the Signature Heroes?|blogdate=29-June-2010|name=shblog}} He is entirely confident that his actions are made with [[Saradomin]]'s approval and is willing to use any means to achieve his goals, a reason why he prefers the Temple Knights' 'modus operandi to the White Knights', who have a strict code of honour and chivalry. Sir Owen is extremely perceptive, being able to see through the Mahjarrat Trindine disguised as Sir Upticious during the events of Azzanadra's Quest and even being able to tell which Mahajarrat it was before she revealed herself, despite never meeting previously.
+
+==Capabilities==
+Sir Owen is a proficient [[melee]] fighter and is also implied to have decent [[ranged]] experience. In the [[Fremennik Saga]], [[Three's Company]], he has a [[Constitution]] level of 30 and a [[Mining]] level of at least 50. He is also implied to have a high [[Strength]] level. As he wields a [[Saradomin sword]] in the [[Troll Warzone]] trailer, it is assumed that he has an [[Attack]] level of at least 75.
+
+He does not have a high [[Agility]] level, though, and does not use [[Magic]] or [[Runecrafting]]. He uses [[jewellery]] to teleport rather than casting [[teleport spells]]. He says his lack of magical experience comes from the Temple Knights' use of various magical gadgets, such as the [[commorb]], although he has a decent academic and theoretical understanding of magic.
+
+By his own admission, he has experience with ranging as he was able to kill [[Iban]] with a bow.{{CiteNPC|npc=Sir Owen|loc=The Death of Chivalry|quote=I was part of the Dawn Ascent operation, and it was by my hand that the Black Knight Iban fell...  While my companions fell to Iban's blade, I withdrew from the battle. Ignoring my commanding officer, I slipped into the shadows, and found a vantage point high above the melee. I readied my bow, took aim, and put an arrow through the back of Iban's skull.}}
+
+==Locations==
+Sir Owen can be found in many places around RuneScape. Once the quest [[The Death of Chivalry]] is completed, Owen will no longer appear in any of the places below.
+
+===Roaming===
+Since the [[9 August]] [[2011]] updates, Sir Owen, like the other Signature Heroes, wanders around several places in RuneScape. These places include:
+* Inside the [[Warriors' Guild]]
+* On [[Entrana]]
+* Near the [[Port Sarim Jail]]
+* Near the crossroads north of [[Falador]]
+* The church north of [[Mudskipper Point]]
+* Inside the [[Ranging Guild]]
+* Entrance to [[Varrock Castle]]
+
+===Fixed===
+Places where Sir Owen can be found at any time include:
+* In the [[Champions' Guild]] with [[Xenia]], [[Ariane]], and [[Ozan]] (before completing [[Heroes' Quest]]).
+* On the balcony of the [[Heroes' Guild]] with [[Xenia]], [[Ariane]], [[Ozan]] and [[Linza]] (before completing [[Legends' Quest]]).
+* On the {{FloorNumber|2}} of the [[Legends' Guild]] with [[Xenia]], [[Ariane]], [[Ozan]], [[Linza]] and [[The Raptor]] (after completing [[Legends' Quest]], disappears after completing [[The Death of Chivalry]]).
+* In [[Ashdale]], investigating strange lights in the sky that appeared when [[Morwenna the Cruel]] rose from her grave.
+
+===One-time===
+There are some places Sir Owen will appear only once, or until the player speaks to him there for the first time. These include:
+* Speaking with [[Sir Tiffy Cashien]] in [[Falador Park]].
+* Entering [[Daemonheim]] with [[Ariane]] and [[Ozan]].
+
+===Special===
+* Praying to [[Saradomin]] in the [[Edgeville Monastery|Monastery]].
+
+==History==
+===Early life===
+Sir Owen was born in [[Falador]] some thirty years ago, as son of [[Stario]] and [[Altra Sonde]], minor Faladian nobles. In his youth, his mother was captured by a [[Kinshra]] raiding party. He attempted in vain to protect her, receiving his distinctive facial scar in the process. Stario, who was in court at the time, swiftly returned, only to find his wife and the Kinshra gone. Sir Owen wanted his father to blame him, but he only responded with grief, ending their good relationship. This incident inspired him to join the [[White Knights]]. He became devoutly [[Saradomin]]ist, believing in the god's principles of order and fighting for the innocents in his name.
+
+===As a White Knight===
+[[File:Lord Daquarius.png|thumb|100px|Lord Daquarius Rennard, current leader of the Kinshra.]]
+After losing his mother, Sir Owen joined the White Knights as a squire and, presumably after the usual time of five years, was instated as a knight. In 161, he joined his brethren on an operation to the Ghost Town (later renamed to [[Edgeville]]) west of [[Varrock]], where the [[Kinshra]] had launched a raid. However, their collaborator, the extremely dangerous mage [[Solus Dellagar]], had strayed from the mission, slaughtering hundreds of civilians, a tragedy that would become known as the [[Edgeville incident]].
+
+The White Knights and [[Temple Knights]] were sent to apprehend him, but Solus singlehandedly murdered still hundreds more White, Temple and even [[Black Knights]] before being finally apprehended by the Temple Knights.
+
+It is likely Owen participated in following White Knight operations as well, such as the [[Battle of North Falador]] and the various military encounters of the [[War of 164]], most notably the [[Siege of Falador]], a massive attack orchestrated by Milton's successor and murderer, [[Lord Sulla]], who, in turn, was succeeded by the popular commander [[Daquarius]] and subsequently assassinated half a year later.
+
+An unknown amount of time later, a few years at most, the White Knights launched a campaign known as the [[Dawn Ascent]] to apprehend the troops of a Black Knight called [[Iban]], who had been mentored by Lord Daquarius himself. Despite being outnumbered, Iban refused to yield and [[Sir Amik Varze]] proceeded to challenge him in combat. Iban proved too strong, however, slaughtering knight after knight. Unable to bear this sight, Owen snuck away from the battlefield, drew his bow on the top of a hill and fired an arrow through Iban's skull, killing him instantly. He was criticised rather than lauded by Amik, who called his act one of cowardice and dishonour, causing Owen to further dislike the White Knights' very strict code of chivalry.
+
+He was nearly dismissed from service, but the head of recruitment for the Temple Knights, [[Sir Tiffy Cashien]], saw use in Owen for his intelligence and stealth on the battlefield, offering him a position within the Temple Knights, which Owen gladly accepted. From then on, he went on various missions, one of which involved the infiltration of the [[Black Knights' Fortress]].
+
+===As a Temple Knight===
+{{OccDur|Three's Company (saga)|Troll Warzone}}
+[[File:Fighting Carn.png|thumb|Sir Owen and his companions duel Carn the beastmaster.]]
+Some time after his recruitment by Tiffy, Owen took part in the [[Taverley Incident]]. A hunter and beastmaster known as [[Carn]] had attacked the peaceful [[druid]] town of [[Taverley]] in an attempt to cause distraction, so that he could kidnap [[Pikkupstix]] and force him to teach the secrets of [[summoning]] to him. His plan worked, for nobody noticed the kidnapping due to the chaos caused by Carn's beasts. Having accomplished his mission, Carn fled, ending the attack. Owen was sent to chase him and, along with fellow adventurers [[Ozan]], a young archer from [[Al Kharid]], and [[Ariane]], a sorceress from [[Seers' Village]], tracked him down in one of the upper dungeons of [[Daemonheim]] in 169. They went after him, freeing Pikkupstix along the way, and encountered the beastmaster controlling a [[hypnotised behemoth]] in the dungeon. They defeated his [[Arctic bear (Three's Company)|minions]] before dealing with Carn himself and liberating the behemoth.
+
+That same year, he controversially came to help the [[Imperial Guard]] in the [[Burthorpe - Troll Country War]]. On a trip to [[Burthorpe]], he witnessed an attack on a building in the east of the town, performed by a massive [[troll]] named [[Anvil (monster)|Anvil]]. He fought the troll and, with the help of an adventurer, defeated him.
+
+At some point, Owen was admitted into the [[Champions' Guild|Champions']], [[Heroes' Guild|Heroes']] and [[Legends' Guild]]s. He was also recruited by [[Crux Eqal]], alongside Ozan and Ariane, to raid the bases of the [[Mahjarrat]] [[Lucien]], though they arrived too late to stop him.{{CiteNPC|npc=Ozan|quote=I should have been there. The Crux Eqal recruited me, Owen and Ariane to attack another of Lucien's bases, but it turned out he'd already obtained it.}}
+
+===Saradomin's mission===
+{{OccDur|The Death of Chivalry}}
+{{Listen
+|title = Sir Owen introduces himself.
+|align = right
+|filename = Sir Owen Sonde.ogg
+|desc =
+}}
+A year later, he received instructions from Sir Amik, who had received a vision from [[Saradomin]] to send Owen to the [[Edgeville Monastery]], proving Owen apparently still had ties to the White Knights. Owen complied and went there to await his contact's arrival, although they did not come. Instead, the adventurer with whom he had slain Anvil appeared and, while chatting about his mission, a manifestation of Saradomin himself, who was fighting in the [[Battle of Lumbridge]] at the time, appeared, destroying [[Brother Althric]]'s cabbages and prompting Owen to kneel in awe before his god.
+
+Saradomin revealed himself to be the contact and entrusted both Owen and the adventurer with the recovery of an ancient weapon from the [[God Wars]], one the [[Kinshra]], who had been raiding White Knight outposts recently, were very close to obtaining. He then proceeded to infiltrate the [[Black Knights' Fortress]], disguised as a prisoner of the castle's overseer [[Captain Dulcin]], who was being impersonated by the adventurer. After making their way to the {{FloorNumber|4}}, "Dulcin" was informed by [[Lieutenant Graves]] that 'the ritual circle' had been damaged and 'the witch' had disappeared. The lieutenant was dealt with and the duo ransacked Dulcin's office before repairing the circle and completing a Black Knight ritual, which opened a massive red portal.
+
+[[File:Fighting the Black Knights.png|thumb|Sir Owen and the adventurer fight a trio of Black Knights.]]
+The duo were teleported to an ancient Saradominist [[Tomb of the Fallen|tomb]] beneath the Frozen Wastes, where they found a trio of Black Knights harassing a girl locked in a suspended cage. After defeating the Kinshra knights, they unlocked the cage and freed the damsel, who revealed herself to be [[Dawn]], ostensibly a sister from the [[Citharede Abbey]]. She claimed to have been captured by the Kinshra along with other Saradominists on her pilgrimage to the Edgeville Monastery for use in releasing the weapon, as voluntarily given virtous blood was needed. They agreed to leave Dawn in the Zamorakian camp while they would explore further. The adventurer also found a [[handwritten message]] from the real Dulcin warning the late knights that two Temple Knight infiltrants were on their way.
+
+They proceeded into a large tomb, where they found Kinshra had raided most of the coffins. They continued downwards, where they were suddenly met by the spirit of a [[centaur]], who introduced herself as [[Fern]], guardian of the Wand of Resurrection, the artefact the Kinshra were looking to obtain. She told the woeful tale of how Saradomin had recruited the centaurs to fight for him in the [[God Wars]] and she and her mate [[Bree]] became his generals. Most centaurs were slaughtered, however, but Fern declined Bree's offer to return to the [[Enchanted Valley]]. She repeatedly asked her virtuous sister, [[Elora the Lifegiver]], to resurrect the centaurs using her magical horn, which eventually exhausted her to death. In despair, Fern cut off Elora's horn and used it herself, but her lack of virtue resulted in the centaurs returning as mindless [[undead]] and murdering their own families, before eventually killing Fern, who, due to her immense remorse, became the wand's guardian.
+
+Fern then explained that, to obtain the wand, only the truly virtuous could pass the barriers, and they would have to best her in combat to prove their worth as well. Owen and the adventurer defeated Fern and proceeded to the wand, around the barriers of which the bodies of several monks and Citharede sisters lay. The adventurer dispelled the second barriers by solving a mechanical puzzle, but the third barriers could only be passed by the truly virtuous. Both knights had the choice of attempting and one of them succeeded in taking it.
+
+===Infiltration of the Black Knights' Fortress===
+{{OccDur|The Death of Chivalry}}
+[[File:Sir Owen is killed.png|thumb|Sir Owen is killed by one of Dawn's powerful spells.|left]]
+At that point, Dawn appeared and stole the wand, now dressed in Dulcin's robes. She revealed to be a witch in service of the Kinshra, planning to use the wand to create a massive army of [[undead]] for herself. Owen and the adventurer warned her that only the virtuous would be able to resurrect the dead, otherwise they would return as zombies as had happened to Fern. She stated she desired a mindless undead army rather than a living one, which would require care, and that the total darkness of her heart would avoid them turning against her. They proceeded to attack Dawn, but she simply grinned and killed Owen with a powerful spell. The adventurer stared at Owen's dead body in horror, when Dawn resurrected him and two Black Knights as zombies.
+
+The adventurer was forced to fight Owen and defeated him, killing him once more. After giving him a sad eulogy, they went after Dawn and demanded that she give back the wand, to which she proceeded to attack, while summoning various undead from the tomb. After a long battle, she was killed and the adventurer took the wand from her, but was unable to resurrect Owen with it, due to him having died twice.
+
+[[File:Saradomin revives Sir Owen.png|thumb|Saradomin uses the wand to revive Sir Owen.]]
+Saradomin then appeared and demanded the wand so that he could do it and the adventurer had the choice of giving it, keeping it or attempting to destroy it. Regardless, Saradomin got hold of the wand and used it on Owen, wishing to resurrect his knight, and he was resurrected. However, it had been an act of anger and the god was not virtuous enough, claiming it was a result of Saradomin's recent folly, and that he did what he did for the greater good, Owen's right arm became corrupted, much to everyone's shock.
+
+[[File:Sir Owen Corrupted.png|thumb|Saradomin resurrects Sir Owen, but as he was unworthy of the wand, he comes back corrupted.]]
+Saradomin regretted his act, although Owen seemed to have full faith in his god. He admitted to the corruption in his arm clawing at his mind, for he felt an urge to destroy the virtue that was within the adventurer. Saradomin sorrowfully told Owen that he would have to go into hiding for a time in order to protect both him and them from his current state. Fern's spirit then reappeared and agreed to accompany Owen while he would go into hiding, in order to resurrect the centaur race. 
+===Reviving the Centaurs===
+{{OccDur|Battle of the Monolith}}
+Owen was able to control his corruption and had travelled to the centaur burial grounds alongside Fern. He had tried to contact the World Guardian prior to leaving, but he did not get a response from them as they were too busy dealing with larger threats to Gielinor.
+
+On the way, Fern told him about centaur culture; they did not bury their dead, but instead fashioned them into items for keepsakes and mementos. The "burial" ground they were going to was instead the encampment that the remaining centaurs had been living in prior to their slaughter by their undead brethren. They were teleported to the camp by Saradomin, as the location was in the northern shores of the Wilderness. Fern's arrival caused the undead horde to emerge from the ocean.
+
+Owen referred to the undead centaurs as necrotaurs, who were corrupted by the same energy that Owen had, but had been manifested for far longer and described their grotesque appearance to the World Guardian. The horde attacked the trio, and despite their efforts, they simply regenerated any lost limbs. As Saradomin held the necrotaurs at bay with a barrier, he ordered Fern to peer into the Spirit Realm and describe their forms. As she reported back, Owen realized that they were bound by guilt and regret. Saradomin told Fern to kill their ghostly forms; as she did, he and Owen were able to damage the beasts.
+
+He was left exhausted from the battle, but with Saradomin's benevolence, he was able to muster some strength to continue fighting. Fern then disappeared, thanking Saradomin for allowing her to let go of the past. On the way back, the Wand of Resurrection crumbled to dust in Owen's hands. Owen's corruption still remains, but the voices have since diminished and he is working with Saradomin to find a way to purge it. The wand's disintegration also caused a jolt of energy up his corrupted arm, which he occasionally felt and hopes can prove useful.
+
+===Elder Threat===
+{{OccDur|Azzanadra's Quest}}
+Owen arrived in Falador to talk with the White Knights, but became increasingly frustrated with their lack of concern on almost everything, such as [[Sir Vyvin]] refusing to better equip prospective knights until the gear was blessed by Saradomin. Learning of the threat of the Elder Gods from the World Guardian and Sir Upticious ([[Trindine]] in disguise), Owen agreed to help the Zarosians deal with the Elder Gods.
+
+When the team needed to split up to investigate more leads, Azzanadra tasked Owen with finding Sir Vey Lance and interrogating him for information about the Elder Gods. Owen met with Sir Vey Lance in an unknown location, only to become shocked on discovering that he was actually a [[Chthonian]] [[demon]] named [[Veilinius]]. Hearing of the Zarosian plot to steal Saradomin's crown and that the majority of his fellow knights were actually Zarosian followers, he threatened to expose the demon, only to be knocked out by Trindine. Owen later participated in the [[Battle of the Monolith]] and has since taken to guarding the [[Mysterious monolith|Elder Codex]]. He also participated in the Elder God Wars, fighting on the [[Glacor Front]] alongside Azzanadra, now a god, and several other Mahjarrat.
+
+==Family==
+{{Family tree Sonde}}
+
+==Appearances in cinematic trailers==
+===2010 trailer===
+The trailer opens with Sir Owen lamenting the destruction the [[God Wars]] has caused and the unholiness of the gods' servants. Sir Owen has just been defeated by one of these servants, a sword-wielding necromancer. The necromancer turns his attention away from Owen and casts a spell that begins to reanimate dozens of skeletons. Owen resolves to stand up and keep fighting, but the necromancer overpowers him and prepares to deal the killing blow when [[Ozan]] and [[Ariane]] arrive. Ozan fires two arrows into the necromancer, and then Owen finally kills him.
+
+The skeletons become fully reanimated and charge towards the three Signature Heroes. The heroes easily fend off the skeletons, but a massive, undead [[dragon]]-like creature shows itself and prepares to battle them.
+
+===2012 trailer===
+[[File:Sir Owen attacking troll.png|thumb|right|Sir Owen jumping into battle.]]
+Sir Owen plays a part in the ''[[RuneScape]]'' cinematic trailer that can be watched [https://www.youtube.com/watch?v=ajz5Poh_giI&feature=related here].
+
+The trailer opens in the druidic village of [[Taverley]], where Sir Owen and Ariane are talking on a balcony while Ozan wanders past a couple of girls in the street below.
+
+Suddenly, a gigantic [[troll]] appears and wreaks havoc before charging straight at Ozan, who dodges the first swing of the troll's enormous axe, but the scene changes to an Ozan's flashback when he could not evade the second strike.
+
+The [[Raptor]] saves Ozan by slamming into the troll's axe shield-first. As the troll attempts to grab the Raptor, Sir Owen leaps off the balcony railing and smashes its right arm to little effect, and is shoved aside into a pillar. Ariane seizes her chance and hit it with a continuous stream of ice, freezing it solid. Ozan then shoots an arrow into the creature's chest, shattering it into blocks of frozen troll.
+
+After the ''RuneScape'' icon appears and disappears, three more trolls are seen charging.
+{{clear}}
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+{{Listen
+|title = Sir Owen's original voice.
+|align = right
+|filename = Sir Owen.ogg
+}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Signature Heroes Daemonheim.png|Ariane, Sir Owen and Ozan appear on the {{FloorNumber|1}} of Daemonheim
+SignatureHeroesChampionsGuild.png|Sir Owen's location in the [[Champions' Guild]]
+File:Signature heroes at heroes guild.png|Sir Owen's location in the [[Heroes' Guild]]
+Signature Heroes' Legends.png|Sir Owen's location in the [[Legends' Guild]]
+File:Corrupted Sir Owen concept artwork.jpg|A corrupted Sir Owen from [[The Death of Chivalry]].
+File:Sh dungeoneering.jpg|Sir Ewain in the site background released with Dungeoneering
+File:Sir Ewain.png|Sir Ewain in the signature heroes advertisement
+File:Sir EwainA.png|Sir Ewain (Dungeoneering advertisement)
+File:Sir Owen artwork.png|thumb|100px|Artwork of Sir Owen
+File:Sir ewain.png|Concept art of Sir Ewain
+File:Sir Owen artwork2.png|Similar concept art of Sir Owen
+File:Sir Owen.png|Sir Owen shown in the ''RuneScape'' cinematic trailer
+File:Sir Owen 3.jpg|A recent Sir Owen concept art
+</gallery>
+
+==Graphical updates==
+===NPC===
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Sir Owen old.png|name=Sir Owen}}
+|{{GUL|date=|update=|img=Sir owen.png|name=Sir Owen}}
+}}
+
+===Chatheads===
+{{GU|subject=chathead
+|{{GUL|date=|update=|img=Sir Owen chathead old.png|name=Sir Owen}}
+|{{GUL|date=|update=|img=Sir Owen chathead.png|name=Sir Owen}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Ninja Strike & 2.25XP for FSW! - This Week In RuneScape|date=31 October 2022}}
+** Ariane, Linza, Owen, Ozan, Raptor and Xenia will now acknowledge the accomplishments of anyone who has completed the quests they are associated with.
+
+* {{UL|type=patch|update='Accidental' Fletching & Firemaking Training - This Week In RuneScape|date=3 May 2022}}
+** Sir Owen's armaments at the Glacor front are no longer beset by a terrible affliction.
+
+* {{UL|type=hidden|update=This Week In RuneScape: Patch Week (January 2022)|date=24 January 2022}}
+** The "Talk-to" option on some NPCs has been renamed to "Talk to".
+
+* {{UL|type=hidden|update=This Week In RuneScape: The Croesus Front|date=27 September 2021}}
+** Sir Owen was added to Senntisten.
+
+* {{UL|type=update|update=This Week In RuneScape - Celebration of Minigames!#Patch Notes|date=18 January 2021}}
+** [[Ariane]], Sir Owen, and [[Elder Overload Golem]]s removed from [[Grand Party]].
+
+* {{UL|type=update|date=11 January 2021|update=This Week In RuneScape: Celebration of Combat}}
+** [[Elder Overload Golem]]s are added to the Lumbridge Crater with [[Ariane]] and Sir Owen as part of Combat week of the [[Grand Party]].
+
+* {{UL|type=patch|update=Patch Notes (3 May 2016)|date=3 May 2016}}
+** Sir Owen will no longer occasionally die to the [[Black Knight|Black Knight guards]] in the quest [[The Death of Chivalry]].
+
+* {{UL|type=patch|update=Patch Notes (25 September 2013)|date=25 September 2013}}
+** The armoured wandering signature hero version of Sir Owen has re-acquired his sword.
+
+* {{UL|type=patch|update=Patch Notes (13 November 2012)|date=13 November 2012}}
+** The [[Ariane]], [[Ozan]], [[The Raptor]], Owen and [[Xenia]] no longer appear multiple times in certain locations.
+
+* {{UL|type=patch|update=Patch Notes (17 August 2011)|date=17 August 2011}}
+** Sir Owen no longer talks about being glad that you stopped [[Lucien]] obtaining the [[Stone of Jas]] as you didn't.
+
+* {{UL|type=update|update=The Death of Chivalry|date=13 August 2013}}
+** Added to game.
+}}
+
+==Trivia==
+[[File:Sir Owen (scar side) chathead.png|right|thumb|Owen's scars]]
+* Sir Owen was originally named "Sir Ewain", and had blond hair and no scar on the left half of his face. His name, Sir E. Ouse, was a pun on the word "serious".{{CiteForum |author=Mod John A|url=http://services.runescape.com/m=forum/c=bDpWh-W3ZCs/sl=0/forums.ws?198,199,5,61223482,goto,48 |title=Who are the Signature Heroes? |forum=Developer Blogs |postdate=13 July 2010 |archiveurl=https://archive.ph/JGpRw|archivedate=5 June 2013 |notes=Q:Why is Sir Ewain one of the only white knights I've seen that has a name which doesn't come together in vocalisation to make a particular word or phrase? (or am I saying it wrong).
+A: Hah, I'm glad someone noticed that. His full name is Sir Ewain Ouse. (Surely you can't be Sir E. Ouse?)}}
+* Sir Owen's known family is a collection of various sound-related puns: Sir Owen's full name, with title, is Sir Owen Sonde, a play on "surround sound". Likewise, his parents' names are Stario Sonde ("stereo sound") and Altra Sonde ("ultrasound").
+* Jagex previously had plans to feature him in a quest called [[Tome Raider (quest)|Tome Raider]], but this was later cancelled.
+* In the ''RuneScape'' cinematic trailer, Owen is "voiced" by [[Mod Moltare]].
+**In all other instances, however, he is voiced by [[voice actor|Ben Crowe]].
+* His examine text "Silent knight." is a pun on the Christmas carol ''Silent Night'', or perhaps the music track [[Silent Knight]], which references the same carol.
+* "A dark and stormy knight." references the often-parodied first phrase of the 1830 Edward Bulwer-Lytton novel ''Paul Clifford'', "It was a dark and stormy night...". Among many other pop cultural references, the phrase was a recurring meme in the comic strip ''Peanuts'', and it is the inspiration for the [http://www.bulwer-lytton.com/ Bulwer-Lytton Fiction Contest].
+* Sir Owen wears an armour that is different from the initiate and proselyte ranks. Assuming that the Temple Knights use the same ranking structure as the White Knights, this would place Sir Owen at the rank of acolyte or higher.
+* Sir Owen has two references in the alternate dimension where [[Dimension of Disaster]] and the [[2016 Halloween event]] are set. His severed head can be found alongside the other Signature Heroes (minus the Raptor) in Zemouregal's bedroom with the examine "The death of chivalry", and his gravestone lies among others knights' above the Invention Guild. Its examine text is "Here lies Sir Owen. Died bravely in service to Saradomin. He was a knight to remember."
+
+==References==
+{{Reflist}}
+
+{{The Death of Chivalry}}
+{{Three's Company (saga)}}
+{{Azzanadra's Quest}}
+{{Signature Hero quests}}
+{{White Knights}}
+{{Temple Knights}}
+{{Troll Warzone}}
+[[Category:Protagonists]]
+[[Category:Saradominists]]
+[[Category:Quest monsters]]
+[[Category:NPCs that can move at running speed]]
+[[pt:Sir Owen]]

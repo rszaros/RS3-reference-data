@@ -1,0 +1,97 @@
+{{Otheruses|def=no|the pyrefiends found in the Soul Wars tutorial|Pyrefiend (Soul Wars tutorial)}}
+{{Infobox Monster
+|name = Pyrefiend
+|image = [[File:Pyrefiend (Soul Wars).png|x280px]]
+|release = [[10 February]] [[2009]]
+|update = Soul Wars
+|members = Yes
+|examine = A small fire demon.
+|level = 63
+|lifepoints = 2250
+|experience = 112.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 30
+|slayxp = 32.6
+|slayercat = Pyrefiends
+|assigned_by = Mazchna
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 360
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 45
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 732
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Thrown
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id = 8598
+|leagueRegion = Misthalin
+}}
+'''Pyrefiends''' are monsters only found in the [[Soul Wars]] minigame. They are one of the two monsters that can be killed for [[soul fragment]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Soul Wars]]
+|lvls=63
+|mem=yes
+|mapID=28
+|npcid:8598,x:2161,y:2929|npcid:8598,x:2165,y:2933|npcid:8598,x:2168,y:2925
+|npcid:8598,x:2168,y:2930|npcid:8598,x:2170,y:2934|npcid:8598,x:2172,y:2928
+|npcid:8598,x:2241,y:2890|npcid:8598,x:2243,y:2885|npcid:8598,x:2245,y:2894
+|npcid:8598,x:2247,y:2890|npcid:8598,x:2248,y:2887|npcid:8598,x:2251,y:2893
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes|quantity=1|rarity=Always}}
+{{DropsLine|name=Soul fragment|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[10 February]] [[2009]]|update=Soul Wars|img=Pyrefiend (Soul Wars) (2009).png|name=Pyrefiend (Soul Wars)}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Pyrefiend (Soul Wars) (2014).png|name=Pyrefiend (Soul Wars)}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Pyrefiend (Soul Wars).png|name=Pyrefiend (Soul Wars)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Pyrefiends have been graphically updated.
+
+* {{UL|type=ninja|update=Patch Notes (26 August 2014)|date=26 August 2014}}
+** Pyrefiend and icefiend models and animations have been updated to use the God Wars models and animations.
+
+* {{UL|type=update|update=Soul Wars|date=10 February 2009}}
+** Added to game.
+}}
+
+{{Soul Wars}}
+{{Demons}}

@@ -1,0 +1,117 @@
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = 1 (Ancient Awakening)
+|version2 = 2 (Ancient Awakening)
+|version3 = 1 (Ungael combat activity)
+|version4 = 2 (Ungael combat activity)
+|name = Zombie warrior
+|image1 = Zombie warrior (1).png
+|image2 = Zombie warrior (2).png
+|image3 = Zombie warrior (1).png
+|image4 = Zombie warrior (2).png
+|release = [[9 October]] [[2023]]
+|update = Ancient Awakening Launches - This Week in RuneScape
+|members = Yes
+|options = Attack, Target, Examine
+|race =
+|examine = The walking dead.
+|level = 76
+|lifepoints1 = 10710
+|lifepoints2 = 10710
+|lifepoints3 = 15300
+|lifepoints4 = 15300
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 0
+|slayercat = Zombies, Undead
+|max_melee = 1500
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack = 60
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1032
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 850
+|defence = 50
+|weakness = Fire
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect =
+|immune_to_stun =
+|immune_to_drain =
+|restriction = minigame
+|id1 = 30528
+|id2 = 30529
+|id3 = 30528
+|id4 = 30529
+|leagueRegion = Fremennik
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = 1
+|version2 = 2
+|name = Zombie warrior
+|image1 = Zombie warrior (2).png
+|image2 = Zombie warrior (4).png
+|release = [[9 October]] [[2023]]
+|update = Ancient Awakening Launches - This Week in RuneScape
+|members = Yes
+|race = Zombie
+|quest = [[Ancient Awakening]]
+|location = [[Ungael]]
+|leagueRegion = Fremennik
+|gender1 = Female
+|gender2 = Male
+|options = Examine
+|examine = The walking dead.
+|map1 =
+|map2 =
+|id1 = 30590
+|id2 = 30591
+}}
+}}
+'''Zombie warrior''' is a [[monster]] encountered during [[Ancient Awakening]] and in the standard mode of the [[Ungael combat activity]].
+
+During Ancient Awakening their [[life points]] are reduced to 70% of the value seen in the standard mode of the Ungael combat activity. Six of them ambush the player and their expedition party when they first arrive on [[Ungael]], along with two [[skeleton knight]]s. They are later fought in the tower during the quest, where four of them appear in the first wave, two in the second wave, one in the third wave, two in the fourth wave, two in the fifth wave, one in the sixth wave, three in the seventh wave, three in the eighth wave, two in the ninth wave, and one in the eleventh wave, along with many other monsters.
+
+A non-attackable variant is seen just before the waves in the tower start.
+
+In the standard mode of the Ungael combat activity four of them appear in the first wave, two in the second wave, one in the fourth wave, two in the fifth wave, one in the sixth wave, and one in the eleventh wave, along with many other monsters.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Combat Refinement & Off-Duty Outfits! - This Week In RuneScape|date=23 October 2023}}
+** We have updated the Zombies within the Combat Arena of Ancient Awakening to better reflect that they are Zemouegeal's evil Necromantic summons.
+
+* {{UL|type=update|update=Ancient Awakening Launches - This Week in RuneScape|date=9 October 2023}}
+** Added to game.
+}}
+
+{{Ancient Awakening}}
+{{Zemouregal & Vorkath}}
+[[Category:NPCs that can move at running speed]]
+[[pt:Guerreiro zumbi]]

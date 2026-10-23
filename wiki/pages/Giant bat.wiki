@@ -1,0 +1,281 @@
+{{External|os|rsc}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|version1 = Normal
+|version2 = Brine Rat Cavern
+|name = Giant bat
+|image1 = [[File:Giant bat.png]]
+|image2 = [[File:Giant bat (Brine Rat Cavern).png]]
+|release1 = [[27 February]] [[2002]]
+|release2 = [[10 April]] [[2007]]
+|update1 = Latest RuneScape News (27 February 2002)
+|update2 = Olaf's Quest
+|members1 = No
+|members2 = Yes
+|options = Attack
+|examine1 = An annoying flappy thing.
+|examine2 = It's a pretty big bat.
+|level1 = 14
+|level2 = 23
+|lifepoints1 = 1000
+|lifepoints2 = 2900
+|slaylvl = 1
+|slayxp1 = 18.8
+|slayxp2 = 10.2
+|aggressive1 = Yes
+|aggressive2 = Yes
+|poisonous = No
+|slayercat = Bats
+|max_melee1 = 200
+|max_melee2 = 340
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = n/a
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 10
+|attack2 = 17
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 102
+|acc_melee2 = 180
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 202
+|armour2 = 280
+|defence1 = 10
+|defence2 = 17
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 78
+|id2 = 3711
+|leagueRegion =Morytania,Fremennik,Kandarin,Karamja,Asgarnia,Desert,Tirannwn
+}}
+A '''giant bat''' is a larger version of a [[bat]]. They may be substituted for bats, which are given out as [[Slayer]] assignments mostly by [[Mazchna]]. They previously used magic as their primary method of attack, but now exclusively fight using melee. Their attacks don't hit particularly hard. Even low-levelled players are unlikely to need food when killing them. They always drop [[bat bones]] and have a chance of dropping a piece of [[batwing]]. They stop becoming aggressive at combat level 29.
+
+There are also [[Giant bat (NPC)|non-attackable giant bats]] in the [[Brimhaven Agility Arena]] and the [[Underground Pass (dungeon)|Underground Pass]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Brine Rat Cavern]]
+|lvls=23
+|mem=yes
+|requirements={{QuestIcon|Olaf's Quest}} (partial)
+|mapID=560
+|npcid:3711,x:2720,y:10134|npcid:3711,x:2723,y:10122|npcid:3711,x:2730,y:10131
+|npcid:3711,x:2732,y:10122|npcid:3711,x:2734,y:10128
+|leagueRegion = Fremennik}}
+{{LocLine
+|loc=[[Chaos Druid Tower]] dungeon
+|lvls=14
+|mem=yes
+|mapID=0
+|npcid:78,x:2563,y:9753|npcid:78,x:2565,y:9754|npcid:78,x:2567,y:9752
+|npcid:78,x:2569,y:9753|npcid:78,x:2572,y:9752
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Coal truck mine]]
+|lvls=14
+|mem=yes
+|mapID=28
+|npcid:78,x:2571,y:3481|npcid:78,x:2572,y:3472|npcid:78,x:2578,y:3476
+|npcid:78,x:2586,y:3473|npcid:78,x:2591,y:3479|npcid:78,x:2592,y:3484
+|npcid:78,x:2594,y:3474
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Elvarg's lair]]
+|lvls=14
+|mem=no
+|requirements={{QuestIcon|Dragon Slayer}} (partial)
+|mapID=13
+|npcid:78,x:274,y:160|npcid:78,x:296,y:167|npcid:78,x:301,y:160
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Goblin Cave]]
+|lvls=14
+|mem=yes
+|mapID=0
+|npcid:78,x:2596,y:9836|npcid:78,x:2599,y:9837|npcid:78,x:2606,y:9825
+|npcid:78,x:2609,y:9817|npcid:78,x:2609,y:9823|npcid:78,x:2612,y:9815
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Golrie]]'s cave
+|lvls=14
+|mem=yes
+|mapID=363
+|npcid:78,x:2604,y:4446|npcid:78,x:2606,y:4437|npcid:78,x:2607,y:4444
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Grand Tree mine]]
+|lvls=14
+|mem=yes
+|requirements={{QuestIcon|The Grand Tree}} (partial)
+|mapID=499
+|npcid:78,x:2443,y:9862|npcid:78,x:2451,y:9860|npcid:78,x:2460,y:9860
+|npcid:78,x:2469,y:9863
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Abandoned Mine]] level 1
+|lvls=14
+|mem=yes
+|requirements={{QuestIcon|Haunted Mine}} (partial)
+|mapID=569
+|npcid:78,x:3410,y:9632|npcid:78,x:3411,y:9620|npcid:78,x:3416,y:9620
+|npcid:78,x:3425,y:9637
+|leagueRegion = Morytania}}
+{{LocLine
+|loc=[[Abandoned Mine]] level 4
+|lvls=14
+|mem=yes
+|requirements={{QuestIcon|Haunted Mine}} (partial)
+|mapID=296
+|npcid:78,x:2787,y:4503|npcid:78,x:2789,y:4499
+|leagueRegion = Morytania}}
+{{LocLine
+|loc=[[Heroes' Guild Dungeon]]
+|lvls=14
+|mem=yes
+|requirements={{QuestIcon|Heroes' Quest}}
+|mapID=719
+|npcid:78,x:201,y:179|npcid:78,x:208,y:183|npcid:78,x:246,y:159
+|npcid:78,x:248,y:168|npcid:78,x:251,y:164
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Keep Le Faye]]
+|requirements={{QuestIcon|Merlin's Crystal}} (partial)
+|lvls=14
+|mem=yes
+|mapID=28
+|npcid:78,x:2752,y:3409|npcid:78,x:2753,y:3396|npcid:78,x:2759,y:3401
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Legends' Guild Dungeon]]
+|lvls=14
+|mem=yes
+|requirements={{QuestIcon|Legends' Quest}}
+|mapID=0
+|npcid:78,x:2703,y:9734|npcid:78,x:2730,y:9769|npcid:78,x:2731,y:9763
+|npcid:78,x:2731,y:9774|npcid:78,x:2734,y:9770
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Ogre Enclave]]
+|lvls=14
+|mem=yes
+|requirements={{QuestIcon|Watchtower}}
+|mapID=572
+|npcid:78,x:2608,y:9421|npcid:78,x:2612,y:9416|npcid:78,x:2619,y:9427
+|npcid:78,x:2620,y:9419
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Shadow Dungeon]]
+|lvls=14
+|mem=yes
+|requirements={{QuestIcon|Desert Treasure}} (partial)
+|mapID=416
+|npcid:78,x:2709,y:5086
+|leagueRegion = Desert}}
+{{LocLine
+|loc=[[Taverley Dungeon]]
+|lvls=14
+|mem=yes
+|mapID=17
+|npcid:78,x:2904,y:9832|npcid:78,x:2908,y:9830|npcid:78,x:2909,y:9837
+|npcid:78,x:2914,y:9828|npcid:78,x:2914,y:9840|npcid:78,x:2919,y:9831
+|npcid:78,x:2921,y:9826|npcid:78,x:2922,y:9834|npcid:78,x:2925,y:9830
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Temple of Ikov (dungeon)|Temple of Ikov]]
+|lvls=14
+|mem=yes
+|requirements={{QuestIcon|Temple of Ikov}} (partial)
+|mapID=509
+|npcid:78,x:2659,y:9809|npcid:78,x:2663,y:9804|npcid:78,x:2665,y:9812
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Underground Pass (dungeon)|Underground Pass]]
+|lvls=14
+|mem=yes
+|requirements={{QuestIcon|Underground Pass}} (partial)
+|mapID=579
+|npcid:78,x:2372,y:9637|npcid:78,x:2373,y:9630|npcid:78,x:2419,y:9636
+|npcid:78,x:2421,y:9634|npcid:78,x:2422,y:9631|npcid:78,x:2468,y:9696
+|npcid:78,x:2471,y:9693|npcid:78,x:2485,y:9704|npcid:78,x:2488,y:9703
+|npcid:78,x:2490,y:9698|npcid:78,x:2491,y:9705
+|leagueRegion = Tirannwn}}
+{{LocLine
+|loc=[[Yanille Agility dungeon]]
+|lvls=14
+|mem=yes
+|mapID=3
+|npcid:78,x:73,y:122|npcid:78,x:75,y:117|npcid:78,x:79,y:117
+|npcid:78,x:103,y:77|npcid:78,x:104,y:72|npcid:78,x:105,y:70
+|npcid:78,x:106,y:76|npcid:78,x:111,y:77
+|leagueRegion = Kandarin}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bat bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Giant bat}}
+
+===Main===
+{{DropsTableHead}}
+{{DropsLine|name=Batwing|quantity=1|rarity=13/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Giant bat wing|rarity=Always|quantity=1|gemw=no|raritynotes={{DropNote|Only during [[Rag and Bone Man]].}}}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Rare}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Giant bat (2004).png|name=Giant bat}}
+|{{GUL|date=[[18 October]] [[2006]]|update=Capes of Achievement... and Goats!|img=Giant bat (2006).png|name=Giant bat}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Giant bat (2008).png|name=Giant bat}}
+|{{GUL|date=[[12 May]] [[2014]]|update=Patch Notes (12 May 2014)|img=Giant bat.png|name=Giant bat}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (7 August_2017)|date=7 August 2017}}
+** Some bats that were only visible on members' worlds are now visible on free worlds.
+
+* {{UL|type=patch|update=Patch Notes (7 March 2016)|date=7 March 2016}}
+** Giant bats have had their combat stats rebalanced (level 44 variant).
+
+* {{UL|type=patch|update=Patch Notes (22 November 2012)|date=22 November 2012}}
+** Giant bats once again drop the giant bat wing for Rag and Bone Man.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+==Trivia==
+* The giant bats in the [[Brine Rat Cavern]] are the same size as regular [[bat]]s.
+
+[[pt:Morcego gigante]]

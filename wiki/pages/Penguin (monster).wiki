@@ -1,0 +1,114 @@
+{{External|os}}
+{{Otheruses|the attackable monster|other uses|Penguin}}
+{{Infobox Monster
+|name = Penguin
+|image = [[File:Penguin.png|110px]]
+|release = [[29 March]] [[2004]]
+|update = RS2 Launched!
+|members = Yes
+|options = Attack
+|examine = An inhabitant of icy regions.
+|level = 8
+|lifepoints = 1550
+|experience = 77.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 7
+|slayercat = Birds
+|assigned_by = turael
+|max_melee = 120
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 6
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 60
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 160
+|defence = 6
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 131
+|leagueRegion=Fremennik, Kandarin}}
+'''Penguins''' are low-levelled monsters found on [[Here Be Penguins]], only accessible by using the {{Fairycode|AJS}} [[fairy ring]], and also inside an exhibit in the [[Ardougne Zoo]]. They have no drops apart from bones, and are therefore rarely killed. Upon the initial release of [[Summoning]], many players killed penguins assuming that they would drop a [[penguin egg]] necessary to raise a [[Penguin (pet)|pet penguin]]. The only way to obtain a penguin egg is to talk to the [[Penguin keeper]] in the Ardougne Zoo. They count as birds for slayer tasks.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Here Be Penguins]] Eastern Island
+|lvls = 8
+|mem = Yes
+|requirements={{QuestIcon|A Fairy Tale II - Cure a Queen}} (partial)
+|mapID = 28
+|plane = 0
+|npcid:131,x:2579,y:3908|npcid:131,x:2580,y:3910|npcid:131,x:2581,y:3912|npcid:131,x:2581,y:3915|npcid:131,x:2581,y:3916
+|npcid:131,x:2582,y:3908|npcid:131,x:2583,y:3916|npcid:131,x:2584,y:3907|npcid:131,x:2584,y:3910|npcid:131,x:2584,y:3913|npcid:131,x:2584,y:3914
+|npcid:131,x:2585,y:3918|npcid:131,x:2586,y:3908|npcid:131,x:2586,y:3911|npcid:131,x:2586,y:3916|npcid:131,x:2587,y:3913|npcid:131,x:2587,y:3917
+|npcid:131,x:2588,y:3907|npcid:131,x:2588,y:3910|npcid:131,x:2588,y:3915|npcid:131,x:2590,y:3911|npcid:131,x:2590,y:3914|npcid:131,x:2590,y:3917
+|npcid:131,x:2591,y:3908|npcid:131,x:2593,y:3909|npcid:131,x:2593,y:3911
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc = [[Here Be Penguins]] Western Island
+|lvls = 8
+|mem = Yes
+|requirements={{QuestIcon|A Fairy Tale II - Cure a Queen}} (partial)
+|mapID = 28
+|plane = 0
+|npcid:131,x:2499,y:3893|npcid:131,x:2499,y:3896|npcid:131,x:2500,y:3895|npcid:131,x:2501,y:3896|npcid:131,x:2501,y:3897
+|npcid:131,x:2503,y:3898|npcid:131,x:2505,y:3897|npcid:131,x:2505,y:3899
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc = [[Ardougne Zoo]]
+|lvls = 8
+|mem = Yes
+|mapID = 28
+|plane = 0
+|npcid:131,x:2592,y:3269|npcid:131,x:2594,y:3271|npcid:131,x:2596,y:3269
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Penguin (2004).png|name=Penguin}}
+|{{GUL|date=[[29 January]] [[2007]]|update=What's black and white and goes green when it's finished?|img=Penguin.png|name=Penguin}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=RS2 Launched!|date=29 March 2004}}
+** Added to game.
+}}
+
+{{Penguins}}

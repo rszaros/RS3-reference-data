@@ -1,0 +1,125 @@
+{{external|os}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|name = Mummy
+|image1 = [[File:Mummy 5.png|150px]]
+|image2 = [[File:Mummy 6.png|150px]]
+|image3 = [[File:Mummy 5.png|150px]]
+|image4 = [[File:Mummy 6.png|150px]]
+|image5 = [[File:Mummy 6.png|150px]]
+|release = [[26 April]] [[2005]]
+|update = Desert Month Finale
+|members = Yes
+|options = Attack
+|examine1 = This mummy looks like it means business!
+|examine2 = An irate warrior-mummy.
+|examine3 = This mummy looks like it means business!
+|examine4 = An irate mummy.
+|examine5 = A wizened old warrior.
+|level = 70
+|lifepoints = 2500
+|experience = 125.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Zombies, Undead
+|max_melee = 200
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = melee
+|speed = 4
+|attack = 50
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Fire
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = surface
+|id1 = 2015
+|id2 = 2016
+|id3 = 2017
+|id4 = 2018
+|id5 = 2019
+|leagueRegion = Desert
+}}
+'''Mummies''' are [[monsters]] which can be found guarding [[Klenter's Pyramid]] during and after the [[Icthlarin's Little Helper]] quest.
+
+They are aggressive regardless of combat level, and unlike other mummies, cannot be set alight using [[fire spells]], and do not drop anything besides [[bones]]. They also possess a unique appearance.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Klenter's Pyramid]]
+|lvls=70
+|mem=yes
+|mapID=540
+|npcid:2015,x:3279,y:9176
+|npcid:2016,x:3277,y:9186
+|npcid:2017,x:3310,y:9171
+|npcid:2018,x:3284,y:9189
+|npcid:2018,x:3287,y:9177
+|npcid:2019,x:3306,y:9183
+|leagueRegion = Desert
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Mummy Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Mummy Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[26 April]] [[2005]]|update=Desert Month Finale|img=Mummy old.png|name=Mummy}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Mummy 3.png|name=Mummy}}
+|{{GUL|date=[[16 March]] [[2015]]|update=Ninja_Graphical_Updates_-_Skillcapes_-_Pyramid_Plunder|img=Mummy 5.png|name=Mummy}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** If you venture to the pyramids in the desert you'll find that the mummies have been similarly redecorated.
+
+* {{UL|type=update|update=Desert Month Finale|date=26 April 2005}}
+** Added to game.
+}}
+
+{{Icthlarin's Little Helper}}
+{{Mummy}}

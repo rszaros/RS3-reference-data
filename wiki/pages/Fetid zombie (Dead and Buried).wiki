@@ -1,0 +1,71 @@
+{{Infobox Monster
+|name = Fetid zombie
+|image = Fetid zombie (Dead and Buried).png
+|release = [[17 July]] [[2023]]
+|update = Dead and Buried Launch & Soul Dye Update - This Week In RuneScape
+|members = Yes
+|options = Attack
+|race = Zombie
+|examine = Dead, impressive.
+|level = 0
+|lifepoints = 0
+|experience = 0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 100
+|slayercat = Fetid zombies, undead, Zemouregal's undead, zombies
+|max_melee = 480
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 50
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0 
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Air
+|susceptibility = Magic, Salve, Undead Slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 30123
+}}
+[[File:Fetid zombie icon.png|left]]
+'''Fetid zombies''' are [[monster]]s involved in the [[Dead and Buried]] quest. The player need to defeat ten of them in the quest to collect [[map piece]]s.
+
+Their combat stats scale to the player's stats.
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Map piece|quantity=1|rarity=Always|raritynotes={{DropNote|Only while there are map pieces left to collect.}}}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dead and Buried Launch & Soul Dye Update - This Week In RuneScape|date=17 July 2023}}
+** Added to game.
+}}
+
+{{Dead and Buried}}

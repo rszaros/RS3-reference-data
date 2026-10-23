@@ -1,0 +1,220 @@
+{{External|os|rsc}}
+{{Dgvariant}}
+{{Otheruses|def=no|the cosmetic outfit|Ice warrior outfit}}
+{{Infobox Monster
+|version1 = Normal
+|version2 = Ice Queen's Lair
+|name = Ice warrior
+|image1 = [[File:Ice warrior.png|x320px]]
+|image2 = [[File:Ice warrior (Ice Queen's Lair).png|x320px]]
+|release1 = [[24 May]] [[2001]]
+|release2 = [[29 March]] [[2004]]
+|update1 = Runescape updated (24 May 2001)
+|update2 = RS2 Launched!
+|members1 = No
+|members2 = Yes
+|options = Attack
+|examine1 = A cold-hearted elemental warrior.
+|examine2 = The Ice Queen's Royal Guard.
+|level = 40
+|lifepoints = 4200
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 25.8
+|slayercat = Ice warriors
+|assigned_by = Vannaka,Achtryn
+|max_melee = 640
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 32
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 386
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 395
+|defence = 26
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 125, 3073
+|id2 = 145
+|leagueRegion = Asgarnia, Wilderness
+}}
+[[File:Ice warrior icon.png|left]]
+An '''Ice warrior''' is a monster similar in appearance to a [[knight]] in blue, somewhat translucent armour. They reside near ice or in frozen caves and are most easily fought in the [[Asgarnian Ice Dungeon]]. Ice warriors are not aggressive to players with a combat level of 109 and above.
+
+Mid-level [[food]] (such as [[lobsters]], [[swordfish]], or [[beltfish]]) is recommended for players between the [[combat level]]s of 70 and 90, as any type of food above that will likely be a waste of money. Higher-levelled players will likely need little to no food.
+
+Ice warriors appear to be wielding [[longsword]]s, but their [[attack speed]] is 4.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[White Wolf Mountain]]
+|lvls=40
+|mem=yes
+|mapID=28|plane=1
+|npcid:125,x:2844,y:3518|npcid:125,x:2850,y:3515
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Ice Queen's Lair]]
+|lvls=40
+|mem=yes
+|mapID=8
+|npcid:125,x:6,y:45|npcid:125,x:20,y:49|npcid:125,x:22,y:61
+|npcid:125,x:31,y:63|npcid:125,x:32,y:56|npcid:125,x:18,y:84
+|npcid:125,x:20,y:97|npcid:125,x:28,y:88|npcid:145,x:48,y:94
+|npcid:145,x:49,y:95|npcid:145,x:50,y:92|npcid:145,x:51,y:92
+|npcid:145,x:51,y:95|npcid:145,x:52,y:94
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Asgarnian Ice Dungeon]]
+|lvls=40
+|mem=no
+|mapID=25
+|npcid:125,x:3044,y:9581|npcid:125,x:3046,y:9575|npcid:125,x:3048,y:9583
+|npcid:125,x:3049,y:9590|npcid:125,x:3053,y:9576|npcid:3073,x:3056,y:9572
+|npcid:125,x:3056,y:9583|npcid:125,x:3056,y:9587|npcid:3073,x:3060,y:9572
+|npcid:125,x:3062,y:9576|npcid:125,x:3062,y:9581
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=40
+|mem=yes
+|mapID=23
+|npcid:125,x:3206,y:5448|npcid:125,x:3207,y:5443|npcid:125,x:3218,y:5442
+|npcid:125,x:3218,y:5449|npcid:125,x:3225,y:5445|npcid:125,x:3232,y:5443
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Training spots==
+{{Needs image|Images of safespotting strategy should be provided to provide better clarity, as well as more concise safespotting information}}
+There are ice warriors mixed with three [[ice giant]]s in the [[Asgarnian Ice Dungeon|dungeon]] just south of [[Port Sarim]]. There is also a room full of ice warriors guarding the [[Ice Queen]] under [[White Wolf Mountain]] (level 50 [[mining]] is required to enter), however it is a long walk through tunnels of [[ice spider]]s and ice giants. It may be a good idea to bring a [[Summoning familiars|summoning familiar]] or a [[dwarf multicannon]].
+
+Ice warriors can be safe spotted on White Wolf Mountain by standing next to the rock slide. (There are several spots that work. The safest option is 2 squares south and 1 square east of the first stalagmite you see as you enter the room from the west.) 
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=300|rarity=32/128}}
+{{DropsLine|name=Coins|quantity=450|rarity=22/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny spiky steel salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Tiny plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small plated adamant salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Teak wood spirit|quantity=3|rarity=10/128|altrarity=18/128|raritynotes={{DropNote|10/128 in members worlds; 18/128 in free to play worlds}}}}
+{{DropsLine|name=Willow wood spirit|quantity=4|rarity=6/128}}
+{{DropsLine|name=Iron stone spirit|quantity=2|rarity=10/128}}
+{{DropsLine|name=Coal stone spirit|quantity=2|rarity=10/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril arrow|quantity=12|rarity=12/128}}
+{{DropsLine|name=Headless shaft|quantity=6|rarity=8/128|raritynotes={{DropNote|Only in members' worlds; in free to play there is an increased drop rate for teak wood spirits}}}}
+{{DropsLine|name=Limpwurt root|quantity=1|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128|f2p=yes}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128|gemw=no}}
+{{DropsLineEffigy|level=40|members=yes}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineMimic|level=40|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|members=yes
+|quantity = 1
+|gold = 391.231/1000
+|green = 12.226/1000
+|crimson = 24.452/1000
+|blue = 2.445/1000
+}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Normal
+|item1 = {{GU|subject=npc
+|{{GUL|date=[[24 May]] [[2001]]|update=Runescape updated (24 May 2001)|img=Ice warrior (2001).png|name=Ice warrior}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Ice warrior (2004).png|name=Ice warrior}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Ice warrior.png|name=Ice warrior}}
+}}
+|text2 = Ice Queen's Lair
+|item2 = {{GU|subject=npc
+|{{GUL|date=[[27 February]] [[2002]]|update=Latest RuneScape News (27 February 2002)|img=Ice warrior (2001).png|name=Ice warrior}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Ice warrior (Ice Queen's Lair) (2004).png|name=Ice warrior}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Ice warrior (Ice Queen's Lair).png|name=Ice warrior}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[tiny blunt mithril salvage]] drop with [[willow wood spirit]]s.
+** Replaced the [[maple logs]] drop with [[teak wood spirit]]s.
+** Replaced the [[tiny plated iron salvage]] drop with [[tiny blunt mithril salvage]].
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+*{{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Removed the ice warriors, [[ice giant]]s and [[ice spider]]s from the [[Frozen Waste Plateau]], replacing them with [[glacor]]s, [[wyvern]]s and [[acheron mammoth]]s respectively.
+
+* {{UL|type=patch|update=Patch Notes (16 January 2017)|date=16 January 2017}}
+** Ice warriors that were inconsistently weak to air, water or earth are now weak to fire.
+
+* {{UL|type=patch|update=Patch Notes (9 November 2009)|date=9 November 2009}}
+** Fixed a long standing issue where ice warriors would lose the transparency of their models in combat.
+
+* {{UL|type=update|update=Runescape updated (24 May 2001)|date=24 May 2001}}
+** Added to game.
+** The [[Asgarnian Ice Dungeon]] has been expanded and improved.
+*** It now also includes the new ice warrior monsters.
+}}
+
+==Trivia==
+* Ice warriors still use the walk, stand and death animations of old RuneScape.
+* Ice warriors appear to have the old model of armour.
+* While the ones in the Asgarnian Ice Dungeon have a male voice when they are hit and die, the ones near the Ice Queen have a female voice. It is unknown if this was intentional or not.
+* Two ice warriors in the Asgarnian Ice Dungeon and the ones near the Ice Queen display used to be weak to water spells. This was changed in the [[Update:Patch Notes (16 January 2017)|patch notes]] on [[16 January]] [[2017]].
+
+{{Elementals}}
+[[Category:NPCs with multiple Examine options]]
+[[pt:Guerreiro do gelo]]

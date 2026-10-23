@@ -1,0 +1,152 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 35
+|version2 = 47
+|version3 = 60
+|version4 = 72
+|version5 = 86
+|version6 = 99
+|version7 = 112
+|version8 = 124
+|version9 = 138
+|name = Ice troll
+|image = [[File:Ice Troll Daemonheim.png|150px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|examine = It's covered in ice and snow.
+|level1 = 35
+|level2 = 47
+|level3 = 60
+|level4 = 72
+|level5 = 86
+|level6 = 99
+|level7 = 112
+|level8 = 124
+|level9 = 138
+|lifepoints1 = 2500
+|lifepoints2 = 3400
+|lifepoints3 = 4300
+|lifepoints4 = 5200
+|lifepoints5 = 6200
+|lifepoints6 = 7100
+|lifepoints7 = 8000
+|lifepoints8 = 8900
+|lifepoints9 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Trolls, Creatures of Daemonheim
+|max_melee1 = 125
+|max_melee2 = 170
+|max_melee3 = 215
+|max_melee4 = 260
+|max_melee5 = 310
+|max_melee6 = 360
+|max_melee7 = 400
+|max_melee8 = 445
+|max_melee9 = 495
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack1 = 25
+|attack2 = 34
+|attack3 = 43
+|attack4 = 52
+|attack5 = 62
+|attack6 = 71
+|attack7 = 80
+|attack8 = 89
+|attack9 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 381
+|acc_melee2 = 519
+|acc_melee3 = 689
+|acc_melee4 = 901
+|acc_melee5 = 1197
+|acc_melee6 = 1526
+|acc_melee7 = 1924
+|acc_melee8 = 2400
+|acc_melee9 = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 381
+|armour2 = 519
+|armour3 = 689
+|armour4 = 901
+|armour5 = 1197
+|armour6 = 1526
+|armour7 = 1924
+|armour8 = 2400
+|armour9 = 3031
+|defence1 = 25
+|defence2 = 34
+|defence3 = 43
+|defence4 = 52
+|defence5 = 62
+|defence6 = 71
+|defence7 = 80
+|defence8 = 89
+|defence9 = 99
+|weakness1 = Air
+|weakness2 = Water
+|weakness3 = Earth
+|weakness4 = Fire
+|weakness5 = Air
+|weakness6 = Water
+|weakness7 = Earth
+|weakness8 = Fire
+|weakness9 = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10782
+|id2 = 10783
+|id3 = 10784
+|id4 = 10785
+|id5 = 10786
+|id6 = 10787
+|id7 = 10788
+|id8 = 10789
+|id9 = 10790
+|leagueRegion = Wilderness
+}}
+This '''Ice troll''' is encountered in [[Daemonheim]] with the [[Dungeoneering]] skill. (There is also a [[Thrower troll (Daemonheim)|thrower troll]], who is very similar but is lower in level and uses ranged attacks.) Casting water spells heals Ice trolls by around 40 life points.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable|headings=4}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Trolls}}
+[[Category:Bandosians]]

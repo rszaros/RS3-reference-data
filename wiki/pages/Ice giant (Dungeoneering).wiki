@@ -1,0 +1,148 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 18
+|version2 = 36
+|version3 = 54
+|version4 = 72
+|version5 = 91
+|version6 = 109
+|version7 = 127
+|version8 = 138
+|name = Ice giant
+|image = [[File:Ice giant.png|200px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|options = Attack, Mark
+|examine = He's got icicles in his beard.
+|level1 = 18
+|level2 = 36
+|level3 = 54
+|level4 = 72
+|level5 = 91
+|level6 = 109
+|level7 = 127
+|level8 = 138
+|lifepoints1 = 1300
+|lifepoints2 = 2600
+|lifepoints3 = 3900
+|lifepoints4 = 5200
+|lifepoints5 = 6500
+|lifepoints6 = 7800
+|lifepoints7 = 9100
+|lifepoints8 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ice giants, Creatures of Daemonheim
+|max_melee1 = 65
+|max_melee2 = 130
+|max_melee3 = 195
+|max_melee4 = 260
+|max_melee5 = 325
+|max_melee6 = 390
+|max_melee7 = 455
+|max_melee8 = 495
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack1 = 13
+|attack2 = 26
+|attack3 = 39
+|attack4 = 52
+|attack5 = 65
+|attack6 = 78
+|attack7 = 91
+|attack8 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 234
+|acc_melee2 = 395
+|acc_melee3 = 609
+|acc_melee4 = 901
+|acc_melee5 = 1299
+|acc_melee6 = 1829
+|acc_melee7 = 2517
+|acc_melee8 = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 234
+|armour2 = 395
+|armour3 = 609
+|armour4 = 901
+|armour5 = 983
+|armour6 = 1132
+|armour7 = 1486
+|armour8 = 1924
+|defence1 = 13
+|defence2 = 26
+|defence3 = 39
+|defence4 = 52
+|defence5 = 65
+|defence6 = 78
+|defence7 = 91
+|defence8 = 99
+|weakness1 = Air
+|weakness2 = Water
+|weakness3 = Earth
+|weakness4 = Earth
+|weakness5 = Fire
+|weakness6 = Air
+|weakness7 = Water
+|weakness8 = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10762
+|id2 = 10763
+|id3 = 10764
+|id4 = 10765
+|id5 = 10766
+|id6 = 10767
+|id7 = 10768
+|id8 = 10769
+|leagueRegion = Wilderness
+}}
+An '''Ice giant''' is a large creature that resides in the [[frozen floors]] of Daemonheim. He is related to the hill giants that roam around the abandoned floors below. Unlike [[ice giant]]s elsewhere on Gielinor, these giants can have high combat levels, but a much lower max hit.
+
+These ice giants give slayer experience when slain if players have the slayer assignment for ice giants.
+
+Some ice giants appear to shimmer and have a lighter colour than others. It is unknown if this is intended or a glitch.
+
+==Drops==
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+[[Category:Elementals]]

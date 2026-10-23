@@ -1,0 +1,96 @@
+{{External|os}}
+{{Infobox Monster
+|name = Plague frog
+|image = [[File:Plague frog.png|150px]]
+|release = [[26 April]] [[2005]]
+|update = Desert Month Finale
+|members = Yes
+|options = Attack
+|examine = A very smelly frog.
+|level = 17
+|lifepoints = 2650
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 27.8
+|slayercat = Frogs
+|max_melee = 200
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 10
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 102
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 257
+|defence = 15
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Desert
+|id = 1997
+}}
+'''Plague frogs''' are frogs that recently infested the shores of the desert city of [[Sophanem]]. They are low levelled, and because they only drop bones, are very rarely killed. However, plague frogs can be killed as part of a frog [[Slayer]] assignment as they spawn faster and in greater numbers than [[big frog]]s.
+
+Recently, Sophanem was beset by a number of plagues created by the goddess of destruction, [[Amascut]], due to the theft of the remains of the priest [[Klenter]]. Amongst these plagues was a massive swarm of diseased frogs that came from the [[River Elid]].
+
+Bloated with an unknown disease, they threaten to infect the people of Sophanem. Strangely, they do not seem to have affected the neighbouring city of [[Menaphos]], despite the fact that the two settlements are narrowly separated by the River Elid.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Sophanem]]
+|lvls=17
+|mem=yes
+|mapID=28
+|npcid:1997,x:3276,y:2760|npcid:1997,x:3276,y:2764|npcid:1997,x:3276,y:2766
+|npcid:1997,x:3276,y:2769|npcid:1997,x:3276,y:2796|npcid:1997,x:3276,y:2798
+|npcid:1997,x:3276,y:2803|npcid:1997,x:3276,y:2806|npcid:1997,x:3278,y:2754
+|npcid:1997,x:3278,y:2757|npcid:1997,x:3278,y:2762|npcid:1997,x:3278,y:2766
+|npcid:1997,x:3278,y:2788|npcid:1997,x:3278,y:2792|npcid:1997,x:3278,y:2794
+|npcid:1997,x:3278,y:2801|npcid:1997,x:3278,y:2804
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended.
+
+* {{UL|type=hidden|update=Menaphos - The Gates are Open|date=5 June 2017}}
+** Graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (12 March 2013)|date=12 March 2013}}
+** Plague frogs no longer give double xp.
+
+* {{UL|type=update|update=Desert Month Finale|date=26 April 2005}}
+** Added to game.
+}}
+
+{{Sophanem}}

@@ -1,0 +1,63 @@
+{{Confuse|Skeletal warrior|Skeletal warrior (2018 Halloween event)}}
+{{Infobox Monster
+|name = Skeleton warrior
+|image = [[File:Skeleton warrior (The Death of Chivalry).png|150px]]
+|release = [[13 August]] [[2013]]
+|update = The Death of Chivalry
+|members = No
+|options = Attack
+|examine = The animated bones of a long-dead Saradominist, controlled by the Wand of Resurrection.
+|leagueRegion = Asgarnia
+|level = 0
+|lifepoints = 1000
+|experience = 50.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 173.4
+|slayercat = Skeletons, Undead
+|max_melee = 250
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 7
+|attack = 40
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 628
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_stun = No
+|restriction = quest
+|id = 17246
+}}
+'''Skeleton warriors''' are summoned during the fight with [[Dawn]] during [[The Death of Chivalry]]. As Dawn summons more skeleton warriors, their base life points decrease.
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Patch Notes (9 September 2019)|date=9 September 2019}}
+** Boss fight skeleton minions in the Death of Chivalry quest now scale to half their previous level, to make them easier to defeat by high-levelled players with inferior equipment.
+
+* {{UL|type=patch|update=Patch Notes (29 August 2013)|date=29 August 2013}}
+** The lifepoints of the skeleton warriors in The Death of Chivalry now scale with the player's level.
+
+* {{UL|type=update|update=The Death of Chivalry|date=13 August 2013}}
+** Added to game.
+}}
+
+{{The Death of Chivalry}}
+{{Skeleton}}
+[[Category:Quest monsters]]

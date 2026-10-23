@@ -1,0 +1,155 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 14
+|version3 = 28
+|version4 = 42
+|version5 = 56
+|version6 = 70
+|version7 = 84
+|version8 = 98
+|version9 = 112
+|version10 = 126
+|version11 = 138
+|name = Reborn warrior
+|image = [[File:Lesser reborn warrior.png|240px]]
+|release = [[2 November]] [[2010]]
+|update = Dungeoneering – The Warped Floors
+|members = Yes
+|options = Attack, Mark, Examine
+|examine = A warrior who died and was reborn thanks to the strange power.
+|level1 = 1
+|level2 = 14
+|level3 = 28
+|level4 = 42
+|level5 = 56
+|level6 = 70
+|level7 = 84
+|level8 = 98
+|level9 = 112
+|level10 = 126
+|level11 = 138
+|lifepoints1 = 100
+|lifepoints2 = 1000
+|lifepoints3 = 2000
+|lifepoints4 = 3000
+|lifepoints5 = 4000
+|lifepoints6 = 5000
+|lifepoints7 = 6000
+|lifepoints8 = 7000
+|lifepoints9 = 8000
+|lifepoints10 = 9000
+|lifepoints11 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Zombies, Creatures of Daemonheim, Undead
+|max_melee1 = 100
+|max_melee2 = 150
+|max_melee3 = 200
+|max_melee4 = 250
+|max_melee5 = 300
+|max_melee6 = 350
+|max_melee7 = 400
+|max_melee8 = 450
+|max_melee9 = 500
+|max_melee10 = 550
+|max_melee11 = 600
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 1
+|attack2 = 10
+|attack3 = 20
+|attack4 = 30
+|attack5 = 40
+|attack6 = 50
+|attack7 = 60
+|attack8 = 70
+|attack9 = 80
+|attack10 = 90
+|attack11 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+acc_melee1 = 110
+acc_melee2 = 202
+acc_melee3 = 316
+acc_melee4 = 454
+acc_melee5 = 628
+acc_melee6 = 850
+acc_melee7 = 1132
+acc_melee8 = 1486
+acc_melee9 = 1924
+acc_melee10 = 2458
+acc_melee11 = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 202
+|armour3 = 316
+|armour4 = 454
+|armour5 = 628
+|armour6 = 850
+|armour7 = 1132
+|armour8 = 1299
+|armour9 = 1486
+|armour10 = 1694
+|armour11 = 1924
+|defence1 = 1
+|defence2 = 10
+|defence3 = 20
+|defence4 = 30
+|defence5 = 40
+|defence6 = 50
+|defence7 = 60
+|defence8 = 70
+|defence9 = 80
+|defence10 = 90
+|defence11 = 99
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 12941
+|id2 = 12942
+|id3 = 12943
+|id4 = 12944
+|id5 = 12945
+|id6 = 12946
+|id7 = 12947
+|id8 = 12948
+|id9 = 12949
+|id10 = 12950
+|id11 = 12951
+|leagueRegion = Wilderness
+}}
+'''Reborn warriors''' are summoned by [[Reborn mage (Daemonheim)|Reborn mages]] to aid them. They can teleport to nearby players, and are able to follow players into nearby rooms. Up to two of them may be summoned by one Reborn mage at any time. If they are not killed, they will eventually die on their own after some time.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Dungeoneering – The Warped Floors|date=2 November 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}

@@ -1,0 +1,74 @@
+{{Infobox Monster
+|version1 = Missing, Presumed Death
+|version2 = Kindred Spirits
+|name = Wight footsoldier
+|image = [[File:Wight footsoldier.png|120px]]
+|release1 = [[15 October]] [[2013]]
+|release2 = [[23 May]] [[2016]]
+|update1 = Missing, Presumed Death
+|update2 = New Quest – Kindred Spirits - Void Knights Rework
+|members = No
+|options = Attack
+|race = Wight
+|examine = One of Sliske's wights.
+|level = 7
+|lifepoints = 375
+|experience = 18.7
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ghosts, Undead
+|max_melee = 12
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 3
+|attack = 5
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 150
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id1 = 18496
+|id2 = 22753
+|leagueRegion=Misthalin}}
+'''Wight footsoldiers''' are undead enemies summoned by [[Sliske]] encountered during the [[Missing, Presumed Death]]. They are one of the quest enemies to have their stats scaled in accordance to the players. Their behaviour in combat is the same regardless of this.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Missing, Presumed Death|date=15 October 2013}}
+** Added to game.
+}}
+
+{{Missing, Presumed Death}}
+{{Dishonour among Thieves}}
+{{Kindred Spirits}}
+{{Wights}}
+[[Category:Sliskeans]]
+[[Category:Quest monsters]]

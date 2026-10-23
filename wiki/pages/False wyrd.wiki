@@ -1,0 +1,64 @@
+{{Infobox Monster
+|version1 = Regular
+|version2 = Hydra
+|name1 = False wyrd
+|name2 = False wyrd (hydra)
+|image1 = [[File:False wyrd.png|200px]]
+|image2 = [[File:False wyrd (hydra).png|200px]]
+|release = [[2 May]] [[2017]]
+|update = Shattered Worlds
+|members = Yes
+|options = Attack, Examine
+|examine = A tall monster of weird appearance.
+|race = Vampyre
+|level = 1
+|lifepoints = 200
+|experience = 10
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 
+|slayercat1 = Vampyres
+|slayercat2 = None
+|max_melee = 9
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 110
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Nothing
+|susceptibility = Blisterwood, Vampyre Slayer
+|aff_weakness = 65
+|aff_melee = 65
+|aff_ranged = 65
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|leagueRegion = Asgarnia
+|id1 = 24247
+|id2 = 24248
+}}
+'''False wyrds''' can be found while playing [[Shattered Worlds]]. Their levels and stats scale to the world the player finds them on. The regular variant counts as [[Vampyres (Slayer assignment)|vampyres Slayer assignment]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Shattered Worlds|date=2 May 2017}}
+** Added to game.
+}}
+
+{{Shattered Worlds}}

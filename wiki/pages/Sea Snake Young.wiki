@@ -1,0 +1,164 @@
+{{External|os}}
+{{Infobox Monster
+|name = Sea Snake Young
+|image = [[File:Sea Snake Young.png|125px]]
+|release = [[22 May]] [[2006]]
+|update = Royal Trouble
+|members = Yes
+|options = Attack
+|examine = Snake, snake, oh, it's a young snake...
+|level = 63
+|lifepoints = 4500
+|experience = 225.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 85
+|slayercat = Sea snakes
+|max_melee = 168
+|max_ranged = 225
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 5
+|attack = 33
+|ranged = 45
+|magic = 0
+|necromancy = 1
+|acc_melee = 337
+|acc_ranged = 732
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 3939
+|leagueRegion=Fremennik}}
+[[File:Sea Snake Young icon.png|left]]
+'''Sea Snake Young''' are found in the [[Miscellania and Etceteria dungeon]], which can be entered during and after the [[Royal Trouble]] quest.
+
+They attack with [[ranged]] and are notably vulnerable to slashing weapons. As they are quite difficult to click, [[Settings/Combat & Action Bar/Targeting|target cycle]] is useful.
+
+This is one of the monsters that can drop the [[Giant snake spine]] required to complete the [[Fur 'n' Seek/Wish list|Fur 'n' Seek wishlist]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Miscellania and Etceteria dungeon]]
+|lvls=63
+|mem=yes
+|requirements = Partial completion of {{QuestIcon|Royal Trouble}}
+|mapID=14
+|npcid:3939,x:2595,y:10271|npcid:3939,x:2595,y:10280|npcid:3939,x:2597,y:10263
+|npcid:3939,x:2597,y:10275|npcid:3939,x:2598,y:10253|npcid:3939,x:2599,y:10257
+|npcid:3939,x:2599,y:10267|npcid:3939,x:2604,y:10247|npcid:3939,x:2605,y:10251
+|npcid:3939,x:2611,y:10251
+|leagueRegion = Fremennik
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|14/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|14/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|5/128}}
+{{DropsTableHead}}
+{{HerbDropTable|5/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Water rune|quantity=15|rarity=2/128}}
+{{DropsLine|name=Mist rune|quantity=1|rarity=2/128}}
+{{DropsLine|name=Broad arrow|quantity=4|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Oysters===
+{{DropsTableHead}}
+{{DropsLine|name=Oyster pearl|quantity=2|rarity=1/128}}
+{{DropsLine|name=Oyster pearls|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Seaweed===
+{{DropsTableHead}}
+{{DropsLine|name=Seaweed|quantity=5|rarity=2/128}}
+{{DropsLine|name=Edible seaweed|quantity=5|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=44|rarity=41/128}}
+{{DropsLine|name=Coins|quantity=32|rarity=11/128}}
+{{DropsLine|name=Coins|quantity=24|rarity=9/128}}
+{{DropsLine|name=Coins|quantity=23|rarity=7/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Adamant dart tip|quantity=2|rarity=10/128}}
+{{DropsLine|name=Fishing bait|quantity=50|rarity=4/128}}
+{{DropsLine|name=Raw bass|quantity=2|rarity=4/128}}
+{{DropsLine|name=Raw lobster|quantity=1|rarity=2/128}}
+{{DropsLine|name=Pearl bolt tips|quantity=3|rarity=4/128}}
+{{DropsLine|name=Water orb|quantity=1|rarity=3/128}}
+{{DropsLine|name=Casket|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Giant snake spine|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=No}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (23 October 2017)|date=23 October 2017}}
+** The walk animations for sea snake hatchlings and sea snake young have been updated and smoothed out.
+
+* {{UL|type=patch|update=Patch Notes (17 November 2009)|date=17 November 2009}}
+** Fixed a problem with sea snakes and poison attacks.
+
+* {{UL|type=update|update=Royal Trouble|date=22 May 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine information is a reference to a popular web cartoon, [http://www.weebls-stuff.com/toons/badgers/ Badgers], by the English animation team Weebl's Stuff.
+
+{{Snake}}
+{{Royal Trouble}}
+[[Category:Miscellania and Etceteria]]

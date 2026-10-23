@@ -1,0 +1,180 @@
+{{Infobox Monster
+|name = Cockroach soldier
+|image = [[File:Cockroach soldier.png|200px]]
+|release = [[11 March]] [[2008]]
+|update = Stronghold of Player Safety
+|members = No
+|options = Attack
+|examine = Euww! A giant bug.
+|level = 70
+|lifepoints = 10500
+|experience = 525.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 130
+|slayercat = Cockroaches
+|assigned_by = Vannaka
+|max_melee = 1000
+|max_ranged = 1000
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 50
+|ranged = 50
+|magic = 1
+|necromancy = 1
+|acc_melee = 750
+|acc_ranged = 750
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 7160
+|leagueRegion=Misthalin}}
+'''Cockroach soldiers''' are giant insects found exclusively in the [[Stronghold of Player Safety]]. As a [[free-to-play]] monster, they offer a very consistent method of making money. Additionally, they are the source of [[carapace]], used to craft [[carapace armour]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Stronghold of Player Safety]] secure sector
+|lvls=70
+|mem=no
+|mapID=9
+|npcid:7160,x:93,y:25|npcid:7160,x:98,y:44|npcid:7160,x:104,y:15
+|npcid:7160,x:104,y:25|npcid:7160,x:104,y:38|npcid:7160,x:104,y:51
+|npcid:7160,x:116,y:33|npcid:7160,x:116,y:43|npcid:7160,x:117,y:25
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Stronghold of Player Safety]] middle level
+|lvls=70
+|mem=no
+|mapID=9
+|npcid:7160,x:109,y:132|npcid:7160,x:112,y:111|npcid:7160,x:112,y:121
+|npcid:7160,x:123,y:118|npcid:7160,x:126,y:98|npcid:7160,x:127,y:111
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Stronghold of Player Safety]] lower level 
+|lvls=70
+|mem=no
+|mapID=9
+|npcid:7160,x:24,y:127|npcid:7160,x:31,y:132|npcid:7160,x:38,y:132
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Stronghold of Player Safety]] upper level
+|lvls=70
+|mem=no
+|mapID=9
+|npcid:7160,x:179,y:131|npcid:7160,x:184,y:135|npcid:7160,x:188,y:132
+|npcid:7160,x:200,y:122
+|leagueRegion=Misthalin
+}}
+{{LocTableBottom}}
+
+==Combat strategies==
+The cockroach soldiers (among other monsters) were updated with the introduction of [[Necromancy]] and have become more formidable opponents. However, players with 40+ Magic and using [[Revolution/Bars]] can still kill them fairly easily. They are not aggressive and only retaliate with melee. Their large size and the cramped layout of the dungeon means it is very easy to get them stuck and kill them from a [[safe spot]]. While it is possible to kill them with melee, the soldiers hit fairly often even through rune armour.
+
+The rope on the stronghold's upper level provides easy access to the [[Edgeville]] bank, but can only be used from outside after climbing up from inside at least once.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Carapace|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|8/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|8/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril stone spirit|quantity=3|rarity=29/128}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=10/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated mithril salvage|quantity=1|rarity=7/128}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium plated rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128|members=yes|raritynotes={{DropNote|Rolled separately, first.}}}}
+{{DropsLine|name=Coins|quantity=100-400|rarity=62/128}}
+{{DropsLine|name=Bittercap mushroom|quantity=1-2|rarity=3/128|members=yes|raritynotes={{DropNote|Replaced by larger chance to roll the gem drop table in free-to-play.}}}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|7/128|f2p=yes|override=There is a 7/128 chance to roll the [[gem drop table]]. In free-to-play, this increases to 10/128.}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=70|members=yes}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineMimic|level=70|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|members = yes
+|quantity = 1
+|gold = 86.827/1000
+|green = 43.413/1000
+|crimson = 303.894/1000
+|blue = 8.683/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=This Week In RuneScape: Bug Fixes & More|date=17 May 2021}}
+** Since the [[Cockroach]] Soul can now be added to the Slayer Codex you'll now need to have one for the 'To Be a Master' achievement.
+
+* {{UL|type=hidden|update=This Week In RuneScape: Yak To Basics and Ninja Strike 20!|date=1 March 2021}}
+** Now assignable as a Slayer task by [[Vannaka]], and is now part of the cockroaches Slayer category.
+
+* {{UL|type=ninja|update=Patch Notes (7 August 2017)|date=7 August 2017}}
+** Cockroaches will now drop [[carapace]] in the cavern beneath the [[Stronghold of Player Safety]].
+
+* {{UL|type=patch|update=Patch Notes (9 February 2011)|date=9 February 2011}}
+** Cockroach soldiers' wings no longer cause their body to become invisible.
+
+* {{UL|type=patch|update=Patch Notes (24 November 2010)|date=24 November 2010}}
+** Cockroaches now appear correctly on hills.
+
+* {{UL|type=hidden|update=Hidden updates/2008|date=18 March 2008}}
+** The ranged attack of the cockroach soldier is increased to be about the same as the melee attack.
+
+* {{UL|type=update|update=Stronghold of Player Safety|date=11 March 2008}}
+** Added to game. 
+}}
+
+{{Cockroaches}}

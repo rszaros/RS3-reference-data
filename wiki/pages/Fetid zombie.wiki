@@ -1,0 +1,140 @@
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|name = Fetid zombie
+|image1 = [[File:Fetid zombie.png]]
+|image2 = [[File:Fetid zombie (2).png]]
+|release = [[11 April]] [[2023]]
+|update = Unwelcome Guests Slayer Content - This Week In RuneScape
+|members = Yes
+|options = Attack
+|race = Zombie
+|examine1 = Dead, impressive.
+|examine2 = Skipped one too many meals.
+|level = 66
+|lifepoints = 5000
+|experience = 250.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 100
+|slayercat = Fetid zombies, Zombies, Zemouregal's undead, Undead
+|max_melee = 480
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 50
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Air
+|susceptibility = Magic, Salve, Undead Slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Wilderness
+|id1 = 30017
+|id2 = 30018
+}}
+[[File:Fetid zombie icon.png|left]]
+'''Fetid zombie''' is a [[Slayer monsters|Slayer creature]] released with the [[Unwelcome Guests]] quest located near [[Crypt (Wilderness)|Wilderness crypt]] in the [[Wilderness]] to the north and west of [[Fort Forinthry]]. This monster - like others in the Wilderness - will not lose its aggression to the player, even after 15 minutes. This makes the zombies ideal for AFK training. 
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=Near [[Crypt (Wilderness)|Wilderness crypt]] in the [[Wilderness]] to the north and west of [[Fort Forinthry]]
+|lvls=66
+|mem=yes
+|mapID=28
+|npcid:30017,x:3265,y:3582|npcid:49,x:3272,y:3577|npcid:49,x:3270,y:3589
+|npcid:30017,x:3265,y:3576|npcid:49,x:3264,y:3575|npcid:49,x:3266,y:3567
+|npcid:30017,x:3264,y:3549|npcid:49,x:3264,y:3555|npcid:49,x:3267,y:3594
+|npcid:30017,x:3271,y:3599|npcid:49,x:3272,y:3597|npcid:49,x:3276,y:3595
+|npcid:30017,x:3277,y:3593|npcid:49,x:3277,y:3593
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+;Optimal combat location in the wilderness
+{{map|3272,3591|mtype=pin}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Guam seed|quantity=3|rarity=12/100}}
+{{DropsLine|name=Marrentill seed|quantity=2|rarity=8/100}}
+{{DropsLine|name=Tarromin seed|quantity=2|rarity=12/100}}
+{{DropsTableBottom}}
+
+===Multipliers===
+{{DropsTableHead}}
+{{DropsLine|name=Copper stone spirit|quantity=4|rarity=12/100}}
+{{DropsLine|name=Tin stone spirit|quantity=4|rarity=12/100}}
+{{DropsLine|name=Elemental anima stone|quantity=12|rarity=10/100}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium bladed iron salvage|quantity=1|rarity=10/100}}
+{{DropsLine|name=Medium plated steel salvage|quantity=1|rarity=5/100}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=12|rarity=4/100|gemw=No}}
+{{DropsLine|name=Prayer potion (1)|quantity=1|rarity=5/100}}
+{{DropsLine|name=Cooked meat|quantity=3|rarity=10/100}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|slayer_level=1}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[11 April]] [[2023]]|update=Unwelcome Guests Slayer Content - This Week In RuneScape|img=Fetid zombie (11 April 2023).png|name=Fetid zombie (1)}}
+|{{GUL|date=[[24 April]] [[2023]]|update=SteelSeries & Patch Week - This Week in RuneScape|img=Fetid zombie.png|name=Fetid zombie (1)}}
+|{{GUL|date=[[11 April]] [[2023]]|update=Unwelcome Guests Slayer Content - This Week In RuneScape|img=Fetid zombie (2) (11 April 2023).png|name=Fetid zombie (2)}}
+|{{GUL|date=[[17 April]] [[2023]]|update=SteelSeries & Patch Week - This Week in RuneScape|img=Fetid zombie (2).png|name=Fetid zombie (2)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=SteelSeries & Patch Week - This Week in RuneScape|date=24 April 2023}}
+** Fetid Zombies' texture has been tweaked to differentiate them from standard Zombies.
+
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Added to game.
+}}
+
+{{Slayer monsters}}

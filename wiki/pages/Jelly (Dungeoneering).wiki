@@ -1,0 +1,76 @@
+{{Dgvariant}}
+{{Infobox Monster
+|name = Jelly
+|image = [[File:Jelly (Dungeoneering).png|200px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark
+|examine = It looks scared to see you.
+|level = 63
+|lifepoints = 9000
+|experience = 450.0
+|aggressive = Yes
+|slaylvl = 52
+|slayercat = Jellies, Creatures of Daemonheim
+|assigned_by = None
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 192
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 45
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 732
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id = 10699
+|leagueRegion = Wilderness
+}}
+A '''jelly''' is a [[Slayer]] monster that requires level 52 Slayer to kill. It can drop the rare [[absorption boots]] and [[grounding boots]], which give very high magic defence bonuses. They are found in Abandoned 1 floors and up.
+
+==Drops==
+===Monster-specific===
+{{DropsTableHead}}
+{{DropsLine|name=Absorption boots|quantity=1||gemw=no|rarity=Common}}
+{{DropsLine|name=Grounding boots|quantity=1||gemw=no|rarity=Rare}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Game Update (19 April 2012)|date=19 April 2012}}
+** Increased frequency of Slayer creatures in Dungeoneering.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Slayer monsters}}

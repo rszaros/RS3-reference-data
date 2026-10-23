@@ -1,0 +1,119 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Hooded without cape
+|version2 = Hooded with cape
+|version3 = Grounded hair
+|version4 = Floating hair
+|version5 = Veiled
+|name = Ghost
+|image1 = [[File:Ghost (Melzar's Maze).png|200px]]
+|image2 = [[File:Ghost (Melzar's Maze) 2.png|200px]]
+|image3 = [[File:Ghost (Melzar's Maze) 3.png|200px]]
+|image4 = [[File:Ghost (Melzar's Maze) 4.png|200px]]
+|image5 = [[File:Ghost (Melzar's Maze) 5.png|200px]]
+|release = [[23 September]] [[2001]]
+|update = Dragon quest online!
+|members = No
+|options = Attack, Talk-to, Examine
+|examine = Eeek! A ghost!
+|level = 12
+|lifepoints = 450
+|experience = 22.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 8.0
+|slayercat = Ghosts
+|assigned_by = Mazchna, Turael, Vannaka
+|max_melee = 36
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 9
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 191
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 191
+|defence = 9
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id1 = 6094
+|id2 = 6095
+|id3 = 6096
+|id4 = 6097
+|id5 = 6098
+}}
+{{Synced switch
+|version1=[[File:Ghost (Melzar's Maze) chathead.png|left|70px]]
+|version2=[[File:Ghost (Melzar's Maze) 2 chathead.png|left|70px]]
+|version3=[[File:Ghost (Melzar's Maze) 3 chathead.png|left|80px]]
+|version4=[[File:Ghost (Melzar's Maze) 4 chathead.png|left|80px]]
+|version5=[[File:Ghost (Melzar's Maze) 5 chathead.png|left|80px]]
+}}
+The '''Melzar's Maze ghosts''' are low-level monsters found on the {{FloorNumber|2}} of [[Melzar's Maze]]. Unlike [[Ghost|normal level 25 ghosts]], these ghosts can be talked to. When spoken to, they mention fires and a dragon. This suggests that these ghosts were once people living on [[Crandor]], and were killed by [[Elvarg]] when she attacked the island, now constantly reliving their final moments.
+
+[[Melzar the Mad]] moved them to his maze at the command of a [[lesser demon]] which had taken up residence in his basement. The reason for their relocation is not known, though [[Melzar's notes]], found while searching bookcases in Melzar's Maze, suggest that Melzar was attempting necromancy with the ghosts. As his experimentation progressed, he became insane, and all further necromancy work was abandoned in favour of cabbage-based magic.
+
+The only drop the ghosts have is an [[Key (Melzar's Maze)|orange key]] used to progress further into the maze. While the drop is a 100% drop, it is only dropped by a specific ghost. It is the female ghost with a hood, but no cape, pictured above. It spawns in the south-east corner of the room. The other ghosts have no drops at all.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Melzar's Maze]] {{floornumber|2}}
+|lvls=25
+|requirements = Partial completion of {{QuestIcon|Dragon Slayer}}
+|mem=no
+|mapID=28|plane=1
+|npcid:6098,x:2925,y:3255|npcid:6097,x:2930,y:3253|npcid:6096,x:2927,y:3251
+|npcid:6095,x:2926,y:3254|npcid:6094,x:2929,y:3249,icon:greenPin
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+The green pin on the map marks the ghost that drops the key.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Key (orange)|quantity=1|rarity=Always|gemw=no|version=Hooded without cape}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+==Graphical updates==
+===Chatheads===
+{{GU|subject=chatheads
+|{{GUL|date=|update=|img=Ghost chathead 2.png|name=Ghost}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dragon quest online!|date=23 September 2001}}
+** Added to game.
+}}
+
+{{Dragon Slayer}}
+{{Ghost}}

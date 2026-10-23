@@ -1,0 +1,202 @@
+{{external|os}}
+{{Otheruses|the scarabs in Uzer Mastaba|Do No Evil|Small scarab (Do No Evil)}}
+{{Infobox Monster
+|version1 = Normal
+|version2 = Zombie (1)
+|version3 = Zombie (2)
+|version4 = Zombie (3)
+|name = Small scarab
+|image1 = [[File:Small scarab (Uzer Mastaba 1).png|200px]]
+|image2 = [[File:Small scarab (Uzer Mastaba 2).png|200px]]
+|image3 = [[File:Small scarab (Uzer Mastaba 3).png|200px]]
+|image4 = [[File:Small scarab (Uzer Mastaba 4).png|200px]]
+|release = [[19 May]] [[2009]]
+|update = Missing My Mummy
+|members = Yes
+|options = Attack, Examine
+|race = 
+|examine1 = This dung beetle has mistaken you for its staple diet.
+|examine2 = It's looking unwell - probably something it ate.
+|examine3 = Once a valuable contributor to the ecosystem.
+|examine4 = This is what happens if you play with your food.
+|level = 42
+|lifepoints = 1500
+|experience = 75
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 17
+|slayercat = Scabarites
+|slayercat2 = Scabarites, Zombies, Undead
+|slayercat3 = Scabarites, Zombies, Undead
+|slayercat4 = Scabarites, Zombies, Undead
+|max_melee = 120
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 30
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 454
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 454
+|defence = 30
+|weakness = Air
+|susceptibility1 = Keris
+|susceptibility2 = Keris, Undead slayer
+|susceptibility3 = Keris, Undead slayer
+|susceptibility4 = Keris, Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|id1 = 7500
+|id2 = 7501
+|id3 = 7502
+|id4 = 7503
+|leagueRegion=Desert}}
+'''Small scarabs''' are found under the pyramid [[Uzer Mastaba]] during and after the quest [[Missing My Mummy]]. They are aggressive to all players regardless of their combat levels.
+
+The scarabs come in two colours: black and mottled green. Other than their appearance, there is no difference between the types.
+
+The small scarab counts towards fulfilling a [[Scabarites (Slayer assignment)|scabarites Slayer assignment]] as well as "scabarites" for [[City Quest]]. Since the small scarab takes a long time to respawn (even on a full world), climb up the stairs to the first level of the pyramid and then back down to make all the small scarabs respawn immediately. This will save you the long wait in between. However, a much better place to fight scarabs is in the dungeon past the uninviting hole in the eastern part of the cave. It is teeming with aggressive scarabs.
+
+The pyramid and the dungeon are both in the [[Kharidian Desert]], and protection from [[desert heat]] is advised. The desert heat won't be a problem once you're inside the pyramid or the dungeon.
+
+[[Small scarab (Do No Evil)|One]] may appear when digging each crate during the quest [[Do No Evil]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Uzer Mastaba]]
+|mem = Yes
+|mapID = 359
+|plane = 0
+|lvls = 42
+|npcid:7500,x:1550,y:4834
+|npcid:7500,x:1551,y:4827
+|npcid:7500,x:1552,y:4823
+|npcid:7500,x:1553,y:4837
+|npcid:7500,x:1554,y:4818
+|npcid:7500,x:1554,y:4822
+|npcid:7500,x:1555,y:4827
+|npcid:7500,x:1556,y:4837
+|npcid:7500,x:1558,y:4828
+|npcid:7500,x:1559,y:4818
+|npcid:7500,x:1560,y:4822
+|npcid:7500,x:1560,y:4825
+|npcid:7500,x:1560,y:4837
+|npcid:7500,x:1561,y:4817
+|npcid:7500,x:1561,y:4846
+|npcid:7500,x:1563,y:4814
+|npcid:7500,x:1563,y:4828
+|npcid:7500,x:1563,y:4838
+|npcid:7500,x:1564,y:4816
+|npcid:7500,x:1564,y:4823
+|npcid:7500,x:1564,y:4847
+|npcid:7500,x:1565,y:4813
+|npcid:7500,x:1566,y:4810
+|npcid:7500,x:1566,y:4826
+|npcid:7500,x:1566,y:4831
+|npcid:7500,x:1567,y:4813
+|npcid:7500,x:1567,y:4836
+|npcid:7500,x:1568,y:4833
+|npcid:7500,x:1568,y:4846
+|npcid:7500,x:1569,y:4825
+|npcid:7500,x:1569,y:4829
+|npcid:7500,x:1570,y:4812
+|npcid:7500,x:1571,y:4845
+|npcid:7500,x:1572,y:4813
+|npcid:7500,x:1572,y:4815
+|npcid:7500,x:1572,y:4826
+|npcid:7500,x:1574,y:4817
+|npcid:7500,x:1574,y:4825
+|npcid:7500,x:1574,y:4842
+|npcid:7500,x:1576,y:4821
+|npcid:7500,x:1576,y:4827
+|npcid:7500,x:1577,y:4818
+|npcid:7500,x:1578,y:4841
+|npcid:7500,x:1580,y:4826
+|npcid:7500,x:1581,y:4818
+|npcid:7500,x:1581,y:4840
+|npcid:7500,x:1582,y:4829
+|npcid:7500,x:1583,y:4819
+|npcid:7500,x:1583,y:4835
+|npcid:7500,x:1583,y:4837
+|npcid:7500,x:1584,y:4824
+|npcid:7500,x:1584,y:4832
+|npcid:7500,x:1587,y:4822
+|npcid:7500,x:1587,y:4825
+|npcid:7500,x:1587,y:4835
+|npcid:7500,x:1589,y:4826
+|npcid:7500,x:1589,y:4833
+|npcid:7500,x:1590,y:4834
+|npcid:7500,x:1591,y:4829
+|leagueRegion = Desert
+}}
+{{LocTableBottom}}
+
+==Habitat==
+They can be found in [[Uzer Mastaba]], [[Senliten]]'s pyramid south-east of the ruins of [[Uzer]]. A few are located in the outer dungeon and these take longer than normal to spawn.
+
+These are also located in past the [[uninviting hole]] located in the eastern part of the cave. Here, many level 42 small scarabites will aggressively attack the player despite their combat level. These will spawn much quicker than the ones outside and can be easily killed in large amounts for [[Slayer]].
+
+There is a shortcut to the area that needs to be cleared before using. Upon entering the second level of the pyramid, the player to go east then south to a small room with a uninviting hole in the wall. After entering the room, a second hole can be entered, immediately south of the player. Using this second tunnel will clear it for future use from the [[Cave-in (Uzer Mastaba)|cave-in]] on the main floor. Upon entering Uzer Mastaba, the player should take the first right into the room with the dais and go through the corridor, past the golem's remains. There should be a cave-in at the end of the corridor, which the player can enter to emerge in the scarab dungeon. It is two-way as well.
+
+==Strengths and weaknesses==
+[[File:Scarab.png|thumb|A player fighting Small scarabs.]]
+The small scarab cannot be poisoned.
+
+In the dungeon, several small scarabs can stand in the same square when attacking the player, unlike how almost all other monsters behave. The small scarabs do not normally 'stack', but if the player runs through a bunch of attacking scarabs they may stack up. (Up to three in a single square has been observed.) This stacking means that the player can be attacked at the same time by more melee opponents than is normally possible. However, this potentially allows large numbers of small scarabs to be killed quickly using 3 {{x}} 3 area-damage combat such as many spells in the [[Ancient Magicks]], [[Chinchompa (item)|chinchompas]], and [[red chinchompa]]s.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=5-132|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Zombie scarabs can now be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (23 September 2019)|date=23 September 2019}}
+** [[Ushabti]] now displays the correct soul captured when killing small scarabs.
+
+* {{UL|type=update|update=Missing My Mummy|date=19 May 2009}}
+** Added to game.
+}}
+
+{{Missing My Mummy}}
+{{Do No Evil}}
+[[Category:NPCs with multiple Examine options]]
+[[Category:Bugs]]

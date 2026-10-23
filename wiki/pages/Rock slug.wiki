@@ -1,0 +1,184 @@
+{{External|os=Rockslug}}
+{{Infobox Monster
+|name = Rock slug
+|image = [[File:Rock slug.png]]
+|release = [[26 January]] [[2005]]
+|update = Slayer Skill
+|members = Yes
+|options = Attack, Salt
+|examine = The slime of evil.
+|level = 28
+|lifepoints = 4050
+|aggressive = No
+|poisonous = No
+|slaylvl = 20
+|slayxp = 34.6
+|slayercat = Rock slugs
+|max_melee = 375
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 15
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 157
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 381
+|defence = 25
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Misthalin,Fremennik
+|id = 1631, 1632
+}}
+[[File:Rock slug icon.png|left]]
+A '''rock slug''' is a [[Slayer]] monster that requires level 20 Slayer to kill. A [[bag of salt]] or a [[salt shaker]] is required to finish it off.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Dorgesh-Kaan South Dungeon]]
+|lvls=28
+|mem=yes
+|mapID=-1
+|npcid:1631,x:2727,y:5223|npcid:1631,x:2729,y:5221|npcid:1632,x:2729,y:5223
+|npcid:1631,x:2731,y:5222
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Fremennik Slayer Dungeon]]
+|lvls=28
+|mem=yes
+|mapID=5
+|npcid:1631,x:2793,y:10016|npcid:1631,x:2795,y:10017|npcid:1631,x:2798,y:10018
+|npcid:1631,x:2800,y:10020|npcid:1631,x:2801,y:10015|npcid:1631,x:2803,y:10017
+|npcid:1631,x:2804,y:10019
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc=[[Lumbridge Swamp Caves]]
+|lvls=28
+|mem=yes
+|mapID=31
+|npcid:1631,x:3222,y:9571|npcid:1632,x:3222,y:9580|npcid:1631,x:3225,y:9583
+|npcid:1632,x:3226,y:9574|npcid:1631,x:3226,y:9577
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Strengths and weaknesses==
+Rock slugs can only be successfully killed with a [[bag of salt]] (which is used up) or [[salt shaker]] when their life points drop to 1-607 (15% of their maximum life points). Fortunately, bags of salt stack and are plentiful in the [[Slayer Equipment]] shop and in the [[Grand Exchange]]. If the bag of salt is accidentally used before the rock slug is reduced to 607 or less life points, it will still be used up but have no effect. It would be wise to bring a few extra because of this. If a rock slug's health is reduced to 1 but a bag of salt is not used on it, the rock slug is "frozen" in place, unable to move or retaliate, even after it regains some life points.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Light mystic gloves|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|Drop rate is increased to 1/496 with at least tier 1 luck}}|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Light mystic gloves: 1/512|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}}}
+{{DropsTableBottom}}
+
+===Ore, bars, and spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Iron ore|quantity=1|rarity=16/128}}
+{{DropsLine|name=Bronze bar|quantity=1|rarity=12/128}}
+{{DropsLine|name=Willow wood spirit|quantity=5|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Steel platelegs|quantity=1|rarity=8/128}}
+{{DropsLine|name=Steel scimitar|quantity=1|rarity=4/128}}
+{{DropsLine|name=Steel off hand scimitar|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{AllotmentSeedDropTableIntro|20/128}}
+{{DropsTableHead}}
+{{AllotmentSeedDropTable|20/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=270-330|rarity=12/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=540-660|rarity=4/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Earth rune|quantity=10|rarity=18/128}}
+{{DropsLine|name=Grapevine seed|quantity=2|rarity=12/128}}
+{{DropsLine|name=Bag of salt|quantity=10|rarity=6/128}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|4/128}}
+
+==Achievements==
+* {{Achievement|The Start of Something New}} 
+** [[Light mystic gloves]] drop
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Rockslug (2005).png|name=Rockslug}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Rockslug (2008).png|name=Rockslug}}
+|{{GUL|date=[[23 June]] [[2014]]|update=Patch Notes (23 June 2014)|img=Rock slug.png|name=Rock slug}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Copper stone spirit → Bronze bar
+*** Iron stone spirit → Iron ore
+*** Medium plated steel salvage → Steel platelegs
+*** Small bladed steel salvage → Steel scimitar/Steel off hand scimitar
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[willow logs]] drop with [[willow wood spirit]]s.
+
+* {{UL|type=patch|update=Cookbook And Progression Wrapup Update - This Week In RuneScape|date=25 March 2024}}
+** Ushabti containing a rock slug soul now doesn't contain any typos in its tooltip.
+*** "Rockslug" was changed to "Rock slug".
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Patch Notes (5 August 2019)|date=5 August 2019}}
+** The name of the monster was changed from "rockslug" to "rock slug".
+
+* {{UL|type=ninja|update=Patch Notes (23 June 2014)|date=23 June 2014}}
+** The graphics and animations for the following NPCs have been revised:
+*** Rock slugs
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+[[pt:Lesma da rocha]]
+[[Category:Tier 1 luck]]

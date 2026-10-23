@@ -1,0 +1,72 @@
+{{Infobox Monster
+|name = Greater demon ash lord
+|image = [[File:Greater demon ash lord (The Zamorakian Undercity).png]]
+|release = [[4 July]] [[2022]]
+|update = Zamorak, Lord of Chaos - This Week In RuneScape
+|members = Yes
+|options1 = Attack, Mark, Examine
+|race = Demon
+|examine = Big, red and magical.
+|level = 157
+|lifepoints = 140000
+|slaylvl = 1
+|slayxp = 4400
+|experience = 7,000
+|aggressive = Yes
+|poisonous = No
+|slayercat = Greater demon berserkers and ash lords, Greater demons, Demons
+|max_melee = 1564
+|max_ranged = 1564
+|max_magic = 2570
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 6
+|attack = 70
+|ranged = 70
+|magic = 115
+|necromancy = 0
+|acc_melee = 1486
+|acc_ranged = 1486
+|acc_magic = 4292
+|acc_necromancy = 0
+|abilities = No
+|armour = 3862
+|defence = 110
+|weakness = Nothing
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 55
+|aff_magic = 55
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Misthalin
+|id = 29259
+}}
+'''Greater demon ash lords''' are monsters released with [[The Zamorakian Undercity]]. The demons in the elite dungeon are immune to stun and poison, whereas their [[Greater demon ash lord|Wilderness counterparts]] have less health and are susceptible to both stun and poison.
+
+These monsters are capable of pathing around obstacles to reach the player and can deal immense amounts of damage with their magic attacks. They may be killed in place of a [[greater demon]] task for more slayer experience.
+
+==Drops==
+{{sectstub}}
+
+==Update history==
+{{UH|
+* {{UL|type=hidden|update=Hidden updates|date=4 March 2024}}
+** The Strong Guard buff has effectively been replaced by the damage potential system, and monsters which previously had this buff no longer have it.
+*** Greater demon ash lord
+
+* {{UL|type=update|update=Zamorak, Lord of Chaos - This Week In RuneScape|date=4 July 2022}}
+** Added to game.
+}}
+
+==Trivia==
+* This type of greater demon used to possess the [[Strong guard (status)|Strong guard]] status, which made the players' attacks incapable of missing and made their [[Ability damage|damage]] dependent on their [[Hit chance|accuracy]]; this was effectively replaced by the damage potential system on [[4 March]] [[2024]].
+
+{{The Zamorakian Undercity}}
+{{Demons}}
+{{Slayer monsters}}

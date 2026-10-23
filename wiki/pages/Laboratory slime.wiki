@@ -1,0 +1,138 @@
+{{Infobox Monster
+|version1 = Big (normal mode)
+|version2 = Small (normal mode)
+|version3 = Big (story mode)
+|version4 = Small (story mode)
+|name = Laboratory slime
+|image = [[File:Laboratory slime.png|250px]]
+|release = [[13 August]] [[2018]]
+|update = Elite Dungeons - Dragonkin Laboratory
+|members = Yes
+|actions = Attack, Mark, Examine
+|examine = A foul-smelling goopy bloop.
+|level = 90
+|race = Slime
+|lifepoints1 = 20000
+|lifepoints2 = 9500
+|lifepoints3 = 9500
+|lifepoints4 = 9500
+|experience1 = 1000.0
+|experience2 = 0.0
+|experience3 = 0.0
+|experience4 = 0.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl1 = 1
+|slaylvl2 = n/a
+|slaylvl3 = 1
+|slaylvl4 = n/a
+|slayxp1 = 551
+|slayxp2 = n/a
+|slayxp3 = 275.4
+|slayxp4 = n/a
+|slayercat1 = Cave slimes
+|slayercat2 = None
+|slayercat3 = Cave slimes
+|slayercat4 = None
+|max_melee = 672
+|max_ranged = 672
+|max_magic = 672
+|max_necromancy = 0
+|max_spec = N/A
+|style1 = melee, magic
+|style2 = melee
+|primarystyle1 = magic
+|primarystyle2 = melee
+|primarystyle3 = magic
+|primarystyle4 = melee
+|speed = 4
+|attack = 70
+|ranged = 70
+|magic = 70
+|necromancy = 1
+|acc_melee = 1486
+|acc_ranged = 1486
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1132
+|defence = 60
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee1 = 45
+|aff_melee2 = 55
+|aff_melee3 = 45
+|aff_melee4 = 55
+|aff_ranged1 = 65
+|aff_ranged2 = 45
+|aff_ranged3 = 65
+|aff_ranged4 = 45
+|aff_magic1 = 55
+|aff_magic2 = 65
+|aff_magic3 = 55
+|aff_magic4 = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Big (Normal mode)
+|dropversion2 = Small (Normal mode)
+|dropversion3 = Story mode
+|dropversion4 = Story mode
+|leagueRegion = Wilderness
+|id1 = 25666
+|id2 = 25667
+|id3 = 25666
+|id4 = 25667
+}}
+'''Laboratory slimes''' are monsters found inside the [[Dragonkin Laboratory]]. They have the ability to quickly multiply if they attack a player using [[melee]]. If they do manage to attack, a smaller and weaker dark green slime will appear saying {{RSFont|Bloop}}. These smaller slimes have less health, but use much faster melee attacks. The smaller slimes do not provide [[experience]] nor drop anything. The big ones will spawn a spawnling once every 2 auto attacks capping at a maximum of 4 spawnlings per adult.
+
+In Story mode its health is reduced by 50% and its damage output is reduced by 90%.
+
+==Drops (big, normal mode)==
+{{DropLogProject|jagex=yes}}
+
+There are no drops in story mode or for small slimes.
+
+{{Average drop value|mob=Laboratory slime#Big (Normal mode)}}
+
+===Alchables===
+{{Dragonkin Laboratory alchables drop table|500/1000|version=Big (Normal mode)}}
+
+===Currency===
+{{Dragonkin Laboratory currency drop table|350/1000|330/1000|version=Big (Normal mode)}}
+
+===Supplies===
+{{Dragonkin Laboratory supplies drop table|150/1000|version=Big (Normal mode)}}
+
+===Lucky charm===
+{{Lucky charm (Dragonkin Laboratory) drops|20/1000|version=Big (Normal mode)}}
+
+===Rare drop table===
+{{Rare drop table|1/150|version=Big (Normal mode)}}
+
+===Tertiary===
+{{DropsTableHead|version=Big (Normal mode)}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=90}}
+{{DropsLineMimic|level=90}}
+{{DropsTableBottom}}
+
+====Charms====
+{{EliteDungeonCharmDropTable|version=Big (Normal mode)}}
+
+==Achievements==
+* {{Achievement|Goopy Bloop Boop}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Weekly Update: 15th October 2018|date=15 October 2018}}
+** Damage taken in Elite Dungeons story mode reduced from 33% of normal mode to 10%.
+
+* {{UL|type=update|update=Elite Dungeons - Dragonkin Laboratory|date=13 August 2018}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Dragonkin Laboratory}}

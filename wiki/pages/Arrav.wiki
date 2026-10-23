@@ -1,0 +1,318 @@
+{{External|os}}
+{{Otheruses|def=no}}
+{{Cleanup|could use more references, existing references no longer seem to exist in the RS website, article as a whole is too blunt and terse, missing early history from the Legend}}
+{{Multi Infobox
+|text1 = NPC
+|item1 = 
+{{Infobox NPC
+|version1 = Defender of Varrock
+|version2 = Defender of Varrock (unarmed)
+|version3 = The Curse of Arrav
+|version4 = Ritual of the Mahjarrat
+|version5 = Ritual of the Mahjarrat (dying)
+|version6 = Dimension of Disaster (gardening)
+|version7 = Dimension of Disaster (unarmed)
+|version8 = Dimension of Disaster (freed, unarmed)
+|version9 = Dimension of Disaster (freed, shield)
+|version10 = Dimension of Disaster (freed, shield and darklight)
+|version11 = Dimension of Disaster (dying)
+|version12 = Dimension of Disaster (playable)
+|name = Arrav
+|image1 = Arrav.png
+|image2 = Arrav (unarmed).png
+|image3 = Arrav.png
+|image4 = Arrav.png
+|image5 = Arrav (dying).png
+|image6 = Arrav (Dimension of Disaster).png
+|image7 = Arrav (unarmed).png
+|image8 = Arrav (Dimension of Disaster, freed, unarmed).png
+|image9 = Arrav (Dimension of Disaster, freed, shield).png
+|image10 = Arrav (Dimension of Disaster, freed, shield, darklight).png
+|image11 = Arrav (Dimension of Disater, dying).png
+|image12 = Arrav (Dimension of Disaster, freed, unarmed).png
+|aka = The Hero of Avarrocka, the Curse of Goblins, the Hunter of the White Stag, the Child of the Sun and Moon{{CiteLore |url = https://www.runescape.com/lore/the-legend-of-arrav|archiveurl=https://reldo.runescape.wiki/i/11061069|archivedate=4 October 2018|title = The Legend of Arrav, Part II|sectitle = Section 1}}
+|release1 = [[29 September]] [[2008]]
+|release2 = [[29 September]] [[2008]]
+|release3 = [[21 July]] [[2009]]
+|release4 = [[14 September]] [[2011]]
+|release5 = [[14 September]] [[2011]]
+|release = [[23 March]] [[2015]]
+|update1 = Defender of Varrock
+|update2 = Defender of Varrock
+|update3 = The Curse of Arrav
+|update4 = Ritual of the Mahjarrat
+|update5 = Ritual of the Mahjarrat
+|update = Dimension of Disaster – 200th Quest
+|race = Undead
+|members = Yes
+|quest1 = [[Defender of Varrock]]
+|quest2 = [[Defender of Varrock]]
+|quest3 = [[The Curse of Arrav]]
+|quest4 = [[Ritual of the Mahjarrat]]
+|quest5 = [[Ritual of the Mahjarrat]]
+|quest = [[Dimension of Disaster]]
+|location1 = [[Chaos Temple Dungeon]]
+|location2 = [[Varrock Palace]]
+|location3 = [[Zemouregal's fort]]
+|location4 = [[Mahjarrat Ritual Site]]
+|location5 = [[Mahjarrat Ritual Site]]
+|location = [[New Varrock]] Palace
+|leagueRegion1 = Wilderness
+|leagueRegion2 = Misthalin
+|leagueRegion3 = Fremennik
+|leagueRegion4 = Fremennik
+|leagueRegion5 = Fremennik
+|leagueRegion = New Varrock
+|gender = Male
+|level1 = 180
+|level2 = 180
+|level3 = 180
+|options = Talk to
+|actions2 = Examine
+|actions5 = Examine
+|actions12 = Examine
+|examine = He has seen better, happier days.
+|examine5 = He's not looking well.
+|examine11 = He's not looking well.
+|map = No
+|voice = Yes
+|id1 = 8169
+|id2 = 8168
+|id3 = 9160
+|id4 = 14433
+|id5 = 14347
+|id6 = 20837
+|id7 = 20838
+|id8 = 20839
+|id9 = 20840
+|id10 = 20841
+|id11 = 20842
+|id12 = 20843
+}}
+|text2 = Combat
+|item2 = 
+{{Infobox Monster
+|version1 = The Curse of Arrav
+|version2 = Ritual of the Mahjarrat
+|version3 = Ritual of the Mahjarrat (freed)
+|version4 = Dominion Tower
+|name = Arrav
+|image1 = [[File:Arrav (in combat).png]]
+|image2 = [[File:Arrav (in combat).png]]
+|image3 = [[File:Arrav (freed).png]]
+|image4 = [[File:Arrav (in combat).png]]
+|release1 = [[21 July]] [[2009]]
+|release2 = [[14 September]] [[2011]]
+|release3 = [[6 July]] [[2015]]
+|release4 = [[1 November]] [[2011]]
+|update1 = The Curse of Arrav
+|update2 = Ritual of the Mahjarrat
+|update3 = Patch Notes (6 July 2015)
+|update4 = Dominion Tower
+|members = Yes
+|actions1 = Talk to, Attack
+|actions2 = Attack
+|actions3 = Attack
+|actions4 = Attack
+|examine = He has seen better, happier days.
+|level = 91
+|lifepoints1 = 20000
+|lifepoints2 = 4875
+|lifepoints3 = 4875
+|lifepoints4 = 4875
+|slaylvl = 1
+|experience1 = 1000.0
+|experience2 = 121.8
+|experience3 = 121.8
+|experience4 = 121.8
+|aggressive = No
+|poisonous = No
+|slayercat = Zombies, Undead
+|max_melee1 = 624
+|max_melee2 = 390
+|max_melee3 = 390
+|max_melee4 = 390
+|max_ranged1 = 624
+|max_ranged2 = 390
+|max_ranged3 = 390
+|max_ranged4 = 390
+|max_magic1 = 624
+|max_magic2 = 390
+|max_magic3 = 390
+|max_magic4 = 390
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 65
+|ranged = 65
+|magic = 65
+|necromancy = 1
+|acc_melee = 1299
+|acc_ranged = 1299
+|acc_magic = 1299
+|acc_necromancy = 0
+|armour = 1299
+|defence = 65
+|weakness = Nothing
+|aff_weakness = 40
+|aff_melee = 40
+|aff_ranged = 40
+|aff_magic = 40
+|immune_to_poison = Yes
+|immune_to_deflect1 = No
+|immune_to_deflect2 = Yes
+|immune_to_deflect3 = Yes
+|immune_to_deflect4 = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id1 = 9161
+|id2 = 17338
+|id3 = 17338
+|id4 = 17338
+|leagueRegion1 = Fremennik
+|leagueRegion2 = Fremennik
+|leagueRegion3 = Fremennik
+|leagueRegion4 = Desert
+}}
+}}
+{{Synced switch
+|version1 = [[File:Arrav chathead.png|left|110px]]
+|version2 = [[File:Arrav chathead.png|left|110px]]
+|version3 = [[File:Arrav chathead.png|left|110px]]
+|version4 = [[File:Arrav chathead.png|left|110px]]
+|version5 = [[File:Arrav (freed) chathead.png|left|85px]]
+|version6 = [[File:Arrav chathead.png|left|110px]]
+|version7 = [[File:Arrav chathead.png|left|110px]]
+|version8 = [[File:Arrav (freed) chathead.png|left|85px]]
+|version9 = [[File:Arrav (freed) chathead.png|left|85px]]
+|version10 = [[File:Arrav (freed) chathead.png|left|85px]]
+|version11 = [[File:Arrav (freed) chathead.png|left|85px]]
+|version12 = [[File:Arrav (freed) chathead.png|left|85px]]
+}}
+'''Arrav''' was a legendary hero from the [[Fourth Age]] who protected [[Avarrocka]] from [[Zemouregal]]. He ultimately sacrificed himself to save the city, and was turned into one of Zemouregal's undead minions. He appears in the [[Defender of Varrock]], [[The Curse of Arrav]] and [[Ritual of the Mahjarrat]] quests, and also serves as the main protagonist in [[The Legend of Arrav]] story. An alternate universe counterpart of him also appears as a central character in the [[Dimension of Disaster]] quest.
+
+He serves as a boss fight in [[The Curse of Arrav]], and this form of him may be fought again as a Class C boss monster in the [[Dominion Tower]] minigame as long as the quest is completed.
+{{ToC}}
+{{Clear|left}}
+
+==History==
+===Early history===
+[[File:Lores and Histories - The Legend of Arrav (4).png|thumb|left|150px|Arrav battling Zemouregal]]
+Arrav was found abandoned as a boy near what is now [[Varrock]]. Arrav lived during the [[Fourth Age]] and his achievements earned him a [[Arrav (statue)|statue]] in the [[Heroes' Guild]] next to a [[Camorra (statue)|statue]] of [[Camorra]], another historical figure from the Fourth Age. His axe is on display at the [[Outpost]]. Arrav is famous for using the [[Restored shield|Shield of Arrav]] to repel the [[Mahjarrat]] [[Zemouregal]]'s first zombie invasion of Varrock. However, it was not Arrav himself who drove back the zombies; he actually threw his shield to the grandson of one of the founders of Varrock. The grandson unlocked the shield's true power and destroyed the zombie army with it. Arrav was then slain by Zemouregal in retaliation. Zemouregal promised that he would return to attack Varrock once again.
+{{Clear|left}}
+
+===Shield of Arrav===
+{{OccDur|Shield of Arrav}}
+In the [[Shield of Arrav]] quest, the player uncovers the remains of Arrav's famous shield and reconstructs it.
+{{Clear|left}}
+
+===Defender of Varrock===
+{{OccDur|Defender of Varrock}}
+During the [[Defender of Varrock]] [[quests|quest]], the player finds out that [[Zemouregal]] is planning another zombie attack on Varrock. The player meets level 180 Arrav in the [[Chaos Temple Dungeon]], and learns that while his body is under Zemouregal's control, his mind is still intact. He cannot disobey Zemouregal's orders, and can only speak when Zemouregal's attention is diverted away from him. The player meets Arrav once again in [[Varrock Palace]], during the zombie invasion. However, Zemouregal's influence is too strong, and Arrav is unable to speak. Once the player discovers that [[Dimintheis]] is the direct descendant of the grandson of the founder of Varrock, he will use the Shield of Arrav to rid the city of zombies for the second time. After that happens, Zemouregal departs for "[[The North]]", taking Arrav and [[Sharathteerk]] with him.
+{{Clear|left}}
+
+===The Curse of Arrav===
+{{OccDur|The Curse of Arrav}}
+[[File:The Curse of Arrav - Arrav mind control.png|thumb|Arrav duels the player while under Zemouregal's mind control.]]
+The player is required to fight Arrav during the "[[The Curse of Arrav]]" quest. He is level 91, and teleports at about half health, preventing the player from killing him. Later in the quest, the player learns that Arrav's heart is in [[Zemouregal]]'s possession, at [[Chaos Temple Dungeon|Zemouregal's Base]]. After passing many traps in the base, the player carefully saves and preserves Arrav's heart in a [[Full canopic jar|canopic jar]]. The heart is taken back to [[Ali the Wise]].
+{{Clear|left}}
+
+===The 18th Mahjarrat Ritual of Rejuvenation===
+{{OccDur|Ritual of the Mahjarrat}}
+[[File:Arrav's death.gif|200px|thumb|left|Arrav's body finally gives out, and he turns to dust.]]
+During the "[[Ritual of the Mahjarrat]]" quest, the player regains the full canopic jar from [[Ali the Wise]] to use against Zemouregal during [[The Ritual of Rejuvenation]]. When Zemouregal summons Arrav, the player leads Arrav to his heart, thus freeing him from Zemouregal's control. Arrav then turns against Zemouregal, and starts attacking him, and is far more powerful than at the time he fought the player, hitting thousands on the Mahjarrat who is invincible to the player.
+
+Concluding the quest leaves one task left for the player: to find Arrav on the plateau. Arrav's body is thousands of years old and without the protection of Zemouregal's magic, it will soon crumble to dust. Arrav perishes shortly after talking to the player and thanking the player for saving him. Arrav's last thoughts are of the safety of Varrock as the player has freed his soul. Freeing Arrav's soul yields 3000 [[Prayer]] [[experience]].
+{{Clear|left}}
+
+==Dimension of Disaster==
+{{OccDur|Dimension of Disaster}}
+[[File:Arrav (Dimension of Disaster) (freed).png|150px|thumb|Arrav wields [[Darklight]] and the [[Shield of Arrav (item)|Shield of Arrav]] for the final confrontation with Zemouregal.]]
+Zemouregal's invasion of Varrock proved to be a success in this alternate realm, with Arrav only able to watch as his hometown was destroyed. After converting the Varrock to [[New Varrock]], Zemouregal ordered Arrav to help [[Ellamaria]] with her garden, to his disgust. When the player arrives in New Varrock, Reldo has a task to help Arrav overthrow Zemouregal and bring peace and order to New Varrock. Arrav is interested in their offer, as he is disgusted with the work that both Zemouregal and Ellamaria give him, as he isn't a "gardening assistant" for her. Once the player breaks the black sphere which Zemouregal is using to control Arrav without focusing on him, he is surprised that he isn't under anyone's control anymore. After threatening Ellamaria, he thanks the player for freeing his mind, although he still needs his heart to be truly free.
+
+The player later gets Arrav's heart back from Zemouregal's traps, and the player brings him Darklight and his shield once he is free. After beating Sharathteerk, and either sparing or killing him, he faces Zemouregal in battle. He manages to beat him and returns to the player to tell him of their success. As with the real Arrav, since his body is very old, sustained through Zemouregal's magic, he dies shortly afterwards.
+{{Clear}}
+
+==Dialogue==
+{{Hasdialogue|NPC}}
+
+===Quotes===
+{{Listen
+|title = I am terribly sorry, but it is not I who controls my actions.
+|align = left
+|filename = Arrav.ogg
+|desc = 
+}}
+{{Clear}}
+
+==Mentioned==
+{{MentionedIn}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Arrav1.png|Arrav explains why he works for Zemouregal.
+Large Display (1).png|The axe Arrav had before leaving Avarrocka, next to [[Wally]]'s helm and [[Randas]]' boots.
+Defender of Varrock - Shield blasting zombies.png|The Shield of Arrav unleashing its power.
+Arrav concept art.png|Concept art for an Arrav graphical update
+Arrav concept.jpg|Artwork of Arrav graphical rework
+Arrav model 1.jpg|Model of Arrav graphical rework
+Arrav model 2.jpg|Model of Arrav graphical rework
+Arrav model 3.jpg|Model of Arrav graphical rework
+Arrav (statue).png|[[Arrav (statue)|Statue]] of Arrav in the [[Heroes' Guild]]
+</gallery>
+
+==Graphical updates==
+===NPC===
+{{GU|subject=npc
+|{{GUL|date=[[29 September]] [[2008]]|update=Defender of Varrock|img=Arrav (2008).png|name=Arrav}}
+|{{GUL|date=[[14 September]] [[2011]]|update=Ritual of the Mahjarrat|img=Arrav (2011).png|name=Arrav}}
+|{{GUL|date=[[6 July]] [[2015]]|update=Patch Notes (6 July 2015)|img=Arrav.png|name=Arrav}}
+}}
+
+===Chathead===
+{{GU|subject=chathead
+|{{GUL|date=|update=|img=Arrav chathead old.png|name=Arrav}}
+|{{GUL|date=|update=|img=Arrav chathead.png|name=Arrav}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=ninja|update=Patch Notes (22 February 2016)|date=22 February 2016}}
+** Arrav in the [[The Curse of Arrav|Curse of Arrav]] quest now has 20,000 lifepoints (up from 3,250) and an auto-attack max hit of 624 (up from 260).
+
+* {{UL|type=patch|update=Patch Notes (6 July 2015)|date=6 July 2015}}
+** Arrav - in the [[Dominion Tower]], [[Defender of Varrock]], Curse of Arrav, and [[Ritual of the Mahjarrat]] - has been graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (2 April 2013)|date=2 April 2013}}
+** Damage-over-time effects are now cleared on Arrav in Dominion Tower when he tries to speak.
+
+* {{UL|type=update|update=The Curse of Arrav|date=21 July 2009}}
+** Added to game.
+
+* {{UL|type=update|update=Ritual of the Mahjarrat|date=14 September 2011}}
+** Added to game.
+}}
+
+==Trivia==
+* Arrav is a curse word in the [[Languages#Goblin language|goblin language]].{{CiteLore |url = https://www.runescape.com/lore/the-legend-of-arrav|archiveurl=https://reldo.runescape.wiki/i/11061069|archivedate=4 October 2018|title = The Legend of Arrav, Part I|sectitle = Section 2}}
+
+==References==
+{{Reflist}}
+
+{{The Curse of Arrav}}
+{{Defender of Varrock}}
+{{Dimension of Disaster: Defender of Varrock}}
+{{Dimension of Disaster: Curse of Arrav}}
+{{Ritual of the Mahjarrat}}
+{{The Legend of Arrav}}
+{{Zombie}}
+[[Category:Varrock]]
+[[Category:Protagonists]]
+[[Category:Deceased characters]]
+[[Category:Quest monsters]]

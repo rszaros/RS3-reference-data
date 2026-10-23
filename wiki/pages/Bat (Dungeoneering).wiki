@@ -1,0 +1,109 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 2
+|version2 = 19
+|version3 = 36
+|version4 = 53
+|name = Bat
+|image = [[File:Bat.png|250px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark
+|examine = A winged pig-mouse.
+|level1 = 2
+|level2 = 19
+|level3 = 36
+|level4 = 53
+|lifepoints1 = 200
+|lifepoints2 = 1400
+|lifepoints3 = 2600
+|lifepoints4 = 3800
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 12.8
+|slayxp3 = 29
+|slayxp4 = 49.6
+|slayercat = Bats, Creatures of Daemonheim
+|max_melee1 = 8
+|max_melee2 = 56
+|max_melee3 = 104
+|max_melee4 = 152
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 2
+|attack2 = 14
+|attack3 = 26
+|attack4 = 38
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 120
+|acc_melee2 = 245
+|acc_melee3 = 395
+|acc_melee4 = 590
+|acc_ranged1 = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 120
+|armour2 = 245
+|armour3 = 395
+|armour4 = 439
+|defence1 = 2
+|defence2 = 14
+|defence3 = 26
+|defence4 = 38
+|weakness1 = Air
+|weakness2 = Water
+|weakness3 = Earth
+|weakness4 = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10906
+|id2 = 10907
+|id3 = 10908
+|id4 = 10909
+|leagueRegion = Wilderness
+}}
+'''Bats''' are monsters found in [[Daemonheim]], on [[abandoned floors|abandoned]], [[furnished floors|furnished]], and [[occult floors]]. They are generally low-levelled, and don't hit very high. Subsequently, they are often given the lowest priority in [[guardian door]] rooms.
+
+As the bats within Daemonheim use [[melee]], they are weak to [[magic]]. However, the spell weakness will vary between each individual bat (ie: one bat will be weak to [[Earth spells]], while the next will be weak to [[Air spells]].)
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bat bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=ninja|update=Patch Notes (13 March 2017)|date=13 March 2017}}
+** Bats and animated pickaxes within Daemonheim now have larger click areas.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}

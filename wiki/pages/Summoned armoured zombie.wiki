@@ -1,0 +1,69 @@
+{{Infobox Monster
+|version1 = Normal mode
+|version2 = Story mode
+|name = Summoned armoured zombie
+|image = [[File:Summoned armoured zombie.png|175px]]
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|members = Yes
+|options = Attack, Mark
+|examine = This is a rotten one.
+|level = 116
+|lifepoints1 = 20000
+|lifepoints2 = 10000
+|experience2 = 50
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 0
+|slayxp = 
+|slayercat = Zombies
+|assigned_by = Vannaka
+|max_melee = 864
+|max_ranged = 739.2
+|max_magic = 739.2
+|max_necromancy = 0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 90
+|ranged = 77
+|magic = 77
+|necromancy = 1
+|acc_melee = 2458
+|acc_ranged = 1783
+|acc_magic = 1783
+|acc_necromancy = 0
+|abilities = 
+|armour = 1783
+|defence = 77
+|weakness = Water
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison1 = No
+|immune_to_stun1 = 
+|immune_to_deflect1 = 
+|immune_to_drain1 = 
+|leagueRegion = Wilderness
+|id = 26185,26186,26187,26188
+}}
+'''Summoned armoured zombie''' are monsters that appear in [[The Shadow Reef]], summoned by specific [[Ulthven necromancer]]s.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+{{The Shadow Reef}}
+{{Zombies}}
+[[Category:NPCs that can move at crawling speed]]

@@ -1,0 +1,76 @@
+{{Infobox Monster
+|version1 = Fremennik
+|version2 = Normal
+|name = Skeleton
+|image1 = [[File:Skeleton (Thok Your Block Off, Fremennik).png|x280px]]
+|image2 = [[File:Skeleton (Thok Your Block Off, normal).png|x280px]]
+|release = [[24 April]] [[2012]]
+|update = Fremennik Sagas II
+|members = Yes
+|options = Attack
+|race = Skeleton
+|examine1 = All bones and no brawn.
+|examine2 = Fist bone connected to the face bone.
+|level = 56
+|lifepoints = 4000
+|experience = 0.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 13.8
+|slayxp2 = 0
+|slayercat1 = Skeletons
+|slayercat2 = None
+|assigned_by1 = turael, mazchna, Vannaka
+|assigned_by2 = None
+|max_melee = 100
+|max_ranged = 100
+|max_magic = 100
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 40
+|ranged = 40
+|magic = 40
+|necromancy = 1
+|acc_melee = 300
+|acc_ranged = 300
+|acc_magic = 300
+|acc_necromancy = 0
+|armour = 300
+|defence = 40
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_stun = No
+|restriction = quest
+|leagueRegion = Wilderness
+|id1 = 15308
+|id2 = 15309
+}}
+'''Skeletons''', referred to by [[Thok]] as '''Thok will bury him''', '''Bones''' and '''Needs good meal''' are undead enemies encountered during the [[Thok Your Block Off (saga)|Thok Your Block Off]] Fremennik Saga. Those with horns on their helmets attack with magic, and those without use melee.
+
+They initially appear summoned by a [[Forgotten mage]], who is killed by a [[Brute]] shortly afterwards, and later appear in a timed reinforcement room.
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[24 April]] [[2012]]|update=Fremennik Sagas II|img=Skeleton (Thok Your Block Off, Fremennik) (2012).png|name=Skeleton (Thok Your Block Off, Fremennik)}}
+|{{GUL|date=[[2 March]] [[2015]]|update=Patch Notes (2 March 2015)|img=Skeleton (Thok Your Block Off, Fremennik).png|name=Skeleton (Thok Your Block Off, Fremennik)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=ninja|update=Patch Notes (2 March 2015)|date=2 March 2015}}
+** A large number of skeletons across Gielinor have been graphically updated.
+
+* {{UL|type=update|update=Fremennik Sagas II|date=24 April 2012}}
+** Added to game.
+}}
+
+{{Thok Your Block Off (saga)}}
+{{Skeleton}}

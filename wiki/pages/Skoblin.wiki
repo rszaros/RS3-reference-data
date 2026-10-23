@@ -1,0 +1,194 @@
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{Otheruses|the skoblins under Lumbridge|the ones in the Goblin Temple|Skoblin (Strongbones)}}
+{{Infobox Monster
+|name = Skoblin
+|image = [[File:Skoblin.png|175px]]
+|release = [[15 March]] [[2010]]
+|update = The Blood Pact and Lumbridge Catacombs
+|members = No
+|actions = Attack
+|examine = A skeletal goblin. It looks like the necromancer didn't animate only human bones.
+|level = 19
+|lifepoints = 2500
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 28.4
+|slayercat = Goblins, Skeletons, Undead
+|max_melee = 280
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 14
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 145
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 245
+|defence = 14
+|weakness = Water
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 9611
+|leagueRegion = Misthalin
+}}
+'''Skoblins''' can be found in the ninth room of the [[Lumbridge Catacombs]], which can only be entered after completing [[The Blood Pact]] quest. They were created by now undead [[Dragith Nurn]] the [[necromancer]], during his experiments with local creatures.
+
+This is one of the monsters that drop [[Mask part 4]], which can be used with the 4 other parts to create the [[Mask of Dragith Nurn]].
+
+As these are skeletal [[goblin]]s, they count as both [[Skeletons (Slayer assignment)|skeleton]] and [[Goblins (Slayer assignment)|goblin Slayer assignment]]; however, for [[Champion's scroll|champion scrolls]] only the [[Skeleton Champion's scroll]] can be dropped by them. An [[ushabti]] will capture a goblin soul when killing skoblins.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Lumbridge Catacombs]]
+|lvls=19
+|mem=No
+|requirements={{QuestIcon|The Blood Pact}}
+|mapID=165
+|npcid:9611,x:3993,y:5493|npcid:9611,x:3993,y:5497|npcid:9611,x:3994,y:5495
+|npcid:9611,x:3996,y:5497|npcid:9611,x:3998,y:5493|npcid:9611,x:3999,y:5495
+|npcid:9611,x:4000,y:5497|npcid:9611,x:4001,y:5493|npcid:9611,x:4003,y:5495
+|npcid:9611,x:4003,y:5498|npcid:9611,x:4005,y:5493|npcid:9611,x:4005,y:5498
+|npcid:9611,x:4006,y:5496
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Mask part 4|quantity=1|rarity=1/3|raritynotes={{DropNote|Only dropped if you don't own this item or the [[Mask of Dragith Nurn]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Staff|quantity=1|rarity=5/262}}
+{{DropsLine|name=Magic staff|quantity=1|rarity=5/262}}
+{{DropsLine|name=Shortbow|quantity=1|rarity=5/262}}
+{{DropsLine|name=Chargebow|quantity=1|rarity=5/524}}
+{{DropsLine|name=Staff of air|quantity=1|rarity=5/524}}
+{{DropsLine|name=Leather cowl|quantity=1|rarity=5/262}}
+{{DropsLine|name=Leather body|quantity=1|rarity=5/262}}
+{{DropsLine|name=Leather gloves|quantity=1|rarity=5/262}}
+{{DropsLine|name=Leather boots|quantity=1|rarity=5/262}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=12|rarity=10/262}}
+{{DropsLine|name=Water rune|quantity=6|rarity=10/262}}
+{{DropsLine|name=Earth rune|quantity=6|rarity=10/262}}
+{{DropsLine|name=Fire rune|quantity=6|rarity=10/262}}
+{{DropsLine|name=Bronze arrow|quantity=28|rarity=10/262}}
+{{DropsTableBottom}}
+
+===Jewellery===
+{{DropsTableHead}}
+{{DropsLine|name=Holy symbol|quantity=1|rarity=10/262}}
+{{DropsLine|name=Gold amulet|quantity=1|rarity=10/262}}
+{{DropsLine|name=Gold necklace|quantity=1|rarity=10/262}}
+{{DropsLine|name=Gold ring|quantity=1|rarity=10/262}}
+{{DropsLine|name=Amulet of magic|quantity=1|rarity=1/262}}
+{{DropsLine|name=Amulet of defence|quantity=1|rarity=1/262}}
+{{DropsTableBottom}}
+
+===Talismans===
+{{DropsTableHead}}
+{{DropsLine|name=Air talisman|quantity=1|rarity=1/262}}
+{{DropsLine|name=Mind talisman|quantity=1|rarity=1/262}}
+{{DropsLine|name=Water talisman|quantity=1|rarity=1/262}}
+{{DropsLine|name=Earth talisman|quantity=1|rarity=1/262}}
+{{DropsLine|name=Fire talisman|quantity=1|rarity=1/262}}
+{{DropsTableBottom}}
+
+===Spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Copper stone spirit|quantity=1|rarity=30/262}}
+{{DropsLine|name=Tin stone spirit|quantity=2|rarity=10/262}}
+{{DropsLine|name=Iron stone spirit|quantity=1|rarity=10/262}}
+{{DropsLine|name=Wood spirit|quantity=2|rarity=5/262}}
+{{DropsLine|name=Oak wood spirit|quantity=2|rarity=5/262}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Small plated bronze salvage|quantity=1|rarity=5/262}}
+{{DropsLine|name=Medium plated bronze salvage|quantity=1|rarity=5/262}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=225|rarity=15/262}}
+{{DropsLine|name=Feather|quantity=10|rarity=10/262}}
+{{DropsLine|name=Fishing bait|quantity=50|rarity=10/262}}
+{{DropsLine|name=Leather|quantity=1|rarity=10/262}}
+{{DropsLine|name=Thread|quantity=42|rarity=10/262}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{BeginnerWeaponsDropLines}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4,000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Skoblin old.png|name=Skoblin}}
+|{{GUL|date=|update=|img=Skoblin.png|name=Skoblin}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Wood and Oak tree spirits have been added to Lumbridge Catacombs skoblins' loot table:
+*** Replaced the [[tiny plated bronze salvage]] drop with a [[wood spirit]].
+*** Replaced the [[tiny blunt bronze salvage]] drop with an [[oak wood spirit]].
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (5 July 2010)|date=5 July 2010}}
+** The new [[skeletons]] and [[goblins]] in the [[Lumbridge Catacombs]] can now also drop champion scrolls.
+
+* {{UL|type=update|update=The Blood Pact and Lumbridge Catacombs|date=15 March 2010}}
+** Added to the game.
+}}
+
+==Trivia==
+* The word "skoblin" is a portmanteau of [[skeleton]] and [[goblin]].
+
+{{Skeletons}}
+{{Goblins}}
+{{Lumbridge Catacombs}}

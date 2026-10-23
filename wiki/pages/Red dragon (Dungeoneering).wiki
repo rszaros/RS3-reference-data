@@ -1,0 +1,135 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 106
+|version2 = 113
+|version3 = 119
+|version4 = 126
+|version5 = 133
+|version6 = 138
+|name = Red dragon
+|image = [[File:Red dragon (1).png|160px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|size = 4
+|examine = A powerful dragon with red scales.
+|level1 = 106
+|level2 = 113
+|level3 = 119
+|level4 = 126
+|level5 = 133
+|level6 = 138
+|lifepoints1 = 15200
+|lifepoints2 = 16200
+|lifepoints3 = 17000
+|lifepoints4 = 18000
+|lifepoints5 = 19000
+|lifepoints6 = 19800
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Red dragons, Dragons, Creatures of Daemonheim
+|assigned_by = Sumona
+|max_melee1 = 304
+|max_melee2 = 324
+|max_melee3 = 340
+|max_melee4 = 360
+|max_melee5 = 380
+|max_melee6 = 396
+|max_ranged1 = 304
+|max_ranged2 = 324
+|max_ranged3 = 340
+|max_ranged4 = 360
+|max_ranged5 = 380
+|max_ranged6 = 396
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged, melee, dragonfire
+|primarystyle = ranged
+|speed = 4
+|attack1 = 76
+|attack2 = 81
+|attack3 = 85
+|attack4 = 90
+|attack5 = 95
+|attack6 = 99
+|ranged1 = 76
+|ranged2 = 81
+|ranged3 = 85
+|ranged4 = 90
+|ranged5 = 95
+|ranged6 = 99
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 1738
+|acc_melee2 = 1973
+|acc_melee3 = 2178
+|acc_melee4 = 2458
+|acc_melee5 = 2765
+|acc_melee6 = 3031
+|acc_ranged1 = 1738
+|acc_ranged2 = 1973
+|acc_ranged3 = 2178
+|acc_ranged4 = 2458
+|acc_ranged5 = 2765
+|acc_ranged6 = 3031
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 983
+|armour2 = 1132
+|armour3 = 1299
+|armour4 = 1486
+|armour5 = 1694
+|armour6 = 1924
+|defence1 = 76
+|defence2 = 81
+|defence3 = 85
+|defence4 = 90
+|defence5 = 95
+|defence6 = 99
+|weakness = Stab
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10815
+|id2 = 10816
+|id3 = 10817
+|id4 = 10818
+|id5 = 10819
+|id6 = 10820
+|leagueRegion = Wilderness
+}}
+A '''red dragon''' may be encountered in the [[Occult floors]] while training [[Dungeoneering]]. This monster uses a long-range [[dragonfire]] attack in addition to its regular dragonfire attack. This can prove very deadly to those without an [[Anti-dragon shield (Dungeoneering)|anti-dragon shield]] or a [[cure potion]], or for those with [[two-handed sword]]s. [[Protect from Magic|Protect from]]/[[Deflect Magic]] may also be used to avoid heavy damage from its dragonfire, but the dragon will still regularly hit in the 200s-300s.
+
+Unlike standard [[red dragon]]s, which are weak to [[arrows]], these dragons are weak to [[stab weapons]], so those with [[spears]], [[rapier]]s, or [[dagger]]s will be at an advantage.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Dragon bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Dragon}}

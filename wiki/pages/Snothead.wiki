@@ -1,0 +1,108 @@
+{{External|os}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|name = Snothead
+|image = [[File:Snothead.png|200px]]
+|release = [[12 November]] [[2007]]
+|update = Land of the Goblins
+|members = Yes
+|options = Attack
+|examine = A goblin high priest, back from the grave.
+|level = 19
+|lifepoints = 700
+|experience = 35.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Goblins, Skeletons, Undead
+|max_melee = 56
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 14
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 245
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 245
+|defence = 14
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|restriction = quest
+|id = 6469
+|leagueRegion=Kandarin
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|name = Snothead
+|image = [[File:Snothead.png]]
+|release = [[12 November]] [[2007]]
+|update = Land of the Goblins
+|race = Goblin
+|members = Yes
+|quest = [[Land of the Goblins]], [[Hopespear's Will]]
+|location = [[Goblin Temple]]
+|map = no
+|gender = Male
+|options = Talk to, Examine
+|examine =
+|id = 6474
+|leagueRegion=Kandarin
+}}
+}}
+[[File:Snothead chathead.png|left|55px]]
+'''Snothead''' is an undead goblin priest fought in the [[Land of the Goblins]] quest. He is the first priest fought in the [[Goblin Temple]]'s crypt in an attempt to find the location of [[Yu'biusk]]. After the quest, [[Hopespear]] asks the player to free the souls of the goblin priests in [[Hopespear's Will]] miniquest, where he is fought again and put to rest on Yu'biusk.
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Snothead's bone|quantity=1|rarity=Always|raritynotes={{DropNote|Only dropped when defeated without using any weapons, armour, spells, or recoil damage, during the miniquest [[Hopespear's Will (miniquest)|Hopespear's Will]].}}}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Speaksin}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+2008 Goblin Priests.jpg|Hopespear's Will concept art.
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Land of the Goblins|date=12 November 2007}}
+** Added to game.
+}}
+
+{{Hopespear's Will}}
+{{Land of the Goblins}}
+{{Skeletons}}
+{{Goblins}}
+{{High Priests}}
+[[Category:Quest monsters]]
+[[Category:Bandosians]]
+[[Category:Deceased characters]]

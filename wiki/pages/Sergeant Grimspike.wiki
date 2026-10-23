@@ -1,0 +1,170 @@
+{{External|os}}
+{{Infobox Monster
+|name = Sergeant Grimspike
+|image = [[File:Sergeant Grimspike.png|150px|Sergeant Grimspike]]
+|release = [[28 August]] [[2007]]
+|update = God Wars Dungeon
+|members = Yes
+|options = Attack
+|examine = A battle-honed goblin.
+|level = 102
+|lifepoints = 5475
+|experience = 273.7
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 199.2
+|slayercat = Goblins
+|assigned_by = Turael, Spria, Jacquelyn
+|max_melee = 0
+|max_ranged = 365
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = ranged
+|primarystyle = ranged
+|speed = 5
+|attack = 1
+|ranged = 73
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 1608
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1299
+|defence = 73
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|id = 6265
+|leagueRegion = Asgarnia
+}}
+'''Sergeant Grimspike''' is one of three sergeants found guarding [[General Graardor]] in the [[Bandos]] section of the [[God Wars Dungeon]], alongside [[Sergeant Strongstack]] and [[Sergeant Steelwill]]. Sergeant Grimspike uses ranged attacks with a max hit of 365 life points. 
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Bandos's Stronghold]]
+|lvls=102
+|mem=yes
+|requirements = {{scp|Strength|70}}{{Not boostable}}
+|mapID=15
+|npcid:6265,x:2868,y:5362
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+The drop table rolls out of 128 normally, however this is improved to 126 while tier 2 or higher [[luck]] is active. This slightly decreases the chance of 1400-1500 coins (in the [[#Other|Other]] section) from 66/128 to 64/126, while slightly improving the chance of everything else.
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Goblin skull|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest.}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Unique table===
+''There is a 1 in 128 chance to roll the unique table (1/126 with tier 2 or higher luck). Then there is a 6/384 chance to roll for any unique item; otherwise, coins are awarded.''
+
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1400-1500|rarity=378/{{#expr:128*384}}|citations={{CiteDevBlog|author=Mod Timbo|url=http://services.runescape.com/m=forum/forums.ws?74,75,52,65949497,goto,15#147|title=Revealing Drop Rates|blogdate=20 October 2017|archiveurl=https://reldo.runescape.wiki/i/25774089|archivedate=24 May 2018|name=Timbo}}|altrarity=378/{{#expr:126*384}}}}
+{{DropsLine|name=Bandos helmet|quantity=1|rarity=1/{{#expr:128*384}}|raritynotes={{DropNote|name=unique|1/8,192 for any unique item.}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*384}}}}
+{{DropsLine|name=Bandos chestplate|quantity=1|rarity=1/{{#expr:128*384}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*384}}}}
+{{DropsLine|name=Bandos tassets|quantity=1|rarity=1/{{#expr:128*384}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*384}}}}
+{{DropsLine|name=Bandos gloves|quantity=1|rarity=1/{{#expr:128*384}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*384}}}}
+{{DropsLine|name=Bandos boots|quantity=1|rarity=1/{{#expr:128*384}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*384}}}}
+{{DropsLine|name=Bandos warshield|quantity=1|rarity=1/{{#expr:128*384}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*384}}}}
+{{DropsTableBottom}}
+
+===Godsword shard table===
+''There is a 1 in 128 chance to roll the shard table (1/126 with tier 2 or higher luck). Then there is a 3/12 chance to roll for any godsword shard; otherwise, coins are awarded.''
+
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1000-1500|rarity=9/{{#expr:128*4*3}}|altrarity=9/{{#expr:126*4*3}}}}
+{{DropsLine|name=Godsword shard 1|quantity=1|rarity=1/{{#expr:128*4*3}}|raritynotes={{DropNote|name=shard|1/512 for any godsword shard.}}|altrarity=1/{{#expr:126*4*3}}}}
+{{DropsLine|name=Godsword shard 2|quantity=1|rarity=1/{{#expr:128*4*3}}|raritynotes={{DropNote|name=shard}}|altrarity=1/{{#expr:126*4*3}}}}
+{{DropsLine|name=Godsword shard 3|quantity=1|rarity=1/{{#expr:128*4*3}}|raritynotes={{DropNote|name=shard}}|altrarity=1/{{#expr:126*4*3}}}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Steel dart|quantity=95-100|rarity=15/128|altrarity=15/126}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Shark|quantity=2|rarity=9/128|altrarity=9/126}}
+{{DropsLine|name=Chilli potato|quantity=3|rarity=8/128|altrarity=8/126}}
+{{DropsLine|name=Combat potion (3)|quantity=1|rarity=8/128|altrarity=8/126}}
+{{DropsLine|name=Super strength (3)|quantity=1|rarity=2/128|altrarity=2/126}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1400-1500|rarity=66/128|gemw=No|altrarity=64/126}}
+{{DropsLine|name=Limpwurt root|quantity=5 (noted)|rarity=8/128|altrarity=8/126}}
+{{DropsLine|name=Coal stone spirit|quantity=15-20|rarity=8/128|altrarity=8/126}}
+{{DropsLine|name=Grimy snapdragon|quantity=1 (noted)|rarity=2/128|altrarity=2/126}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Eye patch|quantity=1|rarity=1/6}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=10/1280}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=495/128000|raritynotes={{DropNote|This drop only attempts to roll should you fail to roll a hard clue. Should you get this item, there's a 1% chance it'll be upgraded to a [[sealed clue scroll (master)]].}}}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=5/128000}}
+{{DropsLineWarpriest|god=bandos}}
+{{DropsLine|name=Furniture plans: Bandos rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Bandos altar|quantity=1|rarity=Unknown}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+GraardorsSargeants.jpg|Concept art for the upgraded Sergeant Grimspike, alongside his fellow sergeants.
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npcs
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Sergeant Grimspike (2007).png|name=Sergeant Grimspike}} <!-- Was told not to use OSRS wiki images, though they're similar they're not aligned on dates.-->
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Sergeant Grimspike (2008).png|name=Sergeant Grimspike}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Sergeant Grimspike.png|name=Sergeant Grimspike}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=God Wars: Remastered|date=5 September 2012}}
+** Sergeant Grimspike has been graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (21 February 2012)|date=21 February 2012}}
+** Only one Sergeant Grimspike is now shown when performing his special attack.
+
+* {{UL|type=update|update=God Wars Dungeon|date=28 August 2007}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{God Wars Dungeon}}
+{{Goblins}}
+
+[[Category:Participants in the God Wars]]
+[[Category:Bandosians]]
+[[Category:Boss minions]]

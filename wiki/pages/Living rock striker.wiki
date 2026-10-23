@@ -1,0 +1,174 @@
+{{Infobox Monster
+|name = Living rock striker
+|image = [[File:Living rock striker.png|200px]]
+|release = [[17 September]] [[2009]]
+|update = Living Rock Caverns
+|members = Yes
+|examine = A being of ore and minerals.
+|options = Attack
+|level = 92
+|lifepoints = 5500
+|experience = 275.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 156
+|slayercat = Living rock creatures
+|assigned_by = Kuradal
+|max_melee = 264
+|max_ranged = 500
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 66
+|ranged = 66
+|magic = 1
+|necromancy = 1
+|acc_melee = 1335
+|acc_ranged = 1335
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1335
+|defence = 66
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 8833
+|leagueRegion = Asgarnia
+}}
+[[File:Living rock creature icon.png|left]]
+'''Living rock strikers''' are mineral-based monsters found throughout the [[Living Rock Caverns]]. Once killed, their corpse can be mined at level 73 [[Mining]] for [[living minerals]], which are used at level 90 [[Fishing]] to catch [[rocktail]]s found in the cavern. They will attack any player who gets within 1 square of them. Wearing the [[Magic golem outfit|magic golem]] or [[fury shark outfit]]s will render them docile.
+
+A set of [[Verac the Defiled's equipment|Verac armour]] is an effective method of killing living rock strikers. They are weak to the [[Verac's flail|flail's]] crush style, and their defences are sometimes bypassed due to its effects. With the use of a [[Bunyip]] [[familiar]], lost health can be quickly regained.
+
+Also, a set of [[Guthan the Infested's equipment|Guthan's armour]] is very effective at healing when fighting these creatures. Living rock strikers will only use their ranged attack if their foe is outside melee range, which hits much more frequently and consistently harder than their melee attack.
+
+As they are weak to melee, a player with around 80-85 attack can land hits often with at least level 75 weaponry. Lower levels can use [[Protect from Melee]] or [[Protect from Range]] for damage reduction depending on combat style, as the strikers do not react to protection prayers.
+
+A good area to go to while on a [[Slayer]] task is the eastern side. Go to the rope, then travel northeast to the large clearing. In that area should be 4 Living rock strikers grouped tightly together. This area is the spawning point for the [[Living rock patriarch|Patriarch]], which provides extra money and experience. This spot is also not near any Protectors, so it won't affect the experience rate or profit.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Living Rock Caverns]]
+|lvls=92
+|mem=yes
+|mapID=35
+|npcid:8833,x:3621,y:5092|npcid:8833,x:3629,y:5088|npcid:8833,x:3629,y:5096
+|npcid:8833,x:3631,y:5108|npcid:8833,x:3633,y:5116|npcid:8833,x:3643,y:5087
+|npcid:8833,x:3628,y:5122|npcid:8833,x:3641,y:5126|npcid:8833,x:3645,y:5138
+|npcid:8833,x:3650,y:5090|npcid:8833,x:3656,y:5093|npcid:8833,x:3671,y:5094
+|npcid:8833,x:3672,y:5105|npcid:8833,x:3676,y:5100|npcid:8833,x:3654,y:5127
+|npcid:8833,x:3667,y:5146|npcid:8833,x:3668,y:5122|npcid:8833,x:3673,y:5138
+|npcid:8833,x:3678,y:5124|npcid:8833,x:3678,y:5133|npcid:8833,x:3678,y:5148
+|npcid:8833,x:3684,y:5130
+|leagueRegion = Asgarnia}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Mud rune|quantity=8|rarity=26/138}}
+{{DropsLine|name=Nature rune|quantity=10|rarity=4/138}}
+{{DropsLine|name=Death rune|quantity=8|rarity=6/138}}
+{{DropsTableBottom}} 
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=3|rarity=20/138}}
+{{DropsLine|name=Silver stone spirit|quantity=3|rarity=2/138}}
+{{DropsLine|name=Mithril stone spirit|quantity=3|rarity=14/138}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=20/138}}
+{{DropsLine|name=Gold stone spirit|quantity=3|rarity=20/138}}
+{{DropsLine|name=Platinum stone spirit|quantity=1|rarity=10/138}}
+{{DropsTableBottom}} 
+
+===Gems===
+{{DropsTableHead}}
+{{DropsLine|name=Uncut sapphire|quantity=1 (noted)|rarity=5/138}}
+{{DropsLine|name=Uncut emerald|quantity=1 (noted)|rarity=4/138}}
+{{DropsLine|name=Uncut ruby|quantity=1 (noted)|rarity=3/138}}
+{{DropsLine|name=Uncut diamond|quantity=1 (noted)|rarity=2/138}}
+{{DropsTableBottom}} 
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium spiky mithril salvage|quantity=1|rarity=1/138}}
+{{DropsLine|name=Medium spiky adamant salvage|quantity=1|rarity=1/138}}
+{{TableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=92}}
+{{DropsLineMimic|level=92}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 122.153/1000
+|green = 305.383/1000
+|crimson = 48.861/1000
+|blue = 24.431/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=|date=16 June 2025}}
+** Added Platinum stone spirits to drop table.
+
+* {{UL|type=patch|update=Relic Presets & February Mini Strike - This Week In RuneScape|date=10 February 2025}}
+** Living Rock Protectors, Strikers and Patriarchs now count towards Kili's Knowledge VI as a slayer task.
+
+* {{UL|type=patch|update=This Week In RuneScape - 19/10/20#Patch Notes|date=19 October 2020}}
+** Living rock creatures now count towards the Kerapac Track task 'Kill Monsters'.
+
+* {{UL|type=hotfix|update=Patch Notes (10 February 2020)|date=10 February 2020}}
+** Living Rock creatures' souls can once again be captured in [[ushabti]]s without being on a [[Slayer task]] to kill them.
+
+* {{UL|type=patch|update=Patch Notes (26 November 2013)|date=26 November 2013}} 
+** An issue where players using ranged or magic could not mine Living Rock creatures has been fixed.
+
+* {{UL|type=patch|update=Patch Notes (29 May 2013)|date=29 May 2013}}
+** Living rock creatures no longer drop bones.
+
+* {{UL|type=patch|update=Patch Notes (12 February 2013)|date=12 February 2013}}
+** Auto retaliate now works as intended with Living Rock creatures.
+
+* {{UL|type=patch|update=Patch Notes (14 January 2013)|date=14 January 2013}}
+** Fixed an issue that was causing this monster to only hit for 1 damage.
+
+* {{UL|type=patch|update=Patch Notes (12 April 2011)|date=12 April 2011}}
+** This monster now has sound effects when meleeing.
+
+* {{UL|type=patch|update=Patch Notes (7 October 2009)|date=7 October 2009}}
+** You should be able to mine creatures you kill in the living rock caverns even if you lose connection.
+
+* {{UL|type=update|update=Living Rock Caverns|date=17 September 2009}}
+** Added to game.
+}}
+
+==Trivia==
+* During their idle animation, they will either pat their left chest, or pluck a rock from itself, and take a short look at it before putting it back. This rock constitutes the missile of their ranged attack.
+* If a Living rock striker drops a [[starved ancient effigy]] or [[divine tears]], the drop appears under it, in the south-western most square they occupy (similar to the drops of other monsters that are larger than 1 square). This is unlike their other drops, which appear on one of the squares outside the squares they occupy.
+
+{{Living Rock Caverns}}

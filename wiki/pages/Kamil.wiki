@@ -1,0 +1,183 @@
+{{External|os}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Desert Treasure
+|version2 = Dominion Tower
+|version3 = Rumble Mode
+|name = Kamil
+|image = [[File:Kamil.png]]
+|release1 = [[18 April]] [[2005]]
+|release2 = [[1 November]] [[2011]]
+|release3 = [[8 December]] [[2014]]
+|update1 = Desert Treasure
+|update2 = Dominion Tower
+|update3 = Snowverload & Dominion Tower Rumble Mode
+|members1 = Yes
+|members2 = No
+|members3 = No
+|options = Attack, Examine
+|race = Ice warrior
+|examine = Ice warrior.
+|level = 88
+|lifepoints1 = 26250
+|lifepoints2 = 26250
+|lifepoints3 = 
+|experience1 = 1312.5
+|experience2 = 1312.5
+|experience3 = 
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat1 = Ice warriors
+|slayercat2 = No
+|slayercat3 = No
+|max_melee1 = 907.2
+|max_melee2 = 907.2
+|max_melee3 = 378
+|max_ranged1 = 907.2
+|max_ranged2 = 907.2
+|max_ranged3 = 378
+|max_magic1 = 907.2
+|max_magic2 = 907.2
+|max_magic3 = 378
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 63
+|ranged = 63
+|magic = 63
+|necromancy = 1
+|acc_melee = 1230
+|acc_ranged = 1230
+|acc_magic = 1230
+|acc_necromancy = 0
+|abilities = 
+|armour = 1230
+|defence = 63
+|weakness = Fire
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|restriction1 = quest
+|restriction2 = minigame
+|restriction3 = minigame
+|leagueRegion = Asgarnia&Desert
+|id1 = 1913
+|id2 = 14585
+|id3 = 17295
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|name = Kamil
+|image = [[File:Kamil.png]]
+|release = [[1 November]] [[2011]]
+|update = Dominion Tower
+|members = Yes
+|race = Ice warrior
+|quest = No
+|location = [[Dominion Tower]]
+|gender = Male
+|options = Examine
+|examine = Ice warrior.
+|map = No
+|id = 14579
+}}
+}}
+[[File:Kamil chathead.png|left|60px]]
+'''Kamil''' is one of the guardians of the [[Diamonds of Azzanadra]]. He must be killed to progress through the [[Desert Treasure]] quest. He uses [[ice spells]], which will freeze the player, and sometimes a stronger melee attack. In addition, the extreme cold when fighting him will reduce the player's stats constantly. He is weak against [[fire spells]]; this, coupled with the weakness of his spells, means using fire magic is advisable against him. It is recommended to use [[Freedom]] and [[Anticipation]] during the fight, as his ice spells can also [[stun]] the player.
+
+Kamil is fightable along with [[Fareed]], [[Damis]] and [[Dessous]] as [[Damis, Fareed, Kamil and Dessous|a class B boss monster]] in the [[Dominion Tower]] minigame if the player has completed Desert Treasure. See [[Dominion Tower/Strategies#Damis, Fareed, Kamil, and Dessous|here]] for a guide on how to defeat the combined four bosses.
+{{Clear|left}}
+
+==Getting to Kamil==
+{{Map|mtype=square|x=2835|y=3740|align=left|caption=The entrance to the ice path}}
+Kamil is reached east of the [[Ice Path]], north of [[Trollheim]]. To get there, walk from [[Death Plateau (location)|Death Plateau]] through [[Tunnel to Trollheim]] or [[Troll Stronghold (area)|Troll Stronghold]], or teleport to there by [[Trollheim Teleport]], which requires 61 [[Magic]] and completion of [[Eadgar's Ruse]] quest, and walk to the [[ice gate]]. If you have not done so already, talk to the [[troll child]] outside the gate and give him something sweet, like a [[cake]], so he will let you through (you only need to do this once). Squeeze through the gate, then kill five [[ice troll]]s to make the icicles blocking the cave in the southeast break away. Go through the cave and head up the Ice Path, past the [[ice wolf|ice wolves]] and you'll enter Kamil's arena, where the battle is fought. For a more detailed guide, see the [[Desert Treasure]] guide.
+{{Clear|left}}
+
+==Strategy==
+Kamil has a fairly low number of life points and should be killed fairly easily. [[Protect from Melee]] or [[Protect from Magic|Magic]] should also be used if possible to reduce damage taken. However, the environment he is in and the effect of his freezing magic to stop the player attacking makes the fight tedious. He can also teleport next to the player, similar to [[abyssal demon]]s. It is recommended to wear the best [[magic armour]] possible and use the strongest fire spell the player is capable of, as Kamil is completely immune to many non-fire spells. [[Super restore potion]]s and food such as [[monkfish]] are recommended. The player should remain in melee distance with Kamil, as attempting to move away will cause him to freeze the player more frequently and teleport next to them.
+
+If you plan to bring a [[Summoning familiars|familiar]] to help you, dismiss it before you fight Kamil or you may get the message "It's not after you..." and Kamil will stop fighting. He will then walk away and reappear at full health.
+{{Clear|left}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Super restore (3)|quantity=1|rarity=Always}}
+{{DropsLine|name=Chocolate cake|quantity=2|rarity=Always}} 
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Desert Treasure - Fighting Kamil.png|Fighting Kamil
+</gallery>
+
+==Dialogue==
+{{Speaksin}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[18 April]] [[2005]]|update= Desert Treasure|img=Kamil (2005).png|name=Kamil}}
+|{{GUL|date=|update=|img=Kamil (2010).png|name=Kamil}}
+|{{GUL|date=|update=|img=Kamil.png|name=Kamil}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Update:Combat Update & Thok's Smashing Buffs- This Week In RuneScape|date=4 March 2024}}
+** Increased the base hit chance of all the following bosses to use the standard base hit chances.
+** Increased the life points of the boss: Kamil - Desert Treasure
+*** HP: 21000 → 26250
+
+* {{UL|type=ninja|update=Patch Notes (14 September 2015)|date=14 September 2015}}
+** The following quest fights have been rebalanced:
+*** Desert Treasure:
+**** Kamil now has 21,000 life points (up from 3,150).
+**** Kamil now has a max hit of 907 (up from 252).
+**** Kamil now has a cooldown on his ice attack, and Freedom may now be used to escape.
+*** Desert Treasure (Dominion Tower):
+**** Same changes as the quest variants.
+**** Kamil now has 20,000 life points (up from 6,300).
+**** Kamil now has a max hit of 907 (up from 378).
+
+* {{UL|type=patch|update=Patch Notes (2 March 2015)|date=2 March 2015}}
+** Kamil and Fareed's combat animations have been updated.
+
+* {{UL|type=update|update=Desert Treasure|date=18 April 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Kamil (كامِلٌ) is an Arabic male-given name which means "whole" or "complete". It may also be translated as "perfect" or "perfected one".
+* Kamil counts as an [[ice warrior]] for the [[Ice warriors (Slayer assignment)|slayer assignment]].
+* Kamil originally had a combat level of 154. It was raised to 189 with the introduction of the [[Dominion Tower]], and changed again to 126, and later his current level of 88, with the release of the [[Evolution of Combat]].
+
+{{Desert Treasure}}
+[[Category:Quest monsters]]
+[[Category:Bosses]]
+[[Category:Unique monsters]]
+[[Category:Zamorakians]]
+[[Category:Antagonists]]
+[[Category:Deceased characters]]

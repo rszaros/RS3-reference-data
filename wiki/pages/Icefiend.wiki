@@ -1,0 +1,217 @@
+{{External|os}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|version1 = Ice Mountain
+|version2 = Ice Mountain (melting)
+|name = Icefiend
+|image = [[File:Icefiend.png|x280px]]
+|release1 = [[15 March]] [[2006]]
+|release2 = [[7 May]] [[2008]]
+|update1 = Hundredth Quest - Recipe for Disaster!
+|update2 = Perils of Ice Mountain
+|members = No
+|actions = Attack
+|examine1 = A small ice demon.
+|examine2 = The icefiend seems to be melting.
+|level = 35
+|lifepoints = 2000
+|experience = 100.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 7
+|slayercat = Icefiends
+|assigned_by = turael, Vannaka
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 500
+|max_necromancy = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 25
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 281
+|acc_necromancy = 0
+|armour = 381
+|defence = 25
+|weakness = Thrown
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 7714
+|id2 = 7715
+|leagueRegion = Asgarnia
+}}
+[[File:Icefiend icon.png|left]]
+An '''icefiend''' is a monster found on top of [[Ice Mountain]]. During [[Recipe for Disaster]] players must kill one of these to cool down the [[Dwarven rock cake]] but players can also do this with the [[ice gloves]]. Icefiends may be assigned as a [[Slayer assignment]] from a [[Slayer Master]]. During the quest [[Perils of Ice Mountain]], the player is assigned to capture [[baby icefiend]]s for a [[gnomes|gnome]] named [[Professor Arblenap]], who is trying to save them from extinction.
+
+[[Icefiend (God Wars Dungeon)|Level 84 versions]] can be found in the [[God Wars Dungeon]], and the [[Icefiend (Ghorrock)|level 107 versions]] can be found within [[Ghorrock|Ghorrock Fortress]] after completing [[The Temple at Senntisten]]. They generally hit higher than other [[monsters]] of their [[combat level]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ice Mountain]]
+|lvls=35
+|mem=no
+|mapID=28
+|npcid:7716,x:2995,y:3468|npcid:7716,x:2999,y:3473|npcid:7716,x:3001,y:3470
+|npcid:7716,x:3003,y:3483|npcid:7716,x:3003,y:3502|npcid:7716,x:3004,y:3496
+|npcid:7716,x:3005,y:3473|npcid:7716,x:3005,y:3480|npcid:7716,x:3005,y:3485
+|npcid:7716,x:3006,y:3468|npcid:7716,x:3006,y:3490
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Equipment===
+{{DropsTableHead}}
+{{DropsLine|name=Monk's robe (top)|quantity=1|rarity=4/128}}
+{{DropsLine|name=Monk's robe (bottom)|quantity=1|rarity=4/128}}
+{{DropsLine|name=Staff of water|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Iron arrow|quantity=8|rarity=12/128}}
+{{DropsLine|name=Water rune|quantity=5|rarity=8/128}}
+{{DropsLine|name=Steel arrow|quantity=6|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Silver stone spirit|quantity=1|rarity=10/128}}
+{{DropsLine|name=Iron stone spirit|quantity=1|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{GeneralSeedDropTableIntro|16/128}}
+{{DropsTableHead}}
+{{GeneralSeedDropTable|16/128|level=35}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=80|rarity=26/128}}
+{{DropsLine|name=Coins|quantity=150|rarity=12/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}|gemw=no}}
+{{DropsLine|name=Clay|quantity=1 (noted)|rarity=8/128}}
+{{DropsLine|name=Cake|quantity=1|rarity=6/128}}
+{{DropsLine|name=Medium spiky steel salvage|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=35|members=yes}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineMimic|level=35|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|members=yes
+|quantity = 1
+|gold = 30.195/1000
+|green = 15.098/1000
+|crimson = 37.744/1000
+|blue = 1.51/1000
+}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Fiends concept art.png|Concept art for [[Pyrefiends]], Icefiends and [[Waterfiend]]s
+</gallery>
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Ice Mountain
+|item1 = {{GU|subject=npc
+|{{GUL|date=[[15 March]] [[2006]]|update=Hundredth Quest - Recipe for Disaster!|img=Icefiend (2006).png|name=Icefiend}}
+<!--
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Icefiend (June 2008).png|name=Icefiend}}
+-->
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Icefiend (2008).png|name=Icefiend}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Icefiend (2014).png|name=Icefiend}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Icefiend.png|name=Icefiend}}
+}}
+|text2 = Ice Mountain (melting)
+|item2 = {{GU|subject=npc
+<!--
+|{{GUL|date=[[7 May]] [[2008]]|update=Perils of Ice Mountain|img=Icefiend (melting) (May 2008).png|name=Icefiend (melting)}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Icefiend (melting) (June 2008).png|name=Icefiend (melting)}}
+-->
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Icefiend (melting) (July 2008).png|name=Icefiend}}
+|{{GUL|date=[[26 August]] [[2014]]|update=Patch Notes (26 August 2014)|img=Icefiend (melting) (2014).png|name=Icefiend}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Icefiend.png|name=Icefiend}}
+}}
+}}
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Icefiends have been graphically updated.
+
+* {{UL|type=patch|update=This Week In RuneScape: Ninja Strike 26 - Souped Up Statues|date=13 September 2021}}
+** The Icefiends on Ice Mountain will no longer attack using fire.
+
+* {{UL|type=patch|update=Patch Notes (19 August 2019)|date=19 August 2019}}
+** Fixed an issue where Ice fiends killed on [[Ice Mountain]] were not counted towards slayer assignments.
+
+* {{UL|type=patch|update=Patch Notes (12 June 2017)|date=12 June 2017}}
+** Icefiends on Ice Mountain now drop souls that can be collected by [[Ushabti]] Jars.
+
+* {{UL|type=patch|update=Patch Notes (23 November 2015)|date=23 November 2015}}
+** Corrected the melee attack accuracy for the following NPCs: [[Dagannoth Mother]], Dominion Tower Dagannoth Mother, [[Temple at Senntisten]] quest fiends and [[Cockatrices]].
+
+* {{UL|type=ninja|update=Patch Notes (26 August 2014)|date=26 August 2014}}
+** [[Pyrefiend]] and icefiend models and animations have been updated to use the God Wars models and animations.
+
+* {{UL|type=patch|update=Patch Notes (4 December 2012)|date=4 December 2012}}
+** Icefiends have been updated.
+
+* {{UL|type=patch|update=Patch Notes (8 March 2011)|date=8 March 2011}}
+** Icefiends now correctly drop [[impious ashes]].
+
+* {{UL|type=update|update=Hundredth Quest - Recipe for Disaster!|date=15 March 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* When standing still, icefiends appear to shiver occasionally.
+* Icefiends don't count towards a [[slayer task]] when [[recoil]]ed to death. This bug has been known since at least 2015, and has yet to be fixed. The only way to finish the task is to get someone else to [[co-op]] with and have them kill the icefiends.
+* Despite being ice demons, they attack with [[Fire Strike]].
+
+{{Recipe for Disaster: Freeing the Mountain Dwarf}}
+{{The Temple at Senntisten}}
+{{Demons}}
+{{Elementals}}
+{{God Wars Dungeon}}
+[[Category:Participants in the God Wars]]

@@ -1,0 +1,157 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = Level 70
+|version2 = Level 105
+|version3 = Level 119
+|version4 = Level 133
+|name = Lesser demon
+|image1 = [[File:Lesser demon (Dungeoneering).png|200px]]
+|image2 = [[File:Lesser demon (Dungeoneering, 2).png|200px]]
+|image3 = [[File:Lesser demon (Dungeoneering, 3).png|200px]]
+|image4 = [[File:Lesser demon (Dungeoneering, 4).png|200px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark
+|examine1 = Lesser, but still pretty big.
+|level1 = 70
+|level2 = 105
+|level3 = 119
+|level4 = 133
+|lifepoints1 = 5000
+|lifepoints2 = 7500
+|lifepoints3 = 8500
+|lifepoints4 = 9500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Lesser demons, Creatures of Daemonheim
+|max_melee1 = 200
+|max_melee2 = 300
+|max_melee3 = 340
+|max_melee4 = 380
+|max_ranged = 0
+|max_magic1 = 200
+|max_magic2 = 300
+|max_magic3 = 340
+|max_magic4 = 380
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack1 = 50
+|attack2 = 75
+|attack3 = 85
+|attack4 = 95
+|ranged = 1
+|magic1 = 50
+|magic2 = 75
+|magic3 = 85
+|magic4 = 95
+|necromancy = 1
+|acc_melee1 = 850
+|acc_melee2 = 1694
+|acc_melee3 = 2178
+|acc_melee4 = 2765
+|acc_ranged = 0
+|acc_magic1 = 850
+|acc_magic2 = 1694
+|acc_magic3 = 2178
+|acc_magic4 = 2765
+|acc_necromancy = 0
+|armour1 = 850
+|armour2 = 1486
+|armour3 = 1924
+|armour4 = 2765
+|defence1 = 50
+|defence2 = 75
+|defence3 = 85
+|defence4 = 95
+|weakness = Arrows
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10492
+|id2 = 10493
+|id3 = 10494
+|id4 = 10495
+|leagueRegion = Wilderness
+}}
+'''Lesser demons''' are monsters found in [[Daemonheim]], on the [[Occult floors|occult]] and [[warped floors]]. Unlike the [[lesser demon]]s that dwell on the surface, these monsters are capable of using [[melee]] in addition to a different variant of [[magic]] attacks. They are fairly strong and accurate for their level, with a weakness to [[arrows]].
+
+They will always attack the player without a [[shadow silk hood]] first. If there are various players without a shadow silk hood, they will start attacking the player with the lowest combat level.
+
+Higher levelled Lesser demons have a powerful melee attack that is usually accurate. If players get close it will use its melee attack much more often then its magic attack, which it only uses once before reverting back to melee attacks.
+
+Each demon will have a different look that will represent its combat level. A lower level demon will be completely red, while higher level demons will have a look similar to a light red demon with spikes on its shoulders.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Accursed ashes (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = 1
+|item1 = 
+{{GU|subject=npc
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Lesser demon (Dungeoneering) (2010).png|name=Lesser demon (1)}}
+|{{GUL|date=[[28 January]] [[2013]]|update=Demon Flash Mobs|img=Lesser demon (Dungeoneering).png|name=Lesser demon (1)}}
+}}
+
+|text2 = 2
+|item2 =
+{{GU|subject=npc
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Lesser demon (Dungeoneering, 2) (2010).png|name=Lesser demon (2)}}
+|{{GUL|date=[[28 January]] [[2013]]|update=Demon Flash Mobs|img=Lesser demon (Dungeoneering, 2).png|name=Lesser demon (2)}}
+}}
+
+|text3 = 3
+|item3 =
+{{GU|subject=npc
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Lesser demon (Dungeoneering, 3) (2010).png|name=Lesser demon (3)}}
+|{{GUL|date=[[28 January]] [[2013]]|update=Demon Flash Mobs|img=Lesser demon (Dungeoneering, 3).png|name=Lesser demon (3)}}
+}}
+
+|text4 = 4
+|item4 =
+{{GU|subject=npc
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Lesser demon (Dungeoneering, 4) (2010).png|name=Lesser demon (4)}}
+|{{GUL|date=[[28 January]] [[2013]]|update=Demon Flash Mobs|img=Lesser demon (Dungeoneering, 4).png|name=Lesser demon (4)}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Demon Flash Mobs|date=28 January 2013}}
+** Graphically updated.
+
+* {{UL|type=update|update=Chat Changes & Camera Controls|date=4 October 2011}}
+** Lesser demons in Daemonheim now drop [[Accursed ashes (Dungeoneering)|accursed ashes]] instead of [[Ashes (Dungeoneering)|ashes]].
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+==Trivia==
+* Lesser demons outside Daemonheim are weak against [[bolts]], whereas lesser demons found in Daemonheim are weak against arrows.
+
+{{Dungeoneering monsters}}
+{{Demons}}

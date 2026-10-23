@@ -1,0 +1,163 @@
+{{External|os}}
+{{Infobox Monster
+|name = Zakl'n Gritch
+|image = [[File:Zakl'n Gritch.png|175px]]
+|release = [[28 August]] [[2007]]
+|update = God Wars Dungeon
+|members = Yes
+|actions = Attack
+|examine = Scourge of the Light.
+|level = 102
+|lifepoints = 7500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 272.8
+|slayercat = Lesser demons, Demons
+|max_melee = 0
+|max_ranged = 365
+|max_magic = 0
+|max_spec = N/A
+|style = ranged
+|speed = 5
+|attack = 1
+|ranged = 73
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 0
+|acc_ranged = 1608
+|acc_magic = 0
+|armour = 1299
+|defence = 73
+|weakness = Stab
+|susceptibility = Demon Slayer
+|aff_weakness = 90
+|aff_melee = 65
+|aff_ranged = 55
+|aff_magic = 45
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|id = 6206
+|leagueRegion=Asgarnia}}
+'''Zakl'n Gritch''' is one of [[K'ril Tsutsaroth]]'s bodyguards, along with [[Balfrug Kreeyath]] and [[Tstanon Karlak]]. He uses the [[Ranged]] style of the combat triangle in K'ril's chamber. His fearsome appearance and power over ice have earned him the nickname "Scourge of the Light", being a prominent soldier in [[Zamorak]]'s army.
+
+He attacks by throwing large icicles, using them as javelins. He is considered to be a [[lesser demon]] for slayer assignments.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Zamorak's Fortress]]
+|lvls=102
+|mem=yes
+|requirements = {{scp|Constitution|70}}{{Not boostable}}
+|mapID=15
+|npcid:6206,x:2932,y:5328
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+The drop table rolls out of 128 normally, however this is improved to 126 while tier 2 or higher [[luck]] is active. This slightly decreases the chance of 1300-1400 coins (in the [[#Other|Other]] section) from 66/128 to 64/126, while slightly improving the chance of everything else.
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Infernal ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Unique table===
+''There is a 1 in 128 chance to roll the unique table (1/126 with tier 2 or higher luck). Then there is a 8/512 chance to roll for any unique item; otherwise, coins are awarded.''
+
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1300-1400|rarity=504/{{#expr:128*512}}|citations={{CiteDevBlog|author=Mod Timbo|url=http://services.runescape.com/m=forum/forums.ws?74,75,52,65949497,goto,15#147|title=Revealing Drop Rates|blogdate=20 October 2017|archiveurl=https://reldo.runescape.wiki/i/25774089|archivedate=24 May 2018|name=Timbo}}|altrarity=504/{{#expr:126*512}}}}
+{{DropsLine|name=Steam battlestaff|quantity=1|rarity=1/{{#expr:128*512}}|raritynotes={{DropNote|name=unique|1/8,192 for any unique item.}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*512}}}}
+{{DropsLine|name=Zamorakian spear|quantity=1|rarity=1/{{#expr:128*512}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*512}}}}
+{{DropsLine|name=Hood of subjugation|quantity=1|rarity=1/{{#expr:128*512}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*512}}}}
+{{DropsLine|name=Garb of subjugation|quantity=1|rarity=1/{{#expr:128*512}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*512}}}}
+{{DropsLine|name=Gown of subjugation|quantity=1|rarity=1/{{#expr:128*512}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*512}}}}
+{{DropsLine|name=Gloves of subjugation|quantity=1|rarity=1/{{#expr:128*512}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*512}}}}
+{{DropsLine|name=Boots of subjugation|quantity=1|rarity=1/{{#expr:128*512}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*512}}}}
+{{DropsLine|name=Ward of subjugation|quantity=1|rarity=1/{{#expr:128*512}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*512}}}}
+{{DropsTableBottom}}
+
+===Godsword shard table===
+''There is a 1 in 128 chance to roll the shard table (1/126 with tier 2 or higher luck). Then there is a 3/12 chance to roll for any godsword shard; otherwise, coins are awarded.''
+
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1300-1400|rarity=9/{{#expr:128*4*3}}|altrarity=9/{{#expr:126*4*3}}}}
+{{DropsLine|name=Godsword shard 1|quantity=1|rarity=1/{{#expr:128*4*3}}|raritynotes={{DropNote|name=shard|1/512 for any godsword shard.}}|altrarity=1/{{#expr:126*4*3}}}}
+{{DropsLine|name=Godsword shard 2|quantity=1|rarity=1/{{#expr:128*4*3}}|raritynotes={{DropNote|name=shard}}|altrarity=1/{{#expr:126*4*3}}}}
+{{DropsLine|name=Godsword shard 3|quantity=1|rarity=1/{{#expr:128*4*3}}|raritynotes={{DropNote|name=shard}}|altrarity=1/{{#expr:126*4*3}}}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Steel arrow|quantity=95-100|rarity=7/128|altrarity=7/126}}
+{{DropsLine|name=Death rune|quantity=5-10|rarity=8/128|altrarity=8/126}}
+{{DropsLine|name=Blood rune|quantity=5-10|rarity=8/128|altrarity=8/126}}
+{{DropsLine|name=Steel dart|quantity=95-100|rarity=8/256|altrarity=8/252}}
+{{DropsLine|name=Off-hand steel dart|quantity=95-100|rarity=8/256|altrarity=8/252}}
+{{DropsTableBottom}}
+
+===Furniture plans===
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Zamorak altar|quantity=1|rarity=}}
+{{DropsLine|name=Furniture plans: Zamorak rug|quantity=1|rarity=}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1300-1400|rarity=66/128|gemw=No|altrarity=64/126}}
+{{DropsLine|name=Shark|quantity=3|rarity=9/128|altrarity=9/126}}
+{{DropsLine|name=Tuna potato|quantity=2|rarity=8/128|altrarity=8/126}}
+{{DropsLine|name=Wine of Zamorak|quantity=5-10 (noted)|rarity=8/128|altrarity=8/126}}
+{{DropsLine|name=Super attack (3)|quantity=1|rarity=2/128|altrarity=2/126}}
+{{DropsLine|name=Super strength (3)|quantity=1|rarity=2/128|altrarity=2/126}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=10/1280}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=396/128000|raritynotes={{DropNote|This drop only attempts to roll should you fail to roll a hard clue. Should you get this item, there's a 1% chance it'll be upgraded to a [[sealed clue scroll (master)]].}}}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=4/128000}}
+{{DropsLineWarpriest|god=zamorak}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Zakl'n Gritch (2007).png|name=Zakl'n Gritch}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zakl'n Gritch (2008).png|name=Zakl'n Gritch}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Zakl'n Gritch.png|name=Zakl'n Gritch}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=God Wars: Remastered|date=5 September 2012}}
+** Zakl'n Gritch has been graphically updated.
+
+* {{UL|type=update|update=God Wars Dungeon|date=28 August 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* "Gritch" may be a reference to the children's holiday story "The Grinch". This is supported by the fact that his attacks are snow based, and "The Grinch" takes place in a snowy village.
+* Before the graphical update, Zakl'n Gritch's attack consisted of him scooping snow from the floor, accumulating it into a snowball before hurling it at the target. He also resembled more of a lesser demon, being the only one of K'ril's bodyguards to lack wings.
+** As a result of the graphical update, he essentially became an [[Alyaroth]] ([[greater demon]]), although he is still coded as a [[Byzroth]] (lesser demon). Despite this, he does not drop the lesser demon's [[Champion scroll (lesser demon)|champion scroll]].
+* His [[Knowledge Base]] description was "For decades before his imprisonment in the ice, [[Temple Knight]] assassins attempted to slay 'The Gritch', due to its relentless reign of destruction upon their sacred lands. Each brave (yet foolish) attempt ended in failure, while the few that did return alive could only utter two words... "bloodshed" and "horror"."
+
+==References==
+{{Reflist}}
+
+{{God Wars Dungeon}}
+{{Demons}}
+{{Untold Tales of the God Wars}}
+[[Category:Zamorakians]]
+[[Category:Participants in the God Wars]]
+[[Category:Boss minions]]

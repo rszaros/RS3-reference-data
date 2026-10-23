@@ -1,0 +1,56 @@
+{{Infobox Monster
+|name = Pitiful zombie
+|image = [[File:Pitiful zombie.png|200px]]
+|release = [[24 April]] [[2012]]
+|update = Fremennik Sagas
+|members = Yes
+|options = Attack
+|race = Zombie
+|examine = Smell almost as bad as Marm's socks.
+|level = 56
+|lifepoints = 4000
+|experience = 0.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Zombies, Undead
+|max_melee = 100
+|max_ranged = 100
+|max_magic = 100
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 40
+|ranged = 40
+|magic = 40
+|necromancy = 1
+|acc_melee = 300
+|acc_ranged = 300
+|acc_magic = 300
+|acc_necromancy = 0
+|armour = 300
+|defence = 40
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|restriction = quest
+|leagueRegion = Wilderness
+|id = 15307
+}}
+A '''pitiful zombie''' (also called '''What's that smell?''', '''Stinky man''' and '''Needs ointment''') is [[Thok]]'s name for a [[Zombie (Dungeoneering)|zombie]] encountered during [[Thok Your Block Off (saga)|Thok Your Block Off]]. Thok easily kills it.
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Fremennik Sagas|date=24 April 2012}}
+** Added to game.
+}}
+
+{{Thok Your Block Off (saga)}}

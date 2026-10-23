@@ -1,0 +1,59 @@
+{{Infobox Monster
+|version1 = Regular
+|version2 = Hydra
+|name1 = Ahrntim the Blighted
+|name2 = Ahrntim the Blighted (hydra)
+|image1 = [[File:Ahrntim the Blighted.png|150px]]
+|image2 = [[File:Ahrntim the Blighted (hydra).png|150px]]
+|release = [[14 April]] [[2020]]
+|update = Game Update: Ninja Strike 3 - Shattered Worlds
+|members = Yes
+|actions = Attack, Examine
+|examine = Should two lots of corruption cancel out?
+|level = 98
+|lifepoints = 12000
+|experience = 600.0
+|aggressive = No
+|poisonous = No
+|slayercat = Ghosts, Undead
+|max_melee = 0.0
+|max_ranged = 0.0
+|max_magic = 1260
+|max_necromancy = 0
+|style = magic
+|primarystyle = magic
+|speed = 6
+|attack = 1
+|ranged = 1
+|magic = 70
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 1566
+|acc_necromancy = 0
+|armour = 1299
+|defence = 70
+|weakness = Nothing
+|susceptibility = Salve
+|aff_weakness = 65
+|aff_melee = 65
+|aff_ranged = 65
+|aff_magic = 65
+|immune_to_poison = No
+|restriction = minigame
+|id1 = 27045
+|id2 = 27059
+|leagueRegion = Asgarnia
+}}
+'''Ahrntim the Blighted''' is a monster that can be found in [[Shattered Worlds]] on a boss world. Every fifth world that a player enters has a chance of spawning this boss after a certain percentage of monsters are killed. He is a copy of [[Ahrim the Blighted]].
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update= Game Update: Ninja Strike 3 - Shattered Worlds|date=14 April 2020}}
+** Added to game.
+}}
+
+{{Shattered Worlds}}

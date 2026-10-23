@@ -1,0 +1,105 @@
+{{External|os|dw}}
+{{Infobox Monster
+|version1 = Small with normal tail
+|version2 = Large
+|version3 = Small with cut tail
+|name = Zombie rat
+|image1 = [[File:Zombie rat.png]]
+|image2 = [[File:Zombie rat 2.png]]
+|image3 = [[File:Zombie rat 3.png]]
+|release = [[23 September]] [[2001]]
+|update = Dragon quest online!
+|members = No
+|actions = Attack
+|examine = Overgrown undead vermin.
+|level = 2
+|lifepoints = 100
+|experience = 5.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6.4
+|slayercat = Rats, Zombies, Undead
+|max_melee = 8
+|max_ranged = 0
+|max_magic = 0
+|style = melee
+|speed = 4
+|attack = 2
+|ranged = 0
+|magic = 0
+|acc_melee = 120
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 120
+|defence = 2
+|weakness = Water
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|dropsversion1=Small with normal tail
+|dropsversion2=No key
+|dropsversion3=No key
+|id1 = 6088
+|id2 = 6089
+|id3 = 6090
+|leagueRegion = Asgarnia
+}}
+A '''zombie rat''' is a monster only found in [[Melzar's Maze]]. It has three versions: small with a normal tail, large, and small with a cut tail. All versions have the same stats. During the [[Dragon Slayer]] quest and afterwards, players can kill the small rat with the normal tail to obtain a [[Key (Melzar's Maze)|red key]], used to advance in the maze.
+
+The zombie rat is quite similar to the [[giant rat]] except with a few cuts, gashes, and a washed-out colour. There are also several other [[undead]] monsters in the maze - such as [[zombie]]s, [[skeleton]]s and [[ghost]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Melzar's Maze]]
+|lvls=2
+|requirements = Partial completion of {{QuestIcon|Dragon Slayer}}
+|mem=no
+|mapID=28
+|npcid:6090,x:2925,y:3256|npcid:6089,x:2928,y:3244|npcid:6088,x:2930,y:3252,icon:greenPin
+|npcid:6090,x:2931,y:3249|npcid:6089,x:2934,y:3254
+|leagueRegion = Asgarnia}}
+{{LocTableBottom}}
+The green pin on the map marks the rat that drops the key.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Key (red)|rarity=Always|quantity=1|gemw=no|version=Small with normal tail}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Rat's tail|rarity=Always|quantity=1|gemw=no|version=No key|raritynotes={{DropNote|Only during [[Witch's Potion (miniquest)]].}}{{DropNote|Not dropped by the zombie rat that drops the red key.}}}}
+{{DropsLine|name=Giant rat bone|rarity=Always|quantity=1|gemw=no|raritynotes={{DropNote|Only during [[Rag and Bone Man]].}}}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Dragon quest online!|date=23 September 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* These rats count toward the task [[Lumbridge and Draynor Tasks#Introductory Tasks|Am I a Blademaster Yet?]].
+
+{{Dragon Slayer}}
+{{Rats}}
+{{Zombie}}

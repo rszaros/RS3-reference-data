@@ -1,0 +1,299 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Level 73 (Dual wielding swords)
+|version2 = Level 74
+|version3 = Level 74 (Magic)
+|version4 = Level 79
+|name = Suqah
+|image1 = [[File:Suqah 2.png|150px]]
+|image2 = [[File:Suqah.png|150px]]
+|image3 = [[File:Suqah.png|150px]]
+|image4 = [[File:Suqah.png|150px]]
+|release = [[24 July]] [[2006]]
+|update = Lunar Diplomacy
+|members = Yes
+|options = Attack
+|examine = A strange creature unique to Lunar Isle.
+|level1 = 73
+|level2 = 74
+|level3 = 74
+|level4 = 79
+|lifepoints = 2650
+|experience = 132.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 47.4
+|slayxp2 = 49.8
+|slayxp3 = 49.8
+|slayxp4 = 57.6
+|slayercat = Suqahs
+|assigned_by = Duradel, Kuradal
+|max_melee1 = 380.0
+|max_melee2 = 349.8
+|max_melee3 = 349.8
+|max_melee4 = 349.8
+|max_ranged = 0
+|max_magic1 = 380.0
+|max_magic2 = 349.8
+|max_magic3 = 349.8
+|max_magic4 = 349.8
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle4 = melee
+|speed = 4
+|attack1 = 55
+|attack2 = 53
+|attack3 = 53
+|attack4 = 53
+|ranged = 1
+|magic1 = 55
+|magic2 = 53
+|magic3 = 53
+|magic4 = 53
+|necromancy = 1
+|acc_melee1 = 1040
+|acc_melee2 = 3498
+|acc_melee3 = 3498
+|acc_melee4 = 3498
+|acc_ranged = 0
+|acc_magic1 = 1040
+|acc_magic2 = 928
+|acc_magic3 = 928
+|acc_magic4 = 928
+|acc_necromancy = 0
+|armour1 = 850
+|armour2 = 928
+|armour3 = 928
+|armour4 = 1132
+|defence1 = 50
+|defence2 = 53
+|defence3 = 53
+|defence4 = 60
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 4530, 4531
+|id2 = 4528, 4529, 4533
+|id3 = 4527
+|id4 = 4532
+|dropsversion1=Level 73
+|dropsversion2=Level 74
+|dropsversion3=Level 74
+|dropsversion4=Level 79
+|leagueRegion = Fremennik
+}}
+[[File:Suqah icon.png|left]]
+'''Suqahs''' are a race of strange-looking but powerful creatures native to [[Lunar Isle]]. Players must have at least started [[Lunar Diplomacy]] to have access to Lunar Isle. Despite their fearsome nature, they have a peaceful relationship with the [[Moon Clan]] (which gave magic to them to protect themselves according to the [[Oneiromancer]]), but are aggressive to outsiders, effectively serving as guards.
+
+A suqah will try to attack with melee, even at a distance. Those on the northern part of the isle attack with melee and a weak version of [[Ice Barrage]] or [[Water Wave]] on their opponents. The Ice Barrage attack always only freezes the player for about five seconds -  it is still possible to fight or eat while frozen, but not possible to walk or run.
+
+Suqahs on the southern portion of the island do not use Ice Barrage, making them the more common target for [[Slayer assignments]]. However, these suqahs are more widespread and, therefore, less efficient for the use of a [[dwarf multicannon]]. Though it is more costly due to the necessity of extra food or [[prayer potion]]s required for Protect From Magic, killing the suqahs on the northern portion of the island with a dwarf multicannon drastically speeds up Slayer tasks. When wearing a [[twisted bird skull necklace]]/[[split dragontooth necklace]]/[[demon horn necklace]] along with a [[bonecrusher]] and a dwarf multicannon, players will regain [[prayer points]] very fast.
+
+A caged suqah is on the bottom deck of Captain Bentley's ship, the ''[[Lady Zay]]'', docked on Lunar Isle, which attacks with magic but only when the door is open; therefore, it can be ranged/maged/halberded in complete safety. Note that this suqah will not appear when the ship is docked at the [[Pirates' Cove]].
+
+Suqahs mainly drop [[Suqah tooth|suqah teeth]] or [[herbs]], and rarely drop anything else. Suqah teeth can be sold to the [[tooth fairy]] for 2,000 coins each after [[A Fairy Tale III - Battle at Ork's Rift]]. Suqah teeth are also one of the five components needed to get the [[tooth creature]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Suqah
+|loc = [[Lunar Isle]], north of town
+|mem = Yes
+|mapID = 28
+|plane = 0
+|lvls = 73
+|npcid:4530,x:2125,y:3950
+|npcid:4530,x:2133,y:3949
+|npcid:4530,x:2141,y:3933
+|npcid:4531,x:2147,y:3944
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|name = Suqah
+|loc = [[Lunar Isle]], north of town
+|mem = Yes
+|mapID = 28
+|plane = 0
+|lvls = 74
+|npcid:4528,x:2093,y:3942
+|npcid:4527,x:2122,y:3953
+|npcid:4527,x:2137,y:3946
+|npcid:4527,x:2142,y:3939
+|npcid:4527,x:2143,y:3948
+|npcid:4527,x:2148,y:3935
+|npcid:4527,x:2149,y:3940
+|npcid:4527,x:2155,y:3943
+|npcid:4529,x:2122,y:3949
+|npcid:4533,x:2135,y:3930
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|name = Suqah
+|loc = [[Lunar Isle]], north of town
+|mem = Yes
+|mapID = 28
+|plane = 0
+|lvls = 79
+|npcid:4532,x:2160,y:3937
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|name = Suqah
+|loc = Hold of the ''[[Lady Zay]]''
+|mem = Yes
+|mapID = 28
+|plane = 0
+|lvls = 74
+|npcid:4527,x:2142,y:3900
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|name = Suqah
+|loc = [[Lunar Isle]], south of town
+|mem = Yes
+|mapID = 28
+|plane = 0
+|lvls = 73
+|npcid:4530,x:2064,y:3880
+|npcid:4531,x:2075,y:3886
+|npcid:4531,x:2136,y:3853
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|name = Suqah
+|loc = [[Lunar Isle]], south of town
+|mem = Yes
+|mapID = 28
+|plane = 0
+|lvls = 74
+|npcid:4527,x:2079,y:3882
+|npcid:4528,x:2070,y:3878
+|npcid:4529,x:2106,y:3866
+|npcid:4528,x:2120,y:3856
+|npcid:4529,x:2132,y:3871
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|name = Suqah
+|loc = [[Lunar Isle]], south of town
+|mem = Yes
+|mapID = 28
+|plane = 0
+|lvls = 79
+|npcid:4532,x:2101,y:3871
+|npcid:4532,x:2141,y:3856
+|leagueRegion = Fremennik
+}}
+{{LocTableBottom}}
+
+==Safe spots==
+<gallery mode="packed" heights="150" style="text-align:left">
+Suqah safe spot.png|Ranging a suqah from a safe spot.
+Suqah safe spot 2.png|One of the many other safe spots.
+</gallery>
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Suqah hide|quantity=1|rarity=Always|gemw=No}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=A special tiara|quantity=1|rarity=1/2|raritynotes={{DropNote|Only dropped during [[Lunar Diplomacy]] after asking [[Meteora]] about her headgear.}}|citations={{CiteTwitter|author=Mod Ash|url=https://twitter.com/jagexash/status/1541753132589453312|date=28 June 2022|archiveurl=https://reldo.runescape.wiki/i/98288|archivedate=28 June 2022|quote=50%, available to people who've had the "One o doews Suqah did nick it. Wish I ad it back, yeah." diaogue from Meteora.}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/127|gemw=No|raritynotes={{DropNote|Rolls separately, first.}}}}
+{{DropsLine|name=Suqah tooth|quantity=1|rarity=68/129|gemw=No}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity=30/129}}
+{{DropsLine|name=Grimy marrentill|quantity=1|rarity=25/129}}
+{{DropsLine|name=Nothing|rarity=1/129}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/129}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=73|version=Level 73}}
+{{DropsLineEffigy|level=74|version=Level 74}}
+{{DropsLineEffigy|level=79|version=Level 79}}
+{{DropsLineMimic|level=73|version=Level 73}}
+{{DropsLineMimic|level=74|version=Level 74}}
+{{DropsLineMimic|level=79|version=Level 79}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity=1
+|gold=168.949/1000
+|green=84.474/1000
+|crimson=56.316/1000
+|blue=67.58/1000
+}}
+
+==Gallery==
+{{needs image|type=npc|several variants of suqah}}
+<gallery captionalign="left">
+Suqah.png|Grey shield, helmet (level 74)
+Suqah (red).png|Red shield (level 74)
+Suqah 2.png|Two mismatched swords, no helmet (level 73)
+Suqah (two swords).png|Two matching swords, helmet (level 73)
+Suqah (blue, helmet).png|Blue shield, helmet (level 79)
+Suqah (blue).png|Blue shield, no helmet (level 74)
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes suqah.
+
+* {{UL|type=patch|update=Patch Notes (23 October 2017)|date=23 October 2017}}
+** Several suqah spawn locations have been moved to tiles accessible to players.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for suqahs.
+
+* {{UL|type=patch|update=Patch Notes (5 May 2015)|date=5 May 2015}}
+** Suqahs will no longer use melee attacks from a distance.
+
+* {{UL|type=patch|update=Patch Notes (8 July 2009)|date=8 July 2009}}
+** Suqahs now drop [[charm]]s more consistently.
+
+* {{UL|type=update|update=Lunar Diplomacy|date=24 July 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* Suqahs appear to be capable of hitting players at a distance with their melee attacks. It is unknown whether or not this is a glitch.
+* Their appearance and attacking animation were updated along with the [[Livid Farm]] update.
+
+==References==
+{{Reflist}}
+
+{{Lunar Diplomacy}}
+[[Category:Lunar Isle]]

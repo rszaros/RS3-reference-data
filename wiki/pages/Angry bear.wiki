@@ -1,0 +1,109 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = A Soul's Bane
+|version2 = Post-quest
+|name = Angry bear
+|image = [[File:Angry bear.png|220px]]
+|release = [[3 April]] [[2006]]
+|update = A Soul's Bane
+|members = No
+|options = Attack, Examine
+|race = Bear
+|examine = He looks a little on the cross side!
+|level1 = 40
+|level2 = 35
+|lifepoints = 1250
+|slaylvl = 1
+|slayxp1 = 0
+|slayxp2 = 14.0
+|slayercat1 = No
+|slayercat2 = Bears
+|experience = 62.5
+|aggressive = Yes
+|poisonous = No
+|max_melee1 = 175
+|max_melee2 = 100
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed1 = 7
+|speed2 = 4
+|attack = 25
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 381
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 381
+|defence = 25
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison2 = No
+|immune_to_deflect2 = No
+|immune_to_stun2 = No
+|immune_to_drain2 = No
+|restriction1 = quest
+|restriction2 = surface
+|id1 = 3645
+|id2 = 3664
+|leagueRegion = Misthalin
+}}
+
+An '''Angry bear''' is a [[monster]] that appears during [[A Soul's Bane]] [[quest]], or afterwards, in [[Tolna's rift]].
+
+During the quest, it can only be killed with the [[anger spear]]. After the quest, it can be fought with any weapon. Angry bears will count towards a [[Bears (Slayer assignment)|bears Slayer assignment]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Angry bear
+|loc = [[Tolna's rift]]
+|mem = No
+|requirements={{QuestIcon|A Soul's Bane}} (partial)
+|mapID = 4
+|plane = 0
+|lvls = 35
+|npcid:3664,x:3269,y:9843
+|npcid:3664,x:3275,y:9833
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[3 April]] [[2006]]|update=A Soul's Bane|img=Angry bear (April 2006).png|name=Angry bear}}
+|{{GUL|date=[[18 October]] [[2006]]|update=Player-Owned House Costume Room|img=Angry bear (October 2006).png|name=Angry bear}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Angry bear (2008).png|name=Angry bear}}
+|{{GUL|date=[[22 January]] [[2024]]|update=Community Hitlist and Necromancy Embargo - This Week In RuneScape|img=Angry bear.png|name=Angry bear}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Community Hitlist and Necromancy Embargo - This Week In RuneScape|date=22 January 2024}}
+** Updated the Angry Unicorn, Bear and Giant Rat in Tolna's Rift to use newer models.
+
+* {{UL|type=patch|update=Patch Notes (28 January 2013)|date=28 January 2013}}
+** Angry bears have had their attack and defend animations restored.
+
+* {{UL|type=update|update=A Soul's Bane|date=3 April 2006}}
+** Added to game.
+}}
+
+{{A Soul's Bane}}
+{{Bears}}
+
+[[Category:Quest monsters]]

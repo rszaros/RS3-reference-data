@@ -1,0 +1,174 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 14
+|version3 = 28
+|version4 = 42
+|version5 = 56
+|version6 = 70
+|version7 = 84
+|version8 = 98
+|version9 = 112
+|version10 = 126
+|version11 = 138
+|name = Ice warrior
+|image = [[File:Ice warrior (Daemonheim).png|200px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|examine = A cold-hearted elemental warrior.
+|level1 = 1
+|level2 = 14
+|level3 = 28
+|level4 = 42
+|level5 = 56
+|level6 = 70
+|level7 = 84
+|level8 = 98
+|level9 = 112
+|level10 = 126
+|level11 = 138
+|lifepoints1 = 100
+|lifepoints2 = 1000
+|lifepoints3 = 2000
+|lifepoints4 = 3000
+|lifepoints5 = 4000
+|lifepoints6 = 5000
+|lifepoints7 = 6000
+|lifepoints8 = 7000
+|lifepoints9 = 8000
+|lifepoints10 = 9000
+|lifepoints11 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ice warriors, Creatures of Daemonheim
+|max_melee1 = 4
+|max_melee2 = 40
+|max_melee3 = 80
+|max_melee4 = 120
+|max_melee5 = 160
+|max_melee6 = 200
+|max_melee7 = 240
+|max_melee8 = 280
+|max_melee9 = 320
+|max_melee10 = 360
+|max_melee11 = 396
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 1
+|attack2 = 10
+|attack3 = 20
+|attack4 = 30
+|attack5 = 40
+|attack6 = 50
+|attack7 = 60
+|attack8 = 70
+|attack9 = 80
+|attack10 = 90
+|attack11 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 110
+|acc_melee2 = 202
+|acc_melee3 = 316
+|acc_melee4 = 454
+|acc_melee5 = 628
+|acc_melee6 = 850
+|acc_melee7 = 1132
+|acc_melee8 = 1486
+|acc_melee9 = 1924
+|acc_melee10 = 2458
+|acc_melee11 = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 150
+|armour3 = 202
+|armour4 = 257
+|armour5 = 316
+|armour6 = 454
+|armour7 = 628
+|armour8 = 850
+|armour9 = 1132
+|armour10 = 1486
+|armour11 = 1924
+|defence1 = 1
+|defence2 = 10
+|defence3 = 20
+|defence4 = 30
+|defence5 = 40
+|defence6 = 50
+|defence7 = 60
+|defence8 = 70
+|defence9 = 80
+|defence10 = 90
+|defence11 = 99
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10225
+|id2 = 10226
+|id3 = 10227
+|id4 = 10228
+|id5 = 10229
+|id6 = 10230
+|id7 = 10231
+|id8 = 10232
+|id9 = 10233
+|id10 = 10234
+|id11 = 10235
+|leagueRegion = Wilderness
+}}
+'''Ice warriors''' may be encountered while training [[Dungeoneering]]. Their weapon of choice is the rapier, and they can sometimes drop it. They are weakest against fire spells. At higher levels these monsters can easily be fatal to any player without sufficient armour or [[Protect from Melee]].
+
+==Drops==
+===Monster-specific===
+This monster can drop various rapiers when killed. The tier of the rapier corresponds with the level of the ice warrior. For example, promethium rapiers are only dropped by level 126 ice warriors.
+
+{{Dungeoneering droptable/head}}
+{{Dungeoneering droptable/line|Image=Novite rapier.png|Name=Novite rapier|Tier=1|Smugvalue=210|Members=No}}
+{{Dungeoneering droptable/line|Image=Bathus rapier.png|Name=Bathus rapier|Tier=2|Smugvalue=510|Members=No}}
+{{Dungeoneering droptable/line|Image=Marmaros rapier.png|Name=Marmaros rapier|Tier=3|Smugvalue=960|Members=No}}
+{{Dungeoneering droptable/line|Image=Kratonite rapier.png|Name=Kratonite rapier|Tier=4|Smugvalue=1320|Members=No}}
+{{Dungeoneering droptable/line|Image=Fractite rapier.png|Name=Fractite rapier|Tier=5|Smugvalue=1830|Members=No}}
+{{Dungeoneering droptable/line|Image=Zephyrium rapier.png|Name=Zephyrium rapier|Tier=6|Smugvalue=2130|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Argonite_rapier.png|Name=Argonite rapier|Tier=7|Smugvalue=2670|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Katagon rapier.png|Name=Katagon rapier|Tier=8|Smugvalue=3030|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Gorgonite_rapier.png|Name=Gorgonite rapier|Tier=9|Smugvalue=3450|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Promethium_rapier.png|Name=Promethium rapier|Tier=10|Smugvalue=4080|Members=Yes}}
+|}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (16 January 2017)|date=16 January 2017}}
+** Ice warriors that were inconsistently weak to air, water or earth are now weak to fire.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}

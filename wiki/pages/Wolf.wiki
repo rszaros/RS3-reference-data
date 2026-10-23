@@ -1,0 +1,260 @@
+{{External|os|rsc=Grey wolf|dw}}
+{{otheruses|standard wolves|other wolves|Wolf (disambiguation)}}
+{{Infobox Monster
+|version1 = Level 8 (1)
+|version2 = Level 8 (2)
+|version3 = Level 11 (1)
+|version4 = Level 11 (2)
+|defver=3
+|name = Wolf
+|image1 = [[File:Wolf (Stronghold of Security, 1).png]]
+|image2 = [[File:Wolf (Stronghold of Security, 2).png]]
+|image3 = [[File:Wolf (level 11).png]]
+|image4 = [[File:Wolf (level 11).png]]
+|release1 = [[4 July]] [[2006]]
+|release2 = [[4 July]] [[2006]]
+|release3 = [[27 February]] [[2002]]
+|release4 = [[27 August]] [[2002]]
+|update1 = Security and free-to-play update - the Stronghold of Security
+|update2 = Security and free-to-play update - the Stronghold of Security
+|update3 = Latest RuneScape News (27 February 2002)
+|update4 = Multi-part quest
+|members1 = No
+|members2 = No
+|members3 = No
+|members4 = Yes
+|actions = Attack
+|race = Wolf
+|examine1 = Not man's best friend.
+|examine2 = Not man's best friend.
+|examine3 = Not man's best friend.
+|examine4 = A social killer.
+|level1 = 8
+|level2 = 8
+|level3 = 11
+|level4 = 11
+|lifepoints1 = 1300
+|lifepoints2 = 1300
+|lifepoints3 = 1550
+|lifepoints4 = 1550
+|experience1 = 65.0
+|experience2 = 65.0
+|experience3 = 77.5
+|experience4 = 77.5
+|aggressive1 = No
+|aggressive2 = No
+|aggressive3 = No
+|aggressive4 = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 23
+|slayercat = Wolves
+|assigned_by = Turael, Mazchna, Vannaka
+|max_melee1 = 160
+|max_melee2 = 160
+|max_melee3 = 200
+|max_melee4 = 200
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 8
+|attack2 = 8
+|attack3 = 10
+|attack4 = 10
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 81
+|acc_melee2 = 81
+|acc_melee3 = 102
+|acc_melee4 = 102
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 140
+|armour2 = 140
+|armour3 = 160
+|armour4 = 160
+|defence1 = 4
+|defence2 = 4
+|defence3 = 6
+|defence4 = 6
+|weakness1 = Fire
+|weakness2 = Fire
+|weakness3 = Water
+|weakness4 = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 4413
+|id2 = 4414
+|id3 = 95
+|id4 = 6047
+|leagueRegion=Kandarin, Misthalin, Asgarnia}}
+[[File:Wolf icon.png|left]]
+'''Wolves''' are canine enemies that can be found in various places around [[Gielinor]]. They have a variety of different combat levels, but level 11 wolves are the most common and can be found on [[White Wolf Mountain]], and level 8 wolves only being found in the [[Stronghold of Security]]. They can be a slayer assignment for low-level players.
+
+Their [[wolf bones|bones]] can be used with a [[chisel]] to create [[Wolf bone arrowheads]] used to make [[ogre arrow]]s, which are necessary for completing [[Big Chompy Bird Hunting]] and [[Recipe for Disaster: Freeing Skrach Uglogwee|Freeing Skrach Uglogwee]] during [[Recipe for Disaster]]. The bones are also used to create [[Spirit wolf pouch]]es.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Arandar]] entrance
+|lvls=11
+|mem=yes
+|mapID=28
+|npcid:95,x:2398,y:3330|npcid:95,x:2406,y:3329
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Ardougne Zoo]]
+|lvls=11
+|mem=yes
+|mapID=28
+|npcid:95,x:2616,y:3283|npcid:95,x:2620,y:3283
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Feldip Hills]]
+|lvls=11
+|mem=yes
+|mapID=28
+|npcid:95,x:2496,y:2959|npcid:95,x:2498,y:2968|npcid:95,x:2500,y:2959
+|npcid:95,x:2502,y:2969|npcid:95,x:2509,y:2964|npcid:95,x:2602,y:2955
+|npcid:95,x:2605,y:2963|npcid:95,x:2607,y:2967|npcid:95,x:2610,y:2958
+|npcid:95,x:2610,y:2961|npcid:95,x:2610,y:2965
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Gnome Maze]]
+|lvls=11
+|mem=yes
+|mapID=28
+|npcid:95,x:2516,y:3197|npcid:95,x:2548,y:3179
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=North of the [[Battlefield]]
+|lvls=11
+|mem=yes
+|mapID=28
+|npcid:95,x:2447,y:3287|npcid:95,x:2450,y:3284|npcid:95,x:2454,y:3280
+|npcid:95,x:2458,y:3274|npcid:95,x:2462,y:3274|npcid:95,x:2465,y:3273
+|npcid:95,x:2465,y:3275|npcid:95,x:2470,y:3272|npcid:95,x:2472,y:3274
+|npcid:95,x:2477,y:3275|npcid:95,x:2478,y:3272|npcid:95,x:2480,y:3274
+|npcid:95,x:2483,y:3273|npcid:95,x:2485,y:3269|npcid:95,x:2489,y:3269
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Stronghold of Security]] (Vault of War - Floor 1)
+|lvls=8
+|mem=no
+|mapID=24
+|npcid:4413,x:14,y:146|npcid:4413,x:15,y:149|npcid:4413,x:15,y:156
+|npcid:4413,x:16,y:153|npcid:4413,x:17,y:159|npcid:4414,x:30,y:108
+|npcid:4414,x:31,y:141|npcid:4414,x:33,y:107|npcid:4414,x:33,y:111
+|npcid:4414,x:33,y:134|npcid:4414,x:33,y:137|npcid:4414,x:34,y:144
+|npcid:4414,x:36,y:137|npcid:4414,x:36,y:140|npcid:4414,x:38,y:113
+|npcid:4414,x:41,y:109
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=West of [[Oo'glog]]
+|lvls=11
+|mem=yes
+|mapID=28
+|npcid:95,x:2440,y:2834|npcid:95,x:2443,y:2874|npcid:95,x:2449,y:2844
+|npcid:95,x:2459,y:2848|npcid:95,x:2460,y:2870|npcid:95,x:2466,y:2837
+|npcid:95,x:2470,y:2865|npcid:95,x:2477,y:2857|npcid:95,x:2492,y:2847
+|npcid:95,x:2492,y:2858|npcid:95,x:2454,y:2880|npcid:95,x:2467,y:2882
+|npcid:95,x:2480,y:2924|npcid:95,x:2483,y:2887|npcid:95,x:2492,y:2908
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=West of [[Sinclair Mansion]]
+|lvls=11
+|mem=yes
+|mapID=28
+|npcid:95,x:2647,y:3584|npcid:95,x:2680,y:3585|npcid:95,x:2682,y:3592
+|npcid:95,x:2706,y:3580|npcid:95,x:2717,y:3569
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[White Wolf Mountain]] base
+|lvls=11
+|mem=no
+|mapID=28
+|npcid:95,x:2858,y:3504|npcid:95,x:2858,y:3508|npcid:95,x:2860,y:3506
+|npcid:95,x:2862,y:3504
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[White Wolf Mountain]] peak
+|lvls=11
+|mem=yes
+|mapID=28
+|npcid:6047,x:2835,y:3502|npcid:6047,x:2838,y:3505|npcid:6047,x:2840,y:3491
+|npcid:6047,x:2845,y:3494|npcid:6047,x:2846,y:3490
+|leagueRegion = Asgarnia}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw wolf meat|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+====White Wolf Mountain====
+{{CharmDataTable|Wolf (level 25)}}
+====Common====
+{{CharmDataTable|Wolf (level 60)}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bone|quantity=1|rarity=Common|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]] activity.}}|gemw=no}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=White wolf (2004).png|name=Wolf}}
+|{{GUL|date=[[4 June]] [[2007]]|update=Hair of the dog|img=Wolf (level 11)  (2007).png|name=Wolf}}
+|{{GUL|date=|update=|img=Wolf (level 11).png|name=Wolf}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament &amp; Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Patch Notes (4 December 2017)|date=4 December 2017}}
+** Wolves now drop wolf bones and wolf meat instead of bones on free worlds.
+
+* {{UL|type=patch|update=Patch Notes (9 February 2011)|date=9 February 2011}}
+** This monster npc has been given a turn-on-the-spot animation.
+
+* {{UL|type=patch|update=Patch Notes (1 February 2011)|date=1 February 2011}}
+** This monster npc no longer stands perfectly still once they stop moving for a short time.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+==Trivia==
+* In the Stronghold of Security's first floor, one can see minotaurs and wolves squaring up to each other.
+
+{{Wolves}}
+[[pt:Lobo]]

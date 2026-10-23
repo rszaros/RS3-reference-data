@@ -1,0 +1,387 @@
+{{External|rsc|os}}
+{{Otheruses|Wilderness zombies|other uses|Zombie (disambiguation)}}
+{{Infobox Monster
+|version1 = Level 22 (1)
+|version2 = Level 22 (2)
+|version3 = Level 22 (3)
+|version4 = Level 29 (1)
+|version5 = Level 29 (2)
+|version6 = Level 29 (3)
+|version7 = Level 29 (4)
+|name = Zombie
+|image1 = [[File:Zombie (Wilderness, 1).png]]
+|image2 = [[File:Zombie (Wilderness, 2).png]]
+|image3 = [[File:Zombie (Wilderness, 3).png]]
+|image4 = [[File:Zombie (Wilderness, 4).png]]
+|image5 = [[File:Zombie (Wilderness, 5).png]]
+|image6 = [[File:Zombie (Wilderness, 6).png]]
+|image7 = [[File:Zombie (Wilderness, 7).png]]
+|members = No
+|actions = Attack, Examine
+|race = Zombie
+|examine1 = Dead man walking.
+|examine2 = Dead man walking.
+|examine3 = Dead man walking.
+|examine4 = The walking dead.
+|examine5 = The walking dead.
+|examine6 = The walking dead.
+|examine7 = The walking dead.
+|leagueRegion = Wilderness
+|level1 = 22
+|level2 = 22
+|level3 = 22
+|level4 = 29
+|level5 = 29
+|level6 = 29
+|level7 = 29
+|lifepoints1 = 800
+|lifepoints2 = 800
+|lifepoints3 = 800
+|lifepoints4 = 1050
+|lifepoints5 = 1050
+|lifepoints6 = 1050
+|lifepoints7 = 1050
+|experience1 = 40.0
+|experience2 = 40.0
+|experience3 = 40.0
+|experience4 = 52.5
+|experience5 = 52.5
+|experience6 = 52.5
+|experience7 = 52.5
+|aggressive = Yes
+|poisonous = No
+|slayxp1 = 9.8
+|slayxp2 = 9.8
+|slayxp3 = 9.8
+|slayxp4 = 12
+|slayxp5 = 12
+|slayxp6 = 12
+|slayxp7 = 12
+|slayercat = Zombies
+|max_melee1 = 64
+|max_melee2 = 105
+|max_melee3 = 105
+|max_melee4 = 105
+|max_melee5 = 105
+|max_melee6 = 105
+|max_melee7 = 105
+|max_ranged = 0.0
+|max_magic = 0.0
+|style = melee
+|primarystyle = melee
+|speed1 = 4
+|speed2 = 4
+|speed3 = 4
+|speed4 = 5
+|speed5 = 5
+|speed6 = 5
+|speed7 = 5
+|attack1 = 16
+|attack2 = 21
+|attack3 = 21
+|attack4 = 21
+|attack5 = 21
+|attack6 = 21
+|attack7 = 21
+|ranged = 1
+|magic = 1
+|acc_melee1 = 268
+|acc_melee2 = 329
+|acc_melee3 = 329
+|acc_melee4 = 329
+|acc_melee5 = 329
+|acc_melee6 = 329
+|acc_melee7 = 329
+|acc_ranged = 0
+|acc_magic = 0
+|armour1 = 268
+|armour2 = 329
+|armour3 = 329
+|armour4 = 329
+|armour5 = 329
+|armour6 = 329
+|armour7 = 329
+|defence1 = 16
+|defence2 = 21
+|defence3 = 21
+|defence4 = 21
+|defence5 = 21
+|defence6 = 21
+|defence7 = 21
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|dropversion4 = Level 29
+|dropversion5 = Level 29
+|dropversion6 = Level 29
+|dropversion7 = Level 29
+|id1 = 5310
+|id2 = 5311
+|id3 = 5312,5313
+|id4 = 5323
+|id5 = 5324,5326
+|id6 = 5325
+|id7 = 5327
+}}
+Wilderness '''zombies''' are a form of undead found in the [[Graveyard of Shadows]]. They attack with [[melee]] and have a low resistance to magical attacks, particularly [[fire spells]].
+
+Only level 29 zombies (the ones wearing a helm) have secondary drops.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Graveyard of Shadows]]
+|lvls=22, 29
+|mem=no
+|mapID=28
+|npcid:5310,x:3213,y:3684,desc:NPC ID&colon; 5310<br />Drops charms and spirit gems
+|npcid:5312,x:3214,y:3668
+|npcid:5324,x:3214,y:3686,desc:NPC ID&colon; 5324<br />Has secondary drops
+|npcid:5312,x:3218,y:3691
+|npcid:5311,x:3219,y:3686
+|npcid:5325,x:3223,y:3675,desc:NPC ID&colon; 5325<br />Has secondary drops
+|npcid:5323,x:3224,y:3695,desc:NPC ID&colon; 5323<br />Has secondary drops
+|npcid:5313,x:3226,y:3688
+|npcid:5311,x:3227,y:3673
+|npcid:5327,x:3229,y:3678,desc:NPC ID&colon; 5327<br />Drops charms and has secondary drops
+|npcid:5326,x:3232,y:3685,desc:NPC ID&colon; 5326<br />Has secondary drops
+|npcid:5310,x:3233,y:3679,desc:NPC ID&colon; 5310<br />Drops charms and spirit gems
+|npcid:5310,x:3234,y:3695,desc:NPC ID&colon; 5310<br />Drops charms and spirit gems
+|npcid:5310,x:3236,y:3690,desc:NPC ID&colon; 5310<br />Drops charms and spirit gems
+|npcid:5311,x:3237,y:3687
+|npcid:5325,x:3237,y:3692,desc:NPC ID&colon; 5325<br />Has secondary drops
+|npcid:5311,x:3238,y:3696
+|npcid:5311,x:3240,y:3690
+|npcid:5312,x:3241,y:3694
+|npcid:5313,x:3242,y:3685
+|npcid:5313,x:3243,y:3692
+|leagueRegion=Wilderness
+}}
+{{LocTableBottom}}
+
+==Champion's Challenge==
+Zombies are one of the 'races' who have a lesser champion in the [[Champion's Challenge]] [[Distraction and Diversion]]. To fight the [[Zombie Champion]], the player must kill zombies until one drops a [[Zombie Champion's scroll|champion's scroll]], a 1/5000 drop.
+
+While [[undead one]]s count towards a zombie slayer task, they do not drop champions' scrolls.
+
+==Drops==
+===Level 22===
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|Zombie#Level 22}}
+
+====100% drop====
+{{DropsTableHead|version=Level 22}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+====Tertiary drops====
+{{DropsTableHead|version=Level 22}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|gemw=no|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|members=yes}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no|members=yes}}
+{{DropsLineSpiritGems|members=yes|version=Level 22 (1)}}
+{{DropsLineMimic|members=yes|level=22|version=Level 22 (1)}}
+{{DropsLineEffigy|members=yes|level=22|version=Level 22 (1)}}
+{{DropsTableBottom}}
+
+=====Charms=====
+Charms are only dropped by four specific level 22 zombies, indicated in the [[#Locations|map]].<!--Only dropped by ID 5310-->
+
+{{CharmDropTable
+|version=Level 22 (1)
+|members=yes
+|quantity=1
+|gold=26.768/1000
+|green=13.384/1000
+|crimson=8.923/1000
+|blue=10.707/1000
+}}
+
+===Level 29===
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|Zombie#Level 29}}
+
+====100% drop====
+{{DropsTableHead|version=Level 29}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+====Salvage====
+{{DropsTableHead|version=Level 29}}
+{{DropsLine|name=Tiny blunt iron salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny spiky iron salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium plated bronze salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Runes and ammunition====
+{{DropsTableHead|version=Level 29}}
+{{DropsLine|name=Air rune|quantity=3|rarity=3/128}}
+{{DropsLine|name=Mithril arrow|quantity=1|rarity=3/128}}
+{{DropsLine|name=Body rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Fire rune|quantity=7|rarity=1/128}}
+{{DropsLine|name=Chaos rune|quantity=4|rarity=1/128}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Herbs====
+{{HerbDropTableIntro|30/128|version=Level 29}}
+{{DropsTableHead}}
+{{HerbDropTable|30/128|f2p=yes}}
+{{DropsTableBottom}}
+
+====Coins====
+{{DropsTableHead|version=Level 29}}
+{{DropsLine|name=Coins|quantity=18|rarity=21/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=10|rarity=10/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=26|rarity=8/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=35|rarity=6/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=1|rarity=2/128|gemw=No}}
+{{DropsTableBottom}}
+
+====Other====
+{{DropsTableHead|version=Level 29}}
+{{DropsLine|name=Fishing bait|quantity=7|rarity=26/128}}
+{{DropsLine|name=Nothing|rarity=3/128}}
+{{DropsLine|name=Tinderbox|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tin stone spirit|quantity=1|rarity=1/128}}
+{{DropsLine|name=Eye of newt|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Gem drop table====
+{{GemDropTable|1/128|version=Level 29}}
+
+====Tertiary drops====
+{{DropsTableHead|version=Level 29}}
+{{BeginnerWeaponsDropLines}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|gemw=no|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|members=yes}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no|members=yes}}
+{{DropsLineSpiritGems|members=yes|version=Level 29 (4)}}
+{{DropsLineMimic|members=yes|level=22|version=Level 29 (4)}}
+{{DropsLineEffigy|members=yes|level=22|version=Level 29 (4)}}
+{{DropsTableBottom}}
+
+=====Charms=====
+Charms are only dropped by one specific level 29 zombie, indicated in the [[#Locations|map]].<!--Only dropped by ID 5327-->
+
+{{CharmDropTable
+|members=yes
+|version=Level 29 (4)
+|quantity=1
+|gold=33.52/1000
+|green=16.76/1000
+|crimson=11.173/1000
+|blue=13.408/1000
+}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = 1
+|text2 = 2
+|text3 = 3
+|text4 = 4
+|text5 = 5
+|text6 = 6
+|text7 = 7
+|text8 = 8
+|text9 = 9
+|item1 = {{GU|subject=NPCs
+|{{GUL|date=[[4 January]] [[2001]]|update=Runescape beta is now online!|img=Zombie (2001).png|name=Zombie}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Zombie (2004).png|name=Zombie}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie (Wilderness, 1) (2007).png|name=Zombie (Wilderness, 1)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie (Wilderness, 1) (2008).png|name=Zombie (Wilderness, 1)}}
+|{{GUL|date=[[15 May]] [[2023]]|update=MHAW & Double XP - This Week In RuneScape|img=Zombie (Wilderness, 1).png|name=Zombie (Wilderness, 1)}}
+}}
+|item2 = {{GU|subject=NPCs
+|{{GUL|date=[[4 January]] [[2001]]|update=Runescape beta is now online!|img=Zombie (2001).png|name=Zombie}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Zombie (2004).png|name=Zombie}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie (Wilderness, 2) (2007).png|name=Zombie (Wilderness, 2)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie (Wilderness, 2) (2008).png|name=Zombie (Wilderness, 2)}}
+|{{GUL|date=[[15 May]] [[2023]]|update=MHAW & Double XP - This Week In RuneScape|img=Zombie (Wilderness, 2).png|name=Zombie (Wilderness, 2)}}
+}}
+|item3 = {{GU|subject=NPCs
+|{{GUL|date=[[4 January]] [[2001]]|update=Runescape beta is now online!|img=Zombie (2001).png|name=Zombie}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Zombie (2004).png|name=Zombie}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie (Wilderness, 3) (2007).png|name=Zombie (Wilderness, 3)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie (Wilderness, 3) (2008).png|name=Zombie (Wilderness, 3)}}
+|{{GUL|date=[[15 May]] [[2023]]|update=MHAW & Double XP - This Week In RuneScape|img=Zombie (Wilderness, 3).png|name=Zombie (Wilderness, 3)}}
+}}
+|item4 = {{GU|subject=NPCs
+|{{GUL|date=[[4 January]] [[2001]]|update=Runescape beta is now online!|img=Zombie (2001).png|name=Zombie}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Zombie (2004).png|name=Zombie}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie (Wilderness, 4) (2007).png|name=Zombie (Wilderness, 4)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie (Wilderness, 4) (2008).png|name=Zombie (Wilderness, 4)}}
+|{{GUL|date=[[15 May]] [[2023]]|update=MHAW & Double XP - This Week In RuneScape|img=Zombie (Wilderness, 3).png|name=Zombie (Wilderness, 4)}}
+}}
+|item5 = {{GU|subject=NPCs
+|{{GUL|date=[[4 January]] [[2001]]|update=Runescape beta is now online!|img=Zombie (armed) (2001).png|name=Zombie (armed)}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Zombie (armed) (2004).png|name=Zombie (armed)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie (Wilderness, 5) (2007).png|name=Zombie (Wilderness, 5)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie (Wilderness, 5) (2008).png|name=Zombie (Wilderness, 5)}}
+|{{GUL|date=[[15 May]] [[2023]]|update=MHAW & Double XP - This Week In RuneScape|img=Zombie (Wilderness, 4).png|name=Zombie (Wilderness, 5)}}
+}}
+|item6 = {{GU|subject=NPCs
+|{{GUL|date=[[4 January]] [[2001]]|update=Runescape beta is now online!|img=Zombie (armed) (2001).png|name=Zombie (armed)}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Zombie (armed) (2004).png|name=Zombie (armed)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie (Wilderness, 6) (2007).png|name=Zombie (Wilderness, 6)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie (Wilderness, 6) (2008).png|name=Zombie (Wilderness, 6)}}
+|{{GUL|date=[[15 May]] [[2023]]|update=MHAW & Double XP - This Week In RuneScape|img=Zombie (Wilderness, 5).png|name=Zombie (Wilderness, 6)}}
+}}
+|item7 = {{GU|subject=NPCs
+|{{GUL|date=[[4 January]] [[2001]]|update=Runescape beta is now online!|img=Zombie (armed) (2001).png|name=Zombie (armed)}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Zombie (armed) (2004).png|name=Zombie (armed)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie (Wilderness, 7) (2007).png|name=Zombie (Wilderness, 7)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie (Wilderness, 7) (2008).png|name=Zombie (Wilderness, 7)}}
+|{{GUL|date=[[15 May]] [[2023]]|update=MHAW & Double XP - This Week In RuneScape|img=Zombie (Wilderness, 6).png|name=Zombie (Wilderness, 7)}}
+}}
+|item8 = {{GU|subject=NPCs
+|{{GUL|date=[[4 January]] [[2001]]|update=Runescape beta is now online!|img=Zombie (armed) (2001).png|name=Zombie (armed)}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Zombie (armed) (2004).png|name=Zombie (armed)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie (Wilderness, 8) (2007).png|name=Zombie (Wilderness, 8)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie (Wilderness, 8) (2008).png|name=Zombie (Wilderness, 8)}}
+|{{GUL|date=[[15 May]] [[2023]]|update=MHAW & Double XP - This Week In RuneScape|img=Zombie (Wilderness, 7).png|name=Zombie (Wilderness, 8)}}
+}}
+|item9 = {{GU|subject=NPCs
+|{{GUL|date=[[4 January]] [[2001]]|update=Runescape beta is now online!|img=Zombie (armed) (2001).png|name=Zombie (armed)}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Zombie (armed) (2004).png|name=Zombie (armed)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie (Wilderness, 9) (2007).png|name=Zombie (Wilderness, 9)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie (Wilderness, 9) (2008).png|name=Zombie (Wilderness, 9)}}
+|{{GUL|date=[[15 May]] [[2023]]|update=MHAW & Double XP - This Week In RuneScape|img=Zombie (Wilderness, 4).png|name=Zombie (Wilderness, 9)}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=MHAW & Double XP - This Week In RuneScape|date=15 May 2023}}
+** Updated models for skeletons, zombies and giant rats within the Wilderness, giving them the new [[Unwelcome Guests]] models.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Zombies can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (9 November 2009)|date=9 November 2009}}
+** Reworked various zombie and [[skeleton]] combat animations.
+
+* {{UL|type=patch|update=Patch Notes (25 March 2009)|date=25 March 2009}}
+** Stopped a zombie from playing a human animation that made it appear to explode briefly. Zombies in RuneScape have enough to worry about without an irrational fear of spontaneous combustion.
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Zombies, skeletons and ghosts have been graphically updated.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* An update on [[12 April]] [[2010]] made the sound of the zombies when they get hit much deeper than previously.
+* Zombies drop fishing bait commonly. It is revealed in [[Let Them Eat Pie]] and [[Recipe for Disaster]] that fishing bait is actually maggots, which are often found on corpses.
+
+{{Zombie}}

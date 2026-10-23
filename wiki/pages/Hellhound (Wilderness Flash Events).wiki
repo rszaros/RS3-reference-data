@@ -1,0 +1,89 @@
+{{Redirect|Wilderness hellhounds|normal hellhounds found in the Wilderness|Hellhound}}
+{{Deleted content|update=Patch Notes: Dailyscape Overhaul}}
+{{Infobox Monster
+|name = Hellhound
+|image = [[File:Hellhound (Wilderness Flash Events).png|x280px]]
+|release = [[17 October]] [[2022]]
+|update = Wilderness Flash Events - This Week In RuneScape
+|removal = [[16 March]] [[2026]]
+|removalupdate = Patch Notes: Dailyscape Overhaul
+|members = Yes
+|actions = Attack, Examine
+|race = Avernic
+|examine = Hello, nice doggy...
+|level = 104
+|lifepoints = 10,250
+|experience = 512.5
+|aggressive = Yes
+|slaylvl = 1
+|slayercat = Hellhounds
+|max_melee = 768
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|attack = 80
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 1924
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 1486
+|defence = 70
+|weakness = Slash
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = removed
+|id = 29602
+|leagueRegion = No
+}}
+The '''hellhounds''' are [[monster]]s involved in the Hellhound Pack event in [[Wilderness Flash Events]].
+
+During the event, they spawn near the [[Ladder (Death Plateau/Wilderness)|ladder]] to the [[All Fired Up (minigame)|east of Death Plateau beacon]] in [[Trollheim]], just south of the [[green dragon]]s. Players taking part must deal at least 70K damage to obtain a reward, while the players collectively must kill a varying number of them, depending on the number of players in the area. The event end in five minutes or once the collective target has been met, whichever happens first. Successful completion of the event yields a [[Combat XP lamp (Wilderness Flash Events)|combat XP lamp]] and a [[sack of wild rewards]].
+
+Unlike their naturally occurring counterparts, they are not vulnerable to certain weaponry such as [[Darklight]] or [[Holy water]].
+
+Their [[life points]] scale with the number of players in the area. The possible values are 10,250<!-- N = 1, 22 group target -->, 12,500<!-- N = 2 -->, 19,250, 28,000, 28,250<!--38 group target-->, 30,000, 30,500<!--40 group target-->, 46,250<!--54 group target--> and 48,500<!--56 group target-->. The life points scale with the number of players participating in the event, determined by the expression <math>8\,000 + 2\,250N</math>, where <math>N</math> is the number of players involved.
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[17 October]] [[2022]]|update=Wilderness Flash Events - This Week In RuneScape|img=Hellhound (Wilderness Flash Events) (2022).png|name=Hellhound (Wilderness Flash Events)}}
+|{{GUL|date=[[6 February]] [[2023]]|update=Prepping For Fort Forinthry - This Week In RuneScape|img=Hellhound (Wilderness Flash Events).png|name=Hellhound (Wilderness Flash Events)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch_Notes:_Dailyscape_Overhaul|date=16 March 2026}}
+** Removed from game.
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Prepping For Fort Forinthry - This Week In RuneScape|date=6 February 2023}}
+** Updated the appearance of hellhounds by adjusting their roughness and metal spec values.
+
+* {{UL|type=update|update=Wilderness Flash Events - This Week In RuneScape|date=17 October 2022}}
+** Added to game.
+}}
+
+{{Wilderness Flash Events}}
+{{Demons}}

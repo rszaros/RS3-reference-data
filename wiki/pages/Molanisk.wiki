@@ -1,0 +1,162 @@
+{{External|os}}
+{{Switch infobox
+|text1 = Monster
+|item1 = 
+{{Infobox Monster
+|name = Molanisk
+|image = [[File:Molanisk.png|130px]]
+|release = [[20 March]] [[2007]]
+|update = Dorgesh-Kaan
+|members = Yes
+|actions = Attack
+|examine = A strange mole-like being.
+|level = 44
+|lifepoints = 6150
+|experience = 307.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 39
+|slayxp = 49.6
+|slayercat = Molanisks
+|max_melee = 0
+|max_ranged = 500
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 25
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 281
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 590
+|defence = 38
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Misthalin
+|id = 5751
+}}
+|text2 = Wall
+|item2 = 
+{{Infobox Scenery
+|name = Molanisk
+|image = Molanisk (scenery).png
+|release = [[20 March]] [[2007]]
+|update = Dorgesh-Kaan
+|members = Yes
+|quest = No
+|location = [[Dorgesh-Kaan South Dungeon]]
+|actions = Lure
+|examine = That white dot looks like an eye!
+|map = {{Object map|objectname=Molanisk|mapID=-1|objectid=22545|x:2727,y:5234|x:2742,y:5231|x:2703,y:5227|x:2732,y:5221|x:2704,y:5215|x:2713,y:5213|x:2740,y:5209|x:2747,y:5206|x:2730,y:5205|x:2712,y:5193}}
+|leagueRegion = Misthalin
+|id = 22545
+}}
+}}
+[[File:Molanisk icon.png|left]]
+'''Molanisks''' are [[Slayer]] monsters that require level 39 Slayer to kill. A [[Slayer bell]] is necessary to fight them (toolbelted Slayer bell will work). Players should remember to bring a [[light sources|light source]] when fighting them, as they are only found underground. 
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Dorgesh-Kaan South Dungeon]]
+|lvls=44
+|mem=yes
+|mapID=-1
+|npcid:5751,x:2727,y:5234
+|npcid:5751,x:2742,y:5231
+|npcid:5751,x:2703,y:5227
+|npcid:5751,x:2732,y:5221
+|npcid:5751,x:2704,y:5215
+|npcid:5751,x:2713,y:5213
+|npcid:5751,x:2740,y:5209
+|npcid:5751,x:2747,y:5206
+|npcid:5751,x:2730,y:5205
+|npcid:5751,x:2712,y:5193
+|leagueRegion=Misthalin
+}}
+{{LocTableBottom}}
+
+===Getting there===
+Molanisks reside in the [[Dorgesh-Kaan South Dungeon]] inside [[Dorgesh-Kaan]], which can be reached either by [[Fairy ring]] {{fairycode|AJQ}}, by [[Dorgesh-kaan sphere]], or through the [[Dorgesh-Kaan mine]] from [[Lumbridge]]. The Dorgesh-Kaan South Dungeon itself is located directly south of the city and can be accessed by going directly south until you come to the [[Dorgesh-Kaan Agility Course]]. Once there, a ladder can be used into the dungeon proper where, slightly to the south-east (take the first pathway to the east, near the water) a single Molanisk can be seen.
+
+==Strategy==
+Molanisks are found attached to cave walls and must be lured off with a [[Slayer bell]] to allow players to attack them. When lured off the wall, they are aggressive towards the player who lured them off with the bell. Molanisks respawn relatively quickly, so players who want to conserve run energy can just stay at the same respawn location. However, after the [[22 June]] [[2009]] [[Update:Extended Agility courses|update]] for run energy and extended [[Agility]] Courses, players with even mid-range levels of [[Agility]] can usually recover their [[Energy|run energy]] while fighting a molanisk. For these players, it is thus faster to run between two molanisks, the best pair being those south of the fairy ring.
+
+Molanisks have a low maximum hit and their attacks aren't very accurate, however their hits can mount up. Therefore, a small amount of food is recommended up to defence level 80 for larger tasks (over 100). An alternative would be picking up [[bones]] and using the spell [[Bones to Bananas]] or [[Bones to Peaches]]. Due to their maximum hit being so low, level 60 [[Defence]] and [[Adamant equipment#Armour|adamant armour]] is sufficient.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Earth rune|quantity=1-20|rarity=10/128}}
+{{DropsLine|name=Water rune|quantity=1-14|rarity=10/128}}
+{{DropsLine|name=Cosmic rune|quantity=1-7|rarity=5/128}}
+{{DropsLine|name=Nature rune|quantity=1-5|rarity=3/128}}
+{{DropsLine|name=Mud rune|quantity=1-15|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|32/128}}
+{{DropsTableHead}}
+{{HerbDropTable|32/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Swamp weed|quantity=1-4|rarity=27/128}}
+{{DropsLine|name=Swamp weed|quantity=1-8|rarity=20/128}}
+{{DropsLine|name=Coins|quantity=1-75|rarity=6/128}}
+{{DropsLine|name=Wergali seed|quantity=1|rarity=4/128}}
+{{DropsLine|name=Mole claw|quantity=1|rarity=1/128}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|7/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament &amp; Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Dorgesh-Kaan|date=20 March 2007}}
+** Added to game.
+}}
+
+==Trivia==
+*In addition to not showing up as a yellow dot on the minimap while on the wall, they can also be seen from the floor above while doing the [[Dorgesh-Kaan Agility Course|Agility Course]], which further shows that they are coded as objects rather than NPCs.
+
+{{Slayer monsters}}
+[[Category:NPCs with multiple Examine options]]

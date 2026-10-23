@@ -1,0 +1,291 @@
+{{External|rsc|os|dw}}
+{{Otheruses|def=no|the Ancient Summoning familiar|Hellhound (familiar)|other uses|Hellhound (disambiguation)}}
+{{Infobox Monster
+|version1 = Level 92
+|version2 = Level 105
+|name = Hellhound
+|image = [[File:Hellhound.png|x280px]]
+|release1 = [[27 February]] [[2002]]
+|release2 = [[1 August]] [[2022]]
+|update1 = Latest RuneScape News (27 February 2002)
+|update2 = Wilderness Reborn & New Quest - This Week In RuneScape
+|members = No
+|options = Attack
+|examine1 = Hello, nice doggy...
+|examine2 = Hello, nice doggy...
+|leagueRegion1 = Asgarnia,Kandarin,Wilderness
+|leagueRegion2 = Wilderness
+|level1 = 92
+|level2 = 105
+|lifepoints1 = 3300
+|lifepoints2 = 9500
+|experience1 = 165.0
+|experience2 = 475.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 93.8
+|slayxp2 = 371
+|slayercat = Hellhounds
+|assigned_by = Sumona,Lapalok,Kuradal,Mandrith
+|max_melee1 = 264
+|max_melee2 = 1080
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 66
+|attack2 = 75
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 1335
+|acc_melee2 = 1694
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1335
+|defence1 = 66
+|defence2 = 75
+|weakness = Slash, darklight
+|susceptibility = Demon slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Level 92
+|dropversion2 = Level 105
+|id1 = 49
+|id2 = 29357
+}}
+[[File:Hellhound icon.png|left]]
+'''Hellhounds''' are mid- to high-level monsters often given as a [[slayer assignment]] to mid- to high-level players. However, despite being susceptible to [[demon slayer (effect)|demon slayer]], they do not count for the [[demons (Slayer assignment)|demons]] Slayer assignment; they only count for their own specific [[hellhounds (Slayer assignment)|hellhounds]] assignment.
+
+Hellhounds are primarily killed for [[gold charm]]s and [[clue scroll (hard)|hard clue scrolls]], although more emphasis is put on the latter, as hellhounds have the highest drop rate of hard clues of all monsters that drop them.
+
+==Locations==
+[[File:Hellhounds Taverley.png|thumb|Hellhounds in their lair under Taverley.]]
+{{LocTableHead}}
+{{LocLine
+|loc=[[Taverley hellhound resource dungeon]]
+|lvls=92
+|mem=yes
+|requirements = {{Skillreq|Dungeoneering|55}}
+|mapID=378
+|npcid:49,x:1362,y:4570|npcid:49,x:1364,y:4577|npcid:49,x:1367,y:4568
+|npcid:49,x:1367,y:4573|npcid:49,x:1368,y:4563|npcid:49,x:1370,y:4575
+|npcid:49,x:1371,y:4582|npcid:49,x:1371,y:4587|npcid:49,x:1372,y:4570
+|npcid:49,x:1376,y:4572|npcid:49,x:1377,y:4578|npcid:49,x:1380,y:4585
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Kuradal's Dungeon]]
+|lvls=92
+|mem=yes
+|mapID=-1
+|npcid:49,x:1637,y:5254|npcid:49,x:1639,y:5256|npcid:49,x:1640,y:5252
+|npcid:49,x:1643,y:5257|npcid:49,x:1644,y:5253|npcid:49,x:1648,y:5253
+|npcid:49,x:1648,y:5257
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Witchaven Dungeon]]
+|lvls=92
+|mem=yes
+|mapID=612
+|npcid:49,x:2734,y:9688|npcid:49,x:2734,y:9693
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Taverley Dungeon]]
+|lvls=92
+|mem=yes
+|mapID=17
+|npcid:49,x:2851,y:9849|npcid:49,x:2855,y:9837|npcid:49,x:2856,y:9847
+|npcid:49,x:2857,y:9841|npcid:49,x:2859,y:9852|npcid:49,x:2861,y:9837
+|npcid:49,x:2864,y:9851|npcid:49,x:2867,y:9840|npcid:49,x:2868,y:9833
+|npcid:49,x:2869,y:9829|npcid:49,x:2870,y:9826|npcid:49,x:2871,y:9819
+|npcid:49,x:2871,y:9822
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Wilderness Crater]] (level 23 [[Wilderness]])
+|lvls=92
+|mem=no
+|npcid:49,x:3103,y:3704|npcid:49,x:3104,y:3678|npcid:49,x:3110,y:3687
+|npcid:49,x:3116,y:3688|npcid:49,x:3117,y:3674|npcid:49,x:3121,y:3679
+|npcid:49,x:3127,y:3667|npcid:49,x:3127,y:3677|npcid:49,x:3133,y:3678
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=Northwest of the [[Flesh-hatcher Mhekarnahz resource dungeon]] (level 34 [[Wilderness]])
+|lvls=105
+|mem=no
+|npcid:29357,x:3335,y:3786|npcid:29357,x:3332,y:3771|npcid:29357,x:3341,y:3780
+|npcid:29357,x:3347,y:3796
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=Northeast of the [[Ruins (east)|Eastern Ruins]] (level 31 [[Wilderness]])
+|lvls=105
+|mem=no
+|npcid:29357,x:3286,y:3770|npcid:29357,x:3285,y:3752|npcid:29357,x:3271,y:3756
+|npcid:29357,x:3270,y:3772
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=East of the [[Deserted Keep]] (level 51 Wilderness)
+|lvls=105
+|mem=no
+|npcid:29357,x:3178,y:3929|npcid:29357,x:3186,y:3913
+|npcid:29357,x:3193,y:3926|npcid:29357,x:3195,y:3915|npcid:29357,x:3185,y:3932|npcid:29357,x:3182,y:3907|npcid:29357,x:3186,y:3906|npcid:29357,x:3186,y:3925|npcid:29357,x:3179,y:3923|npcid:29357,x:3192,y:3919|npcid:29357,x:3181.5,y:3918|npcid:29357,x:3193,y:3910|npcid:29357,x:3187.5,y:3920|npcid:29357,x:3179,y:3914
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Lava Maze]] (level 43 Wilderness)
+|lvls=105
+|mem=no
+|npcid:29357,x:3179,y:3923
+<!-- Former black knights -->
+|npcid:29357,x:3023,y:3849|npcid:29357,x:3027,y:3851|npcid:29357,x:3032,y:3851
+|npcid:29357,x:3038,y:3854|npcid:29357,x:3042,y:3856|npcid:29357,x:3050,y:3849
+|npcid:29357,x:3054,y:3852|npcid:29357,x:3057,y:3842|npcid:29357,x:3058,y:3854
+<!-- Former king scorpion -->
+|npcid:29357,x:3069,y:3836|npcid:29357,x:3070,y:3829|npcid:29357,x:3075,y:3848
+|npcid:29357,x:3090,y:3841
+<!-- Former Hill giant -->
+|npcid:29357,x:3094,y:3849|npcid:29357,x:3104,y:3875|npcid:29357,x:3110,y:3854
+|npcid:29357,x:3116,y:3858
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Forinthry Dungeon]] (level 31 Wilderness)
+|lvls=92
+|mem=no
+|mapID=596
+|npcid:49,x:3084,y:10130|npcid:49,x:3089,y:10121|npcid:49,x:3090,y:10134
+|npcid:49,x:3091,y:10127|npcid:49,x:3094,y:10117|npcid:49,x:3099,y:10122
+|npcid:49,x:3103,y:10129|npcid:49,x:3106,y:10121
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+;Optimal combat location in the wilderness
+{{map|3182,3914|mtype=pin}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead|version=Level 92,Level 105}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Binding contract (hellhound)|quantity=1|rarity=Always|raritynotes={{DropNote|Requires a minimum of 45 [[Summoning]], 45 [[Slayer]] and a [[binding contract]].}}|citations={{CiteReddit|url=https://www.reddit.com/r/runescape/comments/i7aq2e/need_help_creating_kalgerion_demon_pouches_does/|title=Need Help! creating kalgerion demon pouches does not work|author=Mod Sponge|date=11 August 2020|accessdate=3 May 2022|quote=so this is actually part of how binding contracts work - each familiar also has a slayer requirement to catch them, that is equal to their summoning requirement.|archiveurl=https://reldo.runescape.wiki/i/97876 |archivedate=21 January 2023}}|bucket=no}}
+{{DropsTableBottom}}
+
+===Main===
+{{DropsTableHead|version=Level 92,Level 105}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead|version=Level 92,Level 105}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=2/128|members=Yes}}
+{{DropsLine|name=Ferocious ring (5)|quantity=1|rarity=1/240|raritynotes={{DropNote|Only in [[Kuradal's Dungeon]].}}|gemw=No|members=Yes|version=Level 92}}
+{{DropsLine|name=Bone fragments|quantity=1|rarity=1/150|raritynotes={{DropNote|Only dropped during a [[Slayer assignment]] given by [[the Raptor]].}}}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineEffigy|level=92|members=yes|version=Level 92}}
+{{DropsLineEffigy|level=105|members=yes|version=Level 105}}
+{{DropsLineMimic|level=92|members=yes|version=Level 92}}
+{{DropsLineMimic|level=105|members=yes|version=Level 105}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|version = Level 92,Level 105
+|members = yes
+|quantity = 1
+|gold = 698.086/1000
+|green = 49.863/1000
+|crimson = 49.863/1000
+|blue = 9.973/1000
+}}
+
+===Wilderness drop table===
+====Level 92====
+{{Wilderness shared loot table|level=92|version=Level 92}}
+
+====Level 105====
+{{Wilderness shared loot table|level=105|version=Level 105}}
+
+==Products==
+{{Uses facility list|Hellhound}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[27 February]] [[2002]]|update=Latest RuneScape News (27 February 2002)|img=Hellhound (2002).png|name=Hellhound}}
+|{{GUL|date=[[1 December]] [[2003]]|update=RuneScape 2 Beta is Here!|img=Hellhound (RuneScape 2 beta).png|name=Hellhound (RuneScape 2 beta)}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Hellhound (2004).png|name=Hellhound}}
+|{{GUL|date=[[4 June]] [[2007]]|update=Hair of the dog|img=Hellhound (2007).png|name=Hellhound}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Hellhound (2008).png|name=Hellhound}}
+|{{GUL|date=[[23 June]] [[2014]]|update=Patch Notes (23 June 2014)|img=Hellhound (2014).png|name=Hellhound}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Hellhound (2022).png|name=Hellhound}}
+|{{GUL|date=[[6 February]] [[2023]]|update=Prepping For Fort Forinthry - This Week In RuneScape|img=Hellhound.png|name=Hellhound}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Prepping For Fort Forinthry - This Week In RuneScape|date=6 February 2023}}
+** Updated the appearance of hellhounds by adjusting their roughness and metal spec values.
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Hellhounds have been graphically updated.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for Hellhounds.
+
+* {{UL|type=ninja|update=Patch Notes (17 August 2015)|date=17 August 2015}}
+** Various gauntlets are now dropped from additional NPCs:
+*** Rune - hellhounds
+
+* {{UL|type=ninja|update=Patch Notes (23 June 2014)|date=23 June 2014}}
+** The graphics and animations for the following NPCs have been revised:
+*** Hellhounds
+
+* {{UL|type=patch|update=Patch Notes (5 February 2013)|date=5 February 2013}}
+** All Hellhounds (and normal dogs) now utilise the latest sound effects.
+
+* {{UL|type=update|update=God Wars: Remastered|date=28 March 2012}}
+** Hellhounds in the [[God Wars Dungeon]] have been graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (28 March 2011)|date=28 March 2011}}
+** Charm drop rates for this monster have been reverted.
+
+* {{UL|type=patch|update=Patch Notes (10 January 2011)|date=10 January 2011}}
+** This monster's animations have been updated to use more than just one of their legs.
+
+* {{UL|type=update|update=Hair of the dog|date=4 June 2007}}
+** Hellhounds have been graphically updated.
+
+* {{UL|update=Creature of Fenkenstrain|date=31 January 2005}}
+** We have added more hill giants and hellhounds to cope with the increased demand for these creatures that has been created by the slayer skill. There are now more hellhounds in the Taverley dungeon and some south of the Wilderness axe hut.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+==Trivia==
+* [[Slayer Master]]s describe hellhounds as "a cross between [[Dog (race)|dogs]] and [[demons]]". They are affected by the powers of [[silverlight]] and [[darklight]]. Along with the [[bloodveld]], they are the only demons that drop bones rather than ashes.
+** They also don't count when assigned a "dog" slayer task.
+* On [[16 June]] [[2009]], hellhounds were placed in the Wilderness Crater, making it the first [[members]] monster to be made free-to-play. It also broke the record of strongest, non-revenant, free to play monster with its pre-EoC combat level of 122. This title was relinquished to [[Deadly red spider]]s after the EoC launch.
+* After the [[Update:Ring of Wealth, Shanties, Trolls and Dungeoneering|ring of wealth update]] on [[16 March]] [[2011]], the charm drop rates of hellhounds and [[rock lobster]]s had "gone walkabouts."{{CiteForum|author = Mod Sneakman|url = http://services.runescape.com/m=forum/forums.ws?15,16,525,62549891,goto,2|archivedate=18 March 2013|archiveurl=https://reldo.runescape.wiki/i/5765954|title = Hellhounds Nerf?|forum = Recent Updates|postdate = 16 March 2011|notes = }} This caused hellhounds to drop gold charms less frequently. Rather, they seemed to drop blue charms much more often. This was, however, fixed on 28 March as noted in the [[Update:Patch Notes (28 March 2011)|patch notes]] of that date.
+
+==References==
+{{Reflist}}
+
+{{Demons}}
+{{Dogs}}
+[[Category:NPCs with multiple Examine options]]
+[[pt:Cão infernal]]

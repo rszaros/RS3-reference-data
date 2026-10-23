@@ -1,0 +1,127 @@
+{{External|os|rsc}}
+{{Infobox Monster
+|name = Wormbrain
+|image = [[File:Wormbrain.png|200px]]
+|release = [[23 September]] [[2001]]
+|update = Dragon quest online!
+|members = No
+|actions = Talk to, Attack
+|examine = A badly-behaved goblin.
+|level = 5
+|lifepoints = 1300
+|experience = 65.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Goblins
+|assigned_by = turael
+|max_melee = 80
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 4
+|ranged = 1
+|magic = 1
+|acc_melee = 40
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 140
+|defence = 4
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 745
+|leagueRegion=Asgarnia}}
+[[File:Wormbrain chathead.png|left|95px]]
+'''Wormbrain''' is a [[goblin]] found in the [[Port Sarim jail]]. He was arrested for his part in a goblin raid on residents living on the east side of the [[River Lum]]. He and his band forced [[Lachtopher]] to flee to the western side of [[Lumbridge]] and killed [[Lozar]], a mage protecting a [[Map part (Lozar)|piece of the map]] leading to [[Crandor]]. He looted a box and lingered trying to open it while the other goblins fled, leading to him being captured by the guards and thrown in prison.
+
+During [[Dragon Slayer]], the map piece he has must be obtained, either by giving him 10,000 coins to bribe the guards with or by fighting him. If he is fought, he drops the map piece once his health is depleted and it must then be taken by using [[Telekinetic Grab]]. Alternatively, he can be killed near the door and the map piece can be picked up by dropping an item nearby and using [[Area loot]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Port Sarim jail]]
+|lvls=5
+|mem=no
+|mapID=28
+|npcid:745,x:3014,y:3189
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Map part (Lozar)|quantity=1|rarity=Always|raritynotes={{DropNote|Only dropped during the quest [[Dragon Slayer]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Hastranscript|npc}}
+
+==Graphical updates==
+===NPCs===
+{{GU|subject=NPCs
+|{{GUL|date=[[23 September]] [[2001]]|update=Dragon quest online!|img=Wormbrain (2001).png|name=Wormbrain}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Wormbrain (2004).png|name=Wormbrain}}
+|{{GUL|date=[[26 September]] [[2005]]|update=New graphics for Port Sarim, Rimmington and Thurgo's Peninsula|img=Wormbrain (2005).png|name=Wormbrain}}
+|{{GUL|date=[[24 April]] [[2007]]|update=Another Slice of H.A.M.|img=Wormbrain (2007).png|name=Wormbrain}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Wormbrain (2008).png|name=Wormbrain}}
+|{{GUL|date=[[19 December]] [[2012]]|update=Patch Notes (19 December 2012)|img=Wormbrain.png|name=Wormbrain}}
+}}
+
+===Chatheads===
+{{GU|subject=chatheads
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Wormbrain chathead (2004).png|name=Wormbrain}}
+|{{GUL|date=[[26 September]] [[2005]]|update=New graphics for Port Sarim, Rimmington and Thurgo's Peninsula|img=Wormbrain chathead (2005).png|name=Wormbrain}}
+|{{GUL|date=[[24 April]] [[2007]]|update=Another Slice of H.A.M.|img=Wormbrain chathead (2007).png|name=Wormbrain}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Wormbrain chathead (2008).png|name=Wormbrain}}
+|{{GUL|date=[[19 December]] [[2012]]|update=Patch Notes (19 December 2012)|img=Wormbrain chathead.png|name=Wormbrain}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=patch|update=Patch Notes (19 December 2012)|date=19 December 2012}}
+** Several goblins have been graphically updated to the same standard as the recently reworked goblins.
+
+* {{UL|type=update|update=New graphics for Port Sarim, Rimmington and Thurgo's Peninsula|date=26 September 2005}}
+** Received graphical update along side Port Sarim region.
+
+* {{UL|type=patch|update=RS2 bugfixes - part 3|date=5 December 2003}}
+** fixed: Wormbrain couldn't be killed with magic
+
+* {{UL|type=update|update=Dragon quest online!|date=23 September 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* Originally, it was not possible to pay him. He had to be killed and the map piece telekinetic grabbed in order to be obtained.
+* When his life points are depleted, a message stating "You have just beaten Wormbrain up. Give the poor goblin a break." appears.
+* Attempting to attack him after gaining the map piece yields the message, "You have already taken Wormbrain's map piece. There is no use in beating him up further." even if he was paid.
+* It is possible to talk to Wormbrain from anywhere on the {{FloorNumber|1}} of Port Sarim jail, not just from one square away.
+
+{{Dragon Slayer}}
+{{Goblins}}
+[[Category:Quest monsters]]
+[[Category:Dragon Slayer]]
+[[Category:Bandosians]]

@@ -1,0 +1,119 @@
+{{External|os}}
+{{See also|Bear cub}}
+{{Infobox Monster
+|name = Grizzly bear cub
+|image = [[File:Grizzly bear cub.png|125px]]
+|release = [[20 September]] [[2004]]
+|update = Plague City Part 4 Released
+|members = Yes
+|options = Attack
+|examine = Eek! A bear cub!
+|level = 21
+|lifepoints = 1300
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Bears
+|assigned_by = turael, mazchna, Vannaka
+|max_melee = 200
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 10
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 102
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 257
+|defence = 15
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1196, 1197
+|leagueRegion = Tirannwn
+}}
+[[File:Bear icon.png|left]]
+A '''grizzly bear cub''' is a smaller version of stronger [[grizzly bear]]s and are found alongside them in [[Isafdar]]. Their drops are similar and they are fairly easy to kill.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Isafdar]]
+|lvls=21
+|mem=yes
+|mapID=28
+|npcid:1196,x:2217,y:3171|npcid:1197,x:2197,y:3218|npcid:1196,x:2199,y:3222
+|npcid:1196,x:2201,y:3218|npcid:1196,x:2291,y:3156|npcid:1197,x:2292,y:3153
+|leagueRegion = Tirannwn}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Bear fur|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw bear meat|quantity=1|rarity=Always}}
+{{DropsLine|name=Bear ribs|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest.}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Bear pelt|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Fur 'n Seek]] quest.}}|gemw=No}}
+{{DropsLineEffigy|level=17|members = yes}}
+{{DropsLineSpiritGems|members = yes}}
+{{DropsLineMimic|level=17|members = yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 161.242/1000
+|green = 5.039/1000
+|crimson = 10.078/1000
+|blue = 1.008/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Community Hitlist and Necromancy Embargo - This Week In RuneScape|date=22 January 2024}}
+** [[Black bear]]s and [[grizzly bear]]s, including their cubs, have been graphically updated.
+
+* {{UL|type=hidden|update=New Skill: Necromancy - This Week In RuneScape|date=7 August 2023}}
+** Grizzly bears' weakness was changed from [[air spells]] to [[water spells]].
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes bears.
+
+* {{UL|type=update|update=Plague City Part 4 Released|date=20 September 2004}}
+** Added to game.
+}}
+
+{{Bears}}

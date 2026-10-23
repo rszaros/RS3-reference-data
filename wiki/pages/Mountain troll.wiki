@@ -1,0 +1,268 @@
+{{External|os}}
+{{Otheruses|def=no|the monster encountered during Troll Invasion|mountain troll (Troll Invasion)}}
+{{Otheruses|def=no|the monster found in a well in Taverley|mountain troll (well)}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|version6 = 6
+|version7 = 7
+|version8 = 8
+|name = Mountain troll
+|image1 = [[File:Mountain troll.png|250px]]
+|image2 = [[File:Mountain troll (2).png|250px]]
+|image3 = [[File:Mountain troll (3).png|250px]]
+|image4 = [[File:Mountain troll (4).png|250px]]
+|image5 = [[File:Mountain troll (5).png|250px]]
+|image6 = [[File:Mountain troll (6).png|250px]]
+|image7 = [[File:Mountain troll (7).png|250px]]
+|image8 = [[File:Mountain troll (8).png|250px]]
+|release = [[9 August]] [[2004]]
+|update = Death Plateau Quest
+|members = No
+|options = Attack
+|examine = Small for a troll, but mean and ugly.
+|level = 75
+|lifepoints = 9200
+|experience = 460.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 52.2
+|slayercat = Trolls
+|assigned_by = Turael, Chaeldar, Sumona
+|max_melee = 1620
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 54
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 855
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 955
+|defence = 54
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia,Fremennik
+|id1 = 1106
+|id2 = 1107
+|id3 = 1108
+|id4 = 1109
+|id5 = 1110
+|id6 = 1111
+|id7 = 1112
+|id8 = 1138
+}}
+'''Mountain trolls''' live in and around [[Trollheim]]. There are several troll variants, all with the same drops. There are also two named trolls called [[Twig (troll)|Twig]] and [[Berry]] on the bottom floor of [[Troll Stronghold (area)|Troll Stronghold]], and [[troll spectator]]s, which feature in the [[Troll Stronghold (quest)|Troll Stronghold]] quest.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Death Plateau (location)|Death Plateau]]
+|lvls=75
+|mem=no
+|mapID=28
+|npcid:1106,x:2846,y:3591|npcid:1108,x:2852,y:3586|npcid:1106,x:2857,y:3595
+|npcid:1107,x:2858,y:3595|npcid:1108,x:2859,y:3595|npcid:1109,x:2860,y:3595
+|npcid:1110,x:2861,y:3595|npcid:1111,x:2862,y:3595|npcid:1112,x:2863,y:3595
+|npcid:1106,x:2865,y:3584|npcid:1110,x:2865,y:3587|npcid:1107,x:2866,y:3584
+|npcid:1112,x:2867,y:3590|npcid:1109,x:2870,y:3589|npcid:1111,x:2871,y:3586
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=[[Keldagrim]] tunnels
+|lvls=75
+|mem=yes
+|mapID=21
+|npcid:1106,x:9,y:53|npcid:1110,x:11,y:46|npcid:1106,x:17,y:46
+|npcid:1107,x:21,y:47|npcid:1108,x:23,y:44|npcid:1109,x:24,y:38
+|npcid:1111,x:28,y:35
+|leagueRegion=Fremennik
+}}
+{{LocLine
+|loc=[[Troll arena]]
+|lvls=75
+|mem=yes
+|mapID=28
+|npcid:1138,x:2911,y:3634|npcid:1109,x:2919,y:3631|npcid:1106,x:2925,y:3622
+|npcid:1107,x:2929,y:3628
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=[[Troll Stronghold (area)|Troll Stronghold]] (Middle Level)
+|lvls=75
+|mem=yes
+|mapID=2
+|npcid:1109,x:105,y:38|npcid:1138,x:107,y:33|npcid:1106,x:109,y:31
+|npcid:1110,x:109,y:35|npcid:1112,x:110,y:38|npcid:1109,x:116,y:29
+|npcid:1107,x:116,y:41|npcid:1111,x:119,y:53
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=[[Troll Stronghold (area)|Troll Stronghold]] (Upper Level)
+|lvls=75
+|mem=yes
+|mapID=2
+|npcid:1112,x:212,y:26|npcid:1138,x:212,y:34|npcid:1111,x:212,y:39
+|npcid:1110,x:212,y:47|npcid:1109,x:214,y:50|npcid:1111,x:227,y:4
+|npcid:1110,x:228,y:59|npcid:1108,x:231,y:6
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=[[Trollheim]] (entrance to [[Troll Stronghold (area)|Troll Stronghold]])
+|lvls=75
+|mem=yes
+|mapID=28
+|npcid:1107,x:2827,y:3675|npcid:1107,x:2829,y:3678|npcid:1109,x:2831,y:3673
+|npcid:1110,x:2833,y:3670|npcid:1112,x:2833,y:3685|npcid:1111,x:2834,y:3683
+|npcid:1106,x:2835,y:3667|npcid:1108,x:2837,y:3676
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=[[Trollheim]] tunnels
+|lvls=75
+|mem=yes
+|mapID=5
+|npcid:1138,x:2921,y:10027|npcid:1109,x:2921,y:10032|npcid:1112,x:2924,y:10031
+|npcid:1111,x:2924,y:10033
+|leagueRegion=Asgarnia
+}}
+{{LocTableBottom}}
+
+==The Troll Race==
+{{main|Troll}}
+The race of mountain trolls are huge, muscular and dull. They are dim-witted, and are less creative and more reclusive and aggressive than ogres. It is unknown if they have any sort of organised religion, like the ogres, whether they just follow their noses, or whether the concept of the gods is simply beyond their level of comprehension. They have no magics, and the most advanced technology they have is very poor and outdated on the standards of other races. Their weaponry seems to include mostly simple clubs, an example of how they are lacking technologically.
+
+It also appears that the trolls are quite mysterious, as many scholars wonder why the trolls never died out long ago, as their lack of intelligence and their high level of aggressiveness would seem to point out that their tribes and species' would fight one another.
+
+The trolls are usually seen as an evil race, and in the [[God Wars]] they possibly fought in [[Bandos]]' army, but most likely didn't, since evidence suggests that they were underground at the time initiating the Keldagrim-Troll Country War. The trolls also are tribal, and they may have once shared a common ancestor with ogres and such, but Bandos may have split them depending on rank. The trolls, after the God Wars, moved high up into the mountains. They are known enemies of the dwarves and humans in the area, whom they frequently skirmish with on the borders to the cities from the mountains looking to capture humans to devour.
+
+Mountain trolls enjoy eating [[human]]s and most commonly their cooks [[Burntmeat]], and [[Ash]] boil them alive in [[cauldron]]s into [[Adventurer|stews]], whereas [[Dung]] prefers them fried.
+
+==Strategy and Advantages==
+{{cquote2|The last Mountain troll I killed I found water spells took them down effectively.
+
+Trolls regenerate quickly but are still vulnerable to poisons. They usually use crushing weapons. Perhaps you should head to the snowy islands where [[Ice troll (disambiguation)|these creatures]] are both fierce and aggressive.|[[Chaeldar]]}}
+
+Mountain trolls attack with melee. Due to their relatively large size and the mountainous terrain, they can often be safespotted easily. However, some reside along aggressive [[thrower troll]]s that attack with ranged. Alternatively, players may consider safespotting the [[troll general]]s within the [[Troll Stronghold (area)|Troll Stronghold]] for additional experience, but caution is advised as they are stronger than most trolls.
+
+It should also be noted that low-level [[Slayer Master]]s such as Sumona can give troll tasks often. If one is seeking to complete a troll task as fast as possible without wasting [[slayer points]] on blocking them, the [[troll brute]]s, [[troll shaman]]s and [[troll chucker]]s in the [[Burthorpe Troll Cave]] can provide very fast task completion.
+
+Another place to attack mountain trolls is the tunnel outside Keldagrim in the [[Fremennik province]] as this has no quest requirements to access.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=3/256}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=3/256}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Nature rune|quantity=7|rarity=5/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|15/128}}
+{{DropsTableHead}}
+{{HerbDropTable|15/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|19/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium blunt steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium blunt adamant salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=8|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=35|rarity=29/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=50|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=100|rarity=18/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=250|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=3|rarity=3/128}}
+{{DropsLine|name=Raw mackerel|quantity=3 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Troll bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsTableBottom}}
+
+==Products==
+{{Uses facility list|Mountain troll, Troll}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[9 August]] [[2004]]|update=Death Plateau Quest|img=Mountain troll (2004).png|name=Mountain troll}}
+|{{GUL|date=[[4 January]] [[2011]]|update=King of the Dwarves|img=Mountain troll (2011).png|name=Mountain troll}}
+|{{GUL|date=[[31 January]] [[2012]]|update=Troll Warzone|img=Mountain troll.png|name=Mountain troll}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Rune Value Improvements|date=15 September 2014}}
+** Many monster types have had their rune drop rates reduced or removed, in order to increase the value of altar runecrafting.
+*** Mountain trolls have had their [[earth rune]] drops removed.
+
+* {{UL|type=update|update=Death Plateau Quest|date=9 August 2004}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{trolls}}
+[[Category:Bandosians]]

@@ -1,0 +1,72 @@
+{{Otheruses|the monster in the [[The Zamorakian Undercity]]|other uses|Pyrefiend (disambiguation)}}
+{{Infobox Monster
+|name = Pyrefiend
+|image = [[File:Pyrefiend (The Zamorakian Undercity).png|x280px]]
+|release = [[4 July]] [[2022]]
+|update = Zamorak, Lord of Chaos - This Week In RuneScape
+|members = Yes
+|options = Attack, Mark, Examine
+|examine = A bit hot headed.
+|leagueRegion = Misthalin
+|level = 113
+|lifepoints = 8000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 30
+|slayercat = Pyrefiends, Demons
+|slayxp = 600.0
+|max_melee = 576
+|max_ranged = 576
+|max_magic = 1267
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 40
+|ranged = 40
+|magic = 88
+|necromancy = 1
+|acc_melee = 628
+|acc_ranged = 628
+|acc_magic = 2343
+|acc_necromancy = 0
+|armour = 1694
+|defence = 75
+|weakness = Bolts
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 29272
+}}
+'''Pyrefiends''' are monsters found within [[The Zamorakian Undercity]].
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes|quantity=1|rarity=Always}}
+{{DropsLine|name=Fire rune|quantity=20-48|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main===
+{{The Zamorakian Undercity drops}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Base hit chances increased:
+*** Ranged: 65 → 70
+*** Magic and melee: 55 → 60
+
+* {{UL|type=update|update=Zamorak, Lord of Chaos - This Week In RuneScape|date=4 July 2022}}
+** Added to game.
+}}
+
+{{The Zamorakian Undercity}}
+{{Demons}}

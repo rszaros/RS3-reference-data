@@ -1,0 +1,221 @@
+{{External|os}}
+{{Multi Infobox
+|text1 = NPC
+|item1 =
+{{Infobox NPC
+|version1 = Scratched
+|version2 = Dominion Tower
+|name = Arrg
+|image1 = [[File:Arrg.png]]
+|image2 = [[File:Arrg2.png]]
+|release1 = [[5 January]] [[2005]]
+|release2 = [[1 November]] [[2011]]
+|update1 = Troll Romance, Banks and Chat
+|update2 = Dominion Tower
+|level1 = 77
+|level2 = N/A
+|members = Yes
+|race = Troll
+|quest1 = [[Troll Romance]]
+|quest2 = No
+|location = [[Troll Stronghold]]
+|gender = Male
+|options1 = Talk to, Examine
+|options2 = Examine
+|examine = A massive, scary-looking troll.
+|map1 = {{NPC map|npcname=Arrg|npcid:1555,x:108,y:47|plane=0|mapID=2}}
+|map2 = No
+|leagueRegion = Fremennik
+|id1 = 1555
+|id2 = 14452
+}}
+|text2 = Monster
+|item2 =
+{{Infobox Monster
+|version1 = Troll Romance
+|version2 = Dominion Tower
+|version3 = Rumble Mode
+|name = Arrg
+|image = [[File:Arrg2.png]]
+|release1 = [[5 January]] [[2005]]
+|release2 = [[1 November]] [[2011]]
+|release3 = [[8 December]] [[2014]]
+|update1 = Troll Romance, Banks and Chat
+|update2 = Dominion Tower
+|update3 = Snowverload & Dominion Tower Rumble Mode
+|members = Yes
+|options = Attack, Examine
+|race = Troll
+|examine = A massive, scary-looking troll.
+|level = 77
+|lifepoints = 23550
+|experience = 1177.5
+|aggressive = No
+|aggressive2 = Yes
+|poisonous = No
+|slaylvl1 = 1
+|slaylvl2 = N/A
+|slaylvl3 = N/A
+|slayxp1 = 150
+|slayercat1 = Trolls
+|slayercat2 = N/A
+|slayercat3 = N/A
+|max_melee = 1100
+|max_ranged = 1100
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 55
+|ranged = 55
+|magic = 55
+|necromancy = 1
+|acc_melee = 883
+|acc_ranged = 883
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 983
+|defence = 55
+|weakness = None
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_stun = Yes
+|immune_to_stun2 = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|restriction1 = quest
+|restriction2 = minigame
+|restriction3 = minigame
+|leagueRegion = Fremennik
+|id1 = 1556
+|id2 = 14453
+|id3 = 17341
+}}
+}}
+[[File:Arrg chathead.png|left|80px]]
+'''Arrg''' is a [[troll]] and partner of [[Aga]].{{CiteNPC |npc=Ug |quote=I love Aga, she so beautiful, she smell so nice, like rotting dead ice wolf! But Arrg... that arrrrrg! He together with Aga and he much stronger than Ug. He rip Ug apart! |loc=Troll Romance |name=love }} He actually has several troll girlfriends due to his size and strength,{{CiteNPC |npc=Arrg |quote=Arrg strong troll. Arrg mighty troll. Arrg have many girlfriends! |loc=Troll Romance }} but does not consider Aga's desire for love to be important,{{CiteNPC |npc=Arrg |quote=I no know, I just say to make Aga shut up! |loc=Troll Romance }} finding the concept confusing and irritating.{{CiteNPC |npc=Arrg |quote=This concept of 'love' confuses and infuriates Arrg. |loc=Troll Romance }} He has a [[Troll Romance]] rival for Aga's affections in the form of [[Ug]], a weaker troll.{{NamedRef|love}}
+
+After Ug obtains a [[trollweiss]] flower to prove his love, Arrg must be fought and defeated. He uses [[melee]] and [[ranged]], both of which can hit up to 1,100, although the [[Fremennik round shield]] reduces the maximum damage from ranging. It is recommended to fight him with magic, using splitbark or better weapons and armour. He teleports the player to the [[Troll arena]] to fight.
+
+It is best to use either the [[protect from Melee|protect from melee]] or [[protect from Missiles|ranged]] prayer against him and switch. After being defeated, he begs the player for mercy.{{CiteNPC |npc=Arrg |quote=Oh mighty man-warrior, please no hurt Arrg. |loc=Troll Romance }} Arrg is fightable as a class D boss monster in the [[Dominion Tower]] minigame if [[Troll Romance]] is complete.
+
+Due to the troll naming method, he either ate something called "Arrg" or something that made the sound "Arrg", as trolls are named after the first thing they eat, or the first sound it makes if it has no known name.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=3/256}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=3/256}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Nature rune|quantity=7|rarity=5/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|15/128}}
+{{DropsTableHead}}
+{{HerbDropTable|15/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|19/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium blunt steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium blunt adamant salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=8|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=35|rarity=29/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=50|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=100|rarity=18/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=250|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=3|rarity=3/128}}
+{{DropsLine|name=Raw mackerel|quantity=3 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Troll bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Speaksin}}
+
+==Graphical updates==
+===NPC===
+{{GU|subject=NPCs
+|{{GUL|date=[[5 January]] [[2005]]|update=Troll Romance, Banks and Chat|img=Arrg (2005).png|name=Arrg}}
+|{{GUL|date=[[15 March]] [[2011]]|update=Ring of Wealth, Shanties, Trolls and Dungeoneering|img=Arrg (2011).png|name=Arrg}}
+|{{GUL|date=[[31 January]] [[2012]]|update=Troll Warzone|img=Arrg.png|name=Arrg}}
+}}
+
+===Chathead===
+{{GU|subject=chathead
+|{{GUL|date=|update=|img=Arrg chathead old.png|name=Arrg}}
+|{{GUL|date=|update=|img=Arrg chathead old2.png|name=Arrg}}
+|{{GUL|date=|update=|img=Arrg chathead.png|name=Arrg}}
+}}
+
+==Update history==
+{{UH|
+*{{UL|type=patch|update=Patch Notes (13 March 2012)|date=13 March 2012}}
+** Arrg the troll is no longer missing a section of his back.
+
+* {{UL|type=update|update=Troll Romance, Banks and Chat|date=5 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+{{Listen
+|title = Arrg's menacing voice
+|align = right
+|filename = Arrg.ogg
+|desc = Kill silly human.}}
+* Arrg used to have a combat level of 113, the same as that of the [[troll general]]s. His max hit and life points are also the same as those of the troll generals.
+* Arrg's line "This concept of 'love' confuses and infuriates Arrg" is a reference to the animated series Futurama.
+
+==References==
+{{Reflist}}
+
+{{Troll Romance}}
+{{Trolls}}
+{{Dominion Tower}}
+[[Category:Quest monsters]]
+[[Category:Antagonists]]
+[[Category:Bandosians]]

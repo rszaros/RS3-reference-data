@@ -1,0 +1,226 @@
+{{External|os}}
+{{Otheruses|def=no|other uses|Cave goblin}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|name = Cave goblin
+|image1 = [[File:Cave goblin (monster).png|150px]]
+|image2 = [[File:Cave goblin (monster, 2).png|150px]]
+|image3 = [[File:Cave goblin (monster, 3).png|150px]]
+|image4 = [[File:Cave goblin (monster, 4).png|150px]]
+|release = [[14 March]] [[2005]]
+|update = Lumbridge Swamp Caves
+|members = Yes
+|options = Talk to, Attack, Examine
+|examine = A goblin with big bulging eyes.
+|level = 1
+|lifepoints = 50
+|experience = 2.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6.4
+|slayercat = Goblins
+|max_melee = 4
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 110
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 1822
+|id2 = 1823
+|id3 = 1824
+|id4 = 1825
+|leagueRegion=Misthalin}}
+'''Cave goblins''' are [[goblins]] of the ancient [[Dorgeshuun]] tribe found in the [[Lumbridge Swamp Caves]]. They are friendly creatures, and are willing to give many adventurers a [[tinderbox]] or a [[lit torch]] (if the player does not have one) when spoken to. When one of them is attacked, nearby cave goblins will scream certain phrases such as "Nooo!" or "Eeek!" while backing away.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Cave goblin
+|loc = [[Lumbridge Swamp Caves]]
+|mem = Yes
+|mapID = 31
+|plane = 0
+|lvls = 1
+|npcid:1822,x:3256,y:9573
+|npcid:1823,x:3247,y:9558
+|npcid:1824,x:3253,y:9565
+|npcid:1825,x:3246,y:9581
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDropTable|quantity=1|gold=85.996/1000|green=2.687/1000|crimson=5.375/1000|blue=0.537/1000}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=2-7|rarity=3/128}}
+{{DropsLine|name=Mind rune|quantity=13-19|rarity=3/128}}
+{{DropsLine|name=Water rune|quantity=6|rarity=6/128}}
+{{DropsLine|name=Earth rune|quantity=4|rarity=3/128}}
+{{DropsLine|name=Body rune|quantity=7|rarity=5/128}}
+{{DropsLine|name=Bronze bolts|quantity=8|rarity=3/128}}
+{{DropsLine|name=Bronze arrow|quantity=16|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Bronze med helm|quantity=1|rarity=9/128}}
+{{DropsLine|name=Bronze spear|quantity=1|rarity=4/128}}
+{{DropsLine|name=Bronze square shield|quantity=1|rarity=3/128}}
+{{DropsLine|name=Bronze kiteshield|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1|rarity=1/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=5|rarity=28/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=5-10|rarity=11/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=15|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=20|rarity=2/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Cabbage|quantity=1|rarity=14/128}}
+{{DropsLine|name=Guam seed|quantity=1|rarity=10/128}}
+{{DropsLine|name=Goblin mail|quantity=1|rarity=5/128}}
+{{DropsLine|name=Grapes|quantity=3|rarity=3/128}}
+{{DropsLine|name=Chef's hat|quantity=1|rarity=3/128}}
+{{DropsLine|name=Goblin book|quantity=1|rarity=2/128|gemw=No}}
+{{DropsLine|name=Beer|quantity=1|rarity=2/128}}
+{{DropsLine|name=Brass necklace|quantity=1|rarity=1/128}}
+{{DropsLine|name=Air talisman|quantity=1|rarity=1/128}}
+{{DropsLine|name=Nothing|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Cave goblin skull|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Undercooked mystery meat|quantity=1|rarity=1/20|raritynotes={{DropNote|Only when wearing the [[Asylum doctor's ring]].}}|gemw=No}}
+{{DropsLine|name=Bronze gauntlets|quantity=1|rarity=1/128}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|gemw=No}}
+{{BeginnerWeaponsDropLines}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=1}}
+{{DropsLineMimic|level=1}}
+{{DropsLine|name=Goblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Goblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Achievement==
+* {{Achievement|Guardian of the Realm}}
+** [[Goblin mail]] and [[goblin book]] drops
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+==Graphical updates==
+===NPC=== 
+{{Switch infobox
+|text1 = 1
+|item1 = 
+{{GU|subject=npc
+|{{GUL|date=[[14 March]] [[2005]]|update=Lumbridge Swamp Caves|img=Cave goblin (monster) (1) (2005).png|name=Cave goblin}}
+|{{GUL|date=[[20 March]] [[2007]]|update=|img=Cave goblin (monster) (1) (2007).png|name=Cave goblin}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cave goblin (monster).png|name=Cave goblin}}
+}}
+
+|text2 = 2
+|item2 =  
+{{GU|subject=npc
+|{{GUL|date=[[14 March]] [[2005]]|update=Lumbridge Swamp Caves|img=Cave goblin (monster) (2) (2005).png|name=Cave goblin}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Dorgesh-Kaan|img=Cave goblin (monster) (2) (2007).png|name=Cave goblin}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cave goblin (monster, 2).png|name=Cave goblin}}
+}}
+
+|text3 = 3
+|item3 =  
+{{GU|subject=npc
+|{{GUL|date=[[14 March]] [[2005]]|update=Lumbridge Swamp Caves|img=Cave goblin (monster) (3) (2005).png|name=Cave goblin}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Dorgesh-Kaan|img=Cave goblin (monster) (3) (2007).png|name=Cave goblin}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cave goblin (monster, 3).png|name=Cave goblin}}
+}}
+
+|text4 = 4
+|item4 =  
+{{GU|subject=npc
+|{{GUL|date=[[14 March]] [[2005]]|update=Lumbridge Swamp Caves|img=Cave goblin (monster) (4) (2005).png|name=Cave goblin}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Dorgesh-Kaan|img=Cave goblin (monster) (4) (2007).png|name=Cave goblin}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cave goblin (monster, 4).png|name=Cave goblin}}
+}}
+
+}}
+
+===Chathead=== 
+{{Switch infobox
+|text1 = 1, 2 and 3
+|switch_id1 = 1
+|item1 = 
+{{GU|subject=chatheads
+|{{GUL|date=[[14 March]] [[2005]]|update=Lumbridge Swamp Caves|img=Cave goblin (monster) chathead (2005).png|name=Cave goblin}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Dorgesh-Kaan|img=Cave goblin (monster) chathead (2007).png|name=Cave goblin}}
+}}
+
+|text2 = 4
+|item2 = 
+{{GU|subject=chatheads
+|{{GUL|date=[[14 March]] [[2005]]|update=Lumbridge Swamp Caves|img=Cave goblin (monster) chathead (2005).png|name=Cave goblin}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Dorgesh-Kaan|img=Cave goblin (monster) (4) chathead (2007).png|name=Cave goblin}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Tiny plated bronze salvage → Bronze med helm, Bronze gauntlets
+*** Tiny spiky bronze salvage → Bronze spear
+*** Small plated bronze salvage → Bronze square shield
+*** Medium plated bronze salvage → Bronze kiteshield
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=update|update=Lumbridge Swamp Caves|date=14 March 2005}}
+** Added to game.
+}}

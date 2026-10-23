@@ -1,0 +1,165 @@
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{Infobox Monster
+|version1 = 18
+|version2 = 30
+|version3 = 43
+|version4 = 54
+|version5 = 67
+|version6 = 78
+|version7 = 91
+|version8 = 102
+|version9 = 114
+|version10 = 126
+|version11 = 138
+|name = Skeleton
+|image = [[File:Skeleton (Dungeoneering, ranged).png|150px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|options = Attack, Mark
+|examine = Could do with gaining a few pounds.
+|level1 = 18
+|level2 = 30
+|level3 = 43
+|level4 = 54
+|level5 = 67
+|level6 = 78
+|level7 = 91
+|level8 = 102
+|level9 = 114
+|level10 = 126
+|level11 = 138
+|lifepoints1 = 1300
+|lifepoints2 = 2200
+|lifepoints3 = 3100
+|lifepoints4 = 3900
+|lifepoints5 = 4800
+|lifepoints6 = 5600
+|lifepoints7 = 6500
+|lifepoints8 = 7300
+|lifepoints9 = 8200
+|lifepoints10 = 9000
+|lifepoints11 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Skeletons, Creatures of Daemonheim
+|max_melee1 = 52
+|max_melee2 = 88
+|max_melee3 = 124
+|max_melee4 = 156
+|max_melee5 = 192
+|max_melee6 = 224
+|max_melee7 = 260
+|max_melee8 = 292
+|max_melee9 = 328
+|max_melee10 = 360
+|max_melee11 = 396
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged1 = 13
+|ranged2 = 22
+|ranged3 = 31
+|ranged4 = 39
+|ranged5 = 48
+|ranged6 = 56
+|ranged7 = 65
+|ranged8 = 73
+|ranged9 = 82
+|ranged10 = 90
+|ranged11 = 99
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged1 = 52
+|acc_ranged2 = 88
+|acc_ranged3 = 124
+|acc_ranged4 = 156
+|acc_ranged5 = 192
+|acc_ranged6 = 224
+|acc_ranged7 = 260
+|acc_ranged8 = 292
+|acc_ranged9 = 328
+|acc_ranged10 = 360
+|acc_ranged11 = 396
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 234
+|armour2 = 341
+|armour3 = 470
+|armour4 = 609
+|armour5 = 801
+|armour6 = 1011
+|armour7 = 1299
+|armour8 = 1608
+|armour9 = 1299
+|armour10 = 1486
+|armour11 = 1924
+|defence1 = 13
+|defence2 = 22
+|defence3 = 31
+|defence4 = 39
+|defence5 = 48
+|defence6 = 56
+|defence7 = 65
+|defence8 = 73
+|defence9 = 82
+|defence10 = 90
+|defence11 = 99
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10670
+|id2 = 10671
+|id3 = 10672
+|id4 = 10673
+|id5 = 10674
+|id6 = 10675
+|id7 = 10676
+|id8 = 10677
+|id9 = 10678
+|id10 = 10679
+|id11 = 10680, 16081
+|leagueRegion = Wilderness
+}}
+'''Skeletons''' in Daemonheim can only be found in the Abandoned, Occult, and Warped floors. Attacks by throwing skulls at players, and frequently changes targets. They are weak to crush attacks. These skeletons have a tannish colour, and their attack has a distinctive sound.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+*{{UL|type=patch|update=Patch Notes (14 February 2012)|date=14 February 2012}}
+** The ranger skeletons in Dungeoneering have had their impact sounds quietened.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+
+{{Dungeoneering monsters}}
+{{Skeleton}}

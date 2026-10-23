@@ -1,0 +1,279 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Striped shorts
+|version2 = Striped top and grey shorts
+|version3 = Grey trousers
+|version4 = Brown trousers
+|version5 = Striped top and brown trousers
+|version6 = Grey plaid trousers
+|name = Zombie swab
+|image1 = <!--[[File:Zombie swab (1).png]]-->
+|image2 = <!--[[File:Zombie swab (2).png]]-->
+|image3 = [[File:Zombie swab.png]]
+|image4 = <!--[[File:Zombie swab (4).png]]-->
+|image5 = <!--[[File:Zombie swab (5).png]]-->
+|image6 = <!--[[File:Zombie swab (6).png]]-->
+|release = [[31 October]] [[2005]]
+|update = Rum Deal
+|members = Yes
+|options = Talk to, Attack, Intimidate, Examine
+|examine = He talks a good fight.
+|level = 47
+|lifepoints = 1700
+|experience = 79.8
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 22
+|slayercat = Zombies, Undead
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|max_melee = 136
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 34
+|ranged = 0
+|magic = 0
+|necromancy = 0
+|acc_melee = 519
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 519
+|defence = 34
+|weakness = Air, Crush
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+<!-- multiloc & combat data, actual model -->
+|id1 = 2843, 25297
+|id2 = 2844, 25298
+|id3 = 2845, 25299
+|id4 = 2846, 25300
+|id5 = 2847, 25301
+|id6 = 2848, 25302
+|leagueRegion=Morytania}}
+{{Synced switch
+|version1=[[File:Zombie swab chathead.png|left|60px]]
+|version2=[[File:Zombie swab chathead (bandana).png|left|60px]]
+|version3=[[File:Zombie swab chathead (bandana).png|left|60px]]
+|version4=[[File:Zombie swab chathead (long hair).png|left|100px]]
+|version5=[[File:Zombie swab chathead (long hair).png|left|100px]]
+|version6=[[File:Zombie swab chathead (eyepatch).png|left|60px]]
+}}
+'''Zombie swabs''' are members of [[Captain Donnie]]'s crew, encountered during and after the [[Rum Deal]] quest on [[Braindeath Island]]. They have an ''intimidate'' option, which scares the zombie and no longer makes it aggressive towards the player (it only needs to be done once per zombie). However, this does not work between attacks, so the player might want to find a safe spot in order to use this option.
+
+While a player is intimidating, the conversation is replaced with an image of a kitten.
+
+Although their weakness is air spells when not attacked, it changes to crushing attacks when in combat.
+
+They are permanently killed during [[Pieces of Hate]], making them inaccessible after completing the quest.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Zombie swab
+|loc = [[Braindeath Island]]
+|mem = Yes
+|requirements = 
+* During and after {{QuestIcon|Rum Deal}}
+* Before completion of {{QuestIcon|Pieces of Hate}}
+|mapID = 19
+|plane = 0
+|lvls = 47
+|npcid:25297,x:2152,y:5073
+|npcid:25298,x:2147,y:5071
+|npcid:25299,x:2153,y:5071
+|npcid:25300,x:2158,y:5071
+|npcid:25301,x:2144,y:5071
+|npcid:25302,x:2161,y:5071
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=3|rarity=3/128}}
+{{DropsLine|name=Water rune|quantity=17|rarity=1/128}}
+{{DropsLine|name=Body rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Chaos rune|quantity=4|rarity=1/128}}
+{{DropsLine|name=Bronze bolts|quantity=2-12|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|30/128}}
+{{DropsTableHead}}
+{{HerbDropTable|30/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny spiky iron salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small bladed steel salvage|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=10|rarity=10/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=18|rarity=21/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=26|rarity=8/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=35|rarity=6/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=40|rarity=2/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Fishing bait|quantity=7|rarity=21/128}}
+{{DropsLine|name=Fishing bait|quantity=10|rarity=5/128}}
+{{DropsLine|name=Karamthulhu|quantity=1|rarity=3/128|gemw=No}}
+{{DropsLine|name=Iron stone spirit|quantity=1|rarity=1/128}}
+{{DropsLine|name=Eye patch|quantity=1|rarity=1/128}}
+{{DropsLine|name=Rusty scimitar|quantity=1|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{speaksin}}
+
+==Graphical updates==
+===NPC===
+{{Switch infobox
+|text1 = Striped shorts
+|item1 = {{GU|subject=NPCs
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Zombie swab (1) (2005).png|name=Zombie swab}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie swab (1) (2007).png|name=Zombie swab}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie swab (1).png|name=Zombie swab}}
+}}
+|text2 = Striped top and grey shorts
+|item2 =
+{{GU|subject=NPCs
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Zombie swab (2) (2005).png|name=Zombie swab}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie swab (2) (2007).png|name=Zombie swab}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie swab (2).png|name=Zombie swab}}
+}}
+|text3 = Grey trousers
+|item3 =
+{{GU|subject=NPCs
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Zombie swab (3) (2005).png|name=Zombie swab}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie swab (3) (2007).png|name=Zombie swab}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie swab.png|name=Zombie swab}}
+}}
+|text4 = Brown trousers
+|item4 =
+{{GU|subject=NPCs
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Zombie swab (4) (2005).png|name=Zombie swab}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie swab (4) (2007).png|name=Zombie swab}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie swab (4).png|name=Zombie swab}}
+}}
+|text5 = Striped top and brown trousers
+|item5 =
+{{GU|subject=NPCs
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Zombie swab (5) (2005).png|name=Zombie swab}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie swab (5) (2007).png|name=Zombie swab}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie swab (5).png|name=Zombie swab}}
+}}
+|text6 = Grey plaid trousers
+|item6 =
+{{GU|subject=NPCs
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Zombie swab (6) (2005).png|name=Zombie swab}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie swab (6) (2007).png|name=Zombie swab}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie swab (6).png|name=Zombie swab}}
+}}
+}}
+
+===Chathead===
+{{Switch infobox
+|text1 = Striped shorts
+|item1 =
+{{GU|subject=chatheads
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Zombie swab (1) chathead (2005).png|name=Zombie swab chathead}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie swab (1) chathead (2007).png|name=Zombie swab chathead}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie swab chathead.png|name=Zombie swab chathead}}
+}}
+|text2 = Striped top and grey shorts
+|item2 =
+{{GU|subject=chatheads
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Zombie swab (2) chathead (2005).png|name=Zombie swab chathead}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie swab (2) chathead (2007).png|name=Zombie swab chathead}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie swab chathead (bandana).png|name=Zombie swab chathead}}
+}}
+|text3 = Grey trousers
+|item3 =
+{{GU|subject=chatheads
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Zombie swab (3) chathead (2005).png|name=Zombie swab chathead}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie swab (3) chathead (2007).png|name=Zombie swab chathead}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie swab chathead (bandana).png|name=Zombie swab chathead}}
+}}
+|text4 = Brown trousers
+|item4 =
+{{GU|subject=chatheads
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Zombie swab (4) chathead (2005).png|name=Zombie swab chathead}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie swab (4) chathead (2007).png|name=Zombie swab chathead}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie swab chathead (long hair).png|name=Zombie swab chathead}}
+}}
+|text5 = Striped top and brown trousers
+|item5 =
+{{GU|subject=chatheads
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Zombie swab (5) chathead (2005).png|name=Zombie swab chathead}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie swab (5) chathead (2007).png|name=Zombie swab chathead}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie swab chathead (long hair).png|name=Zombie swab chathead}}
+}}
+|text6 = Grey plaid trousers
+|item6 =
+{{GU|subject=chatheads
+|{{GUL|date=[[31 October]] [[2005]]|update=Rum Deal|img=Zombie swab (6) chathead (2005).png|name=Zombie swab chathead}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie swab (6) chathead (2007).png|name=Zombie swab chathead}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie swab chathead (eyepatch).png|name=Zombie swab chathead}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=patch|update=Patch Notes (12 March 2018)|date=12 March 2018}}
+** The following quality-of-life changes have been made to Rum Deal: 
+*** The NPC's and zombies outside the factory now appear when you're on the first floor.
+
+* {{UL|type=update|update=Rum Deal|date=31 October 2005}}
+** Added to game.
+}}
+
+{{Rum Deal}}
+{{Zombie}}
+{{Pirates}}
+[[Category:Quest monsters]]

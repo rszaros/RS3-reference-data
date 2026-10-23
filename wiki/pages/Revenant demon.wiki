@@ -1,0 +1,115 @@
+{{External|os}}
+{{Infobox Monster
+|name = Revenant demon
+|image = [[File:Revenant demon.png|250px]]
+|release = [[10 December]] [[2007]]
+|update = Wilderness Changes, Bounty Hunter and Clan Wars!
+|members = No
+|actions = Attack
+|examine = The essence of a demon slain during the god wars.
+|level = 84
+|lifepoints = 7500
+|experience = 375.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 175
+|slayercat = Revenants, Ghosts, Undead, Demons
+|max_melee = 1125
+|max_ranged = 1125
+|max_magic = 1125
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 60
+|ranged = 60
+|magic = 60
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 1132
+|acc_ranged = 1132
+|acc_magic = 1132
+|armour = 1132
+|defence = 60
+|weakness = Nothing
+|susceptibility = undead slayer, ghost hunter, revenant bane, salve
+|aff_weakness = 40
+|aff_melee = 40
+|aff_ranged = 40
+|aff_magic = 40
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|id = 13477
+|leagueRegion = Wilderness
+}}
+'''Revenant demons''' are a type of monster, that inhabits the [[Forinthry Dungeon]], along with all other [[revenants]].
+The Forinthry Dungeon is a part of the [[Wilderness]] so it is possible to be attacked by other players here if opted into [[PvP]].
+
+Like all revenants, they can restore lifepoints quickly, can cure themselves of poison and react quickly to a player's protection prayers. When below 50% health, revenant demons will "eat" to heal 1250 lifepoints from their limited supply of food. For a full description of the healing mechanic see the [[Revenants#Overview|revenants]] page.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Forinthry Dungeon]]
+|lvls=84
+|mem=no
+|mapID=6
+|npcid:13477,x:3115,y:10154
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+Revenant drops are not affected by [[luck]]. There are only two ways to increase the drop rate of revenant items: completion of the [[elite Wilderness achievements]] which gives a 5% increased chance for revenant drops, and [[revenant drop enhancer]]s, which give a 10% increased chance. Both boosts can be in effect at the same time.
+
+===Main===
+{{Revenant main drops|level=84}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{Revenant tertiary drops|level=84}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=1/96|altrarity=1/56|raritynotes={{DropNote|1/56 while wearing [[Jennica's ring]].}}}}
+{{DropsLineGhosts|ectorarity=750|herbrarity=1024}}
+{{DropsTableBottom}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=84}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[10 December]] [[2007]]|update=Wilderness Changes, Bounty Hunter and Clan Wars!|img=Revenant demon (2007).png|name=Revenant demon}}
+|{{GUL|date=[[7 March]] [[2016]]|update=Patch Notes (7 March 2016)|img=Revenant demon.png|name=Revenant demon}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (7 March 2016)|date=7 March 2016}}
+** Several demons have been updated to use new models.
+
+* {{UL|type=update|update=Wilderness Changes, Bounty Hunter and Clan Wars!|date=10 December 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine for a revenant demon is slightly different from most other revenants (excluding revenant [[Revenant hellhound|hellhounds]], [[Revenant pyrefiend|pyrefiends]], [[Revenant icefiend|icefiends]], and [[Revenant imp|imps]]). Its examine says that it is the ''essence'' of an demon slain during the [[God Wars]], as opposed to the ''ghost'' of an demon slain during the God Wars. These five revenants are similar in that they are all demonic.
+
+==References==
+{{Reflist}}
+
+{{Revenants}}
+{{Ghost}}
+{{Demons}}
+
+[[Category:Participants in the God Wars]]
+[[Category:Zamorakians]]

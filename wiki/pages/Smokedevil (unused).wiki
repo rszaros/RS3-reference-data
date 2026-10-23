@@ -1,0 +1,86 @@
+{{External|os=Smokedevil}}
+{{Cache}}
+{{Infobox Monster new
+|name = Smokedevil
+|image = [[File:Smokedevil (unused).png|140px]]
+|release = [[26 January]] [[2005]]
+|update = Slayer Skill
+|members = Yes
+|options = Attack, Examine
+|race = Smoke devil
+|examine = The cave-dwelling cousin of the dust devils.
+|level = 114
+|lifepoints = 8000
+|experience = 400.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 65
+|slayxp = 
+|slayercat = Dust devils
+|assigned_by = 
+|max_melee = 0.0
+|max_ranged = 244.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec = 
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 105
+|ranged = 61
+|magic = 1
+|necromancy = 
+|acc_melee = 0
+|acc_ranged = 1164
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 1164
+|defence = 61
+|weakness = Crush
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = removed
+|id = 1625
+|leagueRegion = No
+}}
+The '''Smokedevil''' was an unused Slayer monster added to the cache with the release of the [[Slayer]] skill. Both the Smokedevil and the [[dust devil]] (then named Dustdevil) were not initially present in the game. The name and examine suggest that originally, the Dustdevil would have been encountered in the [[Kharidian Desert]], while the Smokedevil would have only been located underground in the [[Smoke Dungeon]]. However, when the desert was expanded a few months later, the Dustdevil was moved to the Smoke Dungeon instead.
+
+Curiously, when the Dustdevil was renamed in 2006, the examine of the Smokedevil was updated to reflect this.
+
+[[Smoke devil]]s eventually became available as a [[Summoning familiars|Summoning familiar]] in [[2008]].
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Smokedevil (unused) (2005).png|name=Smokedevil (unused)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Smokedevil (unused) (2008).png|name=Smokedevil (unused)}}
+|{{GUL|date=[[22 July]] [[2014]]|update=Patch Notes (22 July 2014)|img=Smokedevil (unused).png|name=Smokedevil (unused)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (22 July 2014)|date=22 July 2014}}
+** Dust and smoke devils have been graphically updated.
+
+* {{UL|type=hidden|update=|date=18 – 20 April 2006}}
+** The NPC's examine was changed from "''The cave-dwelling cousin of the dustdevils.''" to "''The cave-dwelling cousin of the dust devils.''"
+
+* {{UL|type=hidden|update=|date=11 July – 1 August 2005}}
+** The NPC's examine was changed from "''The dustdevils' cave-dwelling cousin.''" to "''The cave-dwelling cousin of the dustdevils.''"
+
+* {{UL|type=hidden|update=Slayer Skill|date=26 January 2005}}
+** Added to game cache.
+}}

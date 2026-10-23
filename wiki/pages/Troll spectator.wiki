@@ -1,0 +1,178 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|version6 = 6
+|version7 = 7
+|name = Troll spectator
+|image1 = [[File:Troll spectator.png|200px]]
+|image2 = [[File:Troll spectator (2).png|200px]]
+|image3 = [[File:Troll spectator (3).png|200px]]
+|image4 = [[File:Troll spectator (4).png|200px]]
+|image5 = [[File:Troll spectator (5).png|200px]]
+|image6 = [[File:Troll spectator (6).png|200px]]
+|image7 = [[File:Troll spectator (7).png|200px]]
+|release = [[24 August]] [[2004]]
+|update = Troll Stronghold Quest
+|members = Yes
+|options = Attack
+|examine = He's watching the arena.
+|level = 65
+|lifepoints = 7800
+|experience = 390.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 37.6
+|slayercat = Trolls
+|assigned_by = sumona,turael,chaeldar
+|max_melee = 1175
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 47
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 678
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 778
+|defence = 47
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 1118
+|id2 = 1119
+|id3 = 1120
+|id4 = 1121
+|id5 = 1122
+|id6 = 1123
+|id7 = 1124
+|leagueRegion=Asgarnia}}
+'''Troll spectators''' are [[trolls]] found in the [[troll arena]], where fights with [[Dad]] and [[Arrg]] take place. They watch instead of fight, just as the name suggests. They may be battled though, and are exactly the same as [[mountain troll]]s. They are non-aggressive, but if the player kills Dad, they will immediately attempt to attack the player.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Troll arena]]
+|lvls = 65
+|mem = Yes
+|mapID = 28
+|plane = 0
+|npcid:1123,x:2913,y:3602
+|npcid:1122,x:2917,y:3603
+|npcid:1118,x:2919,y:3612
+|npcid:1124,x:2924,y:3599
+|npcid:1120,x:2926,y:3607
+|npcid:1121,x:2929,y:3599
+|npcid:1119,x:2929,y:3613
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=3/256}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=3/256}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Nature rune|quantity=7|rarity=5/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|15/128}}
+{{DropsTableHead}}
+{{HerbDropTable|15/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|19/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium blunt steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium blunt adamant salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=8|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=35|rarity=29/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=50|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=100|rarity=18/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=250|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=3|rarity=3/128}}
+{{DropsLine|name=Raw mackerel|quantity=3 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Troll spectator old.png|name=Troll spectator}}
+|{{GUL|date=|update=|img=Troll spectator.png|name=Troll spectator}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Troll Stronghold Quest|date=24 August 2004}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Trolls}}
+{{Troll Stronghold}}
+[[Category:Bandosians]]
+[[Category:Quest monsters]]

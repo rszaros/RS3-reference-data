@@ -1,0 +1,187 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 14
+|version2 = 28
+|version3 = 42
+|version4 = 56
+|version5 = 70
+|version6 = 84
+|version7 = 98
+|version8 = 112
+|version9 = 126
+|version10 = 138
+|name = Hobgoblin
+|image = [[File:Hobgoblin.png|200px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|options = Attack, Mark
+|examine = An ugly, smelly creature with a spear.
+|level1 = 14
+|level2 = 28
+|level3 = 42
+|level4 = 56
+|level5 = 70
+|level6 = 84
+|level7 = 98
+|level8 = 112
+|level9 = 126
+|level10 = 138
+|lifepoints1 = 1000
+|lifepoints2 = 2000
+|lifepoints3 = 3000
+|lifepoints4 = 4000
+|lifepoints5 = 5000
+|lifepoints6 = 6000
+|lifepoints7 = 7000
+|lifepoints8 = 8000
+|lifepoints9 = 9000
+|lifepoints10 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 16
+|slayxp2 = 23
+|slayxp4 = 53
+|slayxp6 = 140
+|slayxp8 = 376
+|slayercat = Hobgoblins, Creatures of Daemonheim
+|max_melee1 = 50
+|max_melee2 = 100
+|max_melee3 = 150
+|max_melee4 = 200
+|max_melee5 = 250
+|max_melee6 = 300
+|max_melee7 = 350
+|max_melee8 = 400
+|max_melee9 = 450
+|max_melee10 = 495
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack1 = 10
+|attack2 = 20
+|attack3 = 30
+|attack4 = 40
+|attack5 = 50
+|attack6 = 60
+|attack7 = 70
+|attack8 = 80
+|attack9 = 90
+|attack10 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 202
+|acc_melee2 = 316
+|acc_melee3 = 454
+|acc_melee4 = 628
+|acc_melee5 = 850
+|acc_melee6 = 1132
+|acc_melee7 = 1486
+|acc_melee8 = 1924
+|acc_melee9 = 2458
+|acc_melee10 = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 202
+|armour2 = 316
+|armour3 = 454
+|armour4 = 628
+|armour5 = 850
+|armour6 = 1132
+|armour7 = 1299
+|armour8 = 1486
+|armour9 = 1694
+|armour10 = 1924
+|defence1 = 10
+|defence2 = 20
+|defence3 = 30
+|defence4 = 40
+|defence5 = 50
+|defence6 = 60
+|defence7 = 70
+|defence8 = 80
+|defence9 = 90
+|defence10 = 99
+|weakness1 = Air
+|weakness2 = Water
+|weakness3 = Earth
+|weakness4 = Fire
+|weakness5 = Air
+|weakness6 = Water
+|weakness7 = Earth
+|weakness8 = Fire
+|weakness9 = Air
+|weakness10 = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10236
+|id2 = 10237
+|id3 = 10238
+|id4 = 10239
+|id5 = 10240
+|id6 = 10241
+|id7 = 10242
+|id8 = 10243
+|id9 = 10244
+|id10 = 10245
+|leagueRegion = Wilderness
+}}
+'''Hobgoblins''' are monsters found in [[Daemonheim]], on the [[Abandoned floors]]. These monsters use spears to attack, and have a chance of dropping them. At higher levels, these monsters are very dangerous, and can easily hit over 350.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}} 
+{{DropsTableBottom}}
+
+===Monster-specific===
+These monsters can drop various spears when killed. The tier of the spear dropped depends on the level of the hobgoblin. For example, promethium spears are only dropped by level 141 hobgoblins.
+
+{{Dungeoneering droptable/head}}
+{{Dungeoneering droptable/line|Image=Promethium spear.png|Name=Promethium spear|Tier=10|Smugvalue=4080|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Gorgonite spear.png|Name=Gorgonite spear|Tier=9|Smugvalue=3450|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Katagon spear.png|Name=Katagon spear|Tier=8|Smugvalue=3030|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Argonite spear.png|Name=Argonite spear|Tier=7|Smugvalue=2670|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Zephyrium spear.png|Name=Zephyrium spear|Tier=6|Smugvalue=2130|Members=Yes}}
+{{Dungeoneering droptable/line|Image=Fractite spear.png|Name=Fractite spear|Tier=5|Smugvalue=1830|Members=No}}
+{{Dungeoneering droptable/line|Image=Kratonite spear.png|Name=Kratonite spear|Tier=4|Smugvalue=2640|Members=No}}
+{{Dungeoneering droptable/line|Image=Marmaros spear.png|Name=Marmaros spear|Tier=3|Smugvalue=1920|Members=No}}
+{{Dungeoneering droptable/line|Image=Bathus spear.png|Name=Bathus spear|Tier=2|Smugvalue=1020|Members=No}}
+{{Dungeoneering droptable/line|Image=Novite spear.png|Name=Novite spear|Tier=1|Smugvalue=420|Members=No}}
+|}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=ninja|update=Patch Notes (11 January 2016)|date=11 January 2016}}
+** Hobgoblins around the world have had their models updated to match the God Wars dungeon hobgoblins.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+[[Category:Bandosians]]
+[[Category:Hobgoblins]]

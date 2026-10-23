@@ -1,0 +1,450 @@
+{{External|rsc|os|dw|wp}}
+{{otheruses|standard zombies}}
+{{Infobox Monster
+|version1 = Level 12
+|version2 = Level 22
+|version3 = Level 29
+|name = Zombie
+|image = [[File:Zombie.png|x200px]]
+|image2 = [[File:ZombieGoS.png|x200px]][[File:ZombieGoS2.png|x200px]]
+|image3 = [[File:Zombie (level 29, 1).png|x200px]]
+|release = [[4 January]] [[2001]]
+|update = Runescape beta is now online!
+|level1 = 12
+|level2 = 22
+|level3 = 29
+|lifepoints1 = 450
+|lifepoints2 = 800
+|lifepoints3 = 1050
+|experience1 = 30.9
+|experience2 = 38.1
+|experience3 = 46.5
+|slaylvl = 1
+|slayxp = 8.0
+|slayxp3 = 9.8
+|slayercat = Zombies, Undead
+|assigned_by = Achtryn, Spria, Jacquelyn, Vannaka
+|members = No
+|aggressive = No
+|aggressive4 = Yes
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style = melee
+|speed1 = 4
+|speed2 = 4
+|speed3 = 5
+|max_melee1 = 36
+|max_melee2 = 64
+|max_melee3 = 105
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|weakness1 = Fire
+|weakness2 = Fire
+|weakness3 = Fire
+|weakness4 = Fire
+|weakness5 = Fire
+|actions = Attack
+|susceptibility = undead slayer
+|examine1 = {{*}} Dead man walking. <br/> {{*}} The walking dead.
+|examine2 = {{*}} Dead man walking. <br/> {{*}} Dead woman walking.
+|examine3 = The walking dead.
+|attack1 = 9
+|attack2 = 16
+|attack3 = 21
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|defence1 = 9
+|defence2 = 16
+|defence3 = 21
+|armour1 = 191
+|armour2 = 268
+|armour3 = 329
+|acc_melee1 = 191
+|acc_melee2 = 268
+|acc_melee3 = 329
+|acc_ranged = 0
+|acc_magic = 0
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|abilities = 
+|dropversion1 = Level 12
+|dropversion2 = Level 22
+|dropversion3 = Level 29
+|leagueRegion1 = Kandarin,Misthalin
+|leagueRegion2 = Misthalin
+|leagueRegion3 = Kandarin,Misthalin
+|id1 = 73, 5293, 5294, 5295, 5296, 5297, 5298, 5300, 5303, 5304, 5305, 5306, 5307
+|id2 = 74, 5308
+|id4 = 75, 5314, 5315, 5316, 5318, 5319, 5320, 5321, 5322
+}}
+[[File:Zombie icon.png|left]]
+'''Zombies''' are a form of undead found all over [[Gielinor]], appearing most often in graveyards, dungeons, and tombs. Like [[skeletons]], they are the result of [[necromancers]] reanimating the bodies of the dead. 
+
+Zombies have a wide variety of [[combat level]]s and appearances, but they generally attack with [[melee]] and have a low resistance to magical attacks, particularly [[fire spells]].
+
+Many types of zombies exist, including [[armoured zombie]]s, [[undead one]]s, [[zogre]]s, [[zombie hand]]s, [[monkey zombie]]s, [[zombie pirate]]s, [[zombie swab]]s, and [[dried zombie]]s. When given a [[slayer assignment]] for zombies, any zombie-class creature may be targeted, including [[undead chickens]] and [[undead cows|cows]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ardougne Sewers]]
+|lvls=29
+|mem=yes
+|mapID=0
+|npcid:5315,x:2675,y:9680
+|npcid:5314,x:2676,y:9684
+|npcid:75,x:2676,y:9687
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Draynor Sewers]]
+|lvls=12, 29
+|mem=no
+|mapID=31
+|npcid:5304,x:3119,y:9647
+|npcid:5321,x:3122,y:9658
+|npcid:5306,x:3124,y:9651
+|npcid:5319,x:3124,y:9662
+|npcid:5305,x:3086,y:9674
+|npcid:5320,x:3088,y:9672
+|npcid:5322,x:3096,y:9672
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Edgeville Dungeon]]
+|lvls=22, 29
+|mem=no
+|mapID=31
+|npcid:74,x:3139,y:9885
+|npcid:5308,x:3140,y:9893
+|npcid:5308,x:3143,y:9902
+|npcid:74,x:3142,y:9889
+|npcid:5308,x:3147,y:9883
+|npcid:74,x:3147,y:9899
+|npcid:5309,x:3148,y:9904
+|npcid:5309,x:3150,y:9889
+|npcid:74,x:3148,y:9907
+|npcid:5309,x:3151,y:9884
+|npcid:5320,x:3119,y:9862
+|npcid:5319,x:3124,y:9861
+|npcid:5321,x:3126,y:9865
+|npcid:5322,x:3130,y:9860
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Glarial's Tomb]]
+|lvls=12, 29
+|mem=yes
+|mapID=501
+|npcid:5295,x:2533,y:9842
+|npcid:73,x:2540,y:9823
+|npcid:5296,x:2540,y:9843
+|npcid:5314,x:2542,y:9840
+|npcid:75,x:2546,y:9815
+|npcid:5315,x:2546,y:9842
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Gnome Village Dungeon]]
+|lvls=12, 29
+|mem=yes
+|mapID=363
+|npcid:75,x:2603,y:4446
+|npcid:5293,x:2605,y:4449
+|npcid:5294,x:2612,y:4447
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Underground Pass]]
+|lvls=12, 29
+|mem=yes
+|mapID=579
+|npcid:5293,x:2394,y:9707
+|npcid:75,x:2396,y:9710
+|npcid:5315,x:2397,y:9702
+|npcid:5295,x:2398,y:9704
+|npcid:5314,x:2398,y:9707
+|npcid:5315,x:2399,y:9712
+|npcid:5297,x:2400,y:9701
+|npcid:5314,x:2401,y:9714
+|npcid:73,x:2405,y:9713
+|npcid:5315,x:2406,y:9709
+|npcid:75,x:2407,y:9702
+|npcid:75,x:2408,y:9712
+|npcid:5314,x:2409,y:9704
+|npcid:5294,x:2410,y:9707
+|npcid:73,x:2452,y:9684
+|npcid:5294,x:2453,y:9680
+|npcid:5296,x:2455,y:9677
+|npcid:75,x:2455,y:9680
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Varrock Sewers]]
+|lvls=12, 29
+|mem=no
+|mapID=31
+|npcid:5307,x:3243,y:9893
+|npcid:5305,x:3259,y:9891
+|npcid:5319,x:3224,y:9906
+|npcid:5320,x:3226,y:9903
+|npcid:5322,x:3229,y:9903
+|npcid:5321,x:3230,y:9906
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[West Ardougne]]
+|lvls=12, 29
+|mem=yes
+|mapID=28
+|npcid:5316,x:2497,y:3292
+|npcid:5298,x:2499,y:3286
+|npcid:5300,x:2500,y:3283
+|npcid:5303,x:2506,y:3284
+|npcid:5318,x:2511,y:3287
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Wizards' Guild]] basement
+|lvls=29
+|mem=yes
+|mapID=3
+|npcid:75,x:87,y:85
+|npcid:5314,x:88,y:83
+|npcid:5315,x:91,y:84
+|npcid:5315,x:94,y:83
+|npcid:75,x:94,y:85
+|npcid:5314,x:95,y:84
+|npcid:5314,x:97,y:83
+|npcid:75,x:97,y:84
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+As of an unknown update, zombies are no longer aggressive to low-levelled players.
+
+Many zombie locations are far from banks. These locations are close to banks:
+* The [[Draynor Sewers]] are moderately close to the [[Draynor bank]].
+* The [[Wizards' Guild]] is very close to the [[Yanille bank]], but it requires level 66 [[Magic]] to enter. In the basement of the Wizards' Guild are eight zombies in a locked cage. This area works as a [[Pay-to-play Magic training|magic training]] spot. Players have to use [[Telekinetic Grab]] to gather any drops, though most drops are worth less than the cost of the [[law rune]]s required. Items next to the fence can, however, be picked up via the [[Drops#Loot interface|loot interface]] if area loot is enabled. Simply drop an item next to the fence and pick it back up to open the interface.
+
+==Champion's Challenge==
+Zombies are one of the 'races' who have a lesser champion in the [[Champion's Challenge]] Distraction and Diversion. To fight the [[Zombie Champion]], the player must kill zombies until one drops a [[Zombie Champion's scroll|champion's scroll]], a 1/5000 drop.
+
+While [[undead one]]s count towards a [[Zombies (Slayer assignment)|zombie Slayer asignment]], they do not drop champions' scrolls.
+
+==Drops==
+===Level 12===
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|Zombie#Level 12}}
+
+====100% drop====
+{{DropsTableHead|version=Level 12}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+====Runes and ammunition====
+{{DropsTableHead|version=Level 12}}
+{{DropsLine|name=Iron arrow|quantity=8|rarity=7/128}}
+{{DropsLine|name=Body rune|quantity=6|rarity=5/128}}
+{{DropsLine|name=Mind rune|quantity=5|rarity=5/128}}
+{{DropsLine|name=Air rune|quantity=13|rarity=4/128}}
+{{DropsLine|name=Iron arrow|quantity=8|rarity=4/128}}
+{{DropsLine|name=Steel arrow|quantity=5|rarity=2/128}}
+{{DropsLine|name=Nature rune|quantity=6|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Weapons and armour====
+{{DropsTableHead|version=Level 12}}
+{{DropsLine|name=Bronze med helm|quantity=1|rarity=4/128}}
+{{DropsLine|name=Bronze longsword|quantity=1|rarity=1/256}}
+{{DropsLine|name=Bronze off hand longsword|quantity=1|rarity=1/256}}
+{{DropsTableBottom}}
+
+====Herbs====
+{{HerbDropTableIntro|25/128|version=Level 12}}
+{{DropsTableHead}}
+{{HerbDropTable|25/128|f2p=yes}}
+{{DropsTableBottom}}
+
+====Coins====
+{{DropsTableHead|version=Level 12}}
+{{DropsLine|name=Coins|quantity=10|rarity=11/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=4|rarity=4/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=18|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=28|rarity=2/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=13|rarity=2/128|gemw=No}}
+{{DropsTableBottom}}
+
+====Other====
+{{DropsTableHead|version=Level 12}}
+{{DropsLine|name=Fishing bait|quantity=5|rarity=37/128}}
+{{DropsLine|name=Nothing|rarity=8/128}}
+{{DropsLine|name=Copper ore|quantity=1|rarity=2/128}}
+{{DropsLine|name=Iron hatchet|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Tertiary drops====
+{{DropsTableHead|version=Level 12}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|gemw=no|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+===Level 22===
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|Zombie#Level 22}}
+
+====100% drop====
+{{DropsTableHead|version=Level 22}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+====Tertiary drops====
+{{DropsTableHead|version=Level 22}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|gemw=no|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+===Level 29===
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|Zombie#Level 29}}
+
+====100% drop====
+{{DropsTableHead|version=Level 29}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+====Weapons and armour====
+{{DropsTableHead|version=Level 29}}
+{{DropsLine|name=Iron mace|quantity=1|rarity=3/256}}
+{{DropsLine|name=Iron off hand mace|quantity=1|rarity=3/256}}
+{{DropsLine|name=Iron dagger|quantity=1|rarity=2/256}}
+{{DropsLine|name=Iron off hand dagger|quantity=1|rarity=2/256}}
+{{DropsLine|name=Bronze kiteshield|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Runes and ammunition====
+{{DropsTableHead|version=Level 29}}
+{{DropsLine|name=Air rune|quantity=3|rarity=3/128}}
+{{DropsLine|name=Mithril arrow|quantity=1|rarity=3/128}}
+{{DropsLine|name=Body rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Fire rune|quantity=7|rarity=1/128}}
+{{DropsLine|name=Chaos rune|quantity=4|rarity=1/128}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Herbs====
+{{HerbDropTableIntro|30/128|version=Level 29}}
+{{DropsTableHead}}
+{{HerbDropTable|30/128|f2p=yes}}
+{{DropsTableBottom}}
+
+====Coins====
+{{DropsTableHead|version=Level 29}}
+{{DropsLine|name=Coins|quantity=18|rarity=21/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=10|rarity=10/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=26|rarity=8/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=35|rarity=6/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=1|rarity=2/128|gemw=No}}
+{{DropsTableBottom}}
+
+====Other====
+{{DropsTableHead|version=Level 29}}
+{{DropsLine|name=Fishing bait|quantity=7|rarity=26/128}}
+{{DropsLine|name=Nothing|rarity=3/128}}
+{{DropsLine|name=Tinderbox|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tin ore|quantity=1|rarity=1/128}}
+{{DropsLine|name=Eye of newt|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Gem drop table====
+{{GemDropTable|1/128|version=Level 29}}
+
+====Tertiary drops====
+{{DropsTableHead|version=Level 29}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|gemw=no|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}}}
+{{BeginnerWeaponsDropLines}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Zombie.png|An average and common zombie.
+Zombie (level 29, 1).png|A zombie found in various dungeons on Gielinor.
+Zombie3.png|Another zombie
+Zombie4.png|A different zombie with a mutilated face.
+ZombieTT.png|A discontinued [[Temple Trekking]] zombie.
+Zombie (Lair of Tarn Razorlor, level 74, 1).png|A zombie in the Chaos Tunnels.
+Zombie (West Ardougne).png|One of the zombies in the graveyard of West Ardougne
+</gallery>
+
+==Graphical updates==
+===NPCs===
+{{Switch infobox
+|text1 = 1
+|item1 =
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Zombie (2004).png|name=Zombie (level 13)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie (1) (2007).png|name=Zombie (level 13 and 18)}}
+}}
+|text2 = 2
+|item2 =
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Zombie (2) (2004).png|name=Zombie (level 25)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie (2) (2007).png|name=Zombie (level 24)}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Copper stone spirit → Copper ore
+*** Tin stone spirit → Tin ore
+*** Tiny plated bronze salvage → Bronze med helm
+*** Small bladed bronze salvage → Bronze longsword/Bronze off hand longsword
+*** Tiny blunt iron salvage → Iron mace/Iron off hand mace
+*** Tiny spiky iron salvage → Iron dagger/Iron off hand dagger
+*** Medium plated bronze salvage → Bronze kiteshield
+
+* {{UL|type=patch|update=MHAW & Double XP - This Week In RuneScape|date=15 May 2023}}
+** Updated models for [[skeleton]]s, zombies and [[giant rat]]s within the [[Wilderness]], giving them the new [[Unwelcome Guests]] models.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Zombies can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (9 November 2009)|date=9 November 2009}}
+** Reworked various zombie and [[skeleton]] combat animations.
+
+* {{UL|type=patch|update=Patch Notes (25 March 2009)|date=25 March 2009}}
+** Stopped a zombie from playing a human animation that made it appear to explode briefly. Zombies in RuneScape have enough to worry about without an irrational fear of spontaneous combustion.
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Zombies, [[skeleton]]s and [[ghost]]s have been graphically updated.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* During the [[2010 Halloween event]], hordes of zombies would spawn in the ruins in the [[Clan Wars]] free-for-all arena. Those zombies did not give experience when killed.
+* One of the various examines for a zombie is "''Could his name be 'Lurch'?''" This is a reference to the butler in {{WP|The Addams Family}}, {{WP|Lurch (The Addams Family)|Lurch}}.
+* An update on [[12 April]] [[2010]] made the sound of the zombies when they get hit much deeper than previously.
+* Zombies drop fishing bait commonly. It is revealed in [[Let Them Eat Pie]] and [[Recipe for Disaster]] that fishing bait is actually maggots, which are often found on corpses.
+
+{{Zombie}}
+{{Meg's cases}}
+[[pt:Zumbi]]

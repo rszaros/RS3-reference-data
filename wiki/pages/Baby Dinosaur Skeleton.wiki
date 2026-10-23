@@ -1,0 +1,66 @@
+{{Infobox Monster
+|name = Baby Dinosaur Skeleton
+|image = [[File:File:Baby Dinosaur Skeleton.png]]
+|release = [[28 May]] [[2024]]
+|update = Osseous Launch - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|gender = 
+|examine = Horrific and adorable. Hodorable. Adorrific.
+|level = 77
+|lifepoints = 5000
+|aggressive = Yes 
+|poisonous = No
+|slayxp = 99.8
+|slaylvl = 1
+|slayercat = Dinosaurs, Skeletons, Undead
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 
+|style = Melee
+|primarystyle = melee
+|speed = 2
+|attack = 55
+|ranged = 1
+|magic = 1
+|necromancy = 
+|max_necromancy = 
+|acc_necromancy = 
+|weakness = none
+|susceptibility = salamancy, undead
+|armour = 983
+|defence = 55
+|acc_melee = 983
+|acc_ranged = 983
+|acc_magic = 983
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 55
+|aff_magic = 55
+|immune_to_poison = Yes
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|max_melee = 1229.3
+|id = 30945
+|leagueRegion=Anachronia}}
+'''Baby Dinosaur Skeletons''' are [[monster]]s summoned during the [[Osseous]] boss encounter. Six are summoned when Osseous slams her tail against the ground, and then will walk towards her. When they reach Osseous, they will heal her for a small portion of their remaining life points. Osseous will then swipe her tail, knocking them back, causing them to become aggressive towards the player. Their melee attacks can apply a short stun.
+
+They don't have the same resilience to non-[[necromancy]] attacks that Osseous does. When killed, they don't drop any [[items]].
+
+==Achievements==
+* {{Achievement|Too Many Bones to Pick From}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Osseous Launch - This Week In RuneScape|date=28 May 2024}}
+** Added to game.
+}}
+
+==Trivia==
+* Their graphical model is the same as the [[T-bone]] pet.
+
+{{Rex Matriarchs}}
+[[Category:NPCs that can move at running speed]]
+[[Category:NPCs that can move at crawling speed]]
+[[Category:Boss minions]]

@@ -1,0 +1,180 @@
+{{External|os}}
+{{otheruses|the Fight Caves monster|the pickpocketable TzHaar-Hur|TzHaar-Hur trader|the Tokhaar monster version|TokHaar-Hur}}
+{{otheruses|def=no|the TzekHaar version|TzekHaar-Hur}}
+{{Infobox Monster
+|version1 = Level 86
+|version2 = Level 98
+|name = TzHaar-Hur
+|image = [[File:TzHaar-Hur.png|150px]]
+|release1 = [[19 September]] [[2005]]
+|release2 = [[13 May]] [[2008]]
+|update1 = Massive minigame - Fight Pits
+|update2 = TokTz-Ket-Dill
+|members = Yes
+|options1 = Attack, Examine
+|options2 = Talk to, Attack, Examine
+|examine1 = The Hur caste, with their small, dexterous hands, are skilled craftsmen.
+|examine2 = It looks like a craftsman of some kind.
+|level1 = 86
+|level2 = 98
+|lifepoints1 = 3100
+|lifepoints2 = 3500
+|experience1 = 155.0
+|experience2 = 175.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 77.5
+|slayxp2 = 0
+|slayercat = TzHaar
+|assigned_by1 = Kuradal,morvran
+|max_melee1 = 310
+|max_melee2 = 210
+|max_ranged1 = 0
+|max_ranged2 = 0
+|max_magic1 = 0
+|max_magic2 = 280
+|max_necromancy = 0
+|style1 = melee
+|style2 = magic
+|speed = 5
+|attack1 = 62
+|attack2 = 52
+|ranged1 = 1
+|ranged2 = 0
+|magic1 = 1
+|magic2 = 70
+|necromancy = 1
+|acc_melee1 = 1197
+|acc_melee2 = 525
+|acc_ranged = 0
+|acc_magic1 = 0
+|acc_magic2 = 1486
+|acc_necromancy = 0
+|armour1 = 1197
+|armour2 = 1486
+|defence1 = 62
+|defence2 = 70
+|weakness1 = Water
+|weakness2 = Bolts
+|aff_weakness = 90
+|aff_melee1 = 55
+|aff_melee2 = 45
+|aff_ranged1 = 45
+|aff_ranged2 = 65
+|aff_magic1 = 65
+|aff_magic2 = 55
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 2603
+|id2 = 7767,7768,7769
+|leagueRegion=Karamja, Tirannwn}}
+[[File:TzHaar-Hur chathead.png|left|95px]]
+The '''TzHaar-Hur''' are inhabitants of the [[TzHaar city]]. As they are [[TzHaar]] crafters, they are unarmed and thus are the only TzHaar that do not drop obsidian weaponry. When initiating combat with them, they may occasionally use a signal animation of throwing a fiery flare up while [[retreat]]ing, causing nearby [[TzHaar-Ket]], [[TzHaar-Xil]], or [[TzHaar-Mej]] to become aggressive to the player to defend the TzHaar-Hur, saying {{RSChat|Kot kl, zek e JalYt!}} or {{RSChat|Kot e TzHaar-Hur!}}
+
+The [[TzHaar mine]] from the quest [[TokTz-Ket-Dill]], contains 3 TzHaar-Hur which can be safely killed without interference from other TzHaar, although note that they attack with magic.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[TzHaar City]]
+|lvls=86, 98
+|mem=yes
+|mapID=12
+|npcid:2602,x:4622,y:5121
+|npcid:2600,x:4654,y:5122
+|npcid:2602,x:4669,y:5133
+|npcid:2603,x:4711,y:5088
+|npcid:2600,x:4712,y:5070
+|npcid:2602,x:4714,y:5115
+|npcid:2601,x:4727,y:5108
+|npcid:2601,x:4675,y:5127
+|npcid:2601,x:4691,y:5124
+|npcid:2600,x:4750,y:5083
+|npcid:2602,x:4751,y:5069
+|npcid:2603,x:4762,y:5095
+|npcid:2601,x:4791,y:5112
+|npcid:7767,x:4762,y:5147
+|npcid:7768,x:4765,y:5157
+|npcid:7769,x:4772,y:5151
+|leagueRegion = Karamja}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=1/129}}
+{{DropsTableBottom}}
+
+===Gems===
+{{TzhaarGemDropTable|6/129}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=9/129}}
+{{DropsLine|name=Silver stone spirit|quantity=2|rarity=8/129}}
+{{DropsLine|name=Coal stone spirit|quantity=1|rarity=6/129}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Tokkul|quantity=100-700|rarity=37/129|gemw=No|altvalue=22}}
+{{DropsLine|name=Molten glass|quantity=2|rarity=12/129}}
+{{DropsLine|name=Wool|quantity=2-8 (noted)|rarity=8/129}}
+{{DropsLine|name=Flax|quantity=4-12 (noted)|rarity=9/129}}
+{{DropsLine|name=Pure essence|quantity=2-6 (noted)|rarity=9/129}}
+{{DropsLine|name=Soft clay|quantity=3 (noted)|rarity=8/129}}
+{{DropsLine|name=Leather|quantity=3 (noted)|rarity=8/129}}
+{{DropsLine|name=Hard leather|quantity=3 (noted)|rarity=7/129}}
+{{DropsLine|name=Onyx bolt tips|quantity=1|rarity=1/129}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Ring of stone|quantity=1|rarity=1/5000|altrarity=1/4850|raritynotes={{DropNote|1/4,850 if you have tier 2 [[luck]] or higher active.}}|citations={{CiteGeneral|url=https://runescape.wiki/w/TokHaar-Hok?type=revision&diff=30002840&oldid=29794267|title=TokHaar-Hok|accessdate=10 June 2020|author=Mod Shauny|date=8 October 2019|archiveurl=https://reldo.runescape.wiki/i/102614|archivedate=10 June 2020|quote=Rarity = 1/5000. 1/4850 if you have tier 2+ Luck active.}}}}
+{{DropsLine|name=Obsidian charm|quantity=1|rarity=637.936/1000|gemw=No}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Hur.jpg|Concept art.
+</gallery>
+
+==Achievements==
+* {{Achievement|Jungle Predator}}
+** [[Ring of stone]] drop
+
+==Graphical updates==
+===NPC===
+{{GU|subject=NPCs
+|{{GUL|date=[[19 September]] [[2005]]|update=Massive minigame - Fight Pits|img=TzHaar-Hur (2005).png|name=TzHaar-Hur}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=TzHaar-Hur (2008).png|name=TzHaar-Hur}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=TzHaar-Hur.png|name=TzHaar-Hur}}
+}}
+
+===Chathead===
+{{GU|subject=chathead
+|{{GUL|date=[[19 September]] [[2005]]|update=Massive minigame - Fight Pits|img=TzHaar-Hur chathead (2005).png|name=TzHaar-Hur}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=TzHaar-Hur chathead (2008).png|name=TzHaar-Hur}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=TzHaar-Hur chathead.png|name=TzHaar-Hur}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Massive minigame - Fight Pits|date=19 September 2005}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{TokTz-Ket-Dill}}
+{{TzHaar}}
+{{TzHaar City}}

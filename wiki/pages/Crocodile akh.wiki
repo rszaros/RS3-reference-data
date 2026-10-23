@@ -1,0 +1,135 @@
+{{Infobox Monster
+|name = Crocodile akh
+|image = [[File:Crocodile akh.png]]
+|release = [[5 June]] [[2017]]
+|update = Menaphos - The Gates are Open
+|members = Yes
+|options = Attack
+|examine = A crocodile under the control of the Devourer.
+|level = 115
+|lifepoints = 18000
+|experience = 900.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 111
+|slayxp = 761.2
+|slayercat = Soul devourers, Crocodiles
+|max_melee = 1561
+|max_ranged = 1561
+|max_magic = 1561
+|max_necromancy = 0
+|max_spec = 4000
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 85
+|ranged = 85
+|magic = 85
+|necromancy = 1
+|acc_melee = 2178
+|acc_ranged = 2178
+|acc_magic = 2178
+|acc_necromancy = 0
+|armour = 1924
+|defence = 80
+|weakness = Water
+|susceptibility = Consecrated keris
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 24602
+|leagueRegion=Desert}}
+[[File:Crocodile akh icon.png|left]]
+A '''crocodile akh '''is a [[Slayer monster]] that requires level 111 [[Slayer]] to kill. A [[feather of Ma'at]] is required to complete each kill. They can be found in the [[Sophanem Slayer Dungeon]]. The [[Slayer master]] [[Sumona]] has a high chance of assigning them.{{CiteForum|author = Mod Shauny|url = http://services.runescape.com/m=forum/l=0/sl=0/forums.ws?15,16,160,65917986|title = Patch Notes - 05/06|forum = Recent Game Updates|postdate = 5 June 2017|archiveurl=https://reldo.runescape.wiki/i/25809436|archivedate=29 June 2017}}
+
+Crocodile akhs have a special attack that triggers after five normal attacks where they will tail whip the player. This attack can deal massive (4,000+) damage at 0% [[Corrupted (status)|corruption]], although it is usually not a concern with sufficient weaponry, as a player can easily kill them before they can use it.
+{{clear|left}}
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Sophanem Slayer Dungeon]]
+|lvls=115
+|mem=yes
+|mapID=718
+|npcid:24602,x:3360,y:9124|npcid:24602,x:3362,y:9139|npcid:24602,x:3364,y:9133
+|npcid:24602,x:3364,y:9145|npcid:24602,x:3368,y:9148|npcid:24602,x:3370,y:9127
+|npcid:24602,x:3371,y:9134|npcid:24602,x:3372,y:9140|npcid:24602,x:3378,y:9136
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}} This value assumes you are not on slayer task, have auto-loot settings on and you don't hold [[vital spark drop enhancer]] or [[Sophanem slayer dungeon drop enhancer]]. It also doesn't calculate value of [[rare drop table]] drops. With these average drop value can be significantly higher.
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Fire battlestaff|quantity=1|rarity=8/128}}
+{{DropsLine|name=Rune javelin|quantity=40|rarity=10/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2000|rarity=44/128}}
+{{DropsLine|name=Coins|quantity=3000|rarity=36/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Fire orb|quantity=3 (noted)|rarity=16/128}}
+{{DropsLine|name=Uncut ruby|quantity=2 (noted)|rarity=12/128}}
+{{DropsLine|name=Large plated rune salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/150}}
+
+===Tertiary===
+Regardless of chest auto-loot settings, all tertiary drops, with the exception of [[vital spark]]s, are dropped to the ground.
+
+{{DropsTableHead}}
+{{DropsLineSophanemSlayerDungeonTertiary|slayer_level=111}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=99/25600|raritynotes={{DropNote|name=elite|There's a 1% chance an elite clue scroll will be upgraded to a master clue scroll.}}}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=1/25600|raritynotes={{DropNote|name=elite}}}}
+{{DropsLineEffigy|level=115}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=115}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.579/1000
+|green = 44.79/1000
+|crimson = 313.527/1000
+|blue = 8.958/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Beneath Scabaras' Sands Quest Launch - This Week In RuneScape|date=13 January 2025}}
+** It is now susceptible to consecrated keris.
+
+* {{UL|type=update|update=Menaphos - The Gates are Open|date=5 June 2017}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Sophanem Slayer Dungeon}}
+{{Slayer monsters}}
+[[Category:Amascut]]
+[[pt:Akh crocodilo]]

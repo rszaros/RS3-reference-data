@@ -1,0 +1,136 @@
+{{External|os=Giant Scarab}}
+{{Otheruses|def=no|the monster from Dealing with Scabaras|Giant scarab (Dealing with Scabaras)}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Contact!
+|version2 = Dominion Tower
+|version3 = Rumble Mode
+|name = Giant scarab
+|image = [[File:Giant scarab (contact!).png]]
+|release1 = [[10 January]] [[2007]]
+|release2 = [[1 November]] [[2011]]
+|release3 = [[8 December]] [[2014]]
+|update1 = Contact!
+|update2 = Dominion Tower
+|update3 = Snowverload & Dominion Tower Rumble Mode
+|members = No
+|options = Attack, Examine
+|race = Scarab
+|examine = A huge scarab beast.
+|level = 86
+|lifepoints1 = 20000
+|lifepoints2 = 30000
+|lifepoints3 = 
+|aggressive1 = Yes
+|aggressive2 = Yes
+|aggressive3 = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 130
+|slayercat1 = Scabarites
+|slayercat2 = No
+|slayercat3 = No
+|max_melee1 = 372
+|max_melee2 = 558
+|max_melee3 = 558
+|max_ranged1 = 372
+|max_ranged2 = 558
+|max_ranged3 = 558
+|max_magic1 = 372
+|max_magic2 = 558
+|max_magic3 = 558
+|max_necromancy = 0
+|max_spec = 
+|style = Ranged
+|primarystyle = Ranged
+|speed = 6
+|attack1 = 62
+|attack2 = 62
+|attack3 = 
+|ranged1 = 62
+|ranged2 = 62
+|ranged3 = 
+|magic1 = 62
+|magic2 = 62
+|magic3 = 
+|necromancy = 1
+|acc_melee = 1197
+|acc_ranged = 1197
+|acc_magic = 1197
+|acc_necromancy = 0
+|abilities = 
+|armour = 1197
+|defence1 = 62
+|defence2 = 62
+|defence3 = 
+|weakness = None
+|susceptibility = Keris
+|aff_weakness = 40
+|aff_melee = 40
+|aff_ranged = 40
+|aff_magic = 40
+|immune_to_poison = No 	
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction1 = quest
+|restriction2 = minigame
+|restriction3 = minigame
+|id1 = 5253
+|id2 = 14609
+|id3 = 17299
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = Contact!
+|version2 = Dominion Tower
+|name = Giant scarab
+|image = [[File:Giant scarab (contact!).png]]
+|release1 = [[10 January]] [[2007]]
+|release2 = [[1 November]] [[2011]]
+|update1 = Contact!
+|update2 = Dominion Tower
+|members = Yes
+|race = Scarab
+|quest1 = [[Contact!]]
+|quest2 = No
+|location = [[Sophanem Dungeon]]
+|gender = None
+|options = Examine
+|examine = A huge scarab beast.
+|map = No
+|id1 = 5292
+|id2 = 14608
+}}
+}}
+The '''giant scarab''' is a monster fought during the final battle of the [[Contact!]] quest. The Scabarites set it to guard the place where they killed [[Kaleef]], close by the chasm under Sophanem, a direct route to their nest. It is constituted of three scarab swarm that merge together, which disperse and flee once the beast is killed. 
+
+The giant scarab summons level 75 [[locust rider]]s and [[scarab mage]]s to aid it in its battle. It hits upwards of 200 life points with [[melee]] and [[ranged]] and is very [[poisonous]], with the damage starting at 98 per hit. If the players are out of [[melee]] range from the giant scarab and are using [[Protect from Ranged]], a message will say "The scarab clacks its mandibles and you are mystically poisoned," so you will be poisoned anyway, unless you drink [[antipoison]] or are holding an [[anti-poison totem]].
+
+The grey object in its back is [[Kaleef]]'s [[keris]] dagger.
+
+The giant scarab is fightable as a class D boss monster in the [[Dominion Tower]] minigame if the player has completed [[Contact!]]. During the Dominion Tower battle, however, the player can use keris, and the riders and mages that the scarab summons are level 75.
+
+==Drops==
+{{DropsTableHead|version=Contact!}}
+{{DropsLine|name=Keris|quantity=1|rarity=Always|gemw=No}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=hidden|update=Beneath Scabaras' Sands Quest Launch - This Week In RuneScape|date=13 January 2025}}
+** The variant in Dominion Tower is now susceptible to keris.
+
+* {{UL|type=update|update=Contact!|date=10 January 2007}}
+** Added to game.
+}}
+
+{{Contact!}}
+{{Dominion Tower}}
+[[Category:Quest monsters]]
+[[Category:Unique monsters]]
+[[Category:Deceased characters]]
+[[Category:Bugs]]

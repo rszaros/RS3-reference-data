@@ -1,0 +1,115 @@
+{{External|os}}
+{{Otheruses|the undead farm animal|items and other uses|Undead chicken (disambiguation)}}
+{{Infobox Monster
+|name = Undead chicken
+|image = [[File:Undead chicken.png|200px]]
+|release = [[15 February]] [[2005]]
+|update = Ghosts Ahoy and Slayer Update
+|members = Yes
+|actions = Attack
+|race = Zombie chicken
+|examine = Yep, definitely a chicken...an undead chicken.
+|level = 7
+|lifepoints = 700
+|experience = 35.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Birds, Zombies, Undead
+|max_melee = 75
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 3
+|attack = 5
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 50
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Fire
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1692
+|leagueRegion = Morytania
+}}
+'''Undead chickens''' are the reanimated remains of the [[chicken]]s owned by farmers [[Alice (farmer)|Alice]] and her now-ethereal husband. The same occurrence has happened to the [[cow]]s, who are now [[undead cows]].
+
+The reason for this lies with [[Necrovarus]], who invented the method of repelling the [[vampyre]] overlords of [[Morytania]]. The animals were turned into zombies because of the mysterious powers of the [[Ectofuntus]] nearby. The citizens of Port Phasmatys were turned into ghosts as well. The chickens, as are the cows on the farm, are often hunted by players for their bones which are used at the Ectofuntus.
+
+When Port Phastmatys was first released, several more undead chickens could be found inside the Port, in an open yard near the city's [[bank]]. Players could fight them while wearing [[bedsheet]]s, and because no animation existed for this, it would appear that the chickens were being damaged while the player merely stood there. Possibly because of this, the undead chickens were removed from Port Phasmatys itself shortly after its release.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Alice's farm]]
+|lvls=7
+|mem=yes
+|mapID=28
+|npcid:1692,x:3627,y:3531|npcid:1692,x:3629,y:3530|npcid:1692,x:3631,y:3529
+|npcid:1692,x:3631,y:3531|npcid:1692,x:3632,y:3526|npcid:1692,x:3633,y:3525
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw undead chicken|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main===
+{{DropsTableHead|version=Port Phasmatys}}
+{{DropsLine|name=Feather|quantity=5|rarity=64/128}}
+{{DropsLine|name=Feather|quantity=15|rarity=32/128}}
+{{DropsLine|name=Nothing|rarity=32/128}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[15 February]] [[2005]]|update=Ghosts Ahoy and Slayer Update|img=Undead chicken (2005).png|name=Undead chicken}}
+|{{GUL|date=[[12 December]] [[2006]]|update=Animal Magnetism|img=Undead chicken (2006).png|name=Undead chicken}}
+|{{GUL|date=|update=|img=Undead chicken old.png|name=Undead chicken}}
+|{{GUL|date=[[12 March]] [[2013]]|update=Tribute to Guthix and New Combat Abilities|img=Undead chicken (2013).png|name=Undead chicken}}
+|{{GUL|date=[[23 March]] [[2015]]|update=Dimension of Disaster – 200th Quest|img=Undead chicken (2015).png|name=Undead chicken}}
+|{{GUL|date=[[3 September]] [[2018]]|update=Player Owned Farm|img=Undead chicken.png|name=Undead chicken}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=patch|update=Patch Notes (7 December 2015)|date=7 December 2015}}
+** The undead chickens in [[Morytania]] received a graphical update.
+
+* {{UL|type=update|update=Ghosts Ahoy and Slayer Update|date=15 February 2005}}
+** Added to game.
+}}
+
+{{Zombie}}
+{{Chickens}}
+{{Alice's farm}}

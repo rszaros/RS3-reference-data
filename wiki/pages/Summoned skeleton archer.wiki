@@ -1,0 +1,69 @@
+{{Infobox Monster
+|name = Summoned skeleton archer
+|image = [[File:Summoned skeleton archer.png|175px]]
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|members = Yes
+|options = Attack, Mark, Examine
+|race =
+|examine = Doesn't leave much of a silhouette
+|level = 98
+|lifepoints = 2000
+|experience = 100
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp =
+|slayercat = Skeletons
+|max_melee = 672
+|max_ranged = 672
+|max_magic = 672
+|max_necromancy = 0
+|max_spec =
+|style = Ranged
+|primarystyle = Ranged
+|speed = 4
+|attack = 70
+|ranged = 70
+|magic = 70
+|necromancy = 1
+|acc_melee = 2458
+|acc_ranged = 2458
+|acc_magic = 2458
+|acc_necromancy = 0
+|abilities =
+|armour = 1486
+|defence = 70
+|weakness = Crushing
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect =
+|immune_to_stun =
+|immune_to_drain =
+|restriction = No
+|leagueRegion = Wilderness
+|id = 26061
+}}
+'''Summoned skeleton archer''' is a monster that spawns in [[The Shadow Reef]] by [[Taraket the Necromancer]] and the [[corpse carrier]].
+
+In story mode, their life points is 1,000, down from 2,000.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+{{The Shadow Reef}}
+{{Skeletons}}
+[[Category:Boss minions]]

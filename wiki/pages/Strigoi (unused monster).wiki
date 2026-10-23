@@ -1,0 +1,58 @@
+{{Otheruses|the monster|the other slayer monster|Ravenous strigoi|the race|Strigoi (race)}}
+{{cache}}
+{{Infobox Monster
+|name = Strigoi
+|image = [[File:Strigoi.png]]
+|release = [[12 October]] [[2026]]
+|update = The Week Ahead: Ghrazi Blood Knights & Harvest Hollow!
+|members = Yes
+|options = Attack, Examine
+|race = Strigoi
+|examine = A hulking vampyric creature with a snaking tongue.
+|level = 119
+|lifepoints = 40000
+|experience = 0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp =
+|slayercat = Vampyres
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed =
+|attack = 85
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 2178
+|defence = 85
+|weakness = None
+|susceptibility = Blisterwood, Vampyre Slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 60
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|id = 32918
+}}
+'''Strigoi''' is a [[monster]] added to the game cache with the release of [[the Ghrazi Blood Knights]]. Despite its name and examine text, it uses the model of a [[venator]].
+
+==Update history==
+{{UH|
+* {{UL|type=hidden|update=The Week Ahead: Ghrazi Blood Knights & Harvest Hollow!|date=12 October 2026}}
+** Added to game cache.
+}}

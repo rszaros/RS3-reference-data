@@ -1,0 +1,642 @@
+{{External|rsc|os|wp}}
+{{otheruses|the animals found across RuneScape}}
+{{Infobox Monster
+|version1 = Common
+|version2 = Stronghold of Security
+|version3 = Rat Catchers
+|name = Rat
+|image1 = [[File:Rat.png|150px]]
+|image2 = [[File:Stronghold of Security Rat.png|Rat|150px]]
+|image3 = [[File:Rat.png|150px]]
+|release1 = [[4 January]] [[2001]]
+|release2 = [[4 July]] [[2006]]
+|release3 = [[28 November]] [[2005]]
+|update1 = Runescape beta is now online!
+|update2 = Security and free-to-play update - the Stronghold of Security
+|update3 = Rat Catchers and Rat Pits!
+|level1 = 1
+|level2 = 1
+|level3 = 0
+|experience1 = 2.5
+|experience2 = 2.5
+|experience3 = 12.4
+|lifepoints1 = 50
+|lifepoints2 = 50
+|lifepoints3 = 10
+|slaylvl = 1
+|slayxp = 6.4
+|slayercat = Rats
+|assigned_by = jacquelyn
+|members1 = No
+|members2 = No
+|members3 = Yes
+|aggressive1 = No
+|aggressive2 = 
+|aggressive3 = 
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style1 = melee
+|style2 = melee
+|style3 = 
+|primarystyle1 = melee
+|primarystyle2 = melee
+|primarystyle3 = 
+|speed1 = 4
+|speed2 = 4
+|speed3 = 4
+|max_melee1 = 4
+|max_melee2 = 4
+|max_melee3 = -20
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|weakness1 = Earth
+|weakness2 = Earth
+|weakness3 = 
+|options = Attack
+|examine1 = A popular dwarven delicacy.
+|examine2 = A popular dwarven delicacy.
+|examine3 = 
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|defence = 1
+|armour1 = 110
+|armour2 = 110
+|armour3 = 
+|acc_melee1 = 110
+|acc_melee2 = 110
+|acc_melee3 = -20
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|abilities = 
+|leagueRegion = Global
+|id1 = 47
+|id2 = 2682
+|id3 = 3007
+}}
+[[File:Rat icon.png|left]]
+'''Rats''' are small animals which can be found in numerous locations, mostly in cities, sewers and dungeons. They are best found outside and on the {{FloorNumber|1}} of [[Lumbridge Castle]]. Their tails are most commonly used for the completion of the [[Witch's Potion (miniquest)|Witch's Potion]] [[miniquests|miniquest]], and they are one of the weakest creatures in ''RuneScape''. The only rats that drop bones are those in the [[Stronghold of Security]]. They are good for training on for new players as they have low life points and defence and [[respawn]] in only a few seconds, but they can be hard to click as they're small and move very fast.
+[[File:Rat idle animation.gif|frame|left|A rat in its idle animation.]]
+{{clear|left}}
+==Cats==
+Players who have a [[cat]] or a kitten can tell it to chase vermin, in which case it will try to attack any rat in range. If your cat catches at least 100 rats you can go to [[Gertrude]] to get a [[cat training medal]] (no special bonuses). Also, if you have a [[rat pole]], a rat will be added to it each time a rat is caught by your cat.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Abandoned Mine]] - Level 2
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|Haunted Mine}}
+|mem=yes
+|mapID=294
+|npcid:47,x:2777,y:4582|npcid:47,x:2780,y:4592|npcid:47,x:2783,y:4593|npcid:47,x:2785,y:4580|npcid:47,x:2786,y:4578|npcid:47,x:2787,y:4579|npcid:47,x:2802,y:4599|npcid:47,x:2812,y:4577
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Abandoned Mine]] - Level 4
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|Haunted Mine}}
+|mem=yes
+|mapID=296
+|npcid:47,x:2798,y:4531|npcid:47,x:2800,y:4526|npcid:47,x:2803,y:4526
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=Between [[Edgeville]] and [[Grand Exchange|Varrock Grand Exchange]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:47,x:3126,y:3486|npcid:47,x:3127,y:3488|npcid:47,x:3130,y:3487
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Black Knights' Base]]
+|lvls=1
+|mem=yes
+|mapID=17
+|npcid:47,x:2930,y:9701|npcid:47,x:2932,y:9687|npcid:47,x:2932,y:9692|npcid:47,x:2932,y:9697
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Black Knights' Catacombs]] - Level One
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|While Guthix Sleeps}}
+|mem=yes
+|mapID=189
+|npcid:2682,x:1866,y:4237|npcid:2682,x:1866,y:4240|npcid:2682,x:1867,y:4243
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Brimhaven]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:47,x:2807,y:3167|npcid:47,x:2810,y:3170
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc=[[Burgh de Rott]]
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|In Aid of the Myreque}}
+|mem=yes
+|mapID=28
+|npcid:47,x:3483,y:3210|npcid:47,x:3489,y:3211|npcid:47,x:3490,y:3243|npcid:47,x:3492,y:3228|npcid:47,x:3496,y:3230|npcid:47,x:3496,y:3242|npcid:47,x:3498,y:3212|npcid:47,x:3500,y:3224|npcid:47,x:3505,y:3230|npcid:47,x:3506,y:3243|npcid:47,x:3508,y:3225|npcid:47,x:3512,y:3228|npcid:47,x:3516,y:3222
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Cabin Fever]] Sea battle
+|lvls=1
+|mem=yes
+|mapID=471
+|npcid:47,x:1814,y:4826|npcid:47,x:1815,y:4832|npcid:47,x:1823,y:4829|npcid:47,x:1823,y:4837|npcid:47,x:1824,y:4839|npcid:47,x:1825,y:4831
+|leagueRegion = no
+}}
+{{LocLine
+|loc=[[Clock Tower Dungeon]]
+|lvls=1
+|mem=yes
+|mapID=0
+|npcid:47,x:2568,y:9620|npcid:47,x:2573,y:9612|npcid:47,x:2579,y:9631|npcid:47,x:2580,y:9600|npcid:47,x:2580,y:9614|npcid:47,x:2580,y:9620|npcid:47,x:2580,y:9626|npcid:47,x:2583,y:9632|npcid:47,x:2584,y:9625|npcid:47,x:2584,y:9637|npcid:47,x:2589,y:9644|npcid:47,x:2590,y:9601|npcid:47,x:2590,y:9638|npcid:47,x:2591,y:9601|npcid:47,x:2591,y:9621|npcid:47,x:2594,y:9636|npcid:47,x:2594,y:9644|npcid:47,x:2597,y:9604|npcid:47,x:2607,y:9615|npcid:47,x:2608,y:9628|npcid:47,x:2614,y:9651|npcid:47,x:2614,y:9656|npcid:47,x:2615,y:9647|npcid:47,x:2615,y:9661|npcid:47,x:2616,y:9633|npcid:47,x:2618,y:9630
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Crandor and Karamja Dungeon]]
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|Dragon Slayer}}
+|mem=no
+|mapID=13
+|npcid:47,x:300,y:227|npcid:47,x:302,y:230
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc=[[Draynor Manor]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:47,x:3099,y:3366|npcid:47,x:3101,y:3355
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Draynor Manor|Draynor Manor Dungeon]]
+|lvls=1
+|mem=no
+|mapID=31
+|npcid:47,x:3093,y:9754|npcid:47,x:3099,y:9755|npcid:47,x:3099,y:9765|npcid:47,x:3101,y:9748|npcid:47,x:3103,y:9764|npcid:47,x:3104,y:9760|npcid:47,x:3111,y:9752|npcid:47,x:3113,y:9754|npcid:47,x:3116,y:9754
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Draynor Sewers]]
+|lvls=1
+|mem=no
+|mapID=31
+|npcid:47,x:3083,y:9673|npcid:47,x:3091,y:9670|npcid:47,x:3099,y:9674|npcid:47,x:3106,y:9689|npcid:47,x:3108,y:9672|npcid:47,x:3113,y:9683|npcid:47,x:3117,y:9694|npcid:47,x:3118,y:9670|npcid:47,x:3122,y:9673|npcid:47,x:3123,y:9666
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Draynor Village]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:47,x:3100,y:3273
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Dwarven mines]]
+|lvls=1
+|mem=no
+|mapID=18
+|npcid:47,x:3026,y:9837|npcid:47,x:3033,y:9827|npcid:47,x:3042,y:9818|npcid:47,x:3043,y:9815
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Draynor Sewers]]
+|lvls=1
+|mem=yes
+|mapID=542
+|npcid:47,x:3083,y:9673|npcid:47,x:3091,y:9670|npcid:47,x:3099,y:9674|npcid:47,x:3106,y:9689|npcid:47,x:3108,y:9672|npcid:47,x:3113,y:9683|npcid:47,x:3117,y:9694|npcid:47,x:3118,y:9670|npcid:47,x:3122,y:9673|npcid:47,x:3123,y:9666
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Edgeville Dungeon]]
+|lvls=1
+|mem=no
+|mapID=31
+|npcid:47,x:3112,y:9884|npcid:47,x:3121,y:9875
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Gertrude|Gertrude's house]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:47,x:3151,y:3414
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Gnome Maze]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:47,x:2502,y:3184|npcid:47,x:2506,y:3190|npcid:47,x:2508,y:3187|npcid:47,x:2509,y:3191|npcid:47,x:2511,y:3188|npcid:47,x:2512,y:3190|npcid:47,x:2513,y:3187|npcid:47,x:2516,y:3190|npcid:47,x:2516,y:3191
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Goblin Cave]]
+|lvls=1
+|mem=yes
+|mapID=0
+|npcid:47,x:2573,y:9805|npcid:47,x:2575,y:9803|npcid:47,x:2578,y:9806|npcid:47,x:2579,y:9804|npcid:47,x:2583,y:9803|npcid:47,x:2585,y:9804|npcid:47,x:2585,y:9830|npcid:47,x:2587,y:9803|npcid:47,x:2588,y:9825|npcid:47,x:2591,y:9801|npcid:47,x:2592,y:9806|npcid:47,x:2594,y:9801|npcid:47,x:2599,y:9803|npcid:47,x:2599,y:9812|npcid:47,x:2601,y:9810|npcid:47,x:2610,y:9806|npcid:47,x:2612,y:9812|npcid:47,x:2613,y:9805|npcid:47,x:2613,y:9806
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Grand Tree mine]]
+|lvls=1
+|mem=yes
+|mapID=499
+|npcid:47,x:2438,y:9885|npcid:47,x:2442,y:9891|npcid:47,x:2443,y:9882|npcid:47,x:2447,y:9891|npcid:47,x:2451,y:9882|npcid:47,x:2452,y:9878|npcid:47,x:2453,y:9890|npcid:47,x:2456,y:9858|npcid:47,x:2456,y:9872|npcid:47,x:2456,y:9883|npcid:47,x:2458,y:9877|npcid:47,x:2460,y:9863|npcid:47,x:2462,y:9890|npcid:47,x:2467,y:9860|npcid:47,x:2470,y:9888|npcid:47,x:2476,y:9887|npcid:47,x:2481,y:9869|npcid:47,x:2482,y:9865|npcid:47,x:2488,y:9861|npcid:47,x:2489,y:9866
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Graveyard of Shadows]] - (level 19 Wilderness)
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:47,x:3251,y:3677|npcid:47,x:3252,y:3673|npcid:47,x:3252,y:3676|npcid:47,x:3257,y:3668|npcid:47,x:3260,y:3670|npcid:47,x:3261,y:3673
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Hollow Hill]]
+|lvls=1
+|mem=No
+|mapID=767
+|requirements={{QuestIcon|Visions of Havenhythe}} (partial)
+|npcid:47,x:3640,y:8050|npcid:47,x:3644,y:8019|npcid:47,x:3620,y:8006
+|npcid:47,x:3643,y:7990
+|leagueRegion = Havenhythe
+}}
+{{LocLine
+|loc=[[Falador farm]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:47,x:3019,y:3289|npcid:47,x:3023,y:3291
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Fishing Guild]]
+|lvls=1
+|requirements = {{Skillreq|Fishing|68}}
+|mem=yes
+|mapID=28
+|npcid:47,x:2592,y:3416
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Myreque Hideout#The Mort Myre Hideout|Hair of the Dog shortcut]]
+|lvls=1
+|requirements = {{QuestIcon|In Search of the Myreque}}
+|mem=yes
+|mapID=41
+|npcid:47,x:3476,y:9842|npcid:47,x:3479,y:9835|npcid:47,x:3479,y:9840|npcid:47,x:3479,y:9841|npcid:47,x:3480,y:9841|npcid:47,x:3481,y:9828|npcid:47,x:3485,y:9844|npcid:47,x:3485,y:9845|npcid:47,x:3486,y:9822|npcid:47,x:3486,y:9843|npcid:47,x:3486,y:9844|npcid:47,x:3486,y:9845|npcid:47,x:3487,y:9843|npcid:47,x:3487,y:9844|npcid:47,x:3492,y:9815|npcid:47,x:3497,y:9808|npcid:47,x:3502,y:9808
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Lumbridge]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:47,x:3205,y:3203|npcid:47,x:3205,y:3204|npcid:47,x:3205,y:3209|npcid:47,x:3206,y:3202|npcid:47,x:3206,y:3203|npcid:47,x:3206,y:3204|npcid:47,x:3206,y:3209|npcid:47,x:3207,y:3203
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Lunar Isle]]
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|Lunar Diplomacy}}
+|mem=yes
+|mapID=28
+|npcid:47,x:2117,y:3887|npcid:47,x:2130,y:3899
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc=[[Meiyerditch Laboratories]]
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|The Darkness of Hallowvale}}
+|mem=yes
+|mapID=41
+|npcid:47,x:3629,y:9683|npcid:47,x:3629,y:9690|npcid:47,x:3632,y:9696|npcid:47,x:3636,y:9684
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Myreque Hideout#The Meiyerditch Hideout|Meiyerditch Myreque Hideout]]
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|The Darkness of Hallowvale}}
+|mem=yes
+|mapID=534
+|npcid:47,x:3619,y:9621|npcid:47,x:3627,y:9618
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Melzar's Maze]] - {{FloorNumber|1}}
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|Dragon Slayer}}
+|mem=no
+|mapID=28
+|npcid:47,x:2923,y:3251|npcid:47,x:2939,y:3242
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Melzar's Maze]] - {{FloorNumber|2}}
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|Dragon Slayer}}
+|mem=no
+|mapID=28
+|npcid:47,x:2932,y:3242|npcid:47,x:2934,y:3240
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Melzar's Maze]] - {{FloorNumber|3}}
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|Dragon Slayer}}
+|mem=no
+|mapID=28
+|npcid:47,x:2923,y:3245|npcid:47,x:2924,y:3240
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Mos Le'Harmless]] - [[The Adventurous]]
+|lvls=1
+|requirements = {{QuestIcon|Cabin Fever}}
+|mem=yes
+|mapID=28
+|npcid:47,x:3682,y:2948|npcid:47,x:3688,y:2947|npcid:47,x:3679,y:2949
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[New Varrock]]
+|lvls=1
+|mem=yes
+|mapID=677
+|npcid:2682,x:3736,y:9113|npcid:2682,x:3739,y:9113|npcid:2682,x:3740,y:9114
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Observatory Dungeon]]
+|lvls=1
+|mem=yes
+|mapID=545
+|npcid:47,x:2339,y:9356|npcid:47,x:2354,y:9390|npcid:47,x:2361,y:9403|npcid:47,x:2362,y:9347
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Pirates' Cove]] - [[Lady Zay]]
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|Lunar Diplomacy}}
+|mem=yes
+|mapID=28
+|npcid:47,x:2223,y:3793|npcid:47,x:2226,y:3800
+|leagueRegion = Fremennik
+}}
+{{LocLine
+|loc=[[Port Phasmatys]] - [[The Adventurous]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:47,x:3713,y:3492|npcid:47,x:3714,y:3498|npcid:47,x:3715,y:3502
+|leagueRegion = Morytania
+}}
+{{LocLine
+|loc=[[Port Sarim]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:47,x:3011,y:3189|npcid:47,x:3013,y:3183|npcid:47,x:3013,y:3190|npcid:47,x:3013,y:3194|npcid:47,x:3015,y:3182
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Rashiliyia's Tomb]]
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|Shilo Village}}
+|mem=yes
+|mapID=573
+|npcid:47,x:2899,y:9520|npcid:47,x:2938,y:9494|npcid:47,x:2938,y:9496
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc=[[Rat Catchers Mansion]]
+|lvls=1
+|mem=yes
+|mapID=353
+|npcid:2978,x:2857,y:5091|npcid:2979,x:2863,y:5086|npcid:2977,x:2863,y:5101
+|leagueRegion = no
+}}
+{{LocLine
+|loc=[[Rimmington]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:2682,x:2955,y:3193|npcid:2682,x:2956,y:3191|npcid:2682,x:2959,y:3191|npcid:2682,x:2960,y:3193
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Ruins (east)]] - (level 26 Wilderness)
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:47,x:3247,y:3730|npcid:47,x:3248,y:3728|npcid:47,x:3250,y:3729
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Ruins (west)]] (level 23 Wilderness)
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:47,x:2996,y:3700|npcid:47,x:2997,y:3702|npcid:47,x:2999,y:3700|npcid:47,x:3000,y:3703
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Shadow Dungeon]]
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|Desert Treasure}}
+|mem=yes
+|mapID=416
+|npcid:47,x:2693,y:5111|npcid:47,x:2699,y:5069|npcid:47,x:2700,y:5061|npcid:47,x:2706,y:5114|npcid:47,x:2707,y:5079|npcid:47,x:2708,y:5070|npcid:47,x:2712,y:5110|npcid:47,x:2713,y:5061|npcid:47,x:2721,y:5076|npcid:47,x:2724,y:5113|npcid:47,x:2739,y:5112|npcid:47,x:2741,y:5077
+|leagueRegion = Kandarin&Desert
+}}
+{{LocLine
+|loc=[[Sinclair Mansion]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:47,x:2720,y:3583|npcid:47,x:2725,y:3576|npcid:47,x:2728,y:3580|npcid:47,x:2730,y:3571|npcid:47,x:2730,y:3574
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Skavid caves]]
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|Watchtower}}
+|mem=yes
+|mapID=503
+|npcid:47,x:2501,y:9430|npcid:47,x:2502,y:9437|npcid:47,x:2505,y:9461|npcid:47,x:2509,y:9457|npcid:47,x:2509,y:9464|npcid:47,x:2514,y:9462|npcid:47,x:2519,y:9454|npcid:47,x:2524,y:9437|npcid:47,x:2527,y:9412|npcid:47,x:2533,y:9451|npcid:47,x:2534,y:9441|npcid:47,x:2540,y:9425|npcid:47,x:2543,y:9415|npcid:47,x:2543,y:9460|npcid:47,x:2546,y:9418|npcid:47,x:2547,y:9461|npcid:47,x:2548,y:9413|npcid:47,x:2548,y:9421
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Ardougne Sewers#Southern Ardougne Sewers|Southern Ardougne Sewers]]
+|lvls=1
+|mem=yes
+|mapID=0
+|npcid:47,x:2567,y:9680|npcid:47,x:2569,y:9681|npcid:47,x:2573,y:9690|npcid:47,x:2576,y:9689|npcid:47,x:2576,y:9691|npcid:47,x:2577,y:9689|npcid:47,x:2578,y:9688|npcid:47,x:2600,y:9709|npcid:47,x:2601,y:9711|npcid:47,x:2602,y:9681|npcid:47,x:2602,y:9709|npcid:47,x:2605,y:9673|npcid:47,x:2606,y:9688|npcid:47,x:2607,y:9676|npcid:47,x:2608,y:9683|npcid:47,x:2617,y:9724|npcid:47,x:2619,y:9724|npcid:47,x:2619,y:9726
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=South of [[Gu'Tanoth]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:47,x:2527,y:2986|npcid:47,x:2531,y:2976|npcid:47,x:2547,y:2990
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=South of the [[Wilderness Crater]] (level 15 Wilderness)
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:47,x:3156,y:3634|npcid:47,x:3159,y:3635|npcid:47,x:3160,y:3639
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Spirit Realm]]
+|lvls=1
+|requirements = {{QuestIcon|Summer's End}}
+|mem=yes
+|mapID=429
+|npcid:47,x:2960,y:4280|npcid:47,x:2961,y:4278|npcid:47,x:2963,y:4279
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Stronghold of Security]]
+|lvls=1
+|mem=no
+|mapID=24
+|npcid:4415,x:3,y:113|npcid:4415,x:3,y:123|npcid:4415,x:5,y:112|npcid:4415,x:5,y:120|npcid:4415,x:5,y:149|npcid:4415,x:5,y:151|npcid:4415,x:6,y:108|npcid:4415,x:6,y:124|npcid:4415,x:7,y:147|npcid:4415,x:8,y:122|npcid:4415,x:9,y:108|npcid:4415,x:10,y:124|npcid:4415,x:12,y:109|npcid:4415,x:13,y:146|npcid:4415,x:14,y:112|npcid:4415,x:15,y:152|npcid:4415,x:16,y:110|npcid:4415,x:16,y:138|npcid:4415,x:16,y:159|npcid:4415,x:17,y:108|npcid:4415,x:18,y:120|npcid:4415,x:18,y:130|npcid:4415,x:20,y:109|npcid:4415,x:20,y:136|npcid:4415,x:21,y:140|npcid:4415,x:23,y:118|npcid:4415,x:23,y:150|npcid:4415,x:23,y:154|npcid:4415,x:24,y:120|npcid:4415,x:24,y:159|npcid:4415,x:24,y:163|npcid:4415,x:25,y:152|npcid:4415,x:25,y:161|npcid:4415,x:26,y:119|npcid:4415,x:26,y:121|npcid:4415,x:26,y:163|npcid:4415,x:27,y:126|npcid:4415,x:27,y:154|npcid:4415,x:28,y:150|npcid:4415,x:28,y:152|npcid:4415,x:29,y:125|npcid:4415,x:30,y:151|npcid:4415,x:31,y:123|npcid:4415,x:33,y:126|npcid:4415,x:34,y:162|npcid:4415,x:39,y:162|npcid:4415,x:42,y:161|npcid:4415,x:44,y:160|npcid:4415,x:44,y:164|npcid:4415,x:48,y:155|npcid:4415,x:52,y:123|npcid:4415,x:53,y:163|npcid:4415,x:54,y:122|npcid:4415,x:55,y:125|npcid:4415,x:56,y:158|npcid:4415,x:57,y:155|npcid:4396,x:91,y:106|npcid:4396,x:92,y:104|npcid:4396,x:92,y:109|npcid:4396,x:93,y:127|npcid:4396,x:93,y:130|npcid:4396,x:93,y:140|npcid:4396,x:94,y:132|npcid:4396,x:94,y:141|npcid:4396,x:95,y:137|npcid:4396,x:96,y:104|npcid:4396,x:96,y:146|npcid:4396,x:97,y:95|npcid:4396,x:97,y:103|npcid:4396,x:97,y:139|npcid:4396,x:98,y:111|npcid:4396,x:98,y:115|npcid:4396,x:98,y:122|npcid:4396,x:99,y:118|npcid:4396,x:99,y:143|npcid:4396,x:104,y:91|npcid:4396,x:108,y:90|npcid:4396,x:108,y:93|npcid:4396,x:108,y:108|npcid:4396,x:108,y:111|npcid:4396,x:109,y:94|npcid:4396,x:111,y:107|npcid:4396,x:113,y:91|npcid:4396,x:116,y:98|npcid:4396,x:117,y:140|npcid:4396,x:118,y:94|npcid:4396,x:118,y:96|npcid:4396,x:119,y:90|npcid:4396,x:121,y:96|npcid:4396,x:122,y:94|npcid:4396,x:122,y:142|npcid:4396,x:126,y:92|npcid:4396,x:128,y:97|npcid:4396,x:131,y:92|npcid:4396,x:131,y:96|npcid:4396,x:132,y:136|npcid:4396,x:133,y:89|npcid:4396,x:134,y:139|npcid:4396,x:134,y:148|npcid:4396,x:135,y:95|npcid:4396,x:135,y:147|npcid:4396,x:136,y:134|npcid:4396,x:136,y:146|npcid:4396,x:137,y:146|npcid:4396,x:137,y:150|npcid:4396,x:138,y:138|npcid:4396,x:138,y:148|npcid:4396,x:140,y:106|npcid:4396,x:142,y:111|npcid:4396,x:144,y:94|npcid:4396,x:145,y:90|npcid:4396,x:146,y:104|npcid:4396,x:146,y:108|npcid:4396,x:148,y:94|npcid:4396,x:148,y:97|npcid:4396,x:150,y:105
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Underground Pass (dungeon)|Underground Pass]]
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|Underground Pass}}
+|mem=yes
+|mapID=579
+|npcid:47,x:2370,y:9640|npcid:47,x:2370,y:9641|npcid:47,x:2372,y:9642|npcid:47,x:2372,y:9643|npcid:47,x:2379,y:9630|npcid:47,x:2379,y:9638|npcid:47,x:2381,y:9619|npcid:47,x:2383,y:9619|npcid:47,x:2384,y:9619|npcid:47,x:2384,y:9640|npcid:47,x:2385,y:9624|npcid:47,x:2386,y:9619|npcid:47,x:2390,y:9620|npcid:47,x:2393,y:9618|npcid:47,x:2394,y:9639|npcid:47,x:2395,y:9619|npcid:47,x:2396,y:9620|npcid:47,x:2400,y:9620|npcid:47,x:2402,y:9628|npcid:47,x:2405,y:9620|npcid:47,x:2406,y:9628|npcid:47,x:2407,y:9620|npcid:47,x:2409,y:9629|npcid:47,x:2412,y:9619|npcid:47,x:2412,y:9640|npcid:47,x:2421,y:9632|npcid:47,x:2422,y:9622
+|leagueRegion = Tirannwn
+}}
+{{LocLine
+|loc=[[Varrock Sewers]]
+|lvls=1
+|mem=no
+|mapID=31
+|npcid:47,x:3218,y:9864|npcid:47,x:3218,y:9869|npcid:47,x:3219,y:9867|npcid:47,x:3221,y:9872|npcid:47,x:3229,y:9867|npcid:47,x:3230,y:9865|npcid:47,x:3234,y:9865|npcid:47,x:3235,y:9864|npcid:47,x:3237,y:9864|npcid:47,x:3242,y:9893|npcid:47,x:3242,y:9895|npcid:47,x:3244,y:9875|npcid:47,x:3244,y:9886|npcid:47,x:3246,y:9864|npcid:47,x:3251,y:9893|npcid:47,x:3252,y:9892|npcid:47,x:3253,y:9867|npcid:47,x:3255,y:9869|npcid:47,x:3269,y:9869|npcid:47,x:3276,y:9873|npcid:47,x:3275,y:9865|npcid:47,x:3276,y:9871|npcid:47,x:3277,y:9872|npcid:47,x:3288,y:9867
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Waterfall Dungeon]]
+|lvls=1
+|requirements = Partial completion of {{QuestIcon|Waterfall Quest}}
+|mem=yes
+|mapID=619
+|npcid:47,x:2542,y:9897|npcid:47,x:2566,y:9877|npcid:47,x:2566,y:9891|npcid:47,x:2568,y:9898|npcid:47,x:2572,y:9865|npcid:47,x:2574,y:9889|npcid:47,x:2583,y:9875|npcid:47,x:2584,y:9896|npcid:47,x:2606,y:9897
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[West Ardougne]]
+|lvls=1
+|requirements = {{QuestIcon|Biohazard}}
+|mem=yes
+|mapID=28
+|npcid:47,x:2461,y:3293|npcid:47,x:2462,y:3300|npcid:47,x:2463,y:3285|npcid:47,x:2464,y:3310|npcid:47,x:2465,y:3295|npcid:47,x:2466,y:3294|npcid:47,x:2466,y:3299|npcid:47,x:2467,y:3322|npcid:47,x:2468,y:3326|npcid:47,x:2470,y:3314|npcid:47,x:2470,y:3318|npcid:47,x:2470,y:3321|npcid:47,x:2471,y:3298|npcid:47,x:2471,y:3316|npcid:47,x:2472,y:3314|npcid:47,x:2472,y:3324|npcid:47,x:2473,y:3326|npcid:47,x:2474,y:3301|npcid:47,x:2475,y:3303|npcid:47,x:2476,y:3293|npcid:47,x:2476,y:3322|npcid:47,x:2477,y:3286|npcid:47,x:2477,y:3298|npcid:47,x:2477,y:3301|npcid:47,x:2477,y:3324|npcid:47,x:2478,y:3285|npcid:47,x:2478,y:3304|npcid:47,x:2479,y:3313|npcid:47,x:2480,y:3294|npcid:47,x:2480,y:3306|npcid:47,x:2480,y:3315|npcid:47,x:2481,y:3300|npcid:47,x:2482,y:3306|npcid:47,x:2484,y:3294|npcid:47,x:2484,y:3300|npcid:47,x:2484,y:3304|npcid:47,x:2484,y:3307|npcid:47,x:2486,y:3281|npcid:47,x:2486,y:3292|npcid:47,x:2486,y:3296|npcid:47,x:2486,y:3300|npcid:47,x:2486,y:3313|npcid:47,x:2487,y:3286|npcid:47,x:2487,y:3303|npcid:47,x:2488,y:3305|npcid:47,x:2488,y:3319|npcid:47,x:2489,y:3284|npcid:47,x:2489,y:3302|npcid:47,x:2490,y:3321|npcid:47,x:2490,y:3323|npcid:47,x:2492,y:3303|npcid:47,x:2499,y:3330|npcid:47,x:2500,y:3331|npcid:47,x:2503,y:3330|npcid:47,x:2506,y:3331|npcid:47,x:2508,y:3330|npcid:47,x:2514,y:3330|npcid:47,x:2514,y:3334|npcid:47,x:2517,y:3332|npcid:47,x:2518,y:3329|npcid:47,x:2521,y:3329|npcid:47,x:2525,y:3334|npcid:47,x:2529,y:3328|npcid:47,x:2530,y:3332|npcid:47,x:2532,y:3330|npcid:47,x:2535,y:3332
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=West of [[Het's Oasis]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:47,x:3324,y:3250
+|leagueRegion = Desert
+}}
+{{LocLine
+|loc=West of [[McGrubor's Wood]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:47,x:2610,y:3479
+|npcid:47,x:2611,y:3475
+|npcid:47,x:2614,y:3478
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always|raritynotes={{DropNote|Only in the [[Stronghold of Security]].}}}}
+{{DropsTableBottom}} 
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Rat bone|quantity=1|rarity=24/128|gemw=no|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}}}
+{{DropsLine|name=Rat's tail|quantity=1|rarity=Always|gemw=no|raritynotes={{DropNote|Only during [[Witch's Potion (miniquest)]].}}}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Rat (2004).png|name=Rat}}
+|{{GUL|date=[[26 September]] [[2005]]|update=|img=Rat (September 2005).png|name=Rat}}
+|{{GUL|date=[[28 November]] [[2005]]|update=Rat Catchers and Rat Pits!|img=Rat (November 2005).png|name=Rat}}
+|{{GUL|date=|update=|img=Rat.png|name=Rat}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Out Now|date=23 March 2026}}
+** Added to [[Hollow Hill]].
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (17 June 2013)|date=17 June 2013}}
+** Rats behind Lumbridge Castle now drop items as intended.
+
+* {{UL|type=patch|update=Patch Notes (9 November 2010)|date=9 November 2010}}
+** Rats’ animations have been tweaked to not have their wounds open up massively.
+
+* {{UL|type=patch|update=Patch Notes (17 November 2009)|date=17 November 2009}}
+** Corrected several animations for rats and mice, especially in Rat Catchers.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+[[File:Ratwheel.png|thumb|172px|The class pet from the now-discontinued [[Surprise Exam]] random event]]
+* The examine text is based on the {{WP|Discworld|Discworld books}} by Terry Pratchett, who goes into detail describing the ways dwarves eat rats.
+* There is a [[HiScores]] for rat kills, but only people who completed [[Samuel LeBaux|Sameul LeBaux's]] [[2015 April Fools#Trouble and Squeak|300 task miniquest]] (3,000 rat kills) are able to get ranked. 5,000 is the minimum to be ranked.
+
+{{Hollow Hill}}
+{{Rats}}
+[[pt:Rato]]
+[[Category:NPCs not visible on the minimap]]

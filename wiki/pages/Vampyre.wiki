@@ -1,0 +1,161 @@
+{{external|os=Feral Vampyre#Level 77}}
+{{Otheruses|the monster appears in God Wars Dungeon|the race|Vampyre (race)|other uses|Vampyre (disambiguation)}}
+{{Infobox Monster
+|name = Vampyre
+|image = [[File:Feral vampyre.png|200px]]
+|release = [[28 August]] [[2007]]
+|update = God Wars Dungeon
+|members = Yes
+|options = Attack, Examine
+|examine = It looks really hungry.
+|level = 89
+|lifepoints = 6400
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 170.4
+|slayercat = Vampyres
+|max_melee = 256
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|primarystyle = Melee
+|speed = 4
+|attack = 64
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1264
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1264
+|defence = 64
+|weakness = Fire
+|susceptibility = Silver, Blisterwood, Vampyre Slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia
+|id = 6214
+}}
+'''Vampyres''' are monsters which may be found fighting for [[Zamorak]] in the [[God Wars Dungeon]]. They are slightly stronger than their [[Feral vampyre|Morytanian counterparts]], and also susceptible to [[Silver weapons|silver]] and [[blisterwood]] weapons that feral vampyres have. If the player is wearing a [[holy symbol]] whilst being attacked by a vampyre, occasionally the vampyre will be debuffed, reducing their Attack, Strength, Defence, and Magic by 25%.{{CiteTwitter|author=Mod Ash|url=https://twitter.com/JagexAsh/status/650998169736753152|date=5 October 2015|archiveurl=https://reldo.runescape.wiki/i/98468|archivedate=13 May 2023|quote=It reduces the vampire's strength, attack, defence and magic by 25%.}} This is indicated by the chatbox message "The vampyre is weakened by your holy symbol of saradomin", which is hidden by the spam filter.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[God Wars Dungeon]]
+|lvls=89
+|mem=yes
+|mapID=15
+|npcid:6214,x:2860,y:5292|npcid:6214,x:2877,y:5288|npcid:6214,x:2829,y:5330
+|npcid:6214,x:2853,y:5327|npcid:6214,x:2854,y:5347|npcid:6214,x:2918,y:5280
+|npcid:6214,x:2922,y:5283|npcid:6214,x:2880,y:5318|npcid:6214,x:2881,y:5332
+|npcid:6214,x:2884,y:5312|npcid:6214,x:2888,y:5320|npcid:6214,x:2894,y:5325
+|npcid:6214,x:2898,y:5312
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Vampyre dust|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Black hatchet|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Earth rune|quantity=4|rarity=10/128}}
+{{DropsLine|name=Chaos rune|quantity=3|rarity=8/128}}
+{{DropsLine|name=Death rune|quantity=2|rarity=10/128}}
+{{DropsLine|name=Blood rune|quantity=1|rarity=5/128}}
+{{DropsLine|name=Blood rune|quantity=2|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|10/128}}
+{{DropsTableHead}}
+{{HerbDropTable|10/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|19/128}} ''There is an additional 2/128 chance of rolling morchella mushroom spores.''
+{{DropsTableHead}}
+{{DropsLine|name=Morchella mushroom spore|quantity=2|rarity=2/128}}
+{{UncommonSeedDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Furniture plans===
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Zamorak altar|quantity=1|rarity=}}
+{{DropsLine|name=Furniture plans: Zamorak rug|quantity=1|rarity=}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=15|rarity=40/128|gemw=No}}
+{{DropsLine|name=Nothing|rarity=14/128}}
+{{DropsLine|name=Earth talisman|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|4/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=2-7|rarity=1/20|rolls=2}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128|gemw=No}}
+{{DropsLine|name=Frozen key piece (Zamorak)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Zamorak's Fortress]].}}|gemw=No}}
+{{DropsLineWarpriest|god=zamorak}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Feral vampire (God Wars Dungeon) (2007).png|name=Vampire}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Feral vampire (God Wars Dungeon) (2008) .png|name=Vampire}}
+|{{GUL|date=[[17 August]] [[2011]]|update=Temple Trekking: Revamped|img=Feral vampyre.png|name=Feral vampyre}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Part II: Journey into the East!|date=28 September 2026}}
+** Added susceptibility to the [[Vampyre Slayer (ability)|Vampyre Slayer]] ability.
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (9 December 2019)|date=9 December 2019}}
+** Dr Harlow now consistently refers to Vampyres instead of Vampires.
+
+* {{UL|type=hidden|update=Patch Notes (6 September 2011)|date=6 September 2011}}
+** The monsters are renamed to "Vampyre".
+
+* {{UL|type=update|update=God Wars Dungeon|date=28 August 2007}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Vampyres}}
+{{God Wars Dungeon}}
+[[Category:Participants in the God Wars]]
+[[pt:Vampiro]]

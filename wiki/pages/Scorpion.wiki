@@ -1,0 +1,243 @@
+{{External|rsc|os|wp}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|version1 = Level 14
+|version2 = Level 26 (Stronghold of Security, 1)
+|version3 = Level 26 (Stronghold of Security, 2)
+|dropversion1 = Level 14
+|name = Scorpion
+|image1 = [[File:Scorpion.png|200px]]
+|image2 = [[File:Scorpion.png|200px]]
+|image3 = [[File:Scorpion (Stronghold of Security, 2).png|200px]]
+|release1 = [[4 January]] [[2001]]
+|release2 = [[4 July]] [[2006]]
+|release3 = [[4 July]] [[2006]]
+|update1 = Runescape beta is now online!
+|update2 = Security and free-to-play update - the Stronghold of Security
+|update3 = Security and free-to-play update - the Stronghold of Security
+|examine = An extremely vicious scorpion.
+|level1 = 14
+|level2 = 26
+|level3 = 26
+|lifepoints1 = 2000
+|lifepoints2 = 3150
+|lifepoints3 = 3150
+|experience1 = 100
+|experience2 = 157.5
+|experience3 = 157.5
+|slaylvl = 1
+|slayxp1 = 25
+|slayxp2 = 33.3
+|slayxp3 = 33.3
+|slayercat = Scorpions
+|assigned_by = Turael, Sumona, Vannaka
+|options = Attack
+|members = No
+|aggressive = No
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style = ranged
+|primarystyle = ranged
+|attack1 = 7
+|attack2 = 1
+|attack3 = 1
+|defence1 = 10
+|defence2 = 19
+|defence3 = 19
+|magic = 1
+|necromancy = 1
+|ranged1 = 10
+|ranged2 = 19
+|ranged3 = 19
+|speed1 = 4
+|speed2 = 5
+|speed3 = 5
+|max_melee1 = 200
+|max_melee2 = 0
+|max_melee3 = 0
+|max_ranged1 = 200
+|max_ranged2 = 475
+|max_ranged3 = 475
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|weakness1 = Crush
+|weakness2 = Stab
+|weakness3 = Stab
+|armour1 = 202
+|armour2 = 304
+|armour3 = 304
+|acc_melee1 = 102
+|acc_melee2 = 0
+|acc_melee3 = 0
+|acc_ranged1 = 102
+|acc_ranged2 = 304
+|acc_ranged3 = 304
+|acc_magic = 0
+|acc_necromancy = 0
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|abilities = 
+|id1 = 107
+|id2 = 4402
+|id3 = 4403
+|leagueRegion = Desert, Kandarin, Karamja, Asgarnia, Misthalin, Wilderness
+}}
+[[File:Scorpion icon.png|left]]
+'''Scorpions''' are fairly weak [[monsters]] that can be found at many locations across Gielinor, namely the [[Al Kharid mine]] north of [[Al Kharid]], [[Musa Point]], the [[dwarven mines]], and near the [[Black Knights' Fortress]] and the [[Scorpion Pit]] located in the [[Wilderness]]. They attack primarily with [[ranged]] and are weak to [[crush]]. The deadliest scorpions free players will face are the scorpions in the [[Stronghold of Security]] (level 26). They are also found caged in the [[Ardougne Zoo]]. Level 26 scorpions also look slightly different in colour than the other scorpions.
+
+Lower-levelled players should be advised when near scorpions as they can be aggressive. Due to their lack of drops and relatively low combat XP, they are not recommended for long-term training.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Al Kharid mine]]
+|lvls=14
+|mem=no
+|mapID=28
+|npcid:107,x:3292,y:3297|npcid:107,x:3297,y:3298|npcid:107,x:3298,y:3304
+|npcid:107,x:3298,y:3311|npcid:107,x:3299,y:3288|npcid:107,x:3300,y:3315
+|npcid:107,x:3301,y:3278|npcid:107,x:3301,y:3291|npcid:107,x:3302,y:3306
+|leagueRegion = Desert}}
+{{LocLine
+|loc=[[Ardougne Zoo]]
+|lvls=14
+|mem=yes
+|mapID=28
+|npcid:107,x:2602,y:3267|npcid:107,x:2603,y:3270|npcid:107,x:2607,y:3268
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Cairn Isle]]
+|lvls=14
+|mem=yes
+|mapID=28
+|npcid:107,x:2765,y:2978|npcid:107,x:2768,y:2980|npcid:107,x:2785,y:2955
+|npcid:107,x:2786,y:2947|npcid:107,x:2788,y:2948
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Dwarven mines]]
+|lvls=14
+|mem=no
+|mapID=18
+|npcid:107,x:3038,y:9771|npcid:107,x:3039,y:9790|npcid:107,x:3041,y:9781
+|npcid:107,x:3044,y:9787|npcid:107,x:3045,y:9777|npcid:107,x:3046,y:9767
+|npcid:107,x:3047,y:9784|npcid:107,x:3049,y:9777|npcid:107,x:3054,y:9773
+|npcid:107,x:3056,y:9778|npcid:107,x:3039,y:9802|npcid:107,x:3042,y:9793
+|npcid:107,x:3042,y:9800
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Karamja Volcano]]
+|lvls=14
+|mem=no
+|mapID=28
+|npcid:107,x:2843,y:3156|npcid:107,x:2853,y:3159|npcid:107,x:2861,y:3165
+|npcid:107,x:2862,y:3180|npcid:107,x:2863,y:3169|npcid:107,x:2865,y:3156
+|npcid:107,x:2870,y:3159
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Stronghold of Security#Pit of Pestilence (3rd level)|Stronghold of Security]] (3rd level)
+|lvls=26
+|mem=no
+|mapID=24
+|npcid:4402,x:65,y:58|npcid:4403,x:66,y:45|npcid:4402,x:66,y:53
+|npcid:4403,x:66,y:56|npcid:4402,x:67,y:48|npcid:4402,x:68,y:42
+|npcid:4403,x:68,y:51|npcid:4403,x:69,y:40
+|leagueRegion=Misthalin}}
+{{LocLine
+|loc=[[Temple of Ikov (dungeon)]]
+|lvls=14
+|mem=yes
+|mapID=509
+|npcid:107,x:2637,y:9809|npcid:107,x:2639,y:9814|npcid:107,x:2641,y:9811
+|npcid:107,x:2641,y:9819|npcid:107,x:2644,y:9822
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Varrock Sewers]]
+|lvls=14
+|mem=no
+|mapID=31
+|npcid:107,x:3251,y:9908|npcid:107,x:3253,y:9903
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Wilderness]] ([[Scorpion Pit]])
+|lvls=14
+|mem=no
+|mapID=28
+|npcid:107,x:3225,y:3943|npcid:107,x:3231,y:3940|npcid:107,x:3235,y:3946
+|npcid:107,x:3239,y:3942|npcid:107,x:3246,y:3945|npcid:107,x:3249,y:3949
+|npcid:107,x:3256,y:3954
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Wilderness]] (south of [[Chaos altar]])
+|lvls=14
+|mem=no
+|mapID=28
+|npcid:107,x:3044,y:3571|npcid:107,x:3044,y:3581|npcid:107,x:3047,y:3567
+|npcid:107,x:3055,y:3574|npcid:107,x:3056,y:3566|npcid:107,x:3062,y:3555
+|npcid:107,x:3062,y:3570
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Drops==
+===Charms {{(m)}}===
+{{CharmDataTable|Scorpion}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Book page 1|members=Yes|quantity=1|rarity=Always|raritynotes={{DropNote|Book page 1 is only dropped from scorpions in the [[dwarven mines]] during the quest [[Between a Rock...]]. This item will automatically appear in the backpack.}}|version=Level 14}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsLineMimic|level=14}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[4 January]] [[2001]]|update=Runescape beta is now online!|img=Scorpion (2001).png|name=Scorpion}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2_Launched!|img=Scorpion (2004).png|name=Scorpion}}
+|{{GUL|date=[[8 May]] [[2007]]|update=Small spiders, kalphites, scorpions and metal dragons|img=Scorpion (2007).png|name=Scorpion}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Scorpion (2008).png|name=Scorpion}}
+|{{GUL|date=[[22 July]] [[2014]]|update=Patch Notes (22 July 2014)|img=Scorpion (July 2014).png|name=Scorpion}}
+|{{GUL|date=[[3 June]] [[2024]]|update=Pride Events & Ultra+ Graphics - This Week In RuneScape|img=Scorpion.png|name=Scorpion}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Pride Events & Ultra+ Graphics - This Week In RuneScape|date=3 June 2024}}
+** Graphically updated all scorpions across Gielinor.
+
+* {{UL|type=ninja|update=Patch Notes (22 July 2014)|date=22 July 2014}}
+** More [[bat]]s and scorpions have been graphically updated across the game.
+
+* {{UL|type=patch|update=Patch Notes (12 May 2014)|date=12 May 2014}}
+** Scorpions have been graphically updated across the game.
+
+* {{UL|type=patch|update=Patch Notes (18 March 2013)|date=18 March 2013}}
+** [[Grotworm]]s, [[moss giant]]s, [[banshee]]s, [[jungle spider]]s, [[shadow spider]]s, [[spider]]s, [[giant spider]]s, [[deadly red spider]]s, [[ice spider]]s, scorpions, [[poison scorpion]]s and [[pit scorpion]] will no longer hit for 1 hit point worth of damage.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* In [[Postbag from the Hedge]] 40, Nurmof says that the reason scorpions are at nearly every mining spot in ''[[RuneScape]]'' is that they enjoy eating [[Scorpionite]], much like how [[dragons (race)|Dragons]] enjoy eating [[runite]].
+* In the early days of ''[[RuneScape 2]]'', scorpions had the same sound set as [[rat]]s.
+* It is one of the only non-quest monsters that do not drop any items on free-to-play servers.
+
+{{Meg's cases}}
+{{Scorpions}}
+[[pt:Escorpião]]

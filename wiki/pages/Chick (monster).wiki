@@ -1,0 +1,114 @@
+{{Infobox Monster
+|name = Chick
+|image = Chick (Blooming Burrow).png
+|release = [[18 March]] [[2024]]
+|update = Hop into the Blooming Burrow - This Week In RuneScape
+|members = No
+|options = Attack, Examine
+|race = Chicken
+|examine = It's clucking adorable.
+|level = 1
+|lifepoints = 50
+|experience = 2.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 
+|slayxp = 6.4
+|slayercat = Birds
+|assigned_by = 
+|max_melee = 15.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 3
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 
+|acc_melee = 10
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 110
+|defence = 1
+|weakness = Fire
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = 
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = 
+|id = 30870
+|leagueRegion=Havenhythe}}
+'''Chicks''' are baby [[chicken]]s that can be found at various farms. Unlike chickens, they do not drop [[feather]]s or [[raw chicken]].
+
+There are also [[Chick (Blooming Burrow, non-attackable)|non-attackable variants]] found at the stands in the [[Blooming Burrow]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Amberfell]]
+|lvls = 1
+|mem = Yes
+|requirements = {{QuestIcon|Secrets of Amberfell}} (partial)
+|npcid:30870,x:4419,y:3344
+|leagueRegion = Havenhythe
+}}
+{{LocLine
+|loc = [[Blooming Burrow]]
+|lvls = 1
+|mem = no
+|mapID = 747
+|plane = 0
+|npcid:30870,x:3784,y:4907|npcid:30870,x:3787,y:4907|npcid:30870,x:3784,y:4903
+|npcid:30870,x:3790,y:4902|npcid:30870,x:3784,y:4896
+|leagueRegion = No
+}}
+{{LocLine
+|loc = [[Marigold Farm]]
+|lvls = 1
+|mem = no
+|requirements = {{QuestIcon|Visions of Havenhythe}} (partial)
+|npcid:30870,x:4252,y:3295|npcid:30870,x:4247,y:3289
+|leagueRegion = Havenhythe
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Transcript==
+{{Hastranscript|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Uncover the Secrets of Amberfell|date=1 June 2026}}
+** Added to [[Amberfell]].
+
+* {{UL|type=update|update=Welcome to Havenhythe|date=23 March 2026}}
+** Added to [[Marigold Farm]].
+
+* {{UL|type=hidden|update=Havenhythe Out Now|date=23 March 2026}}
+** Made attackable, making them [[monster]]s.
+** Made visible on the [[minimap]].
+
+* {{UL|type=patch|update=February Patch Week|date=23 February 2026}}
+** Graphically updated.
+
+* {{UL|type=update|update=Hop into the Blooming Burrow - This Week In RuneScape|date=18 March 2024}}
+** Added to game.
+}}
+
+{{Amberfell}}
+{{Blooming Burrow}}
+{{Marigold Farm}}

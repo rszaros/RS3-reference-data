@@ -1,0 +1,171 @@
+{{External|os}}
+{{Infobox Monster
+|name = Sergeant Steelwill
+|image = [[File:Sergeant Steelwill.png|200px]]
+|release = [[28 August]] [[2007]]
+|update = God Wars Dungeon
+|members = Yes
+|options = Attack
+|examine = A battle-honed goblin.
+|level = 102
+|lifepoints = 5475
+|experience = 273.7
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 199.2
+|slayercat = Goblins
+|assigned_by = Turael, Spria, jacquelyn
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 365
+|max_necromancy = 0
+|max_spec = N/A
+|style = magic
+|primarystyle = magic
+|speed = 5
+|attack = 1
+|ranged = 1
+|magic = 73
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 1608
+|acc_necromancy = 0
+|armour = 1299
+|defence = 73
+|weakness = Arrows
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|id = 6263
+|leagueRegion = Asgarnia
+}}
+'''Sergeant Steelwill''' is one of the three sergeants found guarding [[General Graardor]] in the [[Bandos]] section of the [[God Wars Dungeon]], along with [[Sergeant Strongstack]] and [[Sergeant Grimspike]]. Though Steelwill wields a hammer, he uses magic instead of melee.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Bandos's Stronghold]]
+|lvls=102
+|mem=yes
+|requirements = {{scp|Strength|70}}{{Not boostable}}
+|mapID=15
+|npcid:6263,x:2870,y:5354
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+The drop table rolls out of 128 normally, however this is improved to 126 while tier 2 or higher [[luck]] is active. This slightly decreases the chance of 1400-1500 coins (in the [[#Other|Other]] section) from 66/128 to 64/126, while slightly improving the chance of everything else.
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Goblin skull|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest.}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Unique table===
+''There is a 1 in 128 chance to roll the unique table (1/126 with tier 2 or higher luck). Then there is a 6/384 chance to roll for any unique item; otherwise, coins are awarded.''
+
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1400-1500|rarity=378/{{#expr:128*384}}|citations={{CiteDevBlog|author=Mod Timbo|url=http://services.runescape.com/m=forum/forums.ws?74,75,52,65949497,goto,15#147|title=Revealing Drop Rates|blogdate=20 October 2017|archiveurl=https://reldo.runescape.wiki/i/25774089|archivedate=24 May 2018|name=Timbo}}|altrarity=378/{{#expr:126*384}}}}
+{{DropsLine|name=Bandos helmet|quantity=1|rarity=1/{{#expr:128*384}}|raritynotes={{DropNote|name=unique|1/8,192 for any unique item.}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*384}}}}
+{{DropsLine|name=Bandos chestplate|quantity=1|rarity=1/{{#expr:128*384}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*384}}}}
+{{DropsLine|name=Bandos tassets|quantity=1|rarity=1/{{#expr:128*384}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*384}}}}
+{{DropsLine|name=Bandos gloves|quantity=1|rarity=1/{{#expr:128*384}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*384}}}}
+{{DropsLine|name=Bandos boots|quantity=1|rarity=1/{{#expr:128*384}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*384}}}}
+{{DropsLine|name=Bandos warshield|quantity=1|rarity=1/{{#expr:128*384}}|raritynotes={{DropNote|name=unique}}|citations={{NamedRef|Timbo}}|altrarity=1/{{#expr:126*384}}}}
+{{DropsTableBottom}}
+
+===Godsword shard table===
+''There is a 1 in 128 chance to roll the shard table (1/126 with tier 2 or higher luck). Then there is a 3/12 chance to roll for any godsword shard; otherwise, coins are awarded.''
+
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1000-1500|rarity=9/{{#expr:128*4*3}}|altrarity=9/{{#expr:126*4*3}}}}
+{{DropsLine|name=Godsword shard 1|quantity=1|rarity=1/{{#expr:128*4*3}}|raritynotes={{DropNote|name=shard|1/512 for any godsword shard.}}|altrarity=1/{{#expr:126*4*3}}}}
+{{DropsLine|name=Godsword shard 2|quantity=1|rarity=1/{{#expr:128*4*3}}|raritynotes={{DropNote|name=shard}}|altrarity=1/{{#expr:126*4*3}}}}
+{{DropsLine|name=Godsword shard 3|quantity=1|rarity=1/{{#expr:128*4*3}}|raritynotes={{DropNote|name=shard}}|altrarity=1/{{#expr:126*4*3}}}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Steel dart|quantity=95-100|rarity=15/128|altrarity=15/126}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Shark|quantity=2|rarity=9/128|altrarity=9/126}}
+{{DropsLine|name=Chilli potato|quantity=3|rarity=8/128|altrarity=8/126}}
+{{DropsLine|name=Combat potion (3)|quantity=1|rarity=8/128|altrarity=8/126}}
+{{DropsLine|name=Super strength (3)|quantity=1|rarity=2/128|altrarity=2/126}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1400-1500|rarity=66/128|gemw=No|altrarity=64/126}}
+{{DropsLine|name=Limpwurt root|quantity=5 (noted)|rarity=8/128|altrarity=8/126}}
+{{DropsLine|name=Coal stone spirit|quantity=15-20|rarity=8/128|altrarity=8/126}}
+{{DropsLine|name=Grimy snapdragon|quantity=1 (noted)|rarity=2/128|altrarity=2/126}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Beer|quantity=1|rarity=1/6}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=10/1280}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=495/128000|raritynotes={{DropNote|This drop only attempts to roll should you fail to roll a hard clue. Should you get this item, there's a 1% chance it'll be upgraded to a [[sealed clue scroll (master)]].}}}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=5/128000}}
+{{DropsLineWarpriest|god=bandos}}
+{{DropsLine|name=Furniture plans: Bandos rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Bandos altar|quantity=1|rarity=Unknown}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+GraardorsSargeants.jpg|Concept art for the upgraded Sergeant Steelwill, alongside his fellow sergeants.
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npcs
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Sergeant Steelwill (2007).png|name=Sergeant Steelwill}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Sergeant Steelwill (2008).png|name=Sergeant Steelwill}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Sergeant Steelwill.png|name=Sergeant Steelwill}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=God Wars: Remastered|date=5 September 2012}}
+** Sergeant Steelwill has been graphically updated.
+
+* {{UL|type=update|update=God Wars Dungeon|date=28 August 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* Before Steelwill's graphical update, he had a mohawk and a flail that shot magic projectiles at enemies, and had a unique death animation along with his fellow bodyguards. After the update, he now has a hammer. Along with the graphical update, his death animation is similar to that of a goblin.
+* Although the examine text says "A battle-honed goblin", Sergeant Steelwill, along with his fellow bodyguards, have slightly lower health then the goblins fighting Zamorak's forces outside.
+
+==References==
+{{Reflist}}
+
+{{God Wars Dungeon}}
+{{Goblins}}
+
+[[Category:Participants in the God Wars]]
+[[Category:Bandosians]]
+[[Category:Boss minions]]

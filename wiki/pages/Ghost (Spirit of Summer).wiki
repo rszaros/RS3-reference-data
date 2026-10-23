@@ -1,0 +1,114 @@
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|name = Ghost
+|image1 = [[File:Ghost (Spirit of Summer, 1).png|x280px]]
+|image2 = [[File:Ghost (Spirit of Summer, 2).png|x280px]]
+|release = [[29 July]] [[2008]]
+|update = Spirit of Summer
+|members = Yes
+|options = Attack, Examine
+|race = Ghost
+|examine = Eeek! A ghost!
+|leagueRegion = Wilderness
+|level = 50
+|lifepoints = 1800
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 22.4
+|slayercat = Ghosts, Undead
+|max_melee = 108
+|max_ranged = 0
+|max_magic = 144
+|max_necromancy = 0
+|max_spec = 0
+|style = Magic
+|primarystyle = Magic
+|speed = 4
+|attack = 27
+|ranged = 0
+|magic = 36
+|necromancy = 1
+|acc_melee = 409
+|acc_ranged = 0
+|acc_magic = 553
+|acc_necromancy = 0
+|abilities = No
+|armour = 553
+|defence = 36
+|weakness = Arrow
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|id1 = 7998
+|id2 = 7999
+}}
+The '''ghosts''' are level 50 monsters, which can be called forth in [[the Forgotten Cemetery]] after the [[Spirit of Summer]] quest, but they are in the [[Wilderness]]. To call forth the ghosts, the player must first close the coffins then use [[Jennica's ring]] to enter the spirit realm at the graveyard, open the coffins there, and then leave the spirit realm and repeat after all four are killed. The complexity and tediousness of this makes this highly inefficient both for [[Ghosts (Slayer assignment)|ghosts Slayer assignment]] or for profit.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Spirit shield|quantity=1|rarity=1/2500}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril hatchet|quantity=1|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mind rune|quantity=25-75|rarity=15/128}}
+{{DropsLine|name=Body rune|quantity=25-75|rarity=15/128}}
+{{DropsLine|name=Law rune|quantity=5-15|rarity=10/128}}
+{{DropsLine|name=Mithril arrow|quantity=24-58|rarity=10/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|10/128}} ''When the table is rolled, between one and three rolls are performed.
+{{DropsTableHead}}
+{{HerbDropTable|10/128|rolls=2}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=22-250|rarity=30/128}}
+{{DropsLine|name=Prayer potion (3)|quantity=1|rarity=14/128}}
+{{DropsLine|name=Limpwurt root|quantity=2 (noted)|rarity=10/128}}
+{{DropsLine|name=Headless shaft|quantity=100-200|rarity=5/128}}
+{{DropsLine|name=Ranarr seed|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineGhostlyEssence|quantity=1, 2|rarity=1/256|quantitynotes={{DropNote|While on an appropriate [[Slayer assignment]], 2 ghostly essence are dropped instead of 1.}}}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Spirit of Summer|date=29 July 2008}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Ghost}}

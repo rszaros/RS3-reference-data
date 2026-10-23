@@ -1,0 +1,99 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Weaker
+|version2 = Stronger
+|name = Zombie
+|image = [[File:Zombie (Melzar's Maze).png|200px]]
+|release = [[23 September]] [[2001]]
+|update = Dragon quest online!
+|members = No
+|actions = Attack
+|examine = The walking dead.
+|level = 14
+|lifepoints = 500
+|experience = 25.0
+|slaylvl = 1
+|slayercat = Zombies
+|max_melee1 = 40
+|max_melee2 = 50
+|max_ranged = 0
+|max_magic = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 10
+|ranged = 0
+|magic = 0
+|acc_melee = 202
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 202
+|defence = 10
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|restriction = quest
+|leagueRegion = Asgarnia
+|id1 = 6099
+|id2 = 6100
+}}
+Melzar's Maze '''zombies''' are two monsters found on the basement of [[Melzar's Maze]].
+
+The zombie located in the middle of the room drops the [[Key (blue)|blue key]], required during the [[Dragon Slayer]] quest to enter the room where [[Melzar the Mad]] is located.
+
+==Location==
+{{Monster map
+|npcname=Zombie
+|caption=[[Melzar's Maze]] basement. The zombie that drops the blue key is marked with a green pin.
+|mapID=518
+|zoom=3
+|npcid:6099,version:Weaker,x:2932,y:9642,icon:greenPin
+|npcid:6100,x:2933,y:9640
+}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Key (blue)|quantity=1|rarity=Always|gemw=no|version=Weaker}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Zombie bone|quantity=1|rarity=1/4|gemw=no|alch=yes|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|version=Weaker}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[4 January]] [[2001]]|update=Runescape beta is now online!|img=Zombie (Melzar's Maze) (2001).png|name=Zombie (Melzar's Maze)}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Zombie (Melzar's Maze) (2004).png|name=Zombie (Melzar's Maze)}}
+|{{GUL|date=[[26 September]] [[2005]]|update=New graphics for Port Sarim, Rimmington and Thurgo's Peninsula|img=Zombie (Melzar's Maze) (2005).png|name=Zombie (Melzar's Maze)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie (Melzar's Maze) (2007).png|name=Zombie (Melzar's Maze)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie (Melzar's Maze).png|name=Zombie (Melzar's Maze)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Zombies, skeletons and ghosts have been graphically updated.
+
+* {{UL|type=update|update=New graphics for Port Sarim, Rimmington and Thurgo's Peninsula|date=26 September 2005}}
+** The NPC was graphically updated with the rework of Rimmington.
+** The NPC's combat level was decreased from 25 to 24.
+
+* {{UL|type=update|update=Dragon quest online!|date=23 September 2001}}
+** Added to game.
+}}
+
+{{Dragon Slayer}}
+{{Zombies}}

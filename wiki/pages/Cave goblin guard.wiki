@@ -1,0 +1,171 @@
+{{External|os}}
+{{Confuse|Guard (cave goblin)}}
+{{Infobox Monster
+|version1 = Club
+|version2 = Spear
+|name = Cave goblin guard
+|image1 = Cave goblin guard (club).png
+|image2 = Cave goblin guard (spear).png
+|release = [[31 May]] [[2005]]
+|update = New Appointment in Lumbridge
+|members = Yes
+|options = Talk to, Attack
+|race = Cave goblin
+|examine = He protects the miners.
+|level = 21
+|lifepoints = 750
+|experience = 37.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 9.6
+|slayercat = Goblins
+|assigned_by = Turael, jacquelyn
+|max_melee = 60
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 15
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 257
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 257
+|defence = 15
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = no
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Club
+|dropversion2 = Spear
+|id1 = 2073
+|id2 = 2074
+|leagueRegion = Misthalin
+}}
+[[File:Cave goblin guard chathead.png|left|80px]]
+'''Cave goblin guards''' are [[cave goblin]]s found in [[Dorgesh-Kaan mine|its mines]].
+
+They are non-[[aggressiveness|aggressive]] unless a player attacks a [[cave goblin miner]]. If a cave goblin miner is attacked, the guard (if near) will come to his aid.
+
+They can be of some profit to players as their drops can be sold to the nearby [[Dorgeshuun]] store. These goblins can only be accessed by completing the [[members]]-only [[Lost Tribe]] quest.
+
+These goblins also guard the entrance to Dorgesh-Kaan.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Dorgesh-Kaan mine]]
+|lvls=21
+|mem=yes
+|mapID=607
+|npcid:2073,x:3318,y:9602|npcid:2074,x:3320,y:9632|npcid:2074,x:3322,y:9617
+|npcid:2073,x:3323,y:9645
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Bone club|quantity=1|rarity=20/128|version=Club}}
+{{DropsLine|name=Bone spear|quantity=1|rarity=20/128|version=Spear}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=28/128}}
+{{DropsLine|name=Coins|quantity=12|rarity=20/128|gemw=No}}
+{{DropsLine|name=Iron chainbody|quantity=1|rarity=20/128}}
+{{DropsLine|name=Oil lantern (oil)|quantity=1|rarity=20/128}}
+{{DropsLine|name=Tinderbox|quantity=1|rarity=20/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Cave goblin skull|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+==Graphical updates==
+===NPC=== 
+{{Switch infobox
+|text1 = Club
+|item1 = 
+{{GU|subject=npc
+|{{GUL|date=[[31 May]] [[2005]]|update=New Appointment in Lumbridge|img=Cave goblin guard (club) (2005).png|name=Cave goblin guard}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Dorgesh-Kaan|img=Cave goblin guard (club) (2007).png|name=Cave goblin guard}}
+|{{GUL|date=|update=|img=Cave goblin guard (club).png|name=Cave goblin guard}}
+}}
+
+|text2 = Spear
+|item2 = 
+{{GU|subject=npc
+|{{GUL|date=[[31 May]] [[2005]]|update=New Appointment in Lumbridge|img=Cave goblin guard (spear) (2005).png|name=Cave goblin guard}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Dorgesh-Kaan|img=Cave goblin guard (spear) (2007).png|name=Cave goblin guard}}
+|{{GUL|date=|update=|img=Cave goblin guard (spear).png|name=Cave goblin guard}}
+}}
+}}
+
+===Chathead=== 
+{{Switch infobox
+|text1 = Club
+|item1 = 
+{{GU|subject=chatheads
+|{{GUL|date=[[31 May]] [[2005]]|update=New Appointment in Lumbridge|img=Cave goblin guard chathead (2005).png|name=Cave goblin guard}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Dorgesh-Kaan|img=Cave goblin guard (club) chathead (2007).png|name=Cave goblin guard}}
+|{{GUL|date=|update=|img=Cave goblin guard chathead.png|name=Cave goblin guard}}
+}}
+
+|text2 = Spear
+|item2 = 
+{{GU|subject=chatheads
+|{{GUL|date=[[31 May]] [[2005]]|update=New Appointment in Lumbridge|img=Cave goblin guard chathead (2005).png|name=Cave goblin guard}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Dorgesh-Kaan|img=Cave goblin guard (spear) chathead (2007).png|name=Cave goblin guard}}
+|{{GUL|date=|update=|img=Cave goblin guard chathead.png|name=Cave goblin guard}}
+}}
+}}
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Medium plated iron salvage → Iron chainbody
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=update|update=New Appointment in Lumbridge|date=31 May 2005}}
+** Added to game.
+}}
+
+{{The Chasm of Lights}}
+{{Dorgesh-Kaan}}
+{{Dorgeshuun}}
+[[Category:Guards]]

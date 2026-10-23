@@ -1,0 +1,169 @@
+{{Infobox Monster
+|version1 = 2
+|version2 = 6
+|version3 = 12
+|version4 = 21
+|version5 = 30
+|version6 = 44
+|version7 = 60
+|version8 = 80
+|version9 = 107
+|version10 = 135
+|version11 = 161
+|name = Squishy ghost
+|image = [[File:Mysterious Shade.png|150px]]
+|release = [[1 June]] [[2011]]
+|update = Fremennik Sagas
+|members = Yes
+|options = Attack
+|examine = Annoyingly easy to squish.
+|level1 = 2
+|level2 = 6
+|level3 = 12
+|level4 = 21
+|level5 = 30
+|level6 = 44
+|level7 = 60
+|level8 = 80
+|level9 = 107
+|level10 = 135
+|level11 = 161
+|lifepoints1 = 30
+|lifepoints2 = 1550
+|lifepoints3 = 1550
+|lifepoints4 = 1550
+|lifepoints5 = 1550
+|lifepoints6 = 1550
+|lifepoints7 = 1550
+|lifepoints8 = 1550
+|lifepoints9 = 1550
+|lifepoints10 = 1550
+|lifepoints11 = 1550
+|experience = 0.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Shades, Ghosts, Undead
+|max_melee = 0
+|max_ranged1 = 0
+|max_ranged2 = 60
+|max_ranged3 = 60
+|max_ranged4 = 60
+|max_ranged5 = 60
+|max_ranged6 = 60
+|max_ranged7 = 60
+|max_ranged8 = 60
+|max_ranged9 = 60
+|max_ranged10 = 60
+|max_ranged11 = 60
+|max_magic1 = 0
+|max_magic2 = 60
+|max_magic3 = 60
+|max_magic4 = 60
+|max_magic5 = 60
+|max_magic6 = 60
+|max_magic7 = 60
+|max_magic8 = 60
+|max_magic9 = 60
+|max_magic10 = 60
+|max_magic11 = 60
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|speed = 4
+|attack = 1
+|ranged1 = 2
+|ranged2 = 150
+|ranged3 = 150
+|ranged4 = 150
+|ranged5 = 150
+|ranged6 = 150
+|ranged7 = 150
+|ranged8 = 150
+|ranged9 = 150
+|ranged10 = 150
+|ranged11 = 150
+|magic1 = 2
+|magic2 = 150
+|magic3 = 150
+|magic4 = 150
+|magic5 = 150
+|magic6 = 150
+|magic7 = 150
+|magic8 = 150
+|magic9 = 150
+|magic10 = 150
+|magic11 = 150
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged1 = 0
+|acc_ranged2 = 70
+|acc_ranged3 = 70
+|acc_ranged4 = 70
+|acc_ranged5 = 70
+|acc_ranged6 = 70
+|acc_ranged7 = 70
+|acc_ranged8 = 70
+|acc_ranged9 = 70
+|acc_ranged10 = 70
+|acc_ranged11 = 70
+|acc_magic1 = 0
+|acc_magic2 = 1
+|acc_magic3 = 2
+|acc_magic4 = 5
+|acc_magic5 = 10
+|acc_magic6 = 15
+|acc_magic7 = 20
+|acc_magic8 = 25
+|acc_magic9 = 35
+|acc_magic10 = 50
+|acc_magic11 = 70
+|acc_necromancy = 0
+|armour = 0
+|defence1 = 2
+|defence2 = 85
+|defence3 = 85
+|defence4 = 85
+|defence5 = 85
+|defence6 = 85
+|defence7 = 85
+|defence8 = 85
+|defence9 = 85
+|defence10 = 85
+|defence11 = 85
+|weakness = None
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 40
+|aff_ranged = 40
+|aff_magic = 40
+|immune_to_poison = No
+|restriction = quest
+|leagueRegion = Wilderness
+|id1 = 6306
+|id2 = 6898
+|id3 = 6898
+|id4 = 6898
+|id5 = 6898
+|id6 = 6898
+|id7 = 6898
+|id8 = 6898
+|id9 = 6898
+|id10 = 6898
+|id11 = 6898
+}}
+'''Squishy ghosts''' are [[Thok]]'s name for the [[mysterious shade]]s encountered in [[Thok It To 'Em (saga)]]. Thok must kill some of them in the monolith room to continue in the saga.
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Fremennik Sagas|date=1 June 2011}}
+** Added to game.
+}}
+
+{{Thok It To 'Em (saga)}}

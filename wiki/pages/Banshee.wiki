@@ -1,0 +1,218 @@
+{{External|os|wp}}
+{{Infobox Monster
+|name = Banshee
+|image = [[File:Banshee.png|150px]]
+|imagebackground = yes
+|release = [[26 January]] [[2005]]
+|update = Slayer Skill
+|members = Yes
+|actions = Attack
+|examine = A tortured screaming soul.
+|level = 24
+|lifepoints = 2500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 15
+|slayxp = 29.2
+|slayercat = Banshees, Undead, Ghosts
+|assigned_by = Spria, Achtryn, Chaeldar, Sumona
+|max_melee = 360
+|max_ranged = 0
+|max_magic = 440
+|max_necromancy = 0
+|max_spec = 990
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 18
+|ranged = 1
+|magic = 22
+|necromancy = 1
+|acc_melee = 192
+|acc_ranged = 0
+|acc_magic = 241
+|acc_necromancy = 0
+|armour = 245
+|defence = 14
+|weakness = Arrows
+|susceptibility = Undead slayer, Ghost
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1612
+|leagueRegion=Morytania}}
+[[File:Banshee icon.png|left]]
+'''Banshees''' are [[Slayer monsters]] found in the [[Slayer Tower]] that require level 15 [[Slayer]] to kill. Additionally, banshees tend to frequently drop many different types of herbs. [[Mighty banshee]]s are a higher-levelled alternative if seeking greater experience for a [[slayer assignment]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Slayer Tower]] {{floornumber|1}}
+|lvls=24
+|mem=yes
+|mapID=28
+|npcid:1612,x:3434,y:3566|npcid:1612,x:3435,y:3572|npcid:1612,x:3436,y:3560
+|npcid:1612,x:3438,y:3565|npcid:1612,x:3439,y:3558|npcid:1612,x:3441,y:3548
+|npcid:1612,x:3441,y:3571|npcid:1612,x:3443,y:3545|npcid:1612,x:3443,y:3563
+|npcid:1612,x:3444,y:3557|npcid:1612,x:3444,y:3568|npcid:1612,x:3445,y:3550
+|leagueRegion=Morytania
+}}
+{{LocTableBottom}}
+
+==Strategy==
+Players should wear [[earmuffs]], [[masked earmuffs]], a [[Slayer helmet]], or a [[Mask of Mourning]]/[[Helm of Keening]] when fighting banshees.
+
+Not wearing the required equipment results in the following effects:
+* Inflicts damage to the player up to a maximum of 10% of their max [[life points]] in typeless damage.
+* Lowers [[Attack]], [[Strength]], [[Magic]], [[Ranged]], and [[Necromancy]] by 20% of their current level. At level 4, it cannot be lowered any further.
+* Lowers [[Defence]] and [[Agility]] by 10% of their current level. At level 9, it cannot be lowered any further.
+* Multiplies current [[prayer points]] and [[summoning points]] by 0.9.
+
+Agility being reduced can be annoying for players wishing to use the shortcuts in the [[Slayer Tower]].
+
+Banshees use a magic attack which hits from a distance. The [[Protect from Magic]] will work against them, but most players are likely better off using armour with a high magic defence bonus, such as [[dragonhide armour]].
+
+Banshees are considered undead, so a [[salve amulet]] or [[salve amulet (e)]] will work. An [[ectoplasmator]] will also provide the player with Prayer experience.
+
+[[Morytania legs 4]] will provide a 10% boost to slayer experience if in the slayer tower and on task.  A contract with [[Markus]] will provide even more additional slayer experience if the task is completed in the Slayer Tower.
+
+As banshees drop many types of herbs and seeds, players can make use of [[seedicide]] and [[herbicide]] to convert them to experience. A [[herb bag]], [[charming imp]] and [[gem bag]] can also be useful for collecting their drops.
+
+==Champion's Challenge==
+Banshees are one of the 'races' who have lesser champions in the [[Champion's Challenge]] [[Distraction and Diversion]]. To fight the [[Banshee Champion]], the player must kill banshees until one drops a [[Banshee Champion's scroll|Champion's scroll]], a very rare drop.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Dark mystic gloves|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|Drop rate is increased to 1/496 with at least tier 1 luck}}}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Chaos rune|quantity=10|rarity=6/128}}
+{{DropsLine|name=Mithril arrow|quantity=40|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|30/128}}
+{{DropsTableHead}}
+{{HerbDropTable|30/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|22/128}} ''There is an additional 4/128 chance of rolling for grapevine seeds.''
+{{DropsTableHead}}
+{{DropsLine|name=Grapevine seed|quantity=2|rarity=4/128}}
+{{UncommonSeedDropTable|22/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=500-700|rarity=22/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=1000-1400|rarity=4/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Pike|quantity=1|rarity=12/128}}
+{{DropsLine|name=Iron stone spirit|quantity=1|rarity=8/128}}
+{{DropsLine|name=Oak wood spirit|quantity=1-2|rarity=6/128}}
+{{DropsLine|name=Uncut sapphire|quantity=1|rarity=4/128}}
+{{DropsLine|name=Thin snail|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|slayer_level=15}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128}}
+{{DropsLineGhostlyEssence|quantity=1-2, 2-4|rarity=1/256|altrarity=1/96|raritynotes={{DropNote|While on an appropriate [[Slayer assignment]], there is a 1/96 chance to drop 2–4 ghostly essence.}}}}
+{{DropsLineGhosts|ectorarity=1000|herbrarity=1024}}
+{{DropsLine|name=Banshee Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Banshee Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineEffigy|level=24}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=24}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 20.155/1000
+|green = 70.544/1000
+|crimson = 10.078/1000
+|blue = 2.016/1000
+}}
+
+==Products==
+{{Uses facility list|Banshee}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+Banshee concept art.png|Concept art for a banshee
+Game Jam September 2023 Banshee 1.jpg|Game jam update concept art
+Game Jam April 2025 Banshee 1.jpg|Game jam update model
+Game Jam April 2025 Banshee 2.jpg|Game jam update model
+Game Jam April 2025 Banshee 3.jpg|Game jam update model
+</gallery>
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Banshee (2005).png|name=Banshee}}
+|{{GUL|date=[[5 June]] [[2008]]|update=Smoking Kills|img=Banshee.png|name=Banshee}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Shooting Star Refresh - This Week In RuneScape|date=16 December 2024}}
+** Added [[wood spirit|Normal]] and [[Oak wood spirit]]s to more drop tables:
+*** Replaced [[small spiky bronze salvage|Small Spiky Bronze Salvage]] with Oak Wood Spirits.
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by [[Ushabti]].
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Creatures such as Banshees will work for Ghost and Undead Slayer tasks.
+
+* {{UL|type=patch|update=This Week In RuneScape: Once Upon A Time: Fortunes|date=5 July 2021}}
+** [[Slayer Masters]] are now able to assign banshee tasks to players wearing the [[Mask of Mourning]].
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes banshees.
+
+* {{UL|type=patch|update=Patch Notes (18 March 2013)|date=18 March 2013}}
+** [[Grotworm]]s, [[moss giant]]s, banshees, [[jungle spider]]s, [[shadow spider]]s, [[spider]]s, [[giant spider]]s, [[deadly red spider]]s, [[ice spider]]s, [[scorpion]]s, [[poison scorpion]]s and [[pit scorpion]] will no longer hit for 1 hit point worth of damage.
+
+* {{UL|type=update|update=Slayer Skill|date=26 January 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* The name "banshee" comes from the Irish, meaning "Fairy Woman"; in Irish mythology a banshee is said to scream when a person they know dies.
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{Ghost}}
+{{Slayer Tower}}
+
+[[Category:Tier 1 luck]]
+[[pt:Banshee]]

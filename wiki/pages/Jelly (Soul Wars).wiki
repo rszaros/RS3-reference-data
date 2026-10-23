@@ -1,0 +1,84 @@
+{{Infobox Monster
+|name = Jelly
+|image = [[File:Jelly.png|200px]]
+|release = [[10 February]] [[2009]]
+|update = Soul Wars
+|members = Yes
+|examine = There's always room for jelly.
+|level = 63
+|lifepoints = 2250
+|experience = 112.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 52
+|slayxp = 75.5
+|slayercat = Jellies
+|assigned_by = Chaeldar
+|max_melee = 0
+|max_ranged = 360
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 45
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 732
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id = 8599
+|leagueRegion = Misthalin
+}}
+'''Jellies''' are monsters only found in the [[Soul Wars]] minigame. They are one of the two monsters that can be killed for [[soul fragment]]s.
+
+Despite their listed stats, currently they only attack with melee and can only deal a max of 1 damage, making them very easy to tank for long periods to obtain [[thaler]].
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Soul Wars]]
+|lvls=63
+|mem=yes
+|mapID=28
+|npcid:8599,x:2195,y:2887|npcid:8599,x:2198,y:2890|npcid:8599,x:2200,y:2886
+|npcid:8599,x:2202,y:2888|npcid:8599,x:2206,y:2887|npcid:8599,x:2211,y:2888
+|npcid:8599,x:2211,y:2931|npcid:8599,x:2212,y:2934|npcid:8599,x:2216,y:2930
+|npcid:8599,x:2217,y:2933|npcid:8599,x:2223,y:2930|npcid:8599,x:2223,y:2934
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{DropsTableHead}}
+{{DropsLine|name=Soul fragment|quantity=2|rarity=Always|gemw=no|alch=no}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Soul Wars|date=10 February 2009}}
+** Added to game.
+}}
+
+{{Soul Wars}}

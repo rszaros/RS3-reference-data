@@ -1,0 +1,328 @@
+{{External|os|rsc|dw=Giant Rat}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|version1 = Level 4 (grey)
+|version2 = Level 4 (brown)
+|version3 = Level 7 (grey)
+|version4 = Level 7 (brown)
+|version5 = Level 9 (Stronghold of Security, 1)
+|version6 = Level 9 (Stronghold of Security, 2)
+|version7 = Level 9 (Stronghold of Security, 3)
+|name = Giant rat
+|image1 = Giant rat.png
+|image2 = Giant rat (brown).png
+|image3 = Giant rat.png
+|image4 = Giant rat (brown).png
+|image5 = Giant rat (Stronghold of Security, 1).png
+|image6 = Giant rat (Stronghold of Security, 2).png
+|image7 = Giant rat (Stronghold of Security, 3).png
+|release = [[4 January]] [[2001]]
+|update = Runescape beta is now online!
+|members = No
+|options = Attack
+|examine = Overgrown vermin.
+|level1 = 4
+|level2 = 4
+|level3 = 7
+|level4 = 7
+|level5 = 9
+|level6 = 9
+|level7 = 9
+|lifepoints1 = 1100
+|lifepoints2 = 1100
+|lifepoints3 = 1450
+|lifepoints4 = 1450
+|lifepoints5 = 1650
+|lifepoints6 = 1650
+|lifepoints7 = 1650
+|experience1 = 55
+|experience2 = 55
+|experience3 = 72.5
+|experience4 = 72.5
+|experience5 = 82.5
+|experience6 = 82.5
+|experience7 = 82.5
+|slayxp1 = 19.8
+|slayxp2 = 19.8
+|slayxp3 = 21
+|slayxp4 = 21
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Rats
+|assigned_by = jacquelyn
+|max_melee1 = 40
+|max_melee2 = 40
+|max_melee3 = 100
+|max_melee4 = 100
+|max_melee5 = 140
+|max_melee6 = 140
+|max_melee7 = 140
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 4
+|attack2 = 4
+|attack3 = 5
+|attack4 = 5
+|attack5 = 7
+|attack6 = 7
+|attack7 = 7
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 50
+|acc_melee2 = 50
+|acc_melee3 = 50
+|acc_melee4 = 50
+|acc_melee5 = 71
+|acc_melee6 = 71
+|acc_melee7 = 71
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 110
+|armour3 = 150
+|armour4 = 150
+|armour5 = 171
+|armour6 = 171
+|armour7 = 171
+|defence1 = 2
+|defence2 = 2
+|defence3 = 5
+|defence4 = 5
+|defence5 = 7
+|defence6 = 7
+|defence7 = 7
+|weakness1 = Earth
+|weakness2 = Earth
+|weakness3 = Earth
+|weakness4 = Earth
+|weakness5 = Fire
+|weakness6 = Fire
+|weakness7 = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Kandarin,Wilderness,Misthalin,Morytania,Asgarnia
+|id1 = 20500
+|id2 = 20501
+|id3 = 87, 446, 2091, 4922, 4924, 12349, 12350, 4927, 8829, 12351
+|id4 = 86, 4923, 4926, 8828
+|id5 = 4395
+|id6 = 4944
+|id7 = 4945
+|dropversion1 = Regular
+|dropversion2 = Regular
+|dropversion3 = Regular
+|dropversion4 = Regular
+|dropversion5 = Stronghold of Security
+|dropversion6 = Stronghold of Security
+|dropversion7 = Stronghold of Security
+}}
+'''Giant rats''' are low level vermin. These are often fought by low level players because of their low combat level, accessibility, and their drops of bones and [[raw rat meat]], which can be cooked over a fire and consumed to restore [[life points]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ardougne Sewers]]
+|lvls=7
+|mem=yes
+|mapID=0
+|npcid:86,x:2631,y:9695|npcid:4922,x:2636,y:9697|npcid:4923,x:2642,y:9712
+|npcid:4923,x:2644,y:9696|npcid:4922,x:2644,y:9708|npcid:86,x:2647,y:9701
+|npcid:86,x:2647,y:9716|npcid:4922,x:2651,y:9700
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Bandit Camp (Wilderness)|Bandit Camp]] (level 17 - 24 [[Wilderness]])
+|lvls=7
+|mem=no
+|mapID=28
+|npcid:86,x:3049,y:3691|npcid:4927,x:3049,y:3695
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Edgeville Dungeon]]
+|lvls=7
+|mem=no
+|mapID=31
+|npcid:4926,x:3089,y:9895|npcid:86,x:3091,y:9897|npcid:86,x:3102,y:9880
+|npcid:4927,x:3103,y:9883|npcid:86,x:3103,y:9887|npcid:4926,x:3106,y:9885
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Grand Tree mine]]
+|lvls=7
+|mem=yes
+|mapID=499
+|npcid:4927,x:2450,y:9903|npcid:4926,x:2450,y:9912|npcid:86,x:2456,y:9910
+|npcid:4926,x:2464,y:9908|npcid:4927,x:2466,y:9881|npcid:4926,x:2477,y:9896
+|npcid:4927,x:2482,y:9914|npcid:86,x:2483,y:9888|npcid:86,x:2488,y:9912
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Lumbridge Swamp]]
+|lvls=4
+|mem=no
+|mapID=28
+|npcid:20501,x:3153,y:3189|npcid:20500,x:3163,y:3160|npcid:20500,x:3155,y:3153
+|npcid:20500,x:3177,y:3191|npcid:20501,x:3171,y:3156|npcid:20501,x:3193,y:3158
+|npcid:20501,x:3201,y:3174|npcid:20500,x:3216,y:3180|npcid:20501,x:3209,y:3162
+|npcid:20501,x:3227,y:3193|npcid:20501,x:3234,y:3187|npcid:20500,x:3231,y:3184
+|npcid:20500,x:3237,y:3180|npcid:20500,x:3235,y:3172|npcid:20501,x:3232,y:3170
+|npcid:20500,x:3217,y:3158|npcid:20500,x:3181,y:3209|npcid:20500,x:3184,y:3210
+|npcid:20500,x:3187,y:3207|npcid:20500,x:3191,y:3208|npcid:20500,x:3192,y:3204
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Meiyerditch tunnels]]
+|lvls=7
+|mem=yes
+|mapID=-1
+|npcid:4926,x:3463,y:9813|npcid:87,x:3464,y:9818|npcid:4927,x:3469,y:9816
+|npcid:86,x:3479,y:9832|npcid:86,x:3484,y:9824|npcid:86,x:3495,y:9812
+|npcid:86,x:3502,y:9806
+|leagueRegion = Morytania}}
+{{LocLine
+|loc=North of [[Varrock]] (level 1 - 5 [[Wilderness]])
+|lvls=7
+|mem=no
+|mapID=28
+|npcid:4927,x:3227,y:3533|npcid:4926,x:3227,y:3547|npcid:4927,x:3236,y:3549
+|npcid:87,x:3242,y:3530|npcid:87,x:3248,y:3553|npcid:4926,x:3251,y:3528
+|npcid:87,x:3256,y:3541
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Shadow Dungeon]]
+|lvls=7
+|mem=yes
+|mapID=416
+|npcid:86,x:2721,y:5102|npcid:4927,x:2737,y:5062
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=South of [[Varrock]]
+|lvls=7
+|mem=no
+|mapID=28
+|npcid:2091,x:3264,y:3383|npcid:12348,x:3265,y:3348|npcid:12348,x:3265,y:3353
+|npcid:12348,x:3265,y:3358|npcid:8829,x:3266,y:3381|npcid:12348,x:3268,y:3347
+|npcid:12348,x:3268,y:3351|npcid:12348,x:3268,y:3356|npcid:12348,x:3268,y:3359
+|npcid:12348,x:3271,y:3349|npcid:12348,x:3271,y:3354|npcid:12348,x:3271,y:3358
+|npcid:12348,x:3274,y:3351|npcid:12348,x:3276,y:3348|npcid:2091,x:3297,y:3379
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=South-west of [[Port Sarim]]
+|lvls=7
+|mem=no
+|mapID=28
+|npcid:446,x:2994,y:3192|npcid:4924,x:2997,y:3192
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Stronghold of Security]]
+|lvls=9
+|mem=no
+|mapID=24
+|npcid:4395,x:92,y:93|npcid:4395,x:93,y:96|npcid:4944,x:94,y:94
+|npcid:4944,x:96,y:92|npcid:4945,x:99,y:94|npcid:4395,x:119,y:140
+|npcid:4944,x:123,y:139|npcid:4945,x:123,y:142|npcid:4395,x:141,y:115
+|npcid:4944,x:144,y:119
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Gnome Maze]]
+|lvls=7
+|mem=yes
+|mapID=28
+|npcid:86,x:2517,y:3184|npcid:4926,x:2520,y:3187
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Varrock Sewers]]
+|lvls=7
+|mem=no
+|mapID=31
+|npcid:8829,x:3220,y:9865|npcid:8829,x:3220,y:9869|npcid:8829,x:3224,y:9873
+|npcid:8829,x:3233,y:9866|npcid:8828,x:3239,y:9864|npcid:8828,x:3279,y:9894
+|npcid:8829,x:3283,y:9896
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw rat meat|quantity=1|rarity=Always|raritynotes={{DropNote|Not dropped by some of the giant rats in the [[Stronghold of Security]], or inside of [[Daemonheim]].}}}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Giant rat bone|quantity=1|rarity=Always|raritynotes={{DropNote|Only during [[Rag and Bone Man]].}}|gemw=No}}
+{{DropsLine|name=Rat's tail|quantity=1|rarity=Always|raritynotes={{DropNote|Only during [[Witch's Potion (miniquest)]].}}|version=Stronghold of Security|gemw=No}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Giant Rats.png|A pen full of giant rats, found south of Varrock.
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[4 January]] [[2001]]|update=Runescape beta is now online!|img=File:Giant rat (2001).png|name=Rat}}
+|{{GUL|date=[[17 June]] [[2002]]|update=Latest RuneScape News (17 June 2002)|img=File:Giant rat (2002).png|name=Rat}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=File:Giant rat (2004).png|name=Giant rat}}
+|{{GUL|date=[[22 February]] [[2005]]|update=Wilderness Capes, and Changes|img=File:Giant rat (Lumbridge) (2005).png|name=Giant rats in Lumbridge}}
+|{{GUL|date=[[18 October]] [[2006]]|update=Player-Owned House Costume Room|img=File:Giant rat (2006).png|name=Giant rat}}
+|{{GUL|date=[[18 October]] [[2006]]|update=Player-Owned House Costume Room|img=File:Giant rat (Lumbridge) (2006).png|name=Giant rats in Lumbridge}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=File:Giant rat (2008).png|name=Giant rat}}
+|{{GUL|date=[[12 October]] [[2010]]|update=Patch Notes (12 October 2010)|img=File:Giant rat (2010).png|name=Giant rat}}
+|{{GUL|date=[[15 May]] [[2023]]|update=MHAW & Double XP - This Week In RuneScape|img=File:Giant rat.png|name=Giant rat}}
+}}
+
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** Giant rats in [[Lumbridge Swamp]] have been reduced in combat prowess:
+*** Life points reduced to 1100 (from 1450)
+*** Maximum hit reduced to 40 (from 100)
+*** Armour reduced to 110 (from 150)
+*** Defence level reduced to 2 (from 5)
+*** Attack level reduced to 4 (from 5)
+*** Removed healing effect (formerly healed 1 life point per tick)
+** Level 7 rats which were impaled by arrows have mostly had the model replaced with arrowless versions.
+
+* {{UL|type=patch|update=MHAW & Double XP - This Week In RuneScape|date=15 May 2023}}
+** Updated models for [[skeleton]]s, [[zombie]]s and giant rats within the [[Wilderness]], giving them the new [[Unwelcome Guests]] models.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* Giant rats are one of the few [[RuneScape]] [[monsters]] that blink.
+* On [[Tutorial Island]], a [[player]] would have to kill a giant rat.
+* Usually the low level giant rats have light fur while the higher levels have dark fur.
+* Partly decomposed corpses of giant rats can be seen in some of the puddles in Lumbridge Swamp.
+* The giant rats in the low-level [[Wilderness]] are aggressive to players.
+* In [[Betrayal at Falador]], the characters [[Theodore]] and [[Castimir]] reminisce that the children of [[Rimmington]] would hunt giant rats for fun using rocks and arrows. Despite their size, they were apparently too clumsy and stupid to be a threat.{{CitePub |author=T.S. Church |title=Betrayal at Falador |pages=252 |publisher=Titan Books |pubyear=2010 (edited rerelease)|notes="They laughed at remembrances of the giant rats that lived to the east of Rimmington where they had grown up. Although the size of a pig, the animals had been uncommmonly stupid and clumsy. Hunting them with rocks or arrows had been a frequent hobby of children.}}
+
+==References==
+{{reflist}}
+
+{{Rats}}
+{{Lumbridge Swamp}}
+[[pt:Rato gigante]]

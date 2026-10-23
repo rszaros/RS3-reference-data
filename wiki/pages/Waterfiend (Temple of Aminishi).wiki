@@ -1,0 +1,115 @@
+{{Infobox Monster
+|version1 = Normal mode
+|version2 = Story mode
+|name = Waterfiend
+|image = [[File:Waterfiend (Temple of Aminishi).png|x280px]]
+|release = [[25 June]] [[2018]]
+|update = Temple of Aminishi - Elite Dungeon
+|members = Yes
+|options = Attack, Examine
+|examine = A fiendish embodiment of water.
+|level = 107
+|lifepoints = 14000
+|experience = 700.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Waterfiends
+|assigned_by = Duradel, Kuradal, Morvran
+|max_melee = 936
+|max_ranged = 936
+|max_magic = 936
+|max_spec = N/A
+|style = Magic, Ranged
+|speed1 = 6
+|attack = 77
+|ranged = 77
+|magic = 77
+|acc_melee = 1783
+|acc_ranged = 1783
+|acc_magic1 = 1924
+|armour = 1486
+|defence = 77
+|weakness1 = Nothing
+|weakness2 = Bolts
+|aff_melee1 = 55
+|aff_ranged1 = 55
+|aff_magic1 = 55
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Normal mode
+|dropversion2 = Story mode
+|leagueRegion = Asgarnia
+|id = 25603
+}}
+'''Waterfiend''' is an enemy encountered in the [[Temple of Aminishi]]. It is not recommended to kill these waterfiends for a [[slayer assignment]] as they are significantly stronger compared to [[waterfiend]]s found elsewhere, and do not drop anything but water runes.
+
+In Story mode their health is reduced by 50% and their damage output is reduced by 90%.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+In story mode, only bones are dropped.
+
+{{Average drop value|mob=Waterfiend (Temple of Aminishi)#Normal mode}}
+
+===100%===
+{{DropsTableHead|version=Story mode,Normal mode}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Alchables===
+{{Temple of Aminishi alchables drop table|100/1000|version=Normal mode}}
+
+===Currency===
+{{Temple of Aminishi currency drop table|150/1000|version=Normal mode}}
+
+===Supplies===
+{{Temple of Aminishi supplies drop table|50/1000|version=Normal mode}}
+
+===Lucky charm===
+{{Lucky charm (Temple of Aminishi) drops|5/1000|version=Normal mode}}
+
+===Other===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLine|name=Water rune|quantity=1|rarity=700/1000|altrarity=695/1000|raritynotes={{DropNote|695/1,000 if a [[Lucky Charm (Temple of Aminishi)]] is in the backpack.}}}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/150|version=Normal mode}}
+
+===Tertiary===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=107}}
+{{DropsLineMimic|level=107}}
+{{DropsTableBottom}}
+
+====Charms====
+{{EliteDungeonCharmDropTable|version=Normal mode}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[25 June]] [[2018]]|update=Temple of Aminishi - Elite Dungeon|img=Waterfiend (Temple of Aminishi) (2018).png|name=Waterfiend (Temple of Aminishi)}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Waterfiend (Temple of Aminishi).png|name=Waterfiend (Temple of Aminishi)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Waterfiends have been graphically updated.
+
+* {{UL|type=patch|update=Weekly Update: 15th October 2018|date=15 October 2018}}
+** Damage taken in Elite Dungeons story mode reduced from 33% of normal mode to 10%.
+
+* {{UL|type=update|update=Temple of Aminishi - Elite Dungeon|date=25 June 2018}}
+** Added to game.
+}}
+
+==References==
+{{reflist}}
+
+{{Temple of Aminishi}}
+{{Demons}}

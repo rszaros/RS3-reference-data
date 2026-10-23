@@ -1,0 +1,101 @@
+{{Infobox Monster
+|name = Monstrous cave crawler
+|image = [[File:Monstrous cave crawler.png|220px]]
+|release = [[5 June]] [[2008]]
+|update = Smoking Kills
+|members = Yes
+|options = Attack, Examine
+|examine = It oozes venom from every pore.
+|level = 76
+|lifepoints = 23550
+|experience = 1177.5
+|aggressive = Yes
+|poisonous = 80
+|slaylvl = 10
+|slayxp = 854
+|slayercat = Cave crawlers
+|assigned_by = mazchna, chaeldar, sumona
+|max_melee = 0
+|max_ranged = 1300.0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 65
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 1199
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 732
+|defence = 45
+|weakness = Slashing
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = Yes
+|immune_to_stun = Yes
+|immune_to_deflect = No
+|immune_to_drain = Yes
+|restriction = quest
+|id = 7798
+|leagueRegion=Desert}}
+
+The '''monstrous cave crawler''' is an especially strong [[cave crawler]]. The monstrous cave crawler can only be fought once, during the [[Desert Slayer Dungeon (miniquest)|Desert Slayer Dungeon miniquest]], after [[Smoking Kills]]. 
+
+The monstrous cave crawler awards 1,000 [[Slayer]] experience when killed. Killing this boss while having the regular version assigned as a task does give more Slayer experience. If the player's current task is cave crawlers, then the 15% combat bonus of the ([[Full slay helm|Full]]) [[Slayer helmet]], [[black mask]], [[hexcrest]], and [[focus sight]] is in effect, as well as the monstrous cave crawler counting toward the task.
+
+This boss attacks rapidly with ranged. The [[poison]] from its ranged attack severely reduces the duration of any antipoison effect. Even with super antipoison, every second or third hit poisons the player (base damage 80). [[Dwarf multicannon]]s may not be used for this fight.
+
+Use [[Protect from Ranged]] to reduce damage from its ranged attack. The creature's attacks continue to poison players quickly even through prayer. It is futile to drink antipoison as quickly as the creature inflicts poison. Players should instead concentrate on killing the creature, using food occasionally if necessary to heal from the poison. Take some antipoison for after the fight is over, though. The [[antipoison totem]] does not work against this creature's poison.
+
+The recommended style to fight the Monstrous cave crawler is melee, although it is also possible to use ranged or magic. To range it quickly, about level 40 [[Ranged]] is recommended. [[Mithril bolts]] and higher work pretty well. [[Zanik's crossbow]] and [[bone bolts]] also work well, due to this creature's weakness against [[bone weapons]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Pollnivneach Slayer Dungeon]]
+|lvls=76
+|mem=yes
+|mapID=22
+|npcid:7798,x:146,y:97
+|leagueRegion = Desert
+}}
+{{LocTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Monstrous cave crawler fight.png|The cave crawler's acid attack
+</gallery>
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=|update=|img=Monstrous cave crawler old.png|name=Monstrous cave crawler}}
+|{{GUL|date=|update=|img=Monstrous cave crawler.png|name=Monstrous cave crawler}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=March Patch Week - This Week In RuneScape|date=11 March 2024}}
+** Rebalanced the minibosses in the Desert Slayer Dungeon miniquest.
+*** They all have more HP, damage, and have been cleaned up in general.
+
+* {{UL|type=update|update=Smoking Kills|date=5 June 2008}}
+** Added to game.
+}}
+
+{{Desert Slayer Dungeon (miniquest)}}
+{{Slayer monsters}}
+[[Category:Bosses]]
+[[Category:Unique monsters]]

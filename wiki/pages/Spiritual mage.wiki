@@ -1,0 +1,290 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Zamorak
+|version2 = Armadyl
+|version3 = Saradomin
+|version4 = Bandos
+|version5 = The World Wakes
+|name = Spiritual mage
+|image1 = [[File:Spiritual mage (Zamorak).png|100px]]
+|image2 = [[File:Spiritual mage (Armadyl).png|250px]]
+|image3 = [[File:Spiritual mage (Saradomin).png|100px]]
+|image4 = [[File:Spiritual mage (Bandos).png|250px]]
+|image5 = [[File:Spiritual mage (Saradomin).png|100px]]
+|release = [[28 August]] [[2007]]
+|release5 = [[4 March]] [[2013]]
+|update = God Wars Dungeon
+|update5 = The World Wakes
+|members = Yes
+|options = Attack
+|examine1 = A deadly servant of Zamorak.
+|examine2 = A mage who serves Armadyl above all else - even death.
+|examine3 = Saradomin's holy mage.
+|examine4 = One of Bandos's chosen.
+|examine5 = Saradomin's holy mage.
+|level = 98
+|level5 = 49
+|lifepoints = 7000
+|lifepoints5 = 1120
+|experience = 350.0
+|experience5 = 0.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 83
+|slaylvl5 = N/A
+|slayxp = 229.0
+|slayxp5 = N/A
+|slayercat1 = Spiritual mages, Ghosts, Undead
+|slayercat2 = Spiritual mages, Aviansies, Ghosts, Undead
+|slayercat3 = Spiritual mages, Ghosts, Undead
+|slayercat4 = Spiritual mages, Ghosts, Undead
+|slayercat5 = N/A
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 280
+|max_magic3 = 350
+|max_magic4 = 350
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed1 = 4
+|speed2 = 4
+|speed3 = 5
+|speed4 = 5
+|speed5 = 5
+|attack = 1
+|ranged = 1
+|magic = 70
+|magic5 = 35
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 1486
+|acc_magic5 = 536
+|acc_necromancy = 0
+|armour = 1486
+|armour5 = 536
+|defence = 70
+|defence5 = 35
+|weakness = Bolts
+|weakness1 = Arrows
+|susceptibility = Salve, Ghost hunter
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction5 = quest
+|dropversion1 = Zamorak
+|dropversion2 = Armadyl
+|dropversion3 = Saradomin
+|dropversion4 = Bandos
+|id1 = 6221
+|id2 = 6231
+|id3 = 6257
+|id4 = 6278
+|id5 = 16962
+|leagueRegion = Asgarnia
+}}
+[[File:Spiritual mage icon.png|left]]
+'''Spiritual mages''' are potent magic users in the [[God Wars Dungeon]] who require 83 [[Slayer]] to kill. Like all monsters in the God Wars Dungeon, they are [[aggressive]] to players not wearing [[God Wars Dungeon/God Protection|items showing affinity to their god]], one of the three types of [[Ancient equipment]], or the [[Shard of Zaros]].
+
+Spiritual mages are a good source of [[soul rune]]s, as well as various elemental staves and talismans. In addition, they are currently the only monster to drop [[dragon boots]] and [[dragon gauntlets|gauntlets]]. They are affected by the buffs of the [[salve amulet]] and [[salve amulet (e)]].
+
+Armadylean spiritual mages will count towards completing an [[Aviansies (Slayer assignment)|aviansie slayer assignment]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[God Wars Dungeon]]
+|lvls=98
+|mem=yes
+|mapID=15
+|npcid:6231,x:2837,y:5265|npcid:6231,x:2854,y:5273|npcid:6231,x:2867,y:5266|npcid:6278,x:2827,y:5331|npcid:6278,x:2830,y:5315|npcid:6278,x:2832,y:5340|npcid:6278,x:2837,y:5342|npcid:6278,x:2838,y:5329|npcid:6278,x:2839,y:5360|npcid:6278,x:2843,y:5320|npcid:6278,x:2845,y:5352|npcid:6278,x:2846,y:5332|npcid:6278,x:2847,y:5355|npcid:6278,x:2848,y:5342|npcid:6278,x:2851,y:5359|npcid:6278,x:2854,y:5349|npcid:6257,x:2881,y:5292|npcid:6257,x:2883,y:5303|npcid:6257,x:2887,y:5311|npcid:6257,x:2890,y:5283|npcid:6257,x:2897,y:5287|npcid:6257,x:2898,y:5307|npcid:6257,x:2903,y:5292|npcid:6257,x:2905,y:5302|npcid:6257,x:2912,y:5269|npcid:6257,x:2916,y:5288|npcid:6257,x:2920,y:5279|npcid:6257,x:2921,y:5273|npcid:6257,x:2923,y:5297|npcid:6257,x:2924,y:5286|npcid:6257,x:2924,y:5292|npcid:6257,x:2926,y:5285|npcid:6257,x:2928,y:5289|npcid:6257,x:2928,y:5294|npcid:6257,x:2929,y:5293|npcid:6221,x:2883,y:5356|npcid:6221,x:2887,y:5357|npcid:6221,x:2888,y:5363|npcid:6221,x:2902,y:5361|npcid:6221,x:2905,y:5355|npcid:6221,x:2911,y:5345|npcid:6221,x:2914,y:5347|npcid:6221,x:2919,y:5360|npcid:6221,x:2926,y:5349|npcid:6221,x:2929,y:5347|npcid:6221,x:2936,y:5348
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128|gemw=No}}
+{{DropsLine|name=Sirenic scale|quantity=1|rarity=1/512}}
+{{DropsLine|name=Dragon gauntlets|quantity=1|rarity=1/256|altrarity=1/248|raritynotes={{DropNote|1/248 with tier 3 [[luck]] or higher.}}}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Air battlestaff|quantity=1|rarity=12/128}}
+{{DropsLine|name=Water battlestaff|quantity=1|rarity=12/128}}
+{{DropsLine|name=Earth battlestaff|quantity=1|rarity=12/128}}
+{{DropsLine|name=Fire battlestaff|quantity=1|rarity=12/128}}
+{{DropsLine|name=Battlestaff|quantity=2 (noted)|rarity=6/128}}
+{{DropsLine|name=Dragon boots|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Soul rune|quantity=20|rarity=14/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=5000-7000|rarity=17/128}}
+{{DropsLine|name=Air orb|quantity=4 (noted)|rarity=10/128}}
+{{DropsLine|name=Water talisman|quantity=1 (noted)|rarity=6/128}}
+{{DropsLine|name=Fire talisman|quantity=4 (noted)|rarity=6/128}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|14/128}}
+
+===Tertiary===
+====All variants====
+{{DropsTableHead}}
+{{DropsLineGhostlyEssence|quantity=11-12, 22-24|rarity=1/256|altrarity=1/96|raritynotes={{DropNote|While on an appropriate [[Slayer assignment]], there is a 1/96 chance to drop 22–24 ghostly essence.}}}}
+{{DropsLineGhosts|ectorarity=500|herbrarity=1024}}
+{{DropsTableBottom}}
+
+====God variants====
+{{Switch infobox
+|text1 = Zamorak
+|item1 = {{DropsTableHead|version=Zamorak}}
+{{DropsLine|name=Frozen key piece (Zamorak)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Zamorak's Fortress]].}}|gemw=No}}
+{{DropsLine|name=Furniture plans: Zamorak rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Zamorak altar|quantity=1|rarity=Unknown}}
+{{DropsLineWarpriest|god=zamorak}}
+{{DropsTableBottom}}
+|text2 = Armadyl
+|item2 = {{DropsTableHead|version=Armadyl}}
+{{DropsLine|name=Frozen key piece (Armadyl)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Armadyl's Eyrie]].}}|gemw=No}}
+{{DropsLine|name=Furniture plans: Armadyl rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Armadyl altar|quantity=1|rarity=Unknown}}
+{{DropsLineWarpriest|god=armadyl}}
+{{DropsTableBottom}}
+|text3 = Saradomin
+|item3 = {{DropsTableHead|version=Saradomin}}
+{{DropsLine|name=Frozen key piece (Saradomin)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Saradomin's Encampment]].}}|gemw=No}}
+{{DropsLine|name=Furniture plans: Saradomin rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Saradomin altar|quantity=1|rarity=Unknown}}
+{{DropsLineWarpriest|god=saradomin}}
+{{DropsTableBottom}}
+|text4 = Bandos
+|item4 = 
+{{DropsTableHead|version=Bandos}}
+{{DropsLine|name=Frozen key piece (Bandos)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Bandos's Stronghold]].}}|gemw=No}}
+{{DropsLine|name=Furniture plans: Bandos rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Bandos altar|quantity=1|rarity=Unknown}}
+{{DropsLineWarpriest|god=bandos}}
+{{DropsTableBottom}}
+}}
+
+==Money making guide==
+{{Mmgsection|Killing spiritual mages}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Zamorak
+|item1 = {{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Spiritual mage (Zamorak) (2007).png|name=Spiritual mage}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Spiritual mage (Zamorak) (2008).png|name=Spiritual mage}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Spiritual mage (Zamorak).png|name=Spiritual mage}}
+}}
+|text2 = Armadyl
+|item2 = {{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Spiritual mage (Armadyl) (2007).png|name=Spiritual mage}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Spiritual mage (Armadyl) (2008).png|name=Spiritual mage}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Spiritual mage (Armadyl).png|name=Spiritual mage}}
+}}
+|text3 = Saradomin
+|item3 = {{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Spiritual mage (Saradomin) (2007).png|name=Spiritual mage}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Spiritual mage (Saradomin) (2008).png|name=Spiritual mage}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Spiritual mage (Saradomin).png|name=Spiritual mage}}
+}}
+|text4 = Bandos
+|item4 = {{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Spiritual mage (Bandos) (2007).png|name=Spiritual mage}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Spiritual mage (Bandos) (2008).png|name=Spiritual mage}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Spiritual mage (Bandos).png|name=Spiritual mage}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Tuska Clean Up - This Week In RuneScape|date=18 August 2025}}
+** The [[Sacrifice]], [[Devotion]], and [[Transfigure]] abilities have been removed from the God Wars Dungeon I loot table, and are now obtained by completing the [[One Piercing Note]] quest.
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+*{{UL|type=patch|update=July Patch Week - This Week In RuneScape (2022)|date=25 July 2022}}
+** Fixed an issue where Spiritual Mages were not affected by aggression potions while the player was more than two tiles away.
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the Personal Slayer Dungeon.
+*** This includes [[spiritual warrior]]s, [[spiritual ranger|rangers]] and mages.
+
+* {{UL|type=patch|update=Patch Notes (2 November 2015)|date=2 November 2015}}
+** The look of the spiritual mages in the player's vision during [[Ritual of the Mahjarrat]] have been brought graphically up to date with their brethren in the [[God Wars Dungeon]].
+
+* {{UL|type=patch|update=Patch Notes (16 February 2015)|date=16 February 2015}}
+** [[Spiritual warrior]]s, mages and [[spiritual ranger|rangers]] no longer count towards [[automaton]] slayer tasks.
+
+* {{UL|type=update|update=God Wars: Remastered|date=5 September 2012}}
+** Spiritual mages have been graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (15 February 2011)|date=15 February 2011}}
+** Spiritual mages will no longer play a melee attack animation when attacking [[familiar]]s with magic.
+
+* {{UL|type=patch|update=Patch Notes (27 January 2009)|date=27 January 2009}}
+** Fixed Saradomin spiritual warriors and mages using the wrong attack animations.
+
+* {{UL|type=update|update=God Wars Dungeon|date=28 August 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* These are the only Slayer monsters assigned by [[Kuradal]] that do not drop [[starved ancient effigy|effigies]].
+* Bandosian spiritual mages are unique (along with a few other monsters) in the fact that, although they possess a [[Wander radius|wander range]], they remain static until attacked, in which they will move accordingly to reach their target.
+* Prior to the [[Evolution of Combat]], spiritual mages, like their melee and ranged variants, were unique among each faction:
+** Zamorak's spiritual mages used the [[Flames of Zamorak]] spell; although they had the highest magical accuracy, they had the lowest defence and were tied for the least amount of health with Armadyl's spiritual mages.
+** Saradomin's spiritual mages used the [[Saradomin Strike (historical)|Saradomin Strike]] spell, and had the highest max hit.
+** Bandos' spiritual mages were significantly weaker than the other mages, but made up for this with higher health and defence.
+* As of [[1 February]] [[2018]], the highest kill count for these monsters was 219,004 kills.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=http://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+** This had increased to 234,232 by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=http://archive.is/Fxc11|archivedate=28 February 2020|notes=|name=}}
+
+==References==
+{{reflist}}
+
+{{Slayer monsters}}
+{{The World Wakes}}
+{{Ghost}}
+{{Aviansie}}
+{{God Wars Dungeon}}
+[[Category:Wizards]]
+[[Category:Participants in the God Wars]]
+[[Category:Bandosians]]
+[[Category:Saradominists]]
+[[Category:Zamorakians]]
+[[Category:Armadyleans]]
+[[Category:Orks]]
+[[Category:Tier 3 luck]]

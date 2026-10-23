@@ -1,0 +1,186 @@
+{{Otheruses|def=no|the Ancient Summoning familiar|Waterfiend (familiar)|the standard version|Waterfiend|other uses|Waterfiend (disambiguation)}}
+{{Infobox Monster
+|name = Waterfiend
+|image = [[File:Waterfiend (elite).png]]
+|release = [[27 July]] [[2015]]
+|update = Elite Monster Spawns
+|members = Yes
+|options = Attack, Examine
+|examine = An especially fiendish embodiment of water.
+|level = 111
+|lifepoints = 32000
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 1181.4
+|slayercat = Waterfiends
+|max_melee = 2400
+|max_ranged = 2400
+|max_magic = 2400
+|max_spec = N/A
+|style = magic
+|speed = 4
+|attack = 1
+|ranged = 82
+|magic = 82
+|acc_melee = 1783
+|acc_ranged = 1783
+|acc_magic = 2023
+|armour = 2458
+|defence = 77
+|weakness = Bolts
+|aff_weakness = 90
+|aff_melee = 45
+|aff_ranged = 65
+|aff_magic = 55
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Kandarin, Wilderness, Fremennik
+|id = 21500
+}}
+An '''elite waterfiend''' is an [[elite monster|elite version]] of the [[waterfiend]]. If on a [[Slayer assignment]], an elite Waterfiend is guaranteed to spawn; otherwise, elite monsters have a spawn rate of 1 in 1,000. Elite spawn rates can be further increased with the use of [[fellstalk incense stick]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ancient Cavern]]
+|lvls=107
+|mem=yes
+|requirements = Partial completion of {{AchievementIcon|Barbarian Firemaking}}
+|mapID=-1
+|npcid:5361,x:1738,y:5343
+|npcid:5361,x:1738,y:5348
+|npcid:5361,x:1738,y:5352
+|npcid:5361,x:1741,y:5356
+|npcid:5361,x:1742,y:5342
+|npcid:5361,x:1742,y:5361
+|npcid:5361,x:1746,y:5340
+|npcid:5361,x:1747,y:5363
+|npcid:5361,x:1751,y:5342
+|npcid:5361,x:1752,y:5351
+|npcid:5361,x:1755,y:5355
+|npcid:5361,x:1755,y:5360
+|npcid:5361,x:1757,y:5361
+|npcid:5361,x:1763,y:5361
+|npcid:5361,x:1766,y:5363
+|npcid:5361,x:1767,y:5359
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=107
+|mem=yes
+|mapID=23
+|npcid:5361,x:3173,y:5543
+|npcid:5361,x:3176,y:5542
+|npcid:5361,x:3177,y:5545
+|npcid:5361,x:3178,y:5541
+|npcid:5361,x:3185,y:5547
+|npcid:5361,x:3186,y:5541
+|npcid:5361,x:3189,y:5547
+|npcid:5361,x:3190,y:5542
+|npcid:5361,x:3191,y:5544
+|npcid:5361,x:3193,y:5546
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=East of the [[Boneyard]] (level 16 Wilderness)
+|lvls=107
+|mem=yes
+|npcid:5361,x:3362,y:3642
+|npcid:5361,x:3363,y:3647
+|npcid:5361,x:3365,y:3639
+|npcid:5361,x:3365,y:3643
+|npcid:5361,x:3368,y:3639
+|npcid:5361,x:3368,y:3645
+|npcid:5361,x:3375,y:3642
+|npcid:5361,x:3376,y:3646
+|npcid:5361,x:3383,y:3645
+|npcid:5361,x:3366,y:3649
+|npcid:5361,x:3372,y:3649
+|npcid:5361,x:3380,y:3651
+|npcid:5361,x:3382,y:3649
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Names==
+The elite versions have varying names, with a randomly generated prefix and suffix.
+{{Elite names|name=Waterfiend}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Water rune|quantity=25|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=5/40|rolls=3}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128|rolls=3|raritynotes={{DropNote|Rolls separately, first.}}|gemw=no}}
+{{DropsLine|name=Mithril stone spirit|quantity=10|rarity=10/40|rolls=3}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=5/40|rolls=3}}
+{{DropsLine|name=Water orb|quantity=5 (noted)|rarity=5/40|rolls=3}}
+{{DropsLine|name=Coins|quantity=5000|rarity=7/40|rolls=3}}
+{{DropsLine|name=Water talisman|quantity=1|rarity=3/40|rolls=3}}
+{{TableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/40|rdt=1/250|rolls=3}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=111|rolls=3}}
+{{DropsLineSpiritGems|rolls=3}}
+{{DropsLineMimic|level=111|rolls=3}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|rolls = 3
+|gold = 98.73/1000
+|green = 49.365/1000
+|crimson = 789.843/1000
+|blue = 19.746/1000
+}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=111}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[27 July]] [[2015]]|update=Elite Monster Spawns|img=Waterfiend (elite) (2015).png|name=Waterfiend (elite)}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Waterfiend (elite).png|name=Waterfiend (elite)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Waterfiends have been graphically updated.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for waterfiends.
+
+* {{UL|type=patch|update=Patch Notes (7 March 2016)|date=7 March 2016}}
+** Waterfiends have had their combat stats rebalanced (ancient cavern and elite variants).
+
+* {{UL|type=patch|update=Patch Notes (23 November 2015)|date=23 November 2015}}
+** Corrected the melee attack accuracy for the following NPCs: Dagannoth Mother, Dominion Tower Dagannoth Mother, Temple at Senntisten quest fiends and Cockatrices.
+
+* {{UL|type=update|update=Elite Monster Spawns|date=27 July 2015}}
+** Added to game.
+}}
+
+{{Elite monster}}
+{{Demons}}

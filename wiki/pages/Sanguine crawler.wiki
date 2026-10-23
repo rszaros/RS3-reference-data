@@ -1,0 +1,164 @@
+{{Havenhythe content}}
+{{Infobox Monster
+|name = Sanguine crawler
+|image = [[File:Sanguine crawler.png]]
+|release = [[23 March]] [[2026]]
+|update = Havenhythe Out Now
+|members = Yes
+|options = Attack, Examine
+|examine = A tree sapling that has been corrupted by the Sanguine.
+|level = 43
+|lifepoints = 7050
+|aggressive = No
+|poisonous = No
+|slaylvl = 28
+|slayxp = 54.2
+|slayercat = Sanguine crawlers
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 500
+|max_necromancy = 0
+|max_spec = 4000
+|style = Magic
+|primarystyle = Magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 35
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 528
+|acc_necromancy = 0
+|armour = 454
+|defence = 27
+|weakness = arrow
+|susceptibility = havensilver
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 32798
+|leagueRegion = Havenhythe
+}}
+[[File:Sanguine crawler icon.png|left]]
+'''Sanguine crawlers''' are [[Slayer monsters]] found at the [[Blighted Cave]] in [[Havenhythe]] requiring level 28 Slayer to damage.
+
+After 5 auto attacks, the Sanguine crawler will say {{RSChat|*schluurp*}} and perform a [[Sanguine]] type damage, floor-targeted magic attack that deals 1,114 damage through protection prayers to the player if they are standing on it when it bursts. This damage can be reduced by [[tank armour]] or the effects of an [[antisanguine potion]] or its [[Super antisanguine|superior]] [[Extreme antisanguine|variants]].
+
+Sanguine crawlers take 50% increased damage from [[havensilver weapons]]. Only the main hand weapon or ammunition needs to be havensilver to deal increased damage. 
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Blighted Cave]]
+|lvls = 43
+|mem = Yes
+|requirements = Partial completion of {{QuestIcon|Visions of Havenhythe}}
+|mapID = 28
+|npcid:32798,x:4348,y:3286|npcid:32798,x:4350,y:3286|npcid:32798,x:4350,y:3286
+|npcid:32798,x:4349,y:3275|npcid:32798,x:4350,y:3282|npcid:32798,x:4346,y:3279
+|npcid:32798,x:4346,y:3275|npcid:32798,x:4350,y:3280|npcid:32798,x:4349,y:3280
+|npcid:32798,x:4345,y:3274|npcid:32798,x:4350,y:3286|npcid:32798,x:4351,y:3278
+|leagueRegion = Havenhythe
+}}
+{{LocTableBottom}}
+
+===Getting there===
+* Fairy ring {{Fairy code|BKS}} and walk north-east
+* [[Wendlewick Teleport]] to Marigold Farm (requires [[Wiz Kid]]) and run east
+* [[War's Retreat]] portal for [[Silverquill, the Dreadhog|Silverquill]], and exit the cave
+* Travel Canoe from Burnt Lobster Tavern to Farm then run south
+
+==Drops==
+{{DropLogProject|kills=2844}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Tainted seed|quantity=1|rarity=1/2500|altrarity=1/1250|raritynotes={{DropNote|1/1,250 chance during a [[Slayer assignment]]}}}}
+{{DropsLine|name=Vampyrism gloves|quantity=1|rarity=1/1000|altrarity=1/200|raritynotes={{DropNote|1/200 chance during a [[Slayer assignment]]}}}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=500-600|rarity=12/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{AllotmentSeedDropTableIntro|16/128}}
+{{DropsTableHead}}
+{{AllotmentSeedDropTable|16/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|14/128}}
+{{DropsTableHead}}
+{{HerbDropTable|14/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Earth rune|quantity=5-7|rarity=8/128}}
+{{DropsLine|name=Law rune|quantity=1-2|rarity=7/128}}
+{{DropsLine|name=Nature rune|quantity=3-5|rarity=5/128}}
+{{DropsLine|name=Blood rune|quantity=1-2|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Egg potato|quantity=1|rarity=12/128}}
+{{DropsLine|name=Lobster|quantity=1|rarity=10/128}}
+{{DropsLine|name=Iron dart|quantity=1-5|rarity=9/128}}
+{{DropsLine|name=Off-hand iron dart|quantity=1-5|rarity=9/128}}
+{{DropsLine|name=Congealed blood|quantity=1-4|rarity=7/128}}
+{{DropsLine|name=Prayer potion (1)|quantity=1|rarity=6/128}}
+{{DropsLine|name=Oaken key|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem rare drop table===
+{{GemDropTable|8/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sanguine matter|quantity=1|rarity=1/20}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/100}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 215.5/1000
+|green = 63.6/1000
+|crimson = 34.8/1000
+|blue = 5.3/1000
+}}
+
+==Gallery==
+<gallery mode="packed" heights="150">
+File:The Roadmap That Changes RuneScape Forever (28) update image.jpg
+File:Our Biggest Area Expansion Yet (8) update image.png
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Blooming Burrow Returns!|date=30 March 2026}}
+** Sanguine crawlers have had their combat level updated to be more reflective of their stats.
+*** Combat level increased from 35 to 43.
+
+* {{UL|type=hotfix|update=Blooming Burrow Returns!|date=24 March 2026}}
+** [[Devotion]] now works with sanguine crawlers.
+
+* {{UL|type=update|update=Havenhythe Out Now|date=23 March 2026}}
+** Added to game.
+}}
+
+{{Blighted Cave}}
+{{Havenhythe}}
+{{Slayer monsters}}
+[[Category:Susceptible to havensilver]]

@@ -1,0 +1,54 @@
+{{Infobox Monster
+|name = Sanguine bear cub
+|image = [[Sanguine bear cub.png]]
+|release = [[28 September]] [[2026]]
+|update = Havenhythe Part II out now!
+|members = Yes
+|options = Attack
+|race = Bear
+|examine = Not cute. More deadly.
+|level = 42
+|lifepoints = 2400
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Bears
+|max_melee = 600
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 354
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 454
+|defence = 
+|weakness = Water
+|susceptibility = Havensilver
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|id = 32818
+}}
+'''Sanguine bear cubs''' can be found in [[Moonsylvar Wood]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Part II out now!|date=28 September 2026}}
+** Added to game.
+}}

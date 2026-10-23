@@ -1,0 +1,117 @@
+{{External|os}}
+{{Infobox Monster
+|name = Giant crypt rat
+|image = [[File:Giant crypt rat.png|200px]]
+|release = [[9 May]] [[2005]]
+|update = Barrows
+|members = Yes
+|actions = Attack
+|examine = A nasty overgrown rodent.
+|level = 77
+|lifepoints = 2750
+|experience = 137.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 54.5
+|slayercat = Rats
+|assigned_by = jacquelyn
+|max_melee = 330
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 55
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 983
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 983
+|defence = 55
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania,Wilderness
+|id = 2033,4920,4921
+}}
+'''Giant crypt rats''' are found in the tunnels of the [[Barrows]]. They mostly look like normal [[giant rat]]s, with the exception of a slight greenish tint. They are usually at the centre of the room. They can be a small threat when low on health or run energy. Every time you kill one in the [[Barrows]], your kill count will be raised by one. They are also a constant annoyance if they are in the room with your Puzzle Door. They have a max hit of 330 life points, but they rarely hit over 200.
+
+They can also be found in two caves within the [[Chaos Tunnels]]. They drop many more charms here than in the Barrows.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Barrows]]
+|lvls=77
+|mem=yes
+|mapID=527
+|npcid:4920,x:3532,y:9696|npcid:2033,x:3533,y:9692|npcid:2033,x:3536,y:9697
+|npcid:4921,x:3537,y:9694
+|leagueRegion = Morytania}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=77
+|mem=yes
+|mapID=23
+|npcid:2033,x:3186,y:5514|npcid:4921,x:3187,y:5510|npcid:2033,x:3190,y:5510
+|npcid:4920,x:3191,y:5513|npcid:4920,x:3193,y:5510|npcid:4921,x:3268,y:5492
+|npcid:2033,x:3269,y:5488|npcid:4920,x:3274,y:5488|npcid:2033,x:3281,y:5489
+|npcid:2033,x:3283,y:5497|npcid:2033,x:3284,y:5493|npcid:4920,x:3290,y:5496
+|npcid:2033,x:3294,y:5495|npcid:4921,x:3299,y:5495|npcid:4921,x:3305,y:5494
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Giant rat bone|quantity=1|rarity=Always|gemw=no|raritynotes={{DropNote|Only during [[Rag and Bone Man]].}}}}
+{{DropsLineEffigy|level=77}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=77}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 56.305/1000
+|green = 225.22/1000
+|crimson = 14.076/1000
+|blue = 2.815/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Barrows|date=9 May 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* They do not drop [[raw rat meat]], despite being large rats.
+
+{{Barrows}}
+{{Rats}}

@@ -1,0 +1,283 @@
+{{External|rsc|os|wp}}
+{{Otheruses|the monster|the race|ogre (race)}}
+{{Otheruses|def=no|the orges at the Warforge Dig Site|Ogre (Warforge Dig Site)}}
+{{Infobox Monster
+|version1 = Topless
+|version2 = Wearing top
+|version3 = Combat Camp
+|name = Ogre
+|image1 = [[File:Ogre (level 67, charms).png]]
+|image2 = [[File:Ogre.png|250px]]
+|image3 = [[File:Ogre (Combat Training Camp).png|250px]]
+|release1 = [[9 April]] [[2002]]
+|release2 = [[9 April]] [[2002]]
+|release3 = [[23 October]] [[2002]]
+|update1 = New members quest online!
+|update2 = New members quest online!
+|update3 = Updates galore!
+|members = Yes
+|options = Talk to, Attack
+|examine1 = A large dim looking humanoid.
+|examine2 = A large dim looking humanoid.
+|examine3 = Big, ugly, and smelly.
+|level1 = 67
+|level2 = 67
+|level3 = 56
+|lifepoints1 = 4800
+|lifepoints2 = 4800
+|lifepoints3 = 2000
+|slaylvl = 1
+|slayxp1 = 88.4
+|slayxp2 = 34
+|slayxp3 = 26
+|experience1 = 240.0
+|experience2 = 240.0
+|experience3 = 100
+|aggressive1 = Yes
+|aggressive2 = No
+|aggressive3 = No
+|poisonous = No
+|slayercat = Ogres
+|max_melee1 = 288
+|max_melee2 = 288
+|max_melee3 = 310
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed1 = 6
+|speed2 = 6
+|speed3 = 4
+|attack1 = 48
+|attack2 = 48
+|attack3 = 62
+|ranged1 = 1
+|ranged2 = 1
+|ranged3 = 0
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 801
+|acc_melee2 = 801
+|acc_melee3 = 1197
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 801
+|armour2 = 801
+|armour3 = 1197
+|defence1 = 48
+|defence2 = 48
+|defence3 = 62
+|weakness1 = Air
+|weakness2 = Air
+|weakness3 = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Topless
+|leagueRegion = Kandarin,Tirannwn
+|id1 = 3419
+|id2 = 115,3451,8658
+|id3 = 2801
+}}
+[[File:Ogre chathead.png|left|80px]]
+'''Ogres''' are monsters found in several locations, most notably the ogre city of [[Gu'Tanoth]] and [[Feldip Hills]]. The caged level 56 ogres at the [[Combat Training Camp]] near [[Ardougne]] (which can be entered after finishing the [[Biohazard]] quest) can only be attacked with Ranged, Magic, or [[halberd]]s. Attempting to use a non-halberd melee weapon will render the message: {{RSFont|These ogres are for ranged combat only.|color=red}} The cage can be entered through a loose railing at the side, though can still only be fought with ranged inside as well. Additionally, halberds do not work while inside the cage.
+
+A [[dwarf multicannon]] may be used to kill ogres west of Yanille.
+
+On [[17 March]] [[2009]], the graphics of ogres were updated to match those of [[Ogress]]es.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Chaos Druid Tower]] dungeon
+|lvls=67
+|mem=yes
+|mapID=0
+|npcid:115,x:2581,y:9738|npcid:3419,x:2581,y:9742|npcid:3451,x:2584,y:9734|npcid:8658,x:2585,y:9738|npcid:115,x:2587,y:9733|npcid:3419,x:2587,y:9740|npcid:3451,x:2590,y:9737
+|leagueRegion=Kandarin}}
+{{LocLine
+|loc=[[Clock Tower Dungeon]]
+|lvls=67
+|mem=yes
+|mapID=0
+|npcid:3419,x:2585,y:9608|npcid:3419,x:2586,y:9614|npcid:3419,x:2588,y:9606
+|leagueRegion=Kandarin}}
+{{LocLine
+|loc=[[Combat Training Camp]]
+|lvls=56
+|mem=yes
+|mapID=28
+|npcid:2801,x:2523,y:3373|npcid:2801,x:2523,y:3376|npcid:2801,x:2526,y:3373|npcid:2801,x:2526,y:3376|npcid:2801,x:2529,y:3373|npcid:2801,x:2529,y:3376|npcid:2801,x:2532,y:3373|npcid:2801,x:2532,y:3376
+|leagueRegion=Kandarin
+}}
+{{LocLine
+|loc=[[Gnome Maze]]
+|lvls=67
+|mem=yes
+|mapID=28
+|npcid:3419,x:2554,y:3192
+|leagueRegion=Kandarin
+}}
+{{LocLine
+|loc=[[Gu'Tanoth]]
+|lvls=67
+|mem=yes
+|mapID=28
+|npcid:3419,x:2568,y:2991|npcid:115,x:2574,y:2988|npcid:3451,x:2585,y:2977|npcid:115,x:2592,y:2965|npcid:3451,x:2608,y:2980|npcid:115,x:2609,y:2990|npcid:8658,x:2614,y:2998|npcid:3419,x:2561,y:3020|npcid:3419,x:2567,y:3046|npcid:3419,x:2571,y:3027|npcid:115,x:2572,y:3031|npcid:8658,x:2575,y:3024|npcid:3451,x:2578,y:3031|npcid:3419,x:2504,y:2965|npcid:3451,x:2504,y:2984|npcid:115,x:2520,y:2973|npcid:8658,x:2525,y:2986|npcid:3419,x:2533,y:2977|npcid:115,x:2536,y:2975|npcid:3451,x:2538,y:2985|npcid:3419,x:2549,y:2979|npcid:3419,x:2551,y:2955|npcid:8658,x:2552,y:2961|npcid:115,x:2510,y:3044|npcid:3419,x:2513,y:3026|npcid:3451,x:2520,y:3046|npcid:8658,x:2526,y:3039|npcid:3451,x:2529,y:3032|npcid:3419,x:2539,y:3018|npcid:8658,x:2541,y:3016|npcid:3419,x:2550,y:3043|npcid:115,x:2550,y:3046|npcid:3451,x:2553,y:3047
+|leagueRegion=Kandarin
+}}
+{{LocLine
+|loc=[[Underground Pass (dungeon)|Underground Pass]]
+|lvls=67
+|mem=yes
+|mapID=579
+|npcid:3419,x:2387,y:9685|npcid:8658,x:2389,y:9683
+|leagueRegion=Tirannwn}}
+{{LocLine
+|loc=West of [[Yanille]]
+|lvls=67
+|mem=yes
+|mapID=28
+|npcid:3419,x:2496,y:3092|npcid:8658,x:2497,y:3089|npcid:3451,x:2500,y:3092|npcid:3451,x:2500,y:3097|npcid:3451,x:2502,y:3114|npcid:3419,x:2503,y:3095|npcid:3419,x:2504,y:3133|npcid:115,x:2505,y:3111|npcid:3451,x:2507,y:3108|npcid:8658,x:2508,y:3119|npcid:115,x:2509,y:3087|npcid:115,x:2510,y:3084|npcid:115,x:2513,y:3087|npcid:115,x:2514,y:3081
+|leagueRegion=Kandarin
+}}
+{{LocLine
+|loc=[[Witchaven Dungeon]]
+|lvls=67
+|mem=yes
+|mapID=0
+|npcid:3419,x:2719,y:9668|npcid:8658,x:2719,y:9715|npcid:3451,x:2720,y:9702|npcid:115,x:2722,y:9669|npcid:3419,x:2723,y:9707|npcid:115,x:2724,y:9713
+|leagueRegion=Kandarin
+}}
+{{LocTableBottom}}
+
+===Unattackable ogres===
+* {{NPC map|text=Yu'biusk|npcname=Ogre|mapID=-1|plane=2|npcid:14979,x:1330,y:5078|npcid:15008,x:1333,y:5076|type=maplink}}
+* {{NPC map|text=Yu'biusk|npcname=Ogre|mapID=-1|plane=3|npcid:15008,x:1302,y:5037|type=maplink}}
+* {{NPC map|text=Warforge Dig Site|npcname=Ogre|mapID=28|plane=0|npcid:26902,x:2394,y:2837|npcid:26904,x:2399,y:2816|type=maplink}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|19/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=109/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Ogre ribs|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsLineSpiritGems|raritynotes={{DropNote|Only dropped by the aggressive, half-naked ogres in [[Kandarin]].|name=spiritgems}}}}
+{{DropsLineEffigy|level=67|version=Topless}}
+{{DropsLineSpiritGems|version=Topless}}
+{{DropsLineMimic|level=67|version=Topless}}
+{{DropsTableBottom}}
+
+===Charms===
+Only the unarmed, topless ogres in [[Kandarin]] drop charms, such as the spawn of three ogres in the [[Clock Tower Dungeon]]; refer to the [[#Gallery|Gallery]] for their appearance.
+{{CharmDropTable
+|version=Topless
+|quantity = 1
+|gold = 325.374/1000
+|green = 23.241/1000
+|crimson = 23.241/1000
+|blue = 4.648/1000
+}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Ogre (level 67, charms).png|The level 67 ogre variant that can drop charms
+AncientOgres Mn.jpg|Ogre concept artwork
+Ogre concept art.png|Concept art of various types of ogre
+Ogre and Goblin Artwork.png|Artwork of an ogre about to shoot an Ogre bow from behind a goblin
+BTS vid 16 gwd ogre update concept art.png|Concept art of updated ogres in the [[God Wars Dungeon]]
+</gallery>
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Common
+|item1 = {{GU|subject=npc
+|{{GUL|beta=yes|img=Ogre (RS2 beta).png|name=Ogre}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Ogre (2004).png|name=Ogre}}
+|{{GUL|date=[[17 March]] [[2009]]|update=The Chosen Commander|img=Ogre.png|name=Ogre}}
+}}
+
+|text2 = Combat Camp
+|item2 = 
+{{GU|subject=npc
+|{{GUL|beta=yes|img=Ogre (Combat Training Camp) (RS2 beta).png|name=Ogre}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Ogre (2004).png|name=Ogre}}
+|{{GUL|date=|update=|img=Ogre (Combat Training Camp).png|name=Ogre}}
+}}
+
+|text3 = God Wars Dungeon
+|item3 = {{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Ogre (God Wars Dungeon) (2007).png|name=Ogre}}
+|{{GUL|date=[[17 March]] [[2009]]|update=The Chosen Commander|img=Ogre (God Wars Dungeon) (2009).png|name=Ogre}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Ogre (God Wars Dungeon).png|name=Ogre}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=patch|update=Patch Notes (7 September 2010)|date=7 September 2010}}
+** Stretchy eyebrows on an ogre near Jiggig.
+
+* {{UL|type=patch|update=Patch Notes (25 May 2010)|date=25 May 2010}}
+** Strykewyrms can still be damaged even if you've recently been in combat with ogres.
+
+* {{UL|type=patch|update=Patch Notes (11 January 2010)|date=11 January 2010}}
+** The checks for attacking the ogres at the Combat Training Camp have been improved.
+
+* {{UL|type=patch|update=Patch Notes (9 November 2009)|date=9 November 2009}}
+** Ogres dying and fences were causing render order issues.
+
+* {{UL|type=update|update=New members quest online!|date=9 April 2002}}
+** Added to game.
+}}
+
+==Trivia==
+* It appears that when ogres exhale, their stomachs flap up and down.
+* The ogres and ogresses are possible references to the {{WP|Gargareans}} and the {{WP|Amazons}} due to the ogres being an all-male tribe, and the ogresses an all-female tribe.
+* Ogres are able to shoot extremely far with their giant bows, as far as from the Feldip Hills to Karamja over sea.
+
+==References==
+{{Reflist}}
+
+{{Ogres}}
+[[pt:Ogros]]
+[[Category:Participants in the God Wars]]
+[[Category:Bandosians]]
+[[Category:NPCs with multiple Examine options]]

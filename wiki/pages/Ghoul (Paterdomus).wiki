@@ -1,0 +1,62 @@
+{{otheruses|the Ghoul in Paterdomus|standard ghouls|Ghoul}}
+{{Infobox Monster
+|name = Ghoul
+|image = [[File:Ghoul.png|120px]]
+|release = [[27 March]] [[2012]]
+|update = Morytania Tasks
+|members = No
+|options = Attack
+|examine = It must have snuck into the temple.
+|level = 33
+|lifepoints = 1200
+|experience = 60.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ghouls
+|assigned_by = Mazchna
+|max_melee = 96
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 24
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 368
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 368
+|defence = 24
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 15258
+}}
+A '''Ghoul''' is found in the final room of the dungeon underneath [[Paterdomus]], having somehow managed to bypass the [[holy barrier]]. If [[Priest in Peril]] is not completed, it must be killed once in order to access [[Morytania]].
+
+Killing it is also a requirement to use [[Portal Chamber|Kharyrll house portals]], the ability to teleport to the sinkholes at the [[Canifis]] area, and the [[Everlight Dig Site]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Morytania Tasks|date=27 March 2012}}
+** Added to game.
+*** Completion of the Priest in Peril quest is no longer a requirement for reaching Morytania.
+}}

@@ -1,0 +1,142 @@
+{{External|os}}
+{{Otheruses|the monster|the race|ogre (race)}}
+{{Infobox Monster
+|version1 = Club
+|version2 = Spear
+|name = Ogress
+|image1 = [[File:Ogress.png|200px]]
+|image2 = [[File:Ogress (spear).png|200px]]
+|release = [[28 January]] [[2008]]
+|update = As a First Resort...
+|members = Yes
+|examine = A large and contentious lady ogre.
+|leagueRegion = Kandarin
+|level = 58
+|lifepoints = 2100
+|experience = 105.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 33.0
+|slayercat = Ogres
+|max_melee = 168
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 42
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 668
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 668
+|defence = 42
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Club
+|dropversion2 = Spear
+|id1 = 7081
+|id2 = 7082
+}}
+An '''ogress''' is a female [[Ogre (race)|ogre]] of [[Oo'glog]] city. The regular ogresses are fairly moderate level monsters, only slightly stronger than their male [[Ogre|counterparts]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc =  West of [[Oo'glog]]
+|lvls = 58
+|mem = Yes
+|mapID = 28
+|plane = 0
+|npcid:7082,x:2440,y:2858
+|npcid:7081,x:2446,y:2869
+|npcid:7081,x:2451,y:2828
+|npcid:7082,x:2459,y:2859
+|npcid:7081,x:2467,y:2860
+|npcid:7082,x:2471,y:2839
+|npcid:7082,x:2482,y:2863
+|npcid:7081,x:2487,y:2844
+|npcid:7081,x:2480,y:2892
+|npcid:7082,x:2483,y:2883
+|npcid:7081,x:2484,y:2917
+|npcid:7082,x:2491,y:2901
+|npcid:7081,x:2499,y:2860
+|npcid:7082,x:2516,y:2858
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Notable Ogresses==
+* '''Monsters'''
+** Ogress
+** [[Ogress Warrior]]
+** [[Ogress Champion]]
+* '''NPC'''
+** [[Ogress banker]]
+** [[Chargurr]]
+** [[Kringk]]
+** [[Chief Tess]]
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+The average ogress with club kill is worth {{nocoins|{{GEP|Big bones}}+{{GEP|Ogre club|3/9}} round 0}} coins, and the average ogress with spear kill is worth {{nocoins|{{GEP|Big bones}}+{{GEP|Tiny spiky iron salvage|3/9}} round 0}} coins. 
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Ogre club|quantity=1|rarity=3/9|version=Club}}
+{{DropsLine|name=Tiny spiky iron salvage|quantity=1|rarity=3/9|version=Spear}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Ogre ribs|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during [[Rag and Bone Man/Wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=58}}
+{{DropsLineEffigy|level=58}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity=1
+|gold=457.607/1000
+|green=32.686/1000
+|crimson=32.686/1000
+|blue=6.537/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=As a First Resort...|date=28 January 2008}}
+** Added to game.
+}}
+
+{{Ogres}}
+[[Category:Bandosians]]
+[[Category:Oo'glog]]

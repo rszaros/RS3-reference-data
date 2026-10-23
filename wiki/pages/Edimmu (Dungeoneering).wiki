@@ -1,0 +1,111 @@
+{{Dgvariant}}
+{{Infobox Monster
+|name = Edimmu
+|image = [[File:Edimmu.png|125px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark
+|examine = A spiritual zombie that sucks life out of its victims.
+|level = 122
+|lifepoints = 32000
+|experience = 1600.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 90
+|slayxp = 2146.0
+|slayercat = Edimmu, Creatures of Daemonheim, Undead, Ghosts, Zombies
+|max_melee = 350
+|max_ranged = 0
+|max_magic = 350
+|max_necromancy = 0
+|max_spec = 0
+|style = magic, melee
+|primarystyle = magic
+|speed = 4
+|attack = 90
+|ranged = 1
+|magic = 90
+|necromancy = 1
+|acc_melee = 2458
+|acc_ranged = 0
+|acc_magic = 2458
+|acc_necromancy = 0
+|armour = 1486
+|defence = 85
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id = 10704
+|leagueRegion = Wilderness
+}}
+[[File:Edimmu icon.png|left]]
+An '''edimmu''' is a [[Slayer]] monster in [[Daemonheim]] that can be killed with level 90 Slayer. It attacks players with a fairly accurate red orb magic attack and uses melee when its target is adjacent to it. Additionally, this red orb heals the edimmu for the damage in which it hits. It is weak against slashing weapons, so those with longswords, battleaxes, and two-handed swords will be able to dispatch it without too much trouble.
+
+Edimmu are much sought after for their [[blood necklace]] drops. However, it is rare to see an edimmu; there have been sightings on furnished floors and they appear very rarely on abandoned floors, but the likelihood of encountering one becomes greater on the occult floors and even better on Warped floors. Having more high level slayers in your team helps, but does not guarantee an encounter.
+
+The blood necklace used to have a 30 second limit before it could be picked up. Only the one who dealt the most damage was able to pick it up instantly. However, this was removed in the [[Evolution of Combat]] update, currently whoever hits the monster first will receive the drop, as if they did the most damage.
+
+On Dungeoneering [[Dungeoneering/Hard mode|hard mode]], edimmu, as are other slayer monsters, are significantly more common encounters and can appear as early as floor 1.
+[[File:Edimmu magic attack.png|thumb|The edimmu's magic attack.]]
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Tortured ashes (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Monster-specific===
+{{DropsTableHead}}
+{{DropsLine|name=Blood necklace|quantity=1|rarity=Rare|gemw=no}}
+{{DropsTableBottom}} 
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[12 April]] [[2010]]|update=Dungeoneering Skill!|img=Edimmu (2010).png|name=Edimmu}}
+|{{GUL|date=[[10 November]] [[2014]]|update=Prifddinas - Lost City of the Elves - Part 2|img=Edimmu.png|name=Edimmu}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Edimmu will work for Ghost, Zombie and Undead Slayer tasks.
+
+* {{UL|type=patch|update=Patch Notes (18 May 2015)|date=18 May 2015}}
+** Edimmu can now walk and attack at the same time.
+
+* {{UL|type=update|update=Game Update (19 April 2012)|date=19 April 2012}}
+** Increased frequency of Slayer creatures in Dungeoneering.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+==Trivia==
+* In {{WP|Sumer|Sumerian}} mythology, edimmu were the ghosts of people who were not buried properly, they were classified as a type of utukku; A good or bad spirit. Edimmu were a type of evil being, or asakku.
+* It is believed in some circles that edimmu were a form of psychic vampire. They were referred to as "evil wind gusts; 'wind' could have been used to mean 'breath', and some Occult studies posit that breath is directly related to the transfer of psychic energy.
+* The edimmu's appearance looks like a ghost emitting from a corpse, presumably rotted and decapitated. This fits their background, with the ghost not being able to detach from the corpse, due to not being buried properly.
+* Prior to the addition of [[Edimmu resource dungeon]], edimmu were only found while Dungeoneering. 
+
+{{Dungeoneering monsters}}
+{{Slayer monsters}}
+{{Zombie}}

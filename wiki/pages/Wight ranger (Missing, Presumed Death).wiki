@@ -1,0 +1,72 @@
+{{Infobox Monster
+|version1 = Missing, Presumed Death
+|version2 = Kindred Spirits
+|name = Wight ranger
+|image = [[File:Wight ranger.png|200px]]
+|release1 = [[15 October]] [[2013]]
+|release2 = [[23 May]] [[2016]]
+|update1 = Missing, Presumed Death
+|update2 = New Quest – Kindred Spirits - Void Knights Rework
+|members1 = No
+|members2 = Yes
+|options = Attack
+|race = Wight
+|examine = One of Sliske's wights.
+|level = 7
+|lifepoints = 250
+|experience = 12.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ghosts, Undead
+|max_melee = 0
+|max_ranged = 27
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|speed = 6
+|attack = 1
+|ranged = 5
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 150
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 65
+|aff_ranged = 55
+|aff_magic = 45
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id1 = 18497
+|id2 = 22754
+|leagueRegion=Misthalin}}
+'''Wight rangers''' are undead enemies summoned by [[Sliske]] encountered during [[Missing, Presumed Death]].
+
+Wight rangers also have a chance to be summoned and fight for the player by wearing the upgraded Mask of Sliske ([[Mask of Sliske, Light (Dishonour among Thieves)|Light]] or [[Mask of Sliske, Shadow (Dishonour among Thieves)|Shadow]]) from [[Dishonour among Thieves]] in either the head or pocket slot. The rangers summoned have no combat level and inflict low [[ranged]] damage. The rangers cannot be used in conjunction with [[dreadnip]]s nor do they summon in [[PvP]].
+
+After doing some damage, the following message appears in the chat box: {{RSFont|Your wight has served its purpose and left.}} If the wight is unable to attack, the following message appears in the chat box, {{RSFont|The wight couldn't attack so it left.}} If you happen to leave the wight's proximity it will disappear, giving the message: {{RSFont|The wight left as it lost sight of you.}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Missing, Presumed Death|date=15 October 2013}}
+** Added to game.
+}}
+
+{{Missing, Presumed Death}}
+{{Dishonour among Thieves}}
+{{Kindred Spirits}}
+{{Wights}}
+[[Category:Sliskeans]]
+[[Category:Quest monsters]]

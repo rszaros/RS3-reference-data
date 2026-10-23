@@ -1,0 +1,154 @@
+{{otheruses|def=no|other uses|Karambwan}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 5
+|version3 = 11
+|version4 = 15
+|version5 = 21
+|version6 = 25
+|version7 = 30
+|version8 = 35
+|name = Poorly Cooked Karambwan
+|image = [[File:Poorly Cooked Karambwan.png|150px]]
+|release = [[14 June]] [[2011]]
+|update = Troll Invasion
+|members = Yes
+|options = Attack, Information
+|examine = He looks ill.
+|leagueRegion = Asgarnia
+|level1 = 1
+|level2 = 5
+|level3 = 11
+|level4 = 15
+|level5 = 21
+|level6 = 25
+|level7 = 30
+|level8 = 35
+|lifepoints1 = 50
+|lifepoints2 = 200
+|lifepoints3 = 400
+|lifepoints4 = 550
+|lifepoints5 = 750
+|lifepoints6 = 900
+|lifepoints7 = 1100
+|lifepoints8 = 1250
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Trolls
+|assigned_by = sumona, chaeldar
+|max_melee1 = 4
+|max_melee2 = 16
+|max_melee3 = 32
+|max_melee4 = 44
+|max_melee5 = 60
+|max_melee6 = 72
+|max_melee7 = 88
+|max_melee8 = 100
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 1
+|attack2 = 4
+|attack3 = 8
+|attack4 = 11
+|attack5 = 15
+|attack6 = 18
+|attack7 = 22
+|attack8 = 25
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee1 = 110
+|acc_melee2 = 140
+|acc_melee3 = 181
+|acc_melee4 = 213
+|acc_melee5 = 257
+|acc_melee6 = 292
+|acc_melee7 = 341
+|acc_melee8 = 381
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 140
+|armour3 = 181
+|armour4 = 213
+|armour5 = 257
+|armour6 = 292
+|armour7 = 341
+|armour8 = 381
+|defence1 = 1
+|defence2 = 4
+|defence3 = 8
+|defence4 = 11
+|defence5 = 15
+|defence6 = 18
+|defence7 = 22
+|defence8 = 25
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id1 = 13662
+|id2 = 13663
+|id3 = 13664
+|id4 = 13665
+|id5 = 13666
+|id6 = 13667
+|id7 = 13668
+|id8 = 13669
+}}
+'''Poorly Cooked Karambwan''' is one of the Trolls fought during the combat portion of [[Troll Invasion]]. If you are adjacent to it when it "coughs" (about once every 3 seconds), [[Attack]], [[Strength]], [[Defence]], [[Ranged]], [[Magic]] will be drained by 2 levels and 20 [[Prayer]] points would be drained. Using the [[supply table]] fully restores all lost stats (along with [[life points]]) and 20% of max Prayer points. They cannot drain [[Necromancy]], giving the style a further edge.
+
+It will not retaliate unless attacked. Therefore, eliminating the rest of the trolls and keeping your distance from Poorly Cooked Karambwan before dealing with it is ideal. 
+
+They may walk down the path leading up to the Death Plateau, where trolls will start throwing a barrage of rocks that '''cannot '''be blocked by a protection prayer. Attack him from a distance to lure him out or wait for him to wander back out. Ranged attacks are recommended against this troll for safety.
+
+The troll is named such because trolls are named by their mothers after the first thing they attempt to eat. This troll has probably eaten a [[poison karambwan]], which is why he is poisonous.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="250">
+Poorly Cooked Karambwan.gif|The troll being sick.
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=ninja|update=Patch Notes (24 July 2017)|date=24 July 2017}}
+** The 'Poorly Cooked Karambwan' trolls within the Troll Invasion minigame will no longer wander off too far.
+
+* {{UL|type=update|update=Troll Invasion|date=14 June 2011}}
+** Added to game.
+}}
+
+==Trivia==
+* They do not retaliate when hit by the volley from rangers at the gatehouse.
+* They can drain stats down to 1, but only if you have at least 3 remaining in that skill. If you only have level 2 remaining, they cannot drain it to 1. This also applies to prayer points under 20.
+
+{{Troll Invasion}}
+{{Trolls}}
+[[Category:Troll Invasion]]
+[[Category:Bandosians]]
+[[Category:NPCs that can move at crawling speed]]

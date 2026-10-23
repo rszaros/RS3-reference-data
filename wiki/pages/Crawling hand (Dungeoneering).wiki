@@ -1,0 +1,83 @@
+{{Dgvariant}}
+{{Infobox Monster
+|name = Crawling hand
+|image = [[File:Crawling hand (Dungeoneering).png|120px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark
+|examine = Gimme five. Actually, don't.
+|level = 7
+|lifepoints = 1000
+|experience = 50.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 5
+|slayxp = 27.6
+|slayercat = Crawling hands, Creatures of Daemonheim
+|max_melee = 20
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 5
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 150
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 150
+|defence = 5
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id = 10694
+|leagueRegion = Wilderness
+}}
+'''Crawling hands''' are [[Slayer]] monsters in [[Dungeoneering]] that require level 5 Slayer to kill. They often drop the [[Silver precision bracelet]], and more rarely the [[Golden precision bracelet]], since they are reanimated severed hands.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Equipment===
+{{DropsTableHead}}
+{{DropsLine|name = Silver precision bracelet|gemw = no|quantity = 1|rarity = Common}}
+{{DropsLine|name = Golden precision bracelet|gemw = no|quantity = 1|rarity = Rare}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Game Update (19 April 2012)|date=19 April 2012}}
+** Increased frequency of Slayer creatures in Dungeoneering.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Slayer monsters}}
+{{Zombie}}

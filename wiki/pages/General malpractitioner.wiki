@@ -1,0 +1,139 @@
+{{Otheruses|the monster|the NPC involved in [[A Clockwork Syringe]]|General malpractitioner (NPC)}}
+{{Infobox Monster
+|name = General malpractitioner
+|image = [[File:General malpractitioner (monster).png|120px]]
+|release = [[28 March]] [[2011]]
+|update = A Clockwork Syringe
+|members = Yes
+|options = Attack
+|examine = What's in those needles?
+|level = 84
+|lifepoints = 3000
+|experience = 150.0
+|aggressive = Yes
+|poisonous = 285
+|slaylvl = 1
+|slayercat = Zombies, Undead
+|assigned_by = Turael, Mazchna, Vannaka
+|max_melee = 180
+|max_ranged = 240
+|max_magic = 0
+|max_necromancy = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 45
+|ranged = 60
+|magic = 0
+|necromancy = 1
+|acc_melee = 732
+|acc_ranged = 1132
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1132
+|defence = 60
+|weakness = Stab
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania
+|id = 13601
+}}
+'''General malpractitioners''' are level 84 zombies found in the [['Rum'geon]] on [[Braindeath Island]]. They are encountered during and after [[A Clockwork Syringe]]. On occasion, general malpractitioners will also throw a syringe in the direction of a nearby [['Rum'-pumped crab]], which will temporarily increase the crab's attack speed.
+
+The poison inflicted by malpractitioners is their biggest threat, starting at an intensity of 285 life points and potentially dealing over 4000 life points damage in total if left untreated. If killing the crabs in the dungeon, and a malpractitioner begins attacking, the player should focus on killing the malpractitioner. These monsters have similar drops to the crabs that infest the dungeon, except the malpractitioners do not drop the [[brackish blade]]. They do, however, occasionally drop [[Rune knife|rune knives]].
+
+These monsters are classified as [[Zombie]]s for purposes of [[Slayer]]. They are affected by the [[Salve amulet]] and its [[Salve amulet (e)|enchanted]] counterpart.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Braindeath Island 'Rum'-geon]]
+|lvls=84
+|mem=yes
+|requirements = {{QuestIcon|A Clockwork Syringe}}
+|mapID=121
+|npcid:13601,x:1040,y:5026
+|npcid:13602,x:1040,y:5039
+|npcid:13602,x:1042,y:5012
+|npcid:13601,x:1056,y:5037
+|npcid:13602,x:1058,y:5025
+|npcid:13601,x:1059,y:5007
+|npcid:13601,x:1071,y:5024
+|npcid:13602,x:1073,y:5040
+|npcid:13602,x:1075,y:5007
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Rune knife|quantity=10|rarity=1/100}}
+{{DropsLine|name=Off-hand rune knife|quantity=10|rarity=1/100}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|8/100}}
+{{DropsTableHead}}
+{{HerbDropTable|8/100}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{AllotmentSeedDropTableIntro|8/100}}
+{{DropsTableHead}}
+{{AllotmentSeedDropTable|8/100}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Braindeath 'rum'|quantity=1|rarity=10/100|gemw=No}}
+{{DropsLine|name=Lobster|quantity=1|rarity=10/100}}
+{{DropsLine|name=Super ranging potion (2)|quantity=1|rarity=8/100}}
+{{DropsLine|name=Super defence (1)|quantity=1|rarity=6/100}}
+{{DropsLine|name=Prayer potion (1)|quantity=1|rarity=5/100}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=250-750|rarity=25/100}}
+{{DropsLine|name=Raw lobster|quantity=3 (noted)|rarity=5/100}}
+{{DropsLine|name=Silver stone spirit|quantity=3|rarity=5/100}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|8/100}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=A Clockwork Syringe|date=28 March 2011}}
+** Added to game.
+}}
+
+==Trivia==
+* Their name is a pun on general practitioner and malpractice.
+
+{{A Clockwork Syringe}}
+{{Zombie}}
+{{Pirates}}

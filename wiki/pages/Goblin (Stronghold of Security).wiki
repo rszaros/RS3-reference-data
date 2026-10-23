@@ -1,0 +1,144 @@
+{{External|os=Goblin (Vault of War)}}
+{{Infobox Monster
+|version1 = Level 5 (a)
+|version2 = Level 5 (b)
+|version3 = Level 5 (c)
+|version4 = Level 5 (d)
+|version5 = Level 5 (e)
+|version6 = Level 5 (f)
+|name = Goblin
+|image1 = [[File:Goblin (Stronghold of Security, 1).png]]
+|image2 = [[File:Goblin (Stronghold of Security, 2).png]]
+|image3 = [[File:Goblin (Stronghold of Security, 3).png]]
+|image4 = [[File:Goblin (Stronghold of Security, 4).png]]
+|image5 = [[File:Goblin (Stronghold of Security, 5).png]]
+|image6 = [[File:Goblin (Stronghold of Security, 6).png]]
+|release = [[4 July]] [[2006]]
+|update = Security and free-to-play update - the Stronghold of Security
+|members = No
+|options = Attack, Examine
+|race = Goblin
+|examine1 = An ugly green creature.
+|examine2 = These goblins have grown strong.
+|examine3 = An ugly green creature.
+|examine4 = An ugly green creature.
+|examine5 = These goblins have grown strong.
+|examine6 = An ugly green creature.
+|level = 5
+|lifepoints = 1300
+|experience = 65.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Goblins
+|max_melee = 80
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 4
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 40
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 140
+|defence = 4
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Misthalin
+|id1 = 4407
+|id2 = 4408
+|id3 = 4409
+|id4 = 4410
+|id5 = 4411
+|id6 = 4412
+}}
+'''Goblins''' are some of the creatures that can be found in the [[Vault of War]] inside the [[Stronghold of Security]], which is the first level of the stronghold.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Stronghold of Security]]
+|lvls=5
+|mem=no
+|mapID=24
+|npcid:4408,x:3,y:121|npcid:4409,x:3,y:139|npcid:4407,x:4,y:125
+|npcid:4408,x:4,y:135|npcid:4407,x:4,y:142|npcid:4407,x:4,y:146
+|npcid:4409,x:5,y:144|npcid:4407,x:6,y:121|npcid:4408,x:6,y:140
+|npcid:4409,x:6,y:148|npcid:4408,x:7,y:135|npcid:4408,x:7,y:137
+|npcid:4409,x:8,y:124|npcid:4408,x:8,y:138|npcid:4411,x:20,y:118
+|npcid:4412,x:21,y:119|npcid:4411,x:28,y:121|npcid:4410,x:28,y:127
+|npcid:4410,x:29,y:123|npcid:4411,x:31,y:125|npcid:4410,x:35,y:156
+|npcid:4412,x:36,y:146|npcid:4411,x:37,y:155|npcid:4410,x:38,y:149
+|npcid:4412,x:38,y:153|npcid:4411,x:39,y:148|npcid:4411,x:40,y:152
+|npcid:4412,x:49,y:155|npcid:4410,x:54,y:156|npcid:4411,x:55,y:160
+|npcid:4412,x:56,y:162|npcid:4411,x:56,y:164|npcid:4411,x:57,y:156
+|npcid:4410,x:57,y:159
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main drops===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=56/101|quantity=}}
+{{DropsLine|name=Coins|quantity=5-24|rarity=7/101}}
+{{DropsLine|name=Beer|quantity=1|rarity=5/101}}
+{{DropsLine|name=Bronze arrow|quantity=1-10|rarity=9/101}}
+{{DropsLine|name=Bronze spear|quantity=1|rarity=14/101|members=yes|raritynotes={{DropNote|name=bronzespear|Bronze spear replaced by bronze dagger/off hand dagger in free-to-play.}}}}
+{{DropsLine|name=Bronze dagger|quantity=1|rarity=4/101|namenotes={{F2POnly}}|raritynotes={{DropNote|name=bronzespear}}}}
+{{DropsLine|name=Bronze off hand dagger|quantity=1|rarity=4/101|namenotes={{F2POnly}}|raritynotes={{DropNote|name=bronzespear}}}}
+{{DropsLine|name=Bronze full helm|quantity=1|rarity=10/101|altrarity=20/101|raritynotes={{DropNote|20/101 in free-to-play.}}}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{BeginnerWeaponsDropLines}}
+{{DropsLine|name=Goblin skull|members=yes|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest.}}|gemw=no|alch=no}}
+{{DropsLine|name=Goblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Goblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Tiny spiky bronze salvage → Bronze spear, Bronze dagger/Bronze off hand dagger
+*** Small plated bronze salvage → Bronze full helm
+
+* {{UL|type=patch|update=Patch Notes (19 December 2012)|date=19 December 2012}}
+** Several goblins have been graphically updated to the same standard as the recently reworked goblins.
+
+* {{UL|type=patch|update=Patch Notes (13 May 2010)|date=13 May 2010}}
+** Goblin death animations should now be a bit quicker.
+
+* {{UL|type=update|update=Security and free-to-play update - the Stronghold of Security|date=4 July 2006}}
+** Added to game.
+}}
+
+{{Stronghold of Security}}
+{{Goblins}}
+[[Category:Bandosians]]

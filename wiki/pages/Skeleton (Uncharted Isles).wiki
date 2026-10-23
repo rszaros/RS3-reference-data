@@ -1,0 +1,124 @@
+{{Confuse|Skeleton (Uncharted Isles, scenery)}}
+{{Infobox Monster
+|version1 = Melee (armed)
+|version2 = Melee (unarmed)
+|version3 = Ranged
+|name = Skeleton
+|image1 = [[File:Skeleton.png|200px]]
+|image2 = [[File:Basic skeleton.png|x180px]]
+|image3 = [[File:Skeleton ranged.png|150px]]
+|release = [[25 July]] [[2016]]
+|update = The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit
+|members = Yes
+|examine = Could do with gaining a few pounds.
+|aggressive = No
+|poisonous = No
+|level = 93
+|lifepoints = 9900
+|slaylvl = 1
+|slayxp = 98.6
+|slayercat = Skeletons
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style1 = Melee
+|style2 = Melee
+|style3 = Ranged
+|primarystyle1 = Melee
+|primarystyle2 = Melee
+|primarystyle3 = Ranged
+|speed1 = 6
+|speed2 = 6
+|speed3 = 4
+|max_melee1 = 1229
+|max_melee2 = 1229
+|max_melee3 = 0
+|max_ranged1 = 0
+|max_ranged2 = 0
+|max_ranged3 = 1229
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|weakness1 = Earth, Salve, Undead
+|weakness2 = Earth, Salve, Undead
+|weakness3 = Crush, Salve, Undead
+|armour1 = 1372
+|armour2 = 850
+|armour3 = 1372
+|acc_melee = 1372
+|acc_ranged = 1372
+|acc_magic = 1372
+|acc_necromancy = 0
+|aff_weakness = 90
+|aff_melee = 60
+|aff_melee3 = 70
+|aff_ranged = 50
+|aff_ranged3 = 60
+|aff_magic = 70
+|aff_magic3 = 50
+|attack = 67
+|defence = 67
+|magic = 67
+|necromancy = 1
+|ranged = 67
+|leagueRegion = Asgarnia
+|id1 = 23054, 23055
+|id2 = 23056
+|id3 = 23391
+}}
+The '''skeleton''' is an attackable NPC that can be found randomly on [[Uncharted Isles]]. They may be killed for combat experience and [[chimes]]. While not aggressive, they are accurate and can hit hard if players are unprepared for combat. The skeletons are usually found in small groups making it very dangerous to use area-of-effect attacks or abilities against them.
+
+Attacking the skeletons will scale their [[life points]] and combative abilities to the player's own combat level. The stats and experience values shown to the right correspond to the monster at the maximum level.
+
+The skeletons will always be found near an overturned cauldron with [[Potions (Uncharted Isles)|potions]] lying about; this acts as their respawn point.
+
+During [[Final Destination (miniquest)]], the player encounters skeletons that are similar to those found on Uncharted Isles, however they grant no experience.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Maple shortbow|quantity=1-2 (noted)|rarity=11/128}}
+{{DropsLine|name=Yew shortbow|quantity=1-2 (noted)|rarity=11/128}}
+{{DropsLine|name=Magic shortbow|quantity=1-2 (noted)|rarity=2/128}}
+{{DropsLine|name=Amulet of strength|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril arrow|quantity=5-15|rarity=20/128}}
+{{DropsLine|name=Adamant arrow|quantity=5-15|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Chimes|image=Chimes 1.png|quantity=2-5|rarity=64/128|gemw=No}}
+{{DropsLine|name=Big bones|quantity=1-4 (noted)|rarity=6/128}}
+{{DropsLine|name=Yew logs|quantity=5-15 (noted)|rarity=2/128}}
+{{DropsLine|name=Gin|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** 'Weak' style: 65 → 70
+*** Same style: 55 → 60
+*** 'Strong' style: 45 → 50
+
+* {{UL|type=update|update=The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit|date=25 July 2016}}
+** Added to game.
+}}
+
+{{Final Destination (miniquest)}}
+{{Uncharted Isles}}
+{{Skeletons}}

@@ -1,0 +1,198 @@
+{{Infobox Monster
+|version1 = Dried
+|version2 = Unmoisturised
+|version3 = Parched
+|name = Dried zombie
+|image1 = [[File:Dried zombie (dried).png|100px]]
+|image2 = [[File:Dried zombie (unmoisturised).png|100px]]
+|image3 = [[File:Dried zombie (parched).png|100px]]
+|release = [[2 January]] [[2008]]
+|update = Dealing with Scabaras
+|members = Yes
+|options = Attack, Examine
+|examine1 = Cut-down and dried.
+|examine2 = Needs moisturising.
+|examine3 = I bet it's parched.
+|level = 67
+|lifepoints = 2400
+|experience = 120.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 41
+|slayercat = Zombies
+|assigned_by = turael, mazchna, Vannaka
+|max_melee = 192
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 48
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 801
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 801
+|defence = 48
+|weakness = Water
+|susceptibility = Undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 6761
+|id2 = 6762
+|id3 = 6763
+|leagueRegion = Desert
+}}
+'''Dried zombies''' are monsters found in the [[Kharidian Desert]] and play a small role in the [[Dealing with Scabaras]] quest. They are located in area that is affected by desert heat, so bringing water skins is recommended. There is a spring nearby, allowing quick refills therefore, making them a fairly decent training option. A permanent shortcut can be set up by using a rope on an overhanging rock at the westernmost part of the plateau just west of the archaeologists, making the plateau reachable from the [[Agility Pyramid]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ullek]]
+|lvls=67
+|mem=yes
+|mapID=28|plane=1
+|npcid:6762,x:3420,y:2829|npcid:6761,x:3424,y:2828|npcid:6763,x:3427,y:2832
+|npcid:6762,x:3429,y:2827|npcid:6761,x:3430,y:2835|npcid:6763,x:3432,y:2828
+|npcid:6762,x:3432,y:2832|npcid:6763,x:3435,y:2835|npcid:6761,x:3436,y:2830
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=106|rarity=20/128}}
+{{DropsLine|name=Coins|quantity=142|rarity=13/128}}
+{{DropsLine|name=Coins|quantity=323|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Salvage and stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Small bladed bronze salvage|quantity=1|rarity=13/128}}
+{{DropsLine|name=Small bladed iron salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Tiny spiky steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Small bladed steel salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small bladed mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium bladed adamant salvage|quantity=1|rarity=1/28}}
+{{DropsLine|name=Coal stone spirit|quantity=3|rarity=5/128}}
+{{DropsLine|name=Silver stone spirit|quantity=1|rarity=2/128}}
+{{DropsLine|name=Silver stone spirit|quantity=3|rarity=5/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=2/128}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Maple shortbow|quantity=1|rarity=3/128}}
+{{DropsLine|name=Steel arrow|quantity=1-25|rarity=3/128}}
+{{DropsLine|name=Adamant arrow|quantity=1-15|rarity=2/128}}
+{{DropsLine|name=Mithril bolts|quantity=1-15|rarity=3/128}}
+{{DropsLine|name=Steel dart|quantity=1-15|rarity=1/256}}
+{{DropsLine|name=Off-hand steel dart|quantity=1-15|rarity=1/256}}
+{{DropsLine|name=Steel dart|quantity=1-25|rarity=3/256}}
+{{DropsLine|name=Off-hand steel dart|quantity=1-25|rarity=3/256}}
+{{DropsLine|name=Mithril grapple|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Desert shirt|quantity=1|rarity=2/128}}
+{{DropsLine|name=Desert robe|quantity=1|rarity=5/128}}
+{{DropsLine|name=Desert top (overcoat)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Ruby ring|quantity=1|rarity=2/128}}
+{{DropsLine|name=Combat potion (1)|quantity=1|rarity=2/128}}
+{{DropsLine|name=Super strength (1)|quantity=1|rarity=2/128}}
+{{DropsLine|name=Knife|quantity=1|rarity=6/128}}
+{{DropsLine|name=Rope|quantity=3|rarity=1/128}}
+{{DropsLine|name=Goat horn dust|quantity=3 (noted)|rarity=1/128}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolled first, separately.}}|gemw=no}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|5/128}}
+{{DropsTableHead}}
+{{HerbDropTable|5/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Zombie Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Zombie Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000}}
+{{DropsLine|name=Scabarite notes|quantity=1|rarity=1.5/10|raritynotes={{DropNote|Dropped during the [[Scabarites Notes]] miniquest. Skeletons and zombies can only drop notes [[scabarite notes (1)|1]], [[scabarite notes (2)|2]], [[scabarite notes (3)|3]], or [[scabarite notes (4)|4]] at a 1.5/10 chance each (6/10 for any note). If a note has already been copied to the [[scabaras research]], nothing is dropped.}}|gemw=no|image=Scabarite notes (1).png}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=70}}
+{{DropsLineMimic|level=70}}
+{{DropsTableBottom}}
+
+===Charms===
+Each zombie has slightly different charm drop chances.
+
+====Dried====
+{{CharmDropTable
+|version=Dried
+|quantity=1
+|gold=73.363/1000
+|green=36.681/1000
+|crimson=36.681/1000
+|blue=51.354/1000
+}}
+
+====Unmoisturised====
+{{CharmDropTable
+|version=Unmoisturised
+|quantity=1
+|gold=74.65/1000
+|green=37.325/1000
+|crimson=37.325/1000
+|blue=52.255/1000
+}}
+
+====Parched====
+{{CharmDropTable
+|version=Parched
+|quantity=1
+|gold=78.8/1000
+|green=39.4/1000
+|crimson=39.4/1000
+|blue=55.16/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dealing with Scabaras|date=2 January 2008}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Zombie}}
+{{Dealing with Scabaras}}
+{{Scabarites Notes}}

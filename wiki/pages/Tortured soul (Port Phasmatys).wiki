@@ -1,0 +1,141 @@
+{{external|os=Tortured soul}}
+{{Otheruses|the non-player character found in Port Phasmatys|other uses|Tortured soul (disambiguation)}}
+{{Infobox Monster
+|name = Tortured soul
+|image = [[File:Tortured soul (monster).png|150px]]
+|release = [[15 February]] [[2005]]
+|update = Ghosts Ahoy and Slayer Update
+|members = Yes
+|options = Attack
+|examine = This poor soul cannot understand why it has not passed to the next world.
+|level = 53
+|lifepoints = 3000
+|experience = 150.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 38.8
+|slayercat = Ghosts
+|assigned_by = turael, mazchna, Vannaka
+|max_melee = 114
+|max_ranged = 0
+|max_magic = 152
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 28
+|ranged = 0
+|magic = 38
+|necromancy = 1
+|acc_melee = 285
+|acc_ranged = 0
+|acc_magic = 590
+|acc_necromancy = 0
+|armour = 590
+|defence = 38
+|weakness = Arrows
+|susceptibility = Undead, Ghost
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania
+|id = 1698
+}}
+[[File:Tortured soul (Port Phasmatys) chathead.png|left]]
+'''Tortured souls''' are ghostly apparitions which can be found north of the [[Ectofuntus]] and west of [[Port Phasmatys]], outside the city walls. Their appearance, location, name and speech imply that they are outcasts from Port Phasmatys who, being trapped between life and death due to the actions of [[Necrovarus]] (rectified by the player during [[Ghosts Ahoy]]), have lost their minds. When killed they sometimes say, rather ironically, "You cannot defeat the undead, mortal!"
+
+As they are a type of [[ghost]], they can be used as a higher level substitute on ghost [[Slayer]] tasks assigned by [[Turael]]/[[Spria]] and [[Mazchna]]. Since Tortured Souls are [[undead]], the [[Salve amulet]] is effective against them.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Port Phasmatys]]
+|lvls=53
+|mem=yes
+|mapID=28
+|npcid:1698,x:3648,y:3472|npcid:1698,x:3649,y:3503|npcid:1698,x:3654,y:3536
+|npcid:1698,x:3657,y:3534|npcid:1698,x:3666,y:3529|npcid:1698,x:3668,y:3537
+|npcid:1698,x:3672,y:3520|npcid:1698,x:3673,y:3528
+|leagueRegion=Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Body rune|quantity=7|rarity=5/128}}
+{{DropsLine|name=Water rune|quantity=6|rarity=6/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy harralander|quantity=1|rarity=5/128}}
+{{DropsLine|name=Grimy tarromin|quantity=1|rarity=3/128}}
+{{DropsLine|name=Grimy marrentill|quantity=1|rarity=2/128}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity=1/128}}
+{{DropsLine|name=Grimy ranarr|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|20/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|20/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2|rarity=23/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=3|rarity=30/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=5|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=6|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=12|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=18/128}}
+{{DropsLine|name=Limpwurt root|quantity=1|rarity=3/128}}
+{{DropsLine|name=Vial of water|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineGhosts|ectorarity=1000|herbrarity=1024}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Ghosts Ahoy and Slayer Update|date=15 February 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* As of 4 July 2011, many worlds had one of the then-new [[citadel]] ruins on top of a tortured soul spawn point effectively creating a tortured soul players could not attack. If players did attempt to attack it, even with Ranged or Magic, they received a "You can't reach that." message.
+* While the normal ghosts had their sounds updated, the Tortured Souls still use the old ghost sounds.
+
+==References==
+{{Reflist}}
+
+{{Ghosts Ahoy}}
+{{Ghost}}
+{{Port Phasmatys}}
+{{Vessel of the Harbinger}}
+[[pt:Alma torturada (Porto Phasmatys)]]

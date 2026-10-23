@@ -1,0 +1,55 @@
+{{Infobox Monster
+|version1 = Regular
+|version2 = Hydra
+|name1 = Verac the Redefined
+|name2 = Verac the Redefined (hydra)
+|image1 = [[File:Verac the Redefined.png|200px]]
+|image2 = [[File:Verac the Redefined (hydra).png|200px]]
+|release = [[14 April]] [[2020]]
+|update = Game Update: Ninja Strike 3 - Shattered Worlds
+|members = No
+|actions = Attack, Examine
+|examine = Should two lots of corruption cancel out?
+|level = 98
+|lifepoints = 12000
+|experience = 600.0
+|aggressive = No
+|poisonous = No
+|slayercat = Ghosts, Undead
+|max_melee = 1260
+|max_ranged = 0.0
+|max_magic = 0.0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 70
+|ranged = 1
+|magic = 1
+|acc_melee = 1566
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 1299
+|defence = 70
+|weakness = Nothing
+|susceptibility = Salve
+|aff_weakness = 65
+|aff_melee = 65
+|aff_ranged = 65
+|aff_magic = 65
+|immune_to_poison = No
+|restriction = minigame
+|id1 = 27050
+|id2 = 27064
+|leagueRegion=Misthalin}}
+'''Verac the Redefined''' is a monster that can be found in [[Shattered Worlds]] on a boss world. Every fifth world that a player enters has a chance of spawning this boss after a certain percentage of monsters are killed. He is a copy of [[Verac the Defiled]].
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Game Update: Ninja Strike 3 - Shattered Worlds|date=14 April 2020}}
+** Added to game.
+}}
+
+{{Shattered Worlds}}

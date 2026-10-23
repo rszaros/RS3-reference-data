@@ -1,0 +1,119 @@
+{{Infobox Monster
+|name = Earth warrior
+|image = [[File:Earth warrior.png|250px]]
+|release = [[27 July]] [[2015]]
+|update = Elite Monster Spawns
+|members = Yes
+|options = Attack
+|examine = A powerful, strange, inhuman, elemental warrior.
+|leagueRegion = Wilderness
+|level = 75
+|lifepoints = 32600
+|experience = 1630.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 295
+|slayercat = Earth warriors
+|max_melee = 800
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 71
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 528
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1335
+|defence = 56
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 21495
+}}
+An''' earth warrior (elite)''' is an [[elite monster|elite version]] of the [[earth warrior]]. If on a [[Slayer assignment]], an elite Earth warrior is guaranteed to spawn; otherwise, elite monsters have a spawn rate of 1 in 1,000. Elite spawn rates can be further increased with the use of [[fellstalk incense stick]]s.
+
+==Names==
+The elite versions have varying names, with a randomly generated prefix and suffix.
+{{Elite names|name=Earth warrior}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Charms===
+{{CharmDropTable|quantity=1|gold=88.233/1000|green=44.117/1000|crimson=110.292/1000|blue=4.412/1000|rolls=3}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Staff of earth|quantity=1|rarity=6/72|rolls=3}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Earth rune|quantity=20|rarity=4/72|rolls=3}}
+{{DropsLine|name=Law rune|quantity=4|rarity=4/72|rolls=3}}
+{{DropsLine|name=Nature rune|quantity=4|rarity=6/72|rolls=3}}
+{{DropsLine|name=Chaos rune|quantity=4|rarity=3/72|rolls=3}}
+{{DropsLine|name=Death rune|quantity=4|rarity=4/72|rolls=3}}
+{{DropsLine|name=Blood rune|quantity=2|rarity=3/72|rolls=3}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|8/72}}
+{{DropsTableHead}}
+{{HerbDropTable|8/72|rolls=3}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|6/72}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|6/72|rolls=3}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=500|rarity=4/72|rolls=3|gemw=No}}
+{{DropsLine|name=Earth talisman|quantity=1|rarity=12/72|rolls=3}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|12/72|rolls=3}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Earth Warrior Champion's scroll|quantity=1|rarity=1/4750|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Earth Warrior Champion]] in [[Champion's Challenge]]. Chance increased to 1/3800 if a [[champion scroll enhancer]] is active.}}|altrarity=1/3800|gemw=no}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=1/37437|approx=Yes}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Elite Monster Spawns|date=27 July 2015}}
+** Added to game.
+}}
+
+{{Elite monster}}

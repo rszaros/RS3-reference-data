@@ -1,0 +1,175 @@
+{{External|os}}
+{{Infobox Monster
+|name = Giant skeleton
+|image = [[File:Giant skeleton.png|200px]]
+|release = [[22 January]] [[2007]]
+|update = The Lair of Tarn Razorlor
+|members = Yes
+|examine = A giant skeleton or a giant's skeleton?
+|level = 84
+|lifepoints = 3000
+|experience = 150.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 70
+|slayercat = Skeletons
+|assigned_by = Turael, Vannaka, Mazchna, Jacquelyn
+|max_melee = 240.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec = 
+|style = Melee
+|primarystyle = melee
+|speed = 4
+|attack = 60
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1132
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1132
+|defence = 60
+|weakness = Earth
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Morytania
+|id = 5384
+}}
+'''Giant skeletons''' are found in [[Tarn's Lair]]. They are bigger than [[Skeleton|regular skeletons]] and, based on their examine text, they might have been giants (such as [[Hill Giant]]s) when still alive. They are similar to other [[giant skeleton]]s found in the Shadow Dungeon and Daemonheim.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Tarn's Lair]]
+|lvls=84
+|requirements = {{QuestIcon|Haunted Mine}}
+|mem=yes
+|mapID=30
+|npcid:5384,x:29,y:62|npcid:5384,x:31,y:41
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|mobname=giant skeleton in Tarn's Lair}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Giant skeleton (Tarn's Lair)}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated iron salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Small plated bronze salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium plated bronze salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium blunt iron salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Tiny spiky steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Tiny spiky steel salvage|quantity=6 (noted)|rarity=5/128}}
+{{DropsLine|name=Medium spiky steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium bladed iron salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Medium plated steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Small bladed iron salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny bladed steel salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny blunt mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small plated steel salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium bladed adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Shortbow|quantity=1|rarity=3/128}}
+{{DropsLine|name=Magic staff|quantity=1|rarity=1/128}}
+{{DropsLine|name=Black longsword|quantity=1|rarity=1/256}}
+{{DropsLine|name=Off-hand black longsword|quantity=1|rarity=1/256}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Blood rune|quantity=3|rarity=3/128}}
+{{DropsLine|name=Steel arrow|quantity=11|rarity=2/128}}
+{{DropsLine|name=Steel bolts (p)|quantity=2|rarity=3/128}}
+{{DropsLine|name=Silver bolts|quantity=5|rarity=6/128}}
+{{DropsLine|name=Adamant arrow|quantity=4|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|5/128}}
+{{DropsTableHead}}
+{{HerbDropTable|5/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=17|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=41|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=142|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=206|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=106|rarity=2/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=323|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Steel nails|quantity=12|rarity=5/128}}
+{{DropsLine|name=White candle|quantity=1|rarity=5/128}}
+{{DropsLine|name=Strength potion (3)|quantity=1|rarity=5/128}}
+{{DropsLine|name=Knife|quantity=1|rarity=3/128}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=2/128}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=2/128}}
+{{DropsLine|name=Sapphire ring|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5000}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Giant skeleton old.png|name=Giant skeleton}}
+|{{GUL|date=|update=|img=Giant skeleton.png|name=Giant skeleton}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* The level 45 [[skeleton]]s in [[Crandor and Karamja Dungeon|Elvarg's Lair]] are the same size as giant skeletons, despite being "normal".
+
+{{Skeleton}}

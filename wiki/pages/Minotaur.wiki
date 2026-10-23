@@ -1,0 +1,196 @@
+{{External|os}}
+{{Otheruses|a monster}}
+{{Infobox Monster
+|version1 = Level 12
+|version2 = Level 15
+|name = Minotaur
+|image = [[File:Minotaur.png|200px]]
+|release = [[4 July]] [[2006]]
+|update = Security and free-to-play update - the Stronghold of Security
+|members = No
+|options = Attack, Examine
+|examine = He doesn't look very pleased to see you.
+|level1 = 12
+|level2 = 15
+|lifepoints1 = 1750
+|lifepoints2 = 2000
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 16.6
+|slayxp2 = 46.4
+|slayercat = Minotaurs
+|max_melee1 = 200
+|max_melee2 = 240
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 10
+|attack2 = 12
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 102
+|acc_melee2 = 123
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 181
+|armour2 = 202
+|defence1 = 8
+|defence2 = 10
+|weakness1 = Water
+|weakness2 = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Misthalin
+|id1 = 4404
+|id2 = 4406
+}}
+[[File:Minotaur icon.png|left]]
+'''Minotaurs''' are monsters found in the Vault of War within the [[Stronghold of Security]]. They drop the [[right skull half]], the first piece of the [[skull sceptre]]. Many players train [[Ranged]] on these monsters, as they often drop [[iron arrow]]s.
+
+Minotaurs are commonly used for training for low and mid level players, but some times even high level ones, because they have low strength and defence. However, their accuracy can be a problem for long training sessions, especially if the player has a low defence level or uses insufficient protection. They do hit high for their level so be sure to bring food.
+
+Setting up a [[dwarf cannon]] at Minotaurs can be a decent way to obtain [[Sealed clue scroll (easy)|sealed easy clue scroll]]s.
+
+Another [[Minotaur (Turael's basement)|variant]] is also found in [[Turael's basement]] where they are level 44, however, the player must be on their [[Slayer/Challenges#Turael/Spria|slayer challenge]] in order to access it.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Stronghold of Security]]
+|lvls=12, 15
+|mem=no
+|mapID=24
+|npcid:4404,x:6,y:110|npcid:4404,x:7,y:109|npcid:4404,x:11,y:108
+|npcid:4404,x:14,y:155|npcid:4404,x:15,y:111|npcid:4404,x:15,y:162
+|npcid:4404,x:16,y:147|npcid:4404,x:17,y:132|npcid:4404,x:17,y:158
+|npcid:4406,x:17,y:162|npcid:4404,x:18,y:136|npcid:4404,x:19,y:134
+|npcid:4404,x:19,y:138|npcid:4404,x:22,y:136|npcid:4404,x:23,y:138
+|npcid:4404,x:24,y:137|npcid:4404,x:24,y:140|npcid:4406,x:34,y:115
+|npcid:4406,x:34,y:163|npcid:4406,x:37,y:109|npcid:4406,x:37,y:118
+|npcid:4406,x:37,y:158|npcid:4406,x:37,y:161|npcid:4406,x:38,y:163
+|npcid:4406,x:41,y:116|npcid:4406,x:41,y:164|npcid:4406,x:43,y:118
+|npcid:4406,x:43,y:162|npcid:4406,x:44,y:128|npcid:4406,x:44,y:130
+|npcid:4406,x:45,y:111|npcid:4406,x:45,y:117|npcid:4406,x:45,y:121
+|npcid:4406,x:45,y:126|npcid:4406,x:46,y:113|npcid:4406,x:46,y:119
+|npcid:4406,x:46,y:124|npcid:4406,x:46,y:127|npcid:4406,x:46,y:162
+|npcid:4406,x:48,y:111
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mind rune|quantity=1|rarity=1/128}}
+{{DropsLine|name=Water rune|quantity=5|rarity=3/128|members=yes|raritynotes={{DropNote|name=membs|Replaced by nothing in free-to-play.}}}}
+{{DropsLine|name=Earth rune|quantity=5|rarity=3/128|members=yes|raritynotes={{DropNote|name=membs}}}}
+{{DropsLine|name=Bronze arrow|quantity=3|rarity=7/128}}
+{{DropsLine|name=Iron arrow|quantity=5-15|rarity=10/128|altrarity=30/128|raritynotes={{DropNote|Replaces the 7 coins drop in free-to-play.}}}}
+{{DropsTableBottom}}
+
+===Ores, bars, and spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Copper ore|quantity=1 (noted)|rarity=6/128}}
+{{DropsLine|name=Tin ore|quantity=1 (noted)|rarity=11/128}}
+{{DropsLine|name=Gold bar|quantity=1|rarity=3/128|members=yes|raritynotes={{DropNote|name=membs|Replaced by nothing in free-to-play.}}}}
+{{DropsLine|name=Wood spirit|quantity=1-2|rarity=10/128}}
+{{DropsLine|name=Oak wood spirit|quantity=1-2|rarity=14/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1|rarity=7/128|members=yes|raritynotes={{DropNote|name=membs|Replaced by nothing in free-to-play.}}|gemw=No}}
+{{DropsLine|name=Coins|quantity=2|rarity=20/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=7|rarity=20/128|members=yes|raritynotes={{DropNote|Replaced by a larger chance of iron arrows in free-to-play.}}|gemw=No}}
+{{DropsLine|name=Coins|quantity=5-85|rarity=7/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}}}
+{{DropsLine|name=Nothing|rarity=18/128|namenotes={{F2POnly}}}}
+{{DropsLine|name=Cooked meat|quantity=1|rarity=3/101}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128|f2p=yes}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Right skull half|quantity=1|rarity=3/100|altrarity=15/100|raritynotes={{DropNote|15/100 if any [[Varrock armour]] is worn.}}}}
+{{BeginnerWeaponsDropLines}}
+{{DropsLine|name=Iron gauntlets|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+==Achievement==
+* {{Achievement|Guardian of the Realm}} 
+** [[Right skull half]] drop
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[4 July]] [[2006]]|update=Security and free-to-play update - the Stronghold of Security|img=Minotaur old.png|name=Minotaur}}
+|{{GUL|date=[[12 May]] [[2014]]|update=Patch Notes (12 May 2014)|img=Minotaur.png|name=Minotaur}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Copper stone spirit → copper ore (noted)
+*** Tin stone spirit → tin ore (noted)
+*** Gold stone spirit → Gold bar
+*** Tiny plated iron salvage → Iron gauntlets
+
+* {{UL|type=patch|update=Shooting Star Refresh - This Week In RuneScape|date=16 December 2024}}
+** Added Normal and Oak wood spirits to more drop tables:
+*** Replaced Small Plated Bronze Salvage with Normal Wood Spirits.
+*** Replaced Tiny Spiky Bronze Salvage with Oak Wood Spirits.
+
+* {{UL|type=patch|update=Housing of Parliament &amp; Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=ninja|update=Patch Notes (17 August 2015)|date=17 August 2015}}
+** Various gauntlets are now dropped from additional NPCs:
+*** Iron - minotaurs
+
+* {{UL|type=patch|update=Patch Notes (12 May 2014)|date=12 May 2014}}
+** Minotaurs have been graphically updated across the game.
+
+* {{UL|type=update|update=Security and free-to-play update - the Stronghold of Security|date=4 July 2006}}
+** Added to game.
+}}
+
+==Trivia==
+*The minotaur's maximum hit exceeds that of the next monster that drops a piece of the [[skull sceptre]], the [[flesh crawler]].
+*Minotaurs received a graphical update during the [[12 May]] [[2014]] update that brought graphical updates to other monsters.
+*Minotaurs often retreat at low health.
+
+{{Stronghold of Security}}
+[[pt:Minotauro]]

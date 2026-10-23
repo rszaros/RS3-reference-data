@@ -1,0 +1,246 @@
+{{Infobox Monster
+|version1 = Asylum
+|version2 = Wilderness
+|name = Abyssal savage
+|image = [[File:Abyssal savage.png|180px]]
+|release1 = [[28 February]] [[2022]]
+|release2 = [[1 August]] [[2022]]
+|update1 = This Week In RuneScape: The Abyssal Breach
+|update2 = Wilderness Reborn & New Quest - This Week In RuneScape
+|members = Yes
+|actions = Attack
+|examine = A mindless Abyssal demon who only wants one thing: your brain.
+|level = 111
+|lifepoints = 15000
+|slaylvl = 95
+|slayxp = 423.2
+|aggressive1 = No
+|aggressive2 = Yes
+|poisonous = no
+|slayercat = Abyssal savages, Abyssal demons, Demons
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 816
+|max_necromancy = 0
+|max_spec = 0
+|style = Magic
+|primarystyle = Magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 85
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 2178
+|acc_necromancy = 0
+|armour = 1694
+|defence = 75
+|weakness = Water
+|susceptibility = Abyssal, Demon
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = no
+|immune_to_deflect = no
+|immune_to_stun = no
+|immune_to_drain = no
+|id = 28782, 29352
+|leagueRegion = Misthalin, Wilderness
+}}
+[[File:Abyssal savage icon.png|left]]
+'''Abyssal savages''' are a type of [[demon]] located in the [[Senntisten Asylum]] and the [[Wilderness]]. They are the third strongest of the [[Abyssal demons (type)|Abyssal demons]] and require a [[Slayer]] level of 95 in order to be harmed.
+
+They are capable of teleporting around much like [[abyssal demon]]s. Despite attacking with magic, they can only attack when in melee range of the player.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Senntisten Asylum]]
+|lvls=111
+|mem=yes
+|mapID=738
+|npcid:28782,x:1960,y:1500|npcid:28782,x:1965,y:1502|npcid:28782,x:1965,y:1499
+|npcid:28782,x:1961,y:1493|npcid:28782,x:1965,y:1494|npcid:28782,x:1969,y:1492
+|npcid:28782,x:1975,y:1492|npcid:28782,x:1975,y:1503|npcid:28782,x:1975,y:1497
+|npcid:28782,x:1966,y:1495|npcid:28782,x:1970,y:1497
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=North of the [[Bandit Camp (Wilderness)|Bandit Camp]]
+|lvls=111
+|mem=yes
+|mapID=28
+<!-- Should be fairly close -->
+|npcid:28782,x:3023,y:3718
+|npcid:28782,x:3029,y:3716
+|npcid:28782,x:3023,y:3731
+<!-- Kind of? -->
+|npcid:28782,x:3038,y:3718
+|npcid:28782,x:3048,y:3718
+|npcid:28782,x:3048,y:3728
+<!-- No idea -->
+|npcid:28782,x:3035,y:3733
+|npcid:28782,x:3035,y:3733
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=South of the [[Wilderness (level 35) hobgoblin mine|hobgoblin mine]]
+|lvls=111
+|mem=yes
+|npcid:28782,x:3012,y:3766
+|npcid:28782,x:3021,y:3773
+|npcid:28782,x:3032,y:3767
+|npcid:28782,x:3029,y:3757
+|npcid:28782,x:3023,y:3752
+|npcid:28782,x:3013,y:3754
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=West of the [[Rogues' Castle]]
+|lvls=111
+|mem=yes
+|mapID=28
+|npcid:28782,x:3222,y:3929
+|npcid:28782,x:3209,y:3930
+|npcid:28782,x:3228,y:3921
+|npcid:28782,x:3207,y:3907
+|npcid:28782,x:3230,y:3926
+|npcid:28782,x:3216,y:3907
+|npcid:28782,x:3209,y:3923
+|npcid:28782,x:3216,y:3924
+|npcid:28782,x:3221,y:3912
+|npcid:28782,x:3204,y:3910
+|npcid:28782,x:3209,y:3914
+|npcid:28782,x:3204,y:3928
+|npcid:28782,x:3221,y:3921
+|npcid:28782,x:3212,y:3918
+|npcid:28782,x:3231,y:3916
+|npcid:28782,x:3224,y:3925
+|npcid:28782,x:3236,y:3911
+|npcid:28782,x:3227,y:3910
+|npcid:28782,x:3224,y:3917
+|npcid:28782,x:3220,y:3908
+|npcid:28782,x:3217,y:3916
+|npcid:28782,x:3231,y:3907
+|npcid:28782,x:3235,y:3928
+|npcid:28782,x:3214,y:3930
+|npcid:28782,x:3205,y:3919
+|npcid:28782,x:3236,y:3922
+|npcid:28782,x:3239,y:3907
+|npcid:28782,x:3214,y:3909
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Infernal ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Herbs===
+''There is a 24/100 chance of rolling the abyssal herb drop table.''
+
+{{DropsTableHead}}
+{{DropsLine|name=Grimy irit|quantity=1 (noted)|rarity=1/25}}
+{{DropsLine|name=Grimy avantoe|quantity=1 (noted)|rarity=1/25}}
+{{DropsLine|name=Grimy cadantine|quantity=1 (noted)|rarity=1/25}}
+{{DropsLine|name=Grimy lantadyme|quantity=1 (noted)|rarity=1/25}}
+{{DropsLine|name=Grimy dwarf weed|quantity=1 (noted)|rarity=1/25}}
+{{DropsLine|name=Grimy toadflax|quantity=1 (noted)|rarity=1/25}}
+{{DropsTableBottom}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Necrite stone spirit|quantity=5|rarity=6/100}}
+{{DropsLine|name=Phasmatite stone spirit|quantity=5|rarity=6/100}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny spiky rune salvage|quantity=1|rarity=14/100}}
+{{DropsLine|name=Medium blunt rune salvage|quantity=1|rarity=6/100}}
+{{DropsLine|name=Large bladed rune salvage|quantity=1|rarity=4/100}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=3000-7000|rarity=12/100}}
+{{DropsLine|name=Earth orb|quantity=3-5 (noted)|rarity=12/100}}
+{{DropsLine|name=Pure essence|quantity=100-140 (noted)|rarity=8/100}}
+{{DropsLine|name=Loop half of a key|quantity=1|rarity=4/100}}
+{{DropsLine|name=Tooth half of a key|quantity=1|rarity=4/100}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/100}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Abyssal flesh|quantity=4-6|rarity=1/25|altrarity=1/5|raritynotes={{DropNote|1/5 when on a [[Slayer assignment]].}}}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128|gemw=no}}
+{{DropsLineTriskelion|rarity=1/2000|altrarity=1/1980|raritynotes={{DropNote|name=trisk|1/1,980 with tier 3 [[luck]] or higher.}}}}
+{{DropsLineEffigy|level=111}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=111}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.6/1000
+|green = 44.8/1000
+|crimson = 314/1000
+|blue = 8.96/1000
+}}
+
+===Wilderness drop table===
+{{Wilderness shared loot table|level=111}}
+
+==Products==
+{{Uses facility list}}
+
+==Money making guide==
+{{Mmgsection|Killing abyssal savages}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Abyssal creatures concept art.png|Concept art of the abyssal savage (left)
+Abyssal savage development.png|A work-in-progress model of the abyssal savage
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Kandarin Area Graphical Update - This Week In RuneScape|date=15 January 2024}}
+** Fixed an issue that stopped abyssal lords, abyssal savages, and abyssal beasts from dropping items from the Wilderness shared drop table.
+
+* {{UL|type=patch|update=Free To Play Area Graphical Updates - This Week In RuneScape|date=5 September 2022}}
+** Killing Abyssal Lords and Savages in the Wilderness now only decrease the relevant Slayer task count by one.
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Added to the wilderness.
+
+* {{UL|type=update|update=This Week In RuneScape: The Abyssal Breach|date=28 February 2022}}
+** Added to game.
+}}
+
+==Trivia==
+* The abyssal savage, [[abyssal beast]], and [[abyssal lord]] were designed by [[Mod Shogun]] during [[Game Jam]] 2017 and 2018.
+
+{{Senntisten Asylum}}
+{{Slayer monsters}}
+{{Demons}}
+[[pt:Selvagem abissal]]
+[[Category:Game Jam content]]

@@ -1,0 +1,94 @@
+{{External|os}}
+{{Infobox Monster
+|name = Frogeel
+|image = [[File:Frogeel.png|150px]]
+|release = [[19 February]] [[2007]]
+|update = The Tower of Life
+|members = Yes
+|options = Attack
+|race = Frogeel
+|examine = Is it a frog, or is it an eel?
+|level = 68
+|lifepoints = 8200
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 124.2
+|slayercat = Frogs
+|max_melee = 720
+|max_ranged = 980
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 36
+|ranged = 49
+|magic = 1
+|necromancy = 1
+|acc_melee = 453
+|acc_ranged = 725
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 825
+|defence = 49
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 5593
+|leagueRegion = Kandarin
+}}
+A '''frogeel''' is a hybrid of a [[giant frog]] and a [[raw cave eel]]. Players may create frogeels in the [[Creature Creation]] basement dungeon under the [[Tower of Life (building)|Tower of Life]] once they complete the [[Tower of Life]] quest.
+
+A frogeel is created by using one pair of [[giant frog legs]] and a [[raw cave eel]] on the frogeel altar of life found in the western part of the basement. Upon activation of the altar, the [[Homunculus]] in the dungeon then creates the monster, which appears near the altar and will attack the player.
+
+Creating and killing a frogeel is required for the [[It Just Croaked]] task in the [[Ardougne achievements#Hard achievements|hard Ardougne achievements]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw cave eel|quantity=5-10|quantitynotes={{DropNote|Raw cave eel may be noted after claiming the [[Ardougne cloak 1]].}}|rarity=Always}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Plain satchel|quantity=1|rarity=3/20|gemw=no}}
+{{DropsLine|name=Tea flask|quantity=1|rarity=2/20|gemw=no}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|It Just Croaked}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Game Jam September 2023 Frogeel 1.jpg|Game jam update concept art
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=The Tower of Life|date=19 February 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* Even though the frogeel does not drop [[big bones]], it has a chance of dropping [[Long bone|long]] and [[curved bone]]s.
+
+{{Creature Creation}}

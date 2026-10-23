@@ -1,0 +1,157 @@
+{{Infobox Monster
+|name = Nechryael
+|image = [[File:Nechryael (Heart of Gielinor).png|150px]]
+|release = [[29 March]] [[2016]]
+|update = God Wars Dungeon 2
+|members = Yes
+|options = Attack
+|examine = An evil death demon.
+|level = 108
+|lifepoints = 8000
+|experience = 400.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 80
+|slayxp = 251.6
+|slayercat = Nechryael
+|assigned_by = Sumona, Lapalok, Kuradal, Morvran
+|max_melee = 768
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 80
+|ranged = 80
+|magic = 1
+|necromancy = 1
+|acc_melee = 1924
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1694
+|defence = 75
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Desert
+|id = 22497
+}}
+'''Nechryael''' can be found in the [[Heart of Gielinor]]. They can be fought for killcount for the [[Zaros]] faction. A Slayer level of 80 is required in order to harm them.
+
+While they count towards a Nechryael slayer task, killing them here is not recommended as they only spawn around a node that is under Zarosian control.
+
+Equipping a [[Zaros insignia]] or [[Shard of Mah]] has no effect, as they are innately passive.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Heart of Gielinor]]
+|lvls=108
+|mem=yes
+|mapID=693
+|npcid:22497,x:3122,y:6910|npcid:22497,x:3125,y:6919|npcid:22497,x:3133,y:6933
+|npcid:22497,x:3140,y:6902|npcid:22497,x:3171,y:6905|npcid:22497,x:3152,y:6970
+|npcid:22497,x:3166,y:6955
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Ashes|quantity=1|rarity=Always}}
+{{DropsLine|name=Ingression fragment|quantity=5-9|rarity=Always|gemw=No}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Acadia shortbow|quantity=1|rarity=9/126}}
+{{DropsLine|name=Acadia longbow|quantity=1|rarity=8/126}}
+{{DropsLine|name=Water battlestaff|quantity=1|rarity=2/126}}
+{{DropsLine|name=Fire battlestaff|quantity=1|rarity=2/126}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril arrow|quantity=40-60|rarity=9/126}}
+{{DropsLine|name=Adamant arrow|quantity=50-100|rarity=4/126}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|5/126}}
+{{DropsTableHead}}
+{{HerbDropTable|5/126}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|4/126}}
+{{DropsTableHead}}
+{{RareSeedDropTable|4/126}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Super strength (1)|quantity=1|rarity=4/126}}
+{{DropsLine|name=Super ranging potion (1)|quantity=1|rarity=4/126}}
+{{DropsLine|name=Super magic potion (1)|quantity=1|rarity=4/126}}
+{{DropsLine|name=Chocolate cake|quantity=2|rarity=9/126}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny blunt mithril salvage|quantity=1|rarity=9/126}}
+{{DropsLine|name=Tiny blunt adamant salvage|quantity=1|rarity=8/126}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=12/126}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=800-1200|rarity=9/126}}
+{{DropsLine|name=Coins|quantity=2500-3500|rarity=4/126}}
+{{DropsTableBottom}}
+
+====Furniture plans====
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Zaros rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Zaros altar|quantity=1|rarity=Unknown}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=15/126}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/126}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (3 August 2015)|date=3 August 2015}} 
+** Nechryael no longer appear slightly before they play their spawn animation.
+
+* {{UL|type=update|update=God Wars Dungeon 2|date=29 March 2016}}
+** Added to game.
+}}
+
+{{Heart of Gielinor}}
+{{Demons}}
+[[Category:Heart of Gielinor dropping monsters]]
+[[Category:Zarosians]]

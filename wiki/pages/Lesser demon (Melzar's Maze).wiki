@@ -1,0 +1,115 @@
+{{External|os}}
+{{Infobox Monster
+|name = Lesser demon
+|image = [[File:Lesser demon (Melzar's Maze).png|150px]]
+|release = [[23 September]] [[2001]]
+|update = Dragon quest online!
+|members = No
+|examine = Lesser, but still pretty big.
+|level = 56
+|lifepoints = 2000
+|experience = 100.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 90.8
+|slayercat = Lesser demons
+|assigned_by = chaeldar
+|max_melee = 120
+|max_ranged = 0
+|max_magic = 160
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 30
+|ranged = 0
+|magic = 40
+|necromancy = 1
+|acc_melee = 454
+|acc_ranged = 0
+|acc_magic = 628
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|weakness = Arrows
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 6101
+|leagueRegion=Asgarnia}}
+A '''lesser demon''' is found in [[Melzar's Maze]]. It is smaller and weaker than other [[lesser demon]]s, and possesses [[mantis]]-like claws. It attacks with a standard fire bolt spell, and unlike other demons, it is weak to [[arrow]]s, as opposed to [[bolt]]s.
+
+It features in the [[Dragon Slayer]] quest, where it must be killed in order to obtain the [[Key (green)|green key]], which allows access to the chest containing [[Map part (Melzar)|one of the three map parts]] required to obtain the [[Crandor map]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Melzar's Maze]]
+|lvls=56
+|requirements = Partial completion of {{QuestIcon|Dragon Slayer}}
+|mem=no
+|mapID=518
+|npcid:6101,x:2936,y:9650
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==History==
+[[File:Lesser demon (Melzar's Maze) concept art.png|thumb|The demon as it appears in the [[Malleus daemoniorum]].|left]]
+The prosperous island of [[Crandor]] was destroyed in 139 of the [[Fifth Age]] by the [[green dragon]] [[Elvarg]] after an adventurer disturbed her in her lair. Refugees fled the island, and made a small camp north of [[Rimmington]]. The dragon followed them, however, and killed the majority of the refugees. The only survivors of the attack were three mages: [[Melzar]], [[Lozar]] and [[Thalzar]].
+
+Melzar was deeply grief-stricken after the death of his kinsmen, including his wife, and built a castle known as [[Melzar's Maze]] on the site of the camp. He turned to the art of [[necromancy]] in the hope of bringing his family back, and subdued and bound the lesser demon in an attempt to use its magic to master the forces of life and death.
+
+With the demon's help, Melzar began creating [[zombie rat]]s, before he realised he would need a way to conjure the spirits separately, and moved on to [[Ghost (Melzar's Maze)|ghosts]]. Melzar used items from the refugee camp to reanimate the spirits of his kin, and was deeply troubled by how distressed they were, although the demon merely said they would thank him eventually. Melzar then moved onto [[Skeleton (Melzar's Maze)|skeletons]], and after successfully reanimating them, grew flesh on two of them, creating [[zombie]]s. On the demon's suggestion, Melzar then attempted to bind the souls of his kin into them. Unfortunately, after doing so, Melzar's obsession with [[cabbage]] took over him and he became completely insane.
+
+[[File:Melzar's demon.png|thumb|Melzar's demon and its broken shackles.|left]]
+In 169, an adventurer on a quest given by a smith known as [[Oziach]] to slay Elvarg travelled through Melzar's Maze in search of the map piece owned by Melzar. After defeating many of Melzar's undead creations and taking their keys in order to progress further through the maze, they then progressed to Melzar himself. After defeating the mad wizard, they used the key he dropped to open the door to the demon's room, and then confronted and defeated it. They then took the key the demon guarded from its ashes and used it to open the door to the final room of the maze, where they then found a chest containing part of [[Crandor map|the map to Crandor]].
+
+{{clear|left}}
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Accursed ashes|quantity=1|rarity=Always}}
+{{DropsLine|name=Key (green)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[23 September]] [[2001]]|update=Dragon quest online!|img=Lesser demon (Melzar's Maze) (2001).png|name=Lesser demon}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Lesser demon (Melzar's Maze) (2004).png|name=Lesser demon}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Lesser demon (Melzar's Maze) (2006).png|name=Lesser demon}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Lesser demon (Melzar's Maze) (2008).png|name=Lesser demon}}
+|{{GUL|date=[[28 January]] [[2013]]|update=Demon Flash Mobs|img=Lesser demon (Melzar's Maze).png|name=Lesser demon}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Demon Flash Mobs|date=28 January 2013}}
+** Graphically updated.
+
+* {{UL|type=patch|update=Demons, Dragons and Giants|date=29 August 2006}}
+** Graphically updated.
+
+* {{UL|type=update|update=Dragon quest online!|date=23 September 2001}}
+** Added to game.
+}}
+
+{{Dragon Slayer}}
+{{Demons}}

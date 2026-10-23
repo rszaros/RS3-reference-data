@@ -1,0 +1,160 @@
+{{External|os}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|version1 = Yellow
+|version2 = Yellow/Brown
+|name = Duckling
+|image1 = [[File:Duckling.png|230px]]
+|image2 = Duckling (non-interactive).png
+|race = Duck
+|members = No
+|quest = No
+|location = [[Tree Gnome Stronghold]], [[Fishing Guild]], [[Fisher Realm]], [[Falador Castle]], [[Lumbridge forest]] pond, [[River Lum]]
+|actions = Attack, Examine
+|examine1 = Mini quackers.
+|examine2 = Aww, cute.
+|release1 = [[29 March]] [[2004]]
+|release2 = [[9 July]] [[2007]]
+|update1 = RS2 Launched!
+|update2 = A bird in the hand...
+|level = 1
+|lifepoints = 50
+|experience = 12.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19.4
+|slayercat = Birds
+|max_melee = 20
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 10
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 2694
+|id2 = 6112
+|leagueRegion=Kandarin, Karamja, Asgarnia, Misthalin}}
+[[File:Duckling (non-interactive) chathead.png|left|70px]]
+'''Ducklings''' are baby [[ducks]] found in bodies of water where other ducks can be found. They usually follow adult ducks around.
+
+Ducklings can also be fed [[breadcrumbs]], though there is no purpose to this.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[River Lum]]
+|lvls=N/A
+|mem=no
+|mapID=28
+|npcid:6112,x:3238,y:3239|npcid:6112,x:3238,y:3247
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Lumbridge forest]] pond
+|lvls=N/A
+|mem=no
+|mapID=28
+|npcid:2694,x:3171,y:3272|npcid:2694,x:3169,y:3269|npcid:6112,x:3167,y:3269
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Falador]]
+|lvls=N/A
+|mem=no
+|mapID=28
+|npcid:6112,x:2975,y:3359|npcid:6112,x:3169,y:3269|npcid:6112,x:2980,y:3359|npcid:6112,x:2982,y:3358
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Tree Gnome Stronghold]]
+|lvls=N/A
+|mem=yes
+|mapID=28
+|npcid = 6112|plane = 0|npcid:6112,x:2393,y:3412
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Fishing Guild]]
+|lvls=N/A
+|mem=yes
+|mapID=28
+|npcid:6112,x:2593,y:3446|npcid:6112,x:2601,y:3437|npcid:6112,x:2604,y:3431|npcid:6112,x:2613,y:3423|npcid:6112,x:2616,y:3424
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Fisher Realm]]
+|lvls=N/A
+|mem=yes
+|mapID=400
+|npcid:6112,x:2663,y:4687|npcid:6112,x:2667,y:4678|npcid:6112,x:2669,y:4685
+|leagueRegion = Karamja}}
+{{LocTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Yellow
+|item1 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Duckling (2004).png|name=Duckling}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Duckling (2007).png|name=Duckling}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Duckling (2008).png|name=Duckling}}
+|{{GUL|date=[[4 August]] [[2014]]|update=Clan Month - The Beginning|img=Duckling (2014).png|name=Duckling}}
+|{{GUL|date=[[19 May]] [[2025]]|update=May Patch Week & DXP Continues - This Week In RuneScape|img=Duckling.png|name=Duckling}}
+}}
+
+|text2 = Yellow/Brown
+|item2 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Ducklings (2007).png|name=Ducklings}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Ducklings (2008).png|name=Ducklings}}
+|{{GUL|date=[[4 August]] [[2014]]|update=Clan Month - The Beginning|img=Ducklings (2014).png|name=Ducklings}}
+|{{GUL|date=[[19 May]] [[2025]]|update=May Patch Week & DXP Continues - This Week In RuneScape|img=Duckling (non-interactive).png|name=Duckling}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=hidden|update=Havenhythe Out Now|date=23 March 2026}}
+** Previously non-interactive ducklings can now also be attacked.
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=May Patch Week & DXP Continues - This Week In RuneScape|date=19 May 2025}}
+** Renamed non-attackable variant from "Ducklings" to "Duckling".
+
+* {{UL|type=patch|update=May Patch Week & DXP Continues - This Week In RuneScape|date=19 May 2025}}
+** Graphically updated ducks and ducklings across the game.
+
+* {{UL|type=update|update=A bird in the hand...|date=9 July 2007}}
+** Added to game.
+
+* {{UL|type=update|update=RS2 Launched!|date=29 March 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* When [[Saradomin]] built his camp over the pond as part of the [[Battle of Lumbridge]], the attackable ducklings were removed from the game. On the [[6 March]] [[2017]] update, the crater was reverted to something like its original state and the ducklings returned.
+*Previously, the duck they were following would occasionally say "Quack?" and the ducklings would reply with "Cheep Cheep!" or "Eep!". If the duck that the ducklings were following was killed, the ducklings would say, "Eek!".
+
+[[Category:Ducks]]
+[[Category:Not transcribable]]

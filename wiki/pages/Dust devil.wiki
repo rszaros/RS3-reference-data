@@ -1,0 +1,225 @@
+{{External|os}}
+{{Otheruses|def=no|the elite version|Dust devil (elite)}}
+{{Otheruses|the corrupted version requiring 97 Slayer|Corrupted dust devil|def = no}}
+{{Infobox Monster
+|name = Dust devil
+|image = [[File:Dust devil.png|100px]]
+|release = [[18 April]] [[2005]]
+|update = Desert Treasure
+|members = Yes
+|options = Attack
+|examine = The vacuumed face of evil.
+|level = 85
+|lifepoints = 8000
+|experience = 400.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 65
+|slayxp = 192.8
+|slayercat = Dust devils
+|assigned_by = chaeldar, sumona, duradel, kuradal
+|max_melee = 0
+|max_ranged = 244
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 61
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 1164
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1164
+|defence = 61
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1624
+|leagueRegion=Wilderness, Desert}}
+[[File:Dust devil icon.png|left]]
+A '''dust devil''' is a slayer monster that requires level 65 [[Slayer]] to kill. A [[face mask]], [[masked earmuffs]], [[slayer helmet]], [[Helm of Devilry]], [[Helm of Keening]], or [[Mask of Dust]] is required to slay them, whether in the [[Smoke Dungeon]] or [[Chaos Tunnels]], because of their effects on players without protection. When killing dust devils, an [[dust devil (elite)|elite]] version may spawn (guaranteed while on a Slayer assignment), which can be further increased with the use of [[fellstalk incense sticks]] and tier 2 [[luck]]. 
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=85
+|mem=yes
+|mapID=23
+|npcid:1624,x:3166,y:5513|npcid:1624,x:3167,y:5517|npcid:1624,x:3170,y:5512
+|npcid:1624,x:3175,y:5514|npcid:1624,x:3177,y:5523|npcid:1624,x:3178,y:5521
+|npcid:1624,x:3179,y:5528|npcid:1624,x:3180,y:5517
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Smoke Dungeon]]
+|lvls=85
+|mem=yes
+|mapID=591
+|npcid:1624,x:3213,y:9361|npcid:1624,x:3215,y:9355|npcid:1624,x:3217,y:9400
+|npcid:1624,x:3218,y:9365|npcid:1624,x:3218,y:9373|npcid:1624,x:3220,y:9347
+|npcid:1624,x:3221,y:9383|npcid:1624,x:3224,y:9396|npcid:1624,x:3226,y:9352
+|npcid:1624,x:3233,y:9398|npcid:1624,x:3234,y:9364|npcid:1624,x:3236,y:9402
+|npcid:1624,x:3237,y:9377|npcid:1624,x:3243,y:9383|npcid:1624,x:3245,y:9349
+|npcid:1624,x:3245,y:9400|npcid:1624,x:3250,y:9349|npcid:1624,x:3259,y:9372
+|npcid:1624,x:3261,y:9399
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Strengths and weaknesses==
+{{cquote2|Dust devils use clouds of dust, sand, ash and whatever else they can inhale to blind and disorientate their victims. Good luck on obtaining a dragon chainmail from their dusty remains.|Slayer task hint}}
+
+Dust devils use [[Ranged]] attacks to fight, and a [[Slayer]] level of at least 65 is required to kill them. Their Smoke Dungeon habitat also deals rapid damage to unprotected players. To prevent this, it is mandatory to wear protective face gear; a face mask, masked earmuffs, any slayer helm variant, a mask of Dust, or the helm of Devilry. Any of these will block both the environmental and the dust devil's stat-lowering attacks, meaning only Ranged damage will be dealt.
+
+Not wearing the required equipment will cause:
+
+* Inflicts damage to the player up to a maximum of 100 + 10% of their current [[life points]] in typeless damage.
+* Lowers [[Attack]], [[Strength]], [[Magic]], [[Ranged]], and [[Necromancy]] by 100% of their current level.
+* Lowers [[Defence]] and [[Agility]] by 50% of their current level. At level 1, it cannot be lowered any further.
+* Multiplies current [[prayer points]] and [[Summoning points]] by 0.5.
+
+Dust devils are weak to [[crush weapons]]. This means the most effective weapons to use on them are dual-wielded [[drygore mace]]s, the [[chaotic maul]], a [[superior kyzaj]], or a [[Saradomin sword]].
+
+For players who struggle to kill dust devils without losing a lot of health, there are several methods that can be used to heal without bringing food along. Dust devils commonly drop two [[ugthanki kebab]]s at a time, which can be consumed to heal for 25% of the player's maximum health, up to 1750 life points. The [[Regenerate]] ability can be used to heal while out of combat, at the cost of adrenaline; it is recommended to use this when at 100% adrenaline. The [[Vampyrism]] spell aspect, [[scrimshaw of vampyrism|scrimshaw]] or [[superior scrimshaw of vampyrism]], the [[enhanced Excalibur]] sword, the [[Saradomin godsword]], or [[Soul Split]] [[ancient curse]] can all be used to heal as damage is dealt to the dust devils. [[Guthan the Infested's equipment|Guthan's]] equipment is not recommended for use in the Smoke Dungeon, but can be used on monsters surrounding the dust devils in the Chaos Tunnels to heal life points. The [[Bones to Peaches]] spell can be used to turn the dust devils' 100% bone drop into healing peaches, if unlocked from the [[Mage Training Arena]], or a [[bunyip]] [[Summoning]] familiar can be used to heal over time.
+
+If players use Soul Split, they should forego using Bones to Peaches, and should instead use a combination of the [[bonecrusher]] and [[demon horn necklace|demon horn]] or [[split dragontooth necklace]] [[Dungeoneering]] rewards to automatically restore Prayer points while killing dust devils.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Dragon chainbody|quantity=1|rarity=1/32768|altrarity=1/31744|raritynotes={{DropNote|1/31,744 with tier 2 [[luck]] or higher.}}}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Rune arrow|quantity=15|rarity=8/128}}
+{{DropsLine|name=Soul rune|quantity=5|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|14/128}}
+{{DropsTableHead}}
+{{HerbDropTable|14/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|14/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|14/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Tiny spiky rune salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=600|rarity=32/128}}
+{{DropsLine|name=Coins|quantity=1500|rarity=10/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Bucket of sand|quantity=4 (noted)|rarity=10/128}}
+{{DropsLine|name=Soda ash|quantity=4 (noted)|rarity=10/128}}
+{{DropsLine|name=Ugthanki kebab|quantity=2|rarity=12/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=85}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=85}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 121.405/1000
+|green = 60.702/1000
+|crimson = 242.809/1000
+|blue = 8.094/1000
+}}
+
+==Products==
+{{Uses facility list|Dust devil}}
+
+==Achievements==
+* {{achievement|Drafty in Here}}
+* {{Achievement|Sand in My Loot}}
+** [[Dragon chainbody]] drop
+* {{Achievement|Wildest of All}}
+** [[Dragon chainbody]] drop
+
+==Graphical updates==
+===Icon===
+{{GU|subject=inventory items
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Dust devil icon (January 2005).png|name=Dust devil}}
+|{{GUL|date=[[18 April]] [[2005]]|update=Desert Treasure|img=Dust devil icon (April 2005).png|name=Dust devil}}
+|{{GUL|date=[[22 July]] [[2014]]|update=Patch Notes (22 July 2014)|img=Dust devil icon.png|name=Dust devil}}
+}}
+
+===NPC===
+{{GU|subject=NPCs
+|{{GUL|date=|update=|img=Dust devil (2005).png|name=Dust devil}}
+|{{GUL|date=|update=|img=Dust devil old.png|name=Dust devil}}
+|{{GUL|date=[[22 July]] [[2014]]|update=Patch Notes (22 July 2014)|img=Dust devil.png|name=Dust devil}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (22 July 2014)|date=22 July 2014}}
+** Dust and smoke devils have been graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (6 October 2010)|date=6 October 2010}}
+** Adjusted the advice for dust devils [[Slayer task]]s.
+
+* {{UL|type=update|update=Desert Treasure|date=18 April 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* In real life, {{WP|dust devil}}s are small whirlwinds strong enough to whip dust and leaves into the air.
+* Their name also appears to be a reference to "{{WP|Dirt devil}}" - a brand of vacuum cleaners, hence the dust devils' examine text; "The vacuumed face of evil".
+* As of [[1 February]] [[2018]], the highest kill count for this monster was 60,000 kills.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=http://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+** This had not increased by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=http://archive.is/Fxc11|archivedate=28 February 2020|notes=|name=}}
+* They are known as "Ghibbar al-Shaytan" in the Menaphite language.{{CiteText |text=File Under: Low Priority |quote=Since the fall of the School of Catolax, vile beasts and monsters such as the banshee, the aberrant spectre, the turoth and the Ghibbar al-Shaytan (or dust devil in common parlance), fester in every nook and cranny from here to Senntisten.}}
+
+==References==
+{{reflist}}
+
+{{Slayer monsters}}
+[[Category:Tier 2 luck]]
+[[pt:Diabo do pó]]

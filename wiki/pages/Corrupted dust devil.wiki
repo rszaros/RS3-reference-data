@@ -1,0 +1,142 @@
+{{Infobox Monster
+|name = Corrupted dust devil
+|image = [[File:Corrupted dust devil.png|150px]]
+|release = [[5 June]] [[2017]]
+|update = Menaphos - The Gates are Open
+|members = Yes
+|options = Attack
+|examine = A dust devil under the control of the Devourer.
+|level = 107
+|lifepoints = 12000
+|experience = 600.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 97
+|slayxp = 679.8
+|slayercat = Corrupted creatures, Dust devils
+|assigned_by = Morvran, Kuradal, Sumona, Laniakea
+|max_melee = 1123
+|max_ranged = 1123
+|max_magic = 1123
+|max_necromancy = 0
+|max_spec = 0
+|style = Ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 78
+|ranged = 78
+|magic = 78
+|necromancy = 1
+|acc_melee = 1829
+|acc_ranged = 1829
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1738
+|defence = 76
+|weakness = Crush
+|susceptibility = Consecrated keris
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 24595
+|leagueRegion=Desert}}
+[[File:Corrupted dust devil icon.png|left]]
+The '''corrupted dust devil''' is a type of [[Slayer monsters|Slayer monster]] found in the [[Sophanem Slayer Dungeon]]. Level 97 [[Slayer]] is required to deal damage to this monster, and a [[feather of Ma'at]] is required to complete each kill. As with normal [[dust devil]]s, a [[face mask]], [[Slayer helmet]], or [[Mask of Dust]] must be worn to prevent smoke from damaging the player and draining their stats. Players receive benefits from the [[Mask of Dust]] while killing these creatures. 
+
+They serve as a high level alternative during [[dust devil]] [[Slayer assignment]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Sophanem Slayer Dungeon]]
+|lvls=107
+|mem=yes
+|mapID=718
+|npcid:24595,x:3274,y:9192|npcid:24595,x:3278,y:9199|npcid:24595,x:3280,y:9204
+|npcid:24595,x:3282,y:9193|npcid:24595,x:3282,y:9209|npcid:24595,x:3288,y:9205
+|npcid:24595,x:3291,y:9200|npcid:24595,x:3294,y:9208
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}} This value assumes you are not on slayer task, have auto-loot settings on, don't have a [[vital spark drop enhancer]] or [[Sophanem slayer dungeon drop enhancer]].
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Water battlestaff|quantity=1|rarity=8/128}}
+{{DropsLine|name=Adamant javelin|quantity=60|rarity=14/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2000|rarity=44/128}}
+{{DropsLine|name=Coins|quantity=3500|rarity=26/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Swamp toad|quantity=4 (noted)|rarity=14/128}}
+{{DropsLine|name=Adamantite stone spirit|quantity=8|rarity=10/128}}
+{{DropsLine|name=Water orb|quantity=2 (noted)|rarity=10/128}}
+{{DropsLine|name=Large plated rune salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/150}}
+
+===Tertiary===
+Regardless of chest auto-loot settings, all tertiary drops, with the exception of [[vital spark]]s, are dropped to the ground.
+
+{{DropsTableHead}}
+{{DropsLineSophanemSlayerDungeonTertiary|slayer_level=97}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/256}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLineEffigy|level=107}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=107}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.579/1000
+|green = 44.79/1000
+|crimson = 313.527/1000
+|blue = 8.958/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Beneath Scabaras' Sands Quest Launch - This Week In RuneScape|date=13 January 2025}}
+** It is now susceptible to consecrated keris.
+
+* {{UL|type=patch|update=Patch Notes (10 July 2017)|date=10 July 2017}}
+** Slayer masters now state that corrupted creature tasks have no specific combat weakness.
+
+* {{UL|type=patch|update=Patch Notes (19 June 2017)|date=19 June 2017}}
+** Corrupted dust devils are now affected by the [[Mask of Dust|mask of dust]].
+
+* {{UL|type=update|update=Menaphos - The Gates are Open|date=5 June 2017}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Sophanem Slayer Dungeon}}
+{{Slayer monsters}}
+[[Category:Amascut]]
+[[pt:Diabo do pó corrompido]]

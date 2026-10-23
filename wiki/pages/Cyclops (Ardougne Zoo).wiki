@@ -1,0 +1,167 @@
+{{External|os}}
+{{gone}}
+{{Infobox Monster
+|name = Cyclops
+|image = [[File:Cyclops (Ardougne Zoo).png|150px]]
+|release = [[29 March]] [[2004]]
+|update = RS2 Launched!
+|members = Yes
+|options = Attack, Examine
+|race = Cyclops
+|examine = A one-eyed man eater.
+|level = 63
+|lifepoints = 4500
+|experience = 225
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 59.4
+|slayercat = Cyclopes
+|max_melee = 180
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 45
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 732
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 732
+|defence = 45
+|weakness = Earth
+|susceptibility =
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = removed
+|id = 116
+|leagueRegion=Kandarin}}
+A solitary '''cyclops''' was located in a cage in the [[Ardougne Zoo]]. Unlike the [[cyclops|cyclopes]] in the [[Warriors' Guild]], this cyclops had the same drop table as a regular [[hill giant]]. According to the [[Zookeeper]], this cyclops was brought to the zoo by an explorer from a far away land, but little else is known because the explorer died shortly thereafter.{{CiteNPC|npc=Zookeeper|loc=Ardougne Zoo|quote=He's from a very far away land. We couldn't find out more as the explorer who brought him back died shortly afterwards!}}
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ardougne Zoo]]
+|lvls=63
+|mem=yes
+|mapID=28
+|npcid:116,x:2622,y:3277
+|leagueRegion=Kandarin}}
+{{LocTableBottom}}
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}} 
+
+===Main drop===
+{{DropsTableHead}}
+<!--Coins-->
+{{DropsLine|name=Coins|quantity=8,15,38,52,88|rarity=Common}}
+<!--Runes-->
+{{DropsLine|name=Water rune|quantity=7|rarity=Uncommon}}
+{{DropsLine|name=Fire rune|quantity=15|rarity=Uncommon}}
+{{DropsLine|name=Mind rune|quantity=3|rarity=Uncommon}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=Uncommon}}
+{{DropsLine|name=Chaos rune|quantity=2|rarity=Rare}}
+{{DropsLine|name=Nature rune|quantity=6|rarity=Uncommon}}
+{{DropsLine|name=Death rune|quantity=2|rarity=Rare}}
+<!--Ammunition-->
+{{DropsLine|name=Iron arrow|quantity=3|rarity=Common}}
+{{DropsLine|name=Steel arrow|quantity=10|rarity=Uncommon}}
+<!--Food/Potions-->
+{{DropsLine|name=Beer|quantity=1|rarity=Common}}
+<!--Salvage-->
+{{DropsLine|name=Tiny spiky iron salvage|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Small plated iron salvage|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Medium plated iron salvage|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Small bladed steel salvage|quantity=1|rarity=Uncommon}}
+<!--Skilling-->
+{{DropsLine|name=Limpwurt root|quantity=1|rarity=Common}}
+{{DropsLine|name=Body talisman|quantity=1|rarity=Uncommon}}
+<!--Seeds-->
+{{DropsLine|name=Potato seed|quantity=4|rarity=Common}}
+{{DropsLine|name=Onion seed|quantity=4|rarity=Uncommon}}
+{{DropsLine|name=Cabbage seed|quantity=4|rarity=Uncommon}}
+{{DropsLine|name=Barley seed|quantity=4|rarity=Rare}}
+{{DropsLine|name=Tomato seed|quantity=3|rarity=Rare}}
+{{DropsLine|name=Sweetcorn seed|quantity=3|rarity=Rare}}
+{{DropsLine|name=Hammerstone seed|quantity=3|rarity=Rare}}
+{{DropsLine|name=Asgarnian seed|quantity=3|rarity=Rare}}
+{{DropsLine|name=Jute seed|quantity=2|rarity=Rare}}
+{{DropsLine|name=Strawberry seed|quantity=2|rarity=Rare}}
+{{DropsLine|name=Yanillian seed|quantity=2|rarity=Rare}}
+{{DropsLine|name=Watermelon seed|quantity=2|rarity=Rare}}
+{{DropsLine|name=Krandorian seed|quantity=2|rarity=Rare}}
+{{DropsLine|name=Wildblood seed|quantity=1|rarity=Very rare}}
+<!--Herbs-->
+{{DropsLine|name=Grimy guam|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Grimy tarromin|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Grimy marrentill|quantity=1|rarity=Rare}}
+{{DropsLine|name=Grimy harralander|quantity=1|rarity=Rare}}
+{{DropsLine|name=Grimy ranarr|quantity=1|rarity=Rare}}
+{{DropsLine|name=Grimy irit|quantity=1|rarity=Rare}}
+{{DropsLine|name=Grimy avantoe|quantity=1|rarity=Rare}}
+{{DropsLine|name=Grimy kwuarm|quantity=1|rarity=Rare}}
+{{DropsLine|name=Grimy cadantine|quantity=1|rarity=Rare}}
+{{DropsLine|name=Grimy lantadyme|quantity=1|rarity=Rare}}
+{{DropsLine|name=Grimy dwarf weed|quantity=1|rarity=Rare}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5000}}
+{{DropsLine|name=Shoulder bone|quantity=1|rarity=Common|raritynotes=<ref group="d">Only during [[Fur 'n Seek]]</ref>|gemw=no}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Cyclops (Ardougne Zoo) (2004).png|name=Cyclops}}
+|{{GUL|date=[[26 January]] [[2005]]|update=Slayer Skill|img=Cyclops (Ardougne Zoo) (2005).png|name=Cyclops}}
+|{{GUL|date=[[18 June]] [[2007]]|update=Game Improvements|img=Cyclops (Ardougne Zoo) (2007).png|name=Cyclops}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Cyclops (Ardougne Zoo).png|name=Cyclops}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Kandarin Area Graphical Update - This Week In RuneScape|date=15 January 2024}}
+** To continue our work in refreshing older areas of the game to the visual standard we all want to see, we have made changes to Kandarin.
+*** Removed cyclops spawns from Ardougne Zoo.
+
+* {{UL|type=update|update=RS2 Launched!|date=29 March 2004}}
+** The NPC was permanently added with the launch of ''RuneScape 2''.
+
+* {{UL|type=update|update=RuneScape 2 Beta is Here!|date=1 December 2003}}
+** The NPC was added to the ''RuneScape 2'' beta.
+}}
+
+==References==
+{{Reflist}}
+
+{{Cyclopes}}
+[[Category:Bandosians]]

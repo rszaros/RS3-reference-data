@@ -1,0 +1,137 @@
+{{Havenhythe content}}
+{{Infobox Monster
+|name = Sanguine creeper
+|image = [[File:Sanguine creeper.png]]
+|release = [[28 September]] [[2026]]
+|update = Havenhythe Part II out now!
+|members = Yes
+|options = Attack, Examine
+|race = 
+|examine = A small tree that has been corrupted by the Sanguine.
+|level = 77
+|lifepoints = 13950
+|aggressive = No
+|poisonous = No
+|slaylvl = 28
+|slayxp = 
+|slayercat = Sanguine crawlers
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 900
+|max_necromancy = 0
+|max_spec =
+|style = Magic
+|primarystyle = Magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 63
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 1466
+|acc_necromancy = 0
+|abilities =
+|armour = 1132
+|defence = 49
+|weakness = Arrow
+|susceptibility = Havensilver
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|id = 32816
+}}
+'''Sanguine creepers''' are stronger variants of [[sanguine crawler]]s found in the Sanguine Glade within the [[Moonsylvar Wood]], requiring level 28 Slayer to damage.
+
+They share the crawler's special attack, performing a floor-targeted magic attack that deals 1,114 damage through protection prayers to the player if they are standing on it when it bursts, accompanied by a {{RSChat|*schluurp*}} message.
+
+==Getting there==
+# Start at the Ancient Willow: go to the large central tree (the Ancient Willow), located in the centre of the portals.
+# Follow the portals west: your final destination is exactly 4 rooms west of the Willow.
+# Use the [[sanguine crawler]]s as a guide: you'll know you're on the right path if you start encountering sanguine crawlers in the rooms.
+#* Each room in the correct direction will have an increasing number of monsters: the first will have 1, the next will have 2, and the room right before the clearing will have exactly 3 crawlers.
+# The "back and forth" (reset) trick: If you enter a room and the portal to the west isn't available (or if you enter an empty room with no crawlers), do not proceed. Take the portal you just came from to return to the previous room, then enter it again to reset the maze.
+# Reaching the clearing: upon crossing the final western portal from the room with 3 crawlers, you will enter the Sanguine Glade. You'll know you've reached the right spot when you see a large [[sanguine evil bloodwood tree]].
+
+==Drops==
+{{DropLogProject|kills=2000}}
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Vampyrism gloves|quantity=1|rarity=Very Rare}}
+{{DropsLine|name=Tainted seed|quantity=1|rarity=Very Rare}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=500-600|rarity=12/128|approx=y|gemw=No}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Bogwart spore|quantity=1|approx=y|rarity=9/128}}
+{{DropsTableBottom}}
+{{AllotmentSeedDropTableIntro|17/128}}
+{{DropsTableHead}}
+{{AllotmentSeedDropTable|17/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|13/128}}
+{{DropsTableHead}}
+{{HerbDropTable|13/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Blood rune|quantity=1|approx=y|rarity=8/128}}
+{{DropsLine|name=Mud rune|quantity=2-5|approx=y|rarity=8/128}}
+{{DropsLine|name=Nature rune|quantity=3-5|approx=y|rarity=5/128}}
+{{DropsLine|name=Blood rune|quantity=5-10|approx=y|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Supplies===
+{{DropsTableHead}}
+{{DropsLine|name=Claret crab|quantity=1|approx=y|rarity=10/128}}
+{{DropsLine|name=Hogfish|quantity=1|approx=y|rarity=11/128}}
+{{DropsLine|name=Snape grass|quantity=1 (noted)|approx=y|rarity=9/128}}
+{{DropsLine|name=Congealed blood|quantity=1-3|approx=y|rarity=8/128}}
+{{DropsLine|name=Prayer potion (1)|quantity=1|approx=y|rarity=5/128}}
+{{DropsLine|name=Oaken key|quantity=1|approx=y|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem rare drop table===
+{{GemDropTable|8/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sanguine matter|quantity=2|approx=y|rarity=1/10}}
+{{DropsLine|name=Sanguine bark|quantity=1|approx=y|rarity=1/20|raritynotes={{DropNote|Only dropped during [[Bogolin Dichromacy]], before making the [[Reap 'n' Creep stew]].}}}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|approx=y|rarity=1/100}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=77}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 226.5/1000
+|green = 62/1000
+|crimson = 33/1000
+|blue = 7.5/1000
+}}
+
+==Achievements==
+* {{Achievement|Bogolin Dichromacy}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Part II out now!|date=28 September 2026}}
+** Added to game.
+}}
+
+{{stub}}

@@ -1,0 +1,199 @@
+{{Infobox Monster
+|name = Super Cow
+|image = [[File:Cow (2).png|250px]]
+|release = [[27 July]] [[2015]]
+|update = Elite Monster Spawns
+|members = No
+|options = Attack
+|examine = This is a particularly mean looking cow.
+|level = 5
+|lifepoints = 1650
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 44
+|slayercat = Cows
+|assigned_by = Turael, Spria
+|max_melee = 80
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 4
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 40
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 140
+|defence = 4
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion=Asgarnia, Misthalin, Havenhythe, Kandarin
+|id = 21497
+}}
+A '''Super Cow''' is an [[elite monster|elite version]] of the [[cow]]. If on a [[Slayer assignment]], a Super Cow is guaranteed to spawn except if it is assigned by [[Spria]]. Otherwise, elite monsters have a spawn rate of 1 in 1,000.{{Source needed}} Elite spawn rates can be further increased with the use of [[fellstalk incense stick]]s.
+
+Using a [[meat tenderiser]] on it will complete the [[Beating Your Meat]] achievement.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Astram Farm]]
+|lvls=2
+|mem=no
+|mapID=28
+|npcid:14997,x:2882,y:3490|npcid:14997,x:2883,y:3482|npcid:14999,x:2885,y:3486
+|npcid:14998,x:2885,y:3491|npcid:14998,x:2886,y:3483|npcid:14999,x:2887,y:3489
+|npcid:14997,x:2888,y:3486
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Crafting Guild]]
+|lvls=2
+|mem=no
+|mapID=28
+|npcid:81,x:2945,y:3270|npcid:81,x:2946,y:3272|npcid:14998,x:2946,y:3275
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Falador farm]]
+|lvls=2
+|mem=no
+|mapID=28
+|npcid:81,x:3027,y:3307|npcid:81,x:3029,y:3305|npcid:1767,x:3029,y:3312
+|npcid:397,x:3030,y:3300|npcid:81,x:3033,y:3305|npcid:81,x:3037,y:3306
+|npcid:397,x:3040,y:3311
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Lumbridge]]
+|lvls=2
+|mem=no
+|mapID=28
+|npcid:12365,x:3254,y:3255|npcid:12363,x:3254,y:3258|npcid:12362,x:3254,y:3262
+|npcid:12362,x:3258,y:3260|npcid:12363,x:3261,y:3259|npcid:12365,x:3243,y:3295
+|npcid:12363,x:3244,y:3289|npcid:12362,x:3247,y:3284|npcid:12362,x:3252,y:3288
+|npcid:12363,x:3255,y:3278|npcid:12365,x:3256,y:3292|npcid:12362,x:3258,y:3265
+|npcid:12365,x:3261,y:3270|npcid:12362,x:3261,y:3282|npcid:12363,x:3261,y:3292
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Marigold Farm]]
+|lvls=2
+|mem=no
+|npcid:81,x:4230,y:3296|npcid:81,x:4235,y:3294|npcid:81,x:4233,y:3292
+|npcid:14998,x:4230,y:3290
+|requirements={{QuestIcon|Visions of Havenhythe}} (partial)
+|leagueRegion=Havenhythe
+}}
+{{LocLine
+|loc=[[Mill Lane Mill]]
+|lvls=2
+|mem=no
+|mapID=28
+|npcid:12362,x:3154,y:3325|npcid:12363,x:3160,y:3318|npcid:12365,x:3173,y:3323
+|npcid:12362,x:3197,y:3320|npcid:12365,x:3155,y:3337|npcid:12362,x:3156,y:3332
+|npcid:12363,x:3156,y:3343|npcid:12365,x:3167,y:3333|npcid:12362,x:3169,y:3339
+|npcid:12365,x:3180,y:3338|npcid:12363,x:3182,y:3331|npcid:12363,x:3197,y:3331
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Sinclair Mansion]]
+|lvls=2
+|mem=yes
+|mapID=28
+|npcid:81,x:2733,y:3561
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Yanille]]
+|lvls=2
+|mem=yes
+|mapID=28
+|npcid:81,x:2580,y:3117|npcid:81,x:2582,y:3122|npcid:81,x:2588,y:3119
+|npcid:81,x:2604,y:3114
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Zanaris]]
+|lvls=2
+|mem=yes
+|mapID=1
+|npcid:3309,x:2435,y:4442|npcid:3309,x:2439,y:4457|npcid:3309,x:2441,y:4448
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Cowhide|quantity=10|rarity=Always}}
+{{DropsLine|name=Raw beef|quantity=5|rarity=Always}}
+{{DropsLine|name=Coins|quantity=5000|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Long  bone|quantity=1|rarity=1/400|members=yes}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5000|members=yes}}
+{{DropsLineEffigy|level=5|members=yes}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineMimic|level=5|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+Charms will only be dropped if the achievement [[Works Like a Charm]] has been completed or if the Burthorpe [[Achievement Paths|achievement path]] has been toggled off.
+
+{{CharmDropTable
+|f2p=yes
+|quantity = 1
+|gold = 9.953/1000
+|green = 39.813/1000
+|crimson = 2.488/1000
+|blue = 0.498/1000
+}}
+
+==Achievements==
+* {{Achievement|Beating Your Meat}}
+
+==Transcript==
+{{Hastranscript|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=hidden|update=September Mobile Update|date=2 September 2019}}
+** Super Cows have been graphically updated.
+
+* {{UL|type=update|update=Elite Monster Spawns|date=27 July 2015}}
+** Added to game.
+}}
+
+==Trivia==
+* When asked to create an origin for the super cow on the spot, [[Mod Osborne]] jokingly stated that it was created from a normal [[cow]] eating some leaves of [[Brassica Prime]].{{CiteVideo|url=https://www.youtube.com/watch?v=JvXAB5r9OZA&t=643|title = RuneScape Developer Q&A - ft. Mod Osborne|accessdate=5 January 2022|author=Jagex|site=YouTube|date=28 July 2015|timestamp=10:43}}
+* The Super Cow has a unique name and lacks the common prefixes and suffixes of other elite monsters.
+
+==References==
+{{Reflist}}
+
+{{Elite monster}}

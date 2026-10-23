@@ -1,0 +1,93 @@
+{{Havenhythe content}}
+{{Infobox Monster
+|name = Wolf
+|image = [[File: Wolf (Havenhythe).png]]
+|release = [[24 March]] [[2026]]
+|update = Havenhythe Out Now
+|members = No
+|options = Attack, Examine
+|race = 
+|examine = Not man's best friend.
+|level = 11
+|lifepoints = 1550
+|experience = 77.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 
+|slayxp = 23
+|slayercat = Wolves
+|assigned_by = 
+|max_melee = 200.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 10
+|ranged = 1
+|magic = 1
+|necromancy = 
+|acc_melee = 102
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 160
+|defence = 6
+|weakness = Water
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = 
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = 
+|id = 32653
+|leagueRegion=Havenhythe}}
+'''Wolves''' native to Havenhythe can be found in the [[Highweald Forest]], along with one spawn appearing in the small forest west of [[Amberfell]]. Outside of their unique fur colour, they share little difference from the standard [[wolves]] found across Gielinor. 
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Highweald Forest]]
+|lvls = 11
+|mem = No
+|requirements = {{QuestIcon|Visions of Havenhythe}} (partial)
+|npcid:32653,x:4173,y:3463|npcid:32653,x:4194,y:3463|npcid:32653,x:4167,y:3461
+|npcid:32653,x:4188,y:3458|npcid:32653,x:4198,y:3457
+|leagueRegion = Havenhythe
+}}
+{{LocLine
+|loc = [[Amberfell]] forest
+|lvls = 11
+|mem = Yes
+|requirements = {{QuestIcon|Secrets of Amberfell}} (partial)
+|npcid:32653,x:4399,y:3399
+|leagueRegion = Havenhythe
+}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw wolf meat|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Uncover the Secrets of Amberfell|date=1 June 2026}}
+** Added to [[Amberfell]] Forest.
+
+* {{UL|type=update|update=Havenhythe Out Now|date=23 March 2026}}
+** Added to game.
+}}
+
+{{Amberfell}}
+{{Highweald Forest}}
+{{Wolves}}

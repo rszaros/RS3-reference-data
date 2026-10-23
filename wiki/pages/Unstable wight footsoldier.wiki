@@ -1,0 +1,58 @@
+{{Infobox Monster
+|name = Unstable wight footsoldier
+|image = [[File:Unstable wight footsoldier.png|200px]]
+|release = [[19 December]] [[2016]]
+|update = Sliske's Endgame - Frostworld Part 2
+|members = Yes
+|options = Attack
+|examine = One of Sliske's wights.
+|level = 91
+|lifepoints = 5525
+|experience = 0.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ghosts, Undead
+|max_melee = 288
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|speed = 4
+|attack = 60
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1486
+|defence = 70
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 55
+|aff_magic = 55
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 23835
+|leagueRegion=Desert&misthalin}}
+'''Unstable wight footsoldiers''' are monsters fought during [[Sliske's Endgame]]. They are summoned by [[Sliske]] toward the end of the first wave of the combat section at the end of the quest. They are the strongest enemies in the wave, and will explode upon death, dealing damage to all adjacent targets (the player and other wights).
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Sliske's Endgame - Frostworld Part 2|date=19 December 2016}}
+** Added to game.
+}}
+
+{{Sliske's Endgame}}
+{{Wights}}
+[[Category:Sliskeans]]
+[[Category:Quest monsters]]

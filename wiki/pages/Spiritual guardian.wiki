@@ -1,0 +1,84 @@
+{{Infobox Monster
+|name = Spiritual guardian
+|image = [[File:Spiritual guardian.png|150px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark
+|examine = The spiritual remains of a defender of the dungeons.
+|level = 82
+|lifepoints = 10600
+|experience = 530.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 63
+|slayxp = 239.8
+|slayercat = Ghosts, Creatures of Daemonheim
+|max_melee = 236
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 65
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1299
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 928
+|defence = 53
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id = 10700
+|leagueRegion = Wilderness
+}}
+[[File:Spiritual guardian icon.png|left]]
+'''Spiritual guardians''' are [[Slayer]] monsters within [[Daemonheim]]. They require a Slayer level of 63 to kill. They can be encountered on Furnished, Abandoned, Occult, and Warped floors, but encounters are uncommon. They are the only monster that can drop the [[protector's ward]] and [[guardian's ward]] shields. As with all slayer monsters within Daemonheim, an encounter is more likely if the party size and floor size is bigger. Contrary to popular belief, they are '''not''' affected by the [[shadow silk hood]].
+
+==Drops==
+===Monster-specific===
+{{DropsTableHead}}
+{{DropsLine|name=Protector's ward|quantity=1|rarity=Common|gemw=no}}
+{{DropsLine|name=Guardian's ward|quantity=1|rarity=Rare|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (12 July 2011)|date=12 July 2011}}
+** Dungeoneering spiritual guardians are once again aggressive.
+
+* {{UL|type=update|update=Game Update (19 April 2012)|date=19 April 2012}}
+** Increased frequency of Slayer creatures in Dungeoneering.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+==Trivia==
+*They appear to be spiritual versions of [[forgotten warrior]]s, which makes them similar to [[Spiritual warrior]]s outside of [[Daemonheim]].
+* When killed, they make a high-pitched "ping" sound.
+
+{{Dungeoneering monsters}}
+{{Slayer monsters}}

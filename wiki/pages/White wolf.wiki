@@ -1,0 +1,131 @@
+{{External|os|rsc=White wolf}}
+{{otheruses|standard white wolves|those found in [[Burthorpe]] and [[Taverley]]|White wolf (Burthorpe)}}
+{{Infobox Monster
+|name = White wolf
+|image = [[File:Wolf25.png|151px]]
+|release = [[27 February]] [[2002]]
+|update = Latest RuneScape News (27 February 2002)
+|members = Yes
+|actions = Attack
+|examine = A vicious mountain wolf.
+|level = 12
+|lifepoints = 1650
+|aggressive = Yes
+|slaylvl = 1
+|slayxp = 12.6
+|slayercat = Wolves
+|assigned_by = Turael, Mazchna, Vannaka
+|max_melee = 220
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 11
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 113
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 171
+|defence = 7
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 97
+|leagueRegion=Kandarin, Asgarnia}}
+A '''white wolf''' is a wolf found on the west side of [[White Wolf Mountain]]. It can be dangerous for inexperienced players, because they are aggressive. They can sometimes be a nuisance due to the fact that they are on the path from [[Taverley]] to [[Catherby]]. They can easily kill a player by sheer number. Its bones can be used with a [[chisel]] to create [[wolf bone arrowheads]] for use in [[Big Chompy Bird Hunting]].
+
+With the [[Update:Troll Warzone|Troll Warzone update]] all the white wolves that were on the east side of White Wolf Mountain were replaced with [[Adolescent White wolf|adolescent white wolves]].
+
+According to [[Armies of Gielinor]], they were the first race to be brought in by Guthix.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[White Wolf Mountain]]
+|lvls=12
+|mem=yes
+|mapID=28
+|npcid:97,x:2831,y:3472
+|npcid:97,x:2834,y:3470
+|npcid:97,x:2837,y:3463
+|npcid:97,x:2840,y:3458
+|npcid:97,x:2831,y:3494
+|npcid:97,x:2833,y:3498
+|npcid:97,x:2837,y:3494
+|npcid:97,x:2849,y:3477
+|npcid:97,x:2850,y:3472
+|leagueRegion = Kandarin, Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw wolf meat|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=12}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=12}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 50.205/1000
+|green = 25.102/1000
+|crimson = 100.409/1000
+|blue = 3.347/1000
+}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=White wolf (2004).png|name=White wolf}}
+|{{GUL|date=|update=|img=White wolf old.png|name=White wolf}}
+|{{GUL|date=|update=|img=Wolf25.png|name=White wolf}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** White wolf are removed from [[Wilderness Agility Course]] and [[Wilderness]].
+
+* {{UL|type=patch|update=Patch_Notes_(20 October 2014)|date=20 October 2014}}
+** A bark sound effect has been added to white wolves.
+
+* {{UL|type=patch|update=Patch Notes (22 April 2014)|date=22 April 2014}}
+**Some variations to auto-attack animations have been added for short swords, staves and bows.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+{{Wolves}}

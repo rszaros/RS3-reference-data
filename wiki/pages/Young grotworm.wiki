@@ -1,0 +1,164 @@
+{{Otheruses|level 28 grotworms|other types of grotworms|Grotworm (disambiguation)}}
+{{Infobox Monster
+|name = Young grotworm
+|image = [[File:Young grotworm.png|250px]]
+|release = [[22 May]] [[2012]]
+|update = Song from the Depths
+|members = No
+|actions = Attack
+|examine = A disgusting worm.
+|level = 28
+|lifepoints = 1650
+|experience = 82.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19
+|slayercat = Grotworms
+|assigned_by = Turael, Mazchna, Vannaka, Chaeldar, Sumona, Duradel, Kuradal, Morvran
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 400
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 20
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 216
+|acc_necromancy = 0
+|armour = 316
+|defence = 20
+|weakness = Bolts
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 15461
+|leagueRegion=Asgarnia}}
+[[File:Grotworm icon.png|left]]
+'''Young grotworms''' are creatures found in the top level of the [[Grotworm Lair]] north-east of [[Rimmington]] near the [[White Knight Camp]]. They are the only monsters that drop [[coral bolts]].
+
+They have a very small range of aggression and will only attack players if they come right next to them, similar to [[living rock creatures]]. They attack with magic and melee, however, they only use magic when the player is out of melee range, and only use melee when the player is next to them.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Grotworm Lair]]
+|lvls=28
+|mem=No
+|mapID=43
+|npcid:15461,x:1094,y:6358|npcid:15461,x:1100,y:6364|npcid:15461,x:1107,y:6357
+|npcid:15461,x:1113,y:6367|npcid:15461,x:1115,y:6351|npcid:15461,x:1117,y:6362
+|npcid:15461,x:1117,y:6373|npcid:15461,x:1121,y:6345|npcid:15461,x:1122,y:6366
+|npcid:15461,x:1123,y:6374|npcid:15461,x:1124,y:6353|npcid:15461,x:1126,y:6360
+|npcid:15461,x:1130,y:6367|npcid:15461,x:1133,y:6358|npcid:15461,x:1135,y:6372
+|npcid:15461,x:1138,y:6363|npcid:15461,x:1139,y:6353|npcid:15461,x:1144,y:6360
+|npcid:15461,x:1144,y:6371|npcid:15461,x:1146,y:6378|npcid:15461,x:1148,y:6350
+|npcid:15461,x:1150,y:6366|npcid:15461,x:1154,y:6354|npcid:15461,x:1154,y:6374
+|npcid:15461,x:1156,y:6366|npcid:15461,x:1159,y:6379|npcid:15461,x:1162,y:6356
+|npcid:15461,x:1163,y:6373|npcid:15461,x:1166,y:6351|npcid:15461,x:1167,y:6365
+|npcid:15461,x:1170,y:6380|npcid:15461,x:1171,y:6360|npcid:15461,x:1173,y:6368
+|npcid:15461,x:1174,y:6353|npcid:15461,x:1177,y:6376|npcid:15461,x:1179,y:6368
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Mind rune|quantity=8|rarity=6/100}}
+{{DropsLine|name=Water rune|quantity=8|rarity=6/100}}
+{{DropsLine|name=Earth rune|quantity=8|rarity=7/100}}
+{{DropsLine|name=Nature rune|quantity=1|rarity=9/100}}
+{{DropsLine|name=Coral bolts|quantity=20|rarity=10/100|gemw=No}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Trout|quantity=2|rarity=5/100}}
+{{DropsLine|name=Attack potion (1)|quantity=1|rarity=3/100}}
+{{DropsLine|name=Strength potion (1)|quantity=1|rarity=3/100}}
+{{DropsTableBottom}}
+
+===Spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Iron stone spirit|quantity=1|rarity=7/100}}
+{{DropsLine|name=Coal stone spirit|quantity=1|rarity=7/100}}
+{{DropsLine|name=Silver stone spirit|quantity=1|rarity=7/100}}
+{{DropsLine|name=Wood spirit|quantity=3-4|rarity=6/100}}
+{{DropsLine|name=Maple wood spirit|quantity=3|rarity=5/100}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/350|raritynotes={{DropNote|Rolls separately, first.}}}}
+{{DropsLine|name=Coins|quantity=100|rarity=9/100}}
+{{DropsLine|name=Flax|quantity=4 (noted)|rarity=7/100}}
+{{DropsLine|name=Royal cape|quantity=1|rarity=3/100}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=28|members=yes}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineMimic|level=28}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|members=yes
+|quantity = 1
+|gold = 52.488/1000
+|green = 10.498/1000
+|crimson = 4.199/1000
+|blue = 1.049/1000
+}}
+
+==Achievement==
+* {{Achievement|Guardian of the Realm}} 
+** [[Royal cape]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Shooting Star Refresh - This Week In RuneScape|date=16 December 2024}}
+** Replaced [[bronze javelin]] with [[Wood spirit|normal wood spirits]].
+
+* {{UL|type=patch|update=Patch Notes (19 August 2019)|date=19 August 2019}}
+** Grotworms are able to damage the player once again.
+
+* {{UL|type=hotfix|update=Patch Notes (16 October 2017)|date=9 October 2017}}
+** Members item drops on Young grotworms have been replaced with five bronze javelins, two trout or two anchovies.
+
+* {{UL|type=update|update=Song from the Depths|date=22 May 2012}}
+** Added to game.
+}}
+
+==Trivia==
+* Young grotworms used to be aggressive to all players regardless of combat level, similar to monsters in the [[Wilderness]]. This was changed with the [[Evolution of Combat]].
+{{QBD}}
+[[Category:NPCs that can move at crawling speed]]

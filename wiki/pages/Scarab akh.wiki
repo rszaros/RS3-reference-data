@@ -1,0 +1,137 @@
+{{Otheruses|the soul devourer variant|the corrupted variant|Corrupted scarab}}
+{{Infobox Monster
+|name = Scarab akh
+|image = [[File:Scarab akh.png|230px]]
+|release = [[5 June]] [[2017]]
+|update = Menaphos - The Gates are Open
+|members = Yes
+|options = Attack
+|examine = A scarab under the control of the Devourer.
+|level = 122
+|lifepoints = 22000
+|experience = 1100.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 109
+|slayxp = 715
+|slayercat = Soul devourers, Scabarites
+|assigned_by = Sumona, Kuradal, Morvran, Laniakea
+|max_melee = 921
+|max_ranged = 921
+|max_magic = 921
+|max_necromancy = 0
+|max_spec = N/A
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 96
+|ranged = 96
+|magic = 96
+|necromancy = 1
+|acc_melee = 2517
+|acc_ranged = 2517
+|acc_magic = 2517
+|acc_necromancy = 0
+|armour = 1924
+|defence = 80
+|weakness = Fire
+|susceptibility = Keris, Consecrated keris
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = no
+|immune_to_stun = no
+|immune_to_drain = no
+|id = 24601
+|leagueRegion=Desert}}
+[[File:Scarab akh icon.png|left]]
+A '''Scarab akh''' is a [[Slayer]] monster that requires level 109 [[Slayer]] to kill. A [[feather of Ma'at]] is required to complete each kill. They can be found in the [[Sophanem Slayer Dungeon]]. The [[Slayer master]] [[Sumona]] has a high chance of assigning them.{{CiteForum|author = Mod Shauny|url = http://services.runescape.com/m=forum/l=0/sl=0/forums.ws?15,16,160,65917986|title = Patch Notes - 05/06|forum = Recent Game Updates|postdate = 5 June 2017|archiveurl=https://reldo.runescape.wiki/i/25809436|archivedate=29 June 2017}}
+
+Their attacks have a chance of applying [[Vulnerability]], which is accompanied with the message {{RSFont|The scarab bites you, temporarily weakening you.}}
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Sophanem Slayer Dungeon]]
+|lvls=122
+|mem=yes
+|mapID=718
+|npcid:24601,x:3338,y:9156|npcid:24601,x:3342,y:9157|npcid:24601,x:3343,y:9160
+|npcid:24601,x:3347,y:9163|npcid:24601,x:3351,y:9159|npcid:24601,x:3352,y:9163
+|npcid:24601,x:3355,y:9159
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}} This value assumes you are not on slayer task, have auto-loot settings on and you don't hold [[vital spark drop enhancer]] or [[Sophanem slayer dungeon drop enhancer]]. It also doesn't calculate value of [[rare drop table]] drops. With these average drop value can be significantly higher.
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Small spiky adamant salvage|quantity=1|rarity=12/128}}
+{{DropsLine|name=Large plated rune salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2500|rarity=44/128}}
+{{DropsLine|name=Coins|quantity=3500|rarity=36/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Corrupted magic logs|quantity=8 (noted)|rarity=16/128}}
+{{DropsLine|name=Summoning focus|quantity=2|rarity=10/128}}
+{{DropsLine|name=Potato cactus|quantity=6 (noted)|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/150}}
+
+===Tertiary===
+Regardless of chest auto-loot settings, all tertiary drops, with the exception of [[vital spark]]s, are dropped to the ground.
+
+{{DropsTableHead}}
+{{DropsLineSophanemSlayerDungeonTertiary|slayer_level=109}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=99/25600|raritynotes={{DropNote|name=elite|There's a 1% chance an elite clue scroll will be upgraded to a master clue scroll.}}}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=1/25600|raritynotes={{DropNote|name=elite}}}}
+{{DropsLineEffigy|level=122}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=122}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.579/1000
+|green = 44.79/1000
+|crimson = 313.527/1000
+|blue = 8.958/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (24 July 2017)|date=24 July 2017}}
+** Keris now works on scarab akhs.
+
+* {{UL|type=update|update=Menaphos - The Gates are Open|date=5 June 2017}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Sophanem Slayer Dungeon}}
+{{Slayer monsters}}
+[[Category:Amascut]]
+[[Category:Bugs]]
+[[pt:Akh escaravelho]]

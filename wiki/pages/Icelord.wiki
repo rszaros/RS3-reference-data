@@ -1,0 +1,122 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Ranged
+|version2 = Melee (1)
+|version3 = Melee (2)
+|version4 = Melee (3)
+|name = Icelord
+|image1 = [[File:Icelord (ranged).png]]
+|image2 = [[File:Icelord.png]]
+|image3 = [[File:Icelord (melee, 2).png]]
+|image4 = [[File:Icelord (melee, 3).png]]
+|release = [[29 January]] [[2007]]
+|update = What's black and white and goes green when it's finished?
+|members = Yes
+|options = Attack
+|examine = Sturdy cold being.
+|level = 42
+|lifepoints = 1500
+|experience = 75.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 60
+|slayercat = Ice warriors
+|assigned_by = vannaka, mazchna
+|max_melee1 = 90
+|max_melee2 = 120
+|max_ranged1 = 120
+|max_ranged2 = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|style1 = ranged
+|primarystyle = melee
+|primarystyle1 = ranged
+|speed = 4
+|attack = 30
+|attack1 = 22
+|ranged = 0
+|ranged1 = 30
+|magic = 0
+|necromancy = 1
+|acc_melee = 454
+|acc_melee1 = 225
+|acc_ranged = 0
+|acc_ranged1 = 454
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 454
+|defence = 30
+|weakness1 = Stab
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_melee1 = 70
+|aff_ranged = 50
+|aff_ranged1 = 60
+|aff_magic = 70
+|aff_magic1 = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 5452
+|id2 = 5453
+|id3 = 5454
+|id4 = 5455
+|leagueRegion = Fremennik
+}}
+'''Icelords''' are icy beings that live inside the [[Iceberg]], and were found when [[Pescaling Pax]] moved much of the [[Penguin (race)|Penguin]] population to the Iceberg to prepare for the invasion of [[Gielinor]]. They have four arms, and are quite adept in using these to pummel their enemies into submission, while some prefer to hurl large icicles at adventurers. Pescaling Pax intends to use these as a strike force when they do invade the mainland.
+
+Icelords are first encountered during the [[Cold War]] quest. They are in a cage on the penguin's Iceberg that is explored during the quest. After the quest is finished, they can be accessed by entering the "Ice block" in the northwest section of the iceberg, and re-entering the cage.
+
+Inside the cage, there are four Icelords which use [[melee]], and one wielding icicles which uses [[Ranged]]. They are weak to fire-based [[Magic]] spells and [[slash]] attacks, so it is recommended to use [[Fire Bolt]] or better for the melee one and dragon metal or better for the ranged one.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Iceberg]]
+|lvls=42
+|mem=yes
+|mapID=14
+|npcid:5452,x:2641,y:10426|npcid:5453,x:2644,y:10424|npcid:5454,x:2647,y:10425
+|npcid:5455,x:2650,y:10423
+|leagueRegion = Fremennik}}
+{{LocTableBottom}}
+
+==Slayer task==
+[[File:Icelords.png|thumb|Four icelords have been captured by the KGP.]]
+
+The main reason for making the trip back to fight them is because they can be used as a replacement for [[Ice warrior]]s during a [[Slayer|Slayer task]]. They provide more experience compared to Ice warriors, giving a slight boost in experience over the task. It is recommended that players bring a half-inventory of inexpensive, yet high-healing food, such as [[cake]]. These creatures do not hit hard or frequently, but players should still be wary of the accumulation.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** 'Weak' style: 65 → 70
+*** Same style: 55 → 60
+*** 'Strong' style: 45 → 50
+
+* {{UL|type=update|update=What's black and white and goes green when it's finished?|date=29 January 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* Each of the icelords are unique from another in that they have different beards and eye colour. Three of them use bare fists for melee while one holds icicles used for ranged.
+
+{{Cold War}}
+[[Category:Quest monsters]]

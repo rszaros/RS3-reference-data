@@ -1,0 +1,80 @@
+{{Needs image|character models}}
+{{Infobox Monster
+|version1 = Story mode
+|version2 = Normal mode (siege)
+|version3 = Normal mode (boss)
+|version4 = Hard mode
+|name = Skeleton warrior
+|image = 
+|release = [[20 November]] [[2023]]
+|update = Vorkath, Battle for Forinthry - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|race = Skeleton
+|examine = You can see right through him.
+|level = 76
+|level3 = 97
+|level4 = 97
+|lifepoints1 = 7650
+|lifepoints2 = 15300
+|lifepoints3 = 18000
+|lifepoints4 = 36000
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp =
+|slayercat = Skeletons, Undead
+|max_melee1 = 300
+|max_melee2 = 1005
+|max_melee3 = 1875
+|max_melee4 = 1875
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack = 60
+|attack3 = 75
+|attack4 = 75
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 
+|acc_ranged = 
+|acc_magic = 
+|acc_necromancy = 
+|abilities =
+|armour = 850
+|armour3 = 1299
+|armour4 = 1299
+|defence = 50
+|defence3 = 65
+|defence4 = 65
+|weakness = Earth
+|susceptibility = undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain =
+|restriction = 
+|leagueRegion = Misthalin
+|id = 30651, 30680
+}}
+The '''skeleton warriors''' are [[monster]]s fought during the [[Zemouregal & Vorkath]] battle in the [[Zemouregal & Vorkath#Siege phase|siege phase]].
+
+They attack the fort from the northern [[place of power]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Vorkath, Battle for Forinthry - This Week In RuneScape|date=20 November 2023}}
+** Added to game.
+}}
+
+{{Zemouregal & Vorkath}}
+{{Battle of Forinthry}}

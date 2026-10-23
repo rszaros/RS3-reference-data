@@ -1,0 +1,189 @@
+{{Redirect|TW|the ability|Tuska's Wrath}}
+{{Infobox Monster
+|name = Tormented wraith
+|image = [[File:Tormented wraith.png|100px]]
+|release = [[15 September]] [[2008]]
+|update = Summer's End
+|members = Yes
+|options = Attack, Examine
+|examine = The wraith of a long-dead prisoner.
+|level = 42
+|lifepoints = 4500
+|experience = 225.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 52
+|slayercat = Ghosts, Undead
+|assigned_by = turael, mazchna, Vannaka
+|max_melee = 270
+|max_ranged = 0
+|max_magic = 120
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 22
+|ranged = 0
+|magic = 30
+|necromancy = 1
+|acc_melee = 628
+|acc_ranged = 0
+|acc_magic = 628
+|acc_necromancy = 0
+|armour = 628
+|defence = 30
+|weakness = Bolts
+|susceptibility = Salve, Ghost
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 8125
+|leagueRegion=Wilderness}}
+The '''tormented wraith''' is the spirit of a prisoner who was tortured and killed long ago by the [[Kinshra]] (Black Knights). It resides in the [[Spirit Realm]] and can be accessed through the invisible portal at the centre of the [[Dark Warriors' Fortress]] using [[Jennica's ring]]. To access the portal, equip Jennica's ring, right click, and use the "Operate" function while standing in front of the hanging skeleton. Completion of [[Summer's End]] is required to access this area.
+
+The wraith can only be attacked if you wear either [[Black equipment#Armour|regular or elite black armour]] (helm, body, and legs) or [[Black Knight captain's armour]], and have equipped a [[Black equipment#Weapons|black item]] in both the main- and off-hand weapon slots (a 2H sword will work). Only base armour without trim will work. The bugged black equipment received during [[The Void Stares Back]] does not work either. While in combat with the tormented wraith, players cannot change their equipped items.
+
+The tormented wraith is the only monster besides the [[Corporeal Beast]] to drop [[holy elixir]]s, which are used to make [[blessed spirit shield]]s. It can also drop regular [[spirit shield]]s and has a decent drop rate of [[blue charm]]s.
+
+Tormented wraiths count as a [[Ghosts (Slayer assignment)|ghosts Slayer assignment]]. Killing the wraith is one of the [[hard Wilderness achievements]], [[Cement His Torment]].
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Spirit Realm]]
+|lvls=42
+|mem=yes
+|requirements={{QuestIcon|Summer's End}} + Wear full black armour
+|mapID=429
+|npcid:8125,x:2847,y:4383
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Strategy==
+To access the area, [[Jennica's ring]] must be operated while worn. It doesn't need to be worn when fighting the tormented wraith.
+
+The tormented wraith is a moderately strong ghost with a weakness to [[bolts]]. To kill it, players will need to meet these requirements:
+* Have a full set of melee [[black armour]] consisting of a torso ([[Black chainbody|chainbody]] or [[Black platebody|platebody]]), legs ([[black platelegs|platelegs]] or [[Black plateskirt|plateskirt]]), and head ([[Black full helm|full helm]] or [[Black helm|helm]]). These can be substituted with [[Elite black armour|elite armour]] or [[Black Knight captain's armour]] but not [[black heraldic armour]], trimmed black armour, or the [[Dulcin (override)|Dulcin override]].
+* Have [[Black equipment#Weapons|black equipment]] to occupy both hand slots (a main-hand weapon and a shield, dual-wield weapons, or a two-handed weapon).
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Holy elixir|quantity=1|rarity=1/3000|altrarity=1/2500|raritynotes={{DropNote|1/2,500 with tier 2 [[luck]] or higher.}}}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black longsword|quantity=1|rarity=29/1024}}
+{{DropsLine|name=Off-hand black longsword|quantity=1|rarity=29/1024}}
+{{DropsLine|name=Black kiteshield|quantity=1|rarity=25/512}}
+{{DropsLine|name=Black full helm|quantity=1|rarity=28/512}}
+{{DropsLine|name=Black helm|quantity=1|rarity=30/512}}
+{{DropsLine|name=Black platebody|quantity=1|rarity=20/512}}
+{{DropsLine|name=Black chainbody|quantity=1|rarity=35/512}}
+{{DropsLine|name=Black platelegs|quantity=1|rarity=23/512}}
+{{DropsLine|name=Mithril dart|quantity=23|rarity=15/512}}
+{{DropsLine|name=Spirit shield|quantity=1|rarity=2/512}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Chaos rune|quantity=15|rarity=45/512}}
+{{DropsLine|name=Death rune|quantity=10|rarity=30/512}}
+{{DropsLine|name=Blood rune|quantity=7|rarity=25/512}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|50/512}}
+{{DropsTableHead}}
+{{HerbDropTable|50/512|rolls=2}}
+{{DropsTableBottom}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Iron stone spirit|quantity=50|rarity=20/512}}
+{{DropsLine|name=Adamantite stone spirit|quantity=3|rarity=15/512}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=60-950|rarity=60/512}}
+{{DropsLine|name=Oak plank|quantity=80 (noted)|rarity=30/512}}
+{{DropsLine|name=Prayer potion (3)|quantity=2|rarity=15/512}}
+{{DropsLine|name=Big bones|quantity=5|rarity=15/512}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineGhostlyEssence|quantity=1-2, 2-4|rarity=1/256|altrarity=1/96|raritynotes={{DropNote|While on an appropriate [[Slayer assignment]], there is a 1/96 chance to drop 2–4 ghostly essence.}}}}
+{{DropsLineGhosts|ectorarity=750|herbrarity=1024}}
+{{DropsLineEffigy|level=42}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=42}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 134.369/1000
+|green = 67.184/1000
+|crimson = 134.369/1000
+|blue = 214.99/1000
+}}
+
+==Achievements==
+* '''[[Wilderness achievements]]'''
+** ''[[Wilderness achievements#Hard achievements|Hard]]'' - {{Achievement|Cement His Torment}}
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=patch|update=Patch Notes (24 August 2015)|date=24 August 2015}}
+** Black crossbows and the black cane can now be used to attack the tormented wraith.
+
+* {{UL|type=patch|update=Patch Notes (21 December 2009)|date=21 December 2009}}
+** Adjusted the code so you can use black spears against tormented wraiths.
+
+* {{UL|type=update|update=Summer's End|date=15 September 2008}}
+** Added to game.
+}}
+
+==Trivia==
+[[File:Wraith safespot.png|thumb|The former safespot]]
+* It was once possible to fight the tormented wraith from a [[safespot]], but this was eventually removed. On [[2 September]] [[2009]], [[Jagex moderator|Mod Emilee]] confirmed that the removal was unintentional:
+{{cquote2|'''"Did you remove some of the safe spots on purpose?"'''
+
+No, they were affected by the game engine changes.
+
+We shall be investigating them on a case by case basis.|Mod Emilee}}
+* If killed while wearing a [[ghostspeak amulet]], the wraith will speak of his suffering and desire of vengeance against the [[Kinshra|Kinshra.]] Without the amulet, it merely reads as, "Woo wooo woo."
+
+==References==
+{{Reflist}}
+
+{{Ghost}}
+{{Summer's End}}
+[[Category:Bosses]]

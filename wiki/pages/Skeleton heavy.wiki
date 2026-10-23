@@ -1,0 +1,170 @@
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{External|os}}
+{{Infobox Monster
+|name = Skeleton heavy
+|image = [[File:Skeleton heavy.png|200px]]
+|release = [[3 July]] [[2007]]
+|update = Barbarian Training
+|members = Yes
+|options = Attack
+|examine = He's less heavy now.
+|level = 89
+|lifepoints = 3200
+|experience = 160.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 85.2
+|slayercat = Skeletons
+|assigned_by = Turael, Mazchna, Vannaka
+|max_melee = 256
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 64
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1264
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1264
+|defence = 64
+|weakness = Earth
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 6106
+|leagueRegion = Kandarin
+}}
+The '''Skeleton heavy''' can be found in the [[Ancient Cavern]]. It can appear when a player rummages a skeleton lying on the ground.
+
+As with all undead, they are weak to the [[Salve amulet]] as well as the [[Salve amulet (e)]].
+
+It wields a [[rune scimitar]] in combat and can occasionally drop it in the form of rune salvage.
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ancient Cavern]]
+|lvls=89
+|requirements = Partial completion of {{AchievementIcon|Barbarian Firemaking}}
+|mem=yes
+|mapID=36
+|
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Maple shortbow|quantity=1|rarity=3/123}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=1/123}}
+{{DropsLine|name=Steel knife|quantity=10|rarity=3/246}}
+{{DropsLine|name=Off-hand steel knife|quantity=10|rarity=3/246}}
+{{DropsLine|name=Steel dart|quantity=10|rarity=1/246}}
+{{DropsLine|name=Off-hand steel dart|quantity=10|rarity=1/246}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Death rune|quantity=5|rarity=5/123}}
+{{DropsLine|name=Blood rune|quantity=3|rarity=3/123}}
+{{DropsLine|name=Steel arrow|quantity=20|rarity=3/123}}
+{{DropsLine|name=Adamant arrow|quantity=5|rarity=2/123}}
+{{DropsLine|name=Silver bolts|quantity=5|rarity=3/123}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|5/123}}
+{{DropsTableHead}}
+{{HerbDropTable|5/123}}
+{{DropsTableBottom}}
+
+===Spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=3|rarity=5/123}}
+{{DropsLine|name=Silver stone spirit|quantity=3|rarity=5/123}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=7/123}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=2/123}}
+{{DropsLine|name=Yew wood spirit|quantity=4-5|rarity=12/123}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated iron salvage|quantity=1|rarity=13/123}}
+{{DropsLine|name=Small bladed steel salvage|quantity=1|rarity=7/123}}
+{{DropsLine|name=Tiny spiky steel salvage|quantity=1|rarity=5/123}}
+{{DropsLine|name=Tiny blunt steel salvage|quantity=1|rarity=2/123}}
+{{DropsLine|name=Small plated steel salvage|quantity=1|rarity=1/123}}
+{{DropsLine|name=Medium plated steel salvage|quantity=1|rarity=1/123}}
+{{DropsLine|name=Tiny plated mithril salvage|quantity=1|rarity=1/123}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=1/123}}
+{{DropsLine|name=Medium bladed adamant salvage|quantity=1|rarity=1/123}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=1/123}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=106|rarity=7/123|gemw=No}}
+{{DropsLine|name=Coins|quantity=142|rarity=10/123|gemw=No}}
+{{DropsLine|name=Coins|quantity=323|rarity=1/123|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Strength mix (2)|quantity=1|rarity=5/123}}
+{{DropsLine|name=Mithril grapple|quantity=2|rarity=3/123}}
+{{DropsLine|name=Sapphire ring|quantity=1|rarity=2/123}}
+{{DropsLine|name=Ancient page|quantity=1|rarity=1/32|gemw=no|alch=no|image=Ancient page (1).png}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/123}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Skeleton heavy old.png|name=Skeleton heavy}}
+|{{GUL|date=|update=|img=Skeleton heavy.png|name=Skeleton heavy}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Mid-Game Rebalance|date=20 July 2026}}
+** Retiered existing Shortbows, Longbows, Crossbows and 2h Crossbows. Drop tables and shop inventory containing items that have been retiered, where appropriate, are replaced with the new item for that range level instead.
+*** Yew shortbow → Maple shortbow
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Barbarian Training|date=3 July 2007}}
+** Added to game.
+}}
+
+{{Ancient cavern}}
+{{Skeleton}}
+{{Fremennik}}

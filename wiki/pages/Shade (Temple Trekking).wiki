@@ -1,0 +1,87 @@
+{{External|os}}
+{{Infobox Monster
+|name = Shade
+|image = [[File:Fiyr Shade (Temple Trekking).png|100px]]
+|release = [[28 March]] [[2006]]
+|update = Temple Trekking
+|members = Yes
+|options = Attack, Examine
+|examine = The shadowy remains of a long-departed soul.
+|level = 84
+|lifepoints = 6000
+|experience = 300.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 147
+|slayercat = Shades, Ghosts, Undead
+|max_melee = 240
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 60
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 1132
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1132
+|defence = 60
+|weakness = Fire
+|susceptibility = Salve, Gadderhammer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|leagueRegion = Morytania
+|id = 14054
+}}
+'''Shades''' are [[monsters]] that can be encountered in [[Temple Trekking]] while travelling along the hard route, which attempt to break into the houses of the three unafflicted people in [[Mort'ton]]. On occasion they have also been known to leave their catacombs to attack [[Temple Trekking|trekkers]] and [[Burgh de Rott Ramble|ramblers]] in the town above their dark burial place.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Fiyr remains|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Congealed blood|quantity=3-11|rarity=1/20}}
+{{DropsLineGhosts|ectorarity=1000|herbrarity=1024}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Temple Trekking|date=28 March 2006}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Temple Trekking}}
+{{Ghost}}

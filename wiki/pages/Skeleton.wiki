@@ -1,0 +1,597 @@
+{{External|rsc|os|wp=Skeleton (undead)}}
+{{Otheruses|the generic skeleton}}
+{{Infobox Monster
+|version1 = Level 15
+|version2 = Level 16
+|version3 = Level 32
+|version4 = Level 46
+|version5 = Level 51
+|version6 = Level 58
+|name = Skeleton
+|image1 = [[File:Skeleton (level 15).png|180px]]
+|image2 = [[File:Skeleton (level 16).png|180px]]
+|image3 = [[File:Skeleton (level 32).png|180px]]
+|image4 = [[File:Skeleton (level 46).png|180px]]
+|image5 = [[File:Skeleton (level 51).png|180px]]
+|image6 = [[File:Skeleton (level 58).png|180px]]
+|release1 = [[4 January]] [[2001]]
+|release2 = [[4 January]] [[2001]]
+|release3 = [[4 January]] [[2001]]
+|release4 = [[4 July]] [[2006]]
+|release5 = [[4 July]] [[2006]]
+|release6 = [[4 January]] [[2001]]
+|update1 = Runescape beta is now online!
+|update2 = Runescape beta is now online!
+|update3 = Runescape beta is now online!
+|update4 = Security and free-to-play update - the Stronghold of Security
+|update5 = Security and free-to-play update - the Stronghold of Security
+|update6 = Runescape beta is now online!
+|members = No
+|options = Attack
+|examine = Could do with gaining a few pounds.
+|leagueRegion1 = Asgarnia,Kandarin,Karamja,Misthalin,Tirannwn,Wilderness
+|leagueRegion2 = Misthalin
+|leagueRegion3 = Asgarnia,Kandarin,Karamja,Misthalin,Tirannwn,Wilderness
+|leagueRegion4 = Misthalin
+|leagueRegion5 = Misthalin,Wilderness
+|leagueRegion6 = Kandarin,Karamja,Misthalin
+|level1 = 15
+|level2 = 16
+|level3 = 32
+|level4 = 46
+|level5 = 51
+|level6 = 58
+|lifepoints1 = 550
+|lifepoints2 = 600
+|lifepoints3 = 1150
+|lifepoints4 = 5300
+|lifepoints5 = 5950
+|lifepoints6 = 2100
+|slaylvl = 1
+|slayxp1 = 8.8
+|slayxp2 = 9.2
+|slayxp3 = 13.0
+|slayxp4 = 59.2
+|slayxp5 = 70.8
+|slayxp6 = 29.6
+|aggressive1 = Yes
+|aggressive2 = No
+|aggressive3 = Yes
+|aggressive4 = No
+|aggressive5 = No
+|aggressive6 = No
+|poisonous = No
+|slayercat = Skeletons, Undead
+|max_melee1 = 44
+|max_melee2 = 48
+|max_melee3 = 92
+|max_melee4 = 660
+|max_melee5 = 740
+|max_melee6 = 168
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 11
+|attack2 = 12
+|attack3 = 23
+|attack4 = 33
+|attack5 = 37
+|attack6 = 42
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 213
+|acc_melee2 = 223
+|acc_melee3 = 354
+|acc_melee4 = 402
+|acc_melee5 = 471
+|acc_melee6 = 668
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 213
+|armour2 = 223
+|armour3 = 354
+|armour4 = 502
+|armour5 = 571
+|armour6 = 668
+|defence1 = 11
+|defence2 = 12
+|defence3 = 23
+|defence4 = 33
+|defence5 = 37
+|defence6 = 42
+|weakness1 = Earth
+|weakness2 = Earth
+|weakness3 = Earth
+|weakness4 = Water
+|weakness5 = Water
+|weakness6 = Earth
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Unarmed
+|dropversion2 = Unarmed
+|dropversion3 = Armed
+|dropversion4 = Unarmed
+|dropversion5 = Armed
+|dropversion6 = Armed
+|id1 = 90, 5332, 5333, 5334
+|id2 = 91, 5335, 5336
+|id3 = 92, 5337, 5338, 5339, 5340
+|id4 = 4384, 4385, 5365, 5366
+|id5 = 4386, 5367, 5368
+|id6 = 93, 5341
+}}
+[[File:Skeleton icon.png|left]]
+'''Skeletons''' are a common [[undead]] monster found all over [[Gielinor]]. Like [[zombies]], they are the result of a [[necromancer]] reanimating the bodies of the dead. As such, they are commonly found in tombs, graveyards and [[dungeons]].
+
+According to [[Azzanadra]], skeletons can also reanimate themselves should their burial site be desecrated, which is further supported when attempting to loot [[Skeleton (Ancient Cavern)|barbarian skeletons]] in the [[Ancient Cavern]].
+
+They are generally weak to magic, with most skeletons being especially vulnerable to [[Earth spells|earth]] or [[water spells]]. A [[salve amulet]] or [[salve amulet (e)]] will provide a damage and accuracy boost of +15% and +20% respectively against skeletons and other undead.
+
+==Locations==
+For specific skeletons located elsewhere, e.g. [[Skeleton (Lumbridge Catacombs)]], check: [[Skeleton (disambiguation)]].
+{{LocTableHead}}
+{{LocLine
+|loc=[[Crandor]]
+|lvls=32
+|mem=no
+|mapID=28
+|npcid:92,x:2820,y:3259|npcid:92,x:2824,y:3237|npcid:5337,x:2832,y:3234
+|npcid:5338,x:2840,y:3238|npcid:5339,x:2846,y:3249|npcid:5340,x:2850,y:3247
+|npcid:92,x:2850,y:3256|npcid:5338,x:2852,y:3260|npcid:5337,x:2854,y:3249
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Crandor and Karamja Dungeon]]
+|lvls=15, 32, 58
+|mem=no
+|mapID=13
+|npcid:90,x:288,y:173|npcid:5332,x:293,y:165|npcid:5334,x:299,y:164
+|npcid:5333,x:300,y:169|npcid:90,x:304,y:160|npcid:5338,x:270,y:249
+|npcid:92,x:272,y:253|npcid:92,x:274,y:242|npcid:5339,x:274,y:247
+|npcid:5337,x:274,y:250|npcid:5340,x:278,y:245|npcid:5341,x:280,y:220
+|npcid:93,x:280,y:230|npcid:5338,x:280,y:241|npcid:5341,x:281,y:235
+|npcid:93,x:282,y:224|npcid:93,x:283,y:237|npcid:93,x:284,y:220
+|npcid:5341,x:285,y:228
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Draynor Sewers]]
+|lvls=15, 32
+|mem=no
+|mapID=31
+|npcid:5338,x:3101,y:9671|npcid:92,x:3109,y:9675|npcid:90,x:3115,y:9674
+|npcid:5333,x:3123,y:9669
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Edgeville Dungeon]]
+|lvls=15, 16, 32, 58
+|mem=no
+|mapID=31
+|npcid:5336,x:3094,y:9889|npcid:91,x:3095,y:9899|npcid:91,x:3095,y:9909
+|npcid:5335,x:3096,y:9893|npcid:5336,x:3098,y:9906|npcid:5335,x:3099,y:9912
+|npcid:5332,x:3114,y:9910|npcid:92,x:3121,y:9908|npcid:5333,x:3130,y:9906
+|npcid:90,x:3132,y:9904|npcid:5332,x:3132,y:9908|npcid:5334,x:3132,y:9914
+|npcid:92,x:3134,y:9911|npcid:93,x:3101,y:9956|npcid:93,x:3104,y:9948
+|npcid:93,x:3104,y:9955|npcid:93,x:3108,y:9951|npcid:93,x:3108,y:9954
+|npcid:93,x:3111,y:9954|npcid:93,x:3112,y:9958|npcid:92,x:3140,y:9872
+|npcid:5334,x:3138,y:9874|npcid:5337,x:3139,y:9877|npcid:5340,x:3141,y:9869
+|npcid:5338,x:3141,y:9873|npcid:5339,x:3144,y:9869
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Glarial's Tomb]]
+|lvls=15, 32
+|mem=yes
+|mapID=501
+|npcid:92,x:2529,y:9841|npcid:5340,x:2530,y:9846|npcid:90,x:2538,y:9816
+|npcid:5339,x:2540,y:9813|npcid:5337,x:2543,y:9847|npcid:5337,x:2545,y:9822
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Ogre Enclave]]
+|lvls=15
+|mem=yes
+|mapID=572
+|npcid:5332,x:2576,y:9436|npcid:90,x:2579,y:9461|npcid:5334,x:2590,y:9437
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Senntisten Temple]]
+|lvls=15
+|mem=yes
+|mapID=442
+|npcid:5332,x:3142,y:5708|npcid:90,x:3145,y:5705|npcid:5333,x:3149,y:5707
+|npcid:5334,x:3150,y:5701|npcid:5334,x:3150,y:5709|npcid:90,x:3151,y:5704
+|npcid:5332,x:3151,y:5711|npcid:5333,x:3153,y:5710|npcid:90,x:3154,y:5708
+|npcid:5332,x:3156,y:5703
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Stronghold of Security#Sepulchre of Death (4th level)|Stronghold of Security]] (4th level)
+|lvls=46, 51
+|mem=no
+|mapID=24
+|npcid:5367,x:101,y:3|npcid:5368,x:102,y:5|npcid:4386,x:103,y:3
+|npcid:5367,x:103,y:7|npcid:4386,x:103,y:9|npcid:5368,x:104,y:4
+|npcid:5366,x:114,y:15|npcid:5366,x:116,y:22|npcid:4384,x:118,y:15
+|npcid:4384,x:118,y:24|npcid:4385,x:120,y:21|npcid:4385,x:121,y:16
+|npcid:4384,x:124,y:18|npcid:5366,x:125,y:18|npcid:5365,x:138,y:12
+|npcid:4385,x:140,y:13|npcid:5366,x:141,y:13|npcid:4384,x:142,y:16
+|npcid:4384,x:144,y:11|npcid:4384,x:145,y:8|npcid:4385,x:145,y:19
+|npcid:5366,x:146,y:5|npcid:4385,x:146,y:7|npcid:5365,x:147,y:11
+|npcid:4384,x:147,y:14|npcid:5365,x:148,y:6
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Taverley Dungeon]]
+|lvls=15, 32
+|mem=yes
+|mapID=17
+|npcid:5334,x:2882,y:9826|npcid:92,x:2884,y:9836|npcid:5334,x:2885,y:9819
+|npcid:5332,x:2885,y:9823|npcid:5332,x:2886,y:9812|npcid:5333,x:2886,y:9816
+|npcid:90,x:2887,y:9821
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Temple of Ikov (dungeon)]]
+|lvls=32, 58
+|mem=yes
+|mapID=509
+|npcid:93,x:2658,y:9820|npcid:93,x:2664,y:9831|npcid:93,x:2667,y:9824
+|npcid:93,x:2670,y:9822|npcid:93,x:2670,y:9828|npcid:93,x:2637,y:9891
+|npcid:5341,x:2641,y:9889|npcid:93,x:2645,y:9891|npcid:5341,x:2648,y:9890
+|npcid:93,x:2653,y:9892|npcid:5341,x:2657,y:9894|npcid:5341,x:2658,y:9888
+|npcid:93,x:2660,y:9885|npcid:93,x:2660,y:9890|npcid:92,x:2664,y:9877
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Underground Pass (dungeon)]]
+|lvls=15, 32
+|mem=yes
+|mapID=579
+|npcid:90,x:2371,y:9611|npcid:5337,x:2372,y:9607|npcid:5332,x:2375,y:9609
+|npcid:92,x:2380,y:9609|npcid:5339,x:2383,y:9605
+|leagueRegion = Tirannwn}}
+{{LocLine
+|loc=[[Varrock Sewers]]
+|lvls=16, 32
+|mem=no
+|mapID=31
+|npcid:92,x:3210,y:9908|npcid:5339,x:3211,y:9906|npcid:91,x:3249,y:9914
+|npcid:5335,x:3251,y:9916|npcid:5336,x:3254,y:9916|npcid:91,x:3270,y:9914
+|npcid:5335,x:3274,y:9913|npcid:91,x:3275,y:9909|npcid:5336,x:3275,y:9911
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Waterfall Dungeon]]
+|lvls=58
+|mem=yes
+|mapID=619
+|npcid:93,x:2586,y:9884|npcid:93,x:2588,y:9883|npcid:93,x:2589,y:9886
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Wilderness]] (north of [[Edgeville]])
+|lvls=15, 32
+|mem=no
+|mapID=28
+|npcid:90,x:3072,y:3531|npcid:5334,x:3074,y:3532|npcid:92,x:3081,y:3551
+|npcid:5332,x:3096,y:3559|npcid:5337,x:3102,y:3569|npcid:5338,x:3103,y:3567
+|npcid:5339,x:3104,y:3566|npcid:5333,x:3106,y:3548|npcid:5340,x:3106,y:3567
+|npcid:92,x:3106,y:3570|npcid:5334,x:3107,y:3528|npcid:90,x:3112,y:3538
+|npcid:5333,x:3116,y:3524|npcid:5332,x:3117,y:3532
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Wilderness]] ([[Boneyard]])
+|lvls=32
+|mem=no
+|mapID=28
+|npcid:92,x:3268,y:3688|npcid:5340,x:3269,y:3672|npcid:5338,x:3270,y:3681
+|npcid:5339,x:3275,y:3676|npcid:5337,x:3275,y:3686
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Wilderness (level 9) south-west mine]]
+|lvls=15
+|mem=no
+|mapID=28
+|npcid:5332,x:3008,y:3595|npcid:5333,x:3010,y:3597|npcid:90,x:3011,y:3590
+|npcid:5334,x:3012,y:3592|npcid:5334,x:3012,y:3597|npcid:5333,x:3013,y:3602
+|npcid:5332,x:3016,y:3589|npcid:90,x:3016,y:3596|npcid:5334,x:3018,y:3592
+|npcid:5334,x:3018,y:3599|npcid:5332,x:3019,y:3590|npcid:90,x:3021,y:3593
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Wilderness]] ([[The Forgotten Cemetery]])
+|lvls=32
+|mem=no
+|mapID=28
+|npcid:92,x:2977,y:3753|npcid:92,x:2980,y:3763
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Wilderness Crater]]
+|lvls=51
+|mem=no
+|mapID=28
+|npcid:5367,x:3092,y:3717|npcid:5368,x:3096,y:3738|npcid:4386,x:3097,y:3728
+|npcid:5368,x:3102,y:3716|npcid:5367,x:3105,y:3721|npcid:5367,x:3113,y:3740
+|npcid:5368,x:3118,y:3733|npcid:4386,x:3128,y:3719|npcid:5368,x:3128,y:3741
+|npcid:4386,x:3130,y:3754
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Wilderness Agility Course Pit]]
+|lvls=32
+|mem=yes
+|mapID=6
+|npcid:5337,x:2994,y:10346|npcid:92,x:2998,y:10342|npcid:5339,x:2998,y:10350
+|npcid:92,x:3002,y:10356|npcid:5338,x:3003,y:10347|npcid:5338,x:3004,y:10362
+|npcid:5340,x:3005,y:10352|npcid:5337,x:3006,y:10357
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Yanille Agility dungeon]]
+|lvls=58
+|mem=yes
+|mapID=3
+|npcid:93,x:66,y:98|npcid:93,x:68,y:96|npcid:93,x:68,y:101
+|npcid:93,x:69,y:99|npcid:93,x:71,y:98|npcid:93,x:72,y:101
+|leagueRegion = Kandarin}}
+{{LocTableBottom}}
+
+==Slayer alternatives==
+{{Main|Skeletons (Slayer assignment)}}
+Any monsters named "skeleton", with the exception of [[Skeleton (player-owned house)|guard skeletons]] in a player-owned house and the [[Skeleton (Daemonheim)|skeleton]]s found in [[Daemonheim]] (also including the [[unholy cursebearer]] boss) and [[Sinkholes]], may be killed to complete a [[Skeletons (Slayer assignment)|slayer assignment]]. The following alternatives are also available:
+* [[Ankou]]
+* [[Bound skeleton]]s
+* [[Skeleton mage]]s
+* [[Skeletal miner]]s
+* [[Skeletal hand]]s
+* [[Skeleton Fremennik]]s
+* [[Skeleton warlord]]s
+* [[Skoblin]]s
+
+==Banking tips==
+Many skeleton locations are far from banks. For players wishing to slay skeletons and bank their drops, consider the following:
+* The [[Draynor Sewers]] are moderately close to the [[Draynor bank]].
+* The [[Lair of Tarn Razorlor (dungeon)|Lair of Tarn Razorlor]] has a banker. However, using this dungeon requires the [[Haunted Mine]] quest, [[Lair of Tarn Razorlor (miniquest)|Lair of Tarn Razorlor]] miniquest, and a 100 coin payment to the banker for each access to the bank.
+* The skeleton cave in the [[Chaos Tunnels]] is easily accessed from entrance #1 to tunnels and is thus moderately close to the [[Edgeville bank]]. However, care should be taken in that entrance #1 is in low-level [[Wilderness]] and also enters the cave with rather dangerous [[gargoyle]]s. Aggressive [[zombie]]s in the cave with the skeletons may interfere with skeleton hunting.
+* [[Skeletal hand]]s may also be slain in the [[Meiyerditch tunnels]] if the player looking for good drops from skeletons.
+
+==Champion's Challenge==
+Skeletons have a lesser champion, the [[Skeleton Champion]], available to fight as part of the [[Champion's Challenge]]. To fight the Skeleton Champion, the player must kill skeletons until they obtain the very rare [[Skeleton Champion's scroll]] drop. Obtaining the scroll can takes several hours of dedicated skeleton hunting, therefore it is advised to kill lower level skeletons to increase the kill rate as much as possible.
+
+==Drops==
+{{Anchor|Unarmed}}
+===Unarmed skeletons (levels 15, 16, and 46)===
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|Skeleton#Unarmed|mobname=unarmed skeleton (levels 15, 16, and 46)}}
+
+====100% drop====
+{{DropsTableHead|version=Unarmed}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+====Runes and ammuniton====
+{{DropsTableHead|version=Unarmed}}
+{{DropsLine|name=Bronze arrow|quantity=2|rarity=7/128}}
+{{DropsLine|name=Bronze arrow|quantity=5|rarity=4/128}}
+{{DropsLine|name=Iron arrow|quantity=1|rarity=4/128}}
+{{DropsLine|name=Air rune|quantity=12|rarity=2/128}}
+{{DropsLine|name=Earth rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Chaos rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Fire rune|quantity=2|rarity=2/128}}
+{{DropsLine|name=Nature rune|quantity=3|rarity=1/128}}
+{{DropsLine|name=Steel arrow|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Herbs====
+{{HerbDropTableIntro|21/128}}
+{{DropsTableHead|version=Unarmed}}
+{{HerbDropTable|21/128|f2p=yes}}
+{{DropsTableBottom}}
+
+====Coins====
+{{DropsTableHead|version=Unarmed}}
+{{DropsLine|name=Coins|quantity=2|rarity=18/128}}
+{{DropsLine|name=Coins|quantity=12|rarity=15/128}}
+{{DropsLine|name=Coins|quantity=4|rarity=7/128}}
+{{DropsLine|name=Coins|quantity=33|rarity=4/128}}
+{{DropsLine|name=Coins|quantity=25|rarity=4/128}}
+{{DropsLine|name=Coins|quantity=16|rarity=4/128}}
+{{DropsLine|name=Coins|quantity=48|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Other====
+{{DropsTableHead|version=Unarmed}}
+{{DropsLine|name=Nothing|rarity=18/128}}
+{{DropsLine|name=Iron dagger|quantity=1|rarity=6/256}}
+{{DropsLine|name=Iron off hand dagger|quantity=1|rarity=6/256}}
+{{DropsLine|name=Fire talisman|quantity=1|rarity=2/128}}
+{{DropsLine|name=Iron ore|quantity=1|rarity=1/128}}
+{{DropsLine|name=Wheat|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Gem drop table====
+{{GemDropTable|1/128|version=Unarmed}}
+
+====Tertiary drops====
+{{DropsTableHead|version=Unarmed}}
+{{DropsLine|name=Bone fragments|quantity=1|rarity=1/150|raritynotes={{DropNote|Only dropped during a [[Slayer assignment]] given by [[the Raptor]].}}|gemw=no|members=yes}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no|members=yes}}
+{{DropsLineEffigy|level=15|version=Level 15|members=yes}}
+{{DropsLineSpiritGems|version=Level 15|members=yes}}
+{{DropsLineMimic|level=15|version=Level 15|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+Only some skeletons drop charms. Specifically, level 15 skeletons that have no weapons or armour, and level 15 skeletons with a helmet and pauldrons<!-- (NPC IDs 90 and 5334)-->.
+{{CharmDropTable
+|members=yes
+|version=Level 15
+|quantity = 1
+|gold = 10.799/1000
+|green = 5.4/1000
+|crimson = 10.799/1000
+|blue = 17.279/1000
+}}
+
+<gallery>
+Skeleton (level 15).png|Level 15 skeleton with no equipment that drop charms
+<!--Skeleton (level 15, helmet, pauldrons).png|Level 15 skeleton with a helmet and pauldrons that drop charms merged into the above one (may put into GU)-->
+</gallery>
+
+{{Anchor|Armed}}
+
+===Armed skeletons (levels 32, 51, and 58)===
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|Skeleton#Armed|mobname=armed skeleton (levels 32, 51, and 58)}}
+
+====100% drop====
+{{DropsTableHead|version=Armed}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+====Weapons and armours====
+{{DropsTableHead}}
+{{DropsLine|name=Iron med helm|quantity=1|rarity=6/128}}
+{{DropsLine|name=Iron sword|quantity=1|rarity=4/256}}
+{{DropsLine|name=Iron off hand sword|quantity=1|rarity=4/256}}
+{{DropsLine|name=Iron scimitar|quantity=1|rarity=1/256}}
+{{DropsLine|name=Iron off hand scimitar|quantity=1|rarity=1/256}}
+{{DropsTableBottom}}
+
+====Runes and ammunition====
+{{DropsTableHead|version=Armed}}
+{{DropsLine|name=Air rune|quantity=15|rarity=3/128}}
+{{DropsLine|name=Water rune|quantity=9|rarity=3/128}}
+{{DropsLine|name=Chaos rune|quantity=5|rarity=3/128}}
+{{DropsLine|name=Iron arrow|quantity=12|rarity=2/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=2/128}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Herbs====
+{{HerbDropTableIntro|20/128}}
+{{DropsTableHead|version=Armed}}
+{{HerbDropTable|20/128|f2p=yes}}
+{{DropsTableBottom}}
+
+====Coins====
+{{DropsTableHead|version=Armed}}
+{{DropsLine|name=Coins|quantity=5|rarity=25/128}}
+{{DropsLine|name=Coins|quantity=10|rarity=24/128}}
+{{DropsLine|name=Coins|quantity=25|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=45|rarity=4/128}}
+{{DropsLine|name=Coins|quantity=65|rarity=3/128}}
+{{DropsLine|name=Coins|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+====Other====
+{{DropsTableHead|version=Armed}}
+{{DropsLine|name=Nothing|rarity=8/128}}
+{{DropsLine|name=Bronze bar|quantity=1|rarity=5/128}}
+{{DropsLine|name=Iron hatchet|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+====Gem drop table====
+{{GemDropTable|2/128|version=Armed}}
+
+====Tertiary drops====
+{{DropsTableHead|version=Armed}}
+{{DropsLine|name=Bone fragments|quantity=1|rarity=1/150|raritynotes={{DropNote|Only dropped during a [[Slayer assignment]] given by [[the Raptor]].}}|gemw=no|members=yes}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no|members=yes}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|My Skeleton Can Beat Up Your Skeleton}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+File:Skeleton (level 15, platemail).png|Variant of the graphically updated level 15 skeleton
+File:Skeleton (level 15, helmet).png|Variant of the graphically updated level 15 skeleton
+File:Skeleton (level 15, full armour).png|Variant of the graphically updated level 15 skeleton
+</gallery>
+
+==Graphical updates==
+{{Switch infobox
+|text1 = 1
+|item1 =
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Skeleton (1) (2004).png|name=Skeleton (level 22)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton (1) (2007).png|name=Skeleton (level 21, 22, and 68)}}
+}}
+|text2 = 2
+|item2 =
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Skeleton (1) (2004).png|name=Skeleton (level 22)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton (4) (2007).png|name=Skeleton (level 60)}}
+}}
+|text3 = 3
+|item3 =
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Skeleton (2) (2004).png|name=Skeleton (level 45)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton (2) (2007).png|name=Skeleton (level 25 and 85)}}
+|{{GUL|date=|update=|img=Skeleton 2 old.png|name=Skeleton}}
+}}
+|text4 = 4
+|item4 =
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Skeleton (2) (2004).png|name=Skeleton (level 45)}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Skeleton (3) (2007).png|name=Skeleton (level 45)}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** A number of early-game mobs will once again drop actual armour, weapons, ores, and bars.
+*** Copper stone spirit → Bronze bar
+*** Iron stone spirit → Iron ore
+*** Tiny spiky iron salvage (unarmed skeletons) → Iron dagger/Iron off-hand dagger
+*** Tiny spiky iron salvage (armed skeletons) → Iron sword/Iron off-hand sword
+*** Small bladed iron salvage → Iron scimitar/Iron off-hand scimitar
+*** Tiny plated iron salvage → Iron med helm
+
+* {{UL|type=patch|update=MHAW & Double XP - This Week In RuneScape|date=15 May 2023}}
+** Updated models for skeletons, [[zombie]]s and [[giant rat]]s within the [[Wilderness]], giving them the new [[Unwelcome Guests]] models.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Skeletons can be killed as part of the new undead slayer task.
+
+* {{UL|type=ninja|update=Patch Notes (2 March 2015)|date=2 March 2015}}
+** A large number of skeletons across Gielinor have been graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (16 February 2015)|date=16 February 2015}}
+** Some skeletons no longer shoot rocks out of their bows.
+
+* {{UL|type=patch|update=Patch Notes (5 July 2010)|date=5 July 2010}}
+** The new skeletons and [[goblins]] in the [[Lumbridge Catacombs]] can now also drop [[champion scrolls]].
+
+* {{UL|type=patch|update=Patch Notes (9 November 2009)|date=9 November 2009}}
+** Reworked various [[zombie]] and skeleton combat animations.
+
+* {{UL|type=patch|update=Patch Notes (7 October 2009)|date=7 October 2009}}
+** Updated the skull of a skeleton to match the rest of its, er, body.
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** [[Zombie]]s, skeletons and [[ghost]]s have been graphically updated.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* The level 58 skeletons in the Crandor and Karamja Dungeon are bigger than the other skeletons.
+* The skeletons in the Barrows did not drop the champion scroll for several years. This bug was eventually fixed.
+* When in a player-owned-house oubliette or dungeon when building mode is on, they are called Bones.
+* In the [[2011 Halloween event]], the player has to choose a skeleton to represent [[Pestilence]] in statue form.
+
+{{Skeletons}}
+{{Meg's cases}}
+[[pt:Esqueleto]]

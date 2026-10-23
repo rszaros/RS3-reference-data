@@ -1,0 +1,203 @@
+{{External|os}}
+{{Otheruses|def=no|the equipment set|Verac the Defiled's equipment}}
+{{Otheruses|def=no|the pet version|Verac the Bobbled}}
+{{Multi infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Normal
+|version2 = Rise of the Six
+|name = Verac the Defiled
+|image1 = [[File:Verac the Defiled.png|150px]]
+|image2 = [[File:Verac the Defiled (Shadow).png|150px]]
+|release1 = [[9 May]] [[2005]]
+|release2 = [[13 November]] [[2013]]
+|update1 = Barrows
+|update2 = Barrows - Rise of the Six
+|members = Yes
+|actions1 = Attack
+|examine = A vengeful spirit corrupted by dark magic.
+|level1 = 150
+|level2 = 650
+|lifepoints1 = 12000
+|lifepoints2 = 50000
+|slayxp1 = 343.6
+|slayxp2 = 
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Ghosts, Undead
+|max_melee1 = 1260
+|max_melee2 = 1296
+|max_ranged = 0
+|max_magic = 0
+|max_spec1 = 0
+|max_spec2 = 3000
+|style = melee
+|primarystyle = melee
+|speed1 = 6
+|speed2 = 5
+|attack1 = 70
+|attack2 = 90
+|ranged = 1
+|magic = 1
+|acc_melee1 = 1566
+|acc_melee2 = 2458
+|acc_ranged = 0
+|acc_magic = 0
+|armour1 = 1299
+|armour2 = 1924
+|defence1 = 70
+|defence2 = 90
+|weakness1 = Earth
+|weakness2 = Nothing
+|susceptibility = Salve, Ghost
+|aff_weakness1 = 90
+|aff_weakness2 = 40
+|aff_melee1 = 60
+|aff_melee2 = 40
+|aff_ranged1 = 50
+|aff_ranged2 = 40
+|aff_magic1 = 70
+|aff_magic2 = 40
+|immune_to_poison1 = No
+|immune_to_poison2 = Yes
+|immune_to_deflect1 = No
+|immune_to_deflect2 = Yes
+|immune_to_stun1 = No
+|immune_to_stun2 = Yes
+|immune_to_drain1 = No
+|immune_to_drain2 = Yes
+|leagueRegion = Morytania
+|id1 = 2030
+|id2 = 18545
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|name = Verac
+|image = [[File:Verac (Kindred Spirits).png|300px]]
+|release = [[23 May]] [[2016]]
+|update = New Quest – Kindred Spirits - Void Knights Rework
+|race = Undead
+|members = Yes
+|quest = [[Kindred Spirits]]
+|location = [[Sliske's lair]]
+|gender = Male
+|actions = Talk to
+|examine = He looks fine.
+|map = {{Object map|objectname=Verac|objectid=103139|mapID=-1|x=1627|y=6698|plane=0|zoom=3}}
+|objectid = 103139
+|leagueRegion = Morytania
+}}
+}}
+{{Synced switch
+|version1=[[File:Verac the Defiled chathead.png|left|80px]]
+|version2=[[File:Verac the Defiled (Rise of the Six) chathead.png|left]]
+}}
+'''Verac the Defiled''' is the youngest of the six [[Barrows brothers]]. Like most brothers, he attacks with [[melee]], using his [[Verac's flail|flail]].
+
+Verac's set effect: ''Verac's Defilement'', allows Verac's hits to have a chance to ignore the player's armour bonuses in a similar fashion to a player wearing a full set of [[Verac the Defiled's equipment|Verac's equipment]]. This effect does not trigger any animations or sound effects, so players should monitor their life points carefully. [[Protect from Melee]]/[[Deflect Melee]] is advised when attacking Verac to lower his overall max hit.
+
+==Drops==
+Verac does not drop his main rewards directly; instead, his [[Verac the Defiled's equipment|equipment]] is added as possible rewards from the Barrows chest. ''See [[The Barrows Brothers#Rewards]] for more information.'' However, Verac can directly drop the following items.
+
+{{DropsTableHead}}
+{{DropsLineGhosts}}
+{{DropsTableBottom}}
+
+==History==
+===Early history===
+Like his older brothers, Verac lived and maintained a small farm with them. When [[Guthan the Infested|Guthan]] told them to join the crusades, Verac agreed. 
+
+As with his older brothers, he disliked [[Commander Jaycliff]], even admitting that he'd happily stab him even if he was alive.
+
+===2016 Easter event===
+During the [[2016 Easter event]], Verac the Defiled and his brothers play a role as the workers (bobble-numbskulls) of Sliske's chocolate factory. They resembled their bobble-head versions.
+
+===Kindred Spirits===
+During [[Kindred Spirits]], Verac is subjected to torture in one of Sliske's "games", and he requests the World Guardian to release the Zamorak statue to show his devotion to Saradomin. Ahrim and Dharok insist that he is a devout Saradominist, but the World Guardian sees through his lies and rips the Saradomin key from his body, revealing him to be a follower of Zamorak, much to his brothers' surprise. 
+
+===Sliske's Endgame===
+Verac, along with his brothers, appeared in [[Sliske's Endgame]], being the second intended wave in Sliske's attempts to destroy the World Guardian. However, the Barrows Brothers had managed to regain a modicum of control over their own actions, and chose to aid the World Guardian, attacking Sliske's wights and champions.
+
+==Dialogue==
+{{Speaksin}}
+
+==Mentioned==
+{{MentionedIn}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Verac the Defiled wallpaper.png|Concept art of Verac the Defiled.
+Veracs RuneFest concept.png|The new model for Verac's armour revealed at RuneFest 2011.
+Verac the Defiled (Christmas).png|Verac wearing a Santa hat during Christmas.
+Verac the Defiled (Shadow, Christmas).png|Shadow Verac wearing a Santa hat during Christmas.
+</gallery>
+
+==Graphical updates==
+===NPCs===
+{{GU|subject=NPCs
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Verac the Defiled (2005).png|name=Verac the Defiled}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Verac the Defiled (2008).png|name=Verac the Defiled}}
+|{{GUL|date=[[4 January]] [[2012]]|update=A Very Barrows New Year!|img=Verac the Defiled.png|name=Verac the Defiled}}
+}}
+===Chatheads===
+{{GU|subject=Chatheads
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Verac the Defiled (2005) chathead.png|name=Verac the Defiled's chathead}}
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Verac the Defiled (2008) chathead.png|name=Verac the Defiled's chathead}}
+|{{GUL|date=[[3 December]] [[2009]]|update=The Temple at Senntisten|img=Verac the Defiled (2009) chathead.png|name=Verac the Defiled's chathead}}
+|{{GUL|date=[[4 January]] [[2012]]|update=A Very Barrows New Year!|img=Verac the Defiled chathead.png|name=Verac the Defiled's chathead}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased (only applies to barrows version):
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=Necromancy Patch Week - This Week In RuneScape|date=11 September 2023}}
+** The 50% combat experience reduction on bosses has been removed. Bosses now give 50 combat experience per 1,000 life points, like most other monsters in the game.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+** An old restriction preventing the use of the Salve Amulet at Barrows has been removed. It also works in Rise of the Six.
+
+* {{UL|type=patch|update=Patch Notes (23 October 2017)|date=23 October 2017}}
+** The right-click options on Barrows brothers spawned by other players have been removed.
+
+* {{UL|type=patch|update=Patch Notes (5 January 2015)|date=5 January 2015}}
+** Verac the Defiled is now affected by the Ghost Hunter armour's benefits.
+
+* {{UL|type=update|update=A Very Barrows New Year!|date=4 January 2012}}
+** Verac the Defiled is graphically updated.
+
+* {{UL|type=update|update=Barrows|date=9 May 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Verac the Defiled's armour is based on the armour of "the Myrmillo", one of the five types of gladiators in ancient Rome. It has many resemblances, the most obvious of which being his brassard, single plated arm and fish-finned helm, a design based loosely among Roman legionaries. However, in contrast, the armoured plating is on his wrong arm for a Myrmillo.
+
+==References==
+{{Reflist}}
+
+{{Barrows}}
+{{Barrows: Rise of the Six}}
+{{The Temple at Senntisten}}
+{{Ritual of the Mahjarrat}}
+{{Missing, Presumed Death}}
+{{Kindred Spirits}}
+{{Sliske's Endgame}}
+{{2016 Easter event}}
+{{Wights}}
+{{The Fall of Six}}
+[[Category:Participants in the God Wars]]
+[[Category:Sliskeans]]
+[[Category:Zamorakians]]
+[[Category:Bosses]]
+[[Category:Familiar-immune monsters]]
+[[Category:NPCs that can move at running speed]]
+[[pt:Verac, o desonrado]]

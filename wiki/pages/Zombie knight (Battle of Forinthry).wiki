@@ -1,0 +1,73 @@
+{{Infobox Monster
+|version1 = Story mode
+|version2 = Normal mode (siege)
+|version3 = Normal mode (boss)
+|version4 = Hard mode
+|name = Zombie knight
+|image = Zombie knight (Battle of Forinthry).png
+|release = [[20 November]] [[2023]]
+|update = Vorkath, Battle for Forinthry - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|race = Zombie
+|examine = The walking dead.
+|level = 97
+|lifepoints1 = 9000
+|lifepoints2 = 18000
+|lifepoints3 = 18000
+|lifepoints4 = 36000
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp =
+|slayercat = Zombies, Undead
+|max_melee1 = 375
+|max_melee2 = 1256
+|max_melee3 = 1875
+|max_melee4 = 1875
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack = 75
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 
+|acc_ranged = 
+|acc_magic = 
+|acc_necromancy = 
+|abilities =
+|armour = 1299
+|defence = 65
+|weakness = Fire
+|susceptibility = undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = 
+|restriction = 
+|id = 30652, 30667, 30681
+|leagueRegion=Misthalin}}
+The '''zombie knights''' are [[monster]]s fought during the [[Zemouregal & Vorkath]] battle in the [[Zemouregal & Vorkath#Siege phase|siege phase]].
+
+Two of them guard the western [[place of power]]. While normally unaggressive, they attack the player when the [[Undead giant (Battle of Forinthry)|undead giant]] at the place of power is engaged and the player is in their range.
+
+In story mode they only defend the place of power. In normal mode they also attack the fort along with [[Zombie warrior (Battle of Forinthry)|zombie warriors]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Vorkath, Battle for Forinthry - This Week In RuneScape|date=20 November 2023}}
+** Added to game.
+}}
+
+{{Zemouregal & Vorkath}}
+{{Battle of Forinthry}}
+[[Category:Boss minions]]

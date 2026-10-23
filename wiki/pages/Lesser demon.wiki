@@ -1,0 +1,326 @@
+{{External|rsc=Lesser Demon|os|dw=Lesser Demon}}
+{{Otheruses|common lesser demons|other lesser demons|Lesser demon (disambiguation)}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|name = Lesser demon
+|image1 = [[File:Lesser demon.png|150px]]
+|image2 = [[File:Lesser demon (2).png|150px]]
+|image3 = [[File:Lesser demon (3).png|150px]]
+|image4 = [[File:Lesser demon (4).png|150px]]
+|image5 = [[File:Lesser demon (5).png|150px]]
+|release1 = [[11 June]] [[2001]]
+|release2 = [[29 August]] [[2006]]
+|release3 = [[29 August]] [[2006]]
+|release4 = [[29 August]] [[2006]]
+|release5 = [[29 August]] [[2006]]
+|update1 = New fishing skill and more cooking
+|update2 = Demons, Dragons and Giants
+|update3 = Demons, Dragons and Giants
+|update4 = Demons, Dragons and Giants
+|update5 = Demons, Dragons and Giants
+|members = No
+|options = Attack, Examine
+|examine = Lesser, but still pretty big.
+|level = 70
+|lifepoints = 5000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 86.6
+|slayercat = Lesser demons, Demons
+|assigned_by = chaeldar
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 480
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 50
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 850
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Bolts
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Karamja,Kandarin,Asgarnia,Wilderness
+|id1 = 82
+|id2 = 4694
+|id3 = 4695
+|id4 = 4696
+|id5 = 4697
+}}
+[[File:Lesser demon icon.png|left]]
+'''Lesser demons''' are a kind of [[demon]] weaker than the closely-related [[greater demon]]s, categorized by the absence of wings. They have 5000 [[Constitution|life points]], a maximum hit of 480 damage, an attack speed of 4 ticks (2.4 seconds), and regenerate at an average rate of 20 life points per minute. All lesser demons use a magic projectile attack.
+
+Lesser demons originate on [[Infernus]], where they were called Byzroth, as the other demons seen in [[Gielinor]] do. They are part of the Avernic race, which were tribal and primitive, and slaves to whoever was ruling Infernus at the time. At the time of [[Palkeera's memory]] of the realm, they were enslaved by the cannibalistic Chthonians, who were unable to consume the Avernics for some reason. Among the Avernic demons, the Tsutsaroth were the dominant tribe, ruling over the [[Alyaroth]] and Byzroth in a brutal manner.
+
+In [[free-to-play]] worlds, lesser demons have one of the best experience rates for high level [[Magic]] and [[Ranged]] training, especially the latter considering their weakness to bolts; though it is countered by them having inferior drops compared to similarly levelled monsters. However, since they attack with magic and have low [[melee]] [[affinity]], it is not recommended for melee players to train on demons. Lesser demons also drop [[accursed ashes]], providing an easy way to train prayer when combined with an [[accursed urn]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Karamja Volcano resource dungeon]]
+|lvls=70
+|mem=no
+|requirements = {{Skillreq|Dungeoneering|25}}
+|mapID=375
+|npcid:4696,x:1164,y:4569|npcid:4695,x:1170,y:4564|npcid:4697,x:1171,y:4572
+|npcid:4697,x:1175,y:4579|npcid:4694,x:1177,y:4561|npcid:82,x:1181,y:4556
+|npcid:4694,x:1181,y:4584|npcid:4694,x:1182,y:4592|npcid:4696,x:1183,y:4578
+|npcid:4695,x:1189,y:4577|npcid:82,x:1189,y:4584|npcid:4695,x:1194,y:4589
+|npcid:4697,x:1196,y:4584|npcid:4696,x:1201,y:4592
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Viyeldi caves]]
+|lvls=70
+|mem=yes
+|mapID=437
+|npcid:4695,x:2412,y:4677|npcid:4694,x:2413,y:4681|npcid:82,x:2416,y:4684
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Temple of Ikov (dungeon)|Temple of Ikov dungeon]]
+|lvls=70
+|mem=yes
+|mapID=509
+|npcid:4697,x:2630,y:9867|npcid:4695,x:2631,y:9880|npcid:4696,x:2632,y:9874
+|leagueRegion = Kandarin}}
+{{LocLine
+|loc=[[Crandor]]
+|lvls=70
+|mem=no
+|mapID=28
+|npcid:4697,x:2832,y:3278|npcid:4695,x:2837,y:3280
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Crandor and Karamja Dungeon]]
+|lvls=70
+|mem=no
+|mapID=13
+|npcid:82,x:271,y:154|npcid:4696,x:276,y:150|npcid:4695,x:277,y:157
+|npcid:82,x:280,y:144|npcid:4694,x:281,y:151|npcid:4697,x:283,y:149
+|npcid:82,x:275,y:194|npcid:4697,x:277,y:215|npcid:4695,x:278,y:202
+|npcid:4694,x:279,y:196|npcid:4696,x:285,y:204
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Taverley Dungeon]]
+|lvls=70
+|mem=yes
+|mapID=17
+|npcid:4695,x:2926,y:9802|npcid:4696,x:2931,y:9798|npcid:82,x:2931,y:9807
+|npcid:4694,x:2932,y:9810|npcid:4697,x:2936,y:9793
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Forinthry Dungeon]]
+|lvls=70
+|mem=no
+|mapID=6
+|npcid:4695,x:3045,y:10132|npcid:82,x:3047,y:10140|npcid:4694,x:3052,y:10129
+|npcid:4694,x:3054,y:10139|npcid:82,x:3056,y:10126|npcid:4695,x:3059,y:10137
+|npcid:4696,x:3060,y:10131|npcid:4697,x:3064,y:10124
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=[[Wilderness Crater]]
+|lvls=70
+|mem=no
+|mapID=28
+|npcid:4696,x:3096,y:3691|npcid:82,x:3096,y:3703|npcid:4695,x:3098,y:3699
+|npcid:4694,x:3103,y:3709|npcid:4697,x:3105,y:3695
+|leagueRegion = Wilderness}}
+{{LocLine
+|loc=South-east of the [[Demonic Ruins]]
+|lvls=70
+|mem=no
+|mapID=28
+|npcid:4697,x:3324,y:3856
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+{{Reflist}}
+
+==Strategy==
+{{cquote2|The last Lesser demon I killed I found a crossbow with bolts took them down effectively.
+
+Lesser demons are weak to ranged attacks. Although they're relatively weak, they are still dangerous. Taverley's underworld is infested with these hellish pests.|[[Chaeldar]]}}
+
+Lesser demons are effective training monsters for players that are at least medium level (above 80 [[combat level]]). Since [[Karamja]] has many [[Fishing#Fishing spots|fishing spots]], players may [[Fishing|fish]] for food on the island if they run out; members may use the bank in the nearby [[TzHaar City]] to restock on food. The [[Lesser demon (Wizards' Tower)|lesser demon]] in the [[Wizards' Tower]] can also be used for relatively quick, relatively safe kills for lower-levelled players, but use of [[telekenetic grab]] is recommended to pick up drops.
+
+Lesser demons are affected by the powers of [[Silverlight]] and [[Darklight]], which provides greatly increased accuracy and damage against demons. However, the provided boosts may not be enough for lower-levelled players unless the enhanced Darklight reward is also purchased from [[Dimension of Disaster]]. As such, [[ranged]] is recommended, but [[magic]] also suffices with tier 60 gear or higher. Lower-levelled players are recommended to bring an [[emergency teleport]] and additional food, as lesser demons hit fairly accurately, even through mid-level ranged armour.
+
+==Prayer training (F2P)==
+High-level F2P players using ranged may opt to use these for free prayer training, in conjunction with [[accursed urns]]. In addition, players training at the Karamja volcano have the option of picking up two regular bone spawns that appear quite frequently.
+
+==Champion's Challenge==
+Lesser demons are one of the races who have lesser champions in the [[Champion's Challenge]] Distraction and Diversion. To fight the [[Lesser Demon Champion]], the player must kill lesser demons until one drops a [[Lesser Demon Champion's scroll|Champion's scroll]], a very rare drop.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Accursed ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=800-1200|rarity=14/128}}
+{{DropsLine|name=Coins|quantity=1120-1680|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black 2h sword|quantity=1|rarity=8/128}}
+{{DropsLine|name=Black hatchet|quantity=1|rarity=8/128}}
+{{DropsLine|name=Black kiteshield|quantity=1|rarity=6/128}}
+{{DropsLine|name=Black longsword|quantity=1|rarity=4/128}}
+{{DropsLine|name=Off-hand black longsword|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Fire rune|quantity=27-33|rarity=10/128}}
+{{DropsLine|name=Death rune|quantity=10|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|10/128}}
+{{DropsTableHead}}
+{{HerbDropTable|10/128|f2p=yes}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Medium bladed mithril salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Gold stone spirit|quantity=2|rarity=8/128}}
+{{DropsLine|name=Lobster|quantity=1|rarity=10/128}}
+{{DropsLine|name=Grapes|quantity=1 (noted)|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|12/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Demon horn (God Emissaries)|members=Yes|quantity=1|rarity=1/3|raritynotes={{DropNote|Only while on combat task 5 of [[God Emissaries]].}}|gemw=No}}
+{{DropsLineCourtSummons|members=yes}}
+{{DropsLine|name=Lesser Demon Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Lesser Demon Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no|members=yes}}
+{{DropsLineBoneFragments|slayer_level=1|members=yes}}
+{{DropsLineEffigy|level=70|version=5|members=yes}}
+{{DropsLineSpiritGems|version=5|members=yes}}
+{{DropsLineMimic|level=70|version=5|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+[[File:Lesser demon (5).png|150px|right|thumb|The lesser demon version that can drop charms.]]
+Charms (and effigies, spirit gems, and mimic kill tokens) are only dropped by version 5.
+{{CharmDropTable
+|members=yes
+|version=5
+|quantity = 1
+|gold = 96.322/1000
+|green = 48.161/1000
+|crimson = 192.644/1000
+|blue = 6.421/1000
+}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = 1
+|item1 = 
+{{GU|subject=npc
+|{{GUL|date=[[11 June]] [[2001]]|update=New fishing skill and more cooking|img=Lesser demon (2001).png|name=Lesser demon}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Lesser demon (2004).png|name=Lesser demon}}
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Lesser demon (2006).png|name=Lesser demon (1)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Lesser demon (2008).png|name=Lesser demon (1)}}
+|{{GUL|date=[[28 January]] [[2013]]|update=Demon Flash Mobs|img=Lesser demon.png|name=Lesser demon (1)}}
+}}
+
+|text2 = 2
+|item2 =
+{{GU|subject=npc
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Lesser demon (2) (2006).png|name=Lesser demon (2)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Lesser demon (2) (2008).png|name=Lesser demon (2)}}
+|{{GUL|date=[[28 January]] [[2013]]|update=Demon Flash Mobs|img=Lesser demon (2).png|name=Lesser demon (2)}}
+}}
+
+|text3 = 3
+|item3 =
+{{GU|subject=npc
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Lesser demon (3) (2006).png|name=Lesser demon (3)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Lesser demon (3) (2008).png|name=Lesser demon (3)}}
+|{{GUL|date=[[28 January]] [[2013]]|update=Demon Flash Mobs|img=Lesser demon (3).png|name=Lesser demon (3)}}
+}}
+
+|text4 = 4
+|item4 =
+{{GU|subject=npc
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Lesser demon (4) (2006).png|name=Lesser demon (4)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Lesser demon (4) (2008).png|name=Lesser demon (4)}}
+|{{GUL|date=[[28 January]] [[2013]]|update=Demon Flash Mobs|img=Lesser demon (4).png|name=Lesser demon (4)}}
+}}
+
+|text5 = 5
+|item5 =
+{{GU|subject=npc
+|{{GUL|date=[[29 August]] [[2006]]|update=Demons, Dragons and Giants|img=Lesser demon (5) (2006).png|name=Lesser demon (5)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Lesser demon (5) (2008).png|name=Lesser demon (5)}}
+|{{GUL|date=[[28 January]] [[2013]]|update=Demon Flash Mobs|img=Lesser demon (5).png|name=Lesser demon (5)}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (2 November 2015)|date=2 November 2015}}
+** Maximum hit has been increased.
+
+* {{UL|type=patch|update=Patch Notes (13 August 2013)|date=13 August 2013}}
+** Demon fireball animations are now in sync with the player’s defend animation.
+
+* {{UL|type=update|update=Demon Flash Mobs|date=28 January 2013}}
+** Graphically updated.
+
+* {{UL|type=update|update=Demons, Dragons and Giants|date=29 August 2006}}
+** Graphically updated.
+
+* {{UL|type=update|update=New fishing skill and more cooking|date=11 June 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* They were the strongest monster available to [[Instant Demo]] players.
+* They are the fourth monster to have the title: [[Strongest monster|Strongest Monster in RuneScape]] from [[RuneScape Classic]].
+* They are one of the strongest free-to-play monsters found outside of the Wilderness.
+
+{{Demons}}
+[[pt:Demônio inferior]]

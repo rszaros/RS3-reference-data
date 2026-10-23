@@ -1,0 +1,135 @@
+{{otheruses|the [[Troll Invasion]] monster|the trolls fought during the tutorial|Troll runt (Troll Warzone)}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 5
+|version3 = 11
+|version4 = 15
+|version5 = 21
+|version6 = 25
+|version7 = 30
+|version8 = 35
+|name = Troll runt
+|image = [[File:Troll runt.png|200px]]
+|release = [[14 June]] [[2011]]
+|update = Troll Invasion
+|members = Yes
+|options = Attack, Information
+|examine = A troublesome little troll.
+|level1 = 1
+|level2 = 5
+|level3 = 11
+|level4 = 15
+|level5 = 21
+|level6 = 25
+|level7 = 30
+|level8 = 35
+|lifepoints1 = 50
+|lifepoints2 = 200
+|lifepoints3 = 400
+|lifepoints4 = 550
+|lifepoints5 = 750
+|lifepoints6 = 900
+|lifepoints7 = 1100
+|lifepoints8 = 1250
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Trolls
+|assigned_by = spria,sumona,Chaeldar
+|max_melee1 = 4
+|max_melee2 = 16
+|max_melee3 = 32
+|max_melee4 = 44
+|max_melee5 = 60
+|max_melee6 = 72
+|max_melee7 = 88
+|max_melee8 = 100
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 1
+|attack2 = 4
+|attack3 = 8
+|attack4 = 11
+|attack5 = 15
+|attack6 = 18
+|attack7 = 22
+|attack8 = 25
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee1 = 110
+|acc_melee2 = 140
+|acc_melee3 = 181
+|acc_melee4 = 213
+|acc_melee5 = 257
+|acc_melee6 = 292
+|acc_melee7 = 341
+|acc_melee8 = 381
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 140
+|armour3 = 181
+|armour4 = 213
+|armour5 = 257
+|armour6 = 292
+|armour7 = 341
+|armour8 = 381
+|defence1 = 1
+|defence2 = 4
+|defence3 = 8
+|defence4 = 11
+|defence5 = 15
+|defence6 = 18
+|defence7 = 22
+|defence8 = 25
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id1 = 12880
+|id2 = 12881
+|id3 = 12882
+|id4 = 12883
+|id5 = 12884
+|id6 = 12885
+|id7 = 12901
+|id8 = 12902
+|leagueRegion = Asgarnia
+}}
+'''Troll runts''' are summoned by a [[Troll father (Troll Invasion)|troll father]] during the [[Troll Invasion]] [[Distractions and Diversions|Distraction and Diversion]]. They use melee, and can be considered a low priority, similar to that of the [[Mountain troll (Troll Invasion)|mountain troll]] within the event.
+
+If the troll father is still alive when a troll runt is taken to below half health, the troll father will rapidly heal the runts. However, as troll runts are extremely weak they can easily be killed in one hit.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Troll Invasion|date=14 June 2011}}
+** Added to game.
+}}
+
+{{Troll Invasion}}
+{{Trolls}}
+[[Category:Bandosians]]

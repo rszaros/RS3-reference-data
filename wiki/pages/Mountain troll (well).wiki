@@ -1,0 +1,153 @@
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 5
+|version6 = 6
+|name = Mountain troll
+|image1 = [[File:Mountain troll (well).png|250px]]
+|image2 = [[File:Mountain troll (well, 2).png|250px]]
+|image3 = [[File:Mountain troll (well, 3).png|250px]]
+|image4 = [[File:Mountain troll (well, 4).png|250px]]
+|image5 = [[File:Mountain troll (well, 5).png|250px]]
+|image6 = [[File:Mountain troll (well, 6).png|250px]]
+|release = [[31 January]] [[2012]]
+|update = Troll Warzone
+|members = No
+|options = Attack
+|examine = Small for a troll, but mean and ugly.
+|level = 9
+|lifepoints = 1650
+|experience = 82.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 7.0
+|slayercat = Trolls
+|assigned_by = Spria,Turael,Chaeldar,Sumona
+|max_melee = 140
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = melee
+|speed = 4
+|attack = 7
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 71
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 171
+|defence = 7
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 15075
+|id2 = 15076
+|id3 = 15077
+|id4 = 15078
+|id5 = 15079
+|id6 = 15080
+|leagueRegion=Asgarnia}}
+'''Mountain trolls''' can be found in the [[troll cave]] beneath [[Well (Taverley)|Taverley well]], accessible after the [[Wolf Whistle]] quest. They are much weaker than other mountain trolls, and thus are a good way for new players to complete [[Trolls (Slayer assignment)|troll Slayer assignments]]. High level players will however find trolls in the [[Burthorpe Troll Cave]] to be faster.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Troll cave]]
+|lvls=8
+|mem=no
+|requirements = {{QuestIcon|Wolf Whistle}}
+|mapID=173
+|npcid:15075,x:1436,y:4459
+|npcid:15075,x:1440,y:4452
+|npcid:15076,x:1441,y:4456
+|npcid:15077,x:1435,y:4453
+|npcid:15078,x:1433,y:4451
+|npcid:15079,x:1435,y:4449
+|npcid:15080,x:1440,y:4449
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+<!--
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=2-7|rarity=1/15}}
+{{DropsLine|name=Mind rune|quantity=13-19|rarity=1/15}}
+{{DropsLine|name=Water rune|quantity=6|rarity=1/15}}
+{{DropsLine|name=Earth rune|quantity=4|rarity=1/15}}
+{{DropsLine|name=Body rune|quantity=7|rarity=1/15}}
+{{DropsLine|name=Bronze arrow|quantity=16|rarity=1/15}}
+{{DropsLine|name=Bronze bolts|quantity=8|rarity=1/15}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated bronze salvage|quantity=1|rarity=1/15}}
+{{DropsLine|name=Medium plated bronze salvage|quantity=1|rarity=1/15}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1,15,20|rarity=3/15}}
+{{DropsLine|name=Cabbage|quantity=1|rarity=1/15}}
+{{DropsLine|name=Air talisman|quantity=1|rarity=1/15}}
+{{DropsLine|name=Bread dough|quantity=1|rarity=1/15}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{BeginnerWeaponsDropLines}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|gemw=No|members=Yes}}
+{{DropsLineEffigy|level=9|members=yes}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineMimic|level=9|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|members=yes
+|quantity = 1
+|gold = 100.275/1000
+|green = 102.281/1000
+|crimson = 0
+|blue = 0
+}}
+-->
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Troll Warzone|date=31 January 2012}}
+** Added to game.
+}}
+
+{{trolls}}
+[[Category:Bandosians]]

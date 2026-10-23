@@ -1,0 +1,113 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 70
+|version2 = 86
+|version3 = 103
+|version4 = 120
+|version5 = 138
+|name = Giant bat
+|image = [[File:Giant bat (Dungeoneering).png]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|options = Attack, Mark
+|examine = A big, winged pig-mouse.
+|level1 = 70
+|level2 = 86
+|level3 = 103
+|level4 = 120
+|level5 = 138
+|lifepoints1 = 5000
+|lifepoints2 = 6200
+|lifepoints3 = 7400
+|lifepoints4 = 8600
+|lifepoints5 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 86.6
+|slayxp3 = 279
+|slayercat = Bats, Creatures of Daemonheim
+|max_melee1 = 200
+|max_melee2 = 248
+|max_melee3 = 296
+|max_melee4 = 344
+|max_melee5 = 396
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 50
+|attack2 = 62
+|attack3 = 74
+|attack4 = 86
+|attack5 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 850
+|acc_melee2 = 1197
+|acc_melee3 = 1650
+|acc_melee4 = 2232
+|acc_melee5 = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 609
+|armour2 = 825
+|armour3 = 1101
+|armour4 = 1447
+|armour5 = 1876
+|defence1 = 50
+|defence2 = 62
+|defence3 = 74
+|defence4 = 86
+|defence5 = 99
+|weakness1 = Air
+|weakness2 = Water
+|weakness3 = Earth
+|weakness4 = Fire
+|weakness5 = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10910
+|id2 = 10911
+|id3 = 10912
+|id4 = 10913
+|id5 = 10914
+|leagueRegion = Wilderness
+}}
+A '''giant bat''' is an animal found in [[Daemonheim]], on [[abandoned floors|abandoned]], [[furnished floors|furnished]], and [[occult floors]]. It looks like a [[bat (Dungeoneering)|bat]], but is, as expected, bigger. It doesn't hit particularly hard for its level, but it is very accurate. Its specific [[magic|elemental]] weakness varies between individual giant bats.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}

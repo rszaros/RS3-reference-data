@@ -1,0 +1,164 @@
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|name = Bound skeleton
+|image1 = [[File:Bound skeleton.png]]
+|image2 = [[File:Bound skeleton (2).png]]
+|image3 = [[File:Bound skeleton (3).png]]
+|release = [[11 April]] [[2023]]
+|update = Unwelcome Guests Slayer Content - This Week In RuneScape
+|members = Yes
+|actions = Attack
+|race = Skeleton
+|examine1 = Could put on a few pounds.
+|examine2 = Looks like they've got a bone to pick with you.
+|examine3 = Looks like they've got a bone to pick with you.
+|level = 70
+|lifepoints = 12,000
+|slaylvl = 1
+|slayxp = 420
+|experience = 600.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Bound skeletons, Zemouregal's undead, Skeletons, Undead
+|max_melee = 1194
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack = 65
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1299
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1299
+|defence = 65
+|weakness = Earth
+|susceptibility = Magic, undead
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Wilderness
+|id1 = 30020
+|id2 = 30022
+|id3 = 30021
+}}
+[[File:Bound skeleton icon.png|left]]
+'''Bound skeleton''' is a [[Slayer monsters|Slayer creature]] released with the [[Unwelcome Guests]] quest. It requires level 50 [[Slayer]] to be assigned as a Slayer task.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=Directly north of [[Fort Forinthry]] surrounding the entrance to the [[Crypt (Wilderness)|crypt]]
+|lvls=70
+|mem=yes
+|mapID=28
+|npcid:30020,x:3289,y:3633|npcid:30022,x:3293,y:3635|npcid:30021,x:3291,y:3631
+|npcid:30022,x:3289,y:3629|npcid:30021,x:3307,y:3621|npcid:30022,x:3306,y:3619
+|npcid:30021,x:3298,y:3619|npcid:30021,x:3309,y:3613|npcid:30020,x:3299,y:3612
+|npcid:30020,x:3290,y:3617|npcid:30022,x:3303,y:3606|npcid:30021,x:3306,y:3606
+|npcid:30020,x:3305,y:3603
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+Multiple can be aggressive at once, and they hit quite hard. Players are able to [[safe spot]] them in several spots:
+
+*In the north-west corner of the ruins north of the [[Crypt (Wilderness)|crypt]]. There are several gravestones, but the key one is the tall and pointy gravestone attached to a visible grave. Stand in the square immediately north of it. At first a skeleton to the southeast may wander in, but after you killed it once, it will get stuck in a corner between a tree and another gravestone. It looks like there is a 1 square gap to the northeast but it is an invisible wall. You can grab the attention of 1 or 2 skeletons to the north, then run back and the wall would neatly funnel them to be stuck north of you, where you can hit them over another gravestone (1 square, [[halberd]]s can be used)
+*Another spot is exactly 6 squares east and 2 squares north (immediately northeast of some big white mushrooms). Skeletons to the north can't be reached, but there are 2 skeletons to the south that would get stuck on the boulder to the south. Similarly a skeleton might wander into the spot at first but would get stuck afterwards.
+*On the road stretching from north to south through ruins, in the south-eastern area, there is a tree stump in the middle of the road. There are at least 2 skeletons spawning to the north that can easily be stuck north of the stump (1 square, [[halberd]]s can be used).
+*An alternative safe spot is in the south-east area of the ruins, behind the small rock just north of the southernmost room. Skeletons in this area will queue north of the rock if an attack that splinters is used to draw their attention.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Harralander seed|quantity=2|rarity=5/100}}
+{{DropsLine|name=Wergali seed|quantity=2|rarity=6/100}}
+{{DropsTableBottom}}
+
+===Multipliers===
+{{DropsTableHead}}
+{{DropsLine|name=Adamantite stone spirit|quantity=4|rarity=8/100}}
+{{DropsLine|name=Luminite stone spirit|quantity=4|rarity=8/100}}
+{{DropsLine|name=Gold stone spirit|quantity=4|rarity=12/100}}
+{{DropsLine|name=Elemental anima stone|quantity=15|rarity=13/100}}
+{{DropsLine|name=Catalytic anima stone|quantity=12|rarity=8/100}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium bladed steel salvage|quantity=1|rarity=8/100}}
+{{DropsLine|name=Medium plated steel salvage|quantity=2|rarity=8/100}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Super restore (1)|quantity=1|rarity=8/100}}
+{{DropsLine|name=Pure essence|quantity=15 (noted)|rarity=8/100}}
+{{DropsLine|name=Uncut ruby|quantity=2|rarity=8/100}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|slayer_level=1}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+===Bound Skeleton (1)===
+{{GU|subject=NPCs
+|{{GUL|date=[[11 April]] [[2023]]|update=Unwelcome Guests Slayer Content - This Week In RuneScape|img=Bound skeleton (11 April 2023).png|name=Bound skeleton (1)}}
+|{{GUL|date=[[17 April]] [[2023]]|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|img=Bound skeleton.png|name=Bound skeleton (1)}}
+}}
+
+===Bound Skeleton (2)===
+{{GU|subject=NPCs
+|{{GUL|date=[[11 April]] [[2023]]|update=Unwelcome Guests Slayer Content - This Week In RuneScape|img=Bound skeleton (2) (11 April 2023).png|name=Bound skeleton (2)}}
+|{{GUL|date=[[17 April]] [[2023]]|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|img=Bound skeleton (2).png|name=Bound skeleton (2)}}
+}}
+
+===Bound Skeleton (3)===
+{{GU|subject=NPCs
+|{{GUL|date=[[11 April]] [[2023]]|update=Unwelcome Guests Slayer Content - This Week In RuneScape|img=Bound skeleton (3) (11 April 2023).png|name=Bound skeleton (3)}}
+|{{GUL|date=[[17 April]] [[2023]]|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|img=Bound skeleton (3).png|name=Bound skeleton (3)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=MHAW & Double XP - This Week In RuneScape|date=15 May 2023}}
+** The [[Slayer Codex]] icon for bound skeletons has been updated to reflect their previous graphical update.
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Bound skeletons texture has been tweaked to differentiate it from standard skeletons.
+
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Added to game.
+}}
+
+{{Slayer monsters}}

@@ -1,0 +1,306 @@
+{{external|os=Mummy (Ancient Pyramid)}}
+{{Otheruses|the mummies wandering in the pyramid|the mummies spawned from the sarcophagus|Mummy (Jaldraocht sarcophagus)}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|version4 = 4
+|version5 = 1 (on fire)
+|version6 = 2 (on fire)
+|version7 = 3 (on fire)
+|version8 = 4 (on fire)
+|version9 = Ashes
+|name = Mummy
+|name9 = Mummy ashes
+|image1 = [[File:Mummy 1.png|200px]]
+|image2 = [[File:Mummy 2.png|200px]]
+|image3 = [[File:Mummy 3.png|200px]]
+|image4 = [[File:Mummy 4.png|200px]]
+|image5 = [[File:Mummy (on fire) 1.png|200px]]
+|image6 = [[File:Mummy (on fire) 1.png|200px]]
+|image7 = [[File:Mummy (on fire) 2.png|200px]]
+|image8 = [[File:Mummy (on fire) 2.png|200px]]
+|image9 = [[File:Mummy ashes.png|200px]]
+|release = [[18 April]] [[2005]]
+|update = Desert Treasure
+|level = 77
+|experience = 137
+|lifepoints = 2750
+|slaylvl = 1
+|slayxp = 54.8
+|slayercat = Zombies, Undead
+|members = Yes
+|aggressive = No
+|aggressive10 = Yes
+|poisonous = No
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|attack = 55
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|style = Melee
+|primarystyle1 = melee
+|primarystyle2 = melee
+|primarystyle3 = melee
+|primarystyle4 = melee
+|primarystyle5 = melee
+|primarystyle6 = melee
+|primarystyle7 = melee
+|primarystyle8 = melee
+|primarystyle9 = melee
+|primarystyle10 = melee
+|speed = 4
+|max_melee = 220
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|weakness = Fire
+|susceptibility = Salve
+|options = Attack
+|examine1 = A tightly-wrapped monster.
+|examine2 = Spooky, bandaged dead dude.
+|examine3 = A victim of poor first aid.
+|examine4 = But who's the daddy?
+|examine5 = A tightly-wrapped monster.
+|examine6 = Spooky, bandaged dead dude.
+|examine7 = A victim of poor first aid.
+|examine8 = But who's the daddy?
+|examine9 = A tightly-wrapped monster.
+|armour = 983
+|defence = 55
+|acc_melee = 983
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|id1 = 1961
+|id2 = 1962
+|id3 = 1963
+|id4 = 1964
+|id5 = 1965
+|id6 = 1966
+|id7 = 1967
+|id8 = 1968
+|id9 = 1960
+|dropversion1=DropsCharms
+|dropversion2=DropsCharms
+|dropversion3=NotDropsCharms
+|dropversion4=NotDropsCharms
+|dropversion5=NotDropsCharms
+|dropversion6=NotDropsCharms
+|dropversion7=NotDropsCharms
+|dropversion8=NotDropsCharms
+|dropversion9=NotDropsCharms
+|leagueRegion = Desert,Wilderness
+}}
+'''Mummies''' are [[undead]] enemies that can be found within the [[Jaldraocht Pyramid]] and the [[Chaos Tunnels]]. The mummies in the Jaldraocht Pyramid are one of the final defences of [[Azzanadra]]'s imprisonment, and must be evaded across all four floors during the final part of the [[Desert Treasure]] quest.
+
+They are the only monster known to drop [[ancient staves]]. With the exception of a one-time purchase from [[Eblis]], killing them is the only method to obtain them, besides purchasing them from other players. They also drop the [[Mummy Champion's scroll]], which may be used to challenge the [[mummy champion]] in the [[Champion's Challenge]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Jaldraocht Pyramid]] (floor 4)
+|lvls=77
+|mem=yes
+|mapID=525
+|npcid:1961,x:3201,y:9293|npcid:1964,x:3202,y:9283|npcid:1963,x:3204,y:9309
+|npcid:1961,x:3205,y:9303|npcid:1962,x:3205,y:9329|npcid:1961,x:3206,y:9328
+|npcid:1964,x:3206,y:9333|npcid:1961,x:3207,y:9310|npcid:1964,x:3209,y:9299
+|npcid:1962,x:3210,y:9292|npcid:1961,x:3211,y:9284|npcid:1963,x:3214,y:9333
+|npcid:1963,x:3219,y:9297|npcid:1964,x:3219,y:9301|npcid:1961,x:3220,y:9289
+|npcid:1962,x:3221,y:9310|npcid:1961,x:3224,y:9334|npcid:1962,x:3225,y:9323
+|npcid:1964,x:3226,y:9285|npcid:1964,x:3227,y:9303|npcid:1964,x:3228,y:9293
+|npcid:1964,x:3229,y:9333|npcid:1964,x:3237,y:9293|npcid:1963,x:3239,y:9300
+|npcid:1963,x:3240,y:9286|npcid:1963,x:3240,y:9330|npcid:1962,x:3243,y:9310
+|npcid:1963,x:3245,y:9306|npcid:1962,x:3246,y:9290|npcid:1964,x:3246,y:9321
+|npcid:1961,x:3249,y:9286|npcid:1963,x:3250,y:9316|npcid:1963,x:3250,y:9317
+|npcid:1961,x:3251,y:9303|npcid:1961,x:3252,y:9327|npcid:1961,x:3252,y:9332
+|npcid:1962,x:3255,y:9301|npcid:1961,x:3255,y:9315|npcid:1962,x:3255,y:9321
+|npcid:1964,x:3256,y:9296|npcid:1963,x:3257,y:9290|npcid:1964,x:3260,y:9285
+|npcid:1961,x:3261,y:9296|npcid:1961,x:3261,y:9306|npcid:1962,x:3261,y:9331
+|npcid:1964,x:3262,y:9317
+|leagueRegion = Desert}}
+{{LocLine
+|loc=[[Jaldraocht Pyramid]] (floor 3)
+|lvls=77
+|mem=yes
+|mapID=485
+|npcid:1964,x:2761,y:4950|npcid:1962,x:2762,y:4962|npcid:1962,x:2763,y:4973
+|npcid:1961,x:2764,y:4944|npcid:1964,x:2765,y:4938|npcid:1964,x:2770,y:4955
+|npcid:1963,x:2771,y:4947|npcid:1964,x:2772,y:4940|npcid:1963,x:2775,y:4963
+|npcid:1964,x:2777,y:4943|npcid:1962,x:2780,y:4977|npcid:1963,x:2781,y:4948
+|npcid:1964,x:2782,y:4967|npcid:1962,x:2787,y:4967|npcid:1963,x:2792,y:4942
+|npcid:1962,x:2796,y:4959|npcid:1961,x:2796,y:4976|npcid:1964,x:2797,y:4965
+|npcid:1961,x:2798,y:4950|npcid:1963,x:2798,y:4954|npcid:1964,x:2799,y:4937
+|npcid:1964,x:2799,y:4941|npcid:1961,x:2806,y:4939|npcid:1964,x:2807,y:4968
+|npcid:1964,x:2808,y:4975|npcid:1964,x:2809,y:4953
+|leagueRegion = Desert}}
+{{LocLine
+|loc=[[Jaldraocht Pyramid]] (floor 2)
+|lvls=77
+|mem=yes
+|mapID=486
+|npcid:1961,x:2832,y:4959|npcid:1962,x:2838,y:4948|npcid:1963,x:2858,y:4964
+|npcid:1964,x:2864,y:4946
+|leagueRegion = Desert}}
+{{LocLine
+|loc=[[Jaldraocht Pyramid]] (floor 1)
+|lvls=77
+|mem=yes
+|mapID=487
+|npcid:1962,x:2900,y:4948|npcid:1963,x:2926,y:4965
+|leagueRegion = Desert}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=77
+|mem=yes
+|mapID=23
+|npcid:1964,x:3144,y:5479|npcid:1964,x:3145,y:5465|npcid:1964,x:3145,y:5475
+|npcid:1962,x:3146,y:5469|npcid:1961,x:3146,y:5476|npcid:1963,x:3147,y:5473
+|npcid:1963,x:3147,y:5479|npcid:1964,x:3151,y:5475|npcid:1962,x:3155,y:5476
+|npcid:1963,x:3161,y:5479|npcid:1962,x:3161,y:5482|npcid:1961,x:3162,y:5478
+|npcid:1961,x:3167,y:5459|npcid:1962,x:3167,y:5470|npcid:1963,x:3169,y:5463
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Strengths and weaknesses==
+Mummies are highly flammable, and as such are set aflame when they are hit by a [[fire spell]]. While they are weaker to fire than other attacks, being set on fire does not affect their combat prowess. If hit by a [[water spell]] while on fire, they will return to their normal state, and if killed while on fire, they will turn into ashes. As they are undead, they are also susceptible to the [[salve amulet]] and [[Undead Slayer]] Invention perk.
+
+[[Aggressive]] mummies with the examine text of "Highly flammable!" spawn from the sarcophagi in the Jaldraocht Pyramid if a player is standing next to them, with another spawning as soon as the last is defeated. These mummies are completely immune to all attacks except fire spells, but cannot be set on fire like the other mummies. If players position themselves between two sarcophagi, they can be used for a relatively low-attention way of killing mummies, particularly useful if hunting for their champion scroll.
+
+[[File:Ice Burst on Mummies.png|thumb|A player killing the mummies in the Chaos Tunnels.|left]]
+As the mummies in the Chaos Tunnels are numerous and close together, using area of affect [[abilities]] and [[spells]] such as [[Chain]] and [[Blood Barrage]] provides an easy way to take down lots of mummies relatively quickly, and may serve as a better option for champion scroll hunters than the ones in Jaldroacht.
+{{Clear|left}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=36|rarity=20/513|gemw=No}}
+{{DropsLine|name=Coins|quantity=46|rarity=17/513|gemw=No}}
+{{DropsLine|name=Coins|quantity=95|rarity=20/513|gemw=No}}
+{{DropsLine|name=Coins|quantity=106|rarity=20/513|gemw=No}}
+{{DropsLine|name=Coins|quantity=183|rarity=20/513|gemw=No}}
+{{DropsLine|name=Coins|quantity=222|rarity=20/513|gemw=No}}
+{{DropsLine|name=Coins|quantity=472|rarity=10/513|gemw=No}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Ancient staff|quantity=1|rarity=1/513}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium plated rune salvage|quantity=1|rarity=3/513}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=3/513}}
+{{DropsTableBottom}}
+
+===Jewellery===
+{{DropsTableHead}}
+{{DropsLine|name=Gold ring|quantity=1|rarity=40/513}}
+{{DropsLine|name=Gold amulet (unstrung)|quantity=1|rarity=25/513}}
+{{DropsLine|name=Gold necklace|quantity=1|rarity=20/513}}
+{{DropsLine|name=Sapphire necklace|quantity=1|rarity=10/513}}
+{{DropsLine|name=Sapphire ring|quantity=1|rarity=10/513}}
+{{DropsLine|name=Emerald ring|quantity=1|rarity=10/513}}
+{{DropsLine|name=Ring of duelling (1)|quantity=1|rarity=10/513}}
+{{DropsLine|name=Emerald amulet (unstrung)|quantity=1|rarity=10/513}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|3/513}}
+{{DropsTableHead}}
+{{HerbDropTable|3/513}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/512|raritynotes={{DropNote|Rolls separately, first.}}}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=120/513}}
+{{DropsLine|name=Papyrus|quantity=1|rarity=44/513}}
+{{DropsLine|name=Silk|quantity=1|rarity=40/513}}
+{{DropsLine|name=Swamp tar|quantity=1|rarity=30/513}}
+{{DropsLine|name=Casket|quantity=1|rarity=3/513}}
+{{DropsLine|name=Nothing|rarity=2/513}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/513}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Mummy Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Mummy Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineEffigy|level=77|version=DropsCharms}}
+{{DropsLineSpiritGems|version=DropsCharms}}
+{{DropsLineMimic|level=77|version=DropsCharms}}
+{{DropsTableBottom}}
+
+===Charms===
+Charms are '''only''' dropped by mummies that have the examine text "A tightly-wrapped monster." ([[#1]]) and "Spooky, bandaged dead dude." ([[#2]])
+{{CharmDropTable
+|version=DropsCharms
+|quantity = 1
+|gold = 152.035/1000
+|green = 76.018/1000
+|crimson = 50.678/1000
+|blue = 60.814/1000
+}}
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Mummy artwork.jpg|Concept artwork of mummies.
+</gallery>
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[26 April]] [[2005]]|update=Desert Month Finale|img=Mummy old.png|name=Mummy}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Mummy (PP) old.png|name=Mummy}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Mummy 2.png|name=Mummy}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (28 January 2013)|date=28 January 2013}} 
+** Mummies, once set on fire, will give xp.
+
+* {{UL|type=patch|update=Patch Notes (2 March 2020)|date=2 March 2020}}
+** Player is now informed that mummies can only be harmed by fire when attacking them at the end of Desert Treasure.
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** If you venture to the pyramids in the desert you'll find that the mummies have been similarly redecorated.
+
+* {{UL|type=update|update=Desert Treasure|date=18 April 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* In [[February]] [[2012]], the mummies had their combat levels increased from 103 to 138. This also increased their [[Ancient Effigy]] drop rates. This made the ones that spawned from the sarcophagi in the Jaldraocht Pyramid very popular for effigy hunters, since at the time they only had 10 [[life points]]. Their popularity has dropped since the effigy drop rate reduction, and their life points being increased to be the same as the other mummies with the [[Evolution of Combat]].
+
+{{Desert Treasure}}
+{{Mummy}}

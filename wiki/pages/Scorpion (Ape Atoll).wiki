@@ -1,0 +1,97 @@
+{{Infobox Monster
+|name = Scorpion
+|image = [[File:Scorpion (Ape Atoll).png]]
+|release = [[6 December]] [[2004]]
+|update = Monkey Madness
+|members = Yes
+|options = Attack
+|examine = It's an extremely dangerous looking scorpion.
+|level = 14
+|lifepoints = 1000
+|experience = 50.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 9.2
+|slayercat = Scorpions
+|assigned_by = Turael, Vannaka
+|max_melee = 200
+|max_ranged = 200
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 7
+|ranged = 10
+|magic = 1
+|necromancy = 1
+|acc_melee = 102
+|acc_ranged = 102
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 202
+|defence = 10
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1477
+|leagueRegion=Kandarin}}
+Level 14 '''Scorpions''' are found on [[Ape Atoll]] and [[Crash Island]]. They will attack players if they are in human form, and they can also poison.
+
+They are much smaller than standard scorpions, but are bigger than smaller scorpions such as [[pit scorpion]]s.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ape Atoll]]
+|lvls=14
+|mem=yes
+|mapID=28
+|npcid:1477,x:2762,y:2749|npcid:1477,x:2768,y:2739|npcid:1477,x:2769,y:2734
+|npcid:1477,x:2781,y:2743|npcid:1477,x:2752,y:2762|npcid:1477,x:2761,y:2803
+|npcid:1477,x:2766,y:2761|npcid:1477,x:2769,y:2806|npcid:1477,x:2776,y:2764
+|npcid:1477,x:2792,y:2796|npcid:1477,x:2793,y:2778|npcid:1477,x:2804,y:2797|leagueRegion=Kandarin}}
+{{LocLine
+|loc=[[Crash Island]]
+|lvls=14
+|mem=yes
+|mapID=28
+|npcid:1477,x:2894,y:2715|npcid:1477,x:2899,y:2734|npcid:1477,x:2901,y:2721
+|npcid:1477,x:2902,y:2727|leagueRegion=Kandarin}}
+{{LocTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[8 May]] [[2007]]|update=Small spiders, kalphites, scorpions and metal dragons|img=Scorpion (Ape Atoll) old.png|name=Scorpion (Ape Atoll)}}
+|{{GUL|date=[[22 July]] [[2014]]|update=Patch Notes (22 July 2014)|img=Scorpion - Ape Atoll (July 2014).png|name=Scorpion (Ape Atoll)}}
+|{{GUL|date=[[3 June]] [[2024]]|update=Pride Events & Ultra+ Graphics - This Week In RuneScape|img=Scorpion (Ape Atoll).png|name=Scorpion (Ape Atoll)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Pride Events & Ultra+ Graphics - This Week In RuneScape|date=4 June 2024}}
+** Graphically updated all scorpions across Gielinor.
+
+* {{UL|type=patch|update=Cookbook And Progression Wrapup Update - This Week In RuneScape|date=25 March 2024}}
+** The scorpion is no longer stuck in the [[Gnome glider]] at [[Crash Island]].
+
+* {{UL|type=update|update=Monkey Madness|date=6 December 2004}}
+** Added to game.
+}}
+
+{{Scorpions}}
+[[Category:NPCs not visible on the minimap]]

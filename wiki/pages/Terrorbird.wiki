@@ -1,0 +1,163 @@
+{{External|os|dw}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 3
+|name = Terrorbird
+|image1 = [[File:Terrorbird.png|200px]]
+|image2 = [[File:Terrorbird (2).png|200px]]
+|image3 = [[File:Terrorbird (3).png|200px]]
+|release = [[29 March]] [[2004]]
+|release2 = [[9 July]] [[2007]]
+|release3 = [[9 July]] [[2007]]
+|update = RS2 Launched!
+|update2 = A bird in the hand...
+|update3 = A bird in the hand...
+|members = Yes
+|options = Attack
+|examine = A giant raptor.
+|level = 42
+|lifepoints = 4800
+|experience = 240.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 17.2
+|slayercat = Birds
+|assigned_by = Turael, Jacquelyn
+|max_melee = 600
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 30
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 354
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 454
+|defence = 30
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 138
+|id2 = 139
+|id3 = 1751
+|leagueRegion1 = Kandarin
+|leagueRegion2 = Kandarin
+|leagueRegion3 = Kandarin
+}}
+'''Terrorbirds''' (''Aves Terror'') are animals which are used by the [[gnomes]] as mounts. Despite their fearsome appearance, they are not aggressive at all. They are involved in the [[Rag and Bone Man]] [[quest]]. Terrorbirds count for the [[bird]] [[Slayer]] task.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Tree Gnome Stronghold]]
+|lvls=42
+|mem=yes
+|mapID=28
+|npcid:138,x:2375,y:3432|npcid:1751,x:2375,y:3435|npcid:138,x:2375,y:3440|npcid:139,x:2378,y:3429|npcid:138,x:2378,y:3431|npcid:139,x:2378,y:3436|npcid:139,x:2379,y:3439|npcid:138,x:2380,y:3436|npcid:1751,x:2382,y:3430|npcid:138,x:2436,y:3434
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Gnome Maze]]
+|lvls=42
+|mem=yes
+|mapID=28
+|npcid:138,x:2498,y:3141|npcid:138,x:2504,y:3140
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Arposandra|Arposandra Dungeon]] (curently inaccessible)
+|lvls=42
+|mem=yes
+|mapID=436
+|npcid:138,x:3550,y:4552|npcid:139,x:3550,y:4559|npcid:1751,x:3552,y:4562|npcid:1751,x:3553,y:4553|npcid:138,x:3554,y:4557|npcid:138,x:3555,y:4560|npcid:139,x:3557,y:4564
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+===100% drop===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main drop===
+{{DropsTableHead}}
+{{DropsLine|name=Cornucopia|quantity=1|rarity=Very rare|gemw=no}}
+{{DropsTableBottom}}
+
+===Tertiary drop===
+{{DropsTableHead}}
+{{DropsLine|name=Terrorbird wing|quantity=1|rarity=Common|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=no}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Terrorbird display.gif|The terrorbird in the display in the [[Varrock Museum]] basement
+File:Terrorbird pen.png|The terrorbird pen in the [[Tree Gnome Stronghold]]
+</gallery>
+
+==Achievement==
+* {{Achievement|Guardian of the Realm}} 
+** [[Cornucopia]] drop
+
+==Graphical updates==
+{{Switch infobox
+|text1 = 1
+|item1 =
+{{GU|subject=npc
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Terrorbird (2004).png|name=Terrorbird}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Terrorbird (1) (2007).png|name=Terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Terrorbird.png|name=Terrorbird}}
+}}
+|text2 = 2
+|item2 =
+{{GU|subject=npc
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Terrorbird (2) (2007).png|name=Terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Terrorbird (2).png|name=Terrorbird}}
+}}
+|text3 = 3
+|item3 =
+{{GU|subject=npc
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Terrorbird (3) (2007).png|name=Terrorbird}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Terrorbird (3).png|name=Terrorbird}}
+}}
+}}
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=RS2 Launched!|date=29 March 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* The terrorbird is probably based on {{wp|Phorusrhacidae|Phorusrhacids}}, apex predators that lived during the Cenozoic Era, which are nicknamed "terror birds".
+* Terrorbirds are likely poor climbers as referenced by a [[gnome trainer]] while proceeding to the advanced section of the [[Gnome Agility Course|agility course]]{{CiteNPC|npc=Gnome trainer|quote=Terrorbirds could climb faster than that!|loc=Gnome Agility Course}}.
+
+==References==
+{{Reflist}}
+
+{{Tree Gnome Stronghold}}
+
+[[Category:Terrorbirds]]
+[[Category:Birds]]

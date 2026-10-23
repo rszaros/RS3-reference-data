@@ -1,0 +1,155 @@
+{{External|os=Hellhound#Level 127}}
+{{Infobox Monster
+|name = Hellhound
+|image = [[File:Hellhound (God Wars Dungeon).png|x280px]]
+|release = [[28 August]] [[2007]]
+|update = God Wars Dungeon
+|members = Yes
+|options = Attack, Examine
+|examine = From the maws of hell.
+|level = 95
+|lifepoints = 9500
+|experience = 475.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 207.4
+|slayercat = Hellhounds
+|assigned_by = Sumona,Lapalok,Kuradal,Mandrith
+|max_melee = 1080
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 75
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1694
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1335
+|defence = 75
+|weakness = Water, darklight
+|susceptibility = Demon slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia
+|id = 6210
+}}
+'''Hellhounds''' in the [[God Wars Dungeon]] are troops fighting for [[Zamorak]] against armies of the other gods. They are stronger than the regular [[hellhound]] and can be killed for [[killcount]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[God Wars Dungeon]]
+|lvls=95
+|mem=yes
+|mapID=15
+|npcid:6210,x:2837,y:5335|npcid:6210,x:2892,y:5302|npcid:6210,x:2881,y:5325
+|npcid:6210,x:2889,y:5329|npcid:6210,x:2915,y:5345
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=127/128}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Furniture plans===
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Zamorak altar|quantity=1|rarity=}}
+{{DropsLine|name=Furniture plans: Zamorak rug|quantity=1|rarity=}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Frozen key piece (Zamorak)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Zamorak's Fortress]].}}|gemw=No}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=2/128|gemw=No}}
+{{DropsLineBoneFragments|slayer_level=1}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=95}}
+{{DropsLineWarpriest|god=zamorak}}
+{{DropsTableBottom}}
+
+==Products==
+{{Uses facility list|Hellhound (God Wars Dungeon), Hellhound}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Hellhound (God Wars Dungeon) (2007).png|name=Hellhound (God Wars Dungeon)}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Hellhound (God Wars Dungeon) (2008).png|name=Hellhound (God Wars Dungeon)}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Hellhound (God Wars Dungeon) (2012).png|name=Hellhound (God Wars Dungeon)}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Hellhound (God Wars Dungeon) (2022).png|name=Hellhound (God Wars Dungeon)}}
+|{{GUL|date=[[6 February]] [[2023]]|update=Prepping For Fort Forinthry - This Week In RuneScape|img=Hellhound (God Wars Dungeon).png|name=Hellhound (God Wars Dungeon)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Prepping For Fort Forinthry - This Week In RuneScape|date=6 February 2023}}
+** Updated the appearance of hellhounds by adjusting their roughness and metal spec values.
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Hellhounds have been graphically updated.
+
+* {{UL|type=ninja|update=Patch Notes (25 April 2016)|date=25 April 2016}}
+** Improved respawn rates for Hellhounds.
+
+* {{UL|type=ninja|update=Patch Notes (17 August 2015)|date=17 August 2015}}
+** Various gauntlets are now dropped from additional NPCs:
+*** Rune - hellhounds
+
+* {{UL|type=patch|update=Patch Notes (5 February 2013)|date=5 February 2013}}
+** All Hellhounds (and normal dogs) now utilise the latest sound effects.
+
+* {{UL|type=update|update=God Wars: Remastered|date=5 September 2012}}
+** Hellhounds in the [[God Wars Dungeon]] have been graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (28 March 2011)|date=28 March 2011}}
+** Charm drop rates for this monster have been reverted.
+
+* {{UL|type=patch|update=Patch Notes (10 January 2011)|date=10 January 2011}}
+** This monster's animations have been updated to use more than just one of their legs.
+
+* {{UL|type=update|update=God Wars Dungeon|date=28 August 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* After the [[Update:Ring of Wealth, Shanties, Trolls and Dungeoneering|ring of wealth update]] on [[16 March]] [[2011]], the charm drop rates of hellhounds and [[rock lobster]]s had "gone walkabouts."{{CiteForum|author = Mod Sneakman|url = http://services.runescape.com/m=forum/forums.ws?15,16,525,62549891,goto,2|archivedate=18 March 2013|archiveurl=https://reldo.runescape.wiki/i/5765954|title = Hellhounds Nerf?|forum = Recent Updates|postdate = 16 March 2011|notes = }} This caused hellhounds to drop gold charms less frequently. Rather, they seemed to drop blue charms much more often. This was, however, fixed on 28 March as noted in the [[Update:Patch Notes (28 March 2011)|patch notes]] of that date.
+
+==References==
+{{Reflist}}
+
+{{Demons}}
+{{Dogs}}
+{{God Wars Dungeon}}
+[[Category:Participants in the God Wars]]

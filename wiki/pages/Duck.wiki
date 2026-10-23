@@ -1,0 +1,265 @@
+{{External|os}}
+{{Otheruses|def=no}}
+{{Infobox Monster
+|version1 = Male
+|version2 = Female
+|version3 = Land
+|name = Duck
+|image1 = [[File:Duck.png|130px]]
+|image2 = [[File:Duck (female).png|150px]]
+|image3 = [[File:Duck (land).png]]
+|release = [[29 March]] [[2004]]
+|update = RS2 Launched!
+|members = No
+|options = Attack
+|examine1 = He's quackers.
+|examine2 = She's quackers.
+|examine3 = Waddle waddle waddle quack.
+|level = 1
+|lifepoints = 250
+|experience = 12.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19.4
+|slayercat = Birds
+|assigned_by = Turael
+|max_melee = 20
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 10
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 46
+|id2 = 2693
+|id3 = 6113
+|leagueRegion=Kandarin, Karamja, Asgarnia, Misthalin}}
+{{Synced switch
+|version1=
+[[File:Duck (male) chathead.png|left|60px]]
+|version2=
+[[File:Duck (female) chathead.png|left|60px]]
+|version3=
+[[File:Duck (land) chathead.png|left|60px]]
+}}
+'''Ducks''' are [[bird]]s which are commonly found in [[rivers]] or lakes. They are very small, and are most often found on water, meaning they drop nothing, but if killed on land, they will drop [[bones]]. They are often found in the company of [[ducklings]] and [[drake]]s.
+
+If the duck is next to the shore, the player can hit it with a [[melee]] weapon, but this occurrence is rare. Aside from using [[halberd]]s, players can usually only [[Ranged|range]] or [[Magic|mage]] them. Ducks found on land, such as those in [[Falador Park]], can be killed easily with any weapon.
+
+Ducks can be fed by using [[breadcrumbs]] or [[duck food]], which are created by slicing [[bread]] or collected from the [[Sack of duck food]] south of Falador Park, respectively. Although there is no benefit to doing so with standard ducks, if a drake is fed over 21 breadcrumbs in 20 seconds, it will turn into [[Mega Duck]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Tree Gnome Stronghold]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:46,x:2391,y:3413|npcid:2693,x:2393,y:3411|npcid:46,x:2395,y:3412
+|npcid:46,x:2401,y:3409|npcid:46,x:2402,y:3409|npcid:46,x:2404,y:3406
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Fishing Guild]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:2693,x:2593,y:3445|npcid:2693,x:2593,y:3454|npcid:46,x:2594,y:3446
+|npcid:2693,x:2594,y:3452|npcid:2693,x:2595,y:3447|npcid:46,x:2595,y:3449
+|npcid:2693,x:2595,y:3454|npcid:2693,x:2596,y:3439|npcid:46,x:2596,y:3453
+|npcid:2693,x:2597,y:3443|npcid:2693,x:2597,y:3446|npcid:2693,x:2598,y:3437
+|npcid:46,x:2598,y:3440|npcid:46,x:2598,y:3444|npcid:2693,x:2598,y:3454
+|npcid:2693,x:2599,y:3434|npcid:46,x:2600,y:3435|npcid:2693,x:2600,y:3440
+|npcid:2693,x:2600,y:3445|npcid:2693,x:2601,y:3436|npcid:2693,x:2602,y:3433
+|npcid:2693,x:2604,y:3430|npcid:2693,x:2604,y:3434|npcid:2693,x:2605,y:3432
+|npcid:46,x:2605,y:3433|npcid:2693,x:2607,y:3433|npcid:2693,x:2613,y:3422
+|npcid:2693,x:2614,y:3424|npcid:2693,x:2614,y:3449|npcid:2693,x:2615,y:3421
+|npcid:46,x:2615,y:3423|npcid:2693,x:2615,y:3425|npcid:2693,x:2615,y:3453
+|npcid:46,x:2616,y:3420|npcid:2693,x:2616,y:3423|npcid:46,x:2616,y:3447
+|npcid:46,x:2616,y:3450|npcid:2693,x:2617,y:3405|npcid:46,x:2617,y:3407
+|npcid:2693,x:2617,y:3410|npcid:46,x:2617,y:3425|npcid:2693,x:2617,y:3445
+|npcid:2693,x:2617,y:3448|npcid:2693,x:2618,y:3406|npcid:2693,x:2618,y:3422
+|npcid:46,x:2619,y:3409|npcid:46,x:2619,y:3421|npcid:2693,x:2619,y:3424
+|npcid:46,x:2619,y:3445|npcid:2693,x:2619,y:3447|npcid:2693,x:2619,y:3450
+|npcid:2693,x:2620,y:3403|npcid:46,x:2620,y:3405|npcid:46,x:2620,y:3407
+|npcid:46,x:2620,y:3449|npcid:2693,x:2621,y:3405|npcid:2693,x:2621,y:3410
+|npcid:2693,x:2621,y:3444|npcid:46,x:2621,y:3446
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Fisher Realm]]
+|lvls=1
+|mem=yes
+|mapID=400
+|npcid:2693,x:2662,y:4683|npcid:2693,x:2662,y:4685|npcid:46,x:2662,y:4686
+|npcid:2693,x:2663,y:4686|npcid:2693,x:2664,y:4681|npcid:46,x:2664,y:4682
+|npcid:2693,x:2665,y:4684|npcid:2693,x:2666,y:4679|npcid:2693,x:2666,y:4682
+|npcid:2693,x:2666,y:4686|npcid:46,x:2666,y:4687|npcid:2693,x:2667,y:4677
+|npcid:46,x:2668,y:4678|npcid:2693,x:2668,y:4679|npcid:46,x:2668,y:4682
+|npcid:2693,x:2668,y:4687|npcid:46,x:2668,y:4688|npcid:2693,x:2669,y:4684
+|npcid:2693,x:2670,y:4679|npcid:2693,x:2670,y:4681|npcid:46,x:2670,y:4682
+|npcid:2693,x:2670,y:4688
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc=[[Falador]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:2693,x:2974,y:3359|npcid:2693,x:2976,y:3359|npcid:46,x:2977,y:3357
+|npcid:2693,x:2979,y:3359|npcid:46,x:2981,y:3358|npcid:2693,x:2989,y:3384
+|npcid:6113,x:2990,y:3379|npcid:46,x:2992,y:3383|npcid:2693,x:2992,y:3384
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Falador farm]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:46,x:3019,y:3284|npcid:2693,x:3020,y:3284
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Lumbridge forest]] pond
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:6113,x:3173,y:3264|npcid:6113,x:3173,y:3277|npcid:46,x:3174,y:3271
+|npcid:2693,x:3168,y:3269|npcid:2693,x:3171,y:3271
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[River Lum]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:46,x:3140,y:3387|npcid:2693,x:3142,y:3386|npcid:46,x:3143,y:3384
+|npcid:2693,x:3144,y:3382|npcid:46,x:3146,y:3382|npcid:2693,x:3147,y:3380
+|npcid:46,x:3148,y:3372|npcid:2693,x:3148,y:3374|npcid:46,x:3150,y:3368
+|npcid:2693,x:3150,y:3370|npcid:46,x:3150,y:3371|npcid:46,x:3150,y:3373
+|npcid:2693,x:3151,y:3366|npcid:2693,x:3151,y:3371|npcid:46,x:3152,y:3356
+|npcid:2693,x:3152,y:3357|npcid:46,x:3152,y:3360|npcid:46,x:3153,y:3354
+|npcid:46,x:3153,y:3358|npcid:2693,x:3155,y:3355|npcid:2693,x:3167,y:3346
+|npcid:46,x:3168,y:3347|npcid:2693,x:3169,y:3346|npcid:2693,x:3169,y:3354
+|npcid:2693,x:3170,y:3345|npcid:46,x:3170,y:3347|npcid:46,x:3170,y:3354
+|npcid:2693,x:3171,y:3346|npcid:2693,x:3171,y:3353|npcid:46,x:3171,y:3355
+|npcid:46,x:3172,y:3354|npcid:2693,x:3173,y:3351|npcid:2693,x:3173,y:3353
+|npcid:46,x:3181,y:3348|npcid:2693,x:3183,y:3347|npcid:46,x:3183,y:3348
+|npcid:2693,x:3187,y:3344|npcid:46,x:3191,y:3342|npcid:46,x:3194,y:3341
+|npcid:46,x:3194,y:3343|npcid:46,x:3196,y:3339|npcid:46,x:3235,y:3259
+|npcid:2693,x:3238,y:3238|npcid:46,x:3238,y:3244|npcid:2693,x:3238,y:3246
+|npcid:2693,x:3239,y:3235|npcid:46,x:3241,y:3230|npcid:46,x:3241,y:3234
+|npcid:46,x:3243,y:3228|npcid:46,x:3247,y:3221|npcid:46,x:3248,y:3220
+|npcid:46,x:3259,y:3212|npcid:46,x:3211,y:3322|npcid:2693,x:3214,y:3313
+|npcid:46,x:3214,y:3314|npcid:46,x:3214,y:3318|npcid:2693,x:3214,y:3320
+|npcid:2693,x:3215,y:3303|npcid:46,x:3216,y:3314|npcid:46,x:3218,y:3287
+|npcid:2693,x:3219,y:3285|npcid:2693,x:3219,y:3288|npcid:46,x:3223,y:3281
+|npcid:6113,x:3226,y:3283|npcid:6113,x:3229,y:3280|npcid:46,x:3231,y:3271
+|npcid:46,x:3233,y:3267|npcid:46,x:3233,y:3270|npcid:2693,x:3234,y:3267
+|npcid:2693,x:3234,y:3268|npcid:46,x:3235,y:3265
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always|raritynotes={{DropNote|Only if not killed on water.}}}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Male
+|item1 = 
+{{GU|subject=NPCs
+|{{GUL|beta=yes|img=Duck (RS2 beta).png|name=Male duck}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Duck (male, 2004).png|name=Male duck}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Duck (male, 2007).png|name=Male duck}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Duck (male, 2008).png|name=Male duck}}
+|{{GUL|date=[[4 August]] [[2014]]|update=Clan Month - The Beginning|img=Duck (male, 2014).png|name=Male duck}}
+|{{GUL|date=[[19 May]] [[2025]]|update=May Patch Week & DXP Continues - This Week In RuneScape|img=Duck.png|name=Male duck}}
+}}
+
+|text2 = Female
+|item2 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Duck (female, 2004).png|name=Female duck}}
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Duck (female) (2007).png|name=Female duck}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Duck (female, 2008).png|name=Female duck}}
+|{{GUL|date=[[4 August]] [[2014]]|update=Clan Month - The Beginning|img=Duck (female, 2014).png|name=Female duck}}
+|{{GUL|date=[[19 May]] [[2025]]|update=May Patch Week & DXP Continues - This Week In RuneScape|img=Duck (female, May 2025).png|name=Female duck}}
+|{{GUL|date=[[18 August]] [[2025]]|update=Tuska Clean Up - This Week In RuneScape|img=Duck (female).png|name=Female duck}}
+}}
+
+|text3 = Land
+|item3 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[9 July]] [[2007]]|update=A bird in the hand...|img=Duck (land, 2007).png|name=Land duck}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Duck (land, 2008).png|name=Land duck}}
+|{{GUL|date=[[4 August]] [[2014]]|update=Clan Month - The Beginning|img=Duck (land, 2014).png|name=Land duck}}
+|{{GUL|date=[[19 May]] [[2025]]|update=May Patch Week & DXP Continues - This Week In RuneScape|img=Duck (land, May 2025).png|name=Land duck}}
+|{{GUL|date=[[18 August]] [[2025]]|update=Tuska Clean Up - This Week In RuneScape|img=Duck (land).png|name=Land duck}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=May Patch Week & DXP Continues - This Week In RuneScape|date=19 May 2025}}
+** The examine text of male duck changed from 'Quackers.' to 'He's quackers'.
+
+* {{UL|type=patch|update=May Patch Week & DXP Continues - This Week In RuneScape|date=19 May 2025}}
+** Graphically updated ducks and ducklings across the game.
+
+* {{UL|type=patch|update=This Week In RuneScape - 18/08/20#patch-notes|date=18 August 2020}}
+** Ducks will no longer swim ''through'' the banks of the River Lum.
+
+* {{UL|type=patch|update=Patch Notes (6 January 2020)|date=6 January 2020}}
+** Ducks' movement no longer randomly gets stuck.
+
+* {{UL|type=patch|update=Patch Notes (19 July 2010)|date=19 July 2010}}
+** Adjusted the checks for killing a duck in [[Falador Park]] for the respective [[Achievement Diary]].
+
+* {{UL|type=update|update=RS2 Launched!|date=29 March 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* Killing a duck in Falador Park is one of the Falador easy tasks.
+* The ducks appear to be of the {{Wp|mallard}} species.
+* At one point ducks were removed from the minimap as yellow dots but later been reinstated. They have since been removed from the minimap again.
+* Previously it was possible to gain prayer experience by killing ducks on water with a [[bonecrusher]].
+* Feeding a duck with breadcrumbs or duck food has a 1/100 chance of the duck saying: {{RSChat|Cheers}}.
+
+{{External|wp}}
+[[Category:Ducks]]
+[[Category:NPCs with multiple Examine options]]
+[[Category:Birds]]
+[[Category:NPCs not visible on the minimap]]

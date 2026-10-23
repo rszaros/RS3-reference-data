@@ -1,0 +1,141 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 21
+|version2 = 37
+|version3 = 54
+|version4 = 71
+|version5 = 88
+|version6 = 105
+|version7 = 121
+|version8 = 138
+|name = Fire giant
+|image = [[File:Fire giant.png|150px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark
+|examine = A very large elemental adversary.
+|level1 = 21
+|level2 = 37
+|level3 = 54
+|level4 = 71
+|level5 = 88
+|level6 = 105
+|level7 = 121
+|level8 = 138
+|lifepoints1 = 1500
+|lifepoints2 = 2700
+|lifepoints3 = 3900
+|lifepoints4 = 5100
+|lifepoints5 = 6300
+|lifepoints6 = 7500
+|lifepoints7 = 8700
+|lifepoints8 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 161.2
+|slayercat = Fire giants, Creatures of Daemonheim
+|assigned_by = chaeldar, sumona, Duradel, Kuradal
+|max_melee1 = 75
+|max_melee2 = 135
+|max_melee3 = 195
+|max_melee4 = 255
+|max_melee5 = 315
+|max_melee6 = 375
+|max_melee7 = 435
+|max_melee8 = 495
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack1 = 15
+|attack2 = 27
+|attack3 = 39
+|attack4 = 51
+|attack5 = 63
+|attack6 = 75
+|attack7 = 87
+|attack8 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 257
+|acc_melee2 = 409
+|acc_melee3 = 609
+|acc_melee4 = 875
+|acc_melee5 = 1230
+|acc_melee6 = 1694
+|acc_melee7 = 2287
+|acc_melee8 = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 257
+|armour2 = 409
+|armour3 = 628
+|armour4 = 732
+|armour5 = 850
+|armour6 = 1132
+|armour7 = 1486
+|armour8 = 1924
+|defence1 = 15
+|defence2 = 27
+|defence3 = 39
+|defence4 = 51
+|defence5 = 63
+|defence6 = 75
+|defence7 = 87
+|defence8 = 99
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10754
+|id2 = 10755
+|id3 = 10756
+|id4 = 10757
+|id5 = 10758
+|id6 = 10759
+|id7 = 10760
+|id8 = 10761
+|leagueRegion = Wilderness
+}}
+'''Fire giants''' may be encountered while training [[Dungeoneering]]. Unlike normal Fire giants, these giants' combat levels can be very high. They are first found on the [[Dungeoneering floors#Occult floors (m)|Occult floors]]. They hit very hard with melee, so [[Protect from Melee]] or [[Deflect Melee]] is recommended when at close quarters. However, their large size means they can be easily trapped by using [[safespot]]s; though as with all monsters in [[Daemonheim]], they will wander if unable to attack their opponent.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (31 October 2016)|date=31 October 2016}}
+** Fire giants in Daemonheim are no longer weak to [[fire spells]].
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+[[Category:Giants]]
+[[Category:Elementals]]

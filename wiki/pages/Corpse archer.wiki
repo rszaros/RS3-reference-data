@@ -1,0 +1,176 @@
+{{Infobox Monster
+|name = Corpse archer
+|image = [[File:Corpse archer.png|150px]]
+|release = [[15 March]] [[2010]]
+|update = The Blood Pact and Lumbridge Catacombs
+|members = No
+|actions = Attack
+|examine = Bones and arrows.
+|level = 18
+|lifepoints = 2350
+|experience = 117.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 27.8
+|slayercat = Zombies, Undead
+|max_melee = 0
+|max_ranged = 260
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 13
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 134
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 234
+|defence = 13
+|weakness = Crush
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 7923,7924,7925,7926,7927,7928,9607,9608,9609
+|leagueRegion=Misthalin}}
+'''Corpse archers''' can be found in the eighth room of the [[Lumbridge Catacombs]] which can only be entered after completing [[The Blood Pact]] quest. They were created by [[Dragith Nurn]], a now undead necromancer, during his experiments with local stolen corpses.
+
+This is one of the monsters that drop [[Mask part 4]], which can be used with the 4 other parts to create the [[Mask of Dragith Nurn]].
+
+These are ideal monsters for low level melee players to train on as they have fairly good drops for those who want to earn money without risk.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Lumbridge Catacombs]]
+|lvls=18
+|mem=no
+|requirements={{QuestIcon|The Blood Pact}}
+|mapID=165
+|npcid:9608,x:4013,y:5493
+|npcid:9607,x:4013,y:5497
+|npcid:7927,x:4014,y:5495
+|npcid:7926,x:4015,y:5491
+|npcid:7928,x:4016,y:5496
+|npcid:9609,x:4018,y:5491
+|npcid:7924,x:4019,y:5496
+|npcid:7925,x:4019,y:5499
+|npcid:7923,x:4020,y:5493
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Mask part 4|quantity=1|rarity=1/3|raritynotes={{DropNote|Only dropped if you don't own this item or the [[Mask of Dragith Nurn]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Staff|quantity=1|rarity=5/257}}
+{{DropsLine|name=Magic staff|quantity=1|rarity=5/257}}
+{{DropsLine|name=Shortbow|quantity=1|rarity=5/257}}
+{{DropsLine|name=Leather cowl|quantity=1|rarity=5/257}}
+{{DropsLine|name=Leather body|quantity=1|rarity=5/257}}
+{{DropsLine|name=Leather gloves|quantity=1|rarity=5/257}}
+{{DropsLine|name=Leather boots|quantity=1|rarity=5/257}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=12|rarity=10/257}}
+{{DropsLine|name=Water rune|quantity=6|rarity=10/257}}
+{{DropsLine|name=Earth rune|quantity=6|rarity=10/257}}
+{{DropsLine|name=Fire rune|quantity=6|rarity=10/257}}
+{{DropsLine|name=Bronze arrow|quantity=26|rarity=10/257}}
+{{DropsTableBottom}}
+
+===Jewellery===
+{{DropsTableHead}}
+{{DropsLine|name=Holy symbol|quantity=1|rarity=10/257}}
+{{DropsLine|name=Gold amulet|quantity=1|rarity=10/257}}
+{{DropsLine|name=Gold necklace|quantity=1|rarity=10/257}}
+{{DropsLine|name=Gold ring|quantity=1|rarity=10/257}}
+{{DropsLine|name=Amulet of magic|quantity=1|rarity=1/257}}
+{{DropsLine|name=Amulet of defence|quantity=1|rarity=1/257}}
+{{DropsTableBottom}}
+
+===Talismans===
+{{DropsTableHead}}
+{{DropsLine|name=Air talisman|quantity=1|rarity=1/257}}
+{{DropsLine|name=Mind talisman|quantity=1|rarity=1/257}}
+{{DropsLine|name=Water talisman|quantity=1|rarity=1/257}}
+{{DropsLine|name=Earth talisman|quantity=1|rarity=1/257}}
+{{DropsLine|name=Fire talisman|quantity=1|rarity=1/257}}
+{{DropsTableBottom}}
+
+===Spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Copper stone spirit|quantity=1|rarity=20/257}}
+{{DropsLine|name=Tin stone spirit|quantity=2|rarity=10/257}}
+{{DropsLine|name=Iron stone spirit|quantity=1|rarity=10/257}}
+{{DropsLine|name=Wood spirit|quantity=1|rarity=5/257}}
+{{DropsLine|name=Oak wood spirit|quantity=1|rarity=5/257}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Small plated bronze salvage|quantity=1|rarity=5/257}}
+{{DropsLine|name=Medium plated bronze salvage|quantity=1|rarity=5/257}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Feather|quantity=10|rarity=20/257}}
+{{DropsLine|name=Coins|quantity=200|rarity=15/257}}
+{{DropsLine|name=Fishing bait|quantity=50|rarity=10/257}}
+{{DropsLine|name=Leather|quantity=1|rarity=10/257}}
+{{DropsLine|name=Thread|quantity=42|rarity=10/257}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{BeginnerWeaponsDropLines}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[tiny plated bronze salvage]] drop with a [[wood spirit]].
+** Replaced the [[tiny blunt bronze salvage]] drop with an [[oak wood spirit]].
+
+* {{UL|type=update|update=The Blood Pact and Lumbridge Catacombs|date=15 March 2010}}
+** Added to game.
+}}
+
+==Trivia==
+* The examine text 'bones and arrows' is a play on the words 'bows and arrows'.
+
+{{Zombie}}
+{{Lumbridge Catacombs}}

@@ -1,0 +1,126 @@
+{{external|os=Guard (Cave goblin)}}
+{{Confuse|Cave goblin guard}}
+{{Infobox Monster
+|version1 = Club
+|version2 = Spear
+|name = Guard
+|image1 = [[File:Guard (cave goblin, club).png|x280px]]
+|image2 = [[File:Guard (cave goblin, spear).png|x280px]]
+|release = [[20 March]] [[2007]]
+|update = Dorgesh-Kaan
+|members = Yes
+|options = Talk to, Attack, Examine
+|race = Cave goblin
+|examine = He keeps order in the city.
+|level = 58
+|lifepoints = 2100
+|experience = 105.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 29.6
+|slayercat = Goblins
+|assigned_by = Turael, Spria
+|max_melee = 168
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 42
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 668
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 668
+|defence = 42
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Club
+|dropversion2 = Spear
+|id1 = 5800
+|id2 = 5801
+|leagueRegion = Misthalin
+}}
+[[File:Guard (cave goblin) chathead.png|left|80px]]
+'''Guards''' are [[cave goblin]]s guards found in [[Dorgesh-Kaan]], guarding the entrance to the city and wandering around the city.
+
+If a player fails to pickpocket a [[cave goblin|Dorgeshuun citizen]], a nearby guard will occasionally say "Stop that!" and attack.
+
+They can be of some profit to players as their drops can be sold to the nearby [[Dorgeshuun]] store. These goblins can only be accessed after completing the [[Lost Tribe]] quest.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Dorgesh-Kaan]]
+|lvls = 58
+|mem = yes
+|mapID = 26
+|plane = 0
+|npcid:5800,x:59,y:125|npcid:5800,x:31,y:87|npcid:5801,x:42,y:85|npcid:5801,x:34,y:12
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Bone club|quantity=1|rarity=20/128|version=Club}}
+{{DropsLine|name=Bone spear|quantity=1|rarity=20/128|version=Spear}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=28/128}}
+{{DropsLine|name=Coins|quantity=12|rarity=20/128|gemw=No}}
+{{DropsLine|name=Iron chainbody|quantity=1|rarity=20/128}}
+{{DropsLine|name=Oil lantern (oil)|quantity=1|rarity=20/128}}
+{{DropsLine|name=Tinderbox|quantity=1|rarity=20/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Cave goblin skull|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Hastranscript|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Winter Patch Week - This Week In RuneScape|date=15 December 2025}}
+** All 'Talk-to' options across the game have been replaced with 'Talk to'.
+
+* {{UL|type=update|update=Dorgesh-Kaan|date=20 March 2007}}
+** Added to game.
+}}
+
+{{Dorgesh-Kaan}}
+{{Dorgeshuun}}
+[[Category:Guards]]

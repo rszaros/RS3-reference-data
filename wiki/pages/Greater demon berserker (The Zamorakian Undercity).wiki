@@ -1,0 +1,76 @@
+{{Infobox Monster
+|name = Greater demon berserker
+|image = [[File:Greater demon berserker (The Zamorakian Undercity).png|x280px]]
+|release = [[4 July]] [[2022]]
+|update = Zamorak, Lord of Chaos - This Week In RuneScape
+|members = Yes
+|options = Attack, Mark, Examine
+|race = Demon
+|examine = Big, red and angry.
+|leagueRegion = Misthalin
+|level = 166
+|lifepoints = 140,000
+|experience = 7,000
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 4,400
+|slayercat = Greater demon berserkers and ash lords, Greater demons, Demons
+|max_melee = 1564
+|max_ranged = 1564
+|max_magic = 2570
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack = 70
+|ranged = 70
+|magic = 115
+|necromancy = 1
+|acc_melee = 1486
+|acc_ranged = 1486
+|acc_magic = 1,486
+|acc_necromancy = 0
+|armour = 3862
+|defence = 110
+|weakness = Nothing
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 55
+|aff_magic = 55
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|id = 29259
+}}
+'''Greater demon berserkers''' are monsters released with [[The Zamorakian Undercity]]. These demons are immune to stun and poison, whereas their [[Greater demon berserker|Wilderness counterparts]] have less health and are susceptible to both stun and poison.
+
+These monsters are capable of pathing around obstacles to reach the player and can deal immense amounts of damage with their melee attacks. They may be killed for a [[Demons (Slayer assignment)|demon]] or [[Greater demons (Slayer assignment)|greater demon task]] for more slayer experience. 
+
+Although they attack with a fireball animation, they only deal melee damage. However, they are much stronger than most other demons. They should not be confused for the nearby and similar-looking [[Greater demon ash lord (The Zamorakian Undercity)|ash lords]]; the berserker's horns are pointed downwards, while the ash lord's is pointed upwards.
+
+==Drops==
+{{sectstub}}
+
+==Update history==
+{{UH|
+* {{UL|type=hidden|update=Hidden updates|date=4 March 2024}}
+** The Strong Guard buff has effectively been replaced by the damage potential system, and monsters which previously had this buff no longer have it.
+*** Greater demon berserker
+
+* {{UL|type=hidden|update=Wilderness Ninja Strike! - This Week In RuneScape|date=13 March 2023}}
+** Greater demon berserkers now count as 8 kills for slayer tasks.
+
+* {{UL|type=update|update=Zamorak, Lord of Chaos - This Week In RuneScape|date=4 July 2022}}
+** Added to game.
+}}
+
+==Trivia==
+* This type of greater demon used to possess the [[Strong guard (status)|Strong guard]] status, which made the players' attacks incapable of missing and made their [[Ability damage|damage]] dependent on their [[Hit chance|accuracy]]; this was effectively replaced by the damage potential system on [[4 March]] [[2024]].
+
+{{The Zamorakian Undercity}}
+{{Demons}}
+{{Slayer monsters}}

@@ -1,0 +1,151 @@
+{{External|os=Icefiend#Level_18}}
+{{Otheruses|the God Wars Dungeon variant|the overworld version|icefiend}}
+{{Infobox Monster
+|version = God Wars Dungeon
+|name = Icefiend
+|image = [[File:Icefiend.png|x280px]]
+|release = [[28 August]] [[2007]]
+|update = God Wars Dungeon
+|members = Yes
+|actions = Attack
+|examine = A small ice demon.
+|level = 84
+|lifepoints = 6000
+|experience = 300.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 140
+|slayercat = Icefiends
+|assigned_by = Turael, Vannaka
+|max_melee = 240
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 60
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1132
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1132
+|defence = 60
+|weakness = Fire
+|susceptibility = Demon
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia
+|id = 3406
+}}
+[[File:Icefiend icon.png|left]]
+'''Icefiends''' are monsters normally found on top of [[Ice Mountain]], but icefiends in the [[God Wars Dungeon]] are a stronger, higher-levelled variant than their overworld counterparts.  Icefiends may be assigned as a [[Slayer assignment]] from a [[Slayer Master]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[God Wars Dungeon]]
+|lvls=84
+|mem=yes
+|mapID=15
+|npcid:3406,x:2854,y:5304|npcid:3406,x:2875,y:5296|npcid:3406,x:2918,y:5273
+|npcid:3406,x:2886,y:5312|npcid:3406,x:2898,y:5315
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Impious ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===General===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}|gemw=no}}
+{{DropsLine|name=Nothing|rarity=112/128}}
+{{DropsLine|name=Coins|quantity=1-30|rarity=4/128}}
+{{DropsLine|name=Coins|quantity=1-20|rarity=4/128}}
+{{DropsLine|name=Water rune|quantity=1-5|rarity=4/128}}
+{{DropsLine|name=Air rune|quantity=1-5|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Furniture plans===
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Zamorak altar|quantity=1|rarity=}}
+{{DropsLine|name=Furniture plans: Zamorak rug|quantity=1|rarity=}}
+{{DropsTableBottom}}
+
+====Gem drop table====
+{{GemDropTable|3/128}}
+
+====Tertiary drops====
+{{DropsTableHead}}
+{{DropsLineWarpriest|god=zamorak}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Fiends concept art.png|Concept art for [[Pyrefiends]], Icefiends and [[Waterfiend]]s
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Icefiend (2006).png|name=Icefiend}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Icefiend (2008).png|name=Icefiend}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Icefiend (God Wars Dungeon) (2012).png|name=Icefiend}}
+|{{GUL|date=[[1 August]] [[2022]]|update=Wilderness Reborn & New Quest - This Week In RuneScape|img=Icefiend.png|name=Icefiend}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=September Game Jam - This Week In RuneScape|date=18 September 2023}}
+** Fixed an issue that meant the Icefiends within the God Wars Dungeon were set to level 1. They are now level 84 as intended.
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Icefiends have been graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (23 November 2015)|date=23 November 2015}}
+** Corrected the melee attack accuracy for the following NPCs: [[Dagannoth Mother]], Dominion Tower Dagannoth Mother, [[Temple at Senntisten]] quest fiends and [[Cockatrices]].
+
+* {{UL|type=ninja|update=Patch Notes (26 August 2014)|date=26 August 2014}}
+** [[Pyrefiend]] and icefiend models and animations have been updated to use the God Wars models and animations.
+
+* {{UL|type=patch|update=Patch Notes (4 December 2012)|date=4 December 2012}}
+** Icefiends have been updated.
+
+* {{UL|type=update|update=God Wars: Remastered|date=5 September 2012}}
+** Icefiends in the God Wars Dungeon have been graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (8 March 2011)|date=8 March 2011}}
+** Icefiends now correctly drop [[impious ashes]].
+}}
+
+==Trivia==
+* Icefiends don't count towards a [[slayer task]] when [[recoil]]ed to death. This bug has been known since at least 2015, and has yet to be fixed. The only way to finish the task is to get someone else to [[co-op]] with and have them kill the icefiends.
+
+==References==
+{{Reflist}}
+
+{{Demons}}
+{{Elementals}}
+{{God Wars Dungeon}}
+[[Category:Participants in the God Wars]]

@@ -1,0 +1,239 @@
+{{Otheruses|Slayer monster|Slayer assignment|Profane Scabarites (Slayer assignment)}}
+{{Otheruses|def=no|the elite version|Elite Profane Scabarite}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Normal
+|version2 = Beneath Scabaras' Sands
+|name = Profane Scabarite
+|image = [[File:Profane Scabarite.png|280px]]
+|release1 = [[4 November]] [[2024]]
+|release2 = [[13 January]] [[2025]]
+|update1 = New Slayer Mobs & Premier Refresh - This Week In RuneScape
+|update2 = Beneath Scabaras' Sands Quest Launch - This Week In RuneScape
+|members = Yes
+|options = Attack, Examine
+|examine = It's definitely angry...
+|level = 125
+|lifepoints = 45000
+|experience = 1575
+|aggressive = Yes
+|poisonous = 1636
+|slaylvl1 = 87
+|slaylvl2 = n/a
+|slayxp1 = 900
+|slayxp2 = n/a
+|slayercat1 = Profane Scabarites, Scabarites
+|slayercat2 = n/a
+|race2 = Scabarite
+|max_melee = 1500
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 85
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 2078
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 2701
+|defence = 94
+|weakness = Earth
+|susceptibility = Keris, Consecrated keris
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Desert
+|id1 = 31433
+|id2 = 31599
+}}
+|text2 = Non-player character
+|item2 =
+{{Infobox NPC
+|name = Profane Scabarite
+|image = 
+|release = [[13 January]] [[2025]]
+|update = Beneath Scabaras' Sands Quest Launch - This Week In RuneScape
+|members = Yes
+|race = 
+|quest = [[Beneath Scabaras' Sands]]
+|location = [[Menaphos Imperial district]]
+|gender = 
+|options = Examine
+|examine = It's definitely angry...
+|map = 
+|id = 31551, 31552
+}}
+}}
+[[File:Profane Scabarite icon.png|left]]
+'''Profane Scabarites''' are [[Slayer monsters]] located in the [[Scabarite Cavern]] in the [[Kharidian Desert]], north-west of [[Pollnivneach]]. They are former followers of [[Scabaras]], having abandoned their beliefs and now causing problems for people in the desert. They also appear as [[non-player character]]s and [[monster]]s during [[Beneath Scabaras' Sands]].
+
+They require a [[Slayer]] level of 87 or higher in order to be harmed. They will summon a [[Spirit Scarab]] during combat if they are able to hit a player, doing a special animation and saying {{RSChat|Skrrt}} above their heads. They may inflict [[poison]] damage to the players, up to a maximum 1,636 poison damage.
+
+Profane Scabarites can be killed for the [[City Quest]] for "scarabs" but not "scabarites".
+
+They drop the [[spectral lens]], the [[Necromancy]] equivalent of the [[black mask]], [[focus sight]], and [[hexcrest]]. The drop rate for the spectral lens is improved with either the [[Profane Scabarites (Slayer assignment)|Profane Scabarites]] or [[Scabarites (Slayer assignment)|Scabarites Slayer assignment]]. [[Sumona]] can assign both and has a higher weight value for them compared to other [[Slayer masters]], making her the ideal choice to use if seeking these tasks.
+
+A [[Elite Profane Scabarite|stronger version]] of the Profane Scabarites can be found in the [[Temple of Isolation]] after Beneath Scabaras' Sands.
+
+==Locations==
+To get to the cave quickly, the [[Slayer cape]] can be used to teleport to Sumona, [[Teleport to house]] and exit to Pollnivneach Portal, [[Pollnivneach tablet]], [[Bandit Camp Teleport]], or [[Bandit Camp lodestone]]. The cave entrance is Southwest of the Pollnivneach portal.
+
+The cave has five clusters of Profane Scabarite spawns, with 3–5 Profane Scabarites each. Cannons can be set up in the cave. Additionally, the south-east cluster can be safespotted from below a nearby ledge.
+[[File:Profane scabarite safespot.jpg|thumb|A player safespotting the profane scabarites]]
+{{LocTableHead}}
+{{LocLine
+|loc=[[Scabarite Cavern]]
+|lvls=125
+|mem=yes
+|mapID=753
+|npcid:31433,x:3268,y:7596
+|npcid:31433,x:3271,y:7589
+|npcid:31433,x:3271,y:7593
+|npcid:31433,x:3273,y:7590
+
+|npcid:31433,x:3313,y:7601
+|npcid:31433,x:3312,y:7596
+|npcid:31433,x:3318,y:7598
+
+|npcid:31433,x:3304,y:7584
+|npcid:31433,x:3302,y:7584
+|npcid:31433,x:3296,y:7586
+|npcid:31433,x:3303,y:7579
+|npcid:31433,x:3300,y:7580
+
+|npcid:31433,x:3286,y:7560
+|npcid:31433,x:3285,y:7557
+|npcid:31433,x:3292,y:7558
+|npcid:31433,x:3289,y:7559
+
+|npcid:31433,x:3277,y:7575
+|npcid:31433,x:3268,y:7570
+|npcid:31433,x:3273,y:7571
+|npcid:31433,x:3273,y:7577
+|npcid:31433,x:3277,y:7571
+|leagueRegion = Desert
+}}
+{{LocTableBottom}}
+
+During [[Beneath Scabaras' Sands]] four of them appear as monsters in both waves of the invasion. Six more appear as [[non-player character]]s fighting the [[Menaphite guard (Beneath Scabaras' Sands)|Menaphite guards]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Carapace|quantity=1|rarity=Always}}
+{{DropsLine|name=Boat materials (Beneath Scabaras' Sands)|alt=Boat materials|quantity=1|rarity=Always|raritynotes={{DropNote|Only dropped in the [[Scabarite Cavern]].}}|version=Beneath Scabaras' Sands}}
+{{DropsTableBottom}}
+
+===Unique items===
+{{DropsTableHead}}
+{{DropsLine|name=Spectral lens|quantity=1|rarity=1/4096|altrarity=1/506|altraritydash=y|raritynotes={{DropNote|1/4,055 with tier 3 [[luck]] or higher. 1/512 when on a [[Profane Scabarites (Slayer assignment)|Profane Scabarites]] or [[Scabarites (Slayer assignment)|Scabarites Slayer assignment]] and 1/506 if also having tier 3 luck or higher.}}|citations={{CiteVideo|url=https://www.twitch.tv/videos/2295165805?t=0h25m17s|title=Runeskill & Slay: New Slayer Update ft. Mods Yuey and Sponge {{!}} Livestream VOD|author=Mod Sponge|date=6 November 2024|timestamp=25:17|accessdate=6 November 2024|site=Twitch|archiveurl=https://clips.twitch.tv/PerfectPlausibleSmoothieM4xHeh-NXanfuqIYqVuDy_o|archivedate=6 November 2024}}}}
+{{DropsTableBottom}}
+
+===Jewellery===
+{{DropsTableHead}}
+{{DropsLine|name=Jade amulet|quantity=1|rarity=80/1024}}
+{{DropsLine|name=Jade ring|quantity=1|rarity=80/1024}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Toadflax seed|quantity=1-3|rarity=100/1024}}
+{{DropsLine|name=Magic seed|quantity=1|rarity=4/1024}}
+{{DropsLine|name=Ciku seed|quantity=1|rarity=2/1024}}
+{{DropsTableBottom}}
+
+===Multipliers===
+{{DropsTableHead}}
+{{DropsLine|name=Primal stone spirit|quantity=4|rarity=45/1024}}
+{{DropsLine|name=Maple wood spirit|quantity=3-9|rarity=100/1024}}
+{{DropsLine|name=Mahogany wood spirit|quantity=2-8|rarity=80/1024}}
+{{DropsLine|name=Yew wood spirit|quantity=3|rarity=60/1024}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Huge bladed mithril salvage|quantity=4 (noted)|rarity=83/1024}}
+{{DropsLine|name=Medium spiky rune salvage|quantity=2 (noted)|rarity=60/1024}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Uncut jade|quantity=2|rarity=100/1024}}
+{{DropsLine|name=Dragon dart tip|quantity=20-40|rarity=30/1024}}
+{{DropsLine|name=White berries|quantity=3 (noted)|rarity=80/1024}}
+{{DropsLine|name=Cadava berries|quantity=3 (noted)|rarity=80/1024}}
+{{DropsLine|name=Dust rune|quantity=8-28|rarity=40/1024}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/150}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=15/1280}}
+{{DropsLineEffigy|level=125}}
+{{DropsLineMimic|level=125}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 2
+|gold = 5/100
+|green = 20/100
+|crimson = 0
+|blue = 10/100
+}}
+==Achievements==
+* {{Achievement|Sand in My Loot}}
+** [[Spectral lens]] drop
+==Gallery==
+<gallery mode="packed" heights="200">
+Scabarites_exploration_first.png|Visual update explorations
+Profane scabarites template.png|Concept art
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Beneath Scabaras' Sands Quest Launch - This Week In RuneScape|date=13 January 2025}}
+** Added variants for [[Beneath Scabaras' Sands]].
+
+* {{UL|type=patch|update='Tis the Season , Christmas Village Returns - This Week In RuneScape|date=2 December 2024}}
+** Fixed an issue where the Profane Scabarite auto-attack animation incorrectly looped when the NPCs were no longer in combat.
+** Fixed an issue where Profane Scabarites could spawn inside the table found on the lower level of the Scabarite Cave.
+
+* {{UL|type=update|update=New Slayer Mobs & Premier Refresh - This Week In RuneScape|date=4 November 2024}}
+** Added to game.
+}}
+
+==Trivia==
+* Unlike other monsters capable of spawning minions, Profane Scabarites are one of only 2 monsters to [[Summoning|summon]] [[Summoning familiars|familiars]] from the [[Spirit Plane]],{{CiteVideo|url=_k8CHAwzWqY|title=Runeskill & Slay: New Slayer Update ft. Mods Yuey and Sponge {{!}} Livestream VOD|author=Mod Sponge|date=6 November 2024|quote=There might be lore implications, but I think that's probably better delivered in quests or deep lore in-game. I don't want to kind of just off the cuff it, because I feel like that's something to explore. But it is interesting that they actively summon, like actual familiars.|timestamp=30:32|archiveurl=https://archive.org/details/come-join-mod-yuey-w-mod-sponge-as-we-dive-into-the-new-slayer-update-combat-qa|archivedate=9 November 2024}} the other being [[Summoner|troll summoners]].
+
+==References==
+{{Reflist}}
+
+{{Beneath Scabaras' Sands}}
+{{Scabarite Cavern}}
+{{Slayer monsters}}

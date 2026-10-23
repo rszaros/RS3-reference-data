@@ -1,0 +1,137 @@
+{{External|os=Ogre#GWD}}
+{{Otheruses|the God Wars Dungeon variant|the overworld version|ogre}}
+{{Infobox Monster
+|version = God Wars Dungeon
+|name = Ogre
+|image = [[File:Ogre (God Wars Dungeon).png|250px]]
+|release = [[28 August]] [[2007]]
+|update = God Wars Dungeon
+|members = Yes
+|options = Attack
+|examine = Ugly and bad-tempered.
+|level = 86
+|lifepoints = 9300
+|slaylvl = 1
+|experience = 465.0
+|aggressive = Yes
+|poisonous = No
+|slayercat = Ogres
+|max_melee = 310
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 62
+|ranged = 0
+|magic = 1
+|necromancy = 1
+|acc_melee = 1197
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1197
+|defence = 62
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion = God Wars Dungeon
+|leagueRegion = Asgarnia
+|id = 374,9184,9185
+}}
+'''Ogres''' can be found in the [[God Wars Dungeon]] in a variant that is stronger and higher-levelled than overworld ogre.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[God Wars Dungeon]]
+|lvls=86
+|mem=yes
+|mapID=15
+|npcid:374,x:2867,y:5313|npcid:9184,x:2877,y:5313|npcid:9185,x:2878,y:5332
+|leagueRegion=Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|19/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|19/128}}
+{{DropsTableBottom}}
+
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Bandos rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Bandos altar|quantity=1|rarity=Unknown}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=109/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Ogre ribs|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsLine|name=Frozen key piece (Bandos)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Bandos's Stronghold]].}}|gemw=No|version=God Wars Dungeon}}
+{{DropsLineWarpriest|god=bandos}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+BTS vid 16 gwd ogre update concept art.png|Concept art of updated ogres in the [[God Wars Dungeon]]
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Ogre (God Wars Dungeon) (2007).png|name=Ogre}}
+|{{GUL|date=[[17 March]] [[2009]]|update=The Chosen Commander|img=Ogre (God Wars Dungeon) (2009).png|name=Ogre}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Ogre (God Wars Dungeon).png|name=Ogre}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Tuska Clean Up - This Week In RuneScape|date=18 August 2025}}
+** The Sacrifice, Devotion, and Transfigure abilities have been removed from the God Wars Dungeon I loot table, and are now obtained by completing the One Piercing Note quest.
+
+* {{UL|type=patch|update=Patch Notes (25 May 2010)|date=25 May 2010}}
+** Strykewyrms can still be damaged even if you've recently been in combat with ogres.
+
+* {{UL|type=patch|update=Patch Notes (9 November 2009)|date=9 November 2009}}
+** Ogres dying and fences were causing render order issues.
+}}
+
+==References==
+{{Reflist}}
+
+{{Ogres}}
+{{God Wars Dungeon}}
+[[pt:Ogros]]
+[[Category:Participants in the God Wars]]
+[[Category:Bandosians]]
+[[Category:NPCs with multiple Examine options]]

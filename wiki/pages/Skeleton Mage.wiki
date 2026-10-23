@@ -1,0 +1,160 @@
+{{External|os|rsc=Skeleton mage}}
+{{Otheruses|def=no|other uses|Skeleton mage (disambiguation)}}
+{{Infobox Monster
+|name = Skeleton Mage
+|image = [[File:Skeleton Mage.png|200px]]
+|release = [[24 September]] [[2002]]
+|update = Tutorial island
+|members = Yes
+|options = Attack
+|examine = An undead worker of dark magic.
+|level = 19
+|lifepoints = 700
+|experience = 35.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 9.4
+|slayercat = Skeletons, Undead
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 56
+|max_necromancy = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 14
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 245
+|acc_necromancy = 0
+|armour = 245
+|defence = 14
+|weakness = Arrows
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 94
+|leagueRegion=Kandarin}}
+'''Skeleton Mages''' are monsters found in the [[Waterfall Dungeon]]. They primarily use [[Magic]] to attack. Thus, it is recommended to wear magic-resistant armour such as [[dragonhide armour]]. Level 19 skeleton mages cast earth spells and will sometimes cast the [[Weaken]] spell on a player. They also occasionally use a melee attack.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Waterfall Dungeon]]
+|lvls=19
+|mem=yes
+|requirements={{QuestIcon|Waterfall Quest}} (partial)
+|mapID=619
+|npcid:94,x:2585,y:9878|npcid:94,x:2588,y:9880|npcid:94,x:2590,y:9882
+|npcid:94,x:2592,y:9884
+|leagueRegion=Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammuniton===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=12|rarity=2/128}}
+{{DropsLine|name=Earth rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Fire rune|quantity=2|rarity=2/128}}
+{{DropsLine|name=Chaos rune|quantity=3|rarity=2/128}}
+{{DropsLine|name=Nature rune|quantity=3|rarity=1/128}}
+{{DropsLine|name=Bronze arrow|quantity=2|rarity=7/128}}
+{{DropsLine|name=Bronze arrow|quantity=5|rarity=4/128}}
+{{DropsLine|name=Iron arrow|quantity=1|rarity=4/128}}
+{{DropsLine|name=Steel arrow|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2|rarity=18/128}}
+{{DropsLine|name=Coins|quantity=4|rarity=7/128}}
+{{DropsLine|name=Coins|quantity=12|rarity=15/128}}
+{{DropsLine|name=Coins|quantity=16|rarity=4/128}}
+{{DropsLine|name=Coins|quantity=25|rarity=4/128}}
+{{DropsLine|name=Coins|quantity=33|rarity=4/128}}
+{{DropsLine|name=Coins|quantity=48|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|21/128}}
+{{DropsTableHead}}
+{{HerbDropTable|21/128}}
+{{DropsTableBottom}}
+
+====Other====
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=18/128}}
+{{DropsLine|name=Iron dagger|quantity=1|rarity=6/256}}
+{{DropsLine|name=Iron off hand dagger|quantity=1|rarity=6/256}}
+{{DropsLine|name=Fire talisman|quantity=1|rarity=2/128}}
+{{DropsLine|name=Iron ore|quantity=1|rarity=1/128}}
+{{DropsLine|name=Wheat|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|1/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|slayer_level=1}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Bone seeds.gif|A player opening a [[bone seeds]] in a pot, summoning a skeleton mage.
+</gallery>
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Skeleton Mage old.png|name=Skeleton Mage}}
+|{{GUL|date=|update=|img=Skeleton Mage.png|name=Skeleton Mage}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (25 February 2009)|date=25 February 2009}}
+** The skeletal mages under Baxtorian Waterfall will now retaliate against players and have also learned a few new tricks!
+
+* {{UL|type=update|update=Tutorial island|date=24 September 2002}}
+** Added to game.
+}}
+
+==Trivia==
+* Skeleton mages can perform the [[Zombie Dance]] and [[Zombie Walk]] emotes, even though they are skeletons.
+* If you try to open a pot of [[bone seeds]] too close to [[Malignius Mortifer]], he will say, "You should take that pot further away from me before you open it!"
+
+==References==
+{{Reflist}}
+
+{{Skeleton}}
+[[Category:Not transcribable]]

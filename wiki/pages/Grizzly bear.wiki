@@ -1,0 +1,232 @@
+{{External|rsc=Bear|os|wp}}
+{{Infobox Monster
+|version1 = Standard
+|version2 = Tirannwn
+|name = Grizzly bear
+|image = [[File:Grizzly bear.png|175px]]
+|release1 = [[4 January]] [[2001]]
+|release2 = [[20 September]] [[2004]]
+|update1 = Runescape beta is now online!
+|update2 = Plague City Part 4 Released
+|members1 = No
+|members2 = Yes
+|options = Attack
+|examine1 = Eek! A bear!
+|examine2 = Eek! A big bear!
+|level = 32
+|lifepoints = 3750
+|experience = 187.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 13.0
+|slayxp2 = 16.6
+|slayercat = Bears
+|assigned_by = Turael, Mazchna, Vannaka
+|max_melee = 460
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 23
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 254
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 354
+|defence = 23
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 105
+|id2 = 1195
+|leagueRegion1 = Wilderness,Fremennik,Kandarin,Misthalin,Havenhythe
+|leagueRegion2 = Tirannwn
+}}
+[[File:Bear icon.png|left]]
+'''Grizzly bears''' are a type of [[bear]] found in the forests of [[Gielinor]]. Although relatively weak, they could be very dangerous to a low-level player. They can be given as a [[Slayer assignment]]. Its [[Bear pelt|pelt]] must be collected and cleaned for the [[Odd Old Man]] during the [[Fur 'n Seek]] quest.
+
+The most populous area of grizzly bears is at the [[Legends' Guild south-west mine]], east of [[Manor Farm]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ardougne Zoo]]
+|lvls=32
+|mem=yes
+|mapID=28
+|npcid:105,x:2632,y:3280|npcid:105,x:2633,y:3274
+|leagueRegion=Kandarin
+}}
+{{LocLine
+|loc=[[Highweald Forest]]
+|lvls=32
+|mem=No
+|requirements={{QuestIcon|Visions of Havenhythe}} (partial)
+|mapID=28
+|npcid:105,x:4250,y:3422
+|leagueRegion=Havenhythe
+}}
+{{LocLine
+|loc=[[Isafdar]]
+|lvls=32
+|mem=yes
+|requirements={{QuestIcon|Regicide}} (partial)
+|mapID=28
+|npcid:1195,x:2215,y:3171|npcid:1195,x:2200,y:3224|npcid:1195,x:2293,y:3156
+|leagueRegion=Tirannwn
+}}
+{{LocLine
+|loc=[[Legends' Guild south-west mine]]
+|lvls=32
+|mem=yes
+|mapID=28
+|npcid:105,x:2690,y:3346|npcid:105,x:2691,y:3341|npcid:105,x:2694,y:3344
+|npcid:105,x:2699,y:3340|npcid:105,x:2700,y:3347|npcid:105,x:2706,y:3347
+|npcid:105,x:2708,y:3336|npcid:105,x:2718,y:3330|npcid:105,x:2718,y:3340
+|leagueRegion=Kandarin
+}}
+{{LocLine
+|loc=[[Rellekka]]
+|lvls=32
+|mem=yes
+|mapID=28
+|npcid:105,x:2691,y:3612|npcid:105,x:2721,y:3643
+|leagueRegion=Fremennik
+}}
+{{LocLine
+|loc=[[Ruins (west)]] (level 19 Wilderness)
+|lvls=32
+|mem=no
+|mapID=28
+|npcid:105,x:2988,y:3671|npcid:105,x:3001,y:3674
+|leagueRegion=Wilderness
+}}
+{{LocLine
+|loc=South of [[Wilderness Crater]] (level 11 [[Wilderness]])
+|lvls=32
+|mem=no
+|mapID=28
+|npcid:105,x:3100,y:3594|npcid:105,x:3107,y:3608|npcid:105,x:3099,y:3602
+|leagueRegion=Wilderness
+}}
+{{LocLine
+|loc=[[Tree Gnome Village (location)|Tree Gnome Village]]
+|lvls=32
+|mem=yes
+|mapID=28
+|npcid:105,x:2477,y:3143|npcid:105,x:2484,y:3155
+|leagueRegion=Kandarin
+}}
+{{LocLine
+|loc=[[Varrock]]
+|lvls=32
+|mem=no
+|mapID=28
+|npcid:105,x:3230,y:3500
+|leagueRegion=Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Bear fur|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw bear meat|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Bear ribs|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest.}}|members=Yes|gemw=No}}
+{{DropsLine|name=Bear pelt|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Fur 'n Seek]] quest.}}|members=Yes|gemw=No}}
+{{DropsLineSpiritGems|members = yes}}
+{{DropsLineEffigy|level=32|members = yes}}
+{{DropsLineMimic|level=32|members = yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|members = yes
+|quantity = 1
+|gold = 161.242/1000
+|green = 5.039/1000
+|crimson = 10.078/1000
+|blue = 1.008/1000
+}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+File:Grizzly bear concept art.jpg|Concept art for updated grizzly bear{{CiteTwitter|author=Thomas Karlsson (Mod NicePants)|url=https://twitter.com/JagexNicePants/status/1060885500121268229|quote=Happy Friday everyone! Here's a creature update for #RuneScape that I worked on recently, along with Björn, the pet companion! Ingame models by @JagexSparky <3|date=9 November 2018|archiveurl=http://archive.is/6K9AM|archivedate=9 November 2018|name=Twitter Concept Art}}
+File:Grizzly bear size and animation concept art.jpg|Concept art for updated grizzly bear animations{{NamedRef|Twitter Concept Art}}
+File:Grizzly bear 3d model sculpt.jpg|3d model sculpt for updated grizzly bears{{CiteGeneral|url=https://www.artstation.com/artwork/XBnYGy|title=Grizzly Bear - Runescape|author=Isaac Pringle (Mod Sparky)|date=9 November 2018|accessdate=2018-11-09|publisher=ArtStation|quote=Hey! Here is one of the more recent models I have made for Runescape, part of a rework to the grizzy bears! - All sculpting/modelling/texturing was done by myself. - Pose and animation done by Chris Winstone - Concept by Thomas Karlsson - © Owned by Jagex 2018 - https://www.runescape.com/|name=Grizzly Bear - Runescape|archiveurl=https://archive.ph/MK4Ft|archivedate=5 June 2021}}
+File:Grizzly bear 3d model texture.gif|3d model textures for updated grizzly bears{{NamedRef|Grizzly Bear - Runescape}}
+File:Grizzly bear 3d model wireframe.jpg|3d model wireframe for updated grizzly bears{{NamedRef|Grizzly Bear - Runescape}}
+File:Grizzly bear 3d model pose.jpg|3d model for updated grizzly bears{{NamedRef|Grizzly Bear - Runescape}}
+File:Grizzly bear 3d model run.gif|3d model running animation for updated grizzly bears{{NamedRef|Grizzly Bear - Runescape}}{{CiteTwitter|author=Mod Sparky|url=https://twitter.com/JagexSparky/status/1060840589917327360|quote=Hey everyone! Posted up some of the final images for the bear, Björn, I made recently. https://www.artstation.com/artwork/XBnYGy|date=9 November 2018|archiveurl=http://archive.is/vM1Rq|archivedate=9 November 2018|name=Twitter 3d Model}}
+File:Ardougne Zoo grizzly bear.png|Grizzly bears in [[Ardougne Zoo]].
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Out Now|date=23 March 2026}}
+** Added to [[Highweald Forest]].
+
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Relic Presets & February Mini Strike - This Week In RuneScape|date=10 February 2025}}
+** The unbearable sleuth of 18 grizzly bears near the [[Legends' Guild]] has been halved to the simple bear necessities.
+
+* {{UL|type=patch|update=WildyWyrm Flash Event and Valentines - This Week In RuneScape|date=5 February 2024}}
+** Grizzly Bears and [[Black bear|Black Bears]] no longer appear purple when textures are disabled.
+
+* {{UL|type=patch|update=Community Hitlist and Necromancy Embargo - This Week In RuneScape|date=22 January 2024}}
+** Black bears and grizzly bears, including their [[grizzly bear cub|cubs]], have been graphically updated.
+
+* {{UL|type=hidden|update=New Skill: Necromancy - This Week In RuneScape|date=7 August 2023}}
+** Grizzly bears' weakness was changed from [[air spells]] to [[water spells]].
+
+* {{UL|type=patch|update=This Week In RuneScape: The Battle Of The Monolith continues!|date=7 June 2021}}
+** Grizzly bear death animations have been fixed.
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes bears.
+
+* {{UL|type=patch|update=Patch Notes (21 August 2012)|date=21 August 2012}}
+** Bears have animations again.
+
+* {{UL|type=patch|update=Patch Notes (12 October 2010)|date=12 October 2010}}
+** Due to the supernatural disturbances in the [[Charm sprite Hunter area|charm sprite hunting area]], players should note that the [[wolf|wolves]], bears, and [[giant spider]]s that used to roam this area have migrated. The wolves can now be found north-west of the [[Battlefield]]; the bears now live east of the [[Legends' Guild]]; and the giant spiders have scurried over to the jungle south-west of the [[Feldip Hills]].
+
+* {{UL|type=update|update=Plague City Part 4 Released|date=20 September 2004}}
+** New level variant of grizzly bears added to game.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Bears}}
+{{Highweald Forest}}

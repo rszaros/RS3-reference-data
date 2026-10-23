@@ -1,0 +1,182 @@
+{{Infobox Monster
+|name = Mighty banshee
+|image = [[File:Mighty banshee.png|250px]]
+|release = [[5 June]] [[2008]]
+|update = Smoking Kills
+|members = Yes
+|actions = Attack
+|examine = Not the best of vocalists.
+|level = 61
+|lifepoints = 6150
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 15
+|slayxp = 90.0
+|slayercat = Banshees, Ghosts, Undead
+|assigned_by = Turael, Mazchna, Chaeldar, Sumona
+|max_melee = 860
+|max_ranged = 0
+|max_magic = 1020
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 43
+|ranged = 1
+|magic = 51
+|necromancy = 1
+|acc_melee = 589
+|acc_ranged = 0
+|acc_magic = 775
+|acc_necromancy = 0
+|armour = 590
+|defence = 38
+|weakness = Arrows
+|susceptibility = Salve, Ghost
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 7786
+|leagueRegion=Desert}}
+The '''mighty banshee''' is a stronger version of the [[Banshee]] and is first encountered in the [[quest]] [[Smoking Kills]]. They are found in the [[Pollnivneach Slayer Dungeon]]. [[Masked earmuffs]], a [[Slayer helmet]], a [[Full slayer helmet]], a [[Mask of Mourning]] or a [[Helm of Keening]] must be worn to prevent stats from being dangerously reduced in addition to successive damage by the swirling dust.
+
+They attack with powerful fire spells that hit quite hard for their level, so [[Protect from Magic]] is recommended for lower level players.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Pollnivneach Slayer Dungeon]]
+|lvls=61
+|mem=yes
+|requirements={{QuestIcon|Smoking Kills}}
+|mapID=22
+|npcid:7786,x:20,y:44|npcid:7786,x:22,y:49|npcid:7786,x:22,y:56
+|npcid:7786,x:22,y:62|npcid:7786,x:23,y:36|npcid:7786,x:24,y:30
+|npcid:7786,x:26,y:43|npcid:7786,x:30,y:34|npcid:7786,x:30,y:52
+|npcid:7786,x:30,y:62|npcid:7786,x:37,y:37|npcid:7786,x:37,y:43
+|npcid:7786,x:37,y:58|npcid:7786,x:41,y:46|npcid:7786,x:22,y:68
+|npcid:7786,x:23,y:76|npcid:7786,x:28,y:70|npcid:7786,x:30,y:77
+|npcid:7786,x:36,y:80|npcid:7786,x:37,y:72
+|leagueRegion=Desert
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Banshee voice|quantity=1|rarity=Always|gemw=no|alch=no|raritynotes={{DropNote|Only during the [[Smoking Kills]] quest.}}}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128|gemw=No}}
+{{DropsLine|name=Dark mystic gloves|quantity=1|rarity=1/256}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Air battlestaff|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Blood rune|quantity=10|rarity=6/128}}
+{{DropsLine|name=Rune arrow|quantity=20|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|30/128}}
+{{DropsTableHead}}
+{{HerbDropTable|30/128|rolls=2}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|8/128}} ''There is an additional 6/128 chance of rolling fellstalk seeds.''
+{{DropsTableHead}}
+{{DropsLine|name=Fellstalk seed|quantity=2|rarity=6/128}}
+{{RareSeedDropTable|8/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1300-1700|rarity=20/128}}
+{{DropsLine|name=Coins|quantity=2200-3000|rarity=12/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Swordfish|quantity=1|rarity=12/128}}
+{{DropsLine|name=Thin snail|quantity=2 (noted)|rarity=8/128}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=6/128}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Uncut emerald|quantity=1|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineGhostlyEssence|quantity=4-5, 8-10|rarity=1/256|altrarity=1/96|raritynotes={{DropNote|While on an appropriate [[Slayer assignment]], there is a 1/96 chance to drop 8–10 ghostly essence.}}}}
+{{DropsLineGhosts|ectorarity=1000|herbrarity=1024}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Banshee Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Banshee Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsLineMimic|level=61}}
+{{DropsLineEffigy|level=61}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable|quantity=1|gold=55.987/1000|green=167.961/1000|crimson=41.99/1000|blue=8.398/1000}}
+
+==Products==
+{{Uses facility list|Mighty banshee, Banshee}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+**Mighty banshee's combat level has been decreased from level 91 to level 61
+
+* {{UL|type=hidden|update=New Skill: Necromancy - This Week In RuneScape|date=7 August 2023}}
+** Mighty banshee's weakness was changed from bolts to arrows.
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=This Week In RuneScape: Once Upon A Time: Fortunes|date=5 July 2021}}
+** [[Slayer Masters]] are now able to assign banshee tasks to players wearing the [[Mask of Mourning]].
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the Personal Slayer Dungeon.
+*** This includes banshees.
+
+* {{UL|type=patch|update=Patch Notes (14 January 2013)|date=14 January 2013}}
+** Mighty banshees now deal an appropriate amount of damage.
+
+* {{UL|type=update|update=Smoking Kills|date=5 June 2008}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Smoking Kills}}
+{{Slayer monsters}}
+{{Ghost}}
+[[Category:Tier 1 luck]]

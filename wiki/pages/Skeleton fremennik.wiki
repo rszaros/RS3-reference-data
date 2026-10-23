@@ -1,0 +1,183 @@
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{External|os}}
+{{Infobox Monster
+|version1 = Level 23
+|version2 = Level 28
+|version3 = Level 30
+|name = Skeleton fremennik
+|image = [[File:Skeleton fremennik.png|150px]]
+|release = [[10 April]] [[2007]]
+|update = Olaf's Quest
+|members = Yes
+|options = Attack
+|examine1 = Could use a good meal.
+|examine2 = He seems a little underweight.
+|examine3 = He seems a little underweight.
+|level1 = 23
+|level2 = 28
+|level3 = 30
+|lifepoints1 = 850
+|lifepoints2 = 1000
+|lifepoints3 = 1100
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 10.2
+|slayxp2 = 11.4
+|slayxp3 = 12.6
+|slayercat = Skeletons
+|assigned_by = Turael, Vannaka
+|max_melee1 = 102
+|max_melee2 = 120
+|max_melee3 = 132
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 6
+|attack1 = 17
+|attack2 = 20
+|attack3 = 22
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee1 = 280
+|acc_melee2 = 316
+|acc_melee3 = 341
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 280
+|armour2 = 316
+|armour3 = 341
+|defence1 = 17
+|defence2 = 20
+|defence3 = 22
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 3697
+|id2 = 3700
+|id3 = 3703
+|leagueRegion=fremennik}}
+'''Skeleton fremenniks''' are strong versions of regular skeletons in the [[Brine Rat Cavern]]. They are led by [[Ulfric]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Brine Rat Cavern]]
+|lvls=23, 28, 30
+|mem=yes
+|requirements={{QuestIcon|Olaf's Quest}} (partial)
+|mapID=560
+|npcid:3700,x:2700,y:10165|npcid:3702,x:2702,y:10160|npcid:3700,x:2705,y:10155
+|npcid:3701,x:2707,y:10163|npcid:3697,x:2708,y:10146|npcid:3704,x:2709,y:10168
+|npcid:3701,x:2710,y:10158|npcid:3698,x:2712,y:10142|npcid:3699,x:2715,y:10145
+|npcid:3702,x:2715,y:10163|npcid:3703,x:2717,y:10160|npcid:3699,x:2723,y:10142
+|npcid:3697,x:2727,y:10143|npcid:3699,x:2729,y:10139|npcid:3698,x:2732,y:10141
+|npcid:3704,x:2734,y:10165|npcid:3697,x:2737,y:10138|npcid:3704,x:2737,y:10156
+|npcid:3703,x:2742,y:10154|npcid:3703,x:2746,y:10165
+|leagueRegion=Fremennik
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=60|rarity=3/128}}
+{{DropsLine|name=Water rune|quantity=20|rarity=3/128}}
+{{DropsLine|name=Chaos rune|quantity=9|rarity=3/128}}
+{{DropsLine|name=Mithril arrow|quantity=8|rarity=2/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=2/128}}
+{{DropsLine|name=Cosmic rune|quantity=4|rarity=1/128}}
+
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated steel salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Tiny spiky steel salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Small bladed mithril salvage|quantity=1|rarity=1/128}}
+
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|20/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|20/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=80|rarity=25/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=20|rarity=24/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=50|rarity=8/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=90|rarity=4/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=185|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=200|rarity=2/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=8/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=5/128}}
+{{DropsLine|name=Black hatchet|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Key (Olaf's Quest, cross)|quantity=1|rarity=1/5|raritynotes={{DropNote|name=olaf|One random key is always dropped during [[Olaf's Quest]], but only if that key is not already possessed.}}|gemw=no}}
+{{DropsLine|name=Key (Olaf's Quest, square)|quantity=1|rarity=1/5|raritynotes={{DropNote|name=olaf}}|gemw=no}}
+{{DropsLine|name=Key (Olaf's Quest, star)|quantity=1|rarity=1/5|raritynotes={{DropNote|name=olaf}}|gemw=no}}
+{{DropsLine|name=Key (Olaf's Quest, triangle)|quantity=1|rarity=1/5|raritynotes={{DropNote|name=olaf}}|gemw=no}}
+{{DropsLine|name=Key (Olaf's Quest, hexagon)|quantity=1|rarity=1/5|raritynotes={{DropNote|name=olaf}}|gemw=no}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4,000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Skeleton fremennik old.png|name=Skeleton fremennik}}
+|{{GUL|date=|update=|img=Skeleton fremennik.png|name=Skeleton fremennik}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (4 March 2013)|date=4 March 2013}}
+** Skeleton Fremennik have had their torsos reattached to their legs.
+
+* {{UL|type=update|update=Olaf's Quest|date=10 April 2007}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Olaf's Quest}}
+{{Skeletons}}
+{{Fremennik}}

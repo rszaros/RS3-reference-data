@@ -1,0 +1,166 @@
+{{Infobox Monster
+|name = Ankou
+|image = [[File:Ankou.png|100px]]
+|release = [[27 July]] [[2015]]
+|update = Elite Monster Spawns
+|members = No
+|actions = Attack
+|examine = A bony ghost.
+|level = 67
+|lifepoints = 23550
+|experience = 
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 314
+|slayercat = Ankou, Skeletons, Undead
+|max_melee = 1100
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = N/A
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 55
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 883
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 668
+|defence = 42
+|weakness = Earth
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 21433
+|leagueRegion = Misthalin, Wilderness
+}}
+An '''Ankou (elite)''' is an [[elite monster|elite version]] of the [[ankou]]. If on a [[Slayer assignment]], an elite Ankou is guaranteed to spawn; otherwise, elite monsters have a spawn rate of 1 in 1,000. Elite spawn rates can be further increased with the use of [[fellstalk incense sticks]].
+
+If a player fails to damage it at any point, it will heal 300-500 per tick (until the player manages to damage it again). Unlike its normal counterpart, the elite version can manoeuvre around safe spots and get within melee distance of unsuspecting players.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Stronghold of Security]] (fourth level)
+|lvls=54
+|mem=no
+|mapID=24
+|npcid:4383,x:107,y:45|npcid:4383,x:109,y:42|npcid:4383,x:110,y:46
+|npcid:4383,x:112,y:40|npcid:4383,x:113,y:48|npcid:4383,x:114,y:38
+|npcid:4383,x:114,y:43|npcid:4383,x:114,y:45|npcid:4383,x:115,y:40
+|npcid:4382,x:116,y:14|npcid:4383,x:116,y:46|npcid:4383,x:116,y:52
+|npcid:4382,x:117,y:13|npcid:4382,x:118,y:17|npcid:4382,x:118,y:21
+|npcid:4382,x:118,y:22|npcid:4382,x:119,y:15|npcid:4382,x:119,y:18
+|npcid:4383,x:119,y:43|npcid:4382,x:120,y:13|npcid:4382,x:121,y:19
+|npcid:4382,x:122,y:11|npcid:4382,x:123,y:18|npcid:4381,x:147,y:57
+|npcid:4381,x:149,y:56|npcid:4381,x:150,y:59|npcid:4381,x:150,y:61
+|npcid:4381,x:151,y:55|npcid:4381,x:151,y:57|npcid:4381,x:153,y:56
+|npcid:4381,x:153,y:58|npcid:4381,x:155,y:56
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Wilderness Crater]] (level 28 [[Wilderness]])
+|lvls=54
+|mem=no
+|mapID=28
+|npcid:4382,x:3139,y:3747|npcid:4382,x:3141,y:3737|npcid:4382,x:3157,y:3735
+|npcid:4382,x:3164,y:3727|npcid:4382,x:3165,y:3746|npcid:4382,x:3172,y:3713
+|npcid:4382,x:3177,y:3724
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Names==
+The elite versions have varying names, with a randomly generated prefix and suffix.
+{{Elite names|name=Ankou}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main drops===
+Elite monsters have three rolls of their main drop table.
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/400|raritynotes={{DropNote|Rolled separately, first.}}|rolls=3}}
+{{DropsLine|name=Battlestaff|quantity=1|rarity=4/56|members=yes|raritynotes={{DropNote|Replaced by a greater chance to roll the gem drop table in free-to-play.}}|rolls=3}}
+{{DropsLine|name=Adamant arrow|quantity=80|rarity=4/56|rolls=3}}
+{{DropsLine|name=Mithril stone spirit|quantity=6|rarity=8/56|rolls=3}}
+{{DropsLine|name=Coins|quantity=3000|rarity=6/56|rolls=3}}
+{{DropsLine|name=Mahogany wood spirit|quantity=6|rarity=8/56|rolls=3}}
+{{DropsLine|name=Medium bladed mithril salvage|quantity=1|rarity=4/56|rolls=3}}
+{{DropsLine|name=Death rune|quantity=20|rarity=8/56|rolls=3}}
+{{DropsLine|name=Mystic cloth|quantity=3 (noted)|rarity=8/56|rolls=3}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|6/56|rolls=3|f2p=yes|override=There is a 6/56 chance to roll the [[gem drop table]]. This is increased to 10/56 in free-to-play, replacing the battlestaff drop.}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Left skull half|quantity=1|rarity=3/80|altrarity=15/80|raritynotes={{DropNote|15/80 while wearing any [[Varrock armour]]. Only rolls once, not 3 times.}}|gemw=no|alch=yes}}
+{{DropsLineGhostlyEssence|members=Yes|quantity=1-5|rarity=1/96|rolls=3}}
+{{DropsLineEffigy|level=67|rolls=3|members=yes}}
+{{DropsLineMimic|level=67|rolls=3|members=yes}}
+{{DropsLineSpiritGems|rolls=3|members=yes}}
+{{DropsTableBottom}}
+
+===Charms {{(m)}}===
+{{CharmDropTable
+|members=yes
+|quantity = 1
+|rolls = 3
+|gold = 238.877/1000
+|green = 7.465/1000
+|crimson = 14.93/1000
+|blue = 1.493/1000
+}}
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}} 
+** [[Left skull half]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[yew logs]] drop with [[mahogany wood spirit]]s.
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=hotfix|update=Patch Notes (16 October 2017)|date=9 October 2017}}
+** The drop rate of mystic cloth from ankou has been reduced.
+
+* {{UL|type=update|update=Elite Monster Spawns|date=27 July 2015}}
+** Added to game.
+}}
+
+{{Elite monster}}
+{{Ghost}}
+{{Skeleton}}

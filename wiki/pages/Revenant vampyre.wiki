@@ -1,0 +1,109 @@
+{{Infobox Monster
+|name = Revenant vampyre
+|image = [[File:Revenant_vampyre.png|115px]]
+|release = [[10 December]] [[2007]]
+|update = Wilderness Changes, Bounty Hunter and Clan Wars!
+|members = No
+|actions = Attack
+|examine = The ghost of a vampyre slain during the God Wars.
+|level = 47
+|lifepoints = 5100
+|experience = 255.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 62.2
+|slayercat = Revenants, Ghosts, Vampyres, Undead
+|max_melee = 765
+|max_ranged = 765
+|max_magic = 765
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack = 34
+|ranged = 34
+|magic = 34
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 519
+|acc_ranged = 519
+|acc_magic = 519
+|armour = 519
+|defence = 34
+|weakness = Nothing
+|susceptibility = undead slayer, ghost hunter, revenant bane, salve
+|aff_weakness = 40
+|aff_melee = 40
+|aff_ranged = 40
+|aff_magic = 40
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 13473
+|leagueRegion = Wilderness
+}}
+'''Revenant vampyres''' are a type of monster that inhabits the [[Forinthry Dungeon]] along with all other [[revenants]].
+The Forinthry Dungeon is a part of the [[Wilderness]] so it is possible to be attacked by other players here if opted into [[PvP]].
+
+Like all revenants, they can restore lifepoints quickly, can cure themselves of poison, and react quickly to a player's protection [[prayer]]s. When below 50% health, revenant vampyres will "eat" to heal 850 lifepoints from their limited supply of food. For a full description of the healing mechanic see the [[Revenants#Overview|revenants]] page.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Forinthry Dungeon]]
+|lvls=47
+|mem=no
+|mapID=6
+|npcid:13473,x:3106,y:10163
+|leagueRegion = Wilderness}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+Revenant drops are not affected by [[luck]]. There are only two ways to increase the drop rate of revenant items—completion of the [[Wilderness achievements#Elite achievements|elite Wilderness achievements]], which gives a 5% increased chance for revenant drops, and [[revenant drop enhancer]]s, which give a 10% increased chance. Both boosts can be in effect at the same time.
+
+===Main===
+{{Revenant main drops|level=47}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{Revenant tertiary drops|level=47}}
+{{DropsLine|name=Vampyre dust|quantity=1|rarity=1/96|altrarity=1/56|raritynotes={{DropNote|1/56 while wearing [[Jennica's ring]].}}}}
+{{DropsLineGhosts|ectorarity=750|herbrarity=1024}}
+{{DropsTableBottom}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=47}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch_Notes_(22_July_2014)|date=22 July 2014}}
+** Revenant vampyres now have a similar spawn rate to other revenant creatures.
+
+* {{UL|type=update|update=Wilderness Changes, Bounty Hunter and Clan Wars!|date=10 December 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* Revenant vampyres weren't updated during the [[17 August]] [[2011]] [[graphical update]], while most other [[vampyres]] were.
+* These monsters used to have the ability to inflict poison with their melee attacks on members' worlds (starting at 68 damage). This was removed in a hidden update.
+* Revenant vampyres have the longest respawn time out of all the other revenants, despite having their respawn time adjusted on [[22 July]] [[2014]].
+
+==References==
+{{Reflist}}
+
+{{Revenants}}
+{{Ghost}}
+{{Vampyres}}
+
+[[Category:Participants in the God Wars]]

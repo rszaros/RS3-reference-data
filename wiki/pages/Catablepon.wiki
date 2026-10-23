@@ -1,0 +1,187 @@
+{{External|os}}
+{{Infobox Monster
+|name = Catablepon
+|image = [[File:Catablepon.png|220px]]
+|release = [[4 July]] [[2006]]
+|update = Security and free-to-play update - the Stronghold of Security
+|members = No
+|options = Attack
+|examine = Big... Cow-like... But cows don't have serpent tails!
+|level = 43
+|lifepoints = 4500
+|experience = 225
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 74.5
+|slayercat = Catablepon
+|max_melee = 480
+|max_ranged = 0
+|max_magic = 700
+|max_necromancy = 0
+|max_spec = 
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 24
+|ranged = 1
+|magic = 35
+|necromancy = 1
+|acc_melee = 268
+|acc_ranged = 0
+|acc_magic = 436
+|acc_necromancy = 0
+|armour = 424
+|defence = 28
+|weakness = Bolts
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 4397, 4398, 4399
+|leagueRegion=Misthalin}}
+[[File:Catablepon icon.png|left]]
+'''Catablepon''' are monsters that look like green bulls with reptilian tails. They are found in the Pit of Pestilence, the third level of the [[Stronghold of Security]]. They use a pre-[[Evolution of Combat|EoC]] version of the magic spell [[Weaken]] to drain up to 15% of their opponent's maximum [[Strength]] level. Players with low Strength are not advised to train on these with melee, as Weaken can drain their Strength quite significantly unless [[Strength potion|strength]] or [[restore potion]]s are used. After the spell has decreased your strength level to 85%, they will stop casting it.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Stronghold of Security]] (3rd level)
+|lvls=43
+|mem=no
+|mapID=24
+|npcid:4399,x:15,y:64|npcid:4399,x:16,y:60|npcid:4399,x:16,y:67
+|npcid:4399,x:18,y:59|npcid:4399,x:19,y:70|npcid:4399,x:23,y:73
+|npcid:4399,x:25,y:70|npcid:4399,x:26,y:66|npcid:4397,x:38,y:20
+|npcid:4397,x:41,y:20|npcid:4397,x:41,y:24|npcid:4397,x:44,y:21
+|npcid:4397,x:45,y:23|npcid:4397,x:48,y:19|npcid:4397,x:49,y:22
+|npcid:4397,x:51,y:20|npcid:4398,x:54,y:50|npcid:4398,x:57,y:49
+|npcid:4398,x:58,y:52|npcid:4399,x:59,y:69|npcid:4398,x:60,y:48
+|npcid:4399,x:62,y:71|npcid:4399,x:62,y:74|npcid:4399,x:63,y:68
+|npcid:4399,x:65,y:71|npcid:4399,x:66,y:74
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Safe spots==
+In the north-western most room of the third level of the Stronghold of Security, there is a safe spot for using [[Magic]], [[Ranged]], or a [[halberd]] on level 43 catablepon. The spot is to the immediate west of the square patch of tendrils by the skeletons on the western side of the room. Also in the same room, immediately after players walk in the southern door there is a safe spot in the bottom-most square.
+Level 43 catablepon can be [[Safe spot|safe-spotted]] from the north-westernmost corner of this room, by the door. Players will only be hit by the catablepon's Weaken attack, and occasionally a small (45-100) amount of Magic damage. They can also be safe-spotted using the wall "decorations".
+
+<gallery mode="packed" heights="200">
+Catablepon safe spot location.png|The location of the corner safe spot
+Catablepon safe spot.png|Safe-spotting with the wall decorations
+</gallery>
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black full helm|quantity=1|rarity=2/101|members=yes|raritynotes={{DropNote|name=membs|Drop replaced with nothing in free-to-play.}}}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Water rune|quantity=7|rarity=6/101}}
+{{DropsLine|name=Fire rune|quantity=15|rarity=10/101}}
+{{DropsLine|name=Chaos rune|quantity=7|rarity=1/101|members=yes|raritynotes={{DropNote|name=membs|Drop replaced with nothing in free-to-play.}}}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=3/101|members=yes|raritynotes={{DropNote|name=membs}}}}
+{{DropsLine|name=Law rune|quantity=2|rarity=4/101}}
+{{DropsLine|name=Mithril arrow|quantity=5-14|rarity=4/101}}
+{{DropsTableBottom}}
+
+===Herbs {{(m)}}===
+{{HerbDropTableIntro|3/101}} ''This table cannot roll in free-to-play and is replaced by a larger chance to roll 5–104 coins.''
+{{DropsTableHead}}
+{{HerbDropTable|3/101}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{AllotmentSeedDropTableIntro|1/101}} ''This table cannot roll in free-to-play and is replaced by a larger chance to roll 5–104 coins.''
+{{DropsTableHead}}
+{{AllotmentSeedDropTable|1/101}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=15|rarity=6/101|members=yes|raritynotes={{DropNote|name=membs|Drop replaced with nothing in free-to-play.}}}}
+{{DropsLine|name=Coins|quantity=44|rarity=12/101|members=yes|raritynotes={{DropNote|name=membs}}}}
+{{DropsLine|name=Coins|quantity=5-104|rarity=10/101|altrarity=14/101|raritynotes={{DropNote|14/101 in free-to-play.}}}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/101|members=yes|raritynotes={{DropNote|Rolls separately, first.}}|gemw=no}}
+{{DropsLine|name=Eye of newt|quantity=1|rarity=12/101}}
+{{DropsLine|name=Unlit torch|quantity=1|rarity=9/101|members=yes|raritynotes={{DropNote|name=membs|Drop replaced with nothing in free-to-play.}}}}
+{{DropsLine|name=Irit seed|quantity=1-2|rarity=10/101|members=yes|raritynotes={{DropNote|name=membs}}}}
+{{DropsLine|name=Coal stone spirit|quantity=3-7|rarity=2/101}}
+{{DropsLine|name=Trout|quantity=1|rarity=2/101}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=1/101|members=yes|raritynotes={{DropNote|name=membs}}}}
+{{DropsLine|name=Nothing|rarity=1/101|altrarity=45/101|raritynotes={{DropNote|44/101 in free-to-play.}}}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/101|f2p=yes}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Top of sceptre|quantity=1|rarity=3/100|altrarity=15/100|gemw=No|raritynotes={{DropNote|15/100 if wearing any [[Varrock armour]].}}}}
+{{DropsLineEffigy|level=43|members=yes}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineMimic|level=43|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|members = yes
+|quantity = 1
+|gold = 191.955/1000
+|green = 5.999/1000
+|crimson = 11.997/1000
+|blue = 1.2/1000
+}}
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}} 
+** [[Top of sceptre]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Patch Notes: Early-Game Rebalance|date=16 February 2026}}
+** Added drop: 1-2 irit seeds with a 10/101 chance (nothing in free-to-play{{clarify}})
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Patch Notes (27 October 2014)|date=27 October 2014}}
+** Catablepon have had their combat stats adjusted.
+
+* {{UL|type=update|update=Security and free-to-play update - the Stronghold of Security|date=4 July 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* Catablepon are based on a mythical creature from ancient {{wp|Nubia}} known as {{wp|catoblepas}}. 
+
+==References==
+{{Reflist}}
+
+{{Stronghold of Security}}
+[[pt:Catablepon]]

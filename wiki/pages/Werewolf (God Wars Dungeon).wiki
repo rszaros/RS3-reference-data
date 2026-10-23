@@ -1,0 +1,203 @@
+{{External|os=Werewolf#God_Wars_Dungeon_(1)}}
+{{Infobox Monster
+|version1 = Male
+|version2 = Female
+|name = Werewolf
+|image1 = [[File:Werewolf (God Wars Dungeon, male).png|x280px]]
+|image2 = [[File:Werewolf (God Wars Dungeon, female).png|x280px]]
+|release = [[28 August]] [[2007]]
+|update = God Wars Dungeon
+|members = Yes
+|options = Attack, Examine
+|race = Werewolf
+|examine1 = Down, fang!
+|examine2 = She doesn't look pleased to see me.
+|level = 89
+|lifepoints = 6400
+|experience = 320.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 171
+|slayercat = Werewolves
+|max_melee = 256
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 64
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1264
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 1264
+|defence = 64
+|weakness = Water
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = No
+|id1 = 6212
+|id2 = 6213
+|leagueRegion=Asgarnia}}
+'''Werewolves''' can be found in the [[God Wars Dungeon]]. They have better defence and accuracy than their [[Werewolf|counterparts]] in [[Canifis]], and are also aggressive to players not wearing an item of [[Zamorak]]. They are spread out all over the dungeon, are most prevalent in [[Zamorak's Fortress]], but are not found in [[Bandos's Stronghold]]. Werewolves can be killed here for a Slayer assignment, but this is not recommended due to the remoteness and danger.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[God Wars Dungeon]]
+|lvls=89
+|mem=yes
+|mapID=15
+|npcid:6213,x:2835,y:5286
+|npcid:6212,x:2848,y:5277
+|npcid:6213,x:2862,y:5287
+|npcid:6212,x:2836,y:5349
+|npcid:6213,x:2847,y:5352
+|npcid:6213,x:2859,y:5315
+|npcid:6213,x:2869,y:5328
+|npcid:6212,x:2872,y:5318
+|npcid:6213,x:2875,y:5313
+|npcid:6213,x:2884,y:5295
+|npcid:6212,x:2891,y:5285
+|npcid:6213,x:2909,y:5297
+|npcid:6213,x:2919,y:5293
+|npcid:6212,x:2920,y:5268
+|npcid:6213,x:2925,y:5295
+|npcid:6213,x:2927,y:5287
+|npcid:6212,x:2880,y:5321
+|npcid:6213,x:2884,y:5354
+|npcid:6212,x:2886,y:5323
+|npcid:6213,x:2891,y:5361
+|npcid:6212,x:2892,y:5320
+|npcid:6212,x:2896,y:5312
+|npcid:6213,x:2896,y:5355
+|npcid:6213,x:2900,y:5355
+|npcid:6213,x:2910,y:5342
+|npcid:6213,x:2912,y:5353
+|npcid:6213,x:2913,y:5344
+|npcid:6213,x:2915,y:5355
+|npcid:6213,x:2918,y:5349
+|npcid:6213,x:2920,y:5347
+|npcid:6213,x:2922,y:5356
+|npcid:6213,x:2927,y:5354
+|npcid:6213,x:2931,y:5357
+|npcid:6213,x:2933,y:5347
+|npcid:6213,x:2936,y:5350
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|3/512}}
+{{DropsTableHead}}
+{{HerbDropTable|3/512}}
+{{DropsTableBottom}}
+
+===Food===
+{{DropsTableHead}}
+{{DropsLine|name=Jug of wine|quantity=1|rarity=20/512}}
+{{DropsLine|name=Raw chicken|quantity=5|rarity=10/512}}
+{{DropsLine|name=Raw bear meat|quantity=5|rarity=10/512}}
+{{DropsLine|name=Raw beef|quantity=5|rarity=10/512}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Small bladed steel salvage|quantity=1|rarity=32/512}}
+{{DropsLine|name=Tiny bladed steel salvage|quantity=1|rarity=25/512}}
+{{DropsLine|name=Small plated steel salvage|quantity=1|rarity=15/512}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=10/512}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=10/512}}
+{{DropsLine|name=Tiny plated rune salvage|quantity=1|rarity=3/512}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=10|rarity=80/512}}
+{{DropsLine|name=Coins|quantity=120|rarity=20/512}}
+{{DropsLine|name=Coins|quantity=222|rarity=20/512}}
+{{DropsLine|name=Coins|quantity=364|rarity=20/512}}
+{{DropsTableBottom}}
+
+===Furniture plans===
+{{DropsTableHead}}
+{{DropsLine|name=Furniture plans: Zamorak altar|quantity=1|rarity=}}
+{{DropsLine|name=Furniture plans: Zamorak rug|quantity=1|rarity=}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/512|raritynotes={{DropNote|Rolled first, separately.}}}}
+{{DropsLine|name=Grey wolf fur|quantity=1|rarity=100/512}}
+{{DropsLine|name=Fur|quantity=1|rarity=100/512}}
+{{DropsLine|name=Morchella mushroom spore|quantity=2|rarity=4/512}}
+{{DropsLine|name=Nothing|rarity=18/512}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/512}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Werewolf bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Frozen key piece (Zamorak)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Zamorak's Fortress]].}}|gemw=No}}
+{{DropsLineEffigy|level=89}}
+{{DropsLineWarpriest|god=zamorak}}
+{{DropsLineEffigy|level=89}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=89}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 470.29/1000
+|green = 33.592/1000
+|crimson = 33.592/1000
+|blue = 6.718/1000
+}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Werewolf GWD old.png|name=Werewolf}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Werewolf (God Wars Dungeon, male).png|name=Werewolf (God Wars Dungeon)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=God Wars Dungeon|date=28 August 2007}}
+** Added to game.
+}}
+
+{{Werewolves}}
+{{God Wars Dungeon}}

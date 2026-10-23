@@ -1,0 +1,123 @@
+{{Otheruses|def=no|the equipment set|Linza the Disgraced's equipment}}
+{{Infobox Monster
+|version1 = Barrows
+|version2 = Sliske's Endgame
+|name = Linza the Disgraced
+|image = [[File:Linza the Disgraced.png|200px]]
+|release1 = [[23 May]] [[2016]]
+|release2 = [[19 December]] [[2016]]
+|update1 = New Quest – Kindred Spirits - Void Knights Rework
+|update2 = Sliske's Endgame - Frostworld Part 2
+|members = Yes
+|actions1 = Attack
+|examine1 = She's safe from the Dragonkin now.
+|examine2 = She's safe from the dragonkin now.
+|level = 150
+|lifepoints = 150000
+|experience2 = 0.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 440
+|slayercat = Ghosts, Undead
+|max_melee = 1200
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 75
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1694
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1694
+|defence = 75
+|weakness = Fire
+|susceptibility = Salve, Ghost
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction2 = quest
+|leagueRegion = Morytania
+|id1 = 22721
+|id2 = 23847
+}}
+[[File:Linza the Disgraced chathead.png|left|140px]]
+'''Linza the Disgraced''' is the eighth [[Barrows brothers|Barrows wight]]. She is the wight of [[Linza]], who was turned by [[Sliske]] during [[Kindred Spirits]], when he double crosses her after she betrays the player for protection from the [[Dragonkin]].
+
+Linza the Disgraced can be fought after the [[Kindred Spirits]] quest is completed. She shares her tomb with [[Ahrim the Blighted]].
+
+Linza's set effect is purely defensive; whenever she takes damage, there is a chance that she will reflect anywhere from 500-800 damage back onto the player. She will still take full damage from incoming attacks, however. Players should be wary of this when using [[Sunshine]], as the damage-over-time effects can easily stack into high damage if her set effect activates often.
+
+[[Barrows amulets]] cannot be used against her.
+
+==Drops==
+Linza does not drop her main rewards directly; instead, her [[Linza the Disgraced's equipment|equipment]] is added as possible rewards from the Barrows chest. ''See [[The Barrows Brothers#Rewards]] for more information.'' However, Linza can directly drop the following items.
+
+{{DropsTableHead}}
+{{DropsLineGhosts}}
+{{DropsTableBottom}}
+
+==Sliske's Endgame==
+During [[Sliske's Endgame]], Sliske summons Linza along with [[Nomad]] as a wight and [[Gregorovic]] to [[Battle for the Stone of Jas|impede the player]] after the Barrows brothers rebel against Sliske. She has 150,000 life points and keeps her passive effect of reflecting damage. She will also gain an ability that will cause her to shield herself and heal herself for 1,500 life points every few ticks, similar to [[Araxxor]]'s web shield if she is not the first of the three defeated, and an ability that causes her to leap into the air and cause massive damage when she lands if the other two are defeated first.
+
+==Gallery==
+<gallery mode="packed" heights="190">
+File:Linza the Disgraced (Christmas).png|Linza wearing a Santa hat during Christmas.
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=Necromancy Patch Week - This Week In RuneScape|date=11 September 2023}}
+** The 50% combat experience reduction on bosses has been removed. Bosses now give 50 combat experience per 1,000 life points, like most other monsters in the game.
+
+* {{UL|type=patch|update=FSOA/AD Beta & Spring Survey - This Week In RuneScape|date=2 May 2023}}
+** [[Demon Flash Mob]]s, Linza the Disgraced, [[Akrisae the Doomed]] and the [[WildyWyrm]] are no longer affected by the [[Guardhouse]] instakill buff.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+** An old restriction preventing the use of the Salve Amulet at Barrows has been removed. It also works in Rise of the Six.
+
+* {{UL|type=patch|update=Patch Notes (23 October 2017)|date=23 October 2017}}
+** The right-click options on Barrows brothers spawned by other players have been removed.
+
+* {{UL|type=update|update=New Quest – Kindred Spirits - Void Knights Rework|date=23 May 2016}}
+** Added to game.
+}}
+
+==Trivia==
+* Linza is significantly different from the rest of the barrows group:
+** She is the only female in the entire group.
+** She has purple flames surrounding her sarcophagus instead of the normal red.
+** She's significantly stronger than the rest of the group despite sharing the same combat level as the original six, having slightly over twelve times their normal health. Her max hit is still comparable to them, however.
+** She is the only wight to possess tier 80 equipment; the others use tier 70 instead.
+* Similarly to [[Akrisae the Doomed]], players who have access to Linza will be placed in a special instance of Ahrim's mound.
+** Unlike Akrisae, Linza can't be seen in the catacombs, as her sarcophagus lacks the ability to lead into the catacombs, which all others have the ability to do.
+* Upon being summoned, Linza will not despawn if the player is too far from her, unlike Verac and Akrisae who will. The only way to despawn her is by leaving the mound.
+
+==References==
+{{Reflist}}
+
+{{Kindred Spirits}}
+{{Sliske's Endgame}}
+{{Barrows}}
+{{Wights}}
+[[Category:Sliskeans]]
+[[Category:Bosses]]

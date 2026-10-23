@@ -1,0 +1,403 @@
+{{External|os|wp|rsc|dw}}
+{{Otheruses|the monster commonly found in Gielinor|other uses|Chicken (disambiguation)}}
+{{Infobox Monster
+|version1 = Brown
+|version2 = White
+|version3 = Blooming Burrow
+|name = Chicken
+|image1 = [[File:Chicken.png|120px]] [[File:Chicken (white).png|120px]]
+|image2 = [[File:Chicken (white).png|120px]]
+|image3 = Chicken (Blooming Burrow).png
+|release = [[4 January]] [[2001]]
+|release3 = [[18 March]] [[2024]]
+|update = Runescape beta is now online!
+|update3 = Hop into the Blooming Burrow - This Week In RuneScape
+|members = No
+|actions = Attack
+|examine = Yep. Definitely a chicken.
+|level = 1
+|lifepoints = 250
+|experience = 12.5
+|aggressive = no
+|poisonous = no
+|slaylvl = 1
+|slayxp = 19.4
+|slayercat = Birds
+|assigned_by = Turael, Spria, Jacquelyn
+|max_melee = 15
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 3
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 10
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = no
+|immune_to_deflect = no
+|immune_to_stun = no
+|immune_to_drain = no
+|id = 41, 1017, 1401, 1402, 2313, 2314, 2315, 15051, 15052, 15053, 15054, 20966
+|id3 = 30868
+|leagueRegion=Havenhythe, Kandarin, Misthalin, Asgarnia, Fremennik, Karamja, Tirannwn}}
+[[File:Chicken icon.png|left]]
+'''Chickens''' are a type of bird kept as livestock by [[farmer]]s and are often found inside pens in the [[farm]]s of [[Gielinor]]. Chickens are one of the weakest enemies in ''RuneScape'', but are very beneficial for low-level players to kill as they have very low [[Defence]] and deal hardly any damage. Any damage taken whilst killing them could be easily mitigated by cooking the [[raw chicken]] they are guaranteed to drop on kill. Chickens, like most birds, count for [[Birds (Slayer assignment)|birds Slayer assignment]], which are given by the Slayer Masters [[Turael]] and [[Spria]].
+
+Chickens are the primary source of several useful [[item]]s, such as [[egg]]s for [[Cooking]] and [[Summoning]], [[bones]] for [[Prayer]], [[feathers]] for [[Fishing]] or [[Fletching]]. Because of this, killing chickens can be very profitable for low-level players.
+
+Rarely, a chicken will respawn by falling from the sky and saying, "I have returned". This variant drops the [[off-hand rubber chicken]], which is needed to complete the [[Slayer collection log]].
+
+They occasionally lay [[egg]]s on the ground.
+
+==Locations==
+{{Incomplete|Missing locations in Blooming Burrow}}
+{{LocTableHead}}
+{{LocLine
+|loc=[[Amberfell]]
+|lvls=1
+|mem=yes
+|requirements={{QuestIcon|Secrets of Amberfell}} (partial)
+|mapID=28
+|npcid:2314,x:4421,y:3343|npcid:2315,x:4420,y:3346
+|leagueRegion=Havenhythe
+}}
+{{LocLine
+|loc=[[Barbarian Outpost]]
+|lvls=1
+|mem=yes
+|requirements={{QuestIcon|Bar Crawl (miniquest)}}
+|mapID=28
+|npcid:1017,x:2553,y:3562|npcid:1017,x:2553,y:3565|npcid:41,x:2554,y:3563
+|leagueRegion=Kandarin
+}}
+{{LocLine
+|loc=[[Champions' Guild]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:41,x:3196,y:3352|npcid:1017,x:3197,y:3352|npcid:41,x:3197,y:3353
+|npcid:1017,x:3198,y:3354|npcid:41,x:3198,y:3355
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Death Plateau (location)|Death Plateau]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:41,x:2816,y:3561|npcid:1017,x:2818,y:3559|npcid:41,x:2819,y:3561
+|npcid:1017,x:2819,y:3562
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=[[Entrana]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:41,x:2846,y:3374|npcid:41,x:2850,y:3368|npcid:1017,x:2850,y:3371
+|npcid:41,x:2852,y:3370|npcid:1017,x:2853,y:3368|npcid:1017,x:2853,y:3373
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=Around castle on [[Etceteria]]
+|lvls=1
+|mem=yes
+|requirements={{QuestIcon|The Fremennik Trials}}
+|mapID=28
+|npcid:1402,x:2601,y:3874|npcid:1402,x:2601,y:3878|npcid:1401,x:2602,y:3877
+|npcid:1402,x:2606,y:3867
+|leagueRegion=Fremennik
+}}
+{{LocLine
+|loc=Outside bank on [[Etceteria]]
+|lvls=1
+|mem=yes
+|requirements={{QuestIcon|The Fremennik Trials}}
+|mapID=28
+|npcid:1401,x:2611,y:3897|npcid:1401,x:2612,y:3900|npcid:1401,x:2617,y:3897
+|leagueRegion=Fremennik
+}}
+{{LocLine
+|loc=[[Falador farm]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:2315,x:3019,y:3287|npcid:2313,x:3022,y:3284|npcid:2314,x:3022,y:3287
+|npcid:2314,x:3023,y:3285|npcid:2314,x:3023,y:3289|npcid:2313,x:3026,y:3286
+|npcid:2313,x:3029,y:3286|npcid:2314,x:3031,y:3286|npcid:2315,x:3031,y:3288
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=Farm east of the [[River Lum]] in [[Lumbridge]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:1017,x:3225,y:3300|npcid:1017,x:3228,y:3297|npcid:1017,x:3228,y:3299
+|npcid:41,x:3230,y:3298|npcid:41,x:3230,y:3299|npcid:1017,x:3231,y:3297
+|npcid:41,x:3231,y:3300|npcid:1017,x:3232,y:3299|npcid:41,x:3235,y:3298
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Fred the Farmer|Fred's]] farm in [[Lumbridge]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:1017,x:3204,y:3286|npcid:41,x:3205,y:3285|npcid:1017,x:3205,y:3286
+|npcid:41,x:3206,y:3285|npcid:1017,x:3208,y:3285|npcid:41,x:3208,y:3286
+|npcid:41,x:3210,y:3285|npcid:1017,x:3210,y:3286
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Hemenster]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:1017,x:2650,y:3441|npcid:41,x:2650,y:3442|npcid:41,x:2651,y:3441
+|npcid:1017,x:2651,y:3442
+|leagueRegion=Kandarin
+}}
+{{LocLine
+|loc=[[Marigold Farm]]
+|lvls=1
+|mem=no
+|mapID=28
+|requirements={{QuestIcon|Visions of Havenhythe}} (partial)
+|npcid:2313,x:4249,y:3294|npcid:2314,x:4248,y:3291|npcid:2315,x:4250,y:3288
+|npcid:2315,x:4248,y:3293
+|leagueRegion=Havenhythe
+}}
+{{LocLine
+|loc=[[Miscellania Castle]]
+|lvls=2
+|mem=yes
+|mapID=28
+|requirements={{QuestIcon|The Fremennik Trials}}
+|npcid:1401,x:2512,y:3862|npcid:1401,x:2512,y:3867|npcid:1402,x:2514,y:3859
+|npcid:1402,x:2516,y:3865
+|leagueRegion=Fremennik
+}}
+{{LocLine
+|loc=Northern [[Miscellania]]
+|lvls=1
+|mem=yes
+|requirements={{QuestIcon|The Fremennik Trials}}
+|mapID=28
+|npcid:1401,x:2537,y:3892|npcid:1401,x:2539,y:3893|npcid:1401,x:2545,y:3893
+|npcid:1401,x:2547,y:3893
+|leagueRegion=Fremennik
+}}
+{{LocLine
+|loc=Peninsula between [[Witchaven]] and [[East Ardougne]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:41,x:2691,y:3273|npcid:1017,x:2691,y:3277|npcid:1017,x:2692,y:3271
+|npcid:41,x:2695,y:3274
+|leagueRegion=Kandarin
+}}
+{{LocLine
+|loc=[[Rellekka]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:1017,x:2679,y:3663|npcid:41,x:2679,y:3665|npcid:41,x:2680,y:3664
+|npcid:1017,x:2681,y:3663
+|leagueRegion=Fremennik
+}}
+{{LocLine
+|loc=Road between [[Lumbridge]] and [[Varrock]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:41,x:3237,y:3323
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Sinclair Mansion]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:41,x:2735,y:3559|npcid:41,x:2736,y:3562|npcid:1017,x:2738,y:3560
+|leagueRegion=Kandarin
+}}
+{{LocLine
+|loc=[[Tai Bwo Wannai]]
+|lvls=1
+|mem=yes
+|mapID=28
+|npcid:41,x:2780,y:3064|npcid:1017,x:2788,y:3061|npcid:1017,x:2805,y:3064
+|npcid:41,x:2808,y:3067
+|leagueRegion=Karamja
+}}
+{{LocLine
+|loc=[[Taverley]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:15052,x:2884,y:3475|npcid:15051,x:2884,y:3477|npcid:15052,x:2886,y:3476
+|npcid:15054,x:2887,y:3475|npcid:15053,x:2888,y:3477|npcid:15054,x:2889,y:3476
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=[[Tutorial Island]]
+|lvls=1
+|mem=no
+|mapID=714
+|npcid:25283,x:3842,y:4246|npcid:25283,x:3842,y:4247|npcid:25283,x:3844,y:4246
+|npcid:25283,x:3844,y:4248
+|leagueRegion=No
+}}
+{{LocLine
+|loc=[[Sunken Tutorial Island]]
+|lvls=1
+|mem=no
+|requirements={{QuestIcon|Beneath Cursed Tides}} (partial)
+|mapID=689
+|npcid:22101,x:5250,y:789|npcid:22101,x:5250,y:791|npcid:22101,x:5252,y:789
+|npcid:22101,x:5252,y:790|npcid:22101,x:5252,y:792
+|leagueRegion=Misthalin
+}}
+{{LocLine
+|loc=[[Tyras Camp]]
+|lvls=1
+|mem=yes
+|requirements={{QuestIcon|Regicide}} (partial)
+|mapID=28
+|npcid:41,x:2184,y:3152|npcid:1017,x:2185,y:3152|npcid:41,x:2186,y:3153
+|leagueRegion=Tirannwn
+}}
+{{LocLine
+|loc=[[White Knights' Castle]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:41,x:2966,y:3346
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=[[Zanaris]]
+|lvls=1
+|mem=yes
+|requirements={{QuestIcon|Lost City}}
+|mapID=1
+|npcid:1017,x:2451,y:4477|npcid:41,x:2454,y:4477
+|leagueRegion=Misthalin
+}}
+{{LocTableBottom}}
+
+A chicken can also be found in [[Blooming Burrow]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw chicken|quantity=1|rarity=Always}}
+{{DropsLine|name=Key (Treasure Trails)|members=Yes|quantity=1|rarity=Always|raritynotes={{DropNote|Only with the relevant clue in the backpack.}}|gemw=No}}
+{{DropsLine|name=Off-hand rubber chicken|members=Yes|quantity=1|rarity=Always|raritynotes={{DropNote|Only if the chicken spawned by falling from the sky and saying "I have returned!" and if the item isn't already owned.}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Feather|quantity=5|rarity=64/128}}
+{{DropsLine|name=Feather|quantity=15|rarity=32/128}}
+{{DropsLine|name=Nothing|rarity=32/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Cornucopia|quantity=1|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+==Money making guide==
+{{Mmgsection|Killing chickens}}
+
+==Achievement==
+* {{Achievement|Guardian of the Realm}} 
+** [[Cornucopia]] and [[off-hand rubber chicken]] drops
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Brown chicken
+|item1 = 
+{{GU|subject=NPCs
+
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Chicken (brown, 2004).png|name=Chicken}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Cows, Chickens, Rabbits and the Fishing Trawler|img=Chicken (brown, 2007).png|name=Brown chicken}}
+|{{GUL|date=[[12 March]] [[2013]]|update=Tribute to Guthix and New Combat Abilities|img=Chicken (brown, 2013).png|name=Brown chicken}}
+|{{GUL|date=[[4 August]] [[2014]]|update=Clan Month - The Beginning|img=Chicken (brown, 2014).png|name=Brown chicken}}
+|{{GUL|date=[[3 September]] [[2018]]|update=Player Owned Farm|img=Chicken.png|name=Brown chicken}}
+}}
+
+|text2 = White chicken
+|item2 = 
+{{GU|subject=NPCs
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Chicken (white, 2004).png|name=Chicken}}
+|{{GUL|date=[[20 March]] [[2007]]|update=Cows, Chickens, Rabbits and the Fishing Trawler|img=Chicken (white, 2007).png|name=White chicken}}
+|{{GUL|date=[[12 March]] [[2013]]|update=Tribute to Guthix and New Combat Abilities|img=Chicken (white, 2013).png|name=White chicken}}
+|{{GUL|date=[[4 August]] [[2014]]|update=Clan Month - The Beginning|img=Chicken (white, 2014).png|name=White chicken}}
+|{{GUL|date=[[3 September]] [[2018]]|update=Player Owned Farm|img=Chicken (white).png|name=White chicken}}
+}}
+}}
+
+==Works==
+{{Worksby}}
+
+==Transcript==
+{{Hastranscript|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Uncover the Secrets of Amberfell|date=1 June 2026}}
+** Added to [[Amberfell]].
+
+* {{UL|type=update|update=Welcome to Havenhythe|date=23 March 2026}}
+** Added to [[Marigold Farm]].
+
+* {{UL|type=|update=|date=}}
+** Variant in [[Blooming Burrow]] made attackable, making it a [[monster]].
+** Variant in [[Blooming Burrow]] made visible on the [[minimap]].
+
+* {{UL|type=update|update=Hop into the Blooming Burrow - This Week In RuneScape|date=18 March 2024}}
+** Added a variant to [[Blooming Burrow]] as a non-attackable [[non-player character]].
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Patch Notes (23 September 2019)|date=23 September 2019}}
+** Chickens at the [[Falador farm]], [[Miscellania]] and [[Etceteria]] have been graphically updated.
+
+* {{UL|type=ninja|update=Patch Notes (5 January 2015)|date=5 January 2015}}
+** Chickens' walk animations are now more fluid.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+==Trivia==
+* At [[RuneFest 2011]], chickens were spawned at the [[Grand Exchange]] by a [[Jagex moderator]] demonstrating how the [[rotten potato]] works.
+* A chicken could be found in the basement of the [[Wizards' Tower]] before the area received a graphical update on [[28 November]] [[2012]].
+
+{{Amberfell}}
+{{Blooming Burrow}}
+{{Chickens}}
+{{Marigold Farm}}
+{{Zanaris}}
+[[pt:Galinha]]
+[[Category:Birds]]

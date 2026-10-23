@@ -1,0 +1,120 @@
+{{Infobox Monster
+|name = Ghostly troll bruiser
+|image = [[File:Ghostly troll bruiser.png|x280px]]
+|release = [[7 August]] [[2023]]
+|update = New Skill: Necromancy - This Week In RuneScape
+|members = No
+|options = Attack, Examine
+|race = Troll, Ghost
+|examine = Probably ate something it shouldn't.
+|leagueRegion = Misthalin
+|level = 7
+|lifepoints = 1800
+|experience = 90
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 20.8
+|slayercat = Trolls, Ghosts, Undead
+|max_melee = 100.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 5
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 50
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 150
+|defence = 5
+|weakness = Water
+|susceptibility = Undead slayer, Ghost
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect =
+|immune_to_stun =
+|immune_to_drain =
+|restriction = No
+|id = 30426
+}}
+G'''hostly troll bruisers''' are [[monster]]s found inside of the [[City of Um troll cave]], entry from the [[Large cave opening (City of Um)|large cave opening]] on the south coast of the [[City of Um]]. There are seven of them residing within the cave alongside with seven [[ghostly troll thrower]]s and various other ghostly troll characters.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Seeds===
+''There is a 15/100 chance to roll for the herb seed drop table in members' worlds. In free-to-play worlds, two [[bones]] will be dropped instead.''
+
+{{DropsTableHead}}
+{{DropsLine|name=Guam seed|quantity=1|rarity=145/2819|approx=yes|members=Yes}}
+{{DropsLine|name=Marrentill seed|quantity=1|rarity=106/2819|approx=yes|members=Yes}}
+{{DropsLine|name=Harralander seed|quantity=1|rarity=45/2819|approx=yes|members=Yes}}
+{{DropsLine|name=Tarromin seed|quantity=1|rarity=64/2819|approx=yes|members=Yes}}
+{{DropsLine|name=Ranarr seed|quantity=1|rarity=31/2819|approx=yes|members=Yes}}
+{{DropsLine|name=Toadflax seed|quantity=1|rarity=23/2819|approx=yes|members=Yes}}
+{{DropsLine|name=Irit seed|quantity=1|rarity=16/2819|approx=yes|members=Yes}}
+{{DropsLine|name=Avantoe seed|quantity=1|rarity=9/2819|approx=yes|members=Yes}}
+{{DropsLine|name=Kwuarm seed|quantity=1|rarity=8/2819|approx=yes|members=Yes}}
+{{DropsLine|name=Snapdragon seed|quantity=1|rarity=4/2819|approx=yes|members=Yes}}
+{{DropsLine|name=Cadantine seed|quantity=1|rarity=5/2819|approx=yes|members=Yes}}
+{{DropsLine|name=Lantadyme seed|quantity=1|rarity=2/2819|approx=yes|members=Yes}}
+{{DropsLine|name=Dwarf weed seed|quantity=1|rarity=Very rare|members=Yes}}
+{{DropsLine|name=Torstol seed|quantity=1|rarity=1/2819|approx=yes|members=Yes}}
+{{DropsLine|name=Fellstalk seed|quantity=1|rarity=2/2819|approx=yes|members=Yes}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Deathstorm drape|quantity=1|rarity=5/100|raritynotes={{DropNote|Only if a [[Deathstorm drape]] is not already in bank, backpack, worn equipment or on the floor nearby. Otherwise, coins will be dropped.}}}}
+{{DropsLine|name=Bones|quantity=2|rarity=25/100|altrarity=40/100|raritynotes={{DropNote|25/100 in members' worlds; 40/100 in free-to-play worlds.}}}}
+{{DropsLine|name=Big bones|quantity=1|rarity=10/100}}
+{{DropsLine|name=Coins|quantity=6-26|rarity=20/100|altrarity=35/100|altraritydash=y|raritynotes={{DropNote|Additional 5/100 chance if a [[Deathstorm drape]] is in bank, backpack, worn equipment or on the floor nearby. Additional 10/100 chance in free-to-play worlds.}}}}
+{{DropsLine|name=Cooked undead meat|quantity=1|rarity=15/100|raritynotes={{DropNote|Only in members' worlds; this drop is replaced by [[cooked meat]] in free-to-play worlds.}}|members=Yes}}
+{{DropsLine|name=Cooked meat|quantity=1|rarity=15/100|raritynotes={{DropNote|Only in free-to-play worlds; this drop is replaced by [[cooked undead meat]] in members' worlds.}}}}
+{{DropsLine|name=Grimy marrentill|quantity=1|rarity=10/100|raritynotes={{DropNote|Only in members' worlds; this drop is replaced by [[coins]] in free-to-play worlds.}}|members=Yes}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|members=Yes|slayer_level=1}}
+{{DropsTableEnd}}
+
+==Transcript==
+{{Hastranscript|npc}}
+
+==Achievements==
+* {{Achievement|And They Called Him Weapon Poison+++}}
+
+==Update history ==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=New Skill: Necromancy - This Week In RuneScape|date=7 August 2023}}
+** Added to game.
+}}
+
+{{City of Um}}
+{{Trolls}}
+{{Ghost}}

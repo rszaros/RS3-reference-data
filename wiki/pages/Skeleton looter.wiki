@@ -1,0 +1,262 @@
+{{Multi infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Variant 1
+|version2 = Variant 2
+|version3 = Variant 3
+|version4 = Variant 4
+|version5 = Variant 5
+|version6 = Variant 6
+|version7 = Variant 7
+|version8 = Variant 8
+|version9 = Variant 9
+|version10 = Variant 10
+|version11 = Variant 11
+|name = Skeleton looter
+|image1 = [[File:Skeleton looter.png]]
+|image2 = [[File:Skeleton looter (2).png]]
+|image3 = [[File:Skeleton looter (3).png]]
+|image4 = [[File:Skeleton looter (4).png]]
+|image5 = [[File:Skeleton looter (5).png]]
+|image6 = [[File:Skeleton looter (6).png]]
+|image7 = [[File:Skeleton looter (7).png]]
+|image8 = [[File:Skeleton looter (8).png]]
+|image9 = [[File:Skeleton looter.png]]
+|image10 = [[File:Skeleton looter (2).png]]
+|image11 = [[File:Skeleton looter (3).png]]
+|release = [[19 May]] [[2009]]
+|update = Missing My Mummy
+|members = Yes
+|options = Attack, Examine
+|race = 
+|examine1 = You clearly can't live on treasure alone.
+|examine2 = A testament to the effect of greed.
+|examine3 = He wanted loot, now he just wants you.
+|examine4 = Eternally looking for that big payday.
+|examine5 = No more tea-breaks for this one.
+|examine6 = Even in death you can smell his feet.
+|examine7 = An anatomist's dream.
+|examine8 = A hand seems to be gripping his spine through his chest. Ouch.
+|examine9 = 
+|examine10 = 
+|examine11 = 
+|level = 42
+|lifepoints = 1500
+|experience = 75
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Skeletons, Undead
+|max_melee = 120
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 30
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 454
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 454
+|defence = 30
+|weakness = Air
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|dropversion1 = Variant 1
+|dropversion2 = Variant 2
+|dropversion3 = Variant 3
+|dropversion4 = Variant 4
+|dropversion5 = Variant 5
+|dropversion6 = Variant 6
+|dropversion7 = Variant 7
+|dropversion8 = Variant 8
+|dropversion9 = Variant 9
+|dropversion10 = Variant 10
+|dropversion11 = Variant 11
+|id1 = 7481
+|id2 = 7482
+|id3 = 7483
+|id4 = 7484
+|id5 = 7485
+|id6 = 7486
+|id7 = 7487
+|id8 = 7488
+|id9 = 7489
+|id10 = 7490
+|id11 = 7491
+|leagueRegion=Desert
+}}
+|text2 = Scenery
+|item2 =
+{{Infobox Scenery
+|version1 = Variant 1
+|version2 = Variant 2
+|version3 = Variant 3
+|version4 = Variant 4
+|version5 = Variant 5
+|version6 = Variant 6
+|version7 = Variant 7
+|version8 = Variant 8
+|version9 = Variant 9
+|version10 = Variant 10
+|version11 = Variant 11
+|name = Skeleton
+|image1 = [[File:Skeleton looter (corpse).png]]
+|image2 = [[File:Skeleton looter (corpse, 2).png]]
+|image3 = [[File:Skeleton looter (corpse, 3).png]]
+|image4 = [[File:Skeleton looter (corpse, 4).png]]
+|image5 = [[File:Skeleton looter (corpse, 5).png]]
+|image6 = [[File:Skeleton looter (corpse, 6).png]]
+|image7 = [[File:Skeleton looter (corpse, 7).png]]
+|image8 = [[File:Skeleton looter (corpse, 8).png]]
+|image9 = [[File:Skeleton looter (corpse).png]]
+|image10 = [[File:Skeleton looter (corpse, 2).png]]
+|image11 = [[File:Skeleton looter (corpse, 3).png]]
+|release = [[19 May]] [[2009]]
+|update = Missing My Mummy
+|members = Yes
+|quest = [[Missing My Mummy]]
+|restriction = quest
+|location = [[Uzer Mastaba]]
+|options = Rummage, Examine
+|examine = A looting opportunity.
+|map1 = {{Object map|objectname=Skeleton|objectid:42992,x:1506,y:4945|mapID=357|group=42992}}
+|map2 = {{Object map|objectname=Skeleton|objectid:42993,x:1518,y:4964|mapID=357|group=42993}}
+|map3 = {{Object map|objectname=Skeleton|objectid:42994,x:1524,y:4963|mapID=357|group=42994}}
+|map4 = {{Object map|objectname=Skeleton|objectid:42995,x:1499,y:4958|mapID=357|group=42995}}
+|map5 = {{Object map|objectname=Skeleton|objectid:42996,x:1517,y:4980|mapID=357|group=42996}}
+|map6 = {{Object map|objectname=Skeleton|objectid:42997,x:1526,y:4981|mapID=357|group=42997}}
+|map7 = {{Object map|objectname=Skeleton|objectid:42998,x:1493,y:4968|mapID=357|group=42998}}
+|map8 = {{Object map|objectname=Skeleton|objectid:42999,x:1480,y:4971|mapID=357|group=42999}}
+|map9 = {{Object map|objectname=Skeleton|objectid:43000,x:1479,y:4968|mapID=357|group=43000}}
+|map10 = {{Object map|objectname=Skeleton|objectid:43001,x:1482,y:4968|mapID=357|group=43001}}
+|map11 = {{Object map|objectname=Skeleton|objectid:43002,x:1485,y:4956|mapID=357|group=43002}}
+|id1 = 42992
+|id2 = 42993
+|id3 = 42994
+|id4 = 42995
+|id5 = 42996
+|id6 = 42997
+|id7 = 42998
+|id8 = 42999
+|id9 = 43000
+|id10 = 43001
+|id11 = 43002
+|leagueRegion=Desert
+}}
+}}
+'''Skeleton looters''' are found in [[Uzer Mastaba]] during the quest [[Missing My Mummy]]. The pyramid is located south of [[Uzer]], in the part of the [[Kharidian Desert]] where protection from [[desert heat]] is advised. Once in the pyramid, this protection is not needed.
+
+The skeleton looters are the remains of [[bandit looter]]s who succumbed to [[Senliten]]'s curse, which slowly killed them, withering their flesh from their bones and turning them into undead beings.
+
+The player can awaken these undead looters, who will attack. Once defeated, a skeleton looter will not respawn.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Uzer Mastaba]]
+|lvls=37
+|mem=yes
+|requirements={{QuestIcon|Missing My Mummy}} (partial)
+|mapID=357
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+Two drop tables are rolled per kill, the primary and secondary drop tables.
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Canopic jar (spleen)|quantity=1|rarity=Always|raritynotes={{DropNote|name=quest|Only dropped during the quest [[Missing My Mummy]] and if the item isn't already in the backpack or bank.}}|gemw=No|version=Variant 1}}
+{{DropsLine|name=Pyramid journal|quantity=1|rarity=Always|raritynotes={{DropNote|name=quest}}|gemw=No|version=Variant 4}}
+{{DropsLine|name=Mummy hand|quantity=1|rarity=Always|raritynotes={{DropNote|name=quest}}|gemw=No|version=Variant 8}}
+{{DropsLine|name=Scroll of the dead|quantity=1|rarity=Always|raritynotes={{DropNote|name=quest}}|gemw=No|version=Variant 11}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Water rune|quantity=1-20|rarity=7/128}}
+{{DropsLine|name=Fire rune|quantity=1-30|rarity=15/128}}
+{{DropsLine|name=Cosmic rune|quantity=1-9|rarity=4/128}}
+{{DropsLine|name=Chaos rune|quantity=1-11|rarity=4/128}}
+{{DropsLine|name=Nature rune|quantity=1-5|rarity=4/128}}
+{{DropsLine|name=Law rune|quantity=1-5|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|20/128}}
+{{DropsTableHead}}
+{{HerbDropTable|20/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium bladed steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny plated mithril salvage|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1-900|rarity=49/128}}
+{{DropsLine|name=Papyrus|quantity=4 (noted)|rarity=4/128}}
+{{DropsLine|name=Silk|quantity=10 (noted)|rarity=4/128}}
+{{DropsLine|name=Granite (500g)|quantity=1|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Secondary===
+{{DropsTableHead}}
+{{DropsLine|name=Hammer|quantity=1|rarity=35/128}}
+{{DropsLine|name=Saw|quantity=1|rarity=35/128}}
+{{DropsLine|name=Desert shirt|quantity=1|rarity=10/128}}
+{{DropsLine|name=Knife|quantity=1|rarity=8/128}}
+{{DropsLine|name=Waterskin (0)|quantity=1|rarity=40/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=2/128|gemw=No}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Skeleton looter old.png|name=Skeleton looter}}
+|{{GUL|date=|update=|img=Skeleton looter.png|name=Skeleton looter}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Missing My Mummy|date=19 May 2009}}
+** Added to game.
+}}
+
+{{Missing My Mummy}}
+[[Category:Quest monsters]]

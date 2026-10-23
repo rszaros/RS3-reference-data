@@ -1,0 +1,186 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Variant 1
+|version2 = Variant 2
+|name = Ice troll grunt
+|image = [[File:Ice troll grunt.png|150px]]
+|release = [[6 February]] [[2007]]
+|update = Fremennik Isles
+|members = Yes
+|options = Attack
+|examine = A large ice troll.
+|leagueRegion = Fremennik
+|level = 68
+|lifepoints = 8400
+|experience = 420.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Trolls
+|assigned_by = Turael, Chaeldar, Sumona
+|max_melee = 1000
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 50
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 750
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Variant 1
+|dropversion2 = Variant 2
+|id1 = 5476
+|id2 = 5528
+}}
+'''Ice troll grunts''' are the foot soldiers of the [[Ice Troll King]] on the isles of [[Jatizso]] and [[Neitiznot]]. [[Yak-hide armour]] reduces the troll's maximum hit and therefore is recommended over armour with higher defensive bonuses.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Fremennik Isles]]
+|lvls=68
+|mem=yes
+|requirements={{QuestIcon|The Fremennik Isles}} (partial)
+|mapID=28
+|npcid:5528,x:2323,y:3892|npcid:5528,x:2341,y:3890|npcid:5528,x:2364,y:3891
+|npcid:5528,x:2379,y:3893
+|leagueRegion=Fremennik
+}}
+{{LocLine
+|loc=[[Ice Troll Caves]]
+|lvls=68
+|mem=yes
+|requirements={{QuestIcon|The Fremennik Isles}} (partial)
+|mapID=14
+|npcid:5476,x:2383,y:10281|npcid:5476,x:2388,y:10277|npcid:5476,x:2394,y:10274
+|npcid:5528,x:2413,y:10265|npcid:5528,x:2414,y:10276|npcid:5528,x:2420,y:10270
+|leagueRegion=Fremennik
+}}
+{{LocTableBottom}}
+
+==Drops (variant 1)==
+This version is found by the entrance inside of the [[Ice Troll Caves]].
+
+{{Average drop value|mob=Ice troll grunt#Variant 1}}
+
+===100%===
+{{DropsTableHead|version=Variant 1}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead|version=Variant 1}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsTableBottom}}
+
+==Drops (variant 2)==
+{{DropLogProject|kills=241}}
+
+This version is found throughout the area north of [[Neitiznot]] and [[Jatizso]], with another three found inside the [[Ice Troll Caves]].
+
+===100%===
+{{DropsTableHead|version=Variant 2}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=Variant 2}}
+{{DropsLine|name=Huge plated steel salvage|quantity=1|rarity=7/128}}
+{{DropsLine|name=Small plated adamant salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Medium blunt mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny bladed adamant salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Large plated rune salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium blunt rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead|version=Variant 2}}
+{{DropsLine|name=Granite shield|quantity=1|rarity=1/128|citations={{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/dfj1wc/wiki_rev_pet_calculator_plus_some_slayer/|title=Wiki - Rev Pet calculator, plus some Slayer Collection Log drop rates|quote=Granite shield: 1/128|archiveurl=https://reldo.runescape.wiki/i/96758|archivedate=16 October 2020}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead|version=Variant 2}}
+{{DropsLine|name=Earth rune|quantity=8-14|rarity=10/128}}
+{{DropsLine|name=Earth rune|quantity=12-36|rarity=10/128}}
+{{DropsLine|name=Nature rune|quantity=4-12|rarity=4/128}}
+{{DropsLine|name=Law rune|quantity=4-8|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|19/128}}
+{{DropsTableHead|version=Variant 2}}
+{{HerbDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|7/128}}
+{{DropsTableHead|version=Variant 2}}
+{{UncommonSeedDropTable|7/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Variant 2}}
+{{DropsLine|name=Coins|quantity=|rarity=Common|gemw=No}}
+{{DropsLine|name=Seaweed|quantity=3-9 (noted)|rarity=12/128}}
+{{DropsLine|name=Ball of wool|quantity=18-42 (noted)|rarity=11/128}}
+{{DropsLine|name=Raw shark|quantity=2-8 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable}}
+
+===Tertiary===
+{{DropsTableHead|version=Variant 2}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Slayer of Chaos}}
+** [[Granite shield]] drop
+* {{Achievement|Yak Attack}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[6 February]] [[2007]]|update=Fremennik Isles|img=Ice troll grunt old.png|name=Ice troll grunt}}
+|{{GUL|date=[[15 March]] [[2011]]|update=Ring of Wealth, Shanties, Trolls and Dungeoneering|img=Ice troll grunt.png|name=Ice troll grunt}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Fremennik Isles|date=6 February 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* Players who have done the [[Fremennik Isles]] quest can make their own [[yak-hide armour]] using items easily obtained on [[Neitiznot]]. This armour is very inexpensive and has good damage-stopping properties against trolls.
+
+==References==
+{{Reflist}}
+
+{{Trolls}}
+[[Category:Bandosians]]

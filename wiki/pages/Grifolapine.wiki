@@ -1,0 +1,189 @@
+{{Infobox Monster
+|version1 = Normal
+|version2 = Neem oil
+|name = Grifolapine
+|image1 = [[File:Grifolapine.png|200px]]
+|image2 = [[File:Grifolapine (neem oil).png|200px]]
+|release = [[28 November]] [[2011]]
+|update = Polypore Dungeon
+|members = Yes
+|options = Attack
+|examine1 = A prickly creature covered in grifolic fungus.
+|examine2 = This grifolapine has been weakened slightly.
+|level = 103
+|lifepoints = 7400
+|experience = 370.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 88
+|slayxp = 279
+|slayercat = Grifolapines, Polypore creatures
+|assigned_by = Chaeldar, Duradel, Kuradal, Sumona
+|max_melee = 0
+|max_ranged1 = 296
+|max_ranged2 = 148
+|max_magic1 = 296
+|max_magic2 = 148
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 74
+|magic = 74
+|necromancy = 1
+|acc_melee = 1650
+|acc_ranged = 1650
+|acc_magic = 1650
+|acc_necromancy = 0
+|armour = 1486
+|defence = 74
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 14688
+|id2 = 14689
+|leagueRegion = Misthalin
+}}
+[[File:Grifolapine icon.png|left]]
+A '''Grifolapine''' is a monster found in the [[Polypore Dungeon]] ([[fairy ring]] code {{fairycode|BIP}}) on the third level. It requires a [[Slayer]] level of 88 to kill, and 60 [[Magic]] for the player to receive as a [[Slayer assignment]].
+
+Similarly to [[Grifolaroo]]s, Grifolapines attack with both Magic and Ranged. The magic attack utilizes the same projectile as all the other creatures in the dungeon, except the Grfiolaroo simply shakes slightly as a visual indicator. As its ranged attack, it flips around to launch barbed spines.
+
+When in combat with a player, the Grifolapine will occasionally yell {{RSFont|Raargh!}}, charging at the player at a speed of 4 tiles per tick (twice that of a running player) in an attempt to infest them with fungi. If the Grifolapine cannot reach the player, it will say {{RSFont|*sigh*}} instead, before resuming standard combat. The Grifolapine's platform consists of holes or fungal growths which can be used as safespots from the charge attack.
+
+If standing next to a Grifolapine with active fungi, it will infest them with fungi for 50-150 damage per tick, but not use any other attacks. If sprayed on with [[neem oil]], the Grifolapine will only use ranged attacks until its fungi regrows.
+
+Grifolapines have similar drops to [[Grifolaroo]]s but have much better drop rates for [[grifolic flake]]s, the sought-after item to create the [[grifolic armour|grifolic armour set]]. In addition, they are the only monster that drops the [[grifolic wand]] and [[grifolic shield]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Polypore Dungeon]]
+|lvls=103
+|mem=yes
+|mapID=41
+|npcid:14688,x:3279,y:9340|npcid:14688,x:3280,y:9332|npcid:14688,x:3283,y:9310
+|npcid:14688,x:3283,y:9336|npcid:14688,x:3284,y:9314|npcid:14688,x:3284,y:9339
+|npcid:14688,x:3286,y:9307|npcid:14688,x:3289,y:9313|npcid:14688,x:3290,y:9295
+|npcid:14688,x:3294,y:9292|npcid:14688,x:3294,y:9299|npcid:14688,x:3298,y:9296
+|npcid:14688,x:3308,y:9295|npcid:14688,x:3308,y:9300|npcid:14688,x:3310,y:9303
+|npcid:14688,x:3312,y:9298|npcid:14688,x:3280,y:9386|npcid:14688,x:3282,y:9380
+|npcid:14688,x:3282,y:9385|npcid:14688,x:3285,y:9383|npcid:14688,x:3312,y:9393
+|npcid:14688,x:3313,y:9391|npcid:14688,x:3315,y:9394|npcid:14688,x:3344,y:9359
+|npcid:14688,x:3345,y:9367|npcid:14688,x:3345,y:9377|npcid:14688,x:3345,y:9380
+|npcid:14688,x:3347,y:9361|npcid:14688,x:3347,y:9379|npcid:14688,x:3348,y:9382
+|npcid:14688,x:3349,y:9364|npcid:14688,x:3366,y:9388|npcid:14688,x:3368,y:9388
+|npcid:14688,x:3370,y:9388
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=[[Polypore Dungeon resource dungeon]]
+|lvls=103
+|mem=yes
+|requirements = {{Skillreq|Dungeoneering|82}}
+|mapID=41
+<!-- Plane 1 -->
+|npcid:14688,x:3208,y:9358|npcid:14688,x:3209,y:9345|npcid:14688,x:3210,y:9322
+|npcid:14688,x:3212,y:9318|npcid:14688,x:3212,y:9342|npcid:14688,x:3212,y:9363
+|npcid:14688,x:3214,y:9323|npcid:14688,x:3214,y:9347|npcid:14688,x:3215,y:9342
+|npcid:14688,x:3215,y:9358|npcid:14688,x:3216,y:9320|npcid:14688,x:3248,y:9340
+|npcid:14688,x:3250,y:9345|npcid:14688,x:3251,y:9337
+|npcid:14688,x:3254,y:9341
+|leagueRegion = Misthalin
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Neem drupe|quantity=1-3|rarity=Always|gemw=No}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Grifolic wand|quantity=1|rarity=1/60}}
+{{DropsLine|name=Grifolic shield|quantity=1|rarity=1/60}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|8/60}} ''When this table is rolled, three rolls will be performed every time. There is an additional 3/60 chance to roll once for morchella mushroom spores.''
+{{DropsTableHead}}
+{{DropsLine|name=Morchella mushroom spore|quantity=3|rarity=3/60}}
+{{UncommonSeedDropTable|8/60|rolls=3}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Gorajian mushroom|quantity=5 (noted)|rarity=18/60}}
+{{DropsLine|name=Grifolic flake|quantity=1-100|rarity=12/60}}
+{{DropsLine|name=Polypore spore|quantity=1-300|rarity=10/60}}
+{{DropsLine|name=Snape grass|quantity=15-24 (noted)|rarity=7/60}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineEffigy|level=103}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=103}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 39.52/1000
+|green = 19.76/1000
+|crimson = 126.465/1000
+|blue = 7.904/1000
+}}
+
+==Money making guide==
+{{Mmgsection|Killing grifolapines}}
+
+==Achievements==
+* {{Achievement|Fenkenstrain's Monster}} 
+** [[Grifolic shield]] drop
+** [[Grifolic wand]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Patch Notes (7 March 2016)|date=7 March 2016}}
+** Grifolapines have had their combat stats rebalanced (weakened variant).
+
+* {{UL|type=patch|update=Patch Notes (2 November 2015)|date=2 November 2015}}
+** Now deals damage correctly with ranged and magic attacks.
+
+* {{UL|type=update|update=Polypore Dungeon|date=28 November 2011}}
+** Added to game.
+}}
+
+==Trivia==
+* A grifolapine is shown in the RuneScape Cinematic Trailer. It doesn't do anything except stare at [[Ozan]].
+* Grifolapines are one of the few monsters in ''[[RuneScape]]'' that will never move from their spawn point, the others being the [[Spiritual mage]]s (Bandos), and [[Ancient mage]]s.
+* Their name and examine text could be a reference to porcupines. 
+* As of [[1 February]] [[2018]], the highest kill count for these monsters was 259,437 kills, shared with all polypore creatures.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=http://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+** This had increased to 351,360 by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=http://archive.is/Fxc11|archivedate=28 February 2020|notes=|name=}}
+
+==References==
+{{reflist}}
+
+{{Slayer monsters}}
+{{Polypore Dungeon}}

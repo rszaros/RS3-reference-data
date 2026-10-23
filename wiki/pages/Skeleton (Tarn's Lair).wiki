@@ -1,0 +1,589 @@
+{{External|os}}
+{{otheruses|the skeletons in the Lair of Tarn Razorlor|others|Skeleton (disambiguation)}}
+{{Infobox Monster
+|version1 = Level 45
+|version2 = Level 70
+|version3 = Level 71
+|version4 = Level 72
+|version5 = Level 77 (sword)
+|version6 = Level 77 (warhammer)
+|version7 = Level 77 (hatchet)
+|version8 = Level 79
+|name = Skeleton
+|image1 = [[File:Skeleton (Tarn's Lair, 6).png|x280px]]
+|image2 = [[File:Skeleton (Tarn's Lair, 4).png|x280px]]
+|image3 = [[File:Skeleton (Tarn's Lair, 5).png|x280px]]
+|image4 = [[File:Skeleton (Tarn's Lair, 8).png|x280px]]
+|image5 = [[File:Skeleton (Tarn's Lair, melee).png|x280px]]
+|image6 = [[File:Skeleton (Tarn's Lair, 7).png|x280px]]
+|image7 = [[File:Skeleton (Tarn's Lair, 3).png|x280px]]
+|image8 = [[File:Skeleton Mage.png|x280px]]
+|release = [[22 January]] [[2007]]
+|update = The Lair of Tarn Razorlor
+|members = Yes
+|options = Attack, Examine
+|race = Skeleton
+|examine1 = How do you know if a skeleton's male or female?
+|examine2 = That skeleton's grinning at me.
+|examine3 = He needs a tan.
+|examine4 = Put some meat on those bones!
+|examine5 = Achingly thin.
+|examine6 = He obviously hasn't realised he's dead.
+|examine7 = Look: another skeleton.
+|examine8 = A magic skeleton!
+|leagueRegion = Morytania
+|leagueRegion5 = Morytania,Wilderness
+|leagueRegion6 = Morytania,Wilderness
+|leagueRegion7 = Morytania,Wilderness
+|level1 = 45
+|level2 = 70
+|level3 = 71
+|level4 = 72
+|level5 = 77
+|level6 = 77
+|level7 = 77
+|level8 = 79
+|lifepoints1 = 420
+|lifepoints2 = 2500
+|lifepoints3 = 2550
+|lifepoints4 = 2600
+|lifepoints5 = 2750
+|lifepoints6 = 2750
+|lifepoints7 = 2750
+|lifepoints8 = 2850
+|aggressive = Yes
+|aggressive4 = No
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 19.6
+|slayxp2 = 43.2
+|slayxp3 = 45.4
+|slayxp4 = 47.4
+|slayxp5 = 54.8
+|slayxp6 = 54.8
+|slayxp7 = 54.8
+|slayxp8 = 60.6
+|slayercat = Skeletons, Undead
+|max_melee1 = 
+|max_melee2 = 200
+|max_melee3 = 204
+|max_melee4 = 208
+|max_melee5 = 220
+|max_melee6 = 220
+|max_melee7 = 220
+|max_melee8 = 0
+|max_ranged = 0
+|max_magic1 = 0
+|max_magic2 = 0
+|max_magic3 = 0
+|max_magic4 = 0
+|max_magic5 = 0
+|max_magic6 = 0
+|max_magic7 = 0
+|max_magic8 = 228
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|style8 = Magic
+|primarystyle = Melee
+|primarystyle8 = Magic
+|speed = 4
+|attack1 = 36
+|attack2 = 50
+|attack3 = 51
+|attack4 = 52
+|attack5 = 55
+|attack6 = 55
+|attack7 = 55
+|attack8 = 1
+|ranged = 1
+|magic = 1
+|magic8 = 57
+|necromancy = 1
+|acc_melee1 = 
+|acc_melee2 = 850
+|acc_melee3 = 875
+|acc_melee4 = 901
+|acc_melee5 = 983
+|acc_melee6 = 983
+|acc_melee7 = 983
+|acc_melee8 = 0
+|acc_ranged = 0
+|acc_magic = 0
+|acc_magic8 = 1040
+|acc_necromancy = 0
+|abilities = 
+|armour1 = 
+|armour2 = 850
+|armour3 = 875
+|armour4 = 901
+|armour5 = 983
+|armour6 = 983
+|armour7 = 983
+|armour8 = 1040
+|defence1 = 30
+|defence2 = 50
+|defence3 = 51
+|defence4 = 52
+|defence5 = 55
+|defence6 = 55
+|defence7 = 55
+|defence8 = 57
+|weakness = Earth
+|weakness8 = Thrown
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_melee8 = 50
+|aff_ranged = 50
+|aff_ranged8 = 70
+|aff_magic = 70
+|aff_magic8 = 60
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = No
+|dropversion1 = Low level
+|dropversion2 = Low level
+|dropversion3 = Low level
+|dropversion4 = Medium level
+|dropversion5 = Medium level
+|dropversion6 = Medium level
+|dropversion7 = High level
+|dropversion8 = High level
+|id1 = 5390
+|id2 = 5388
+|id3 = 5389
+|id4 = 5392
+|id5 = 5386
+|id6 = 5391
+|id7 = 5387
+|id8 = 5385
+}}
+'''Skeletons''' can be found in the [[Lair of Tarn Razorlor (dungeon)|Lair of Tarn Razorlor]], a dungeon full of undead found in [[Morytania]]. Like most undead, they are weak to the [[salve amulet]] and [[salve amulet (e)]], the latter of which is obtained in the dungeon they inhabit. Most of them attack with [[melee]] and can be found wandering around the dungeon, with the level 77 variety being extremely common, the level 79 varieties being somewhat uncommon and the level 45, level 70 and level 71 skeletons only consisting of one or two members. There are also some level 72 skeletons found inside the [[Abandoned Mine]], just outside the entrance to the lair.
+
+The level 79 skeletons found above the room directly preceding [[Tarn]]'s abode are unlike the others in that they attack with magic and wear robes. These are capable of casting a spell that lowers your stats, saying "Let me infect your body with rot" when they do so. 
+
+Some of the skeletons initially appear as objects on the floor, but spring to life and attack once players approach them. You can use the examine text of the objects to see what type it will turn into, the ones with the examine text of "Now that's a severe diet!" turn into level 77 skeletons, and the ones with the examine text of "A meal would do him good." turn into level 79 Melee skeletons.
+
+If you wish to train on them, the banker [[Odovacar]] can be found close to the entrance to the dungeon, allowing easy banking. A respawn of [[toad batta]] can also be found in the dungeon, beneath a trapdoor.
+
+The level 77 variety can also be found with some [[Zombie (Lair of Tarn Razorlor)|zombies]] in some of the south-western caves of the [[Chaos Tunnels]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|name = Skeleton
+|loc = [[Lair of Tarn Razorlor (dungeon)|Lair of Tarn Razorlor]]
+|requirements = {{QuestIcon|Haunted Mine}}
+|mem = Yes
+|mapID = 30
+|plane = 0
+|lvls = 45, 70, 71, 77, 79
+|npcid:5390,x:46,y:26
+|npcid:5390,x:49,y:24
+|npcid:5389,x:21,y:32
+|npcid:5389,x:49,y:26
+|npcid:5386,x:7,y:59
+|npcid:5386,x:9,y:62
+|npcid:5386,x:46,y:41
+|npcid:5386,x:51,y:42
+|npcid:5387,x:22,y:48
+|npcid:5387,x:23,y:41
+|npcid:5387,x:33,y:51
+|npcid:5391,x:22,y:16
+|npcid:5391,x:27,y:33
+|npcid:5391,x:41,y:13
+|npcid:5391,x:48,y:14
+|npcid:5386,x:118,y:53
+|npcid:5386,x:154,y:63
+|npcid:5387,x:112,y:33
+|npcid:5391,x:118,y:24
+|npcid:5391,x:134,y:30
+|npcid:5391,x:155,y:41
+|npcid:5385,x:151,y:59
+|npcid:5385,x:151,y:65
+|npcid:5388,x:212,y:31
+|leagueRegion = Morytania
+}}
+{{LocLine
+|name = Skeleton
+|loc = [[Chaos Tunnels]]
+|mem = Yes
+|mapID = 23
+|plane = 0
+|lvls = 77
+|npcid:5386,x:3168,y:5493
+|npcid:5386,x:3170,y:5490
+|npcid:5386,x:3170,y:5493
+|npcid:5386,x:3171,y:5496
+|npcid:5386,x:3173,y:5494
+|npcid:5386,x:3175,y:5491
+|npcid:5386,x:3177,y:5493
+|npcid:5386,x:3179,y:5490
+|npcid:5386,x:3184,y:5489
+|npcid:5386,x:3185,y:5486
+|npcid:5386,x:3187,y:5486
+|npcid:5386,x:3188,y:5483
+|npcid:5386,x:3189,y:5484
+|npcid:5386,x:3191,y:5469
+|npcid:5386,x:3191,y:5481
+|npcid:5386,x:3194,y:5444
+|npcid:5386,x:3194,y:5453
+|npcid:5386,x:3194,y:5462
+|npcid:5386,x:3194,y:5466
+|npcid:5386,x:3195,y:5448
+|npcid:5386,x:3196,y:5459
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|name = Skeleton
+|loc = [[Abandoned Mine]] level 1
+|requirements = Partial completion of {{QuestIcon|Haunted Mine}}
+|mem = Yes
+|mapID = 569
+|plane = 0
+|lvls = 72
+|npcid:5392,x:3427,y:9644
+|npcid:5392,x:3428,y:9658
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+{{Anchor|Low level}}
+
+==Drops for levels 45, 70, and 71==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|Skeleton (Tarn's Lair)#Low level|mobname=skeleton (levels 45, 70, and 71) in the Lair of Tarn Razorlor}}
+
+===100%===
+{{DropsTableHead|version=Low level}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=Low level}}
+{{DropsLine|name=Small plated steel salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Tiny bladed bronze salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Tiny blunt steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium bladed steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Small bladed bronze salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium blunt iron salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium plated steel salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny blunt mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead|version=Low level}}
+{{DropsLine|name=Oak longbow|quantity=1|rarity=3/128}}
+{{DropsLine|name=Bronze knife|quantity=1|rarity=5/256}}
+{{DropsLine|name=Off-hand bronze knife|quantity=1|rarity=5/256}}
+{{DropsLine|name=Iron dart|quantity=5|rarity=3/256}}
+{{DropsLine|name=Off-hand iron dart|quantity=5|rarity=3/256}}
+{{DropsLine|name=Black kiteshield|quantity=1|rarity=1/128}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=1/256}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=1/256}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead|version=Low level}}
+{{DropsLine|name=Water rune|quantity=4|rarity=5/128}}
+{{DropsLine|name=Astral rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Steel arrow|quantity=9|rarity=3/128}}
+{{DropsLine|name=Cannonball|quantity=6|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|2/128}}
+{{DropsTableHead|version=Low level}}
+{{HerbDropTable|2/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead|version=Low level}}
+{{DropsLine|name=Coins|quantity=39|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=89|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=100|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=12|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=53|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=84|rarity=2/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=181|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Low level}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}|gemw=no}}
+{{DropsLine|name=Bronze nails|quantity=17|rarity=5/128}}
+{{DropsLine|name=Bullseye lantern (frame)|quantity=1|rarity=5/128}}
+{{DropsLine|name=Combat potion (3)|quantity=1|rarity=5/128}}
+{{DropsLine|name=Fishing potion (1)|quantity=1|rarity=5/128}}
+{{DropsLine|name=Vial of water|quantity=1|rarity=5/128}}
+{{DropsLine|name=Unblessed symbol|quantity=1|rarity=3/128}}
+{{DropsLine|name=Unpowered orb|quantity=1|rarity=3/128}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=2/128}}
+{{DropsLine|name=Iron stone spirit|quantity=2|rarity=2/128}}
+{{DropsLine|name=Ring of duelling (3)|quantity=1|rarity=2/128|gemw=No}}
+{{DropsLine|name=Unlit torch|quantity=1|rarity=2/128}}
+{{DropsLine|name=Unstrung symbol|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128|version=Low level}}
+
+===Tertiary===
+{{DropsTableHead|version=Low level}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4,000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+{{Anchor|Medium level}}
+==Drops for levels 72 and 77 (sword, warhammer)==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|Skeleton (Tarn's Lair)#Medium level|mobname=skeleton (levels 72 and 77 (sword, warhammer)) in the Lair of Tarn Razorlor}}
+
+===100%===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Tiny plated iron salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Tiny bladed bronze salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Tiny blunt bronze salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium spiky iron salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Tiny bladed iron salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Tiny spiky iron salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Huge plated bronze salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny blunt iron salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium blunt steel salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Huge plated steel salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small bladed mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Medium plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Leather body|quantity=1|rarity=3/128}}
+{{DropsLine|name=Leather vambraces|quantity=1|rarity=2/128}}
+{{DropsLine|name=Iron dart|quantity=2|rarity=3/256}}
+{{DropsLine|name=Off-hand iron dart|quantity=2|rarity=3/256}}
+{{DropsLine|name=Black longsword|quantity=1|rarity=1/256}}
+{{DropsLine|name=Off-hand black longsword|quantity=1|rarity=1/256}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Air rune|quantity=9|rarity=5/128}}
+{{DropsLine|name=Law rune|quantity=1|rarity=3/128}}
+{{DropsLine|name=Iron bolts|quantity=7|rarity=3/128}}
+{{DropsLine|name=Mithril arrow|quantity=7|rarity=3/128}}
+{{DropsLine|name=Adamant arrow|quantity=2|rarity=3/128}}
+{{DropsLine|name=Iron arrow|quantity=14|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Potions===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Agility potion (2)|quantity=1|rarity=5/128}}
+{{DropsLine|name=Antipoison (3)|quantity=1|rarity=5/128}}
+{{DropsLine|name=Attack potion (3)|quantity=1|rarity=5/128}}
+{{DropsLine|name=Weapon poison (3)|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|1/128}}
+{{DropsTableHead|version=Medium level}}
+{{HerbDropTable|1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Coins|quantity=61|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=112|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=6|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=98|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=184|rarity=2/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=126|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}|gemw=no}}
+{{DropsLine|name=Shaft|quantity=12|rarity=5/128}}
+{{DropsLine|name=Amulet mould|quantity=1|rarity=5/128}}
+{{DropsLine|name=Games necklace (2)|quantity=1|rarity=2/128|gemw=no}}
+{{DropsLine|name=Yew longbow (unstrung)|quantity=1|rarity=3/128}}
+{{DropsLine|name=Silver stone spirit|quantity=2|rarity=2/128}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128|version=Medium level}}
+
+===Tertiary===
+{{DropsTableHead|version=Medium level}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4,000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+{{Anchor|High level}}
+==Drops for levels 77 (hatchet) and 79==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value|Skeleton (Tarn's Lair)#High level|mobname=skeleton (levels 77 (hatchet) and 79) in the Lair of Tarn Razorlor}}
+
+===100%===
+{{DropsTableHead|version=High level}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead|version=High level}}
+{{DropsLine|name=Medium plated iron salvage|quantity=1|rarity=8/128}}
+{{DropsLine|name=Small plated bronze salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium plated bronze salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium blunt iron salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Tiny spiky steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Tiny spiky steel salvage|quantity=6 (noted)|rarity=5/128}}
+{{DropsLine|name=Medium spiky steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium bladed iron salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Medium plated steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Small bladed iron salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny bladed steel salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Tiny blunt mithril salvage|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small plated steel salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium bladed adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead|version=High level}}
+{{DropsLine|name=Shortbow|quantity=1|rarity=6/128}}
+{{DropsLine|name=Magic staff|quantity=1|rarity=1/128}}
+{{DropsLine|name=Black longsword|quantity=1|rarity=1/256}}
+{{DropsLine|name=Off-hand black longsword|quantity=1|rarity=1/256}}
+{{DropsTableBottom}}
+
+===Runes and ammunition===
+{{DropsTableHead|version=High level}}
+{{DropsLine|name=Blood rune|quantity=3|rarity=3/128}}
+{{DropsLine|name=Steel arrow|quantity=11|rarity=2/128}}
+{{DropsLine|name=Steel bolts (p)|quantity=2|rarity=3/128}}
+{{DropsLine|name=Silver bolts|quantity=5|rarity=6/128}}
+{{DropsLine|name=Adamant arrow|quantity=4|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|5/128}}
+{{DropsTableHead|version=High level}}
+{{HerbDropTable|5/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead|version=High level}}
+{{DropsLine|name=Coins|quantity=17|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=41|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=142|rarity=5/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=206|rarity=3/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=106|rarity=2/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=323|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=High level}}
+{{DropsLine|name=Sealed clue scroll (medium)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}|gemw=no}}
+{{DropsLine|name=Steel nails|quantity=12|rarity=5/128}}
+{{DropsLine|name=White candle|quantity=1|rarity=5/128}}
+{{DropsLine|name=Strength potion (3)|quantity=1|rarity=5/128}}
+{{DropsLine|name=Knife|quantity=1|rarity=3/128}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=2/128}}
+{{DropsLine|name=Adamantite stone spirit|quantity=1|rarity=2/128}}
+{{DropsLine|name=Sapphire ring|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|2/128|version=High level}}
+
+===Tertiary===
+{{DropsTableHead|version=High level}}
+{{DropsLine|name=Skeleton Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Skeleton Champion]] in [[Champion's Challenge]]. Chance increased to 1/4,000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no}}
+{{DropsTableBottom}}
+
+==Charm drops==
+Charms are only dropped by some of the skeletons.
+===Level 45===
+{{CharmDropTable
+|version=Level 45
+|quantity = 1
+|gold = 49.755/1000
+|green = 24.877/1000
+|crimson = 16.585/1000
+|blue = 19.902/1000
+
+}}
+====Additional tertiary drops====
+{{DropsTableHead|version=Level 45}}
+{{DropsLineEffigy|level=45}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=45}}
+{{DropsTableBottom}}
+
+===Level 77 (sword)===
+{{CharmDropTable
+|version=Level 77 (sword)
+|quantity = 1
+|gold = 103.382/1000
+|green = 51.691/1000
+|crimson = 34.461/1000
+|blue = 41.353/1000
+}}
+====Additional tertiary drops====
+{{DropsTableHead|version=Level 77 (sword)}}
+{{DropsLineEffigy|level=77}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=77}}
+{{DropsTableBottom}}
+
+===Level 77 (hatchet)===
+{{CharmDropTable
+|version=Level 77 (hatchet)
+|quantity = 1
+|gold = 97.667/1000
+|green = 48.834/1000
+|crimson = 32.556/1000
+|blue = 39.067/1000
+}}
+====Additional tertiary drops====
+{{DropsTableHead|version=Level 77 (hatchet)}}
+{{DropsLineEffigy|level=77}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=77}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Skeleton (Chaos Tunnels) old.png|name=Skeleton (Tarn's Lair)}}
+|{{GUL|date=|update=|img=Skeleton (Tarn's Lair).png|name=Skeleton (Tarn's Lair)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** 'Weak' style: 65 → 70
+*** Same style: 55 → 60
+*** 'Strong' style: 45 → 50
+
+* {{UL|type=ninja|update=This Week In RuneScape: Scattershot Ninja Strike|date=17 January 2022}}
+** Replaced an old version of weapon poison drops on various NPCs with the correct version of weapon poison.
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Added to game.
+}}
+
+{{Skeletons}}

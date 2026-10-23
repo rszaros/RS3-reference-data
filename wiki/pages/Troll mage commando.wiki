@@ -1,0 +1,102 @@
+{{Deleted content}}
+{{Infobox Monster
+|name = Troll mage commando
+|image = [[File:Troll mage commando.png|200px]]
+|release = [[31 January]] [[2012]]
+|update = Troll Warzone
+|members = No
+|examine = Shh! He's using magic to blend in.
+|level = 5
+|lifepoints = 200
+|experience = 30.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6.8
+|slayercat = Trolls
+|assigned_by = Turael, Chaeldar, Sumona
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 16
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|magic = 4
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 140
+|armour = 140
+|defence = 4
+|weakness = Arrows
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_drain = No
+|restriction = removed
+|id = 14928
+|leagueRegion = No
+}}
+'''Troll mage commandos''' were a type of small troll that appeared to be disguised as a cow. They were found wandering around [[Burthorpe]] and [[Taverley]], with [[Troll commando]]s and [[Troll ranger commando]]s. They dropped the [[Spellstorm drape]]. Killing them could be a good way to make money for new players, because the trolls were quite weak and rarely hit.
+
+They were replaced with [[White wolf (Burthorpe)|White wolves]], which have the same stats and drops.
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Troll mage commando}}
+
+===Armour/Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Staff of air|quantity=1|rarity=Common}}
+{{DropsLine|name=Mindspike (air)|gemw=no|quantity=1|rarity=Common}}
+{{DropsLine|name=Wizard robe top|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Wizard robe skirt|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Black wizard robe top|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Black wizard robe skirt|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Spellstorm drape|quantity=1|rarity=Uncommon}}
+{{DropsTableBottom}}
+
+===Food===
+{{DropsTableHead}}
+{{DropsLine|name=Bread|quantity=1|rarity=Common}}
+{{DropsLine|name=Baked potato|quantity=1|rarity=Common}}
+{{DropsLine|name=Cooked rabbit|quantity=1|rarity=Common}}
+{{DropsLine|name=Cooked chicken|quantity=1|rarity=Common}}
+{{DropsLine|name=Poorly-cooked bird meat|quantity=1|rarity=Common}}
+{{DropsLine|name=Poorly-cooked beast meat|quantity=1|rarity=Common}}
+{{DropsLine|name=Crayfish|quantity=1|rarity=Common}}
+{{DropsLine|name=Cooked meat|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Rabbit sandwich|quantity=1|rarity=Uncommon}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1-5|rarity=Common}}
+{{DropsLine|name=Cowhide|quantity=1|rarity=Common}}
+{{DropsLine|name=Raw potato|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity=Rare}}
+{{DropsLineSpiritGems}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Troll Warzone|date=31 January 2012}}
+** Added to game.
+}}
+
+{{trolls}}
+[[Category:Troll Warzone]]
+[[Category:Bandosians]]

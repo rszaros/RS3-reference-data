@@ -1,0 +1,64 @@
+{{Deleted content|update=Patch Notes: Dailyscape Overhaul}}
+{{Infobox Monster
+|name = Dungeon spider
+|image = Dungeon_spider.png
+|release = [[17 October]] [[2022]]
+|update = Wilderness Flash Events - This Week In RuneScape
+|removal = [[16 March]] [[2026]]
+|removalupdate = Patch Notes: Dailyscape Overhaul
+|members = Yes
+|options = Attack, Examine
+|race = Spider
+|examine = A big, hairy spider.
+|level = 104
+|lifepoints = 4300
+|experience = 100.0
+|aggressive = Yes
+|poisonous = Yes
+|slayercat = Spiders
+|max_melee = 768
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 80
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1924
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1486
+|defence = 70
+|weakness = None
+|susceptibility = NopeNopeNope
+|aff_weakness = 90
+|aff_melee = 65
+|aff_ranged = 55
+|aff_magic = 45
+|restriction = removed
+|leagueRegion = no
+|id = 29600
+}}
+The '''dungeon spiders''' are [[monster]]s involved in the Spider Swarm event in [[Wilderness Flash Events]].
+
+They spawn continuously with [[Ice spider (Wilderness Flash Events)|ice spiders]] and [[Night spider (Wilderness Flash Events)|night spiders]], and the players collectively must kill a varying number of them. The number scales with the number of players participating in the event. Each player needs to deal 70K damage for the event to be considered successful.
+
+The life points scales with the number of players participating in the event, determined by the expression <math>8\,000 + 2\,250N</math>, where <math>N</math> is the number of players involved.
+
+They don't have any [[drops]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch_Notes:_Dailyscape_Overhaul|date=16 March 2026}}
+** Removed from game.
+
+* {{UL|type=update|update=Wilderness Flash Events - This Week In RuneScape|date=17 October 2022}}
+** Added to game.
+}}
+
+{{Wilderness Flash Events}}

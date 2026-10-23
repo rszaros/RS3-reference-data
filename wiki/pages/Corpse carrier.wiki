@@ -1,0 +1,80 @@
+{{Infobox Monster
+|version1 = Normal mode (trio)
+|version2 = Normal mode (duo)
+|version3 = Normal mode (solo)
+|version4 = Story mode (trio)
+|version5 = Story mode (duo)
+|version6 = Story mode (solo)
+|name = Corpse carrier
+|image = [[File:Corpse carrier.png|250px]]
+|release = [[25 February]] [[2019]]
+|update = Elite Dungeons - Shadow Reef
+|members = Yes
+|options = Attack, Mark, Examine
+|examine = Beauty is only skin deep.
+|level = 300
+|lifepoints = 90000
+|experience = 0.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 0
+|slayercat = Zombies, Undead
+|max_melee = 1512
+|max_ranged = 1368
+|max_magic = 1368
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 90
+|ranged = 90
+|magic = 90
+|necromancy = 1
+|acc_melee = 3465
+|acc_ranged = 2765
+|acc_magic1 = 2765
+|acc_magic2 = 2765
+|acc_magic3 = 2765
+|acc_necromancy = 0
+|armour = 1486
+|defence = 70
+|weakness = Nothing
+|susceptibility = Salve
+|aff_weakness1 = 90
+|aff_weakness2 = 90
+|aff_weakness3 = 90
+|aff_melee1 = 55
+|aff_melee2 = 55
+|aff_melee3 = 55
+|aff_ranged1 = 55
+|aff_ranged2 = 55
+|aff_ranged3 = 55
+|aff_magic1 = 55
+|aff_magic2 = 55
+|aff_magic3 = 55
+|immune_to_poison = No
+|id = 26056
+|leagueRegion=Wilderness}}
+'''Corpse carrier''' is a monster spawned after the western crystal is destroyed by [[Taraket the Necromancer]] during the battle with him. 
+
+It uses melee attacks and periodically summons a mix of three [[summoned skeleton]]s and [[summoned skeleton archer]]s.
+
+==Achievements==
+* {{Achievement|Sinister Crystal}}
+* {{Achievement|Tank and Spank}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Elite Dungeons - Shadow Reef|date=25 February 2019}}
+** Added to game.
+}}
+
+==Trivia==
+* The corpse carrier uses the same model as the [[unwieldly zombie]] who featured in the discontinued game mode: [[Dimension of the Damned]].
+
+{{The Shadow Reef}}
+{{Zombies}}
+[[Category:Boss minions]]

@@ -1,0 +1,132 @@
+{{External|os}}
+{{Otheruses|the Fight Cave monster|the Fight Kiln monster|TokHaar-Ket-Zek}}
+{{Infobox Monster
+|version1 = TzHaar Fight Cave
+|version2 = The Elder Kiln
+|version3 = The Brink of Extinction
+|name = Ket-Zek
+|image = [[File:Ket-Zek.png|200px]]
+|release1 = [[4 October]] [[2005]]
+|release2 = [[4 October]] [[2005]]
+|release3 = [[4 December]] [[2012]]
+|update1 = TzHaar Fight Caves
+|update2 = TzHaar Fight Caves
+|update3 = The Brink of Extinction - Grandmaster Quest
+|members = Yes
+|options = Attack
+|size = 5
+|examine = This huge beast burns with magical potential which it flings from its deadly tail.
+|level1 = 360
+|level2 = 109
+|level3 = 105
+|lifepoints1 = 15000
+|lifepoints2 = 16625
+|lifepoints3 = 16625
+|experience1 = 750.0
+|experience2 = 831.2
+|experience3 = 831.2
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 344.5
+|slayxp2 = 1525
+|slayercat = Volcanic creatures <!-- Might count as TzHaar, then Morvran is an assigner as well-->
+|assigned_by = Kuradal
+|max_melee1 = 1080
+|max_melee2 = 1662
+|max_melee3 = 1662
+|max_ranged = 0
+|max_magic1 = 1123
+|max_magic2 = 1662
+|max_magic3 = 1662
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle2 = magic
+|primarystyle3 = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic1 = 80
+|magic2 = 75
+|magic3 = 75
+|necromancy = 1
+|acc_melee1 = 1486
+|acc_melee2 = 1694
+|acc_melee3 = 1694
+|acc_ranged = 0
+|acc_magic1 = 1486
+|acc_magic2 = 1829
+|acc_magic3 = 1694
+|acc_necromancy = 0
+|armour1 = 1299
+|armour2 = 1486
+|armour3 = 1486
+|defence1 = 65
+|defence2 = 75
+|defence3 = 75
+|weakness1 = Arrows
+|weakness2 = Bolts
+|weakness3 = Bolts
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction1 = minigame
+|restriction2 = quest
+|restriction3 = quest
+|leagueRegion = Karamja, Tirannwn
+|id1 = 2743, 2744
+|id2 = 15192
+|id3 = 16271
+}}
+The '''Ket-Zek''' is a monster found in the [[TzHaar Fight Cave]] and are the second highest-level creatures encountered there. They appear first in wave 31, and 2 will be encountered the wave prior to [[TzTok-Jad]], the strongest and final creature fought in the caves (62). They are also encountered in [[The Elder Kiln]] and [[The Brink of Extinction]] quests. Ket-Zek is roughly translated to Large Attacker.
+
+Killing one of these is a required hard task in the [[Karamja Diary]]. Killing the one found in the two TzHaar quests mentioned above will not go towards the task; you must kill one in the Fight Cave to finish the task.
+
+It uses powerful [[magic]] and [[melee]] attacks, but will only use the melee attack if you are already within melee range. For this reason, the [[prayer]] [[Protect from Magic]] is recommended, as providing you aren't in its melee range, you will only have to compensate for its magic attacks. The magic attack consists of the Ket-Zek flinging something that looks like a fireball at you with its tail. The magic attack is quite accurate and has a long range. 
+
+[[File:Ket Zek safspot.png|thumb|left|Using a Ket Zek as a safespot]]
+[[Ranged]] attacks or [[Halberds]] (if your Ranged isn't your best combat skill) are the ideal tools for killing this monster as it eliminates its melee attack; however, using a high level melee weapon without the ranged advantage like Halberds have can make things much faster by hitting after a magic attack and immediately taking a step away, however, this is only recommended after you have memorised their attack speed (they hit at the same speed as a whip), as one mess-up could make you waste a large amount of supplies or even cost you the entire cave altogether. They are weak to arrows when encountered in the Fight Cave minigame, so you should aim ideally, to bring the best bow you can use.
+
+==Gallery==
+<gallery mode="packed" heights="190">
+TzTok-Jad and Ket-Zek concept art.png|Concept art
+TzHaar - Ket-zek.png|Concept art
+Duels - Ket-Zek.png|Ket-Zek on a RuneScape Duel Card
+</gallery>
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[4 October]] [[2005]]|update=TzHaar Fight Caves|img=Ket-Zek (2005).png|name=Ket-Zek}}
+|{{GUL|date=[[4 October]] [[2005]]|update=TzHaar Fight Caves|img=Ket-Zek (2) (2005).png|name=Ket-Zek}}
+|{{GUL|date=[[13 May]] [[2008]]|update=Party Pete and TzHaar Improvements|img=Ket-Zek (2008).png|name=Ket-Zek}}
+|{{GUL|date=[[14 February]] [[2012]]|update=TzHaar Quest, Minigame and Graphical Rework|img=Ket-Zek.png|name=Ket-Zek}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=TzHaar Fight Caves|date=4 October 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* According to [[Reldo]], ''Ket-Zek'' translates from [[TzHaar language]] as either "Guard Dog" or "Big Hurt;" however, he says he hasn't used the TzHaar language for some time, so the translation may be inaccurate.
+* One of these must be killed for the [[Karamja Tasks#Hard Tasks|Hard Karamja Tasks]].
+* The Ket-Zek encountered during the TzHaar quests ([[The Elder Kiln]] and [[The Brink of Extinction]]) do not count for the Hard Karamja Tasks, as the task specifically calls for one in the [[TzHaar Fight Cave]].
+* Before TzHaar city's graphical update, their examine text was "That's one hot dog!"
+
+{{TzHaar Fight Cave}}
+{{The Elder Kiln}}
+{{The Brink of Extinction}}
+{{RuneScape Duel Cards}}

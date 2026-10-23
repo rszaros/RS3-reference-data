@@ -1,0 +1,181 @@
+{{Infobox Monster
+|name = Corpse mage
+|image = [[File:Corpse mage.png|150px]]
+|release = [[15 March]], [[2010]]
+|update = The Blood Pact and Lumbridge Catacombs
+|members = No
+|actions = Attack
+|examine = It casts the magic of death to ease its suffering.
+|level = 21
+|lifepoints = 2650
+|experience = 132.5
+|aggressive = No, unless you take the statuette in its room.
+|poisonous = No
+|slaylvl = 1
+|slayxp = 29
+|slayercat = Zombies, Undead
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 300
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 15
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 157
+|acc_necromancy = 0
+|armour = 257
+|defence = 15
+|weakness = Thrown
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 9612,9613,9614,9615,9616,9617,9618,9619,9620,9621
+|leagueRegion=Misthalin}}
+'''Corpse mages''' can be found in the tenth room of the [[Lumbridge Catacombs]] which can only be entered after completing [[The Blood Pact]] quest. They were created by [[Dragith Nurn]], a now undead necromancer, during his experiments with local stolen corpses.
+
+This is one of the monsters that drop [[Mask part 4]], which can be used with the 4 other parts to create the [[Mask of Dragith Nurn]].
+
+Some low level rangers may find this place ideal to train in, due to the fact that they drop bronze arrows and have somewhat good drops (talismans, enchanted amulets and runes).
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Lumbridge Catacombs]]
+|lvls=21
+|mem=no
+|requirements={{QuestIcon|The Blood Pact}}
+|mapID=165
+|npcid:9617,x:3990,y:5479
+|npcid:9618,x:3990,y:5482
+|npcid:9616,x:3992,y:5477
+|npcid:9612,x:3992,y:5481
+|npcid:9613,x:3992,y:5485
+|npcid:9614,x:3993,y:5482
+|npcid:9614,x:3994,y:5479
+|npcid:9619,x:3996,y:5481
+|npcid:9615,x:3996,y:5484
+|npcid:9615,x:3997,y:5477
+|npcid:9617,x:3997,y:5486
+|npcid:9612,x:3999,y:5478
+|npcid:9618,x:4000,y:5480
+|npcid:9620,x:4000,y:5482
+|npcid:9621,x:4000,y:5485
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Mask part 4|quantity=1|rarity=1/3|raritynotes={{DropNote|Only dropped if you don't own this item or the [[Mask of Dragith Nurn]].}}|gemw=No}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Staff|quantity=1|rarity=5/262}}
+{{DropsLine|name=Magic staff|quantity=1|rarity=5/262}}
+{{DropsLine|name=Shortbow|quantity=1|rarity=5/262}}
+{{DropsLine|name=Chargebow|quantity=1|rarity=5/524}}
+{{DropsLine|name=Staff of air|quantity=1|rarity=5/524}}
+{{DropsLine|name=Leather cowl|quantity=1|rarity=5/262}}
+{{DropsLine|name=Leather body|quantity=1|rarity=5/262}}
+{{DropsLine|name=Leather gloves|quantity=1|rarity=5/262}}
+{{DropsLine|name=Leather boots|quantity=1|rarity=5/262}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Air rune|quantity=18|rarity=10/262}}
+{{DropsLine|name=Water rune|quantity=8|rarity=10/262}}
+{{DropsLine|name=Earth rune|quantity=8|rarity=10/262}}
+{{DropsLine|name=Fire rune|quantity=8|rarity=10/262}}
+{{DropsLine|name=Bronze arrow|quantity=40|rarity=10/262}}
+{{DropsTableBottom}}
+
+===Jewellery===
+{{DropsTableHead}}
+{{DropsLine|name=Holy symbol|quantity=1|rarity=10/262}}
+{{DropsLine|name=Gold amulet|quantity=1|rarity=10/262}}
+{{DropsLine|name=Gold necklace|quantity=1|rarity=10/262}}
+{{DropsLine|name=Gold ring|quantity=1|rarity=10/262}}
+{{DropsLine|name=Amulet of magic|quantity=1|rarity=1/262}}
+{{DropsLine|name=Amulet of defence|quantity=1|rarity=1/262}}
+{{DropsTableBottom}}
+
+===Talismans===
+{{DropsTableHead}}
+{{DropsLine|name=Air talisman|quantity=1|rarity=1/262}}
+{{DropsLine|name=Mind talisman|quantity=1|rarity=1/262}}
+{{DropsLine|name=Water talisman|quantity=1|rarity=1/262}}
+{{DropsLine|name=Earth talisman|quantity=1|rarity=1/262}}
+{{DropsLine|name=Fire talisman|quantity=1|rarity=1/262}}
+{{DropsTableBottom}}
+
+===Spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Copper stone spirit|quantity=1|rarity=20/262}}
+{{DropsLine|name=Tin stone spirit|quantity=2|rarity=10/262}}
+{{DropsLine|name=Iron stone spirit|quantity=1|rarity=10/262}}
+{{DropsLine|name=Wood spirit|quantity=2|rarity=5/262}}
+{{DropsLine|name=Oak wood spirit|quantity=2|rarity=5/262}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Small plated bronze salvage|quantity=1|rarity=5/262}}
+{{DropsLine|name=Medium plated bronze salvage|quantity=1|rarity=5/262}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Feather|quantity=15|rarity=20/262}}
+{{DropsLine|name=Coins|quantity=250|rarity=15/262}}
+{{DropsLine|name=Fishing bait|quantity=80|rarity=10/262}}
+{{DropsLine|name=Leather|quantity=1|rarity=10/262}}
+{{DropsLine|name=Thread|quantity=65|rarity=10/262}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{BeginnerWeaponsDropLines}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[tiny plated bronze salvage]] drop with a [[wood spirit]].
+** Replaced the [[tiny blunt bronze salvage]] drop with an [[oak wood spirit]].
+
+* {{UL|type=update|update=The Blood Pact and Lumbridge Catacombs|date=15 March, 2010}}
+** Added to game.
+}}
+
+{{Zombie}}
+{{Lumbridge Catacombs}}

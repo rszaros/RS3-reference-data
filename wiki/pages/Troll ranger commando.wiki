@@ -1,0 +1,101 @@
+{{Deleted content}}
+{{Infobox Monster
+|name = Troll ranger commando
+|image = [[File:Troll ranger commando.png|200px]]
+|release = [[31 January]] [[2012]]
+|update = Troll Warzone
+|members = No
+|examine = Shh! He's using superior ranger skills to sneak about.
+|level = 5
+|lifepoints = 200
+|experience = 30.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 6.8
+|slayercat = Trolls
+|assigned_by = Turael, Chaeldar, Sumona
+|max_melee = 0
+|max_ranged = 16
+|max_magic = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|ranged = 4
+|acc_melee = 0
+|acc_ranged = 140
+|acc_magic = 0
+|armour = 140
+|defence = 4
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_drain = No
+|restriction = removed
+|id = 14927
+|leagueRegion = No
+}}
+'''Troll ranger commandos''' were ranger trolls wandering around [[Burthorpe]] and [[Taverley]]. They were sometimes found with the [[Troll commando]]s and [[Troll mage commando]]s. They dropped the [[Arrowstorm drape]] and [[Quickbow]].
+
+They were replaced with [[White wolf (Burthorpe)|White wolves]], which have the same stats and drops.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Troll ranger commando}}
+
+===Armour/Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Chargebow|quantity=1|rarity=Common}}
+{{DropsLine|name=Leather chaps|quantity=1|rarity=Common}}
+{{DropsLine|name=Leather body|quantity=1|rarity=Common}}
+{{DropsLine|name=Arrowstorm drape|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Quickbow|quantity=1|rarity=Uncommon|gemw=no}}
+{{DropsTableBottom}}
+
+===Food===
+{{DropsTableHead}}
+{{DropsLine|name=Cooked meat|quantity=1|rarity=Common}}
+{{DropsLine|name=Bread|quantity=1|rarity=Common}}
+{{DropsLine|name=Cooked rabbit|quantity=1|rarity=Common}}
+{{DropsLine|name=Crayfish|quantity=1|rarity=Common}}
+{{DropsLine|name=Cooked chicken|quantity=1|rarity=Common}}
+{{DropsLine|name=Rabbit sandwich|quantity=1|rarity=Common}}
+{{DropsLine|name=Poorly-cooked bird meat|quantity=1|rarity=Common}}
+{{DropsLine|name=Poorly-cooked beast meat|quantity=1|rarity=Uncommon}}
+{{DropsLine|name=Baked potato|quantity=1|rarity=Uncommon}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1-5|rarity=Common}}
+{{DropsLine|name=Raw potato|quantity=1|rarity=Common}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity=Common}}
+{{DropsLine|name=Cowhide|quantity=1|rarity=Uncommon}}
+{{DropsLineSpiritGems}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Troll Warzone|date=31 January 2012}}
+** Added to game.
+}}
+
+{{trolls}}
+[[Category:Troll Warzone]]
+[[Category:Bandosians]]

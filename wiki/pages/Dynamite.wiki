@@ -1,0 +1,145 @@
+{{Infobox Monster
+|version1 = Level 1
+|version2 = Level 11
+|version3 = Level 21
+|version4 = Level 30
+|version5 = Level 40
+|version6 = Level 50
+|version7 = Level 60
+|version8 = Level 70
+|name = Dynamite
+|image = [[File:Dynamite.png|200px]]
+|release = [[14 June]] [[2011]]
+|update = Troll Invasion
+|members = Yes
+|options = Attack, Information
+|examine = It looks like he's swallowed a fuse...
+|leagueRegion = Asgarnia
+|level1 = 1
+|level2 = 11
+|level3 = 21
+|level4 = 30
+|level5 = 40
+|level6 = 50
+|level7 = 60
+|level8 = 70
+|lifepoints1 = 50
+|lifepoints2 = 400
+|lifepoints3 = 750
+|lifepoints4 = 1100
+|lifepoints5 = 1450
+|lifepoints6 = 1800
+|lifepoints7 = 2150
+|lifepoints8 = 2500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Trolls
+|assigned_by = turael, chaeldar, sumona
+|max_melee1 = 4
+|max_melee2 = 32
+|max_melee3 = 60
+|max_melee4 = 88
+|max_melee5 = 116
+|max_melee6 = 144
+|max_melee7 = 172
+|max_melee8 = 200
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 1
+|attack2 = 8
+|attack3 = 15
+|attack4 = 22
+|attack5 = 29
+|attack6 = 36
+|attack7 = 43
+|attack8 = 50
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee1 = 110
+|acc_melee2 = 181
+|acc_melee3 = 257
+|acc_melee4 = 341
+|acc_melee5 = 439
+|acc_melee6 = 553
+|acc_melee7 = 689
+|acc_melee8 = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 181
+|armour3 = 257
+|armour4 = 341
+|armour5 = 439
+|armour6 = 553
+|armour7 = 689
+|armour8 = 850
+|defence1 = 1
+|defence2 = 8
+|defence3 = 15
+|defence4 = 22
+|defence5 = 29
+|defence6 = 36
+|defence7 = 43
+|defence8 = 50
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id1 = 13713
+|id2 = 13714
+|id3 = 13715
+|id4 = 13716
+|id5 = 13717
+|id6 = 13718
+|id7 = 13719
+|id8 = 13720
+}}
+'''Dynamite''' is a troll found during the [[Troll Invasion]] event. It is very different compared to other trolls, as instead of normal combat, it is considered a suicide bomber - it will explode to cause a large amount of damage to players. If it is attacked, the word "Grr!" appears above its head, and 4 [[RuneScape clock|game ticks]] later, it will explode in a 3x3 area, causing damage around 200-1250. If it is not attacked before it walks over to the [[supply table]], it will explode anyway and destroy the supply table. This makes the supply table unusable for the remainder of the event, so food would be recommended if this happens. Any Dynamites that appear after the table is already destroyed will instead light themselves and follow the player, causing them to explode 4 game ticks later.
+
+A simple and safe way to deal with Dynamites is to use binding spells. As it explodes in 2.4 seconds, any type of holding spell would work, even [[Bind]] or [[Ice Rush]], the weakest binding spells in the [[standard spells|standard spellbook]] and the [[Ancient Magicks]] spellbook respectively. These spells hold opponents for 20 and 10 seconds respectively, which is more than enough time for players to escape the explosion radius.
+
+In the normal version of Troll Invasion, Dynamite appears in waves 14, 17, 18 and 19. In the hard version, they appear in waves 6 and 7. They always appear on the west side, directly opposite from the supply table.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Gallery==
+<gallery mode="packed" heights="161">
+Troll invasion.gif|Concept art
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Troll Invasion|date=14 June 2011}}
+** Added to game.
+}}
+
+==Trivia==
+* As trolls are named after the first thing they eat, he most likely tried to eat dynamite. His name is also a reference to his explosive nature.
+
+{{Troll Invasion}}
+{{Trolls}}
+[[Category:Bandosians]]
+[[Category:NPCs that can move at crawling speed]]

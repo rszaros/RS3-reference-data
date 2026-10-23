@@ -1,0 +1,179 @@
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 12
+|version2 = 25
+|version3 = 37
+|version4 = 50
+|version5 = 63
+|version6 = 75
+|version7 = 88
+|version8 = 100
+|version9 = 113
+|version10 = 126
+|version11 = 138
+|name = Giant skeleton
+|image = [[File:Giant skeleton.png|150px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|options = Attack, Mark
+|examine = They must have been a giant in life.
+|level1 = 12
+|level2 = 25
+|level3 = 37
+|level4 = 50
+|level5 = 63
+|level6 = 75
+|level7 = 88
+|level8 = 100
+|level9 = 113
+|level10 = 126
+|level11 = 138
+|lifepoints1 = 900
+|lifepoints2 = 1800
+|lifepoints3 = 2700
+|lifepoints4 = 3600
+|lifepoints5 = 4500
+|lifepoints6 = 5400
+|lifepoints7 = 6300
+|lifepoints8 = 7200
+|lifepoints9 = 8100
+|lifepoints10 = 9000
+|lifepoints11 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Skeletons, Creatures of Daemonheim
+|max_melee1 = 45
+|max_melee2 = 90
+|max_melee3 = 135
+|max_melee4 = 180
+|max_melee5 = 225
+|max_melee6 = 270
+|max_melee7 = 315
+|max_melee8 = 360
+|max_melee9 = 405
+|max_melee10 = 455
+|max_melee11 = 495
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack1 = 9
+|attack2 = 18
+|attack3 = 27
+|attack4 = 36
+|attack5 = 45
+|attack6 = 54
+|attack7 = 63
+|attack8 = 72
+|attack9 = 81
+|attack10 = 90
+|attack11 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 191
+|acc_melee2 = 292
+|acc_melee3 = 409
+|acc_melee4 = 553
+|acc_melee5 = 732
+|acc_melee6 = 955
+|acc_melee7 = 1230
+|acc_melee8 = 1566
+|acc_melee9 = 1973
+|acc_melee10 = 2458
+|acc_melee11 = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 191
+|armour2 = 292
+|armour3 = 409
+|armour4 = 553
+|armour5 = 628
+|armour6 = 732
+|armour7 = 850
+|armour8 = 983
+|armour9 = 1132
+|armour10 = 1486
+|armour11 = 1924
+|defence1 = 9
+|defence2 = 18
+|defence3 = 27
+|defence4 = 36
+|defence5 = 45
+|defence6 = 54
+|defence7 = 63
+|defence8 = 72
+|defence9 = 81
+|defence10 = 90
+|defence11 = 99
+|weakness1 = Air
+|weakness2 = Water
+|weakness3 = Earth
+|weakness4 = Fire
+|weakness5 = Air
+|weakness6 = Water
+|weakness7 = Earth
+|weakness8 = Fire
+|weakness9 = Air
+|weakness10 = Water
+|weakness11 = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10469
+|id2 = 10470
+|id3 = 10471
+|id4 = 10472
+|id5 = 10473
+|id6 = 10474
+|id7 = 10475
+|id8 = 10476
+|id9 = 10477
+|id10 = 10478
+|id11 = 10479
+|leagueRegion = Wilderness
+}}
+'''Giant skeletons''' may be encountered while training [[Dungeoneering]], within the [[abandoned floors]] of [[Daemonheim]]. They are the only current undead giants, and as such, they always drop [[big bones]]. All giant skeletons in Daemonheim use a giant battleaxe, although it uses a different animation, to attack. They are occasionally trapped behind obstacles and sceneries and safe-spotted.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Giant skeleton old.png|name=Giant skeleton}}
+|{{GUL|date=|update=|img=Giant skeleton.png|name=Giant skeleton}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Skeleton}}

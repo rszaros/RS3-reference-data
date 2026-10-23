@@ -1,0 +1,154 @@
+{{External|os|rsc=Pack leader}}
+{{Infobox Monster
+|version1 = White
+|version2 = Grey
+|name = Big Wolf
+|image1 = [[File:Big Wolf (white).png]]
+|image2 = [[File:Big Wolf (grey).png]]
+|release1 = [[27 February]] [[2002]]
+|release2 = [[15 January]] [[2008]]
+|update1 = Latest RuneScape News (27 February 2002)
+|update2 = Chaos Tunnels, Interface Improvements, Extra Bank Space and More!
+|members = Yes
+|options = Attack, Examine
+|examine = Must be the pack leader.
+|level = 20
+|lifepoints = 2950
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 29
+|slayercat = Wolves
+|assigned_by = Mazchna, Turael, Vannaka
+|max_melee = 340
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 17
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 180
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 234
+|defence = 13
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 6046
+|id2 = 141
+|leagueRegion=Asgarnia, Wilderness}}
+'''Big Wolves''' are level 20 [[wolf]] pack leaders. A lone Big Wolf is found on the [[White Wolf Mountain]] near the [[gnome glider]]. Other Big Wolves can be found in the [[Chaos Tunnels]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[White Wolf Mountain]]
+|lvls=20
+|mem=yes
+|mapID=28
+|npcid:6046,x:2841,y:3495
+|leagueRegion = Asgarnia
+}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=20
+|mem=yes
+|mapID=23
+|npcid:6046,x:3285,y:5512|npcid:141,x:3288,y:5529|npcid:141,x:3297,y:5518
+|npcid:141,x:3304,y:5509|npcid:6046,x:3312,y:5509|npcid:141,x:3322,y:5517
+|npcid:6046,x:3324,y:5513
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|kills=1107}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw wolf meat|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+====White====
+{{CharmDataTable|Big Wolf (white)}}
+
+====Grey====
+{{CharmDataTable|Big Wolf (grey)}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = White
+|item1 = {{GU|subject=npc
+|{{GUL|date=[[27 February]] [[2002]]|update=Latest RuneScape News (27 February 2002)|img=Big Wolf (white) (2002).png|name=Big Wolf}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Big Wolf (white) (2004).png|name=Big Wolf}}
+|{{GUL|date=[[4 June]] [[2007]]|update=Hair of the dog|img=Big Wolf (white) (2007).png|name=Big Wolf}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Big Wolf (white) (2008).png|name=Big Wolf}}
+|{{GUL|date=[[22 April]] [[2014]]|update=A Shadow over Ashdale|img=Big Wolf (white).png|name=Big Wolf}}
+}}
+
+|text2 = Grey
+|item2 = {{GU|subject=npc
+|{{GUL|date=[[15 January]] [[2008]]|update=Chaos Tunnels, Interface Improvements, Extra Bank Space and More!|img=Big Wolf (grey) (January 2008).png|name=Big Wolf}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Big Wolf (grey).png|name=Big Wolf}}
+}}
+}}
+
+== Trivia ==
+
+* Big Wolves used to be aggressive before they were made unaggressive at an unknown date for reasons unknown.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended.
+
+* {{UL|type=patch|update=Patch Notes (24 July 2017)|date=24 July 2017}}
+** The big wolf on White Wolf Mountain no longer spawns inside a tree.
+
+* {{UL|type=patch|update=A Shadow over Ashdale|date=22 April 2014}}
+** The animations used on white wolves have been improved.
+** The white variant was graphically updated.
+
+* {{UL|type=update|update=Chaos Tunnels, Interface Improvements, Extra Bank Space and More!|date=15 January 2008}}
+** The grey variant has become available with the [[Chaos Tunnels]].
+
+* {{UL|type=update|update=Hair of the dog|date=4 June 2007}}
+** The NPC was graphically updated.
+** The grey variant was added to the cache, but was unused.
+
+* {{UL|type=update|update=Latest RuneScape News (27 February 2002)|date=27 February 2002}}
+** Added to game.
+}}
+
+{{Wolves}}
+[[pt:Lobo grande]]

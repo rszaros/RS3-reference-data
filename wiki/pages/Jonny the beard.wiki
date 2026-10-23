@@ -1,0 +1,160 @@
+{{External|os=Jonny the Beard|rsc}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|version1 = Normal
+|version2 = New Varrock
+|name1 = Jonny the beard
+|name2 = Jonny the Beard
+|image1 = [[File:Jonny the beard.png|150px]]
+|image2 = [[File:Jonny the Beard (zombie).png|200px]]
+|release1 = [[4 January]] [[2001]]
+|release2 = [[23 March]] [[2015]]
+|update1 = Runescape beta is now online!
+|update2 = Dimension of Disaster – 200th Quest
+|members1 = No
+|members2 = Yes
+|actions1 = Talk to, Attack, Examine
+|actions2 = Attack, Examine
+|race1 = Human
+|race2 = Zombie
+|examine1 = Looks kind of shifty...
+|examine2 = Looks kind of hostile...
+|level1 = 1
+|level2 = N/A
+|lifepoints = 100
+|experience = 5.0
+|aggressive = No
+|poisonous = No
+|slaylvl1 = 0
+|slaylvl2 = 1
+|slayxp1 = 0
+|slayercat1 = None
+|slayercat2 = Zombies, Undead
+|max_melee = 4
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 1
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 110
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|leagueRegion = Misthalin
+|id1 = 645
+|id2 = 20803
+}}
+|text2 = NPC
+|item2 =
+{{Infobox NPC
+|version1 = Normal
+|version2 = Left arm armed
+|version3 = Left arm lost
+|name = Jonny the Beard
+|image1 = Jonny the Beard (zombie, two arms).png
+|image2 = Jonny the Beard (zombie, holding arm).png
+|image3 = Jonny the Beard (zombie, one armed).png
+|release = [[23 March]] [[2015]]
+|update = Dimension of Disaster – 200th Quest
+|race = Zombie
+|members = Yes
+|quest = [[Dimension of Disaster]]
+|location = [[New Varrock]]
+|map = no
+|gender = Male
+|options = Talk to, Examine
+|examine1 = Looks kind of shifty...
+|examine = Looks kind of armless...
+|leagueRegion = Misthalin
+|id1 = 20802
+|id2 = 20804
+|id3 = 20805
+}}
+}}
+[[File:Jonny the Beard (zombie) chathead.png|left]]
+'''Jonny the beard''' is a man who hangs out in the [[Blue Moon Inn]] in Southern [[Varrock]]. He is a [[Black Arm Gang]] member who must be killed (and his [[Intel report]] picked up and given to [[Straven]], the [[Phoenix Gang]] leader) if a player wishes to join the Phoenix Gang during the [[Shield of Arrav]] quest.
+
+In [[Dimension of Disaster: Shield of Arrav]], his [[New Varrock]] counterpart has joined the [[Phoenix Gang]] and stolen [[Katrine]]'s [[Black arm]]. He must be fought in order to get it back.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Varrock]]
+|lvls=1
+|mem=no
+|mapID=28
+|npcid:645,x:3223,y:3395
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[New Varrock]]
+|lvls=N/A
+|mem=yes
+|mapID=677
+|npcid:20801,x:3735,y:9027
+|leagueRegion = New_Varrock
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Intel report|quantity=1|rarity=Always|raritynotes={{DropNote|Only dropped during the [[Shield of Arrav]] quest.}}}}
+{{DropsTableBottom}}
+
+==Works==
+{{Worksby}}
+
+==Transcript==
+{{Hastranscript|npc}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Jonny the beard old.png|name=Jonny the beard}}
+|{{GUL|date=|update=|img=Jonny the beard.png|name=Jonny the beard}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+*{{UL|type=patch|update=Patch Notes (9 April 2018)|date=9 April 2018}}
+** Players will now automatically attack Jonny the Beard in Dimension of Disaster to stop him from turning invisible.
+
+* {{UL|type=update|update=Runescape beta is now online!|date=4 January 2001}}
+** Added to game.
+}}
+
+{{Shield of Arrav}}
+{{Dimension of Disaster: Shield of Arrav}}
+[[Category:Quest monsters]]
+[[Category:Varrock]]
+[[pt:Jonny Barbudo]]

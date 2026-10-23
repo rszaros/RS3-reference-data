@@ -1,0 +1,268 @@
+{{Infobox Monster
+|name = Desert strykewyrm
+|image = [[File:Desert strykewyrm.png|250px]]
+|release = [[8 February]] [[2010]]
+|update = Strykewyrms
+|members = Yes
+|options = Investigate, Attack
+|examine = '''Burrowed:''' I'm pretty sure there's something under there.<br>'''Above ground:''' I dread to think of how many of these are in the sand.
+|level = 103
+|lifepoints = 10000
+|experience = 500.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 77
+|slayxp = 376.6
+|slayercat = Desert strykewyrms, Strykewyrms
+|assigned_by = Duradel, Sumona, Kuradal, Morvran
+|max_melee = 710
+|max_ranged = 710
+|max_magic = 710
+|max_necromancy = 0
+|max_spec = 2000
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 74
+|ranged = 74
+|magic = 74
+|necromancy = 1
+|acc_melee = 2023
+|acc_ranged = 2023
+|acc_magic = 1650
+|acc_necromancy = 0
+|armour = 1526
+|defence = 74
+|weakness = Stab
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Desert,Tirannwn
+|id = 9465
+}}
+[[File:Desert strykewyrm icon.png|left]]
+'''Desert strykewyrms''' are [[Slayer monsters]] located east of [[Al Kharid]], through the east gate. They require level 77 [[Slayer]] to kill.
+
+A wyrm initially appears as a mound on the ground; the mound may be still or be moving about. Before battle can be initiated with the wyrm, a player must investigate the mound by clicking on it. This causes the player's character to perform the [[Stomp (emote)|Stomp]] emote, after which the wyrm bursts out of the ground.
+
+Desert strykewyrms are an excellent source of various noted items, and the occasional [[focus sight]], which is needed to create a [[full slayer helmet]].
+
+Players should use a [[Mask of the Yellow Wyrm]] (or its helm variant [[Helm of the Parched Wyrm]]) when killing these to take advantage of its benefits.
+
+Killing a strykewyrm is one of the [[elite Desert achievements]], [[Staff on Stryke]]. The player must be equipped with an [[ancient staff]] and [[full slayer helmet]] when doing so (upgraded slayer helms will not work; [[corrupted slayer helmet]] does work; [[mighty slayer helmet]] also works).
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=East of [[Al Kharid]]
+|lvls=103
+|mem=yes
+|mapID=28
+|npcid:9464,x:3363,y:3155|npcid:9464,x:3364,y:3147|npcid:9464,x:3366,y:3161
+|npcid:9464,x:3371,y:3154|npcid:9464,x:3371,y:3166|npcid:9464,x:3373,y:3143
+|npcid:9464,x:3375,y:3158|npcid:9464,x:3378,y:3141|npcid:9464,x:3378,y:3148
+|npcid:9464,x:3378,y:3161|npcid:9464,x:3384,y:3153|npcid:9464,x:3384,y:3163
+|leagueRegion = Desert}}
+{{LocTableBottom}}
+
+==Attacks==
+The desert strykewyrm's standard attacks are [[Melee]] and [[Ranged]]. The wyrm will usually use melee and only occasionally use ranged when the player is not within melee range. This attack however, rarely hits and even if it hits, it usually does not hit over 100.
+
+The desert strykewyrm also has a [[special attack]] which consists of it burrowing under the ground, moving toward the player fighting it, and then bursting out of the ground which can deal 500-2000 damage. Running over the strykewyrm right as it bursts out of the ground will hit the player twice with its special attack, possibly adding up to 4000 damage.
+
+The special attack may be avoided by running 2-3 squares away from where the player was standing when the wyrm starts to burrow. Timing is important; hesitating a moment when the wyrm burrows could cause the wyrm's special attack to hit. Many players run directly away from the wyrm when it burrows, but depending on your reaction time, this might not be a good idea, so running to the sides is a good idea for those with high latency or if they are too slow to react to the attack.
+
+Sometimes the desert strykewyrm will be stunned when it emerges from the ground. It will not be able to use its special attack until this wears off.
+
+==Tips==
+When running away from the special attack, it is best to click on the ground itself instead of the minimap, as the player can react to the tactical situation in the area. A player should not click on another mound when trying to get away, as the player will run up to (not onto) the mound and stop, which might leave the player too close to the surfacing wyrm.
+
+The wyrm's special attack can be disabled by standing near any kind of obstacle. There are cacti and bushes around their area, but they are relatively spread out and few in number.
+
+This special attack occurs on average once every 15-20 attacks. They have higher-than-average health for their level, and depending upon how fast the player can kill a desert strykewyrm, the special attack may or may not occur with each wyrm battle, but one special attack per 2 or 3 wyrms is very likely.
+
+For players who have difficulty moving out of the way in time, it is advised to range strykewyrms from a distance. Range them at the maximum distance of the crossbow/shortbow/longbow so that the player will have more time to spot and avoid their special attack. Desert strykewyrms are more resistant to ranged than they are to melee, but the ranged attack they use at a distance will also deal very low damage to a player wearing ranged armour.
+
+It is also possible for players to avoid the desert strykewyrm's special attack by using the Escape ability. This requires a good reaction time, as the player will be sent back a few squares, thus wasting good combat time.
+
+While on slayer task, [[Tuska's Wrath]] is a recommended ability. Activating Tuska's Wrath manually when the desert strykewrym is at or near to full health will give maximum advantage and potential instakill.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Unique===
+{{DropsTableHead}}
+{{DropsLine|name=Focus sight|quantity=1|rarity=1/512|altrarity=1/253|altraritydash=y|raritynotes={{DropNote|1/256 when on a [[Slayer assignment]] and 1/512 otherwise. Both rates are improved by 1% with tier 2 or higher [[luck]].}}|citations={{CiteReddit|url=https://www.reddit.com/r/runescape/comments/1gk4qby/comment/lw3h5na/|date=8 November 2024|title=AMA with Mod Sponge: Dive into the New Slayer Update & Combat Q&A tomorrow on stream!|author=Mod Sponge|quote=they are both 1/512 off task 1/256 on task|archiveurl=https://archive.ph/0OSuP|archivedate=8 November 2024}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Death rune|quantity=15|rarity=3/101}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|12/101}} ''There is a 11/101 chance of dropping one herb and a 1/101 chance of dropping four herbs, averaging 1.25 herbs per roll. When one herb is rolled, it will sometimes be accompanied by a drop from the gem drop table. There is an additional 2/101 chance of dropping a grimy toadflax.''
+{{DropsTableHead}}
+{{DropsLine|name=Grimy toadflax|quantity=1 (noted)|rarity=2/101}}
+{{HerbDropTable|12/101|1, 4|noted=yes}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{RareSeedDropTableIntro|8/101}} ''There is an additional 2/101 chance of rolling a cadantine seed.''
+{{TreeSeedDropTableIntro|1/101}}
+{{DropsTableHead}}
+{{DropsLine|name=Cadantine seed|quantity=1|rarity=2/101}}
+{{RareSeedDropTable|8/101}}
+{{TreeSeedDropTable|1/101|4400}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Super defence (2)|quantity=1|rarity=13/101}}
+{{DropsLine|name=Swordfish|quantity=2|rarity=1/101|raritynotes={{DropNote|name=waterskin|Waterskins and swordfish are sometimes dropped together.}}}}
+{{DropsTableBottom}}
+
+===Talismans===
+{{TalismanDropTableIntro|1/101}}
+{{DropsTableHead}}
+{{TalismanDropTable|1/101}}
+{{DropsTableBottom}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Adamantite stone spirit|quantity=3|rarity=4/101}}
+{{DropsLine|name=Yew wood spirit|quantity=6|rarity=6/101|raritynotes={{DropNote|Yew wood spirits are always dropped alongside 200 coins.}}}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=200|rarity=11/101}}
+{{DropsLine|name=Coins|quantity=440|rarity=13/101}}
+{{DropsLine|name=Coins|quantity=2100-4199|rarity=3/101}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Waterskin (4)|quantity=2|rarity=14/101|raritynotes={{DropNote|name=waterskin}}}}
+{{DropsLine|name=Goat horn dust|quantity=3 (noted)|rarity=5/101|raritynotes={{DropNote|Goat horn dust is dropped alongside a seed.}}}}
+{{DropsLine|name=Potato cactus|quantity=5-9 (noted)|rarity=6/101}}
+{{DropsLine|name=Tiny bladed rune salvage|quantity=1|rarity=2/101}}
+{{DropsLine|name=Spirit weed seed|quantity=1|rarity=2/101}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|9/101|override=There is a 9/101 chance of rolling the [[gem drop table]]. This will sometimes be accompanied by a noted herb drop.}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=10/1280|gemw=No}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=297/128000|raritynotes={{DropNote|name=elite|There's a 1% chance an elite clue scroll will be upgraded to a master clue scroll.}}|gemw=No}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=3/128000|raritynotes={{DropNote|name=elite}}|gemw=No}}
+{{DropsLineEffigy|level=103}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=103}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 37.325/1000
+|green = 18.662/1000
+|crimson = 119.439/1000
+|blue = 7.465/1000
+}}
+
+==Products==
+{{Uses facility list|Desert strykewyrm}}
+
+==Achievements==
+* {{Achievement|Staff on Stryke}}
+* {{Achievement|Sand in My Loot}}
+** [[Focus sight]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=July Quest Qol and Game Health Update - This Week In RuneScape|date=14 July 2025}}
+** Added new sources for Spirit Weed Seeds, Inert Adrenaline Crystals and Sirenic Scales across various Slayer monsters:
+*** Spirit Weed seeds - Automatons, Strykewyrms, Turoths, Gemstone Dragons (on task), Brutish Dinosaurs, Grotworms, Moss Giants, Flesh Crawlers, Cockatrices, Kurask and Rare Seed Drop Table.
+
+* {{UL|type=patch|update=110 Crafting Patch Week- This Week In RuneScape|date=23 June 2025}}
+** Fixed an issue with the spring cleaner in rare cases not alchemising salvage at various Strykewyrms.
+
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[yew logs]] drop with [[yew wood spirit]]s.
+
+* {{UL|type=patch|update=QoL Mini Strike & Advent Calendar - This Week In RuneScape|date=28 November 2022}}
+** Desert, Ice and Jungle Strykewyrms no longer require a Slayer task to attack.
+
+* {{UL|type=patch|update=Patch Notes (30 March 2020)|date=30 March 2020}}
+** Lowered the brightness of the sun over near the Desert Strykewyrms east of Al kharid.
+
+* {{UL|type=patch|update=Patch Notes (16 April 2018)|date=16 April 2018}}
+** Corrected functionality of desert strykewyrms' ranged attack.
+
+* {{UL|type=ninja|update=Patch Notes (1 August 2016)|date=1 August 2016}}
+** Desert Strykewyrms now have 10,000 lifepoints (up from 8,000), a max hit of 710 (up from 296) and greater accuracy.
+** Players can now investigate Strykewyrm mounds from a distance, allowing players to stomp a mound when using ranged and magic combat styles.
+** The delay in switching from mound to Strykewyrm has been reduced.
+
+* {{UL|type=patch|update=Patch Notes (20 August 2013)|date=20 August 2013}}
+** Desert strykewyrms no longer stop attacking player randomly.
+
+* {{UL|type=patch|update= Patch Notes (13 August 2013)|date=13 August 2013}}
+** Strykewyrms no longer show two combat overlays.
+
+* {{UL|type=patch|update=Patch Notes (14 January 2013)|date=14 January 2013}}
+** Fixed an issue where Desert strykewyrms and cannons were not behaving as expected.
+
+* {{UL|type=patch|update=Patch Notes (11 December 2012)|date=11 December 2012}}
+** Flattened some tiles near the Desert Strykewyrm area to stop drops from disappearing under the ground.
+
+* {{UL|type=patch|update=Patch Notes (24 October 2012)|date=24 October 2012}}
+** Players can no longer stand underneath a strykewyrm for so long before it decides to knock the player back.
+
+* {{UL|type=patch|update=Patch Notes (7 September 2010)|date=7 September 2010}}
+** Strikewyrms would not perform their special attack if they thought you had a pet cat.
+
+* {{UL|type=patch|update=Shattered Heart|date=3 March 2010}}
+** Strykewyrms can no longer lose focus on the player they were attacking.
+
+* {{UL|type=coldfix|update=|date=11 February 2010}}{{CiteForum|author=Mod Nexus|url=http://services.runescape.com/m=forum/forums.ws?15,16,94,60365817|title=System Update...|forum=Recent Updates|postdate=11 February 2010|archiveurl=https://reldo.runescape.wiki/i/5770848|archivedate=14 February 2010}}
+** Fixed a problem where random events would interfere with fighting strykewyrms.
+** Added a few more styrkewyrms to the various areas.
+** Drop tables for the strykewyrms were intended to give slightly random amounts of items, this is now the case and the drops are still very generous.
+
+* {{UL|type=update|update=Strykewyrms|date=8 February 2010}}
+** Added to game.
+}}
+
+==Trivia==
+*Using the stomp emote to attract the strykewyrm is possibly a reference to the sandworms (Shai'Hulud) from {{WP|Frank Herbert|Frank Herbert's}} ''{{WP|Dune (franchise)|Dune}}'' novel series, which share some common characteristics.
+*The release of strykewyrms was hinted at by the [[Twitter hint]], "Three strykes and they're out!" Additionally, the encrypted message from the [[Chaos Elemental]] in [[Chaos Elemental Letter 14]] contained the phrase 'from beneath you, it devours' - this possibly relates simultaneously to the burrowing nature of the strykewyrms and also that they were slayer-related content. 'From beneath you, it devours' is a recurring phrase in season 7 of {{WP|Buffy the Vampire Slayer (TV series)|Buffy the Vampire Slayer}}.
+*Desert strykewyrms, along with the rest of the strykewyrms, were the first monsters in ''RuneScape'' that made use of [[Graphics settings#Particles|particle]] effects.
+*If a player runs behind an obstacle just as a strykewyrm burrows into the ground, the strykewyrm will disappear. Although it will seem to respawn normally, it will leave no drops. This will not count towards a kill, and it has not been fixed yet.
+*As of [[1 February]] [[2018]], the highest kill count for this monster was 29,724 kills.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/7uqsoh/top_10_killers_per_slayer_creature/|title=Top 10 killers per Slayer Creature|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=2 February 2018|archiveurl=http://archive.is/Qgydj|archivedate=28 February 2020|notes=|name=}}
+**This had increased to 30,593 by [[6 May]] 2018.{{CiteReddit|author=Mod Shauny|url=https://www.reddit.com/r/runescape/comments/8hjcvq/top_slayer_killers_6th_may_2018/|title=Top Slayer Killers - 6th May 2018|quote=Here are the top 10 kills for each Slayer creature in RuneScape, be aware that we've not listed display names for privacy purposes however if you wish to brag about one number being yours then we won't stop you!|date=6 May 2018|archiveurl=http://archive.is/Fxc11|archivedate=28 February 2020|notes=|name=}}
+*There was a bug where the desert strykewyrm's ranged attack would always miss, regardless of the player's armour rating. This was patched on 16 April 2018.
+* Prior to the update on [[28 November]] [[2022]], the players were required to be on a slayer task to damage this creature.
+
+==References==
+{{Reflist}}
+
+{{Strykewyrms}}
+{{Slayer monsters}}
+[[Category:Tier 2 luck]]
+[[pt:Vermetanque do deserto]]

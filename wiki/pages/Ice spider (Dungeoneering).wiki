@@ -1,0 +1,184 @@
+{{Dgvariant}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 7
+|version3 = 14
+|version4 = 21
+|version5 = 28
+|version6 = 35
+|version7 = 42
+|version8 = 49
+|version9 = 56
+|version10 = 63
+|version11 = 70
+|name = Ice spider
+|image = [[File:Ice spider.png|150px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = Yes
+|options = Attack, Mark
+|examine = This spider must have been modified magically.
+|level1 = 1
+|level2 = 7
+|level3 = 14
+|level4 = 21
+|level5 = 28
+|level6 = 35
+|level7 = 42
+|level8 = 49
+|level9 = 56
+|level10 = 63
+|level11 = 70
+|lifepoints1 = 100
+|lifepoints2 = 500
+|lifepoints3 = 1000
+|lifepoints4 = 1500
+|lifepoints5 = 2000
+|lifepoints6 = 2500
+|lifepoints7 = 3000
+|lifepoints8 = 3500
+|lifepoints9 = 4000
+|lifepoints10 = 4500
+|lifepoints11 = 5000
+|experience1 = 5.0
+|experience2 = 25.0
+|experience3 = 50.0
+|experience4 = 75.0
+|experience5 = 100.0
+|experience6 = 125.0
+|experience7 = 150.0
+|experience8 = 175.0
+|experience9 = 200.0
+|experience10 = 225.0
+|experience11 = 250.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 12.8
+|slayxp2 = 13.8
+|slayxp3 = 16.6
+|slayxp4 = 19.2
+|slayxp5 = 23
+|slayxp6 = 28
+|slayxp7 = 34.6
+|slayxp8 = 43.2
+|slayxp9 = 53.8
+|slayxp10 = 68.6
+|slayxp11 = 86.6
+|slayercat = Spiders, Creatures of Daemonheim
+|max_melee1 = 4
+|max_melee2 = 20
+|max_melee3 = 40
+|max_melee4 = 60
+|max_melee5 = 80
+|max_melee6 = 100
+|max_melee7 = 120
+|max_melee8 = 140
+|max_melee9 = 160
+|max_melee10 = 180
+|max_melee11 = 200
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 1
+|attack2 = 5
+|attack3 = 10
+|attack4 = 15
+|attack5 = 20
+|attack6 = 25
+|attack7 = 30
+|attack8 = 35
+|attack9 = 40
+|attack10 = 45
+|attack11 = 50
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 110
+|acc_melee2 = 850
+|acc_melee3 = 850
+|acc_melee4 = 850
+|acc_melee5 = 850
+|acc_melee6 = 850
+|acc_melee7 = 850
+|acc_melee8 = 850
+|acc_melee9 = 850
+|acc_melee10 = 850
+|acc_melee11 = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 150
+|armour3 = 202
+|armour4 = 257
+|armour5 = 316
+|armour6 = 381
+|armour7 = 454
+|armour8 = 536
+|armour9 = 628
+|armour10 = 732
+|armour11 = 850
+|defence1 = 1
+|defence2 = 5
+|defence3 = 10
+|defence4 = 15
+|defence5 = 20
+|defence6 = 25
+|defence7 = 30
+|defence8 = 35
+|defence9 = 40
+|defence10 = 45
+|defence11 = 50
+|weakness = Fire
+|susceptibility = NopeNopeNope
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10157
+|id2 = 10158
+|id3 = 10159
+|id4 = 10160
+|id5 = 10161
+|id6 = 10162
+|id7 = 10163
+|id8 = 10164
+|id9 = 10165
+|id10 = 10166
+|id11 = 10167
+|leagueRegion = Wilderness
+}}
+'''Ice spiders''' may be found when training [[Dungeoneering]] in the [[frozen floors]]. These spiders have low strength, defence, and life points for their level, but they hit very accurately, even through armour. They are weak to fire spells. Unlike elsewhere, these spiders show up on the minimap as yellow dots. [[Astea Frostweb]] also summons these spiders to aid her in combat.
+
+==Drops==
+The ice spiders summoned by [[Astea Frostweb]] do not drop anything.
+
+{{Dungeoneering droptable|headings=3}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=November Graphical Updates & DXP - This Week In RuneScape|date=6 November 2023}}
+** Increased base [[Hit chance|accuracy]] within dungeoneering to be inline with others areas of the game.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Spiders}}

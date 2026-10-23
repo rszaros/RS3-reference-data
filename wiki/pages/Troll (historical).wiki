@@ -1,0 +1,79 @@
+{{External|os}}
+{{Cache}}
+{{Infobox Monster
+|name = Troll
+|image = [[File:Troll (historical).png]]
+|release = [[29 March]] [[2004]]
+|update = RS2 Launched!
+|removal = July-September 2004
+|removalupdate = 
+|members = No
+|options = Attack
+|race = Troll
+|examine = A hideously deformed creature.
+|level = 70
+|lifepoints = 2500
+|experience = 125.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 
+|slayxp = 
+|slayercat = Trolls
+|assigned_by = 
+|max_melee = 200.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 50
+|ranged = 1
+|magic = 1
+|necromancy = 
+|acc_melee = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour = 850
+|defence = 50
+|weakness = Fire
+|susceptibility = 
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = 
+|immune_to_stun = 
+|immune_to_drain = 
+|restriction = 
+|id = 72
+|leagueRegion = No
+}}
+The '''troll''' was a former character that appeared in ''RuneScape 2''. It is arguably the most obscure character to have existed since the transition to ''RuneScape 2'', with very little information and no screenshots of the monster surviving.
+
+At least one troll could be found in the [[Clock Tower Dungeon]], locked in one of the jail cells. It had the appearance of a much thinner version of the [[River troll]].
+
+The troll was eventually removed from the Clock Tower Dungeon, and probably replaced by a [[hobgoblin]]. It is unknown when exactly it was removed, but it was possibly with the release of [[mountain troll]]s in the [[Death Plateau (location)|Death Plateau]].
+
+It was never removed from the game files, and its combat level and examine text would ultimately be reused for [[Troll (Mercenary camp)]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=|date=July-September 2004}}
+** Removed from game.
+
+* {{UL|type=update|update=RS2 Launched!|date=29 March 2004}}
+** Added to game.
+}}
+
+{{Trolls}}

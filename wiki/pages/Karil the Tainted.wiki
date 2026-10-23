@@ -1,0 +1,193 @@
+{{Needs image|type=npc chathead|chathead of Karil the Tainted (Rise of the Six)}}
+{{External|os}}
+{{Otheruses|def=no|the equipment set|Karil the Tainted's equipment}}
+{{Otheruses|def=no|the pet version|Karil the Bobbled}}
+{{Infobox Monster
+|version1 = Normal
+|version2 = Rise of the Six
+|name = Karil the Tainted
+|image1 = [[File:Karil the Tainted.png|160px]]
+|image2 = [[File:Karil the Tainted (Shadow).png|160px]]
+|release1 = [[9 May]] [[2005]]
+|release2 = [[13 November]] [[2013]]
+|update1 = Barrows
+|update2 = Barrows - Rise of the Six
+|members = Yes
+|options = Attack
+|examine = A vengeful spirit corrupted by dark magic.
+|level1 = 150
+|level2 = 650
+|lifepoints1 = 12000
+|lifepoints2 = 50000
+|slaylvl = 1
+|slayxp1 = 343.6
+|slayxp2 = 
+|aggressive = Yes
+|poisonous = No
+|slayercat = Ghosts, Undead
+|max_melee = 0
+|max_ranged1 = 1260
+|max_ranged2 = 864
+|max_magic = 0
+|max_necromancy = 0
+|max_spec1 = 0
+|max_spec2 = 8000
+|style = ranged
+|primarystyle = ranged
+|speed1 = 6
+|speed2 = 2
+|attack = 1
+|ranged1 = 70
+|ranged2 = 90
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged1 = 1566
+|acc_ranged2 = 2458
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 1299
+|armour2 = 1924
+|defence1 = 70
+|defence2 = 90
+|weakness1 = Stab
+|weakness2 = Nothing
+|susceptibility = Salve, Ghost
+|aff_weakness1 = 90
+|aff_weakness2 = 40
+|aff_melee1 = 70
+|aff_melee2 = 40
+|aff_ranged1 = 60
+|aff_ranged2 = 40
+|aff_magic1 = 50
+|aff_magic2 = 40
+|immune_to_poison1 = No
+|immune_to_poison2 = Yes
+|immune_to_deflect1 = No
+|immune_to_deflect2 = Yes
+|immune_to_stun1 = No
+|immune_to_stun2 = Yes
+|immune_to_drain1 = No
+|immune_to_drain2 = Yes
+|restriction2 = quest
+|leagueRegion = Morytania
+|id1 = 2028
+|id2 = 18543
+}}
+{{Synced switch|version1=[[File:Karil the Tainted chathead.png|left|80px]]
+<!--|version2=[[File:Karil the Tainted (Rise of the Six) chathead.png|left]]-->}}
+'''Karil the Tainted''' is the fourth oldest of the six [[Barrows brothers]]. Karil's crypt is located in the lower south end of the [[Barrows]] area. He attacks with ranged using his [[Karil's crossbow|2-handed crossbow]] and [[bolt racks]].
+
+Karil's set effect: ''Karil's Taint'', allows his hits to have a chance to reduce the player's [[magic]] level. When this effect is activates an animation and a sound effect are triggered, and the player will suffer a loss of a Magic level. This effect is not very damaging to a player if they are not using magic, particularly if [[Overload]]s are used. Regardless, his hits are rather accurate so [[protection prayers]]/[[Ancient curses|curses]] are advised. [[Soul split]] can also be used, but should only be utilised by experienced players.
+
+During the Morytania-Misthalin wars, the Barrows brothers were devastating the Undead armies, cutting through their lines with ease. Karil was known for his secrecy and accuracy in battle; "Should any enemy manage to survive long enough, and have the chance to strike a blow, Karil would fire a swathe of bolts to pepper their chest as they took their swing, throwing them back" (this is a quote taken from [[The Fall of Six]] under the Lores section of RuneScape).
+
+==Drops==
+Karil does not drop his main rewards directly; instead, his [[Karil the Tainted's equipment|equipment]] is added as possible rewards from the Barrows chest. ''See [[The Barrows Brothers#Rewards]] for more information.'' However, Karil can directly drop the following items:
+
+{{DropsTableHead}}
+{{DropsLineGhosts}}
+{{DropsTableBottom}}
+
+==History==
+===Early history===
+Karil, along with his brothers, maintained a small farm. Eventually, [[Guthan the Infested|Guthan]] convinced him and the others to join the crusade.
+
+===Kindred Spirits===
+Karil and his brothers made an appearance in [[Kindred Spirits]], where he was chained with [[Torag the Corrupted|Torag]], with Guthan attempting to keep balance between the pair and [[Commander Jaycliff]]. He was disappointed upon hearing that Guthan had betrayed them all to Sliske after killing Jaycliff. [[Sliske]] had set up the games to reveal the secrets of the brothers, but what Karil had kept hidden from his brothers is unknown, as the game was interrupted when [[Meg]] failed to impersonate the World Guardian.
+
+===2016 Easter event ===
+During the [[2016 Easter event]], Karil the Tainted and his brothers play a role as the workers (bobble-numbskulls) of Sliske's chocolate factory. They resembled their bobble-head versions.
+
+===Sliske's Endgame===
+Karil, along with his brothers, appeared in [[Sliske's Endgame]], being the second intended wave in Sliske's attempts to destroy the World Guardian. However, the Barrows Brothers had managed to regain a modicum of control over their own actions, and chose to aid the World Guardian, attacking Sliske's wights and champions.
+
+==Mentioned==
+{{MentionedIn}}
+
+==Gallery==
+<gallery mode="packed" heights="300">
+Karil the Tainted official art.png|Karil the Tainted
+Karils RuneFest concept.png|The new model for Karil's armour revealed at RuneFest 2011. Curiously, it has a quiver with arrows, while Karil's crossbow uses bolt racks.
+Karil the Tainted (Christmas).png|Karil wearing a Santa hat during Christmas
+Karil the Tainted (Shadow, Christmas).png|Shadow Karil wearing a Santa hat during Christmas
+</gallery>
+
+==Graphical updates==
+===NPCs===
+{{GU|subject=NPCs
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Karil the Tainted (2005).png|name=Karil the Tainted}}
+|{{GUL|date=[[1 September]] [[2010]]|update=Court Cases: Back in Session|img=Karil the Tainted (2010).png|name=Karil the Tainted}}
+|{{GUL|date=[[4 January]] [[2012]]|update=A Very Barrows New Year!|img=Karil the Tainted.png|name=Karil the Tainted}}
+}}
+
+===Chatheads===
+{{GU|subject=chatheads
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Karil the Tainted (2005) chathead.png|name=Karil the Tainted's chathead}}
+|{{GUL|date=[[9 May]] [[2005]]|update=Barrows|img=Karil the Tainted (2008) chathead.png|name=Karil the Tainted's chathead}}
+|{{GUL|date=[[3 December]] [[2009]]|update=The Temple at Senntisten|img=Karil the Tainted (2009) chathead.png|name=Karil the Tainted's chathead}}
+|{{GUL|date=[[4 January]] [[2012]]|update=A Very Barrows New Year!|img=Karil the Tainted chathead.png|name=Karil the Tainted's chathead}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased (does not apply to Rise of the Six):
+*** 'Weak' style: 65 → 70
+*** Same style: 55 → 60
+*** 'Strong' style: 45 → 50
+
+* {{UL|type=hidden|update=Necromancy Patch Week - This Week In RuneScape|date=11 September 2023}}
+** The 50% combat experience reduction on bosses has been removed. Bosses now give 50 combat experience per 1,000 life points, like most other monsters in the game.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+** An old restriction preventing the use of the Salve Amulet at Barrows has been removed. It also works in Rise of the Six.
+
+* {{UL|type=patch|update=This Week In RuneScape: Celebration of Combat#Patch Notes|date=11 January 2021}}
+** Various bosses around RuneScape have taken their Santa Hats off for another year.
+
+* {{UL|type=patch|update=Patch Notes (23 October 2017)|date=23 October 2017}}
+** The right-click options on Barrows brothers spawned by other players have been removed.
+
+* {{UL|type=patch|update=Patch Notes (3 March 2014)|date=3 March 2014}}
+** An issue has been resolved in which [[Ahrim]] or Karil could get stuck on the ledge while the brothers enrage in [[Rise of the Six]].
+
+* {{UL|type=update|update=A Very Barrows New Year!|date=4 January 2012}}
+** Karil the Tainted is graphically updated.
+
+* {{UL|type=update|update=Barrows|date=9 May 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Along with the graphical update on 4 January 2012, his combat level was increased from 98 to 121. Due to the Evolution of Combat, his combat level has been raised to 150.
+* Although Karil uses range, he can do more damage to players with melee armour than Ahrim can, even though Ahrim uses battle magic. This is because Ahrim also uses his high-level curse spells on the player and occasionally uses his Fire Wave, unlike Karil, who just has a basic ranged attack.
+* Despite being a ranger and using his own armour (which would have high magic defence), before the Evolution of Combat, he could be hit extremely often with magic attacks. This would suggest that he would have a low magic level, or may be an oversight from Jagex.
+* Before a hidden update that affected Karil's and Torag's sets, Karil drained [[Agility]] levels from the player.
+* [[Karil's crossbow]] seems to be based off the real life {{Wp|Repeating crossbow|Zhuge crossbow}}, an ancient Chinese crossbow that used a rapid fire system. If this is true, this could also explain why [[Ak-Haranu]] sells the required bolt racks, as he is from the [[Eastern Lands]] and the Eastern Lands seem to be based on the ancient/medieval Far East. This supports the idea that Sliske, who gave the Barrow Brothers their armour, obtained them from the Eastern Lands.
+* In "The Fall of Six", Karil is depicted as being the fastest of the brothers, though since the Evolution of Combat update his crossbow is not as fast as other crossbows.
+* In the wallpaper, Karil, along with Guthan and Ahrim, hold their weapons in one hand although all Barrows weapons are two-handed.
+* In Rise of the Six, Karil uses his regular crossbow, however, he holds it in one hand when running. When attacking, he uses the same animation for a two-handed crossbow.
+* Unlike the other brothers, Karil does not give bonus experience when killed with Ghost hunter armour.
+
+==References==
+{{Reflist}}
+
+{{Barrows}}
+{{Barrows: Rise of the Six}}
+{{The Temple at Senntisten}}
+{{Ritual of the Mahjarrat}}
+{{Missing, Presumed Death}}
+{{Kindred Spirits}}
+{{Sliske's Endgame}}
+{{2016 Easter event}}
+{{Wights}}
+{{The Fall of Six}}
+[[pt:Karil, o pestilento]]
+[[Category:Saradominists]]
+[[Category:Participants in the God Wars]]
+[[Category:Sliskeans]]
+[[Category:Bosses]]
+[[Category:Familiar-immune monsters]]
+[[Category:NPCs that can move at running speed]]

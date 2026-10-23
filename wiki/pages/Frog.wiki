@@ -1,0 +1,128 @@
+{{Otheruses|def=no|the livestock creatures|Frog (player-owned farm)|other uses|Frog (disambiguation)}}
+{{Infobox Monster
+|name = Frog
+|image = [[File:Frog.png|200px]]
+|release = [[9 October]] [[2007]]
+|update = Back to my Roots quest
+|members = Yes
+|options = Attack
+|examine = Long legged licker.
+|level = 67
+|lifepoints = 4700
+|aggressive = No
+|poisonous = 500
+|slaylvl = 1
+|slayxp = 74.2
+|slayercat = Frogs
+|max_melee = 800
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 40
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 528
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|acc_necormancy = 0
+|armour = 983
+|defence = 55
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 3783
+|leagueRegion = Karamja
+}}
+A '''frog''' is a level 67 monster found in the [[jade vine maze]] from the [[Back to my Roots]] quest. Lower-levelled players should not underestimate these poisonous monsters, although they are not aggressive. An [[antipoison]] potion, preferably [[super antipoison|super]] or better, is recommended while fighting them.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Jade vine maze]] {{FloorNumber|2}}
+|lvls=67
+|mem=yes
+|requirements={{QuestIcon|Back to my Roots}} (partial)
+|mapID=28|plane=1
+|npcid:3783,x:2884,y:2986|npcid:3783,x:2891,y:2990|npcid:3783,x:2919,y:2977
+|npcid:3783,x:2924,y:2970
+|leagueRegion = Karamja}}
+{{LocLine
+|loc=[[Jade vine maze]] {{FloorNumber|3}}
+|lvls=67
+|mem=yes
+|requirements={{QuestIcon|Back to my Roots}} (partial)
+|mapID=28|plane=2
+|npcid:3783,x:2893,y:3004
+|leagueRegion = Karamja}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+{{Average drop value|mob=Frog}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Giant frog legs|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Main drop===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=66/128}}
+{{DropsLine|name=Grimy marrentill|quantity=1|rarity=20/128}}
+{{DropsLine|name=Fellstalk seed|quantity=1|rarity=2/128}}
+{{DropsLine|name=Morchella mushroom spore|quantity=4|rarity=2/128}}
+{{DropsLine|name=Frog spawn|quantity=1-5|rarity=10/128|gemw=no}}
+{{DropsLine|name=Water rune|quantity=1-30|rarity=5/128}}
+{{DropsTableBottom}}
+
+===Herb drop table===
+{{HerbDropTableIntro|10/128}}
+{{DropsTableHead}}
+{{HerbDropTable|10/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|3/128}}
+
+===Body parts===
+{{DropsTableHead}}
+{{DropsLine|name=Hand (Back to my Roots)|quantity=1|rarity=10/128|gemw=no|raritynotes={{DropNote|name=clarence|Only before and during the [[One Foot in the Grave (miniquest)|One Foot in the Grave]] miniquest. Each received only once, unless destroyed after obtaining. Parts are dropped in order: hand, foot, torso, left arm, right arm, left leg, right leg.}}}}
+{{DropsLine|name=Foot|quantity=1|rarity=10/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Torso (Back to my Roots)|quantity=1|rarity=5/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Left arm|quantity=1|rarity=10/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Right arm|quantity=1|rarity=10/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Left leg|quantity=1|rarity=10/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsLine|name=Right leg|quantity=1|rarity=10/128|gemw=no|raritynotes={{DropNote|name=clarence}}}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Back to my Roots quest|date=9 October 2007}}
+** Added to game.
+}}
+
+==See also==
+* [[Big frog]]
+* [[Giant frog]]
+
+{{Back to my Roots}}
+[[pt:Rã]]

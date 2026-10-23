@@ -1,0 +1,108 @@
+{{Cleanup|Wrong stats}}
+{{Infobox Monster <!-- Combat Level 136 -->
+|name = Scorpion
+|image = [[File:Scorpion (Uncharted Isles).png|200px]]
+|release = [[25 July]] [[2016]]
+|update = The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit
+|members = Yes
+|examine = An extremely vicious scorpion
+|aggressive = no
+|poisonous = no
+|level = 93
+|experience = 314
+|lifepoints = 10000
+|slaylvl = 1
+|slayxp = 98.6
+|slayercat = Scorpions
+|assigned_by = turael, Vannaka
+|restriction = quest
+|immune_to_poison = no
+|immune_to_stun = no
+|immune_to_deflect = no
+|immune_to_drain = no
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|max_melee = 0
+|max_ranged = 1633
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|weakness = crushing
+|armour = 1372
+|acc_melee = 1372
+|acc_ranged = 1372
+|acc_magic = 1372
+|acc_necromancy = 0
+|attack = 67
+|ranged = 67
+|magic = 67
+|necromancy = 1
+|defence = 67
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|leagueRegion = Asgarnia
+|id = 23060
+}}
+The '''scorpion''' is a monster found on [[Uncharted Isles]]. It is considered a common resource. Like other combat resources on [[Uncharted Isles]], they can drop a small amount of [[chimes]] when they are defeated. They will always be found near a pile of [[Debris (Uncharted Isles)|debris]] in the form of a smashed barrel, which acts as their spawn point.
+
+Attacking the scorpions will scale their [[life points]] and combative abilities to the player's own combat level.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Barb-tail harpoon|quantity=1-5 (noted)|rarity=2/128}}
+{{DropsLine|name=Amulet of defence|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Steel arrow|quantity=5-30|rarity=14/128}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Bass|quantity=1|rarity=11/128}}
+{{DropsLine|name=Bass|quantity=2-3 (noted)|rarity=6/128}}
+{{DropsLine|name=Vodka|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Medium spiky steel salvage|quantity=1|rarity=11/128}}
+{{DropsLine|name=Medium spiky mithril salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Medium spiky adamant salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Chimes|image=Chimes 1.png|quantity=2-5|rarity=64/128|gemw=No}}
+{{DropsLine|name=Raw bass|quantity=2-3 (noted)|rarity=6/128}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[25 July]] [[2016]]|update=The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit|img= Scorpion - Uncharted Isles (July 2016).png|name=Scorpion (Uncharted Isles)}}
+|{{GUL|date=[[3 June]] [[2024]]|update=Pride Events & Ultra+ Graphics - This Week In RuneScape|img=Scorpion (Uncharted Isles).png|name=Scorpion (Uncharted Isles)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit|date=25 July 2016}}
+** Added to game.
+}}
+
+{{Uncharted Isles}}
+{{Scorpions}}

@@ -1,0 +1,183 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Trollweiss
+|version2 = Ice path
+|name = Ice wolf
+|image = [[File:Ice wolf.png|200px]]
+|release1 = [[5 January]] [[2005]]
+|release2 = [[18 April]] [[2005]]
+|update1 = Troll Romance, Banks and Chat
+|update2 = Desert Treasure
+|members = Yes
+|actions = Attack
+|examine = Not man's best friend.
+|level1 = 58
+|level2 = 72
+|lifepoints1 = 6500
+|lifepoints2 = 8400
+|aggressive1 = No
+|aggressive2 = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 45.4
+|slayxp2 = 207.4
+|slayercat = Wolves
+|assigned_by = Turael, Mazchna, Vannaka
+|max_melee1 = 880
+|max_melee2 = 1350
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed1 = 4
+|speed2 = 5
+|attack1 = 44
+|attack2 = 54
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 610
+|acc_melee2 = 855
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 628
+|armour2 = 850
+|defence1 = 40
+|defence2 = 50
+|weakness1 = Water
+|weakness2 = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id1 = 1558, 6052
+|id2 = 1951, 1952, 1953, 1954, 1955, 1956
+|leagueRegion = Asgarnia
+|leagueRegion2 = Asgarnia&Desert
+}}
+'''Ice wolves''' are a type of wolf found around the [[Trollweiss Mountain]]. They can be found on the way to the [[Ice Path]] during [[Desert Treasure]] and also atop [[Trollweiss Mountain]] during [[Troll Romance]].
+
+They are also found near the entrance of [[God Wars Dungeon]]. When you push the boulder or use the agility entrance, your run energy will drop to 0, so be very careful. They are dangerous, and can hit 880's and 1350's respectively. While following this path it is ''highly'' recommended that you use the [[Protect from Melee]], especially if you have a low [[Defence]] level. These can be killed in place of normal wolves for more [[Slayer]] experience.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Trollweiss Mountain]]
+|lvls=58
+|mem=yes
+|mapID=28
+|npcid:1558,x:2761,y:3863|npcid:6052,x:2764,y:3858|npcid:1558,x:2769,y:3854
+|npcid:6052,x:2769,y:3861|npcid:1558,x:2790,y:3852|npcid:6052,x:2793,y:3847
+|npcid:6052,x:2801,y:3848
+|leagueRegion = Asgarnia}}
+{{LocLine
+|loc=[[Ice Path]]
+|lvls=72
+|mem=yes
+|mapID=28
+|requirements = Partial completion of {{QuestIcon|Desert Treasure}}
+|npcid:1951,x:2886,y:3723|npcid:1956,x:2886,y:3758|npcid:1956,x:2886,y:3762
+|npcid:1951,x:2887,y:3720|npcid:1951,x:2890,y:3721|npcid:1951,x:2890,y:3724
+|npcid:1956,x:2890,y:3756|npcid:1956,x:2890,y:3762|npcid:1952,x:2892,y:3726
+|npcid:1952,x:2894,y:3726|npcid:1952,x:2895,y:3728|npcid:1952,x:2895,y:3730
+|npcid:1955,x:2895,y:3740|npcid:1955,x:2895,y:3744|npcid:1954,x:2895,y:3751
+|npcid:1954,x:2895,y:3755|npcid:1953,x:2897,y:3733|npcid:1953,x:2897,y:3737
+|npcid:1955,x:2898,y:3740|npcid:1955,x:2898,y:3744|npcid:1954,x:2898,y:3751
+|npcid:1954,x:2898,y:3755
+|leagueRegion = Asgarnia&Desert}}
+{{LocLine
+|loc=Outside [[God Wars Dungeon]]
+|lvls=72
+|mem=yes
+|mapID=28
+|npcid:1952,x:2926,y:3754|npcid:1955,x:2928,y:3763|npcid:1956,x:2929,y:3752
+|npcid:1954,x:2930,y:3765|npcid:1951,x:2906,y:3719|npcid:1951,x:2910,y:3721
+|npcid:1951,x:2911,y:3724
+|leagueRegion = Asgarnia}}
+{{LocTableBottom}}
+For the Charm dropping Wolf, ID 1951
+{{LocTableHead}}
+{{LocLine
+|loc=Outside [[God Wars Dungeon]]
+|lvls=72
+|mem=yes
+|mapID=28
+|npcid:1951,x:2886,y:3723
+|npcid:1951,x:2887,y:3720|npcid:1951,x:2890,y:3721|npcid:1951,x:2890,y:3724
+|npcid:1951,x:2910,y:3721|npcid:1951,x:2911,y:3724
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+For the Charm dropping Wolf, ID 1953
+{{LocTableHead}}
+{{LocLine
+|loc=[[Ice Path]]
+|lvls=72
+|mem=yes
+|requirements = Partial completion of {{QuestIcon|Desert Treasure}}
+|mapID=28
+|npcid:1953,x:2897,y:3733|npcid:1953,x:2897,y:3737
+|leagueRegion = Asgarnia&Desert
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLineSpiritGems|version=Charm droppers}}
+{{DropsLineEffigy|level=72|version=Charm droppers}}
+{{DropsLineMimic|level=72|version=Charm droppers}}
+{{DropsTableBottom}}
+
+====Charms - ID 1951====
+Only some of the wolves drop charms with this distribution (those of NPC ID 1951) - see location table above for map of spawns.
+{{CharmDropTable
+|version=ID 1951
+|quantity=1
+|gold=56.799/1000
+|green=141.998/1000
+|crimson=56.799/1000
+|blue=11.36/1000
+}}
+
+====Charms - ID 1953====
+Only some of the wolves drop charms with this distribution (those of NPC ID 1953) - see location table above for map of spawns.
+{{CharmDropTable
+|version=ID 1953
+|quantity=1
+|gold=113.598/1000
+|green=56.799/1000
+|crimson=141.998/1000
+|blue=5.68/1000
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended.
+
+* {{UL|type=update|update=Troll Romance, Banks and Chat|date=5 January 2005}}
+** Added to game.
+}}
+
+{{Desert Treasure}}
+{{Wolves}}

@@ -1,0 +1,72 @@
+{{Otheruses|the Grotworms encountered alongside the Queen Black Dragon|other types of Grotworms|Grotworm (disambiguation)}}
+{{Infobox Monster
+|name = Giant worm
+|image = [[File:Grotworm.png|170px]]
+|release = [[29 May]] [[2012]]
+|update = Queen Black Dragon, Diamond Jubilee and Clue Fest
+|members = Yes
+|examine = A huge, disgusting worm.
+|level = 72
+|lifepoints = 6500
+|experience = 325.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 117.4
+|slayercat = Grotworms
+|assigned_by = mazchna,vannaka,chaeldar,sumona,duradel,kuradal
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 600
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 5
+|attack = 1
+|ranged = 1
+|magic = 65
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 1924
+|acc_necromancy = 0
+|armour = 1299
+|defence = 40
+|weakness = Bolts
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Asgarnia
+|id = 15464
+}}
+A '''Giant worm''' is a monster that is encountered during the fight against the [[Queen Black Dragon]]. After each phase, the Queen will cough up worms one at a time until the respective artefact has been touched. They use magic and melee, but they will only use melee if the player is stood next to them.
+
+They will continuously spawn, up to a maximum of around 11, so it is advised that players touch the respective artefact as soon as possible to prevent a large number of Giant worms from being coughed up. If the artefact is not activated after the maximum number of worms has spawned, the player will begin to take continuous heavy damage from the artefact.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Queen Black Dragon, Diamond Jubilee and Clue Fest|date=29 May 2012}}
+** Added to game.
+}}
+
+{{QBD}}
+[[Category:NPCs that can move at crawling speed]]
+[[Category:Boss minions]]

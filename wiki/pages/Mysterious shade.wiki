@@ -1,0 +1,216 @@
+{{Otheruses|def=no}}
+{{Infobox Monster
+|version1 = 1
+|version2 = 2
+|version3 = 7
+|version4 = 10
+|version5 = 19
+|version6 = 31
+|version7 = 48
+|version8 = 65
+|version9 = 79
+|version10 = 93
+|version11 = 111
+|version12 = 128
+|name = Mysterious shade
+|image = [[File:Mysterious Shade.png|200px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|examine = The vengeful spirit of one who died within Daemonheim.
+|examine12 = A shadow floating over the floor.
+|level1 = 1
+|level2 = 2
+|level3 = 7
+|level4 = 10
+|level5 = 19
+|level6 = 31
+|level7 = 48
+|level8 = 65
+|level9 = 79
+|level10 = 93
+|level11 = 111
+|level12 = 128
+|lifepoints1 = 100
+|lifepoints2 = 200
+|lifepoints3 = 500
+|lifepoints4 = 1000
+|lifepoints5 = 1900
+|lifepoints6 = 2500
+|lifepoints7 = 4000
+|lifepoints8 = 5500
+|lifepoints9 = 7000
+|lifepoints10 = 8000
+|lifepoints11 = 9000
+|lifepoints12 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Shades, Creatures of Daemonheim, Ghosts, Undead
+|max_melee = 0
+|max_ranged1 = 10
+|max_ranged2 = 100
+|max_ranged3 = 200
+|max_ranged4 = 300
+|max_ranged5 = 400
+|max_ranged6 = 500
+|max_ranged7 = 550
+|max_ranged8 = 600
+|max_ranged9 = 650
+|max_ranged10 = 700
+|max_ranged11 = 750
+|max_ranged12 = 800
+|max_magic1 = 10
+|max_magic2 = 100
+|max_magic3 = 200
+|max_magic4 = 300
+|max_magic5 = 400
+|max_magic6 = 500
+|max_magic7 = 550
+|max_magic8 = 600
+|max_magic9 = 650
+|max_magic10 = 700
+|max_magic11 = 750
+|max_magic12 = 800
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged, magic
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged1 = 1
+|ranged2 = 2
+|ranged3 = 5
+|ranged4 = 10
+|ranged5 = 19
+|ranged6 = 25
+|ranged7 = 40
+|ranged8 = 55
+|ranged9 = 70
+|ranged10 = 80
+|ranged11 = 90
+|ranged12 = 99
+|magic1 = 1
+|magic2 = 2
+|magic3 = 5
+|magic4 = 10
+|magic5 = 19
+|magic6 = 25
+|magic7 = 40
+|magic8 = 55
+|magic9 = 70
+|magic10 = 80
+|magic11 = 90
+|magic12 = 99
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged1 = 110
+|acc_ranged2 = 120
+|acc_ranged3 = 150
+|acc_ranged4 = 202
+|acc_ranged5 = 304
+|acc_ranged6 = 381
+|acc_ranged7 = 628
+|acc_ranged8 = 983
+|acc_ranged9 = 1486
+|acc_ranged10 = 1924
+|acc_ranged11 = 2458
+|acc_ranged12 = 3031
+|acc_magic1 = 110
+|acc_magic2 = 120
+|acc_magic3 = 150
+|acc_magic4 = 202
+|acc_magic5 = 304
+|acc_magic6 = 381
+|acc_magic7 = 628
+|acc_magic8 = 983
+|acc_magic9 = 1486
+|acc_magic10 = 1924
+|acc_magic11 = 2458
+|acc_magic12 = 3031
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 120
+|armour3 = 150
+|armour4 = 150
+|armour5 = 202
+|armour6 = 316
+|armour7 = 454
+|armour8 = 628
+|armour9 = 732
+|armour10 = 983
+|armour11 = 1486
+|armour12 = 1924
+|defence1 = 1
+|defence2 = 2
+|defence3 = 5
+|defence4 = 5
+|defence5 = 10
+|defence6 = 20
+|defence7 = 30
+|defence8 = 40
+|defence9 = 45
+|defence10 = 55
+|defence11 = 70
+|defence12 = 85
+|weakness = Crush
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10831
+|id2 = 10832
+|id3 = 10833
+|id4 = 10834
+|id5 = 10835
+|id6 = 10836
+|id7 = 10837
+|id8 = 10838
+|id9 = 10839
+|id10 = 10840
+|id11 = 10841
+|id12 = 10842
+|leagueRegion = Wilderness
+}}
+The '''Mysterious shade''' is a monster found in [[Daemonheim]]. It was released along with the [[Dungeoneering]] skill. It can be encountered in any room and also features in the [[monolith]] [[Dungeoneering/Puzzles|puzzle]].
+
+[[File:Mysterious shade range.png|right|thumb|Ranged attack.]]
+[[File:Mysterious shade mage.png|right|thumb|Magic attack.]]
+
+Mysterious shades attack with both magic and ranged. Their magic attack is a blue orb, while the ranged attack is a yellow-greenish orb. Both are very accurate and can deal high damage. 
+
+Compared to other monsters, mysterious shades are stronger than their combat level suggests. Their attacks are extremely accurate, and often deal higher damage than other monsters around their level. They should be targeted first unless there are other higher priorities in the room, to reduce the amount of damage they can deal to the team.
+{{clear|left}}
+
+==Drops==
+{{Dungeoneering droptable|headings=3}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+==Trivia==
+* The Mysterious shades look similar to [[Echned Zekin]], the 'captured' form of the demon Nezikchened, which the player has to fight during the [[Legends' Quest]].
+
+{{Ghost}}
+{{Dungeoneering monsters}}
+[[Category:NPCs with multiple Examine options]]

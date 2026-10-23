@@ -1,0 +1,305 @@
+{{External|os=Obor}}
+{{Redirect|Ivar|the NPC previously located at Artisans' Workshop|Ivar (Artisans' Workshop)}}
+{{Havenhythe content}}
+{{HasStrategy}}
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|name = Ivar, King of Bones
+|image = [[File:Ivar, King of Bones.png]]
+|release = [[23 March]] [[2026]]
+|update = Havenhythe Out Now
+|members = No
+|options = Attack, Examine
+|examine = He doesn't look very regal.
+|race = Hill giant
+|level = 206
+|lifepoints = 40000
+|slaylvl = 1
+|slayercat = Hill giants
+|slayxp = 610
+|aggressive = Yes
+|poisonous = No
+|max_melee = 1250
+|max_ranged = 1250
+|max_magic = 1250
+|max_necromancy = 0
+|max_spec = 
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack = 50
+|ranged = 50
+|magic = 50
+|necromancy = 
+|acc_melee = 750
+|acc_ranged = 750
+|acc_magic = 750
+|acc_necromancy = 0
+|armour = 850
+|defence = 40
+|weakness = Air
+|susceptibility = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|leagueRegion = Havenhythe
+|id = 32622
+|voice = Yes
+}}
+|text2 = Non-player character
+|item2 =
+{{Infobox NPC
+|version1 = Out of combat
+|version2 = Heralds of Crimson
+|name = Ivar, King of Bones
+|image = [[File:Ivar, King of Bones.png]]
+|release1 = [[23 March]] [[2026]]
+|release2 = [[28 September]] [[2026]]
+|update1 = Havenhythe Out Now
+|update2 = Havenhythe Part II out now!
+|members1 = No
+|members2 = Yes
+|race = Hill giant
+|quest1 = No
+|quest2 = [[Heralds of Crimson]]
+|location = [[Hollow Hill]]
+|leagueRegion = Havenhythe
+|gender = Male
+|options = Talk to, Examine
+|examine = He doesn't look very regal.
+|map = 
+|id1 = 32623
+|id2 = 32868
+}}
+}}
+[[File:Ivar, King of Bones chathead.png|left|100px]]
+'''Ivar, King of Bones''' is an early-game [[Bosses|boss]] on [[Havenhythe]], residing in [[Hollow Hill]] and requiring the completion of the quest [[Visions of Havenhythe]] to access. Ivar is a [[Hill Giant|hill giant]] and is designed to challenge new players to use defensive prayers. His drops include the [[bonecrusher maul]], a two-handed melee weapon that automatically crushes bones, a skull mask that gives a low level [[Magic]] bonus, as well as colossal bones, granting large amounts of [[Prayer]] experience.{{CiteNews|author=RuneScape Team|url=https://secure.runescape.com/m=news/a=13/the-roadmap-that-changes-runescape-forever|title=The Roadmap That Changes RuneScape Forever|newsdate=19 January 2026|name=roadmap2026}}{{CiteNews|author=RuneScape Team|url=https://secure.runescape.com/m=news/our-biggest-area-expansion-yet|title=Our Biggest Area Expansion Yet|newsdate=13 March 2026}}
+
+He is [[voice acting|voice acted]], and will mock nearby players to incite them to fight. Talking to him claims he is the highest servant of the [[Lord of Bones]] in the mortal realm. He is not popular among his people, as they all fear him when his name is mentioned.
+
+Obtaining all [[Boss collection log|unique rewards]] from Ivar completes the feat [[Deboned]] and awards the title {{TitleAnchor|the Boneless}}.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|x:4348,y:3424
+|loc=Hollow Hill, north-east part of [[Havenhythe]]
+|mem=no
+|levels=206
+|mapID=28
+|zoom=1|requirements={{QuestIcon|Visions of Havenhythe}}
+|dropVersion=Members,Free-to-play
+|leagueRegion=Havenhythe}}
+{{LocTableBottom}}
+
+==Instance information==
+{{Infobox instance
+|name = Bone pile
+|boss = {{Chatl|Ivar, King of Bones|pic=Ivar, King of Bones chathead}}
+|access = [[Bone pile (Hollow Hill)|Bone pile]]
+|grave = South of bone pile
+|timer = 10
+|notes = No non-instanced version available. [[Visions of Havenhythe]] is required to enter.
+}}
+
+==Strategy==
+{{Main|/Strategies}}
+
+==Drops (members)==
+{{DropLogProject|kills=1005}}
+
+===100%===
+{{DropsTableHead|version=Members}}
+{{DropsLine|name=Colossal bone|quantity=1|rarity=always|gemw=no}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead|version=Members}}
+{{DropsLine|name=Grimy harralander|quantity=1-3|rarity=7/128}}
+{{DropsLine|name=Grimy ranarr|quantity=1-3|rarity=11/128}}
+{{DropsLine|name=Grimy toadflax|quantity=1-3|rarity=9/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead|version=Members}}
+{{DropsLine|name=Toadflax seed|quantity=2|rarity=8/128}}
+{{DropsLine|name=Harralander seed|quantity=2|rarity=7/128}}
+{{DropsLine|name=Ranarr seed|quantity=1-2|rarity=7/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Members}}
+{{DropsLine|name=Big bones|quantity=10 (noted)|rarity=6/128}}
+{{DropsLine|name=Mithril stone spirit|quantity=5|rarity=10/128}}
+{{DropsLine|name=Gold stone spirit|quantity=10|rarity=9/128}}
+{{DropsLine|name=Willow logs|quantity=5-10 (noted)|rarity=7/128}}
+{{DropsLine|name=Death rune|quantity=5-10|rarity=7/128}}
+{{DropsLine|name=Steel arrowheads|quantity=10-20|rarity=8/128}}
+{{DropsLine|name=Maple plank|quantity=7-10 (noted)|rarity=7/128}}
+{{DropsLine|name=Limpwurt root|quantity=3 (noted)|rarity=7/128}}
+{{DropsLine|name=Snape grass|quantity=3 (noted)|rarity=8/128}}
+{{DropsLine|name=Earth battlestaff|quantity=1|rarity=4/128}}
+{{DropsLine|name=Rune chainbody|quantity=1|rarity=4/128}}
+{{DropsLine|name=Dragonstone amulet|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Unique===
+There is a 1/32 chance to roll an item from the unique items table (the chances below include this).
+{{DropsTableHead|version=Members}}
+{{DropsLine|name=Bonecrusher maul|quantity=1|rarity=1/64}}
+{{DropsLine|name=Magic skull mask|quantity=1|rarity=1/64}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead|version=Members}}
+{{DropsLine|name=Ivar's loincloth|quantity=1|rarity=1/1250|altrarity=10/1250|altraritydash=yes|gemw=no|alch=no|raritynotes={{DropNote|Has a base drop rate of 1/1250 with a [[Boss pets#Boss pets unlocked by item drops|threshold of 250]].}}}}
+{{DropsLine|name=Giant Champion's scroll|quantity=1|rarity=Very Rare}}
+{{DropsLine|name=Long bone|quantity=1|rarity=Very Rare}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=Very Rare}}
+{{DropsLine|name=Ivar's head|quantity=1|rarity=1/500|alch=no}}
+{{DropsTableBottom}}
+
+==Drops (free-to-play)==
+Note that Ivar may drop nothing if the player completes the burial of a [[colossal bone]] on the game tick Ivar's drops would normally appear.
+
+===100%===
+{{DropsTableHead|version=Free-to-play}}
+{{DropsLine|name=Colossal bone|quantity=1|rarity=always|gemw=no}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead|version=Free-to-play}}
+{{DropsLine|name=Grimy guam|quantity=3|rarity=Common}}
+{{DropsLine|name=Grimy tarromin|quantity=3|rarity=Common}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead|version=Free-to-play}}
+{{DropsLine|name=Potato seed|quantity=5|rarity=Common}}
+{{DropsLine|name=Onion seed|quantity=5|rarity=Common}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead|version=Free-to-play}}
+{{DropsLine|name=Fire rune|quantity=10-15|rarity=Uncommon}}
+{{DropsLine|name=Water rune|quantity=10-15|rarity=Uncommon}}
+{{DropsLine|name=Law rune|quantity=5-10|rarity=Uncommon}}
+{{DropsLine|name=Cosmic rune|quantity=5-10|rarity=Uncommon}}
+{{DropsLine|name=Nature rune|quantity=5-10|rarity=Uncommon}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead|version=Free-to-play}}
+{{DropsLine|name=Big bones|quantity=10 (noted)|rarity=Common}}
+{{DropsLine|name=Copper stone spirit|quantity=7|rarity=Common}}
+{{DropsLine|name=Tin stone spirit|quantity=7|rarity=Common}}
+{{DropsLine|name=Iron stone spirit|quantity=4-9|rarity=Common}}
+{{DropsLine|name=Steel arrowheads|quantity=10-15|rarity=Common}}
+{{DropsLine|name=Limpwurt root|quantity=3|rarity=Common}}
+{{DropsLine|name=Amulet of power|quantity=1|rarity=Uncommon}}
+{{DropsTableBottom}}
+
+===Unique===
+There is a 1/32 chance to roll an item from the unique items table (the chances below include this).
+{{DropsTableHead|version=Free-to-play}}
+{{DropsLine|name=Bonecrusher maul|quantity=1|rarity=1/64}}
+{{DropsLine|name=Magic skull mask|quantity=1|rarity=1/64}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead|version=Free-to-play}}
+{{DropsLine|name=Ivar's loincloth|quantity=1|rarity=1/1250|altrarity=10/1250|altraritydash=yes|gemw=no|alch=no|raritynotes={{DropNote|Has a base drop rate of 1/1250 with a [[Boss pets#Boss pets unlocked by item drops|threshold of 250]].}}}}
+{{DropsTableBottom}}
+
+==Achievements==
+===Ivar, King of Bones achievements===
+{{Main|Ivar, King of Bones achievements}}
+* {{Achievement|Ivar, King of Bones (achievement)}}
+* Broken Bones:
+** {{Achievement|Broken Bones I}}
+** {{Achievement|Broken Bones II}}
+** {{Achievement|Broken Bones III}}
+** {{Achievement|Broken Bones IV}}
+** {{Achievement|Broken Bones V}}
+** {{Achievement|Broken Bones VI}}
+* {{Achievement|Big Gains Hunter}}
+* {{Achievement|The Skeleton Dance}}
+* {{Achievement|Protect From Ivar}}
+
+===Boss Pet===
+{{Main|Boss Pets achievements}}
+* {{Achievement|Ivarsson (achievement)}}
+
+===Boss Log===
+{{Main|Boss Logs achievements}}
+* {{Achievement|Deboned}}
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+==Mentioned==
+{{MentionedIn}}
+
+==Gallery==
+<gallery mode="packed" heights="180">
+File:Ivar, King of Bones concept art.jpg|Concept art
+File:Ivar concept art 2.png|Concept art
+Our Biggest Area Expansion Yet (18) update image.jpg|Ivar, King of Bones, as depicted in the [[Update:Our Biggest Area Expansion Yet|newspost]]
+File:Our Biggest Area Expansion Yet (19) update image.jpg|Player with the bonecrusher maul
+</gallery>
+
+==Credits==
+{{Infobox Credits
+|name = Ivar, King of Bones
+|developer = [[Mod Rowley]]{{CiteVideo|url=2731483109|site=Twitch|timestamp=08:08|date=25 March 2026|title=It's for a RuneSkill & Chat with (some of) the team behind Havenhythe!|author=Mod Luma|quote=And Mod Rowley worked on the bosses and general narrative contributions as well.|archiveurl=https://archive.org/details/its-for-a-runeskill-chat-with-some-of-the-team-behind-havenhythe|archivedate=25 March 2026}}
+|qa = [[Mod Forza]]
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Game Jam QoL, Simpler Enrage Scaling & More!|date=20 April 2026}}
+** The boss portals in War's retreat now allow F2P players to access the Ivar boss encounter.
+
+* {{UL|type=patch|update=Blooming Burrow Returns!|date=30 March 2026}}
+** We have made some mechanical changes to the Ivar, King of Bones boss fight:
+*** Boss timer now starts as soon as Ivar spawns.
+*** Reduced the time for his initial attack delay from 6s to 3.6s to allow the fight to feel more fluid.
+*** Ivar now uses his special attacks in a random rotation, rather than performing them in a set order. This allows lower level players to hone their abilities through reactive gameplay, rather than learning a fixed rotation.
+*** Dialogue for Ivar's special attacks will now appear in the chat.
+*** Ivar will now perform dialogue before his Ranged and Melee attacks. In combination with the above, this provides an audio queue for which special attack will occur.
+*** Conk Blast's projectile will appear earlier, giving you more time to visibly react to the attack.
+*** Telegraphing for his Ranged and Magic special attacks have been modified to more accurately reflect the duration of the attack.
+** When receiving a unique drop from Silverquill or Ivar. The broadcast message would be sent twice, instead of once.
+** Fixed Colossal Bones as they were not operating like other bones. Upon burial, they were not getting counted as a daily challenge, could not roll for holy shards or the skill pet.
+** Ivar, King of Bones's colossal bone drop is no longer capped at 100. They are now just his 100% death drop. (They continue to not work with bonecrushers, however.)
+** Ivar, King of Bones's unique drops are now all F2P! This includes the bonecrusher maul, magic skull mask, colossal bones and his pet drop.
+** Ivar, King of Bones's maul and mask drops have had their drop rates increased, and their alch values have been increased to give them a higher floor price.
+** Replaced 'Grimy Marentill' with 'Grimy Guam' from ivar's droptables on F2P worlds since 'Grimy Marentill' is a members-only item.
+
+* {{UL|type=update|update=Havenhythe Out Now|date=23 March 2026}}
+** Added to game.
+}}
+
+==Trivia==
+* His name is an inversion of {{Wp|Ivar the Boneless}}, a legendary Norse king. The title received for completing the collection log is "the Boneless".
+* His combat level and the achievement [[The Skeleton Dance]] both reference 206, typically cited as the total number of bones in a regular adult human skeleton.
+* His dialogue "You scared?" may be a reference to the song ''Never Scared'' by Bone Crusher.
+* His magic special attack, Conk Blast, may be a reference to the common slang term for [[Concentrated Blast]].
+* The [[Bones (Hollow Hill)|bones]] surrounding Ivar's arena have different examine texts if examined multiple times. They cycle as follows each time they are examined: "Some bones." "Even more bones." "Lots of bones." "A crazy amount of  bones." "You guessed it...more bones" "Oh wow, more bones." "Another load of bones." "Bones." "Still at it are we? Guess what. MORE BONES." "LOTS OF BONES." "Okay, you can stop examining bones now." (Repeats the "Some bones." examine until a 15th examine) "They say we don't do examines...but here we are. It's some bones. For real. No more." (cycle repeats after this)
+
+==References==
+{{Reflist}}
+
+{{Giants}}
+{{Heralds of Crimson}}
+{{Hollow Hill}}
+{{Soul Reaper}}
+[[pt:Ivar, Rei dos Ossos]]
+[[Category:Free-to-play bosses]]

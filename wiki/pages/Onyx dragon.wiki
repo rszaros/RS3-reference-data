@@ -1,0 +1,224 @@
+{{Otheruses|def=no|the Dragonkin Laboratory monster|Onyx dragon (Dragonkin Laboratory)}}
+{{Incomplete|Spirit weed seeds (on task) & Inert adrenaline crystals added to Gemstone dragons drop tables [[https://secure.runescape.com/m=news/july-quest-qol-and-game-health-update---this-week-in-runescape|July Quest Qol and Game Health Update - This Week In RuneScape]]}}
+{{Infobox Monster
+|name = Onyx dragon
+|image = [[File:Onyx dragon.png|300px]]
+|release = [[3 April]] [[2017]]
+|update = Gemstone Dragons - Documentary Airs 9th April
+|members = Yes
+|options = Attack
+|size = 4
+|examine = A dragon decorated in onyx gems.
+|level = 126
+|lifepoints = 50000
+|experience = 2500.0
+|aggressive = yes
+|poisonous = No
+|slaylvl = 98
+|slayxp = 1858.8
+|slayercat = Dragons, gemstone dragons, onyx dragons
+|max_melee = 1653
+|max_ranged = 0
+|max_magic = 1653
+|max_necromancy = 0
+|max_spec = 1653.8
+|style = magic,melee,dragonfire
+|primarystyle = magic
+|speed = 5
+|attack = 90
+|ranged = 90
+|magic = 90
+|necromancy = 1
+|acc_melee = 2458
+|acc_ranged = 0
+|acc_magic = 2458
+|acc_necromancy = 0
+|armour = 2458
+|defence = 90
+|weakness = Arrows
+|susceptibility = dragon bane, dragon slayer
+|aff_weakness = 90
+|aff_melee = 25
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = no
+|immune_to_stun = no
+|immune_to_drain = no
+|leagueRegion = Karamja,Wilderness
+|id = 24171, 29347
+}}
+[[File:Onyx dragon icon.png|left]]
+'''Onyx dragons''' are high-level Slayer monsters requiring level 98 [[Slayer]] to be harmed. They are part of the [[Gemstone dragons|gemstone dragon]] group, and are the second strongest dragon of this type.
+
+A total of six onyx dragons are located in the [[gemstone cavern]] under the [[Shilo Village mine]]. They require the completion of the [[hard Karamja achievements]] in order to access them in the gemstone cavern underneath. In order to pass the barrier to confront them, players are also required to sacrifice a number of [[uncut dragonstone]], [[uncut onyx]], or [[uncut hydrix]] gems - with each gem type allowing the player to kill a certain number of dragons within their respective chamber; up to a limit of storing 60,000 kills at a time.
+
+If the player is on a Slayer task for gemstone dragons, however, they may enter the gemstone cavern without the need for charges, and, if the player has already donated gems for charges, the charges will not be consumed while on-task. 
+
+{| class="wikitable"
+|+ Entrance fee to killing onyx dragons
+|-
+! Uncut gem
+! Kills per gem
+! Cost per kill
+|-
+| {{Plink|Uncut dragonstone}}
+| 2
+| {{NoCoins|{{GEPrice|Uncut dragonstone|.5|round=0}}}}
+|-
+| {{Plink|Uncut onyx}}
+| 400
+| {{NoCoins|{{GEPrice|Uncut onyx|.0025|round=0}}}}
+|-
+| {{Plink|Incomplete hydrix}}
+| 4000
+| {{NoCoins|{{GEPrice|Incomplete hydrix|.00025|round=0}}}}
+|}
+
+No fees are required to kill the onyx dragons in the [[Wilderness]]. Killing onyx dragons at either location in the [[Wilderness]] does not require any kind of fee whatsoever.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Gemstone cavern]]
+|lvls=126
+|mem=yes
+|requirements = {{plink|Hard Karamja achievements|pic=Karamja - Hard achievement icon|size=25}}
+|mapID=-1
+|npcid:24171,x:2959,y:9048|npcid:24171,x:2963,y:9041|npcid:24171,x:2970,y:9034|npcid:24171,x:2970,y:9047|npcid:24171,x:2981,y:9039|npcid:24171,x:2986,y:9052
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc=[[Wilderness]]
+|lvls=126
+|mem=yes
+|mapID=28
+|npcid:24171,x:3236,y:3780|npcid:24171,x:3264,y:3785|npcid:24171,x:3257,y:3778|npcid:24171,x:3264,y:3803|npcid:24171,x:3261,y:3835|npcid:24171,x:3253,y:3824|npcid:24171,x:3260,y:3816|npcid:24171,x:3219,y:3806
+|leagueRegion = Wilderness
+}}
+{{LocLine
+|loc=[[Deep Wilderness Dungeon]]
+|lvls=126
+|mem=yes
+|mapID=562
+|npcid:24171,x:3018,y:10323|npcid:24171,x:3025,y:10329
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Strategies==
+Onyx dragons attack primarily with magic, although they will use both magic and melee if within melee range in addition to the regular dragonfire attack.
+
+Onyx dragons periodically use a special attack which steals some of the player's [[life points]] and heals the dragon for 5,000 life points. The attack is signified by black spikes moving towards the player's location. When the spikes reach their destination, they erupt in a 3 by 3 area of effect (AoE). Moving out of this area before the spikes erupt negates the effect of this attack. They will only use this special attack against targets outside of their melee range.
+
+[[Resonance]] may be used to heal from their special attack, but the attack will still heal the dragon. Of all the gemstone dragons' special attacks, this attack's effect is the least punishing, so it may be safer to do so with these dragons. Beware that overuse of Resonance to block the special attack over the course of the task results in having to deal a lot more damage to complete it. Similarly, [[Devotion]] may be used with [[Protect from Magic|Protect]] / [[Deflect Magic]] to block the attack's damage, but this does not prevent the attack from healing the dragon.
+
+If the dragon dies before the special attack hits, the attack deals no damage.
+
+It is possible to kill onyx dragons with an [[aggression potion]] active and while not paying attention to the possible special attacks rather safely by placing an onyx dragon soul in their own [[Sunken Pyramid#Slayer Dungeon|Slayer dungeon]] and standing on top of the dragon's spawn point. This makes it likely that the dragon targets the player before it gets out of melee distance, and thus prevents it from using its special attacks.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Hardened dragon bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Unique===
+{{DropsTableHead}}
+{{DropsLine|name=Gemstone helm|quantity=1|rarity=1/5000|altrarity=1/2000|raritynotes={{DropNote|name=gemstone|group=d|1/2,000 chance during a [[Slayer assignment]]; 1/5,000 chance otherwise. This drop rate is per kill and not per loot pile.}}|citations={{CiteTwitter|author=Mod Ramen|url=https://twitter.com/JagexRamen/status/1506223812626554887|quote=<br>Gemstone dragons death:<br><br>Rare chance off task=2500<br>
+Rare chance on task=1000<br><br>Dragonstone dragons drop: Boots or Gloves (50/50)<br>Onyx dragons drop: Legs or Helm (50/50)<br>Hydrix dragons drop: Body only|date=22 March 2022|archiveurl=https://reldo.runescape.wiki/i/97841|archivedate=22 March 2022|name=gemstonerates}}}}
+{{DropsLine|name=Gemstone greaves|quantity=1|rarity=1/5000|altrarity=1/2000|raritynotes={{DropNote|name=gemstone}}|citations={{NamedRef|gemstonerates}}}}
+{{DropsTableBottom}}
+
+===Jewellery===
+{{DropsTableHead}}
+{{DropsLine|name=Ring of duelling (8)|quantity=2|rarity=10/128|altrarity=12/128|raritynotes={{DropNote|12/128 when on an appropriate [[Slayer assignment]]; 10/128 otherwise.}}|rolls=2}}
+{{DropsLine|name=Ring of life|quantity=1|rarity=10/128|altrarity=12/128|raritynotes={{DropNote|12/128 when on an appropriate [[Slayer assignment]]; 10/128 otherwise.}}|rolls=2}}
+{{DropsLine|name=Dragonstone ring|quantity=1|rarity=6/128|raritynotes={{DropNote|name=offtask|Only when not on an appropriate [[Slayer assignment]].}}|rolls=2}}
+{{DropsTableBottom}}
+
+===Gems===
+{{DropsTableHead}}
+{{DropsLine|name=Sapphire|quantity=5-7 (noted)|rarity=11/128|altrarity=14/128|raritynotes={{DropNote|14/128 when on an appropriate [[Slayer assignment]]; 11/128 otherwise.}}|rolls=2}}
+{{DropsLine|name=Ruby|quantity=2 (noted)|rarity=10/128|altrarity=8/128|raritynotes={{DropNote|8/128 when on an appropriate [[Slayer assignment]]; 10/128 otherwise.}}|rolls=2}}
+{{DropsLine|name=Diamond|quantity=1 (noted)|rarity=12/128|rolls=2}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=1000, 1500|quantitynotes={{DropNote|name=qty|The first quantity applies when on an appropriate [[Slayer assignment]], while the second quantity applies outside an appropriate assignment.}}|rarity=16/128|rolls=2}}
+{{DropsLine|name=Coins|quantity=2000, 3000|quantitynotes={{DropNote|name=qty}}|rarity=10/128|rolls=2}}
+{{DropsLine|name=Coins|quantity=8000, 9000|quantitynotes={{DropNote|name=qty}}|rarity=4/128|rolls=2}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Ruby bolt tips|quantity=35-45, 40-60|quantitynotes={{DropNote|name=qty}}|rarity=10/128|rolls=}}
+{{DropsLine|name=Onyx bolt tips|quantity=1|rarity=5/128|altrarity=6/128|raritynotes={{DropNote|6/128 when on an appropriate [[Slayer assignment]]; 5/128 otherwise.}}|rolls=}}
+{{DropsLine|name=Gold stone spirit|quantity=15-25, 30|quantitynotes={{DropNote|name=qty}}|rarity=14/128|rolls=2}}
+{{DropsLine|name=Rune bolts|quantity=4, 6|rarity=10/128|raritynotes={{DropNote|name=qty}}|rolls=2}}
+{{DropsLine|name=Spirit weed seed|quantity=1|rarity=1/32|raritynotes={{DropNote|name=qty}}|rolls=}}
+{{DropsLine|name=Inert adrenaline crystal|quantity=1|rarity=1/32|raritynotes={{DropNote|name=qty}}|rolls=}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/150}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|slayer_level=98}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Onyx|quantity=1|rarity=1/5000|altrarity=1/7500|raritynotes={{DropNote|1/7,500 when on an appropriate [[Slayer assignment]]; 1/5,000 otherwise.}}}}
+{{DropsLine|name=Draconic visage|quantity=1|rarity=1/10000|citations={{CiteForum|author=Mod Timbo|url=https://secure.runescape.com/m=forum/sl=0/forums?74,75,52,65949497,goto,21#205|title=Dev Blog: Revealing Drop Rates|forum=Existing Game Content|quote=All draconic visage chances are 1/10,000 except for Celestial, Adamant, Rune Dragons, Abomination boss, Arhat and Anagami.|postdate=17 November 2017|archiveurl=https://reldo.runescape.wiki/i/19727921|archivedate=16 April 2022}}}}
+{{DropsLineEffigy|level=126}}
+{{DropsLineMimic|level=126}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.579/1000
+|green = 268.737/1000
+|crimson = 67.184/1000
+|blue = 13.437/1000
+}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=126}}
+
+==Transcript==
+{{Hastranscript|npc}}
+
+==Achievement==
+* {{Achievement|Jungle Predator}}
+** [[Gemstone helm]] and [[Gemstone greaves|greaves]] drops
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Base hit chances increased:
+*** Ranged: 65 → 70
+*** Magic: 55 → 60
+
+* {{UL|type=update|update=July Quest Qol and Game Health Update - This Week In RuneScape|date=14 July 2025}}
+** Added new sources for Spirit Weed Seeds, Inert Adrenaline Crystals and Sirenic Scales across various Slayer monsters:
+*** Spirit Weed seeds - Automatons, Strykewyrms, Turoths, Gemstone Dragons (on task), Brutish Dinosaurs, Grotworms, Moss Giants, Flesh Crawlers, Cockatrices, Kurask and Rare Seed Drop Table.
+*** Inert Adrenaline Crystals - Gemstone Dragons, Brutish Dinosaurs, Liverworts and Wilderness Slayer Chest.
+
+* {{UL|type=patch|update=300 Million Party & DXP! - This Week In RuneScape|date=8 August 2022}}
+** Replaced two of the onyx dragons in the [[Deep Wilderness Dungeon]] with [[dragonstone dragon]]s.
+
+* {{UL|type=update|update=Gemstone Dragons - Documentary Airs 9th April|date=3 April 2017}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Gemstone dragons}}
+{{Dragon}}
+{{Slayer monsters}}

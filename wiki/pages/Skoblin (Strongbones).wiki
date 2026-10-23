@@ -1,0 +1,73 @@
+{{External|os=Skoblin}}
+{{Infobox Monster
+|name = Skoblin
+|image = [[File:Skoblin (Strongbones).png|200px]]
+|release = [[12 November]] [[2007]]
+|update = Land of the Goblins
+|members = Yes
+|options = Attack
+|examine = A skeletal goblin.
+|level = 14
+|lifepoints = 500
+|experience = 25.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Goblins, Skeletons, Undead
+|max_melee = 40
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 10
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee = 202
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 202
+|defence = 10
+|weakness = Earth
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = quest
+|id = 6468
+}}
+'''Skoblins''' are summoned by [[Strongbones]] during the quest [[Land of the Goblins]] and the miniquest [[Hopespear's Will]]. They will not be summoned if [[Protect from Summoning|Protect from]]/[[Deflect Summoning]] is activated. If you activate Protect from/Deflect Summoning after the Skoblins have been summoned, the damage they do will be nullified.
+
+==Drops==
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=update|update=Land of the Goblins|date=12 November 2007}}
+** Added to game.
+}}
+
+{{Land of the Goblins}}
+{{Skeleton}}
+{{Goblins}}
+[[Category:Bandosians]]
+[[Category:Quest monsters]]

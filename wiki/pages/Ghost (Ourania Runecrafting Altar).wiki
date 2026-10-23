@@ -1,0 +1,112 @@
+{{External|os=Ghost (Grave of Scorpius)|rsc=Ghost (Grave of Scorpius)}}
+{{Infobox Monster
+|name = Ghost
+|image = Ghost (Ourania Runecrafting Altar).png
+|release = [[17 March]] [[2003]]
+|update = Observatory Quest online!
+|members = Yes
+|options = Attack, Talk to, Examine
+|race = Ghost
+|examine = Spooky.
+|level = 28
+|lifepoints = 1000
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 11.4
+|slayercat = Ghosts, Undead
+|max_melee = 60
+|max_ranged = 0
+|max_magic = 80
+|max_necromancy = 0
+|max_spec = 0
+|style = Magic
+|primarystyle = Magic
+|speed = 4
+|attack = 15
+|ranged = 0
+|magic = 20
+|necromancy = 1
+|acc_melee = 257
+|acc_ranged = 0
+|acc_magic = 316
+|acc_necromancy = 0
+|abilities = No
+|armour = 316
+|defence = 20
+|weakness = Bolt
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = No
+|leagueRegion = Kandarin
+|id = 491
+}}
+[[File:Ghost (Ourania Runecrafting Altar) chathead.png|left|80px]]
+The '''ghosts''' are level 28 undead monster that is found in [[Ourania Runecrafting Altar]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc = [[Ourania Runecrafting Altar]]
+|lvls = 28
+|mem = Yes
+|mapID = 28
+|npcid:491,x:2460,y:3223
+|npcid:491,x:2464,y:3223
+|npcid:491,x:2465,y:3220
+|npcid:491,x:2468,y:3221
+|npcid:491,x:2469,y:3226
+|npcid:491,x:2476,y:3223
+|leagueRegion = Kandarin
+}}
+{{LocTableBottom}}
+
+==Drops==
+===Main drops===
+{{DropsTableHead}}
+{{DropsTableBottom}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLineGhosts}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=hidden|update=Stellar Born - New Star Sprite Quest! - This Week In RuneScape|date=6 October 2025}}
+** The "Talk-to" option has been renamed to "Talk to".
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (16 April 2018)|date=16 April 2018}}
+** Ghosts in F2P are once again able to drop the Cremation ability and ghost hunter outfit.
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Zombies, skeletons and ghosts have been graphically updated.
+
+* {{UL|type=update|update=Observatory Quest online!|date=17 March 2003}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Ghost}}
+{{Ourania}}

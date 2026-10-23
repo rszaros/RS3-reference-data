@@ -1,0 +1,195 @@
+{{Otheruses|def=no|other uses|Skeleton (disambiguation)}}
+{{Infobox Monster
+|name = Skeletal hand
+|image = [[File:Skeletal hand.png|250px]]
+|release = [[22 April]] [[2008]]
+|update = Myreque Part IV - Legacy of Seergaze
+|members = Yes
+|options = Attack
+|examine = A giant, skeletal hand. I don't think I should offer to shake hands.
+|level = 63
+|lifepoints = 8400
+|aggressive = No
+|poisonous = No
+|slaylvl = 5
+|slayxp = 102.8
+|slayercat = Crawling hands, Skeletons, Undead
+|max_melee = 800
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 40
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 528
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 850
+|defence = 50
+|weakness = Fire
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 7640
+}}
+[[File:Skeletal hand icon.png|left]]
+'''Skeletal hands''' are [[Slayer monsters]] found in the [[Meiyerditch tunnels]], together with [[mutated bloodveld]] and [[zombie hand]]s. They require level 5 [[Slayer]] to kill. Even though it's not aggressive by itself, at any time when players are in the dungeon, one might fall from the ceiling or crawl from underground and start attacking you. The Meiyerditch tunnels can only be accessed during and after [[Legacy of Seergaze]].
+
+Skeletal hands may be killed to complete [[Crawling hands (Slayer assignment)|crawling hands]], [[Skeletons (Slayer assignment)|skeletons]], and [[Undead (Slayer assignment)|undead Slayer assignment]]. Attacking skeletal hands will occasionally cause skeletal hands hanging from ceiling or buried in the ground to appear and attack you.
+
+Players should use a [[Mask of Broken Fingers]] (or its helm variant [[Helm of the Dead Hand]]) to kill these, especially when on a slayer assignment, to take advantage of its benefits.
+
+Players can obtain a soul of a crawling hand for the [[Slayer Codex]] from this creature when using an [[ushabti]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Meiyerditch tunnels]]
+|lvls=63
+|mem=yes
+|requirements = Partial completion of {{AchievementIcon|Legacy of Seergaze}}
+|mapID=41
+|npcid:7640,x:3608,y:9780|npcid:7640,x:3610,y:9777|npcid:7640,x:3613,y:9772
+|npcid:7640,x:3617,y:9748|npcid:7640,x:3617,y:9758|npcid:7640,x:3621,y:9751
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black sq shield|quantity=1|rarity=96/2316}}
+{{DropsLine|name=Black kiteshield|quantity=1|rarity=86/2316}}
+{{DropsLine|name=Dark mystic gloves|quantity=1|rarity=2/2316}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Cosmic rune|quantity=3|rarity=99/2316}}
+{{DropsLine|name=Death rune|quantity=3|rarity=99/2316}}
+{{DropsLine|name=Blood rune|quantity=1|rarity=14/2316}}
+{{DropsLine|name=Dust rune|quantity=3|rarity=48/2316}}
+{{DropsLine|name=Mist rune|quantity=3|rarity=50/2316}}
+{{DropsLine|name=Smoke rune|quantity=3|rarity=53/2316}}
+{{DropsLine|name=Steam rune|quantity=3|rarity=58/2316}}
+{{DropsTableBottom}}
+
+===Jewellery===
+{{DropsTableHead}}
+{{DropsLine|name=Gold bracelet|quantity=1|rarity=99/2316}}
+{{DropsLine|name=Sapphire bracelet|quantity=1|rarity=99/2316}}
+{{DropsLine|name=Bracelet of clay|quantity=1|rarity=99/2316}}
+{{DropsLine|name=Castle wars brace (3)|quantity=1|rarity=18/2316}}
+{{DropsLine|name=Emerald bracelet|quantity=1|rarity=99/2316}}
+{{DropsLine|name=Ruby ring|quantity=1|rarity=22/2316}}
+{{DropsLine|name=Ruby bracelet|quantity=1|rarity=76/2316}}
+{{DropsLine|name=Forinthry bracelet (5)|quantity=1|rarity=34/2316}}
+{{DropsLine|name=Diamond bracelet|quantity=1|rarity=6/2316}}
+{{DropsLine|name=Diamond ring|quantity=1|rarity=4/2316}}
+{{DropsLine|name=Dragonstone bracelet|quantity=1|rarity=2/2316}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy ranarr|quantity=1|rarity=3/2316}}
+{{DropsLine|name=Grimy toadflax|quantity=1|rarity=38/2316}}
+{{DropsLine|name=Grimy kwuarm|quantity=1|rarity=10/2316}}
+{{DropsLine|name=Grimy irit|quantity=1|rarity=44/2316}}
+{{DropsLine|name=Grimy avantoe|quantity=1|rarity=46/2316}}
+{{DropsLine|name=Grimy dwarf weed|quantity=1|rarity=3/2316}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{DropsTableHead}}
+{{DropsLine|name=Tomato seed|quantity=3|rarity=99/2316}}
+{{DropsLine|name=Limpwurt seed|quantity=3|rarity=65/2316}}
+{{DropsLine|name=Sweetcorn seed|quantity=3|rarity=42/2316}}
+{{DropsLine|name=Whiteberry seed|quantity=1|rarity=99/2316}}
+{{DropsLine|name=Poison ivy seed|quantity=1|rarity=30/2316}}
+{{DropsLine|name=Jangerberry seed|quantity=3|rarity=56/2316}}
+{{DropsLine|name=Strawberry seed|quantity=3|rarity=62/2316}}
+{{DropsLine|name=Cave nightshade seed|quantity=3|rarity=70/2316}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Fishing bait|quantity=10|rarity=96/2316}}
+{{DropsLine|name=Steel nails|quantity=20|rarity=96/2316}}
+{{DropsLine|name=Black nails|quantity=10|rarity=96/2316}}
+{{DropsLine|name=Mithril stone spirit|quantity=1|rarity=86/2316}}
+{{DropsLine|name=Small bladed steel salvage|quantity=1|rarity=86/2316}}
+{{DropsLine|name=Coins|quantity=750|rarity=26/2316}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Hand bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=no}}
+{{DropsLine|name=Crawling hand (item)|quantity=1|rarity=1/500|gemw=No}}
+{{DropsLineEffigy|level=63}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=63}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 235.145/1000
+|green = 16.796/1000
+|crimson = 16.796/1000
+|blue = 3.359/1000
+}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Skeletal hand buried.png|A buried skeletal hand
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low-level monsters that were harder to kill than intended.
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Updated Undead Slayer categories gamewide.
+
+* {{UL|type=update|update=Myreque Part IV - Legacy of Seergaze|date=22 April 2008}}
+** Added to game.
+}}
+
+==Trivia==
+* This monster may drop from the ceiling or emerge from the floor, à la wallmasters/floormasters from the {{Wp|The Legend of Zelda (series)|The Legend of Zelda series}}.
+* Despite having no flesh, they can still drop corpses.
+
+{{Slayer monsters}}
+{{Skeletons}}
+[[Category:Tier 1 luck]]

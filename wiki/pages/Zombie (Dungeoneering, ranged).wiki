@@ -1,0 +1,179 @@
+{{Infobox Monster
+|version1 = 1
+|version2 = 14
+|version3 = 28
+|version4 = 42
+|version5 = 56
+|version6 = 70
+|version7 = 82
+|version8 = 96
+|version9 = 110
+|version10 = 124
+|version11 = 138
+|name = Zombie
+|image = [[File:Zombie (Dungeoneering, ranged).png|x280px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|actions = Attack, Mark, Examine
+|race = Zombie
+|examine = A walking, rotten corpse.
+|level1 = 1
+|level2 = 14
+|level3 = 28
+|level4 = 42
+|level5 = 56
+|level6 = 70
+|level7 = 82
+|level8 = 96
+|level9 = 110
+|level10 = 124
+|level11 = 138
+|lifepoints1 = 100
+|lifepoints2 = 1000
+|lifepoints3 = 2000
+|lifepoints4 = 3000
+|lifepoints5 = 4000
+|lifepoints6 = 5000
+|lifepoints7 = 5900
+|lifepoints8 = 6900
+|lifepoints9 = 7900
+|lifepoints10 = 8900
+|lifepoints11 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Zombies, Creatures of Daemonheim
+|max_melee = 0
+|max_ranged1 = 5
+|max_ranged2 = 50
+|max_ranged3 = 100
+|max_ranged4 = 150
+|max_ranged5 = 200
+|max_ranged6 = 250
+|max_ranged7 = 295
+|max_ranged8 = 345
+|max_ranged9 = 395
+|max_ranged10 = 445
+|max_ranged11 = 495
+|max_magic = 0.0
+|max_necromancy = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 5
+|attack = 1
+|ranged1 = 1
+|ranged2 = 10
+|ranged3 = 20
+|ranged4 = 30
+|ranged5 = 40
+|ranged6 = 50
+|ranged7 = 59
+|ranged8 = 69
+|ranged9 = 79
+|ranged10 = 89
+|ranged11 = 99
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged1 = 110
+|acc_ranged2 = 202
+|acc_ranged3 = 316
+|acc_ranged4 = 454
+|acc_ranged5 = 628
+|acc_ranged6 = 850
+|acc_ranged7 = 1101
+|acc_ranged8 = 1447
+|acc_ranged9 = 1876
+|acc_ranged10 = 2400
+|acc_ranged11 = 3031
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 202
+|armour3 = 316
+|armour4 = 454
+|armour5 = 628
+|armour6 = 850
+|armour7 = 983
+|armour8 = 1070
+|armour9 = 1132
+|armour10 = 1229
+|armour11 = 1486
+|defence1 = 1
+|defence2 = 10
+|defence3 = 20
+|defence4 = 30
+|defence5 = 40
+|defence6 = 50
+|defence7 = 59
+|defence8 = 69
+|defence9 = 79
+|defence10 = 89
+|defence11 = 99
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10375
+|id2 = 10376
+|id3 = 10377
+|id4 = 10378
+|id5 = 10379
+|id6 = 10380
+|id7 = 10381
+|id8 = 10382
+|id9 = 10383
+|id10 = 10384
+|id11 = 10385
+|leagueRegion = Wilderness
+}}
+'''Zombies''' in [[Daemonheim]] attack with either melee or ranged and can be found on [[abandoned 1 floor|abandoned 1]] and [[abandoned 2 floor|2]], [[occult floor|occult]] and [[warped floor]]s. They have high life points while having rather poor [[defence]].
+
+Possibly the most commonly seen variant, they wield two hatchets and they attack by throwing axes at players. They're rather inaccurate but powerful. Upon defeat, they will occasionally drop hatchets of varying tiers depending on what level the zombie was. They are weak to slashing weapons so a [[battleaxe]] or [[2h sword|two-handed sword]] will make short work of them.
+
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}} 
+{{DropsTableBottom}}
+
+===Hatchets===
+The hatchet dropped depends on its combat level. 
+{{DropsTableHead}}
+{{DropsLine|name=Novite hatchet|quantity=1|rarity=Uncommon|gemw=no}}
+{{DropsLine|name=Bathus hatchet|quantity=1|rarity=Uncommon|gemw=no}}
+{{DropsLine|name=Marmaros hatchet|quantity=1|rarity=Uncommon|gemw=no}}
+{{DropsLine|name=Kratonite hatchet|quantity=1|rarity=Uncommon|gemw=no}}
+{{DropsLine|name=Fractite hatchet|quantity=1|rarity=Uncommon|gemw=no}}
+{{DropsLine|name=Zephyrium hatchet|quantity=1|rarity=Uncommon|gemw=no}}
+{{DropsLine|name=Argonite hatchet|quantity=1|rarity=Uncommon|gemw=no}}
+{{DropsLine|name=Katagon hatchet|quantity=1|rarity=Uncommon|gemw=no}}
+{{DropsLine|name=Gorgonite hatchet|quantity=1|rarity=Uncommon|gemw=no}}
+{{DropsLine|name=Promethium hatchet|quantity=1|rarity=Uncommon|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+{{Zombie}}

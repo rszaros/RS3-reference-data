@@ -1,0 +1,102 @@
+{{otheruses|Uncharted Isles|others|Zombie (disambiguation)}}
+{{Infobox Monster
+|version1 = Male
+|version2 = Female
+|version3 = Aggressive
+|name = Zombie
+|image = [[File:Zombie (Ashdale) v4.png|200px]]
+|image2 = [[File:Zombie (Ashdale) v3.png|200px]]
+|release = [[25 July]] [[2016]]
+|update = The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit
+|members = Yes
+|actions = Attack
+|examine = A reanimated corpse.
+|aggressive = No
+|poisonous = No
+|level = 93
+|experience = 236
+|lifepoints = 1000
+|lifepoints3 = 4950
+|slaylvl = 1
+|slayxp = 
+|slayercat = Zombies
+|assigned_by = Turael, Vannaka
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|style = Melee
+|speed = 4
+|max_melee = 1515
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|weakness = Slash
+|armour = 1372
+|acc_melee = 1372
+|acc_ranged = 0
+|acc_magic = 0
+|aff_weakness = 1000
+|aff_melee = 1000
+|aff_ranged = 1000
+|aff_magic = 1000
+|attack = 67
+|defence = 67
+|ranged = 67
+|magic = 67
+|leagueRegion = Asgarnia
+}}
+'''Zombies''' are [[monster]]s that can be found randomly on [[Uncharted Isles]], alongside [[Armoured zombie (Uncharted Isles)|armoured versions]]. They may be killed for combat experience and [[chimes]]. While not aggressive, they are accurate and can hit hard if players are unprepared for combat. The zombies are usually found in large groups making it very dangerous to use area-of-effect attacks or abilities against them.
+
+Attacking the zombies will scale their [[life points]] and combative abilities to the player's own combat level.
+
+The zombies will always be found near an overturned [[Potions (Uncharted Isles)|cauldron with potions]] laying about; this acts as their respawn point.
+
+During [[Final Destination]], the player encounters zombies that are identical to those found on Uncharted Isles but grant no experience.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Amulet of magic|quantity=1|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Ammunition===
+{{DropsTableHead}}
+{{DropsLine|name=Iron arrow|quantity=5-30|rarity=20/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny bladed iron salvage|quantity=1|rarity=11/128}}
+{{DropsLine|name=Tiny bladed steel salvage|quantity=1|rarity=11/128}}
+{{DropsLine|name=Tiny bladed mithril salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Tiny bladed adamant salvage|quantity=1|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Chimes|image=Chimes 1.png|quantity=2-4|rarity=64/128|gemw=No}}
+{{DropsLine|name=Bones|quantity=1-4 (noted)|rarity=6/128}}
+{{DropsLine|name=Keg of beer|quantity=1|rarity=3/128}}
+{{DropsLine|name=Fishing rod|quantity=1-2 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=The Arc & Uncharted Isles - Invention XP - Flourishing Fairy Outfit|date=25 July 2016}}
+** Added to game.
+}}
+
+{{Final Destination}}
+{{Uncharted Isles}}
+{{Zombie}}
+[[Category:NPCs that can move at crawling speed]]

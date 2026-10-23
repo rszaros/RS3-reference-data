@@ -1,0 +1,155 @@
+{{Infobox Monster
+|version1 = 1
+|version2 = 11
+|version3 = 21
+|version4 = 30
+|version5 = 40
+|version6 = 50
+|version7 = 60
+|version8 = 70
+|name = Summoner
+|image = [[File:Summoner.png|200px]]
+|release = [[14 June]] [[2011]]
+|update = Troll Invasion
+|members = Yes
+|options = Attack, Information
+|examine = His name would suggest he ate a druid.
+|leagueRegion = Asgarnia
+|level1 = 1
+|level2 = 11
+|level3 = 21
+|level4 = 30
+|level5 = 40
+|level6 = 50
+|level7 = 60
+|level8 = 70
+|lifepoints1 = 50
+|lifepoints2 = 400
+|lifepoints3 = 750
+|lifepoints4 = 1100
+|lifepoints5 = 1450
+|lifepoints6 = 1800
+|lifepoints7 = 2150
+|lifepoints8 = 2500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Trolls
+|assigned_by = sumona, chaeldar
+|max_melee1 = 3.7
+|max_melee2 = 30
+|max_melee3 = 56.2
+|max_melee4 = 82.5
+|max_melee5 = 108.7
+|max_melee6 = 135
+|max_melee7 = 161.2
+|max_melee8 = 187.5
+|max_ranged = 0
+|max_magic1 = 5
+|max_magic2 = 40
+|max_magic3 = 75
+|max_magic4 = 110
+|max_magic5 = 145
+|max_magic6 = 180
+|max_magic7 = 215
+|max_magic8 = 250
+|max_necromancy = 0
+|style = magic
+|primarystyle = magic
+|speed = 5
+|attack1 = 0
+|attack2 = 6
+|attack3 = 11
+|attack4 = 16
+|attack5 = 21
+|attack6 = 27
+|attack7 = 32
+|attack8 = 37
+|ranged = 0
+|magic1 = 1
+|magic2 = 8
+|magic3 = 15
+|magic4 = 22
+|magic5 = 29
+|magic6 = 36
+|magic7 = 43
+|magic8 = 50
+|necromancy = 1
+|acc_melee1 = 7
+|acc_melee2 = 160
+|acc_melee3 = 112
+|acc_melee4 = 165
+|acc_melee5 = 217
+|acc_melee6 = 409
+|acc_melee7 = 322
+|acc_melee8 = 375
+|acc_ranged = 0
+|acc_magic1 = 110
+|acc_magic2 = 181
+|acc_magic3 = 257
+|acc_magic4 = 341
+|acc_magic5 = 439
+|acc_magic6 = 553
+|acc_magic7 = 689
+|acc_magic8 = 850
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 181
+|armour3 = 257
+|armour4 = 341
+|armour5 = 439
+|armour6 = 553
+|armour7 = 689
+|armour8 = 850
+|defence1 = 1
+|defence2 = 8
+|defence3 = 15
+|defence4 = 22
+|defence5 = 29
+|defence6 = 36
+|defence7 = 43
+|defence8 = 50
+|weakness = Bolts
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id1 = 13670
+|id2 = 13671
+|id3 = 13672
+|id4 = 13673
+|id5 = 13674
+|id6 = 13675
+|id7 = 13676
+|id8 = 13677
+}}
+'''Summoners''' are trolls that utilise both [[Magic]] and [[Summoning]] in the [[Troll Invasion]] event. They are a low priority as they deal low damage.
+
+They are also able to use Summoning to summon a [[Familiar (Troll Invasion)#Level 1 (Thorny snail)|Thorny snail]], [[Familiar (Troll Invasion)#Level 21 (Spirit scorpion)|Spirit scorpion]], [[Familiar (Troll Invasion)#Level 40 (Bunyip)|Bunyip]] or [[Familiar (Troll Invasion)#Level 60 (Granite lobster)|Granite lobster]] of various levels to assist them with melee combat, although they mostly summon lobsters. Their familiars are also considered monsters and thus must be killed off before going on to the next wave. Even when a summoner troll is defeated, the familiar will stay and continue to attack players.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=update|update=Troll Invasion|date=14 June 2011}}
+** Added to game.
+}}
+
+{{Troll Invasion}}
+{{Trolls}}
+[[Category:Bandosians]]

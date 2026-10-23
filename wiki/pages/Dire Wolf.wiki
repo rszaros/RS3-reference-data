@@ -1,0 +1,130 @@
+{{External|os|dw|wp}}
+{{Infobox Monster
+|name = Dire Wolf
+|image = [[File:Dire wolf.png|150px]]
+|release = [[20 September]] [[2004]]
+|update = Plague City Part 4 Released
+|members = Yes
+|actions = Attack
+|examine = What big teeth you have.
+|level = 43
+|lifepoints = 4650
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19.6
+|slayercat = Wolves
+|assigned_by = Mazchna, Turael, Vannaka
+|max_melee = 660
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 33
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 402
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 439
+|defence = 29
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1198
+|leagueRegion=Tirannwn, Wilderness}}
+'''Dire Wolves''' are a species of [[wolf]] found in the forest of [[Tirannwn]], near the limestone mine. Their [[bones]] are normal wolf bones and may be used with a [[chisel]] to create [[wolf bone arrowheads]] for use in [[Big Chompy Bird Hunting]]. They can also be found in the [[Chaos Tunnels]]. They drop a variety of charms, although green charms are the most common.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Arandar]]
+|lvls=43
+|mem=yes
+|mapID=28
+|npcid:1198,x:2311,y:3271|npcid:1198,x:2317,y:3271|npcid:1198,x:2320,y:3266
+|npcid:1198,x:2335,y:3276|npcid:1198,x:2339,y:3272|npcid:1198,x:2339,y:3279
+|leagueRegion = Tirannwn
+}}
+{{LocLine
+|loc=[[Tirannwn]]
+|lvls=43
+|mem=yes
+|mapID=28
+|npcid:1198,x:2294,y:3185|npcid:1198,x:2296,y:3187
+|leagueRegion = Tirannwn
+}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=43
+|mem=yes
+|mapID=23
+|npcid:1198,x:3300,y:5529|npcid:1198,x:3309,y:5537|npcid:1198,x:3310,y:5524
+|npcid:1198,x:3310,y:5546|npcid:1198,x:3311,y:5518|npcid:1198,x:3320,y:5550
+|npcid:1198,x:3321,y:5539
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops==
+===100% Drop===
+{{DropsTableHead}}
+{{DropsLine|name=Wolf bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Raw wolf meat|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Charms===
+{{CharmDataTable|Dire_Wolf}}
+
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[20 September]] [[2004]]|update=Plague City Part 4 Released|img=Dire Wolf (2004).png|name=Dire Wolf}}
+|{{GUL|date=[[4 June]] [[2007]]|update=Hair of the dog|img=Dire Wolf (2007).png|name=Dire Wolf}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Dire wolf.png|name=Dire Wolf}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=Continued Necromancy Improvements - This Week In RuneScape|date=21 August 2023}}
+** Direwolf stats have been corrected.
+
+* {{UL|type=update|update=Plague City Part 4 Released|date=20 September 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* Their examine text is a reference to the fairy tale {{Wp|Little Red Riding Hood}}.
+* The Dire Wolf is a reference to {{Wp|Dire wolf|an extinct animal of the same name}}.
+* Dire Wolves are associated with [[Seren]], not [[Guthix]], like most other species of wolves. In [[Armies of Gielinor]], they are Serenist units.
+* Dire Wolves are also featured in the [[Jagex]] iPhone game, ''Undercroft''.
+
+{{Wolves}}
+[[Category:Serenists]]
+
+[[pt:Lobo horrendo]]

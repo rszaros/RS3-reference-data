@@ -1,0 +1,216 @@
+{{HasStrategy}}
+{{Infobox Monster
+|name = Abyssal lord
+|image = [[File:Abyssal lord.png]]
+|release = [[28 February]] [[2022]]
+|update = This Week In RuneScape: The Abyssal Breach
+|members = Yes
+|options = Attack
+|examine = A regal and arrogant demon aristocrat, who helps rule the Abyss and its demonic inhabitants.
+|level = 133
+|lifepoints = 74000
+|slaylvl = 115
+|slayxp = 8235.0
+|aggressive = No
+|poisonous = No
+|slayercat = Abyssal lords, Abyssal demons, Demons
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 1163
+|max_necromancy = 0
+|max_spec = 816
+|style = Magic
+|primarystyle = Magic
+|speed = 5
+|attack = 1
+|ranged = 1
+|magic = 95
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 2765
+|acc_necromancy = 0
+|armour = 2765
+|defence = 95
+|weakness = Arrow
+|susceptibility = Abyssal, Demon
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 28783, 29353
+|leagueRegion = Misthalin, Wilderness
+}}
+[[File:Abyssal lord icon.png|left]]
+'''Abyssal lords''' are a type of [[demon]] players can find in the [[Senntisten Asylum]] and the [[Wilderness]]. They are the strongest of the [[Abyssal demons (type)|Abyssal demons]]. They require a [[Slayer]] level of 115 to be harmed. 
+
+They are killed for their [[abyssal scourge]] drop, a tier 92 main-hand weapon with unique bleeding abilities. They are also killed for the [[Scions of Erebus]] book, a lore book that must be read as part of the [[master quest cape]] requirement, [[Message from the Abyss]]. They also drop the [[gate key]], which is required for the [[completionist cape]] requirement, [[Abyssal Shortcut]].
+
+When killed on an [[Abyssal demons (Slayer assignment)|abyssal demons slayer assignment]] or [[Demons (Slayer assignment)|demons slayer assignment]], each kill reduces the count by 5. When killed on an [[Abyssal lords (Slayer assignment)|abyssal lords slayer assignment]], each kill reduces the count by 1. 
+
+==Locations ==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Senntisten Asylum]]
+|lvls=133
+|mem=yes
+|mapID=738
+|npcid:29177,x:1990,y:1488|npcid:29177,x:1994,y:1503|npcid:29177,x:2009,y:1488|npcid:29177,x:2009,y:1503|npcid:29177,x:2004,y:1498
+|leagueRegion = Misthalin
+}}
+{{LocLine
+|loc=North of the [[Herb patch (Wilderness)|Wilderness herb patch]]
+|lvls=133
+|mem=yes
+|npcid:28783,x:3148,y:3883|npcid:28783,x:3139,y:3879|npcid:28783,x:3141,y:3894
+|npcid:28783,x:3127,y:3883|npcid:28783,x:3132,y:3894|npcid:28783,x:3173,y:3888
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Mechanics==
+Abyssal lords use a standard magic attack. They are also capable of teleporting like all other abyssal demons; unlike the teleports performed by their lessers, a lord's teleport will always hit and damage the player. They can periodically summon two [[abyssal tentacle]]s in a 5 × 5 area around the player's location. They attack with magic damage that ignores defensives such as [[Devotion]]. It is recommended to kill the tentacles with area-of-effect abilities or an [[Oldak coil]], as they can quickly stack up damage. The abyssal tentacles will also persist and continue to attack after the summoning abyssal lord has died so may stack up in number if they are not killed when fighting consecutive abyssal lords. [[Dominion mine]]s work particularly well against the lords due to their high health.
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Infernal ashes|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons===
+{{DropsTableHead}}
+{{DropsLine|name=Abyssal scourge|quantity=1|rarity=1/10000|altrarity=1/1980|altraritydash=y|raritynotes={{DropNote|1/9,900 with tier 4 [[luck]] or higher. 1/2,000 during a [[Slayer assignment]], increased to 1/1,980 with tier 4 luck or higher.}}|citations={{CiteTwitter|author=Mod Shogun|url=https://twitter.com/JagexShogun/status/1510018352252657679|quote=Ontask/Offtask... Scourge 1 in 2,000/10,000|date=1 April 2022 |archiveurl=https://reldo.runescape.wiki/i/108641|archivedate=2 April 2022}}}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Mud rune|quantity=30-40|rarity=12/100}}
+{{DropsLine|name=Soul rune|quantity=12-18|rarity=12/100}}
+{{DropsTableBottom}}
+
+===Herbs===
+''There is a 10/100 chance of rolling the abyssal herb drop table.''
+
+{{DropsTableHead}}
+{{DropsLine|name=Grimy irit|quantity=4 (noted)|rarity=1/60}}
+{{DropsLine|name=Grimy avantoe|quantity=4 (noted)|rarity=1/60}}
+{{DropsLine|name=Grimy cadantine|quantity=4 (noted)|rarity=1/60}}
+{{DropsLine|name=Grimy lantadyme|quantity=4 (noted)|rarity=1/60}}
+{{DropsLine|name=Grimy dwarf weed|quantity=4 (noted)|rarity=1/60}}
+{{DropsLine|name=Grimy toadflax|quantity=4 (noted)|rarity=1/60}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Huge plated rune salvage|quantity=2|rarity=10/100}}
+{{DropsLine|name=Small spiky orikalkum salvage|quantity=1-2|rarity=8/100}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=50000-80000|rarity=12/100}}
+{{DropsLine|name=Pure essence|quantity=250-350 (noted)|rarity=10/100}}
+{{DropsLine|name=Wine of Zamorak|quantity=11-19 (noted)|rarity=10/100}}
+{{DropsLine|name=Hydrix bolt tips|quantity=6-10|rarity=10/100}}
+{{DropsLineTriskelion|rarity=6/100}}
+{{DropsTableBottom}}
+
+===Rare drop table===
+{{Rare drop table|1/50}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineBoneFragments|slayer_level=115}}
+{{DropsLine|name=Abyssal flesh|quantity=2|rarity=1/5|altrarity=Always|raritynotes={{DropNote|Guaranteed when on a [[Slayer assignment]].}}}}
+{{DropsLine|name=Gate key|quantity=1|rarity=1/100|raritynotes={{DropNote|Only if the achievement [[Abyssal Shortcut]] hasn't been completed.}}}}
+{{DropsLine|name=Scions of Erebus|quantity=1|rarity=1/100|altrarity=1/80|raritynotes={{DropNote|Only if the achievement [[Message from the Abyss]] hasn't been completed. 1/80 if the [[Lorehound]] pet with the 'Lore Helper' perk is out.}}}}
+{{DropsLine|name=Sealed clue scroll (elite)|quantity=1|rarity=99/10000}}
+{{DropsLine|name=Sealed clue scroll (master)|quantity=1|rarity=1/10000}}
+{{DropsLineEffigy|level=133}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=133}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 89.6/1000
+|green = 44.8/1000
+|crimson = 314/1000
+|blue = 8.96/1000
+}}
+
+===Wilderness drop table===
+{{Wilderness drop table|level=133}}
+
+==Products==
+{{Uses facility list}}
+
+==Money making guide==
+{{Mmgsection|Killing abyssal lords}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Abyssal creatures concept art.png|Concept art of the abyssal lord (middle)
+Abyssal lord development.png|A work-in-progress model of the abyssal lord
+</gallery>
+
+==Achievements==
+* {{Achievement|Cleaning Up the Streets}} 
+** [[Abyssal scourge]] drop
+* {{Achievement|Abyssal Shortcut}} 
+* {{Achievement|Message from the Abyss}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Kandarin Area Graphical Update - This Week In RuneScape|date=15 January 2024}}
+** Fixed an issue that stopped abyssal lords, abyssal savages, and abyssal beasts from dropping items from the Wilderness shared drop table.
+
+* {{UL|type=update|update = New Skill: Necromancy - This Week In RuneScape}}
+** Abyssal lords now give 3,700 instead of 10,087.8 combat experience.
+
+* {{UL|type=patch|update=Wilderness Ninja Strike! - This Week In RuneScape|date=13 March 2023}}
+** Removed the two lord spawns that were north of the Wilderness Bandit Camp.
+** Abyssal Lords killed in the Wilderness now count as 5, up from 1, for the purpose of Slayer Tasks.
+
+* {{UL|type=update|update=Garden of Kharid & DXP: LIVE Friday! - This Week In RuneScape|date=7 November 2022}}
+** Abyssal lords have had their herb drops reduced from 10 to 4.
+
+* {{UL|type=patch|update=Free To Play Area Graphical Updates - This Week In RuneScape|date=5 September 2022}}
+** Killing Abyssal Lords in the Wilderness now drops the task count by 1 instead of 5.
+
+* {{UL|type=patch|update=This Week In RuneScape: Patch Week (March 2022)|date=7 March 2022}}
+** The spring cleaner will now correctly disassemble high alchemy [[orikalkum salvage]] drops from [[Abyssal demons (type)|Abyssal Slayer creatures]].
+** Fixed an issue with the broadcast message for Jaws of the Abyss appearing when killing abyssal lords.
+** Players will now be able to continue attacking abyssal lords reliably as they perform a teleport.
+
+* {{UL|type=update|update=This Week In RuneScape: The Abyssal Breach|date=28 February 2022}}
+** Added to game.
+}}
+
+==Trivia==
+* The [[abyssal savage]], [[abyssal beast]], and abyssal lord were designed by [[Mod Shogun]] during [[Game Jam]] 2017 and 2018.
+* The abyssal lord is the only non-boss monster to drop tier 90+ weaponry.
+
+==References==
+{{Reflist}}
+
+{{Senntisten Asylum}}
+{{Slayer monsters}}
+{{Demons}}
+[[pt:Lorde abissal]]
+[[Category:Game Jam content]]

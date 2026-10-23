@@ -1,0 +1,120 @@
+{{External|os}}
+{{Otheruses|Big frog|the bigger and stronger version|Giant frog}}
+{{Infobox Monster
+|name = Big frog
+|image = [[File:Giantfrog.png]]
+|release = [[14 March]] [[2005]]
+|update = Lumbridge Swamp Caves
+|members = Yes
+|options = Attack, Examine
+|examine = It didn't get that big eating flies.
+|level = 18
+|lifepoints = 3300
+|experience = 
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 27.8
+|slayercat = Frogs
+|max_melee = 0
+|max_ranged = 120
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 6
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 60
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 316
+|defence = 20
+|weakness = Slash
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1829
+|leagueRegion=Misthalin}}
+A '''big frog''' is a monster found in both the [[Lumbridge Swamp Caves]] and the [[Dorgesh-Kaan South Dungeon]]. It plays a minor role in the [[Rag and Bone Man]] quest as its bones are on his "wish-list".
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Dorgesh-Kaan South Dungeon]]
+|lvls=18
+|mem=yes
+|mapID=-1
+|npcid:1829,x:2696,y:5227|npcid:1829,x:2697,y:5223|npcid:1829,x:2698,y:5219
+|npcid:1829,x:2701,y:5217|npcid:1829,x:2727,y:5200|npcid:1829,x:2729,y:5189
+|npcid:1829,x:2729,y:5196|npcid:1829,x:2729,y:5202|npcid:1829,x:2741,y:5194
+|npcid:1829,x:2741,y:5205|npcid:1829,x:2743,y:5199|npcid:1829,x:2744,y:5203
+|npcid:1829,x:2745,y:5198
+|leagueRegion = Misthalin}}
+{{LocLine
+|loc=[[Lumbridge Swamp Caves]]
+|lvls=18
+|mem=yes
+|mapID=608
+|npcid:1829,x:3151,y:9550|npcid:1829,x:3151,y:9562|npcid:1829,x:3153,y:9555
+|npcid:1829,x:3159,y:9554|npcid:1829,x:3181,y:9544|npcid:1829,x:3221,y:9557
+|npcid:1829,x:3222,y:9559|npcid:1829,x:3224,y:9552|npcid:1829,x:3241,y:9570
+|npcid:1829,x:3248,y:9566|npcid:1829,x:3250,y:9574
+|leagueRegion = Misthalin}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Water rune|quantity=12|rarity=10/128}}
+{{DropsLine|name=Earth rune|quantity=12|rarity=10/128}}
+{{DropsLine|name=Nature rune|quantity=4|rarity=7/128}}
+{{DropsLine|name=Cosmic rune|quantity=2|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Nothing|rarity=23/128}}
+{{DropsLine|name=Coins|quantity=5|rarity=44/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=15|rarity=26/128|gemw=No}}
+{{DropsLine|name=Water talisman|quantity=1|rarity=1/128}}
+{{DropsLine|name=Earth talisman|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Big frog leg|quantity=1|rarity=Always|raritynotes={{DropNote|Only during [[Rag and Bone Man]].}}|gemw=no|alch=yes}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=update|update=Lumbridge Swamp Caves|date=14 March 2005}}
+** Added to game.
+}}

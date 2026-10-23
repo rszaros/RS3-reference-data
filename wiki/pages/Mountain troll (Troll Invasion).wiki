@@ -1,0 +1,135 @@
+{{Infobox Monster
+|version1 = Level 1
+|version2 = Level 11
+|version3 = Level 21
+|version4 = Level 30
+|version5 = Level 40
+|version6 = Level 50
+|version7 = Level 60
+|version8 = Level 70
+|name = Mountain troll
+|image = [[File:Mountain troll (Troll Invasion).png|250px]]
+|release = [[14 June]] [[2011]]
+|update = Troll Invasion
+|members = Yes
+|options = Attack, Information
+|examine = Loves to get up close and personal.
+|leagueRegion = Asgarnia
+|level1 = 1
+|level2 = 11
+|level3 = 21
+|level4 = 30
+|level5 = 40
+|level6 = 50
+|level7 = 60
+|level8 = 70
+|lifepoints1 = 50
+|lifepoints2 = 400
+|lifepoints3 = 750
+|lifepoints4 = 1100
+|lifepoints5 = 1450
+|lifepoints6 = 1800
+|lifepoints7 = 2150
+|lifepoints8 = 2500
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 52.5
+|slayercat = Trolls
+|assigned_by = spria,sumona,Chaeldar
+|max_melee1 = 5
+|max_melee2 = 40
+|max_melee3 = 75
+|max_melee4 = 110
+|max_melee5 = 145
+|max_melee6 = 180
+|max_melee7 = 215
+|max_melee8 = 250
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack1 = 1
+|attack2 = 8
+|attack3 = 15
+|attack4 = 22
+|attack5 = 29
+|attack6 = 36
+|attack7 = 43
+|attack8 = 50
+|ranged = 0
+|magic = 0
+|necromancy = 1
+|acc_melee1 = 110
+|acc_melee2 = 181
+|acc_melee3 = 257
+|acc_melee4 = 341
+|acc_melee5 = 439
+|acc_melee6 = 553
+|acc_melee7 = 689
+|acc_melee8 = 850
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 110
+|armour2 = 181
+|armour3 = 257
+|armour4 = 341
+|armour5 = 439
+|armour6 = 553
+|armour7 = 689
+|armour8 = 850
+|defence1 = 1
+|defence2 = 8
+|defence3 = 15
+|defence4 = 22
+|defence5 = 29
+|defence6 = 36
+|defence7 = 43
+|defence8 = 50
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|id1 = 11255
+|id2 = 11278
+|id3 = 11316
+|id4 = 11330
+|id5 = 11382
+|id6 = 11406
+|id7 = 11407
+|id8 = 11410
+}}
+'''Mountain trolls''' are one of the monsters fought during the combat portion of the [[Troll Invasion]] Distraction and Diversion. They are the most basic enemies and only use melee, and can easily be killed in a hit or two. They have no special traits and are thus considered a low priority. 
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Troll Invasion|date=14 June 2011}}
+** Added to game.
+}}
+
+{{Troll Invasion}}
+{{Trolls}}
+[[Category:Troll Invasion]]
+[[Category:Bandosians]]

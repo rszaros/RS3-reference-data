@@ -1,0 +1,181 @@
+{{Dgvariant|Hill Giant}}
+{{Infobox Monster
+|version1 = 14
+|version2 = 21
+|version3 = 28
+|version4 = 42
+|version5 = 49
+|version6 = 56
+|version7 = 70
+|version8 = 84
+|version9 = 98
+|version10 = 112
+|version11 = 126
+|version12 = 138
+|name = Hill giant
+|image = [[File:Hill Giant (1).png|150px]]
+|release = [[12 April]] [[2010]]
+|update = Dungeoneering Skill!
+|members = No
+|examine = A very large foe.
+|level1 = 14
+|level2 = 21
+|level3 = 28
+|level4 = 42
+|level5 = 49
+|level6 = 56
+|level7 = 70
+|level8 = 84
+|level9 = 98
+|level10 = 112
+|level11 = 126
+|level12 = 138
+|lifepoints1 = 1000
+|lifepoints2 = 1500
+|lifepoints3 = 2000
+|lifepoints4 = 3000
+|lifepoints5 = 3500
+|lifepoints6 = 4000
+|lifepoints7 = 5000
+|lifepoints8 = 6000
+|lifepoints9 = 7000
+|lifepoints10 = 8000
+|lifepoints11 = 9000
+|lifepoints12 = 9900
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayercat = Hill giants, Creatures of Daemonheim
+|max_melee1 = 50
+|max_melee2 = 75
+|max_melee3 = 100
+|max_melee4 = 150
+|max_melee5 = 175
+|max_melee6 = 200
+|max_melee7 = 250
+|max_melee8 = 300
+|max_melee9 = 350
+|max_melee10 = 400
+|max_melee11 = 450
+|max_melee12 = 495
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack1 = 10
+|attack2 = 15
+|attack3 = 20
+|attack4 = 30
+|attack5 = 35
+|attack6 = 40
+|attack7 = 50
+|attack8 = 60
+|attack9 = 70
+|attack10 = 80
+|attack11 = 90
+|attack12 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 202
+|acc_melee2 = 257
+|acc_melee3 = 316
+|acc_melee4 = 454
+|acc_melee5 = 536
+|acc_melee6 = 628
+|acc_melee7 = 850
+|acc_melee8 = 1132
+|acc_melee9 = 1486
+|acc_melee10 = 1924
+|acc_melee11 = 2458
+|acc_melee12 = 3031
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 202
+|armour2 = 257
+|armour3 = 316
+|armour4 = 454
+|armour5 = 536
+|armour6 = 628
+|armour7 = 850
+|armour8 = 1132
+|armour9 = 1299
+|armour10 = 1486
+|armour11 = 1694
+|armour12 = 1924
+|defence1 = 10
+|defence2 = 15
+|defence3 = 20
+|defence4 = 30
+|defence5 = 35
+|defence6 = 40
+|defence7 = 50
+|defence8 = 60
+|defence9 = 70
+|defence10 = 80
+|defence11 = 90
+|defence12 = 99
+|weakness1 = Air
+|weakness2 = Water
+|weakness3 = Earth
+|weakness4 = Fire
+|weakness5 = Air
+|weakness6 = Water
+|weakness7 = Earth
+|weakness8 = Fire
+|weakness9 = Air
+|weakness10 = Water
+|weakness11 = Earth
+|weakness12 = Fire
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = dg
+|id1 = 10706
+|id2 = 10707
+|id3 = 10708
+|id4 = 10709
+|id5 = 10710
+|id6 = 10711
+|id7 = 10712
+|id8 = 10713
+|id9 = 10714
+|id10 = 10715
+|id11 = 10716
+|id12 = 10717
+|leagueRegion = Wilderness
+}}
+'''Hill giants''' may be encountered while training [[Dungeoneering]]. Unlike normal [[Hill Giant]]s, these giants' combat levels can be very high. They are first found on the [[Abandoned floor]]s.
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones (Dungeoneering)|quantity=1|rarity=Always|gemw=no}}
+{{DropsTableBottom}}
+
+===Other===
+{{Dungeoneering droptable}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Dungeoneering Skill!|date=12 April 2010}}
+** Added to game.
+}}
+
+{{Dungeoneering monsters}}
+[[Category:Giants]]

@@ -1,0 +1,71 @@
+{{Infobox Monster
+|name = Ghost troll lout
+|image = Ghost troll lout.png
+|release = [[7 August]] [[2023]]
+|update = New Skill: Necromancy - This Week In RuneScape
+|members = No
+|options = Attack, Examine
+|race = Troll, Ghost
+|examine = They will ghost you.
+|level = 3
+|lifepoints = 1000
+|experience = 0.0
+|aggressive = No
+|poisonous = No
+|slaylvl =
+|slayxp =
+|slayercat = Trolls
+|max_melee = 20.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 10
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 110
+|defence = 1
+|weakness = Necromancy
+|susceptibility =
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect =
+|immune_to_stun =
+|immune_to_drain =
+|restriction = Quest
+|id = 30261
+|leagueRegion = Misthalin
+}}
+'''Ghost troll lout''' is a [[monster]] that, together with a [[ghost troll brute]], must be killed during the [[Necromancy!]] tutorial quest by using [[Necromancy]].
+
+They both should pose no great challenge for any player.
+
+Despite appearing as a ghost, they don't count for the [[Ghosts (Slayer assignment)|Slayer assignment for ghosts]].
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update = New Skill: Necromancy - This Week In RuneScape|date=7 August 2023}}
+** Added to game.
+}}
+
+{{Necromancy!}}
+{{Trolls}}
+{{Ghost}}

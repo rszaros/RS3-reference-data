@@ -1,0 +1,180 @@
+{{Confuse|Abomination}}
+{{Infobox Monster
+|name = Gelatinous abomination
+|image = [[File:Gelatinous abomination.png|160px]]
+|release = [[31 January]] [[2012]]
+|update = Troll Warzone
+|members = No
+|actions = Attack
+|examine = This foul emanation has been brought to life with a core of vile energy.
+|level = 2
+|lifepoints = 500
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19.4
+|slayercat = Gelatinous abominations
+|assigned_by = turael
+|max_melee = 0
+|max_ranged = 0
+|max_magic = 60
+|max_necromancy = 0
+|max_spec = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 3
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 0
+|acc_magic = 30
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Arrows
+|aff_weakness = 90
+|aff_melee = 50
+|aff_ranged = 70
+|aff_magic = 60
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 14849
+}}
+[[File:Gelatinous abomination icon.png|left]]
+The '''gelatinous abominations''' are a species of monster introduced with the [[Troll Warzone]], said to be created by the [[troll]], [[Magic Stick]]. They are given as a low level [[Slayer assignment]] and can be found in the [[Burthorpe Slayer Cave]] in Ewean's Grove, just south-west of the [[stone circle]] in [[Taverley]]. [[Spiked gauntlets]], available to buy for 6 coins from any [[Slayer Masters|Slayer Master]], are required in order to kill them. [[Turael]] offers spiked gauntlets free of charge. The gauntlets must be worn, not just be in the [[backpack]].
+
+Gelatinous abominations are one of the few monsters to drop [[gold charm]]s for [[free-to-play]] players.
+
+The player will automatically rip out the heart of the abomination at one life point and will only auto-rip one abomination–even if several are at one life point at the same time. You can attack another abomination during the ripping animation.
+
+A slain gelatinous abomination does not drop its loot until about five seconds after the player receives experience from the kill. This loot despawns 30 seconds after it appears.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Burthorpe Slayer Cave]]
+|lvls=2
+|mem=no
+|mapID=719
+|npcid:14849,x:208,y:30|npcid:14849,x:212,y:35|npcid:14849,x:213,y:40
+|npcid:14849,x:215,y:29|npcid:14849,x:218,y:27|npcid:14849,x:218,y:37
+|npcid:14849,x:219,y:20|npcid:14849,x:219,y:44|npcid:14849,x:221,y:15
+|npcid:14849,x:225,y:20|npcid:14849,x:226,y:41|npcid:14849,x:228,y:15
+|npcid:14849,x:229,y:20|npcid:14849,x:229,y:26|npcid:14849,x:230,y:33
+|npcid:14849,x:233,y:36|npcid:14849,x:235,y:35|npcid:14849,x:237,y:37
+|npcid:14849,x:238,y:40
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Longbow|quantity=1|rarity=10/100}}
+{{DropsLine|name=Leather cowl|quantity=1|rarity=10/100}}
+{{DropsTableBottom}}
+
+===Herbs===
+''There is a 25/100 chance to roll the [[Herb drop table#Free-to-play table|free herb drop table]] (even in members).''
+{{DropsTableHead}}
+{{DropsLine|name=Grimy guam|quantity=1|rarity={{#expr:25*32}}/{{#expr:100*74}}}}
+{{DropsLine|name=Grimy tarromin|quantity=1|rarity={{#expr:25*42}}/{{#expr:100*74}}}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{GeneralSeedDropTableIntro|7/100}} ''When members seeds are rolled in free-to-play worlds, 5 coins will be dropped instead.''
+{{DropsTableHead}}
+{{GeneralSeedDropTable|7/100|level=2|f2p=yes}}
+{{DropsTableBottom}}
+
+===Food===
+''There is a 30/100 chance to drop food.''
+{{DropsTableHead}}
+{{DropsLine|name=Cabbage|quantity=1|rarity=30/1100}}
+{{DropsLine|name=Cooked chicken|quantity=1|rarity=30/1100}}
+{{DropsLine|name=Cooked meat|quantity=1|rarity=30/1100}}
+{{DropsLine|name=Cooked rabbit|quantity=1|rarity=30/1100}}
+{{DropsLine|name=Onion|quantity=1|rarity=30/1100}}
+{{DropsLine|name=Rabbit sandwich|quantity=1|rarity=30/1100}}
+{{DropsLine|name=Tomato|quantity=1|rarity=30/1100}}
+{{DropsLine|name=Raw beef|quantity=1|rarity=30/1100}}
+{{DropsLine|name=Raw chicken|quantity=1|rarity=30/1100}}
+{{DropsLine|name=Raw potato|quantity=1|rarity=30/1100}}
+{{DropsLine|name=Raw rabbit|quantity=1|rarity=30/1100}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Small plated bronze salvage|quantity=1|rarity=10/100}}
+{{DropsLine|name=Coins|quantity=1-5|rarity=8/100}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineSpiritGems|members=yes}}
+{{DropsLineMimic|level=2|members=yes}}
+{{DropsLineEffigy|level=2|members=yes}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|f2p=yes
+|quantity=1
+|gold=391.231/1000
+|green=0
+|crimson=0
+|blue=0
+}}
+
+==Money making guide==
+{{Mmgsection|Killing gelatinous abominations}}
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Gelatinous abomination death.gif|A player finishing off a gelatinous Abomination with [[spiked gauntlets]]
+</gallery>
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Ranged ('weak'): 65 → 70
+*** Magic ('same'): 55 → 60
+*** Melee ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended
+
+* {{UL|type=patch|update=This Week In RuneScape: Bug Fixes & More|date=17 May 2021}}
+** Corrected a situation which could lead to players becoming stuck in the Gelatinous Abomination Cave in the [[Troll Warzone|Burthorpe tutorial]].
+
+* {{UL|type=update|update=September Mobile Update|date=2 September 2019}}
+** Burthorpe and Taverley Decluttering
+
+* {{UL|type=patch|update=Patch Notes (18 June 2018)|date=18 June 2018}}
+** Made some improvements to gelatinous abominations: 
+*** Crush op has been removed.
+*** On getting the NPC down to 1 health, the player will automatically run in to finish them.
+*** Ensured attack is always the leftclick option.
+*** Improved messaging about spiked gauntlets.
+
+* {{UL|type=patch|update=Patch Notes (12 December 2016)|date=12 December 2016}}
+** An issue where the warning message was blocked by target information when fighting gelatinous abomination without spiked gauntlets.
+
+* {{UL|type=patch|update=Patch Notes (5 February 2013)|date=5 February 2013}}
+** Players will now automatically crush abominations when they have low health as long as they have the spiked gauntlets equipped
+
+* {{UL|type=update|update=Troll Warzone|date=31 January 2012}}
+** Added to game.
+}}
+
+{{Slayer monsters}}
+[[pt:Abominação gelatinosa]]

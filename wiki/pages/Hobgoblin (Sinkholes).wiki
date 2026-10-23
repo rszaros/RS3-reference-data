@@ -1,0 +1,161 @@
+{{Infobox Monster
+|version1 = 14
+|version2 = 28
+|version3 = 42
+|version4 = 56
+|version5 = 70
+|version6 = 84
+|version7 = 98
+|version8 = 112
+|version9 = 126
+|version10 = 138
+|name = Hobgoblin
+|image = [[File:Hobgoblin.png|200px]]
+|release = [[5 February]] [[2013]]
+|update = Sinkholes
+|members = Yes
+|options = Attack
+|examine = An ugly, smelly creature with a spear.
+|level1 = 14
+|level2 = 28
+|level3 = 42
+|level4 = 56
+|level5 = 70
+|level6 = 84
+|level7 = 98
+|level8 = 112
+|level9 = 126
+|level10 = 138
+|lifepoints1 = 300
+|lifepoints2 = 3000
+|lifepoints3 = 3000
+|lifepoints4 = 3000
+|lifepoints5 = 3000
+|lifepoints6 = 3000
+|lifepoints7 = 3000
+|lifepoints8 = 3000
+|lifepoints9 = 3000
+|lifepoints10 = 3000
+|experience1 = 15.0
+|experience2 = 150.0
+|experience3 = 150.0
+|experience4 = 150.0
+|experience5 = 150.0
+|experience6 = 150.0
+|experience7 = 150.0
+|experience8 = 150.0
+|experience9 = 150.0
+|experience10 = 150.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 49
+|slayercat = Hobgoblins
+|assigned_by = mazchna, Vannaka
+|max_melee1 = 25
+|max_melee2 = 250
+|max_melee3 = 250
+|max_melee4 = 250
+|max_melee5 = 250
+|max_melee6 = 250
+|max_melee7 = 250
+|max_melee8 = 250
+|max_melee9 = 250
+|max_melee10 = 250
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 5
+|attack1 = 10
+|attack2 = 99
+|attack3 = 99
+|attack4 = 99
+|attack5 = 99
+|attack6 = 99
+|attack7 = 99
+|attack8 = 99
+|attack9 = 99
+|attack10 = 99
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee1 = 100
+|acc_melee2 = 990
+|acc_melee3 = 990
+|acc_melee4 = 990
+|acc_melee5 = 990
+|acc_melee6 = 990
+|acc_melee7 = 990
+|acc_melee8 = 990
+|acc_melee9 = 990
+|acc_melee10 = 990
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour1 = 100
+|armour2 = 990
+|armour3 = 990
+|armour4 = 990
+|armour5 = 990
+|armour6 = 990
+|armour7 = 990
+|armour8 = 990
+|armour9 = 990
+|armour10 = 990
+|defence1 = 10
+|defence2 = 99
+|defence3 = 99
+|defence4 = 99
+|defence5 = 99
+|defence6 = 99
+|defence7 = 99
+|defence8 = 99
+|defence9 = 99
+|defence10 = 99
+|weakness = Nothing
+|aff_weakness = 80
+|aff_melee = 80
+|aff_ranged = 80
+|aff_magic = 80
+|immune_to_poison = No
+|immune_to_stun = No
+|restriction = minigame
+|leagueRegion = Morytania,Fremennik,Kandarin,Karamja,Misthalin,Asgarnia,Desert,Havenhythe
+|id1 = 16798
+|id2 = 16807
+|id3 = 16807
+|id4 = 16807
+|id5 = 16807
+|id6 = 16807
+|id7 = 16807
+|id8 = 16807
+|id9 = 16807
+|id10 = 16807
+}}
+
+'''Hobgoblins''' are monsters found in [[Sinkholes]].These monsters use spears to attack, and have a chance of dropping them. At higher levels, these monsters are very dangerous, and can easily hit over 350.
+
+==Drops==
+===100% drops===
+{{DropsTableHead}}
+{{DropsLine|name=Combat totem|quantity=1|rarity=Always|gemw=no|alch=no}}
+{{DropsTableBottom}}
+
+===Cards===
+{{DropsTableSinkholesCards|showlv85=y}}
+
+==Update history==
+{{UH|
+* {{UL|type=ninja|update=Patch Notes (11 January 2016)|date=11 January 2016}}
+** Hobgoblins around the world have had their models updated to match the God Wars dungeon hobgoblins.
+
+* {{UL|type=update|update=Sinkholes|date=5 February 2013}}
+** Added to game.
+}}
+
+{{Sinkholes}}
+[[Category:Bandosians]]
+[[Category:Hobgoblins]]

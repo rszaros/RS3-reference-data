@@ -1,0 +1,107 @@
+{{Infobox Monster
+|version1 = Normal mode
+|version2 = Story mode
+|name = Lava spider
+|image = [[File:Lava spider.png|250px]]
+|release = [[13 August]] [[2018]]
+|update = Elite Dungeons - Dragonkin Laboratory
+|members = Yes
+|actions = Attack, Mark, Examine
+|examine = Why is it always something like poison, ice or lava? Why can't there just be an ice cream spider of something?
+|level = 98
+|lifepoints = 15000
+|experience = 750.0
+|aggressive = Yes
+|poisonous = Yes
+|slaylvl = 1
+|slayxp1 = 491
+|slayxp2 = 245.5
+|slayercat = Spiders
+|assigned_by = Turael, Vannaka
+|max_melee = 672
+|max_ranged = 672
+|max_magic = 672
+|max_necromancy = 0
+|max_spec = N/A
+|style1 = ranged
+|primarystyle = ranged
+|speed1 = 2
+|attack = 70
+|ranged = 70
+|magic = 70
+|necromancy = 1
+|acc_melee = 1486
+|acc_ranged = 1486
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1486
+|defence = 70
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Normal mode
+|dropversion2 = Story mode
+|leagueRegion = Wilderness
+|id = 25665
+}}
+'''Lava spiders''' are monsters found within the [[Dragonkin Laboratory]]. 
+
+They are typically found in small clusters, are [[aggression|aggressive]] and have a large [[attack range]]. They use rapid, but generally inaccurate [[ranged]] attacks which are capable of inflicting a weak [[poison]].
+
+In story mode their health is reduced by 50% and their damage output is reduced by 90%.
+
+==Drops (normal mode)==
+{{DropLogProject|jagex=yes}}
+
+There are no drops in story mode.
+
+{{Average drop value|mob=Lava spider#Normal mode}}
+
+===Alchables===
+{{Dragonkin Laboratory alchables drop table|500/1000|version=Normal mode}}
+
+===Currency===
+{{Dragonkin Laboratory currency drop table|350/1000|330/1000|version=Normal mode}}
+
+===Supplies===
+{{Dragonkin Laboratory supplies drop table|150/1000|version=Normal mode}}
+
+===Lucky charm===
+{{Lucky charm (Dragonkin Laboratory) drops|20/1000|version=Normal mode}}
+
+===Rare drop table===
+{{Rare drop table|1/150|version=Normal mode}}
+
+===Tertiary===
+{{DropsTableHead|version=Normal mode}}
+{{DropsLineSpiritGems}}
+{{DropsLineEffigy|level=98}}
+{{DropsLineMimic|level=98}}
+{{DropsTableBottom}}
+
+====Charms====
+{{EliteDungeonCharmDropTable|version=Normal mode}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Elite Dungeons - Dragonkin Laboratory|date=13 August 2018}}
+** Added to game.
+}}
+
+==References==
+{{Reflist}}
+
+{{Dragonkin Laboratory}}
+{{Spiders}}

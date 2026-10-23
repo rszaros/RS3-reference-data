@@ -1,0 +1,89 @@
+{{Multi Infobox
+|text1 = Monster
+|item1 =
+{{Infobox Monster
+|name = Skeleton warrior
+|image = Skeleton warrior (Ancient Awakening).png
+|release = [[9 October]] [[2023]]
+|update = Ancient Awakening Launches - This Week in RuneScape
+|members = Yes
+|options = Attack, Target, Examine
+|race =
+|examine = You can see right through him.
+|level = 76
+|lifepoints = 15300
+|experience = 603.9
+|aggressive = Yes
+|poisonous = No
+|slaylvl =
+|slayxp =
+|slayercat = Skeletons, Undead
+|max_melee = 1500
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed = 5
+|attack = 60
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1032
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 850
+|defence = 50
+|weakness = Earth
+|susceptibility = Undead slayer
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect =
+|immune_to_stun =
+|immune_to_drain =
+|restriction = quest
+|leagueRegion = No
+|id = 30530
+}}
+|text2 = NPC
+|item2 = 
+{{Infobox NPC
+|name = Skeleton warrior
+|image = Skeleton warrior (Ancient Awakening, NPC).png
+|release = [[9 October]] [[2023]]
+|update = Ancient Awakening Launches - This Week in RuneScape
+|members = Yes
+|race = Skeleton
+|quest = [[Ancient Awakening]]
+|location = [[Ungael]]
+|gender = Male
+|options = Examine
+|examine = You can see right through him.
+|map =
+|id = 30592
+}}
+}}
+'''Skeleton warrior''' is a [[monster]].
+
+They are conjured by [[Zemouregal]] when the player's expedition party reach the tower on [[Ungael]] during [[Ancient Awakening]], and are seen as non-attackable characters before the waves in the tower start. It is currently unknown if the player can fight these monsters.
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Ancient Awakening Launches - This Week in RuneScape|date=9 October 2023}}
+** Added to game.
+}}
+
+{{Ancient Awakening}}
+[[pt:Esqueleto guerreiro (Despertar Ancestral)]]

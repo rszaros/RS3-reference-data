@@ -1,0 +1,88 @@
+{{external|os=Vampyre Juvinate}}
+{{See also|Vampyre Juvinate (disambiguation)}}
+{{Deleted content}}
+{{Infobox Monster
+|version1 = Male
+|version2 = Female
+|version3 = Held
+|name = Vampyre Juvinate
+|name3 = Held Vampyre Juvinate
+|image1 = [[File:Vampyre Juvinate (angry).png|150px]]
+|image2 = [[File:Vampyre Juvinate (angry) (female).png|150px]]
+|release = [[22 March]] [[2006]]
+|update = In Aid of the Myreque
+|members = Yes
+|race = Vampyre
+|examine1 = An initiate juvenile vampyre, he looks really angry.
+|examine2 = An initiate juvenile vampyre, she looks really angry.
+|examine3 = A Juvinate vampyre, held in a powerful spell.
+|level = 64
+|level3 = 63
+|lifepoints = 2300
+|lifepoints3 = 2250
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 
+|slayercat = Vampyres
+|slayercat3 = No
+|max_melee = 0
+|max_ranged = 184
+|max_ranged3 = 180
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = Ranged
+|primarystyle = Ranged
+|speed = 4
+|attack = 1
+|ranged = 46
+|ranged3 = 45
+|magic = 1
+|necromancy = 1
+|acc_melee = 0
+|acc_ranged = 755
+|acc_ranged3 = 732
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 755
+|armour3 = 732
+|defence = 46
+|defence3 = 45
+|weakness = Stabbing
+|susceptibility = Vampyre slayer
+|susceptibility3 = No
+|aff_weakness = 90
+|aff_melee = 65
+|aff_ranged = 55
+|aff_magic = 45
+|immune_to_poison = No
+|immune_to_stun = No
+|immune_to_deflect = No
+|immune_to_drain = No
+|restriction = removed
+|id1 = 3526, 3576
+|id2 = 3577
+|id3 = 3527
+}}
+Angry '''Vampyre Juvinates''' used to be a possible result of using a [[Guthix balance potion]] on a [[Vampyre Juvinate]]. This form of vampyre is aggressive and stronger, but can be killed with any weapon. They are also slightly taller than a human. Strangely, they look like a [[vampyre juvenile]] in [[Meiyerditch]]. They lived east of [[Burgh de Rott]]. All vampyres become [[angry vampyre]]s now.
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=|update=|img=Angry Juvinate old.png|name=Vampyre Juvinate (angry)}}
+|{{GUL|date=|update=|img=Vampyre Juvinate (angry).png|name=Vampyre Juvinate (angry)}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Havenhythe Part II: Journey into the East!|date=28 September 2026}}
+** Added susceptibility to the [[Vampyre Slayer (ability)|Vampyre Slayer]] ability.
+
+* {{UL|type=update|update=In Aid of the Myreque|date=22 March 2006}}
+** Added to game.
+}}
+
+==Trivia==
+* Their examine text suggests that they are [[Vampyre juvenile]]s and not juvinates. This is supported by their clothes and the look of nearby juveniles.
+
+{{vampyres}}

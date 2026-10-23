@@ -1,0 +1,92 @@
+{{External|os=Zombies Champion}}
+{{Infobox Monster
+|name = Zombie Champion
+|image = [[File:Zombie Champion.png|150px]]
+|release = [[12 December]] [[2005]]
+|update = Champions, Wyverns and Granite
+|members = Yes
+|options = Attack
+|race = Zombie
+|examine = Champion of the zombies.
+|level = 42
+|lifepoints = 5000
+|aggressive = Yes
+|poisonous = No
+|slayercat = Zombies, Undead
+|max_melee = 551
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|speed = 5
+|attack = 30
+|ranged = 1
+|magic = 1
+|acc_melee = 454
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 454
+|defence = 30
+|weakness = Fire
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = Yes
+|immune_to_drain = No
+|restriction = minigame
+|id = 3066
+|leagueRegion=Misthalin}}
+[[File:Zombie banner detail.png|left|100px]]
+The '''Zombie Champion''' is one of the 16 champions fought as part of the [[Champion's Challenge]] [[distraction and diversion]]. Like the other champions, he may be fought beneath the [[Champions' Guild]], but only after a player finds a [[Zombie champion scroll]], which is dropped by most [[zombie]]s. After being defeated the first time, he may be fought again weekly for additional slayer and constitution experience.
+
+Like the other champions, there is a special restriction during the fight with him. In the zombie's case, [[magic]] attacks are prohibited, meaning only [[ranged]], [[necromancy]] and [[melee]] may be used to fight him. He attacks with melee, at the same speed as daggers, and is a fairly easy fight.
+
+==Rewards==
+* {{Skill XP|Slayer|802}} as a [[Slayer XP lamp (Zombie)|Slayer XP lamp]]
+* {{Skill XP|Constitution|802}} as a [[Constitution XP lamp (Zombie)|Constitution XP lamp]]
+* A new banner hung under the [[Champions' Guild]] to celebrate victory
+
+==Gallery==
+<gallery mode="packed" heights="200">
+Zombie Champion reward.png|A banner proclaiming victory over the Zombie Champion.
+Banner carrier (zombie).png|A player with the [[Banner carrier]] imp with the Zombie symbol on it
+</gallery>
+
+==Works==
+{{Worksby}}
+
+==Graphical updates==
+{{GU|subject=NPCs
+|{{GUL|date=[[12 December]] [[2005]]|update=Champions, Wyverns and Granite|img=Zombie Champion (2005).png|name=Zombie Champion}}
+|{{GUL|date=[[22 January]] [[2007]]|update=The Lair of Tarn Razorlor|img=Zombie Champion (2007).png|name=Zombie Champion}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Zombie Champion.png|name=Zombie Champion}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=patch|update=Patch Notes (12 February 2013)|date=12 February 2013}}
+** Players are no longer warned about not using magic attacks against the Zombie Champion when they have no weapons equipped.
+
+* {{UL|type=hidden|update=Champions' Challenge Update and Hairstyles|date=9 November 2009}}
+** Renamed from "Zombie Champion" to "Zombie Champion".
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** [[Zombie]]s, [[skeleton]]s and [[ghost]]s have been graphically updated.
+
+* {{UL|type=update|update=Champions, Wyverns and Granite|date=12 December 2005}}
+** Added to game.
+}}
+
+==Trivia==
+* Like many other champions in the [[Champion's Challenge]], the Zombie Champion is not the strongest zombie, there are many higher-level zombies like the [[armoured zombie]]s in the [[Chaos Temple Dungeon]] and the [[dried zombie]]s in the [[Kharidian Desert]] which are significantly stronger than the Zombie Champion.
+* It is weak to a magic style (fire spells), despite magic not being allowed at all in the arena.
+
+{{Champions' Challenge}}
+{{Zombie}}
+[[Category:Unique monsters]]

@@ -1,0 +1,235 @@
+{{External|os|rsc=UndeadOne}}
+{{Infobox Monster
+|version1 = Skeleton (level 44)
+|version2 = Skeleton (level 46)
+|version3 = Zombie (level 44)
+|version4 = Zombie (level 46)
+|name = Undead one
+|image1 = [[File:Undead one (skeleton).png|150px]]
+|image2 = [[File:Undead one (skeleton, 2).png|150px]]
+|image3 = [[File:Undead one (zombie).png|75px]]
+|image4 = [[File:Undead one (zombie, 2).png|75px]]
+|release = [[27 January]] [[2003]]
+|update = Shilo Village Quest online
+|members = Yes
+|options = Attack, Examine
+|race1 = Skeleton
+|race2 = Skeleton
+|race3 = Zombie
+|race4 = Zombie
+|examine1 = A minion of Rashiliyia.
+|examine2 = A minion of Rashiliyia.
+|examine3 = The animated dead; one of Rashiliyia's minions.
+|examine4 = The animated dead; one of Rashiliyia's minions.
+|level1 = 44
+|level2 = 46
+|level3 = 44
+|level4 = 46
+|lifepoints1 = 1600
+|lifepoints2 = 1650
+|lifepoints3 = 1600
+|lifepoints4 = 1650
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp1 = 18.8
+|slayxp2 = 19.6
+|slayxp3 = 18.8
+|slayxp4 = 19.6
+|slayercat1 = Skeletons, Undead
+|slayercat2 = Skeletons, Undead
+|slayercat3 = Zombies, Undead
+|slayercat4 = Zombies, Undead
+|max_melee1 = 192
+|max_melee2 = 132
+|max_melee3 = 128
+|max_melee4 = 132
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack1 = 32
+|attack2 = 33
+|attack3 = 32
+|attack4 = 33
+|ranged1 = 0
+|ranged2 = 33
+|ranged3 = 32
+|ranged4 = 33
+|magic1 = 0
+|magic2 = 33
+|magic3 = 32
+|magic4 = 33
+|necromancy = 1
+|acc_melee1 = 486
+|acc_melee2 = 502
+|acc_melee3 = 486
+|acc_melee4 = 502
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities = 
+|armour1 = 486
+|armour2 = 502
+|armour3 = 486
+|armour4 = 502
+|defence1 = 32
+|defence2 = 33
+|defence3 = 32
+|defence4 = 33
+|weakness = Earth
+|susceptibility = Salve
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|dropversion1 = Skeletal
+|dropversion2 = Skeletal
+|id1 = 502,5353
+|id2 = 503,5354
+|id3 = 504,5355,5356
+|id4 = 505,5357,5358
+|leagueRegion=Karamja}}
+The '''undead ones''' play a critical part in the [[Shilo Village]] quest. Both skeletal and zombie undead ones are found in [[Ah Za Rhoon]] and [[Rashiliyia's Tomb]], whereas the zombie undead ones are also found at the entrance to [[Shilo Village (location)|Shilo Village]]. They are decent training for people using [[ranged]], [[magic]], or a [[halberds|halberd]].
+
+When a zombie undead one is killed, they release a gas that can damage for 20-30 [[life points]] over time. However, it is not poisonous, so antipoison is not required. The gas only affects characters in a 1-square radius around where the undead one was when it was killed, so if players kill one, they have a few seconds to run to avoid taking damage. The skeletal undead ones do not release this gas.
+
+They can be used to be slain for [[Zombies (Slayer assignment)|zombies]] or [[Skeletons (Slayer assignment)|skeletons Slayer assignments]], depending on which ones are killed, for higher-levelled players who wish to get more experience from their task. They do not drop anything, though, and so are rarely killed.
+
+==Location==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Shilo Village (location)|Shilo Village]] entrance
+|lvls=44
+|mem=yes
+|mapID=28
+|npcid:505,x:2870,y:2954
+|npcid:504,x:2871,y:2951
+|npcid:5355,x:2872,y:2954
+|npcid:5358,x:2873,y:2951
+|npcid:505,x:2876,y:2947
+|npcid:5355,x:2876,y:2951
+|npcid:5356,x:2876,y:2955
+|npcid:504,x:2876,y:2957
+|npcid:5357,x:2877,y:2959
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc=[[Ah Za Rhoon]]
+|lvls=44, 46
+|mem=yes
+|mapID=623
+|npcid:503,x:2886,y:9293
+|npcid:5353,x:2886,y:9294
+|npcid:504,x:2887,y:9312
+|npcid:505,x:2892,y:9312
+|npcid:5358,x:2897,y:9321
+|npcid:5357,x:2897,y:9322
+|npcid:5354,x:2917,y:9304
+|npcid:502,x:2917,y:9305
+|npcid:505,x:2924,y:9292
+|npcid:5357,x:2930,y:9294
+|npcid:5353,x:2931,y:9317
+|npcid:5355,x:2933,y:9283
+|npcid:5358,x:2933,y:9294
+|npcid:505,x:2934,y:9285
+|npcid:5357,x:2934,y:9309
+|npcid:5358,x:2934,y:9317
+|npcid:5356,x:2937,y:9299
+|npcid:505,x:2937,y:9301
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc=[[Ah Za Rhoon]]
+|lvls=44, 46
+|mem=yes
+|mapID=624
+|npcid:502,x:2886,y:9356
+|npcid:5357,x:2886,y:9360
+|npcid:504,x:2888,y:9376
+|npcid:502,x:2888,y:9381
+|npcid:5355,x:2889,y:9363
+|npcid:503,x:2891,y:9366
+|npcid:5354,x:2892,y:9384
+|npcid:5356,x:2894,y:9358
+|npcid:5353,x:2895,y:9349
+|npcid:5354,x:2896,y:9362
+|npcid:505,x:2898,y:9365
+|npcid:5353,x:2899,y:9368
+|npcid:5358,x:2901,y:9355
+|npcid:504,x:2908,y:9354
+|npcid:503,x:2910,y:9349
+|npcid:5357,x:2916,y:9347
+|npcid:505,x:2917,y:9353
+|npcid:5355,x:2923,y:9355
+|npcid:5356,x:2928,y:9348
+|npcid:5358,x:2928,y:9354
+|leagueRegion = Karamja
+}}
+{{LocLine
+|loc=[[Rashiliyia's Tomb]]
+|lvls=44, 46
+|mem=yes
+|mapID=573
+|npcid:505,x:2901,y:9481
+|npcid:503,x:2902,y:9482
+|npcid:5353,x:2903,y:9508
+|npcid:5357,x:2905,y:9509
+|npcid:5354,x:2911,y:9475
+|npcid:504,x:2911,y:9476
+|npcid:5357,x:2911,y:9488
+|npcid:5358,x:2912,y:9475
+|npcid:502,x:2912,y:9488
+|npcid:5356,x:2914,y:9529
+|npcid:505,x:2915,y:9528
+|npcid:5353,x:2915,y:9529
+|npcid:5355,x:2923,y:9507
+|npcid:504,x:2925,y:9482
+|npcid:505,x:2932,y:9480
+|npcid:5358,x:2932,y:9507
+|npcid:5353,x:2936,y:9487
+|npcid:503,x:2937,y:9491
+|npcid:502,x:2937,y:9503
+|leagueRegion = Karamja
+}}
+{{LocTableBottom}}
+
+==Drops==
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always|version=Skeletal}}
+{{DropsTableBottom}}
+
+==Dialogue==
+{{Speaksin}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=The Lair of Tarn Razorlor|date=22 January 2007}}
+** Skeletons and zombies have been graphically updated across the game.
+*** Additional undead one variants have been added.
+
+* {{UL|type=update|update=Shilo Village Quest online|date=27 January 2003}}
+** Added to game.
+}}
+
+==Trivia==
+* Some zombie undead ones carry a [[Wikipedia:macuahuitl|macuahuitl]], a type of weapon used by the {{wp|Aztec}}s of {{wp|Mesoamerica}}.
+* The undead ones wearing masks make the same sounds as skeletons, despite being zombies. Similarly, the skeletal undead ones holding swords and round shields make zombie sounds. This might be a glitch.
+* The gas they release is said to be green in in-game messages, and used to be green, but it is currently grey.
+
+{{Shilo Village}}
+{{Zombies}}

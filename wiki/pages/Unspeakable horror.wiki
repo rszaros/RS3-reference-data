@@ -1,0 +1,172 @@
+{{Otheruses|def=no|the elite version|Unspeakable horror (elite)}}
+{{Infobox Monster
+|name = Unspeakable horror
+|image = [[File:Unspeakable horror.png|250px]]
+|release = [[12 March]] [[2018]]
+|update = The_Horrors_-_Shadow_Sale_-_GameBlast_Highlights
+|members = Yes
+|options = Attack
+|examine = A horrible, emaciated ape like creature with beady red eyes.
+|level = 105
+|lifepoints = 13000
+|experience = 650
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 58
+|slayxp = 440
+|slayercat = Cave horrors
+|assigned_by = Chaeldar, Sumona
+|max_melee = 720
+|max_ranged = 0
+|max_magic = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 75
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|max_necromancy = 0
+|acc_necromancy = 0
+|acc_melee = 1694
+|acc_ranged = 0
+|acc_magic = 0
+|armour = 1694
+|defence = 75
+|weakness = Air
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 25286
+|leagueRegion = Morytania
+}}
+[[File:Unspeakable horror icon.png|left]] An '''unspeakable horror''' is a [[Slayer]] monster found in the north-eastern part of the [[Mos Le'Harmless caves]]. The player requires level 58 Slayer, a [[witchwood icon]], and a [[light source]] to successfully hunt and kill them. Completion of the [[Cabin Fever]] [[quest]] is required to access [[Mos Le'Harmless]]. Despite having the same Slayer level requirement, they are much stronger than the [[cave horror]]s found in the rest of the cave. They can be used as a higher level alternative to a [[Cave horror|Cave Horror]] Slayer task.
+
+Players can buy a [[witchwood icon]] from any [[Slayer Master]] and must wear it while fighting horrors in close combat. The player can damage them without the icon, but the icon protects against the horrors' scream. Without the icon, the scream deals 10% of your maximum life points as damage. The [[deflect melee]] and [[protect from melee]] prayers will not block this damage. When killing unspeakable horrors, an [[unspeakable horror (elite)|elite]] version may spawn (guaranteed while on a Slayer assignment), which can be further increased with the use of [[fellstalk incense stick]]s. 
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Mos Le'Harmless Caves]]
+|lvls=105
+|mem=yes
+|requirements={{QuestIcon|Cabin Fever}}
+|mapID=27
+|npcid:25286,x:3777,y:9449|npcid:25286,x:3779,y:9438|npcid:25286,x:3784,y:9464
+|npcid:25286,x:3785,y:9460|npcid:25286,x:3786,y:9416|npcid:25286,x:3788,y:9451
+|npcid:25286,x:3791,y:9412|npcid:25286,x:3791,y:9433|npcid:25286,x:3792,y:9422
+|npcid:25286,x:3794,y:9443|npcid:25286,x:3796,y:9461|npcid:25286,x:3797,y:9428
+|npcid:25286,x:3798,y:9450|npcid:25286,x:3799,y:9414|npcid:25286,x:3800,y:9438
+|npcid:25286,x:3806,y:9423|npcid:25286,x:3808,y:9421|npcid:25286,x:3809,y:9438
+|npcid:25286,x:3812,y:9448|npcid:25286,x:3813,y:9428|npcid:25286,x:3813,y:9444
+|npcid:25286,x:3820,y:9430|npcid:25286,x:3821,y:9421|npcid:25286,x:3824,y:9415
+|npcid:25286,x:3826,y:9431|npcid:25286,x:3830,y:9415
+|leagueRegion = Morytania
+}}
+{{LocTableBottom}}
+
+The [[Mos Le'Harmless caves]] are on the southeast side of the island. Players need a light source (such as [[Seer's headband 4]] or a [[bullseye lantern]]) to operate in the cave. If a player goes in without a light source, bugs will rapidly bite them hitting 10-100 and can kill the player quickly depending on their number of [[life points]].
+
+===Getting there===
+* Using the charter ship.
+* Using the [[Big Book o' Piracy]] option 1, a reward from the quest [[Pieces of Hate]].
+* Teleporting using [[rum (red)]] or [[rum (blue)]] bought from [[Honest Jimmy's House of Stuff]].
+* Accessing through the [[fairy ring]] {{Fairycode|DIP}} (requires [[A Fairy Tale III - Battle at Ork's Rift]]). If using the fairy ring shortcut, the player must first repair the bridges connecting the fairy ring island to the Mos le'Harmless mainland. This will require a total of 8 regular [[planks]] and 16 [[nails]] of any kind. Each bridge must be repaired from a different side, meaning the player must fix it from the [[Mos Le'Harmless]] side as well as the fairy ring island side if it is the first time using the shortcut).
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+Standard unspeakable horrors do not have access to the [[rare drop table]], but the elite version does.
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black mask (10)|quantity=1|rarity=1/512|altrarity=1/496|raritynotes={{DropNote|1/496 with tier 2 [[luck]] or higher.}}}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{DropsTableHead}}
+{{DropsLine|name=Grimy ranarr|quantity=3 (noted)|rarity=8/128}}
+{{DropsLine|name=Grimy lantadyme|quantity=2 (noted)|rarity=6/128}}
+{{DropsLine|name=Grimy dwarf weed|quantity=2 (noted)|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=2250-3750|rarity=12/128}}
+{{DropsLine|name=Coins|quantity=3750-6250|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=7500-12500|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Teak logs|quantity=7-13 (noted)|rarity=12/128}}
+{{DropsLine|name=Mahogany logs|quantity=3-7 (noted)|rarity=8/128}}
+{{DropsLine|name=Monkey bones|quantity=4 (noted)|rarity=10/128}}
+{{DropsLine|name=Raw swordfish|quantity=8-12 (noted)|rarity=10/128}}
+{{DropsLine|name=Big bones|quantity=22-28 (noted)|rarity=10/128}}
+{{DropsLine|name=Weapon poison+ (3)|quantity=1|rarity=10/128}}
+{{DropsLine|name=Poison ivy berries|quantity=2 (noted)|rarity=6/128}}
+{{DropsLine|name=Ruby ring|quantity=4-6 (noted)|rarity=7/128}}
+{{DropsLine|name=Ruby necklace|quantity=3-5 (noted)|rarity=7/128}}
+{{DropsLine|name=Coconut|quantity=2 (noted)|rarity=4/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Foot bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only during the [[Fur 'n Seek/Wish list|Fur 'n Seek wish list]].}}|gemw=No}}
+{{DropsLine|name=Festering journal|quantity=1|rarity=1/64|altrarity=1/32|raritynotes={{DropNote|Only if not already obtained. 1/32 with tier 2 [[luck]] or higher.}}|gemw=No}}
+{{DropsLine|name=Scare Tactics|quantity=1|rarity=1/256|altrarity=1/255|raritynotes={{DropNote|1/255 with tier 2 [[luck]] or higher.}}}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5000}}
+{{DropsLineEffigy|level=105}}
+{{DropsLineSpiritGems}}
+{{DropsLineMimic|level=105}}
+{{DropsTableBottom}}
+
+====Charms====
+{{CharmDropTable
+|quantity = 1
+|gold = 38.071/1000
+|green = 19.036/1000
+|crimson = 133.249/1000
+|blue = 3.807/1000
+}}
+
+==Money making guide==
+{{Mmgsection|Killing unspeakable horrors}}
+
+==Achievements==
+* {{Achievement|The Apex Predator}} 
+** [[Black mask]] and [[Scare Tactics]] drop
+* {{Achievement|Lovingly Crafted}} 
+** [[Festering journal]] drop
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=The_Horrors_-_Shadow_Sale_-_GameBlast_Highlights|date=12 March 2018}}
+** Added to game.
+}}
+
+{{Horrors}}
+{{Slayer monsters}}
+[[Category:Mos Le'Harmless]]

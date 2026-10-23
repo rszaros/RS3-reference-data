@@ -1,0 +1,99 @@
+{{Infobox Monster
+|name = Living rock patriarch
+|image = [[File:Living rock patriarch.png|120px]]
+|release = [[17 September]] [[2009]]
+|update = Living Rock Caverns
+|members = Yes
+|options = Attack, Examine
+|examine = A being of ore and minerals.
+|leagueRegion = Asgarnia
+|level = 95
+|lifepoints = 25000
+|experience = 1250.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 320
+|slayercat = Living rock creatures
+|assigned_by = Kuradal
+|max_melee = 1000
+|max_ranged = 1000
+|max_magic = 1000
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 68
+|ranged = 68
+|magic = 68
+|necromancy = 1
+|acc_melee = 1566
+|acc_ranged = 1566
+|acc_magic = 1566
+|acc_necromancy = 0
+|armour = 1409
+|defence = 68
+|weakness = Water
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = Yes
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 8834
+}}
+'''Living rock patriarchs''' are huge creatures that randomly spawn in the [[Living Rock Caverns]]. They spawn erratically every 2 hours, tending to appear in the south-west, south-east, and north-east corners of the cavern.
+
+When they are defeated, they become [[living rock remains]] and require level 73 [[Mining]] to mine for [[living minerals]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Runite stone spirit|quantity=3|rarity=Always}}
+{{DropsLine|name=Uncut diamond|quantity=8 (noted)|rarity=Always}}
+{{DropsLine|name=Blood rune|quantity=50|rarity=Always}}
+{{DropsLine|name=Mud rune|quantity=50|rarity=Always}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Relic Presets & February Mini Strike - This Week In RuneScape|date=10 February 2025}}
+** Living Rock Protectors, Strikers and Patriarchs now count towards Kili's Knowledge VI as a slayer task.
+
+* {{UL|type=patch|update=This Week In RuneScape - 19/10/20#Patch Notes|date=19 October 2020}}
+** Living rock creatures now count towards the Kerapac Track task 'Kill Monsters'.
+
+* {{UL|type=hotfix|update=Patch Notes (10 February 2020)|date=10 February 2020}}
+** Living Rock creatures' souls can once again be captured in [[ushabti]]s without being on a [[Slayer task]] to kill them.
+
+* {{UL|type=patch|update=Patch Notes (26 November 2013)|date=26 November 2013}} 
+** An issue where players using ranged or magic could not mine Living Rock creatures has been fixed.
+
+* {{UL|type=patch|update=Patch_Notes_(29_May_2013)|date=29 May 2013}}
+** Living rock creatures no longer drop bones.
+
+* {{UL|type=patch|update=Patch Notes (12 February 2013)|date=12 February 2013}}
+** Auto retaliate now works as intended with Living Rock creatures.
+
+* {{UL|type=update|update=Living Rock Caverns|date=17 September 2009}}
+** Added to game.
+}}
+
+==Trivia==
+*[[Mod Chris L]] used the Living rock patriarch as an inspiration and model for [[Vorago]].
+
+{{Living Rock Caverns}}
+[[Category:Bosses]]

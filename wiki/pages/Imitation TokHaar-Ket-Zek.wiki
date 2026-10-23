@@ -1,0 +1,58 @@
+{{Infobox Monster
+|version1 = Regular
+|version2 = Hydra
+|name1 = Imitation TokHaar-Ket-Zek
+|name2 = Imitation TokHaar-Ket-Zek (hydra)
+|image1 = [[File:Imitation TokHaar-Ket-Zek.png|200px]]
+|image2 = [[File:Imitation TokHaar-Ket-Zek (hydra).png|200px]]
+|release = [[2 May]] [[2017]]
+|update = Shattered Worlds
+|members = Yes
+|options = Attack
+|size = 3
+|race = TokHaar
+|examine = This huge beast slobbers molten obsidian.
+|level = 1
+|lifepoints = 200
+|experience = 10.0
+|aggressive = No
+|poisonous = No
+|slaylvl1 = 1
+|slayercat1 = TzHaar
+|max_melee = 9
+|max_ranged = 0.0
+|max_magic = 9
+|max_necromancy = 0
+|style = magic
+|primarystyle = magic
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 110
+|acc_ranged = 0
+|acc_magic = 110
+|acc_necromancy = 0
+|armour = 110
+|defence = 1
+|weakness = Nothing
+|aff_weakness = 65
+|aff_melee = 65
+|aff_ranged = 65
+|aff_magic = 65
+|immune_to_poison = No
+|restriction = minigame
+|leagueRegion = Asgarnia
+|id1 = 24259
+|id2 = 24260
+}}
+'''Imitation TokHaar-Ket-Zeks''' can be found while playing [[Shattered Worlds]]. Their levels and stats scale to the world the player finds them on. 
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Shattered Worlds|date=2 May 2017}}
+** Added to game.
+}}
+
+{{Shattered Worlds}}

@@ -1,0 +1,168 @@
+{{Infobox Monster
+|name = Goblin Raider
+|image = [[File:Goblin Raider.png|150px]]
+|release = [[17 October]] [[2012]]
+|update = What's Mine is Yours
+|members = No
+|options = Attack
+|examine = He's committing smash and grab!
+|level = 56
+|lifepoints = 7500
+|experience = 375.0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 80.8
+|slayercat = Goblins
+|assigned_by = Turael, Spria
+|max_melee = 576
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed = 4
+|attack = 40
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 628
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 628
+|defence = 40
+|weakness = Nothing
+|aff_weakness = 90
+|aff_melee = 55
+|aff_ranged = 45
+|aff_magic = 65
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction = minigame
+|dropversion = Forest raid, Mine raid, Farm raid
+|leagueRegion = Misthalin,Asgarnia
+|id = 15956
+}}
+'''Goblin Raiders''' are raiders who are involved in [[Goblin Raids]], led by [[Hollowtoof]]. They drop items relevant to what they're raiding. When raiding they shout various phrases such as "Got one!" , "Hur hur hur!" and "I got a ..." They appear to be wielding the [[raider axe]].
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Bones|quantity=1|rarity=Always}}
+{{DropsLine|name=Goblin skull|quantity=1|rarity=Always|raritynotes={{DropNote|Only during the [[Rag and Bone Man]] quest.}}|members=yes}}
+{{DropsTableBottom}}
+
+===Raided drops===
+These raiders will shout various phrases, and each time they shout this, one roll for a raided drop ([[logs]] for a wood-gathering goblin, [[seeds]] for a goblin on a farm, [[stone spirit]]s for a mine) is added to that goblin. When it is killed, they drop all of it. For example, if a goblin raider is cutting trees and yells three quotes, then the player has three rolls on the raided logs drop table. These are dropped in addition to a main drop and any other tertiary drops.
+
+The quality of resource is not limited to the source they are targeting. A Raider gathering at a normal [[tree]] can drop [[yew logs]], for example.
+====Forest raid====
+{{DropsTableHead|version=Forest raid}}
+{{DropsLine|name=Yew logs|quantity=1|rarity=1/16}}
+{{DropsLine|name=Willow logs|quantity=1|rarity=3/16}}
+{{DropsLine|name=Oak logs|quantity=1|rarity=4/16}}
+{{DropsLine|name=Logs|quantity=1|rarity=8/16}}
+{{DropsTableBottom}}
+
+====Mine raid====
+{{DropsTableHead|version=Mine raid}}
+{{DropsLine|name=Gold stone spirit|quantity=1|rarity=1/32}}
+{{DropsLine|name=Silver stone spirit|quantity=1|rarity=3/32}}
+{{DropsLine|name=Coal stone spirit|quantity=1|rarity=4/32}}
+{{DropsLine|name=Iron stone spirit|quantity=1|rarity=8/32}}
+{{DropsLine|name=Copper stone spirit|quantity=1|rarity=4/32}}
+{{DropsLine|name=Tin stone spirit|quantity=1|rarity=4/32}}
+{{DropsLine|name=Clay|quantity=1|rarity=8/32}}
+{{DropsTableBottom}}
+
+====Farm raid====
+{{DropsTableHead|version=Farm raid}}
+{{DropsLine|name=Potato seed|quantity=1|rarity=1/3}}
+{{DropsLine|name=Marigold seed|quantity=1|rarity=1/3}}
+{{DropsLine|name=Barley seed|quantity=1|rarity=1/3}}
+{{DropsTableBottom}}
+
+===Main drops===
+====Coins====
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=24|rarity=3/128}}
+{{DropsLine|name=Coins|quantity=16|rarity=7/128}}
+{{DropsLine|name=Coins|quantity=5-15|rarity=14/128}}
+{{DropsLine|name=Coins|quantity=5|rarity=8/128}}
+{{DropsLine|name=Coins|quantity=3|rarity=13/128}}
+{{DropsLine|name=Coins|quantity=1|rarity=34/128}}
+{{DropsTableBottom}}
+
+====Runes====
+{{DropsTableHead}}
+{{DropsLine|name=Earth rune|quantity=4|rarity=3/128}}
+{{DropsLine|name=Body rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Mind rune|quantity=2|rarity=3/128}}
+{{DropsLine|name=Nature rune|quantity=1|rarity=1/128}}
+{{DropsLine|name=Chaos rune|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Spirits====
+{{DropsTableHead}}
+{{DropsLine|name=Oak wood spirit|quantity=5|rarity=9/128}}
+{{DropsLine|name=Teak wood spirit|quantity=3|rarity=1/128}}
+{{DropsLine|name=Willow wood spirit|quantity=4|rarity=1/128}}
+{{DropsLine|name=Tin stone spirit|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+====Herbs====
+{{HerbDropTableIntro|2/128|f2p=yes}}
+{{DropsTableHead}}
+{{HerbDropTable|2/128|f2p=yes}}
+{{DropsTableBottom}}
+
+====Other====
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (easy)|quantity=1|rarity=1/128|raritynotes={{DropNote|Rolls separately, first.}}|members=yes|gemw=no}}
+{{DropsLine|name=Goblin mail|quantity=1|rarity=10/128}}
+{{DropsLine|name=Bronze hatchet|quantity=1|rarity=3/128}}
+{{DropsLine|name=Bronze arrow|quantity=20|rarity=3/128}}
+{{DropsLine|name=Bronze javelin|quantity=5|rarity=2/128}}
+{{DropsLine|name=Goblin book|quantity=1|rarity=2/128}}
+{{DropsLine|name=Small bladed bronze salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Cape (red)|quantity=1|rarity=1/128}}
+{{DropsLine|name=Grapes|quantity=1|rarity=1/128}}
+{{DropsLine|name=Nothing|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Goblin Champion's scroll|quantity=1|rarity=1/5000|raritynotes={{DropNote|Only dropped if you have access to the [[Champions' Guild]] and you have not defeated the [[Goblin Champion]] in [[Champion's Challenge]]. Chance increased to 1/4000 if a [[champion scroll enhancer]] is active.}}|altrarity=1/4000|gemw=no|members=yes}}
+{{DropsTableBottom}}
+
+==Achievements==
+* {{Achievement|Guardian of the Realm}} 
+** [[Goblin mail]] and [[goblin book]] drops
+
+==Dialogue==
+{{Hasdialogue|npc}}
+
+==Update history==
+{{UH|
+* {{UL|type=patch|update=November PostJam Patch Week - This Week In RuneScape|date=25 November 2024}}
+** Replaced the [[tiny spiky bronze salvage]] drop with [[oak wood spirit]]s.
+** Replaced the [[small plated bronze salvage]] drop with [[willow wood spirit]]s.
+** Replaced the [[small plated iron salvage]] drop with [[teak wood spirit]]s.
+
+* {{UL|type=update|update=What's Mine is Yours|date=17 October 2012}}
+** Added to game.
+}}
+
+==Trivia==
+* Before the update on [[26 May]] [[2015]], goblin raids were only accessible to [[members]].
+* Their examine text is a reference to the {{Wp|Smash and grab|crime of the same name}}.
+* They can yell "I got a plank!" even though they cannot drop [[plank]]s, only logs. It could be that they aren't intelligent enough to distinguish logs from planks.
+* Since the [[Mining and Smithing rework]], they no longer shout and raid at mining sites.
+{{Goblin raids}}
+{{Goblins}}
+[[Category:Bandosians]]

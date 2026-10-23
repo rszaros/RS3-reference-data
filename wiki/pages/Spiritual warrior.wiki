@@ -1,0 +1,326 @@
+{{External|os}}
+{{Infobox Monster
+|version1 = Zamorak
+|version2 = Armadyl
+|version3 = Saradomin
+|version4 = Bandos
+|version5 = The World Wakes
+|name = Spiritual warrior
+|image1 = [[File:Spiritual warrior (Zamorak).png|250px]]
+|image2 = [[File:Spiritual warrior (Armadyl).png|220px]]
+|image3 = [[File:Spiritual warrior (Saradomin).png|200px]]
+|image4 = [[File:Spiritual warrior (Bandos).png|220px]]
+|image5 = [[File:Spiritual warrior (Saradomin).png|200px]]
+|release1 = [[28 August]] [[2007]]
+|release2 = [[28 August]] [[2007]]
+|release3 = [[28 August]] [[2007]]
+|release4 = [[28 August]] [[2007]]
+|release5 = [[4 March]] [[2013]]
+|update1 = God Wars Dungeon
+|update2 = God Wars Dungeon
+|update3 = God Wars Dungeon
+|update4 = God Wars Dungeon
+|update5 = The World Wakes
+|members = Yes
+|options = Attack
+|examine1 = Warrior of Zamorak.
+|examine2 = A servant of Armadyl.
+|examine3 = Saradomin's chosen warrior.
+|examine4 = A true servant of Bandos.
+|examine5 = Saradomin's chosen warrior.
+|level = 98
+|level5 = 49
+|lifepoints = 7000
+|lifepoints5 = 1120
+|experience5 = 0.0
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 68
+|slaylvl5 = N/A
+|slayxp = 229.0
+|slayxp5 = N/A
+|slayercat1 = Spiritual warriors, Ghosts, Undead
+|slayercat2 = Spiritual warriors, Aviansies, Ghosts, Undead
+|slayercat3 = Spiritual warriors, Ghosts, Undead
+|slayercat4 = Spiritual warriors, Ghosts, Undead
+|slayercat5 = n/a
+|max_melee1 = 280
+|max_melee2 = 280
+|max_melee3 = 350
+|max_melee4 = 350
+|max_melee5 = 280
+|max_ranged = 0
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = melee
+|primarystyle = melee
+|speed1 = 4
+|speed2 = 4
+|speed3 = 5
+|speed4 = 5
+|speed5 = 5
+|attack = 70
+|attack5 = 35
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 1486
+|acc_melee5 = 536
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 1486
+|armour5 = 536
+|defence = 70
+|defence5 = 35
+|weakness1 = Air
+|weakness2 = Air
+|weakness3 = Earth
+|weakness4 = Earth
+|weakness5 = Earth
+|susceptibility = Salve, Ghost hunter
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|restriction5 = quest
+|dropversion1 = Zamorak
+|dropversion2 = Armadyl
+|dropversion3 = Saradomin
+|dropversion4 = Bandos
+|id1 = 6219
+|id2 = 6229
+|id3 = 6255
+|id4 = 6277
+|id5 = 16960
+|leagueRegion = Asgarnia
+}}
+[[File:Spiritual warrior icon.png|left]]
+'''Spiritual warriors''' are powerful [[melee]] users inhabiting the [[God Wars Dungeon]]. There are four types of spiritual warriors: [[Saradomin]]ist, [[Zamorak]]ian, [[Bandos]]ian, and [[Armadyl]]ean.
+
+Armadylean spiritual warriors cannot be attacked with [[melee]], as they are former [[aviansie]]. As such, they also count towards [[Aviansies (Slayer assignment)|aviansie slayer assignments]].
+
+They are affected by the buffs of the [[salve amulet]], [[salve amulet (e)]], as well as the [[Undead Slayer]] perk.
+
+Spiritual warriors frequently drop [[Salvage#Adamant|adamant]] and [[Salvage#Rune|rune salvage]], so it is advisable to bring a [[spring cleaner]] or runes for [[High Level Alchemy]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[God Wars Dungeon]]
+|lvls=98
+|mem=yes
+|mapID=15
+|npcid:6229,x:2837,y:5287|npcid:6229,x:2841,y:5281|npcid:6229,x:2858,y:5263|npcid:6277,x:2827,y:5334|npcid:6277,x:2834,y:5350|npcid:6277,x:2836,y:5320|npcid:6277,x:2842,y:5345|npcid:6277,x:2843,y:5341|npcid:6277,x:2843,y:5364|npcid:6277,x:2844,y:5328|npcid:6277,x:2846,y:5358|npcid:6277,x:2851,y:5346|npcid:6277,x:2854,y:5351|npcid:6255,x:2880,y:5290|npcid:6255,x:2880,y:5307|npcid:6255,x:2881,y:5284|npcid:6255,x:2882,y:5293|npcid:6255,x:2884,y:5310|npcid:6255,x:2885,y:5305|npcid:6255,x:2886,y:5288|npcid:6255,x:2886,y:5311|npcid:6255,x:2888,y:5281|npcid:6255,x:2896,y:5292|npcid:6255,x:2897,y:5311|npcid:6255,x:2898,y:5311|npcid:6255,x:2900,y:5284|npcid:6255,x:2904,y:5299|npcid:6255,x:2906,y:5291|npcid:6255,x:2908,y:5296|npcid:6255,x:2914,y:5266|npcid:6255,x:2918,y:5286|npcid:6255,x:2919,y:5296|npcid:6255,x:2920,y:5281|npcid:6255,x:2921,y:5290|npcid:6255,x:2926,y:5289|npcid:6255,x:2930,y:5292|npcid:6219,x:2890,y:5356|npcid:6219,x:2904,y:5352|npcid:6219,x:2908,y:5344|npcid:6219,x:2913,y:5339|npcid:6219,x:2913,y:5357|npcid:6219,x:2915,y:5349|npcid:6219,x:2918,y:5344|npcid:6219,x:2922,y:5345|npcid:6219,x:2925,y:5342|npcid:6219,x:2927,y:5345
+|leagueRegion = Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===Pre-roll===
+{{DropsTableHead}}
+{{DropsLine|name=Sealed clue scroll (hard)|quantity=1|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|12/128}}
+{{DropsTableHead}}
+{{HerbDropTable|12/128}}
+{{DropsTableBottom}}
+
+===Consumables===
+{{DropsTableHead}}
+{{DropsLine|name=Shark|quantity=1|rarity=12/128}}
+{{DropsLine|name=Super attack (3)|quantity=1|rarity=8/128}}
+{{DropsLine|name=Super defence (3)|quantity=1|rarity=8/128}}
+{{DropsLine|name=Super strength (3)|quantity=1|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Stone spirits===
+{{DropsTableHead}}
+{{DropsLine|name=Adamantite stone spirit|quantity=2|rarity=8/128}}
+{{DropsLine|name=Luminite stone spirit|quantity=2|rarity=8/128}}
+{{DropsLine|name=Runite stone spirit|quantity=1|rarity=8/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium bladed adamant salvage|quantity=1|rarity=12/128}}
+{{DropsLine|name=Tiny spiky rune salvage|quantity=1|rarity=6/128}}
+{{DropsLine|name=Medium bladed rune salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Large plated rune salvage|quantity=1|rarity=4/128}}
+{{DropsLine|name=Huge bladed rune salvage|quantity=2|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=6500-7500|rarity=14/128}}
+{{DropsLine|name=Coins|quantity=8000-10000|rarity=6/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|7/128}}
+
+===Tertiary===
+====All variants====
+{{DropsTableHead}}
+{{DropsLineGhostlyEssence|quantity=7-8, 7-9|rarity=1/256|altrarity=1/96|raritynotes={{DropNote|While on an appropriate [[Slayer assignment]], there is a 1/96 chance to drop 7–9 ghostly essence.}}}}
+{{DropsLineGhosts|essence/quantity=7-8|essence/rarity=1/256|ectorarity=500|herbrarity=1024}}
+{{DropsTableBottom}}
+
+====God variants====
+{{Switch infobox
+|text1 = Zamorak
+|item1 = {{DropsTableHead|version=Zamorak}}
+{{DropsLine|name=Frozen key piece (Zamorak)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Zamorak's Fortress]].}}|gemw=No}}
+{{DropsLine|name=Furniture plans: Zamorak rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Zamorak altar|quantity=1|rarity=Unknown}}
+{{DropsLineWarpriest|god=zamorak}}
+{{DropsTableBottom}}
+|text2 = Armadyl
+|item2 = {{DropsTableHead|version=Armadyl}}
+{{DropsLine|name=Frozen key piece (Armadyl)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Armadyl's Eyrie]].}}|gemw=No}}
+{{DropsLine|name=Furniture plans: Armadyl rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Armadyl altar|quantity=1|rarity=Unknown}}
+{{DropsLineWarpriest|god=armadyl}}
+{{DropsTableBottom}}
+|text3 = Saradomin
+|item3 = {{DropsTableHead|version=Saradomin}}
+{{DropsLine|name=Frozen key piece (Saradomin)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Saradomin's Encampment]].}}|gemw=No}}
+{{DropsLine|name=Furniture plans: Saradomin rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Saradomin altar|quantity=1|rarity=Unknown}}
+{{DropsLineWarpriest|god=saradomin}}
+{{DropsTableBottom}}
+|text4 = Bandos
+|item4 = 
+{{DropsTableHead|version=Bandos}}
+{{DropsLine|name=Frozen key piece (Bandos)|quantity=1|rarity=1/25|raritynotes={{DropNote|Only in [[Bandos's Stronghold]].}}|gemw=No}}
+{{DropsLine|name=Furniture plans: Bandos rug|quantity=1|rarity=Unknown}}
+{{DropsLine|name=Furniture plans: Bandos altar|quantity=1|rarity=Unknown}}
+{{DropsLineWarpriest|god=bandos}}
+{{DropsTableBottom}}
+}}
+
+==Money making guide==
+{{Mmgsection|Killing spiritual warriors}}
+
+==Graphical updates==
+{{Switch infobox
+|text1 = Zamorak
+|item1 = {{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Spiritual warrior (Zamorak) (2007).png|name=Spiritual warrior}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Spiritual warrior (Zamorak) (2008).png|name=Spiritual warrior}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Spiritual warrior (Zamorak).png|name=Spiritual warrior}}
+}}
+|text2 = Armadyl
+|item2 = {{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Spiritual warrior (Armadyl) (2007).png|name=Spiritual warrior}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Spiritual warrior (Armadyl) (2008).png|name=Spiritual warrior}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Spiritual warrior (Armadyl).png|name=Spiritual warrior}}
+}}
+|text3 = Saradomin
+|item3 = {{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Spiritual warrior (Saradomin) (2007).png|name=Spiritual warrior}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Spiritual warrior (Saradomin) (2008).png|name=Spiritual warrior}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Spiritual warrior (Saradomin).png|name=Spiritual warrior}}
+}}
+|text4 = Bandos
+|item4 = {{GU|subject=npc
+|{{GUL|date=[[28 August]] [[2007]]|update=God Wars Dungeon|img=Spiritual warrior (Bandos) (2007).png|name=Spiritual warrior}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Spiritual warrior (Bandos) (2008).png|name=Spiritual warrior}}
+|{{GUL|date=[[5 September]] [[2012]]|update=God Wars: Remastered|img=Spiritual warrior (Bandos).png|name=Spiritual warrior}}
+}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update=Tuska Clean Up - This Week In RuneScape|date=18 August 2025}}
+** The [[Sacrifice]], [[Devotion]], and [[Transfigure]] abilities have been removed from the God Wars Dungeon I loot table, and are now obtained by completing the [[One Piercing Note]] quest.
+
+* {{UL|type=patch|update=Completionist Cape Strike & Retro Saradomin God Armour - This Week In Runescape|date=17 April 2023}}
+** Fixed the issue of incorrect souls being captured by Ushabti.
+
+* {{UL|type=patch|update=Unwelcome Guests Slayer Content - This Week In RuneScape|date=11 April 2023}}
+** Can be killed as part of the new undead slayer task.
+
+* {{UL|type=ninja|update=This Week In RuneScape - 26/10/20#Patch Notes|date=26 October 2020}}
+** Monsters with multiple variants will now consistently spawn as those variants when newly placed in the [[Sunken Pyramid|Personal Slayer Dungeon]].
+*** This includes spiritual warriors, [[spiritual ranger|rangers]] and [[spiritual mage|mages]].
+
+* {{UL|type=patch|update=Patch Notes (4 May 2020)|date=4 May 2020}}
+** [[Coal stone spirit|Coal]] and [[mithril stone spirit]]s have been replaced by [[luminite stone spirit|luminite]] and [[runite stone spirit]]s.
+
+* {{UL|type=patch|update=Patch Notes (2 March 2020)|date=2 March 2020}}
+** You are now able to attack spiritual warriors in your own [[Sunken Pyramid#Slayer Dungeon|Player Owned Dungeon]].
+
+* {{UL|type=patch|update=Patch Notes (2 November 2015)|date=2 November 2015}}
+** The look of the spiritual warriors in the player's vision during [[Ritual of the Mahjarrat]] have been brought graphically up to date with their brethren in the [[God Wars Dungeon]].
+
+* {{UL|type=patch|update=Patch Notes (16 February 2015)|date=16 February 2015}}
+** Spiritual warriors, [[spiritual mage|mages]] and [[spiritual ranger|rangers]] no longer count towards [[automaton]] slayer tasks.
+
+* {{UL|type=patch|update=Patch Notes (7 January 2014)|date=7 January 2014}}
+** Zamorak spiritual warriors can no longer attack from a distance with melee attacks.
+
+* {{UL|type=update|update=God Wars: Remastered|date=5 September 2012}}
+** Spiritual warriors have been graphically updated.
+
+* {{UL|type=patch|update=Patch Notes (7 February 2012)|date=7 February 2012}}
+** Spirit warrior's wielding maces no longer attack as if they're not holding a weapon.
+
+* {{UL|type=patch|update=Patch Notes (28 June 2011)|date=28 June 2011}}
+** Saradomin spiritual warriors now hold their swords correctly.
+
+* {{UL|type=patch|update=Patch Notes (10 January 2011)|date=10 January 2011}}
+** This enemy will no longer have maces in strange positions when standing still.
+
+* {{UL|type=patch|update=Patch Notes (12 May 2009)|date=12 May 2009}}
+** Spiritual warriors in the [[God Wars Dungeon]] were using a punching animation even though they obviously have a weapon equipped.
+
+* {{UL|type=patch|update=Patch Notes (27 January 2009)|date=27 January 2009}}
+** Fixed Saradomin spiritual warriors and mages using the wrong attack animations.
+
+* {{UL|type=update|update=God Wars Dungeon|date=28 August 2007}}
+** Added to game.
+}}
+
+==Trivia==
+* Spiritual warriors originally dropped medium clue scrolls, but were updated to drop hard clue scrolls instead.
+* Prior to the Evolution of Combat, spiritual warriors, like their mage and ranging variants, were unique among each faction:
+** Armadylean spiritual warriors had the least amount of spawns, while Bandosian spiritual warriors were more common, due to their god's warlike nature. The few Armadylean spiritual warriors in the dungeon also used ranged attacks.
+** The health and combat stats of each god's warrior also varied, with Zamorak's warriors being the weakest melee fighters, and Bandos' warriors being the strongest.
+* Although the Saradomin Spiritual warriors wield swords, they seem to be attacking their enemies by punching them, rather than hitting them with the sword. When defending from an attack, they also defend as if they had no hand equipment, despite the kiteshield.
+* Same as above, when attacking a Zamorakian Spiritual warrior, they have an anger maul and kiteshield just like their Saradomin versions. However, attacking them will cause them to protect themselves with the animation if they had no weapons on them and attack via punching.
+* For a while, Zamorakian Spiritual Warriors used magic attacks instead of melee. This has been fixed.
+
+==References==
+{{Reflist}}
+
+{{Slayer monsters}}
+{{The World Wakes}}
+{{Ghost}}
+{{Aviansie}}
+{{God Wars Dungeon}}
+
+[[Category:Participants in the God Wars]]
+[[Category:Bandosians]]
+[[Category:Saradominists]]
+[[Category:Zamorakians]]
+[[Category:Armadyleans]]
+[[Category:Orks]]

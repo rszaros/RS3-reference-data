@@ -1,0 +1,187 @@
+{{External|os}}
+{{Dgvariant|Thrower troll (Dungeoneering)}}
+{{Confuse|troll ranger}}
+{{Infobox Monster
+|name = Thrower Troll
+|name2 = Thrower troll
+|version1 = Death Plateau
+|version2 = Trollheim
+|image = [[File:Thrower Troll.png|200px]]
+|release1 = [[9 August]] [[2004]]
+|release2 = [[24 August]] [[2004]]
+|update1 = Death_Plateau_Quest
+|update2 = Troll Stronghold Quest
+|members1 = No
+|members2 = Yes
+|actions = Attack
+|examine1 = Small for a troll but mean, ugly and throws rocks.
+|examine2 = Small for a troll, but it's mean, ugly and throws rocks.
+|level = 67
+|lifepoints = 9450
+|experience = 472.5
+|aggressive = Yes
+|poisonous = No
+|slaylvl = 1
+|slayxp = 54.8
+|slayercat = Trolls
+|assigned_by = Chaeldar, Sumona, Turael, Spria
+|max_melee = 1435
+|max_ranged = 1225
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 7
+|attack = 41
+|ranged = 35
+|magic = 1
+|necromancy = 1
+|acc_melee = 548
+|acc_ranged = 436
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 983
+|defence = 55
+|weakness = Stab
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|id = 1101,1102,1103,1104,1105,1130,1131,1132,1133,1134
+|leagueRegion = Asgarnia
+}}
+'''Thrower trolls''' are [[troll]]s that attack with [[ranged]]. They are relatively annoying monsters that throw rocks at passing adventurers, often attacking from the top of a cliff shouting "Urg!". They can hit very hard and are often found in packs that can quickly kill unprepared players. Equipping a [[Fremennik round shield]] or activating [[Protect from Ranged]] or [[Deflect Ranged]] can reduce their max hit.
+
+Those trolls on [[Trollheim]] inflict even more damage than those trolls on [[Death Plateau]].
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Death Plateau (location)|Death Plateau]]
+|lvls=67
+|mem=yes
+|mapID=28
+|npcid:1105,x:2845,y:3598|npcid:1101,x:2848,y:3600|npcid:1102,x:2853,y:3600|npcid:1103,x:2857,y:3600|npcid:1104,x:2861,y:3600|npcid:1105,x:2863,y:3599
+|leagueRegion=Asgarnia
+}}
+{{LocLine
+|loc=[[Trollheim]]
+|lvls=67
+|mem=yes
+|mapID=28
+|npcid:1134,x:2890,y:3697|npcid:1133,x:2895,y:3698|npcid:1132,x:2900,y:3697|npcid:1131,x:2907,y:3697|npcid:1130,x:2911,y:3697
+|leagueRegion=Asgarnia
+}}
+{{LocTableBottom}}
+
+==Drops==
+{{DropLogProject|jagex=yes}}
+
+{{Average drop value}}
+
+===100%===
+{{DropsTableHead}}
+{{DropsLine|name=Big bones|quantity=1|rarity=Always}}
+{{DropsTableBottom}}
+
+===Weapons and armour===
+{{DropsTableHead}}
+{{DropsLine|name=Black warhammer|quantity=1|rarity=3/256}}
+{{DropsLine|name=Off-hand black warhammer|quantity=1|rarity=3/256}}
+{{DropsTableBottom}}
+
+===Runes===
+{{DropsTableHead}}
+{{DropsLine|name=Nature rune|quantity=7|rarity=5/128}}
+{{DropsLine|name=Law rune|quantity=2|rarity=3/128}}
+{{DropsTableBottom}}
+
+===Herbs===
+{{HerbDropTableIntro|15/128}}
+{{DropsTableHead}}
+{{HerbDropTable|15/128}}
+{{DropsTableBottom}}
+
+===Seeds===
+{{UncommonSeedDropTableIntro|19/128}}
+{{DropsTableHead}}
+{{UncommonSeedDropTable|19/128}}
+{{DropsTableBottom}}
+
+===Salvage===
+{{DropsTableHead}}
+{{DropsLine|name=Tiny plated steel salvage|quantity=1|rarity=5/128}}
+{{DropsLine|name=Medium blunt steel salvage|quantity=1|rarity=3/128}}
+{{DropsLine|name=Small plated mithril salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Tiny plated adamant salvage|quantity=1|rarity=1/128}}
+{{DropsLine|name=Medium blunt adamant salvage|quantity=1|rarity=1/128}}
+{{DropsTableBottom}}
+
+===Coins===
+{{DropsTableHead}}
+{{DropsLine|name=Coins|quantity=8|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=35|rarity=29/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=50|rarity=7/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=100|rarity=18/128|gemw=No}}
+{{DropsLine|name=Coins|quantity=250|rarity=1/128|gemw=No}}
+{{DropsTableBottom}}
+
+===Other===
+{{DropsTableHead}}
+{{DropsLine|name=Coal stone spirit|quantity=3|rarity=3/128}}
+{{DropsLine|name=Raw mackerel|quantity=3 (noted)|rarity=2/128}}
+{{DropsTableBottom}}
+
+===Gem drop table===
+{{GemDropTable|5/128}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLine|name=Troll bone|quantity=1|rarity=1/4|raritynotes={{DropNote|Only dropped during the [[Rag and Bone Man/Wish list|Rag and Bone Man wish list]].}}|gemw=No}}
+{{DropsLine|name=Long bone|quantity=1|rarity=1/400|gemw=No}}
+{{DropsLine|name=Curved bone|quantity=1|rarity=1/5012.5|gemw=No}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=|update=|img=Thrower Troll old.png|name=Thrower Troll}}
+|{{GUL|date=|update=|img=Thrower Troll.png|name=Thrower Troll}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=patch|update=Housing of Parliament & Double XP- This Week In RuneScape|date=12 February 2024}}
+** Rebalanced several low level monsters that were harder to kill than intended.
+
+* {{UL|type=update|update=New Skill: Necromancy - This Week In RuneScape|date=7 August 2023}}
+** Thrower trolls now do much more damage but also give more experience.
+
+* {{UL|type=update|update=Rune Value Improvements|date=15 September 2014}}
+** Many monster types have had their rune drop rates reduced or removed, in order to increase the value of altar runecrafting.
+*** Thrower Trolls have had their [[earth rune]] drops removed.
+
+* {{UL|type=update|update=Death Plateau Quest|date=9 August 2004}}
+** Added to game.
+}}
+
+==Trivia==
+* For a while after the Evolution of Combat, Thrower trolls near the God Wars Dungeon entrance were unaggressive. This was later fixed.
+* Before the [[Update:Instanced God Wars & EoC Updates|Instanced God Wars update]] on [[30 April]] [[2013]], when a Thrower Troll attacked a player, the player was not in the combat stance. It was later fixed with the aforementioned update.
+* If a Thrower Troll at Death Plateau is lured away from the ledge and towards the center of the plateau, it will be unable to attack the player and will instead stand still.
+
+==References==
+{{Reflist}}
+
+{{Trolls}}
+[[Category:Bandosians]]

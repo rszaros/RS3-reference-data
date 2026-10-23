@@ -1,0 +1,122 @@
+{{External|os|rsc=Shadow spider}}
+{{Infobox Monster
+|name = Shadow spider
+|image = [[File:Shadow spider.png|140px]]
+|release = [[8 May]] [[2002]]
+|update = Latest RuneScape News (8 May 2002)
+|members = Yes
+|options = Attack
+|examine = Is it a spider or is it a shadow?
+|level = 46
+|lifepoints = 1650
+|experience = 82.5
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 19.6
+|slayercat = Spiders
+|assigned_by = Turael, Jacquelyn, Vannaka
+|max_melee = 132
+|max_ranged = 132
+|max_magic = 0
+|max_necromancy = 0
+|max_spec = 0
+|style = ranged
+|primarystyle = ranged
+|speed = 4
+|attack = 1
+|ranged = 33
+|magic = 1
+|necromancy = 1
+|acc_melee = 502
+|acc_ranged = 502
+|acc_magic = 0
+|acc_necromancy = 0
+|armour = 502
+|defence = 33
+|weakness = Crush
+|susceptibility = NopeNopeNope
+|aff_weakness = 90
+|aff_melee = 70
+|aff_ranged = 60
+|aff_magic = 50
+|immune_to_poison = No
+|immune_to_deflect = No
+|immune_to_stun = No
+|immune_to_drain = No
+|leagueRegion = Kandarin,Wilderness
+|id = 58
+}}
+The '''shadow spider''' is a level 46 monster. If a player attacks or attempts to attack this monster or the monster targets them, it will drain their [[Prayer]] points by half of the current amount, rounded up. Prayer is only drained at the beginning of the fight - apparently 3 times, by attempting to attack, actually attacking, and them targeting the player, as initiating combat with a spider will immediately leave you with only 1/8 of your original prayer points. Prayer is drained even if you only clicked to attack them and have not reached them yet (and this happens every time you attempt to do so; if you click on a spider rapidly at a distance without a [[Ranged]] or [[Magic]] weapon, your prayer would be drained to 1). They can never take away a player's last prayer point.
+
+Like [[Jungle spider]]s, they do not show on the minimap.
+
+==Locations==
+{{LocTableHead}}
+{{LocLine
+|loc=[[Waterfall Dungeon]]
+|lvls=46
+|mem=yes
+|mapID=619
+|npcid:58,x:2572,y:9875|npcid:58,x:2574,y:9876|npcid:58,x:2576,y:9875
+|npcid:58,x:2576,y:9877|npcid:58,x:2580,y:9876
+|leagueRegion = Kandarin
+}}
+{{LocLine
+|loc=[[Chaos Tunnels]]
+|lvls=46
+|mem=yes
+|mapID=23
+|npcid:58,x:3268,y:5469|npcid:58,x:3269,y:5461|npcid:58,x:3274,y:5473
+|npcid:58,x:3286,y:5482|npcid:58,x:3287,y:5468|npcid:58,x:3288,y:5466
+|npcid:58,x:3290,y:5480|npcid:58,x:3291,y:5468|npcid:58,x:3293,y:5479
+|npcid:58,x:3294,y:5475|npcid:58,x:3295,y:5479|npcid:58,x:3301,y:5477
+|leagueRegion = Wilderness
+}}
+{{LocTableBottom}}
+
+==Drops==
+===Charms===
+{{CharmDataTable|Shadow_spider}}
+
+===Tertiary===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Starved ancient effigy|quantity=1|rarity=Very rare}}
+{{DropsTableBottom}}
+
+==Graphical updates==
+{{GU|subject=npc
+|{{GUL|date=[[8 May]] [[2002]]|update=Latest RuneScape News (8 May 2002)|img=Shadow spider (2002).png|name=Shadow spider}}
+|{{GUL|date=[[29 March]] [[2004]]|update=RS2 Launched!|img=Shadow spider (2004).png|name=Shadow spider}}
+|{{GUL|date=[[5 December]] [[2006]]|update=Treasure Trails, spiders and sheep|img=Shadow spider (2006).png|name=Shadow spider}}
+|{{GUL|date=[[1 July]] [[2008]]|update=RuneScape HD - Members-Only Beta Launch|img=Shadow spider.png|name=Shadow spider}}
+}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Melee ('weak'): 65 → 70
+*** Ranged ('same'): 55 → 60
+*** Magic ('strong'): 45 → 50
+
+* {{UL|type=update|update=Wilderness Reborn & New Quest - This Week In RuneScape|date=1 August 2022}}
+** Shadow spiders are removed from [[Deep Wilderness Dungeon]] and [[Wilderness]].
+
+* {{UL|type=patch|update=Patch Notes (18 March 2013)|date=18 March 2013}}
+** [[Grotworm]]s, [[moss giant]]s, [[banshee]]s, [[jungle spider]]s, shadow spiders, [[spider]]s, [[giant spider]]s, [[deadly red spider]]s, [[ice spider]]s, [[scorpion]]s, [[poison scorpion]]s and [[pit scorpion]] will no longer hit for 1 hit point worth of damage.
+
+* {{UL|type=update|update=Latest RuneScape News (8 May 2002)|date=8 May 2002}}
+** Added to game.
+}}
+
+==Trivia==
+*Before [[random event]]s were discontinued, a glitch could occur involving the spiders' prayer draining ability. If you got a random event, and managed to complete it, the spider could continuously drain your Prayer even without it attacking, until it reached 1. The speed of the drain was 3 points per second.
+*A year after ''RuneScape'' was released, there was a bug where shadow spiders prevented potions from running out.
+
+==References==
+*[http://services.runescape.com/m=news/bug-squashing Runescape - Bug Squashing]
+
+{{Spiders}}
+[[Category:NPCs not visible on the minimap]]

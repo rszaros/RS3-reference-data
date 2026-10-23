@@ -1,0 +1,77 @@
+{{Infobox Monster
+|name = Ghost troll brute
+|image = <!--[[File:Ghost troll brute.png|x280px]]-->
+|release = [[7 August]] [[2023]]
+|update = New Skill: Necromancy - This Week In RuneScape
+|members = No
+|options = Attack, Examine
+|race = Troll, Ghost
+|examine = Gets up close and personal.
+|leagueRegion = Misthalin
+|level = 3
+|lifepoints = 1000
+|experience = 0
+|aggressive = No
+|poisonous = No
+|slaylvl = 1
+|slayxp = 129.4
+|slayercat = Trolls
+|max_melee = 20.0
+|max_ranged = 0.0
+|max_magic = 0.0
+|max_necromancy = 0.0
+|max_spec =
+|style = Melee
+|primarystyle = Melee
+|speed = 4
+|attack = 1
+|ranged = 1
+|magic = 1
+|necromancy = 1
+|acc_melee = 10
+|acc_ranged = 0
+|acc_magic = 0
+|acc_necromancy = 0
+|abilities =
+|armour = 110
+|defence = 1
+|weakness = Necromancy
+|susceptibility =
+|aff_weakness = 90
+|aff_melee = 60
+|aff_ranged = 50
+|aff_magic = 70
+|immune_to_poison = No
+|immune_to_deflect =
+|immune_to_stun =
+|immune_to_drain =
+|restriction = Quest
+|id = 30260
+}}
+'''Ghost troll brute''' is a [[monster]] that, together with a [[ghost troll lout]], must be killed during the [[Necromancy!]] tutorial quest by using [[Necromancy]].
+
+They both should pose no great challenge for any player.
+
+==Drops==
+===Tertiary drops===
+{{DropsTableHead}}
+{{DropsLineSpiritGems}}
+{{DropsLine|name=Deathstorm drape|quantity=1}}
+{{DropsTableBottom}}
+
+==Update history==
+{{UH|
+* {{UL|type=update|update=Patch Notes: Part 2 - Combat Style Modernisation|date=2 March 2026}}
+** Default base hit chances increased:
+*** Magic ('weak'): 65 → 70
+*** Melee ('same'): 55 → 60
+*** Ranged ('strong'): 45 → 50
+
+* {{UL|type=update|update = New Skill: Necromancy - This Week In RuneScape|date=7 August 2023}}
+** Added to game.
+}}
+
+{{Necromancy!}}
+{{Trolls}}
+{{Ghost}}
+[[pt:Troll brutamontes fantasma]]
